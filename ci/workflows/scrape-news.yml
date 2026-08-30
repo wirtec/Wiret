@@ -1,0 +1,118 @@
+name: Scrape Google News
+
+on:
+  schedule:
+    # Every hour, at minute 0 (UTC). GitHub may delay cron on busy periods.
+    - cron: "0 * * * *"
+  workflow_dispatch:
+    inputs:
+      max_items:
+        description: "How many feed items to scrape (0 = all)"
+        required: false
+        default: "25"
+      refresh:
+        description: "Re-scrape items already stored in news.json"
+        type: boolean
+        required: false
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - "main.py"
+      - "scraper/**"
+      - "requirements.txt"
+      - ".github/workflows/scrape-news.yml"
+
+# Never let two runs write news.json at the same time.
+concurrency:
+  group: scrape-news
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    env:
+      FEED_URL: "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en"
+      OUTPUT_FILE: news.json
+      MAX_ITEMS: ${{ github.event.inputs.max_items || '25' }}
+      MAX_STORED: "500"
+      WORKERS: "6"
+      TIMEOUT: "25"
+      RETRIES: "3"
+      REFRESH_EXISTING: ${{ github.event.inputs.refresh || 'false' }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python main.py
+
+      - name: Show summary
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          with open("news.json", encoding="utf-8") as fh:
+              data = json.load(fh)
+          stats = data.get("stats", {})
+          print("### Google News scrape\n")
+          print(f"- generated_at: `{data.get('generated_at')}`")
+          print(f"- total stored articles: **{data.get('count')}**")
+          for key, value in stats.items():
+              print(f"- {key}: {value}")
+          print("\n| status | words | images | source | title |")
+          print("| --- | --- | --- | --- | --- |")
+          for item in data.get("articles", [])[:15]:
+              title = str(item.get("title", ""))[:70].replace("|", "-")
+              print(
+                  f"| {item.get('status')} | {item.get('word_count', 0)} "
+                  f"| {item.get('image_count', 0)} | {item.get('header', '')} | {title} |"
+              )
+          PY
+
+      - name: Commit news.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- news.json; then
+            echo "news.json unchanged - nothing to commit."
+            exit 0
+          fi
+          git add news.json
+          git commit -m "chore(data): hourly Google News scrape [skip ci]"
+          # Another hourly run may have pushed meanwhile: rebase and retry.
+          for attempt in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              echo "pushed on attempt ${attempt}"
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "::error::could not push news.json"
+          exit 1
+
+      - name: Upload artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: news-json
+          path: news.json
+          if-no-files-found: warn
