@@ -1,17 +1,233 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-08-30T20:30:14Z",
-  "count": 73,
+  "generated_at": "2026-08-30T23:06:43Z",
+  "count": 81,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 14,
-    "added": 10,
+    "scraped_now": 12,
+    "added": 8,
     "updated": 4,
-    "ok": 53,
-    "failed": 20,
-    "duration_seconds": 103.54
+    "ok": 58,
+    "failed": 23,
+    "duration_seconds": 5.2
   },
   "articles": [
+    {
+      "id": "bc3cb2d7a4881da8",
+      "title": "WMATA rolls out new safety technology on buses",
+      "header": "WUSA9",
+      "published_at": "2026-08-30T22:48:00Z",
+      "published_raw": "Sun, 30 Aug 2026 22:48:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVDF2OUZ4QTU5QTRvSGZvU2hJMVBGclEtZ3BPSGUzY1FGSHJKSlZLUGdMcjJyenJqczk3cmNDSzFxU2RPU2hGMkIxVDZaVWNGQXFSdE95ZzZ0a0hMWmxKOW84c0d0cDR5dm5hUHdLUTV0U1hBRFNuVnkxaVZKQzUxYjk2eE1SUm9Bd283SlliUFlHc1gwLWVrTTFpazBVeFd5YVpMNWxTcUhlS1Y5MXJTZHltOUZhRVZtYXBoZXJrT3Y0X1V4NTJhYUNGNHdfYlFRZGc?oc=5",
+      "description": "WMATA rolls out new safety technology on buses WUSA9",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVDF2OUZ4QTU5QTRvSGZvU2hJMVBGclEtZ3BPSGUzY1FGSHJKSlZLUGdMcjJyenJqczk3cmNDSzFxU2RPU2hGMkIxVDZaVWNGQXFSdE95ZzZ0a0hMWmxKOW84c0d0cDR5dm5hUHdLUTV0U1hBRFNuVnkxaVZKQzUxYjk2eE1SUm9Bd283SlliUFlHc1gwLWVrTTFpazBVeFd5YVpMNWxTcUhlS1Y5MXJTZHltOUZhRVZtYXBoZXJrT3Y0X1V4NTJhYUNGNHdfYlFRZGc?oc=5\" target=\"_blank\">WMATA rolls out new safety technology on buses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WUSA9</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVDF2OUZ4QTU5QTRvSGZvU2hJMVBGclEtZ3BPSGUzY1FGSHJKSlZLUGdMcjJyenJqczk3cmNDSzFxU2RPU2hGMkIxVDZaVWNGQXFSdE95ZzZ0a0hMWmxKOW84c0d0cDR5dm5hUHdLUTV0U1hBRFNuVnkxaVZKQzUxYjk2eE1SUm9Bd283SlliUFlHc1gwLWVrTTFpazBVeFd5YVpMNWxTcUhlS1Y5MXJTZHltOUZhRVZtYXBoZXJrT3Y0X1V4NTJhYUNGNHdfYlFRZGc?oc=5"
+      ],
+      "scraped_at": "2026-08-30T23:06:40Z",
+      "url": "https://www.wusa9.com/video/traffic/mission-metro/wmata-rolls-out-new-safety-technology-on-buses/65-478fe497-097d-4bfe-a189-ad0129eb3785",
+      "final_url": "https://www.wusa9.com/video/traffic/mission-metro/wmata-rolls-out-new-safety-technology-on-buses/65-478fe497-097d-4bfe-a189-ad0129eb3785",
+      "source": "WUSA9",
+      "article_title": "",
+      "heading": "WMATA rolls out new safety technology on buses",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "WMATA rolls out new safety technology on buses WUSA9",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-08-30T23:06:40Z"
+    },
+    {
+      "id": "787d28bff258e766",
+      "title": "Northwestern Ontario Works brings new technology to job listings",
+      "header": "Northwest Ontario News",
+      "published_at": "2026-08-30T22:27:10Z",
+      "published_raw": "Sun, 30 Aug 2026 22:27:10 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODRYWGJ2NmwxRTV5NnFYVFRwV2lvM3ZuOWtlQXZRSlhHanNaMlZvaGpHeWJWYUpqYkZwbWFRT3dEMno1Q3lBOVUxZXo4R3Z0R2dJR3QzcVgzRmhWZjR1NTNheFpyUjRydDNLTnNUTFpsLTE3WHN1NWpXSC0zNlJiWkk2X1RCTEFMbHpzV2JYZjc4WVE3Mnl2VVBoUG10Tm9pa055ZlFkeTA5S3NwdFNEOFpCaw?oc=5",
+      "description": "Northwestern Ontario Works brings new technology to job listings Northwest Ontario News",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQODRYWGJ2NmwxRTV5NnFYVFRwV2lvM3ZuOWtlQXZRSlhHanNaMlZvaGpHeWJWYUpqYkZwbWFRT3dEMno1Q3lBOVUxZXo4R3Z0R2dJR3QzcVgzRmhWZjR1NTNheFpyUjRydDNLTnNUTFpsLTE3WHN1NWpXSC0zNlJiWkk2X1RCTEFMbHpzV2JYZjc4WVE3Mnl2VVBoUG10Tm9pa055ZlFkeTA5S3NwdFNEOFpCaw?oc=5\" target=\"_blank\">Northwestern Ontario Works brings new technology to job listings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northwest Ontario News</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODRYWGJ2NmwxRTV5NnFYVFRwV2lvM3ZuOWtlQXZRSlhHanNaMlZvaGpHeWJWYUpqYkZwbWFRT3dEMno1Q3lBOVUxZXo4R3Z0R2dJR3QzcVgzRmhWZjR1NTNheFpyUjRydDNLTnNUTFpsLTE3WHN1NWpXSC0zNlJiWkk2X1RCTEFMbHpzV2JYZjc4WVE3Mnl2VVBoUG10Tm9pa055ZlFkeTA5S3NwdFNEOFpCaw?oc=5"
+      ],
+      "scraped_at": "2026-08-30T23:06:40Z",
+      "url": "https://www.nwonewswatch.com/local-news/northwestern-ontario-works-brings-new-technology-to-job-listings-12715293",
+      "final_url": "https://www.nwonewswatch.com/local-news/northwestern-ontario-works-brings-new-technology-to-job-listings-12715293",
+      "source": "NWONewsWatch.com",
+      "article_title": "Northwestern Ontario Works brings new technology to job listings",
+      "heading": "Northwestern Ontario Works brings new technology to job listings",
+      "authors": [
+        "Graham Strong for Northern Ontario Business"
+      ],
+      "article_published_at": "2026-08-30T22:23:14Z",
+      "article_modified_at": "2026-08-30T22:23:14Z",
+      "summary": "Portal aims to connect job seekers with employers throughout Northwestern Ontario",
+      "content": "ATIKOKAN — Even those who have never been on dating apps understand that “swipe right” means a match. Although not an apples-to-apples comparison, the dating app analogy gives you some idea of the power of the new Northwestern Ontario Works (NOW) platform.\nSpearheaded by the Atikokan Economic Development Corporation (AEDC) and developed through a partnership with Magnet, NOW is part job board and part employment matchmaking service, connecting qualified job seekers with real, existing jobs.\nThe initiative first launched in April.\nGarry McKinnon, AEDC executive director, said that the program isn’t an Atikokan-only initiative. The AEDC through NOW is engaging service providers and employers across Northwestern Ontario.\n“Our belief is that the traditional job boards that are out there are not necessarily effective,” McKinnon said. “Lots of times, they’re not kept up to date. People will post jobs, and when they’re filled, they don’t pull them down.”\nGhost jobs and blanket applications also overwhelm systems and slow down the hiring process.\n“We’re hoping that we can make it much more effective and satisfying for the employer and the job seeker.”\nMcKinnon said that AEDC community development advisor Alex Bakal is one of the keys to the program’s successful launch. Bakal, a recent immigrant to Atikokan himself, said he’s finding that connecting job seekers with employers may be contributing to the labour shortage in Northwestern Ontario. Part of NOW's goal is to address this challenge.\n“We continue to see people looking for employment while employers continue to report open positions,” Bakal said. “That suggests to me that something in the connection between the two sides is not working as effectively as it should.”\nThe NOW job board/matchmaking service is run on a software platform called Magnet, “housed” at Toronto Metropolitan University (TMU). According to its website, “Magnet is a Centre of Innovation Focused on the Future of Work.”\nThe system itself is straightforward. Job seekers sign up on the platform not just by submitting their résumés as they would usually do, but also by answering a series of questions including where they want to work, what fields they’re interested in, what languages they speak, etc. There is also an option to self-declare as Indigenous, a newcomer to Canada, a member of a visible minority, or other group.\nEmployers register and answer their own set of questions to find the right applicants. There aren’t any costs for employees or employers to join NOW.\nAfter registering, job seekers can search jobs like a normal job board. But one of the strengths of the system is that it’s designed to send job opportunities that fit their profile, which Bakal and McKinnon both believe is the real difference from old job boards.\nAnother advantage of the Magnet network is that it’s connected to opportunities across Canada. Job seekers from elsewhere are more likely to see and investigate jobs in Northwestern Ontario, and regional employers can cast a wider net.\nJob seekers submit their résumés to the jobs that appeal to them. Not quite “swiping right” — but similar.\nBakal said that the Magnet software is the engine, but what makes the program work are the people.\n“The platform is just a tool,” Bakal said.\nBakal said that NOW already has five employment partners and over 160 registered job seekers.\n“We expect it to grow, hopefully exponentially,” McKinnon said. “We have a longstanding relationship with Magnet, ACCES Employment, and the Newcomer Centre of Peel, and they are actively engaged with us as well.\nConnecting these networks helps centralize and streamline job searches for the labour market as a whole and enable each individual agency to leverage benefits of scale.\nFor example, a webinar on July 29 hosted by the Newcomer Centre of Peel featured opportunities in Northwestern Ontario, touting the advantages of living in Northern Ontario and providing overviews of some available positions.\nAnd, unlike regular job boards, NOW and the Magnet network are connected to other supports for job seekers. This is particularly important for new Canadians applying for a social insurance number, learning English or French, or in need of other services and support.\nIn other words, NOW is part of a larger system that helps prepare job seekers for employers, not just connect them with jobs.\nBakal knows the difficulties newcomers face firsthand. His family straddles the border between Moldova and southwestern Ukraine. He moved to Dublin before the Ukraine war started, immigrated to Canada landing in Winnipeg, moved to Toronto, and finally settled in Atikokan. He used many of those same services himself including the Newcomer Centre of Peel.\nSo what brought him to Atikokan?\n“A taste for adventure,” Bakal said. He was one of about 100 Ukrainians moving to Atikokan. He worked with Resolute Forest Products Atikokan (now Domtar), the municipality, and Newcomer Centre of Peel to help newcomers integrate in Canada in general and Atikokan in particular.\nHe said that now, in his position at the AEDC, they’re trying to copy that model on a bigger scale: “More providers who bring people, more service providers who support them, and more employers.”\nEncouraging employers to register in the NOW/Magnet system is the bottleneck at the moment.\n“It’s human nature — resistance to change,” McKinnon said, when asked about the hesitancy. “I think as we start to achieve some wins and make those matches and generate employees for employers, the word will get out. It will be very impactful for Northwestern Ontario.”",
+      "content_html": "<html>\n  <body><p>ATIKOKAN — Even those who have never been on dating apps understand that “swipe right” means a match. Although not an apples-to-apples comparison, the dating app analogy gives you some idea of the power of the new Northwestern Ontario Works (NOW) platform.</p><p>Spearheaded by the Atikokan Economic Development Corporation (AEDC) and developed through a partnership with Magnet, NOW is part job board and part employment matchmaking service, connecting qualified job seekers with real, existing jobs.</p><p>The initiative first launched in April.</p><p>Garry McKinnon, AEDC executive director, said that the program isn’t an Atikokan-only initiative. The AEDC through NOW is engaging service providers and employers across Northwestern Ontario.</p><p>“Our belief is that the traditional job boards that are out there are not necessarily effective,” McKinnon said. “Lots of times, they’re not kept up to date. People will post jobs, and when they’re filled, they don’t pull them down.”</p><p>Ghost jobs and blanket applications also overwhelm systems and slow down the hiring process.</p><p>“We’re hoping that we can make it much more effective and satisfying for the employer and the job seeker.”​</p><img src=\"https://www.vmcdn.ca/f/files/nob/uploadedImages/Regional-News/northwestern-ontario/2026-08-06-northwestern-ontario-works-supplied.jpg;w=960\" alt=\"2026-08-06-northwestern-ontario-works-supplied\"/>\n<p>​McKinnon said that AEDC community development advisor Alex Bakal is one of the keys to the program’s successful launch. Bakal, a recent immigrant to Atikokan himself, said he’s finding that connecting job seekers with employers may be contributing to the labour shortage in Northwestern Ontario. Part of NOW's goal is to address this challenge.</p><p>“We continue to see people looking for employment while employers continue to report open positions,” Bakal said. “That suggests to me that something in the connection between the two sides is not working as effectively as it should.”</p><p>The NOW job board/matchmaking service is run on a software platform called Magnet, “housed” at Toronto Metropolitan University (TMU). According to its website, “Magnet is a Centre of Innovation Focused on the Future of Work.”</p><p>The system itself is straightforward. Job seekers sign up on the platform not just by submitting their résumés as they would usually do, but also by answering a series of questions including where they want to work, what fields they’re interested in, what languages they speak, etc. There is also an option to self-declare as Indigenous, a newcomer to Canada, a member of a visible minority, or other group.</p><p>Employers register and answer their own set of questions to find the right applicants. There aren’t any costs for employees or employers to join NOW.</p><p>After registering, job seekers can search jobs like a normal job board. But one of the strengths of the system is that it’s designed to send job opportunities that fit their profile, which Bakal and McKinnon both believe is the real difference from old job boards.</p><p>Another advantage of the Magnet network is that it’s connected to opportunities across Canada. Job seekers from elsewhere are more likely to see and investigate jobs in Northwestern Ontario, and regional employers can cast a wider net.</p><p>Job seekers submit their résumés to the jobs that appeal to them. Not quite “swiping right” — but similar.</p><p>Bakal said that the Magnet software is the engine, but what makes the program work are the people.</p><p>“The platform is just a tool,” Bakal said.</p><p>Bakal said that NOW already has five employment partners and over 160 registered job seekers.</p><p>“We expect it to grow, hopefully exponentially,” McKinnon said. “We have a longstanding relationship with Magnet, ACCES Employment, and the Newcomer Centre of Peel, and they are actively engaged with us as well.</p><p>Connecting these networks helps centralize and streamline job searches for the labour market as a whole and enable each individual agency to leverage benefits of scale.</p><p>For example, a webinar on July 29 hosted by the Newcomer Centre of Peel featured opportunities in Northwestern Ontario, touting the advantages of living in Northern Ontario and providing overviews of some available positions.</p><p>And, unlike regular job boards, NOW and the Magnet network are connected to other supports for job seekers. This is particularly important for new Canadians applying for a social insurance number, learning English or French, or in need of other services and support.</p><p>In other words, NOW is part of a larger system that helps prepare job seekers for employers, not just connect them with jobs.</p><img src=\"https://www.vmcdn.ca/f/files/nob/uploadedImages/Regional-News/northwestern-ontario/2026-08-06-atikokan-economic-development-supplied.jpg;w=960\" alt=\"2026-08-06-atikokan-economic-development-supplied\"/>\n<p>Bakal knows the difficulties newcomers face firsthand. His family straddles the border between Moldova and southwestern Ukraine. He moved to Dublin before the Ukraine war started, immigrated to Canada landing in Winnipeg, moved to Toronto, and finally settled in Atikokan. He used many of those same services himself including the Newcomer Centre of Peel.</p><p>So what brought him to Atikokan?</p><p>“A taste for adventure,” Bakal said. He was one of about 100 Ukrainians moving to Atikokan. He worked with Resolute Forest Products Atikokan (now Domtar), the municipality, and Newcomer Centre of Peel to help newcomers integrate in Canada in general and Atikokan in particular.</p><p>He said that now, in his position at the AEDC, they’re trying to copy that model on a bigger scale: “More providers who bring people, more service providers who support them, and more employers.”</p><p>Encouraging employers to register in the NOW/Magnet system is the bottleneck at the moment.</p><p>“It’s human nature — resistance to change,” McKinnon said, when asked about the hesitancy. “I think as we start to achieve some wins and make those matches and generate employees for employers, the word will get out. It will be very impactful for Northwestern Ontario.”</p></body>\n</html>",
+      "word_count": 900,
+      "char_count": 5594,
+      "lead_image": "https://www.vmcdn.ca/f/files/nob/uploadedImages/Regional-News/northwestern-ontario/2026-08-06-alex-bakal-atikokan-economic-development.jpg;w=960;h=640;mode=crop",
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/nob/uploadedImages/Regional-News/northwestern-ontario/2026-08-06-alex-bakal-atikokan-economic-development.jpg;w=960;h=640;mode=crop",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://www.vmcdn.ca/f/files/nob/uploadedImages/Regional-News/northwestern-ontario/2026-08-06-alex-bakal-atikokan-economic-development.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://www.vmcdn.ca/f/files/nob/uploadedImages/Regional-News/northwestern-ontario/2026-08-06-northwestern-ontario-works-supplied.jpg;w=960",
+          "alt": "2026-08-06-northwestern-ontario-works-supplied",
+          "caption": "An example of AEDC’s marketing campaign for the Northwestern Ontario Works platform. Photo in graphic by Alan Poelman. Atikokan Economic Development/Supplied",
+          "role": "body"
+        },
+        {
+          "url": "https://www.vmcdn.ca/f/files/nob/uploadedImages/Regional-News/northwestern-ontario/2026-08-06-atikokan-economic-development-supplied.jpg;w=960",
+          "alt": "2026-08-06-atikokan-economic-development-supplied",
+          "caption": "The Atikokan Employment Centre team. The new AEDC Northwestern Ontario Works (NOW) platform connects active job seekers with real, existing jobs throughout Northwestern Ontario. Atikokan Economic Development/Supplied",
+          "role": "body"
+        }
+      ],
+      "image_count": 4,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-08-30T23:06:40Z"
+    },
+    {
+      "id": "a665717bd3ad9576",
+      "title": "‘We’re in the age of The Jetsons’: How advanced aviation technology will change lives",
+      "header": "Fort Worth Report",
+      "published_at": "2026-08-30T22:00:00Z",
+      "published_raw": "Sun, 30 Aug 2026 22:00:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYzN3b1Q5dEwzRk1YaWcwTUN3ci1xUDZYVnV0ZFlVak9VX0djdzBqRkZHay1rTWpCR3RkblNmZVpMNkZzcW9nNlVMZ081UjYtdWRkSlVUU3dHdFVROGZJQm1tUUszeUxFeWhfTjl4cmNKMmdHbGoxVFRxZGtyRHhPUnpYRHRSUDI4aE1PY0Y0ZjBQYzdfeWNqaF80VDBIeGZIU2FMaTdBTXhtQlViYzFZUWNrbzF6b0lpUnBxNEpR?oc=5",
+      "description": "‘We’re in the age of The Jetsons’: How advanced aviation technology will change lives Fort Worth Report",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNYzN3b1Q5dEwzRk1YaWcwTUN3ci1xUDZYVnV0ZFlVak9VX0djdzBqRkZHay1rTWpCR3RkblNmZVpMNkZzcW9nNlVMZ081UjYtdWRkSlVUU3dHdFVROGZJQm1tUUszeUxFeWhfTjl4cmNKMmdHbGoxVFRxZGtyRHhPUnpYRHRSUDI4aE1PY0Y0ZjBQYzdfeWNqaF80VDBIeGZIU2FMaTdBTXhtQlViYzFZUWNrbzF6b0lpUnBxNEpR?oc=5\" target=\"_blank\">‘We’re in the age of The Jetsons’: How advanced aviation technology will change lives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fort Worth Report</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYzN3b1Q5dEwzRk1YaWcwTUN3ci1xUDZYVnV0ZFlVak9VX0djdzBqRkZHay1rTWpCR3RkblNmZVpMNkZzcW9nNlVMZ081UjYtdWRkSlVUU3dHdFVROGZJQm1tUUszeUxFeWhfTjl4cmNKMmdHbGoxVFRxZGtyRHhPUnpYRHRSUDI4aE1PY0Y0ZjBQYzdfeWNqaF80VDBIeGZIU2FMaTdBTXhtQlViYzFZUWNrbzF6b0lpUnBxNEpR?oc=5"
+      ],
+      "scraped_at": "2026-08-30T23:06:39Z",
+      "url": "https://fortworthreport.org/2026/08/30/were-in-the-age-of-the-jetsons-how-advanced-aviation-technology-will-change-lives/",
+      "final_url": "https://fortworthreport.org/2026/08/30/were-in-the-age-of-the-jetsons-how-advanced-aviation-technology-will-change-lives/",
+      "source": "Fort Worth Report",
+      "article_title": "‘We’re in the age of The Jetsons’: How advanced aviation technology will change lives",
+      "heading": "‘We’re in the age of The Jetsons’: How advanced aviation technology will change lives",
+      "authors": [
+        "Eric E. Garcia"
+      ],
+      "article_published_at": "2026-08-30T22:00:00+00:00",
+      "article_modified_at": null,
+      "summary": "The future of powered flight was the focus of a Texas A&M-Fort Worth panel at the Kimbell Art Museum.",
+      "content": "Matt Byrd wants aviation companies to fulfill the promise of “The Jetsons” — the 1960s space-age, animated TV show that brought the concept of flying cars into American living rooms.\nAs advanced technology grows rapidly, the futuristic transformation of transportation modes is bringing science fiction closer to science fact, participants at a Texas A&M-Fort Worth aviation panel said Aug. 25 at the Kimbell Art Museum.\n“This is an incredibly exciting time to be alive,” said Byrd, president and CEO of Hillwood Aviation. “I think we’re at an inflection point in aviation.”\nByrd cited American innovation in aviation since Orville and Wilbur Wright had their first controlled flight in December 1903 at Kitty Hawk, North Carolina. By the 1950s, he said, jet-powered flight enabled transatlantic flights from the United States to Europe.\n“Now we’re entering automated, electric or hybrid-electric aviation with drone deliveries and people being able to fly,” Byrd said. “It’s incredibly exciting. And it’s just been a mere 123 years to get to this point. What is the future going to hold?”\nExcellence in innovation is propelling technology forward, prompting governments worldwide to adopt new transportation modes, including autonomous and piloted vertical-lift aircraft.\nPanelists said Fort Worth will benefit from the emerging technology. Educational institutions such as Texas A&M-Fort Worth and Tarrant County College have launched aviation-related workforce programs to keep up with the demand for jobs to service and maintain next-generation aircraft.\nCowtown’s flight path\nNorth Texas became an aviation hub after Fort Worth newspaper publisher Amon G. Carter Sr. offered flight demonstrations eight years after the Wright brothers’ achievement.\nFrench aviator Roland G. Garros, flying a Bleriot XI monoplane, is recorded as the first person to perform a powered flight from Fort Worth on Jan. 11, 1911. Thousands saw the flight at a racetrack known as Fort Worth Driving Park — now the site of Montgomery Plaza off West 7th and Carroll streets. First Flight Park, at 2700 Mercedes Ave. commemorates the historic event and features a replica of Garros’ plane.\nOver the decades, Fort Worth hosted three training fields for World War I pilots, operated as a port for dirigibles or airships in the 1920s, and was the site of a B-24 and B-32 airplane bomber factory during World War II.\nThat facility, known as Air Force Plant 4, now assembles F-35 aircraft produced by Fort Worth-based Lockheed Martin Aeronautics Co.\nIn 2024, North Texas became the first area approved by the Federal Aviation Administration for commercial drone deliveries with Wing Aviation and Zipline as the companies authorized with carrying out the task.\n“North Texas has really been involved in the aviation world for quite some time,” said Dave Martin, a project manager for the Texas A&M system’s Center of Advanced Aviation Technologies.\nIvett Leyva, associate dean for research at Texas A&M-Fort Worth, said North Texas is now known for aviation innovation and leadership.\n“Matt talked about the spirit and leadership our country is known for,” she said. “I think that you can breathe, smell, hear (that) in North Texas. North Texas has that going, plus it has industry.”\nAir taxis\nAlthough flying cars aren’t yet on the horizon, electric and hybrid-electric vertical-lift aircraft — often called air taxis — are coming to North Texas, possibly as soon as 2027, Byrd said.\nPublic acceptance of such aircraft is crucial to their success, panelists said.\n“Air taxis are a lot closer than we believe,” said moderator Albert Bejarano, associate director for the Center for Advanced Aviation Technologies.\nThe initial plan is to have the aircraft fly above highways, Byrd said, with safety being of paramount concern.\n“Vehicles won’t be certified until they are safe,” Byrd said.\nThe noise generated by electric and hybrid aircraft is relatively low — about 45 decibels, which Byrd likened to “a soothing sound like wind blowing through the trees.”\nCosts for air taxis will be based on a $3 per mile rate. North Texas passengers will soon be able to use the vertical-lift technology to reach Dallas Fort Worth International Airport at a cost of about $100 to “avoid all the traffic,” he said.\nByrd said he expects younger generations to use the aircraft without hesitation.\n“The future is here,” he said. “It’s very, very exciting.”\nThe need for aviation-related mechanics, air traffic controllers and other skilled workers will help North Texas develop its workforce. Leyva referenced a significant shortage of air traffic controllers.\nDeveloping a workforce of skilled workers will help North Texas “secure our place in the history of this inflection point,” Byrd said.\nTo maintain electric aircraft, the country will need to mine for rare earth minerals in new areas, he added.\nLeyva added that work is ongoing to develop biodegradable batteries.\nMeanwhile, Byrd said public acceptance of vertical-lift aircraft will take time.\n“If they don’t perform, no one’s going to fly them,” he said.\nEric E. Garcia is senior business reporter at the Fort Worth Report. Contact him at eric.garcia@fortworthreport.org.\nAt the Report, news decisions are made independently of our board members and financial supporters. Read more about our editorial independence policy here.",
+      "content_html": "<html>\n  <body>\n    <p>Matt Byrd wants aviation companies to fulfill the promise of “The Jetsons” — the 1960s space-age, animated TV show that brought the concept of flying cars into American living rooms.</p>\n    <p>As advanced technology grows rapidly, the futuristic transformation of transportation modes is bringing science fiction closer to science fact, participants at a Texas A&amp;M-Fort Worth aviation panel said Aug. 25 at the Kimbell Art Museum.</p>\n    <p>“This is an incredibly exciting time to be alive,” said Byrd, president and CEO of Hillwood Aviation. “I think we’re at an inflection point in aviation.”</p>\n    <p>Byrd cited American innovation in aviation since Orville and Wilbur Wright had their first controlled flight in December 1903 at Kitty Hawk, North Carolina. By the 1950s, he said, jet-powered flight enabled transatlantic flights from the United States to Europe.</p>\n    <p>“Now we’re entering automated, electric or hybrid-electric aviation with drone deliveries and people being able to fly,” Byrd said. “It’s incredibly exciting. And it’s just been a mere 123 years to get to this point. What is the future going to hold?”</p>\n    <p>Excellence in innovation is propelling technology forward, prompting governments worldwide to adopt new transportation modes, including autonomous and piloted vertical-lift aircraft.</p>\n    <p>Panelists said Fort Worth will benefit from the emerging technology. Educational institutions such as Texas A&amp;M-Fort Worth and Tarrant County College have launched aviation-related workforce programs to keep up with the demand for jobs to service and maintain next-generation aircraft.</p>\n    <h3>Cowtown’s flight path</h3>\n    <p>North Texas became an aviation hub after Fort Worth newspaper publisher Amon G. Carter Sr. offered flight demonstrations eight years after the Wright brothers’ achievement.</p>\n    <p>French aviator Roland G. Garros, flying a Bleriot XI monoplane, is recorded as the first person to perform a powered flight from Fort Worth on Jan. 11, 1911. Thousands saw the flight at a racetrack known as Fort Worth Driving Park — now the site of Montgomery Plaza off West 7th and Carroll streets. First Flight Park, at 2700 Mercedes Ave. commemorates the historic event and features a replica of Garros’ plane.</p>\n    <p>Over the decades, Fort Worth hosted three training fields for World War I pilots, operated as a port for dirigibles or airships in the 1920s, and was the site of a B-24 and B-32 airplane bomber factory during World War II.</p>\n    <p>That facility, known as Air Force Plant 4, now assembles F-35 aircraft produced by Fort Worth-based Lockheed Martin Aeronautics Co.</p>\n    <p>In 2024, North Texas became the first area approved by the Federal Aviation Administration for commercial drone deliveries with Wing Aviation and Zipline as the companies authorized with carrying out the task.</p>\n    <p>“North Texas has really been involved in the aviation world for quite some time,” said Dave Martin, a project manager for the Texas A&amp;M system’s Center of Advanced Aviation Technologies.</p>\n    <p>Ivett Leyva, associate dean for research at Texas A&amp;M-Fort Worth, said North Texas is now known for aviation innovation and leadership.</p>\n    <p>“Matt talked about the spirit and leadership our country is known for,” she said. “I think that you can breathe, smell, hear (that) in North Texas. North Texas has that going, plus it has industry.”</p>\n    <img src=\"https://i0.wp.com/fortworthreport.org/wp-content/uploads/2024/10/TriFan-600-.jpeg?resize=1024%2C693&amp;ssl=1\"/>\n    <h3>Air taxis</h3>\n    <p>Although flying cars aren’t yet on the horizon, electric and hybrid-electric vertical-lift aircraft — often called air taxis — are coming to North Texas, possibly as soon as 2027, Byrd said.</p>\n    <p>Public acceptance of such aircraft is crucial to their success, panelists said.</p>\n    <p>“Air taxis are a lot closer than we believe,” said moderator Albert Bejarano, associate director for the Center for Advanced Aviation Technologies.</p>\n    <p>The initial plan is to have the aircraft fly above highways, Byrd said, with safety being of paramount concern.</p>\n    <p>“Vehicles won’t be certified until they are safe,” Byrd said.</p>\n    <p>The noise generated by electric and hybrid aircraft is relatively low — about 45 decibels, which Byrd likened to “a soothing sound like wind blowing through the trees.”</p>\n    <p>Costs for air taxis will be based on a $3 per mile rate. North Texas passengers will soon be able to use the vertical-lift technology to reach Dallas Fort Worth International Airport at a cost of about $100 to “avoid all the traffic,” he said.</p>\n    <p>Byrd said he expects younger generations to use the aircraft without hesitation.</p>\n    <p>“The future is here,” he said. “It’s very, very exciting.”</p>\n    <p>The need for aviation-related mechanics, air traffic controllers and other skilled workers will help North Texas develop its workforce. Leyva referenced a significant shortage of air traffic controllers.</p>\n    <p>Developing a workforce of skilled workers will help North Texas “secure our place in the history of this inflection point,” Byrd said.</p>\n    <p>To maintain electric aircraft, the country will need to mine for rare earth minerals in new areas, he added.</p>\n    <p>Leyva added that work is ongoing to develop biodegradable batteries.</p>\n    <p>Meanwhile, Byrd said public acceptance of vertical-lift aircraft will take time.</p>\n    <p>“If they don’t perform, no one’s going to fly them,” he said.</p>\n    <p>Eric E. Garcia is senior business reporter at the Fort Worth Report. Contact him at eric.garcia@fortworthreport.org.</p>\n    <p>At the Report, news decisions are made independently of our board members and financial supporters. Read more about our editorial independence policy here.</p>\n  </body>\n</html>",
+      "word_count": 845,
+      "char_count": 5343,
+      "lead_image": "https://i0.wp.com/fortworthreport.org/wp-content/uploads/2026/08/50896.jpeg?fit=1008%2C756&ssl=1",
+      "images": [
+        {
+          "url": "https://i0.wp.com/fortworthreport.org/wp-content/uploads/2026/08/50896.jpeg?fit=1008%2C756&ssl=1",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-08-30T23:06:39Z"
+    },
+    {
+      "id": "31e1218118a87d13",
+      "title": "Visualizing Jonny DeLuca's swing using bat tracking technology",
+      "header": "MLB.com",
+      "published_at": "2026-08-30T21:04:01Z",
+      "published_raw": "Sun, 30 Aug 2026 21:04:01 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVkZNMEwzUmNJRDB2UnJvNGg4cnMyZ0xLa2p0d3FyemJPUG9XYW1ib1JZLTcyTG1wbGNaalhSUlczNEVxYzNiTTdOZkMyZjI5WnZZeVk3VGVoUkdCckhReFl3eWZVdFlmRDNBanotWjg5dklTUHpndUdnRVRGSWc2NGNFUUgxWU0zRGpFOWpsMjBMN2tCN3B0dA?oc=5",
+      "description": "Visualizing Jonny DeLuca's swing using bat tracking technology MLB.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPVkZNMEwzUmNJRDB2UnJvNGg4cnMyZ0xLa2p0d3FyemJPUG9XYW1ib1JZLTcyTG1wbGNaalhSUlczNEVxYzNiTTdOZkMyZjI5WnZZeVk3VGVoUkdCckhReFl3eWZVdFlmRDNBanotWjg5dklTUHpndUdnRVRGSWc2NGNFUUgxWU0zRGpFOWpsMjBMN2tCN3B0dA?oc=5\" target=\"_blank\">Visualizing Jonny DeLuca's swing using bat tracking technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLB.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVkZNMEwzUmNJRDB2UnJvNGg4cnMyZ0xLa2p0d3FyemJPUG9XYW1ib1JZLTcyTG1wbGNaalhSUlczNEVxYzNiTTdOZkMyZjI5WnZZeVk3VGVoUkdCckhReFl3eWZVdFlmRDNBanotWjg5dklTUHpndUdnRVRGSWc2NGNFUUgxWU0zRGpFOWpsMjBMN2tCN3B0dA?oc=5"
+      ],
+      "scraped_at": "2026-08-30T23:06:39Z",
+      "url": "https://www.mlb.com/rays/video/visualizing-jonny-deluca-s-swing-using-bat-tracking-technology",
+      "final_url": "https://www.mlb.com/rays/video/visualizing-jonny-deluca-s-swing-using-bat-tracking-technology",
+      "source": "MLB.com",
+      "article_title": "Visualizing Jonny DeLuca's swing using bat tracking technology | 08/30/2026",
+      "heading": "Visualizing Jonny DeLuca's swing using bat tracking technology",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "The data behind Jonny DeLuca's swing",
+      "content": "Tickets\nSeason Memberships\nSingle-Game Tickets\nFan's Choice Plan\nSuites\nGroup Tickets\nParty Areas\nAll-Inclusive MaintenX SkyDeck\nPremium Seating\nTicket Packages\nTarps Off Territory\nRays Rush Tickets\nSalute to Service\nGolden Rays\nStudent Tickets\nBack to School Special\nGiveaways\nRequest an Appointment\nRays Ticket Account\nBuy & Sell Tickets on SeatGeek\nNew Ballpark\nSchedule\nRegular Season Schedule\n2027 Regular Season Schedule\nPromotional Schedule\nDownloadable Schedule\nPrintable Schedule\nBroadcast Schedule\nHow to Watch\nMLB Events\nScores\nStats\nTeam Stats\nTop Rookies Stats\nRoster\n40-Man Roster\nDepth Chart\nCoaches\nTop 30 Prospects\nTransactions\nFront Office\nStarting Lineups\nPlayer Search\nMinor League Affiliates\nVideo\nRays on Demand\nMost Popular\nRays Cut4\nRays Game Recap\nRays YouTube\nRays Podcasts\nMLB Network\nNews\nOfficial Releases\nProbable Pitchers\nGame Notes\nRays Pipeline\nRSS News Feed\nRays History\nRays History Feature Stories\nMLB News\nTropicana Field\nParking\nA-to-Z Guide\nSeating Map\nSafety & Security\nGetting to Tropicana Field\nNetting\nConcourse Map\nBay Republic Team Store\nPlaces to Stay\nCharlotte Sports Park\nCommunity\nHurricane Relief\nApply for a Grant\nMilitary Salute Nominations\nFundraising\nHelp Make a Difference\nPlay Ball\nJackie Robinson Grant\nBilly Bean Scholarship\n50/50 Charity Raffle\nMLB Together\nFans\nWebull Partnership\nRays City Connect\nRegister for Rays Newsletter\nBack In the Burg\nRaymond & Friends\nRays Gaming\nRays Radio\nRays Watch Parties\nRays Podcasts\nRays Bar League\nHall of Fame\nRays Fan Fest\nRays Rookies\nRays Yearbook\nStandings\nApps\nMLB\nMLB Ballpark\nMLB Play\nMiLB\nMLB FAQs\nMLB Ballpark FAQs\nMLB Play FAQs\nMembers\nRays.TV\nBuy Rays.TV\nHow to Watch Rays Games\nAuthenticate\nHelp Center\nShop\nJerseys\nCaps\nMen's\nWomen's\nKids\nBig &Tall\nTrading Cards\nCollectibles & Memorabilia\nHome & Office\nClearance\nEuropean Shop\nGift Certificates\nRays Authentics Shop\nRays Auctions - Bid or Buy\nMLB Auctions - Bid or Buy\nMLB Authentication\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nEspañol\nLog in\nChannels\nReels\nVisualizing Jonny DeLuca's swing using bat tracking technology\nPadres @ Rays\nAugust 30, 2026 | 00:00:11\nReels\nShare\nThe data behind Jonny DeLuca's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nJonny Deluca\nTampa Bay Rays",
+      "content_html": "<html>\n  <body>\n    <p>Tickets\nSeason Memberships\nSingle-Game Tickets\nFan's Choice Plan\nSuites\nGroup Tickets\nParty Areas\nAll-Inclusive MaintenX SkyDeck\nPremium Seating\nTicket Packages\nTarps Off Territory\nRays Rush Tickets\nSalute to Service\nGolden Rays\nStudent Tickets\nBack to School Special\nGiveaways\nRequest an Appointment\nRays Ticket Account\nBuy &amp; Sell Tickets on SeatGeek\nNew Ballpark\nSchedule\nRegular Season Schedule\n2027 Regular Season Schedule\nPromotional Schedule\nDownloadable Schedule\nPrintable Schedule\nBroadcast Schedule\nHow to Watch\nMLB Events\nScores\nStats\nTeam Stats\nTop Rookies Stats\nRoster\n40-Man Roster\nDepth Chart\nCoaches\nTop 30 Prospects\nTransactions\nFront Office\nStarting Lineups\nPlayer Search\nMinor League Affiliates\nVideo\nRays on Demand\nMost Popular\nRays Cut4\nRays Game Recap\nRays YouTube\nRays Podcasts\nMLB Network\nNews\nOfficial Releases\nProbable Pitchers\nGame Notes\nRays Pipeline\nRSS News Feed\nRays History\nRays History Feature Stories\nMLB News\nTropicana Field\nParking\nA-to-Z Guide\nSeating Map\nSafety &amp; Security\nGetting to Tropicana Field\nNetting\nConcourse Map\nBay Republic Team Store\nPlaces to Stay\nCharlotte Sports Park\nCommunity\nHurricane Relief\nApply for a Grant\nMilitary Salute Nominations\nFundraising\nHelp Make a Difference\nPlay Ball\nJackie Robinson Grant\nBilly Bean Scholarship\n50/50 Charity Raffle\nMLB Together\nFans\nWebull Partnership\nRays City Connect\nRegister for Rays Newsletter\nBack In the Burg\nRaymond &amp; Friends\nRays Gaming\nRays Radio\nRays Watch Parties\nRays Podcasts\nRays Bar League\nHall of Fame\nRays Fan Fest\nRays Rookies\nRays Yearbook\nStandings\nApps\nMLB\nMLB Ballpark\nMLB Play\nMiLB\nMLB FAQs\nMLB Ballpark FAQs\nMLB Play FAQs\nMembers\nRays.TV\nBuy Rays.TV\nHow to Watch Rays Games\nAuthenticate\nHelp Center\nShop\nJerseys\nCaps\nMen's\nWomen's\nKids\nBig &amp;Tall\nTrading Cards\nCollectibles &amp; Memorabilia\nHome &amp; Office\nClearance\nEuropean Shop\nGift Certificates\nRays Authentics Shop\nRays Auctions - Bid or Buy\nMLB Auctions - Bid or Buy\nMLB Authentication\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nEspañol\nLog in\nChannels\nReels\nVisualizing Jonny DeLuca's swing using bat tracking technology\nPadres @ Rays\nAugust 30, 2026 | 00:00:11\nReels\nShare\nThe data behind Jonny DeLuca's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nJonny Deluca\nTampa Bay Rays</p>\n  </body>\n</html>",
+      "word_count": 465,
+      "char_count": 3091,
+      "lead_image": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/rcscthlj9i22ydc6eity",
+      "images": [
+        {
+          "url": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/rcscthlj9i22ydc6eity",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-08-30T23:06:39Z"
+    },
+    {
+      "id": "b55653b3081230fe",
+      "title": "Visualizing Jared Triolo's swing using bat tracking technology",
+      "header": "MLB.com",
+      "published_at": "2026-08-30T20:10:36Z",
+      "published_raw": "Sun, 30 Aug 2026 20:10:36 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamJSSml3M1pjdEFxdjVNVWdpMTdWS3cyWUk1Qzl6QVZBQzZ6TG85NGF5Z1hvUURGRWZBVWMwTHlxbW5aUUVKUEFSSUVHYVlza3RQTWRIckZNS1EtZjhvVWhQTTdGaGdIc3hvWVhydjFnWjhsdjNxMUJGWTZuX2RiWWowQmNTYmtzU2Q3R0F0SVR4eWRkOEVLWEliQzY3ZXgySklnNw?oc=5",
+      "description": "Visualizing Jared Triolo's swing using bat tracking technology MLB.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPamJSSml3M1pjdEFxdjVNVWdpMTdWS3cyWUk1Qzl6QVZBQzZ6TG85NGF5Z1hvUURGRWZBVWMwTHlxbW5aUUVKUEFSSUVHYVlza3RQTWRIckZNS1EtZjhvVWhQTTdGaGdIc3hvWVhydjFnWjhsdjNxMUJGWTZuX2RiWWowQmNTYmtzU2Q3R0F0SVR4eWRkOEVLWEliQzY3ZXgySklnNw?oc=5\" target=\"_blank\">Visualizing Jared Triolo's swing using bat tracking technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLB.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamJSSml3M1pjdEFxdjVNVWdpMTdWS3cyWUk1Qzl6QVZBQzZ6TG85NGF5Z1hvUURGRWZBVWMwTHlxbW5aUUVKUEFSSUVHYVlza3RQTWRIckZNS1EtZjhvVWhQTTdGaGdIc3hvWVhydjFnWjhsdjNxMUJGWTZuX2RiWWowQmNTYmtzU2Q3R0F0SVR4eWRkOEVLWEliQzY3ZXgySklnNw?oc=5"
+      ],
+      "scraped_at": "2026-08-30T23:06:40Z",
+      "url": "https://www.mlb.com/pirates/video/visualizing-jared-triolo-s-swing-using-bat-tracking-technology-x7643",
+      "final_url": "https://www.mlb.com/pirates/video/visualizing-jared-triolo-s-swing-using-bat-tracking-technology-x7643",
+      "source": "MLB.com",
+      "article_title": "Visualizing Jared Triolo's swing using bat tracking technology | 08/30/2026",
+      "heading": "Visualizing Jared Triolo's swing using bat tracking technology",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "The data behind Jared Triolo's swing",
+      "content": "Tickets\nSingle Game Tickets\nMini Plans\nSeason Tickets\nPromotions Schedule\nAll You Can Eat Seats\nFan Value Deals\nGroup Tickets\nSpecial Ticket Events\nPittsburgh Baseball Club Level\nPremium Seating\nHospitality Areas\nMy Pirates Tickets\nDigital Ticketing\n3D Seating Map\nPNC Park Tours\nConcerts & Events\nMLB Ballpark App\nBuy & Sell Tickets on SeatGeek\nPremium\nSchedule\n2026 Regular Season Schedule\nPromotions Schedule\nSortable Schedule\nPrintable Schedule\nDownloadable Schedule\nMLB Events\nScores\nStats\nTeam Stats\nTop Prospect Stats\nAffiliate Stats\nBaseball Savant\nRoster\n40-Man Roster\nDepth Chart\nCoaches\nTransactions\nInjury Updates\nDraft Results\nFront Office\nBroadcasters\nPlayer Search\nMinor League Affiliates\nTop 30 Prospects\nVideo\nRun It Back\nPirates Charities\nPirates Game Recap\nMost Popular\nPhotos\nNews\nOfficial Releases\nProbable Pitchers\nInside the Pirates\nPirates Pipeline\nRSS News Feed\nMLB News\nPNC Park\nBallpark Information\nBallpark Enhancements\nGameday Guide\nPNC Park Tours\nConcerts & Events\nPlan Your Special Event\nPirates Clubhouse Store\nFeatures, Facts & Firsts\nConcourse Map\nLet's Go Bucs, Let's Go Green.\nExperience History at PNC Park\nTeam History\nPirates Charities\nFans\nPirates Hall of Fame\nSouvenir Tickets\nGoing to Bat for Small Business\nSocial Media\nEmail Newsletters\n2025 Digital Yearbook\nExperiences & Merchandise\nMascots and More\nPirates Kids\nBucaroos Kids Club\nPirates Gift Guide\nApps\nMLB\nMLB Ballpark\nMLB Play\nMiLB\nMLB FAQs\nMLB Ballpark FAQs\nMLB Play FAQs\nStandings\nSTH HQ\nMLB.TV\nBuy MLB.TV\nLearn More\nAll Packages\nWatch & Listen\nHelp Center\nShop\nJerseys\nCaps\nMen's\nWomen's\nKids\nBig & Tall\nTrading Cards\nCollectibles & Memorabilia\nHome & Office\nClearance\nEuropean Shop\nGift Certificates\nPirates Auctions - Bid or Buy\nMLB Auctions - Bid or Buy\nMLB Authentication\nTeam Store Locations\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nEspañol\nLog in\nChannels\nReels\nVisualizing Jared Triolo's swing using bat tracking technology\nPirates @ Cardinals\nAugust 30, 2026 | 00:00:11\nReels\nShare\nThe data behind Jared Triolo's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nJared Triolo\nPittsburgh Pirates",
+      "content_html": "<html>\n  <body>\n    <p>Tickets\nSingle Game Tickets\nMini Plans\nSeason Tickets\nPromotions Schedule\nAll You Can Eat Seats\nFan Value Deals\nGroup Tickets\nSpecial Ticket Events\nPittsburgh Baseball Club Level\nPremium Seating\nHospitality Areas\nMy Pirates Tickets\nDigital Ticketing\n3D Seating Map\nPNC Park Tours\nConcerts &amp; Events\nMLB Ballpark App\nBuy &amp; Sell Tickets on SeatGeek\nPremium\nSchedule\n2026 Regular Season Schedule\nPromotions Schedule\nSortable Schedule\nPrintable Schedule\nDownloadable Schedule\nMLB Events\nScores\nStats\nTeam Stats\nTop Prospect Stats\nAffiliate Stats\nBaseball Savant\nRoster\n40-Man Roster\nDepth Chart\nCoaches\nTransactions\nInjury Updates\nDraft Results\nFront Office\nBroadcasters\nPlayer Search\nMinor League Affiliates\nTop 30 Prospects\nVideo\nRun It Back\nPirates Charities\nPirates Game Recap\nMost Popular\nPhotos\nNews\nOfficial Releases\nProbable Pitchers\nInside the Pirates\nPirates Pipeline\nRSS News Feed\nMLB News\nPNC Park\nBallpark Information\nBallpark Enhancements\nGameday Guide\nPNC Park Tours\nConcerts &amp; Events\nPlan Your Special Event\nPirates Clubhouse Store\nFeatures, Facts &amp; Firsts\nConcourse Map\nLet's Go Bucs, Let's Go Green.\nExperience History at PNC Park\nTeam History\nPirates Charities\nFans\nPirates Hall of Fame\nSouvenir Tickets\nGoing to Bat for Small Business\nSocial Media\nEmail Newsletters\n2025 Digital Yearbook\nExperiences &amp; Merchandise\nMascots and More\nPirates Kids\nBucaroos Kids Club\nPirates Gift Guide\nApps\nMLB\nMLB Ballpark\nMLB Play\nMiLB\nMLB FAQs\nMLB Ballpark FAQs\nMLB Play FAQs\nStandings\nSTH HQ\nMLB.TV\nBuy MLB.TV\nLearn More\nAll Packages\nWatch &amp; Listen\nHelp Center\nShop\nJerseys\nCaps\nMen's\nWomen's\nKids\nBig &amp; Tall\nTrading Cards\nCollectibles &amp; Memorabilia\nHome &amp; Office\nClearance\nEuropean Shop\nGift Certificates\nPirates Auctions - Bid or Buy\nMLB Auctions - Bid or Buy\nMLB Authentication\nTeam Store Locations\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nEspañol\nLog in\nChannels\nReels\nVisualizing Jared Triolo's swing using bat tracking technology\nPirates @ Cardinals\nAugust 30, 2026 | 00:00:11\nReels\nShare\nThe data behind Jared Triolo's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nJared Triolo\nPittsburgh Pirates</p>\n  </body>\n</html>",
+      "word_count": 443,
+      "char_count": 2952,
+      "lead_image": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/ecrfolz7havkrjc0ayry",
+      "images": [
+        {
+          "url": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/ecrfolz7havkrjc0ayry",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-08-30T23:06:40Z"
+    },
     {
       "id": "a7030653b4ba116e",
       "title": "Fedorov offers drone technology to US in exchange for Patriots, seeks funding for defense tech fund",
@@ -165,7 +381,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFlQUklZU0lJcWw1WS1JbU9jZmRxaGJPaVhWbVd5RkVRcER1X1pzRUJ3Zm9XT0lhUXloQndtUjhrVVZxVWVlT01keEhjOWZGcHdmbHFJa2Jrc2pialhYYXlfeXJNUk1NOHVNSVRDRFdSVFhrVmQ0akJEb2FSajZOMlBEZWprMWE0Q3JkWGdiNjc3NFpFNTVSemZmLVdVLXJUdmNlVUx3emlmZmFTZGl2RkN3SnVsOE0?oc=5"
       ],
-      "scraped_at": "2026-08-30T20:28:34Z",
+      "scraped_at": "2026-08-30T23:06:39Z",
       "url": "https://www.investing.com/news/stock-market-news/ukraine-seeks-us-investment-for-defence-technology-fund--ft-4882066",
       "final_url": "https://www.investing.com/news/stock-market-news/ukraine-seeks-us-investment-for-defence-technology-fund--ft-4882066",
       "source": "Investing.com",
@@ -607,7 +823,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMia0FVX3lxTE13SWFWZkNTNExfNXVOZjIyUVdRSG5wc05yVjQ4TkRHYjlfb0hwdnRmYWRZQjVRTzY3Qm1Ub19zU0Rwb3hqcmNPcjRMN3U4MzBZZHNscWlFWkR2OXQzTEVQd2pwSGNwaU01TElZ?oc=5"
       ],
-      "scraped_at": "2026-08-30T20:28:31Z",
+      "scraped_at": "2026-08-30T23:06:39Z",
       "url": "https://www.wsj.com/tech/ai/metas-day-of-reckoning-aec1f826",
       "final_url": "https://www.wsj.com/tech/ai/metas-day-of-reckoning-aec1f826",
       "source": "WSJ",
@@ -690,6 +906,40 @@
       "first_seen_at": "2026-08-30T17:10:19Z"
     },
     {
+      "id": "12f0b44f94a2b47a",
+      "title": "Hollow-core fiber platform could help different quantum technologies connect",
+      "header": "Phys.org",
+      "published_at": "2026-08-30T13:00:02Z",
+      "published_raw": "Sun, 30 Aug 2026 13:00:02 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kX1psT3RhcUE5TGY2MmVqcENPWDQ1a2pEX3V0bzlDZzhqN01GdUR0R2MzQm9ROGhBbEExSEpaRUxfeTV1UzEySXhxYk9uejU3aVZGYy1CX3hzMndzdlNFVDhjOU5NMUNzN2M1bnV2aFJ2cnRxbnB2aw?oc=5",
+      "description": "Hollow-core fiber platform could help different quantum technologies connect Phys.org",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1kX1psT3RhcUE5TGY2MmVqcENPWDQ1a2pEX3V0bzlDZzhqN01GdUR0R2MzQm9ROGhBbEExSEpaRUxfeTV1UzEySXhxYk9uejU3aVZGYy1CX3hzMndzdlNFVDhjOU5NMUNzN2M1bnV2aFJ2cnRxbnB2aw?oc=5\" target=\"_blank\">Hollow-core fiber platform could help different quantum technologies connect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Phys.org</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kX1psT3RhcUE5TGY2MmVqcENPWDQ1a2pEX3V0bzlDZzhqN01GdUR0R2MzQm9ROGhBbEExSEpaRUxfeTV1UzEySXhxYk9uejU3aVZGYy1CX3hzMndzdlNFVDhjOU5NMUNzN2M1bnV2aFJ2cnRxbnB2aw?oc=5"
+      ],
+      "scraped_at": "2026-08-30T23:06:39Z",
+      "url": "https://phys.org/news/2026-08-hollow-core-fiber-platform-quantum.html",
+      "final_url": "https://phys.org/news/2026-08-hollow-core-fiber-platform-quantum.html",
+      "source": "Phys.org",
+      "article_title": "",
+      "heading": "Hollow-core fiber platform could help different quantum technologies connect",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Hollow-core fiber platform could help different quantum technologies connect Phys.org",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-08-30T23:06:39Z"
+    },
+    {
       "id": "346b750987148d61",
       "title": "$Micron Technology (MU.US)$",
       "header": "Moomoo",
@@ -736,6 +986,53 @@
       "first_seen_at": "2026-08-30T17:10:18Z"
     },
     {
+      "id": "1eae8d8f6d5fcc4d",
+      "title": "Integration of Biomechanical Analysis and Motion Capture Technology in Physical Therapy and Rehabilitation: A Systematic Review",
+      "header": "Cureus",
+      "published_at": "2026-08-30T11:14:16Z",
+      "published_raw": "Sun, 30 Aug 2026 11:14:16 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPblVtR2E3LVhDbEcwMEVEc0J3Rjc2cGhqVmFWYlZxZzMxZ2ZCQzd0NXlpRG1VQzUzWHFtdWF5TGVlU25hNlVMUFFDUTNNa2FWdmRaWTVIbTVLMmJsRHc1akJGQ0wtZ3RoLXR5YUFNVG1BOW5NenQ2NXk3aUJ3UzF4dXM4RGowZU1pdVRGWk9JQ1BCVVFmekpZXzQtOVlFa0FQWmllUXA1WWpUZHdWS1pHeWRDZHJpRTlkZF9jeV85NUthdlRudkNXMnJXYjNuVnJWQzZzbW5tYjVxNVN0VmxJTU5uTWtzYnZTMGhtS0o5UERYNlZpZUcyZA?oc=5",
+      "description": "Integration of Biomechanical Analysis and Motion Capture Technology in Physical Therapy and Rehabilitation: A Systematic Review Cureus",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPblVtR2E3LVhDbEcwMEVEc0J3Rjc2cGhqVmFWYlZxZzMxZ2ZCQzd0NXlpRG1VQzUzWHFtdWF5TGVlU25hNlVMUFFDUTNNa2FWdmRaWTVIbTVLMmJsRHc1akJGQ0wtZ3RoLXR5YUFNVG1BOW5NenQ2NXk3aUJ3UzF4dXM4RGowZU1pdVRGWk9JQ1BCVVFmekpZXzQtOVlFa0FQWmllUXA1WWpUZHdWS1pHeWRDZHJpRTlkZF9jeV85NUthdlRudkNXMnJXYjNuVnJWQzZzbW5tYjVxNVN0VmxJTU5uTWtzYnZTMGhtS0o5UERYNlZpZUcyZA?oc=5\" target=\"_blank\">Integration of Biomechanical Analysis and Motion Capture Technology in Physical Therapy and Rehabilitation: A Systematic Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cureus</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPblVtR2E3LVhDbEcwMEVEc0J3Rjc2cGhqVmFWYlZxZzMxZ2ZCQzd0NXlpRG1VQzUzWHFtdWF5TGVlU25hNlVMUFFDUTNNa2FWdmRaWTVIbTVLMmJsRHc1akJGQ0wtZ3RoLXR5YUFNVG1BOW5NenQ2NXk3aUJ3UzF4dXM4RGowZU1pdVRGWk9JQ1BCVVFmekpZXzQtOVlFa0FQWmllUXA1WWpUZHdWS1pHeWRDZHJpRTlkZF9jeV85NUthdlRudkNXMnJXYjNuVnJWQzZzbW5tYjVxNVN0VmxJTU5uTWtzYnZTMGhtS0o5UERYNlZpZUcyZA?oc=5"
+      ],
+      "scraped_at": "2026-08-30T23:06:41Z",
+      "url": "https://www.cureus.com/articles/516541-integration-of-biomechanical-analysis-and-motion-capture-technology-in-physical-therapy-and-rehabilitation-a-systematic-review",
+      "final_url": "https://www.cureus.com/articles/516541-integration-of-biomechanical-analysis-and-motion-capture-technology-in-physical-therapy-and-rehabilitation-a-systematic-review",
+      "source": "cureus.com",
+      "article_title": "Integration of Biomechanical Analysis and Motion Capture Technology in Physical Therapy and Rehabilitation: A Systematic Review",
+      "heading": "Integration of Biomechanical Analysis and Motion Capture Technology in Physical Therapy and Rehabilitation: A Systematic Review",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Biomechanical analysis and motion-capture technology have emerged as valuable tools for the objective assessment of human movement in physical therapy and rehabilitation. These technologies provide quantitative information on gait, balance, posture, joint kinematics, and functional performance, thereby supporting clinical decision-making and individualized rehabilitation. Despite increasing clinical adoption, evidence regarding their effectiveness across different rehabilitation populations remains heterogeneous. This systematic review aimed to evaluate the integration of biomechanical analysis and motion-capture technology in physical therapy and rehabilitation. A systematic literature search was conducted across major electronic databases to identify randomized controlled trials evaluating the integration of biomechanical analysis and motion-capture technologies within physical therapy and rehabilitation. Studies that investigated biomechanical analysis, motion-capture systems, wearable sensors, virtual reality, and markerless motion-capture technologies in physical therapy interventions were considered. Methodological quality was assessed using the Cochrane Risk of Bias 2 tool, and a narrative synthesis was performed because of clinical and methodological heterogeneity. The evidence encompassed neurological, musculoskeletal, pediatric, geriatric, and oncological rehabilitation populations. Interventions incorporated Kinect-based rehabilitation, markerless motion capture, wearable sensor systems, virtual reality, robot-assisted gait training, movement biofeedback, and sensor-augmented telerehabilitation. Overall, the evidence indicated improvements in gait, balance, postural control, movement quality, functional mobility, limb-loading symmetry, upper limb function, and quality of life across various rehabilitation settings. Risk of bias assessment indicated generally low risk of bias or some concerns, although concerns related to deviations from intended interventions and reporting practices were observed across the evidence base. The integration of biomechanical analysis and motion-capture technology may enhance objective movement assessment and support functional recovery across diverse rehabilitation populations. These technologies may facilitate individualized rehabilitation and evidence-based clinical decision-making through quantitative movement analysis and feedback. However, methodological heterogeneity highlights the need for standardized assessment protocols and high-quality trials to establish their long-term clinical effectiveness and support broader implementation in rehabilitation practice.",
+      "content": "Offering a variety of advertising and sponsorship options for reaching influential specialists from targeted demographic splits.\nCureus provides an equitable, efficient publishing and peer reviewing experience without sacrificing publication times.\nGenerate broad awareness and deliver relevant, peer-reviewed clinical experiences directly to potential customers.\nDedicated Cranial Radiosurgery: Clinical Experience with New & Innovative SRS Technologies\nSponsored by Zap Surgical Systems\nReal-Time Adaptive Motion Management on Helical and Robotic RT Platforms\nSponsored by Accuray, Inc.\nCureus Journal of Medical Science\nSponsored by Zap Surgical Systems\nSponsored by Accuray, Inc.\nYou can unsubscribe anytime.\nBy joining Cureus, you agree to our Privacy Policy and Terms of Use.",
+      "content_html": "<html>\n  <body>\n    <p>Offering a variety of advertising and sponsorship options for reaching influential specialists from targeted demographic splits.</p>\n    <p>Cureus provides an equitable, efficient publishing and peer reviewing experience without sacrificing publication times.</p>\n    <p>Generate broad awareness and deliver relevant, peer-reviewed clinical experiences directly to potential customers.</p>\n    <p>Dedicated Cranial Radiosurgery: Clinical Experience with New &amp; Innovative SRS Technologies</p>\n    <p>Sponsored by Zap Surgical Systems</p>\n    <p>Real-Time Adaptive Motion Management on Helical and Robotic RT Platforms</p>\n    <p>Sponsored by Accuray, Inc.</p>\n    <p>Cureus Journal of Medical Science</p>\n    <p>Sponsored by Zap Surgical Systems</p>\n    <p>Sponsored by Accuray, Inc.</p>\n    <p>You can unsubscribe anytime.</p>\n    <p>By joining Cureus, you agree to our Privacy Policy and Terms of Use.</p>\n  </body>\n</html>",
+      "word_count": 104,
+      "char_count": 781,
+      "lead_image": "https://assets.cureus.com/uploads/figure/file/2113756/article_river_150490707c4e11f1bedb6bd01d4c0951-article-2--figure-1-new.png",
+      "images": [
+        {
+          "url": "https://assets.cureus.com/uploads/figure/file/2113756/article_river_150490707c4e11f1bedb6bd01d4c0951-article-2--figure-1-new.png",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://assets.cureus.com/packs/media/images/close_x-d4cc40a348b79c3ba8ee78bbb6f90b1e.png",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "partial",
+      "error": "short_text",
+      "first_seen_at": "2026-08-30T23:06:41Z"
+    },
+    {
       "id": "6de5d6fef6ac52dd",
       "title": "Donor generosity powers Bluffton U technology upgrade",
       "header": "Bluffton Icon",
@@ -747,7 +1044,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3htWlRXSi1sam1nbDFqRTQ1bTh1S2JwQ0ZVS19laEZTXy1nRXdvZHRYbHFvVjJBdjBZRDJqTUc4b1RUUHZPaTVyTlRKSUNzMGZ5RmIwUWZ5MDdrTXdsa2FiWkF6R0MxUVg0WGhGMGxfZVhhRlU3UC1FRlpNaTg0bEwza3ZUbUVtTWJUUmNRMWl1YlRKSXJyelpZUUM0ckk?oc=5"
       ],
-      "scraped_at": "2026-08-30T20:28:34Z",
+      "scraped_at": "2026-08-30T23:06:41Z",
       "url": "https://www.blufftonicon.com/news/2026/08/30/donor-generosity-powers-bluffton-u-technology-upgrade",
       "final_url": "https://www.blufftonicon.com/news/2026/08/30/donor-generosity-powers-bluffton-u-technology-upgrade",
       "source": "Bluffton Icon",
@@ -1435,7 +1732,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92V2FWQmJOU2VFeV9iWTVqWnA3Q0ViZVNrZ3BrdlJmcm92OHpIZXJUZjh1ODh5XzlwcXZIVFp2alJSeXJKM0FXaFZSTG11VGY3Zk1CTG5VbmQ3T014?oc=5"
       ],
-      "scraped_at": "2026-08-30T20:28:32Z",
+      "scraped_at": "2026-08-30T23:06:40Z",
       "url": "https://www.eurekalert.org/news-releases/1141846",
       "final_url": "https://www.eurekalert.org/news-releases/1141846",
       "source": "eurekalert.org",
@@ -3284,6 +3581,54 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-08-30T00:01:03Z"
+    },
+    {
+      "id": "8ee089b6524aabbc",
+      "title": "Timex’s Fan-Favorite 1970s Throwback Watch Honors a Crucial, Forgotten Technology",
+      "header": "Gear Patrol",
+      "published_at": "2026-08-28T15:57:52Z",
+      "published_raw": "Fri, 28 Aug 2026 15:57:52 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SODI1ZU1XNzFhRloyYTd3c3dRUDJTX20tREhhb1dBM2NmcENOanZqOHdMX2NydDJsVWtwUl8zYWtNQXh2S1dPMUtoZGRZUEd5MTd4clFJbV9CQm95R21EaWpRandITXJ0WDgxa3B1YkRYWTFuVXpObmVRdmc?oc=5",
+      "description": "Timex’s Fan-Favorite 1970s Throwback Watch Honors a Crucial, Forgotten Technology Gear Patrol",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9SODI1ZU1XNzFhRloyYTd3c3dRUDJTX20tREhhb1dBM2NmcENOanZqOHdMX2NydDJsVWtwUl8zYWtNQXh2S1dPMUtoZGRZUEd5MTd4clFJbV9CQm95R21EaWpRandITXJ0WDgxa3B1YkRYWTFuVXpObmVRdmc?oc=5\" target=\"_blank\">Timex’s Fan-Favorite 1970s Throwback Watch Honors a Crucial, Forgotten Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gear Patrol</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SODI1ZU1XNzFhRloyYTd3c3dRUDJTX20tREhhb1dBM2NmcENOanZqOHdMX2NydDJsVWtwUl8zYWtNQXh2S1dPMUtoZGRZUEd5MTd4clFJbV9CQm95R21EaWpRandITXJ0WDgxa3B1YkRYWTFuVXpObmVRdmc?oc=5"
+      ],
+      "scraped_at": "2026-08-30T23:06:39Z",
+      "url": "https://www.gearpatrol.com/watches/timex-1976-rotary-phone-dial-reissue/",
+      "final_url": "https://www.gearpatrol.com/watches/timex-1976-rotary-phone-dial-reissue/",
+      "source": "Gear Patrol",
+      "article_title": "Timex's Fan-Favorite 1970s Throwback Watch Honors a Crucial, Forgotten Technology | Gear Patrol",
+      "heading": "Timex’s Fan-Favorite 1970s Throwback Watch Honors a Crucial, Forgotten Technology",
+      "authors": [
+        "Sean Tirman"
+      ],
+      "article_published_at": "2026-08-28T15:57:52+00:00",
+      "article_modified_at": "2026-08-28T21:24:52+00:00",
+      "summary": "Pulled from the archives, this vintage-inspired stand-out dress watch might require a bit of explaining to the younger generations.",
+      "content": "With the dominance of cellular technology, the era of landline telephones was left in the dust. Dating back even earlier, another now-obsolete technology, the rotary phone, now seems like a relic of a forgotten era.\nBut the Timex 1976 Rotary Phone Dial Reissue has vaulted this outdated device back into the zeitgeist, at least stylistically, in the form of a unique, quirky dress watch.\nHeed the call\nThose of us who grew up in the ’90s or earlier should at least be familiar with the concept of a rotary phone. But for those who don’t know, these were the standard for telephone technology for decades.\nThe idea was simple enough: a phone had a circular dial surrounded by circular holes, each framing a number. To make a call, you’d stick your finger into the numbered holes corresponding to the phone number, one at a time, winding or rotating the dial counterclockwise. Once you entered all the numbers, the call would connect.",
+      "content_html": "<html>\n  <body>\n    <p>If you buy from a link, we may earn a commission. Learn more</p>\n    <p>With the dominance of cellular technology, the era of landline telephones was left in the dust. Dating back even earlier, another now-obsolete technology, the rotary phone, now seems like a relic of a forgotten era.</p>\n    <p>This is a mostly faithful recreation of a Marlin watch from 1976, as its name suggests.Timex</p>\n    <p>Heed the call</p>\n    <p>Those of us who grew up in the ’90s or earlier should at least be familiar with the concept of a rotary phone. But for those who don’t know, these were the standard for telephone technology for decades.</p>\n    <p>The idea was simple enough: a phone had a circular dial surrounded by circular holes, each framing a number. To make a call, you’d stick your finger into the numbered holes corresponding to the phone number, one at a time, winding or rotating the dial counterclockwise. Once you entered all the numbers, the call would connect.</p>\n    <p>The distinct dial is directly inspired by rotary phones, a once-dominant, now obsolete technology.Timex</p>\n    <p>This technology inspired Timex’s watch dial, which is easy to recognize if you know what a rotary phone dial looks like. However, there are some distinct differences. For starters, the Timex dial doesn’t rotate; like a standard watch, the hands move around as usual. Second, rotary dials had only 10 numbered holes, 0 through 9, whereas the Timex, as it is a watch, has 12.</p>\n    <p>Functionally, the Timex is a traditional timekeeper, complete with a day-date window at the 3 o’clock position, but it boasts styling that mimics a rotary phone, as shown by its white-backed Arabic numerals surrounded by polished gold-toned frames. As its name suggests, this is a reissue of a watch from 1976. While it still boasts the same styling, it has been updated for modern users.</p>\n    <p>The gold-toned stainless steel case is matched to an alligator-style, sustainable brown leather strap.Timex</p>\n    <p>Off the hook</p>\n    <p>Stylistically, this watch is extremely faithful to its 1976 Marlin counterpart. There are only minor alterations, such as merging the day and date windows. But the rest looks virtually unchanged, even down to the two-tone hands.</p>\n    <p>Internally, however, this watch has a much more modern quartz movement. In fact, using one of the brand’s contemporary movements is likely why the day and date windows had to be merged in the first place.</p>\n    <p>Stylistically, this watch is extremely faithful to its 1976 Marlin counterpart.</p>\n    <p>The watch also gets a gold-finished stainless steel case and an acrylic crystal, and the whole thing is mated to a more modern, sustainable leather strap.</p>\n    <p>Altogether, this is a fitting tribute, both to the original watch and to the now-vintage technology that inspired it. If you’re looking for a unique dress watch to add to the rotation and you’d like to do it without breaking the bank, this one seems like a real winner.</p>\n    <p>A modern quartz movement keeps this watch reliable and affordable.Timex</p>\n  </body>\n</html>",
+      "word_count": 161,
+      "char_count": 932,
+      "lead_image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/08/TW2Y82100-B-16x9-Lead-1.webp",
+      "images": [
+        {
+          "url": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/08/TW2Y82100-B-16x9-Lead-1.webp",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/08/TW2Y82100-B-16x9-Lead-1.webp?w=1200&h=675&crop=1",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-08-30T23:06:39Z"
     },
     {
       "id": "59ac8778ccddb2e8",
