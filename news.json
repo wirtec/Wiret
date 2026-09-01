@@ -1,17 +1,171 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-01T01:35:14Z",
-  "count": 143,
+  "generated_at": "2026-09-01T07:10:50Z",
+  "count": 148,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 10,
-    "added": 8,
-    "updated": 2,
-    "ok": 110,
-    "failed": 33,
-    "duration_seconds": 3.56
+    "scraped_now": 6,
+    "added": 5,
+    "updated": 1,
+    "ok": 114,
+    "failed": 34,
+    "duration_seconds": 2.0
   },
   "articles": [
+    {
+      "id": "13abde6a3d4ed43f",
+      "title": "Utah’s Blueprint for Governing Emerging Technology",
+      "header": "Governing",
+      "published_at": "2026-09-01T07:01:24Z",
+      "published_raw": "Tue, 01 Sep 2026 07:01:24 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdlJxQUJFeTVPaTZ5Q0xPS0hZY3V6TDBFSHJueWwxTm05R2ROMEhyMGttTkV5dFNhcm5LSUVrUlVmZVN5YWdVYmFsaG12YzZtbjBxbXYybWk1WEdlemNlbi1GZzFiWlN5a0RMa2tnWVpPd3dLUmNJQVpmTDFESWxMYmRiLWNUQUNiNGZsTQ?oc=5",
+      "description": "Utah’s Blueprint for Governing Emerging Technology Governing",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQdlJxQUJFeTVPaTZ5Q0xPS0hZY3V6TDBFSHJueWwxTm05R2ROMEhyMGttTkV5dFNhcm5LSUVrUlVmZVN5YWdVYmFsaG12YzZtbjBxbXYybWk1WEdlemNlbi1GZzFiWlN5a0RMa2tnWVpPd3dLUmNJQVpmTDFESWxMYmRiLWNUQUNiNGZsTQ?oc=5\" target=\"_blank\">Utah’s Blueprint for Governing Emerging Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Governing</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdlJxQUJFeTVPaTZ5Q0xPS0hZY3V6TDBFSHJueWwxTm05R2ROMEhyMGttTkV5dFNhcm5LSUVrUlVmZVN5YWdVYmFsaG12YzZtbjBxbXYybWk1WEdlemNlbi1GZzFiWlN5a0RMa2tnWVpPd3dLUmNJQVpmTDFESWxMYmRiLWNUQUNiNGZsTQ?oc=5"
+      ],
+      "scraped_at": "2026-09-01T07:10:48Z",
+      "url": "https://www.governing.com/poy/2026/utahs-blueprint-for-governing-emerging-technology",
+      "final_url": "https://www.governing.com/poy/2026/utahs-blueprint-for-governing-emerging-technology",
+      "source": "Governing",
+      "article_title": "Utah’s Blueprint for Governing Emerging Technology",
+      "heading": "Utah’s Blueprint for Governing Emerging Technology",
+      "authors": [
+        "https://www.governing.com/jule-pattison-gordon"
+      ],
+      "article_published_at": "2026-09-01T07:00:00",
+      "article_modified_at": "2026-09-01T07:00:07.169",
+      "summary": "State Sen. Kirk Cullimore has helped put the state at the forefront of AI, data privacy and digital identity policy, crafting approaches designed to be replicated beyond Utah.",
+      "content": "This article appears in Governing's Q3 2026 Magazine. You can subscribe here.\nUtah has been a powerhouse of emerging technology legislation over the past several years, drawing national and international attention. Driving much of this progress is Senate Majority Leader Kirk Cullimore, 48, who’s gained a reputation for spearheading policies that protect consumers but also spur innovation.\nA former music teacher turned lawyer and lawmaker, Cullimore didn’t start out in tech. But as constituents approached him with technology concerns, he dove headfirst into learning about the space. One technology bill led to another, and he became the go-to legislator on tech.\n“Senator Cullimore is one of the more technologically savvy legislators that I’ve engaged with,” says Utah’s Chief Privacy Officer Christopher Bramwell. “He’s been on the cutting edge of AI policy.”\nIn 2024, Cullimore clinched a big win with a first-of-its-kind AI law, SB 149, imposing light regulations on AI use and creating the nation’s first Office of AI Policy. The office works with companies to find ways they can safely pilot new AI uses in Utah. One company is currently testing the use of AI to quickly and easily refill patients’ medication prescriptions.\nThe conservative American Legislative Exchange Council based its model state AI legislation on SB 149.\n“We’re trying to pave a way in this new digital era where government responds properly and where we are looking to protect people from technology overreach while still allowing technology to develop and potentially better our lives,” Cullimore says of his approach to tech legislation.\nPragmatism and consensus building are also strong considerations, he says. To make a meaningful difference, Utah needs to create policies that other states will want to adopt, too. That way, the state avoids the risks of a company simply bypassing Utah or suing to overturn a law.\nThe senator has also focused on less headline-grabbing tech policies. Cullimore helped Utah become the fourth state in the U.S. to enact a far-reaching consumer data privacy policy. It’s also the only state with what Bramwell deems a “comprehensive” and “modernized” government data privacy policy, thanks in part to Cullimore. The state now has the nation’s first data privacy ombudsperson to handle complaints about government privacy practices.\nBuilding on this success, Cullimore recently introduced legislation that would protect individual privacy as digital IDs come into development. Under the legislation, Utah would spearhead a concept called the State Endorsed Digital Identity, or SEDI, which would focus on maintaining citizens’ digital privacy and creating clear rules for the use of a digital ID. A key priority is making sure the entity accepting the credential can only access the information they need and nothing more. The ACLU praised the legislation, saying Utah is the “only … state asking the right questions” about digital identity.\nCullimore didn’t initially set out to enter politics. For several years, he was the Rental Housing Association of Utah’s government affairs chair. And with his kids in elementary school, he joined the school community council and parent oversight boards. All of which, he says, eventually coalesced into a run for office.\nFrom there, he’s made a name for himself tackling tricky emerging tech policy.\n“He [Sen. Cullimore] knows how to get stuff passed in the body, and he is really passionate about these issues,” says Utah Department of Commerce Commissioner Margaret Busse. “He’s really been amazing for Utah.”",
+      "content_html": "<html>\n  <body><p>This article appears in Governing's Q3 2026 Magazine. You can subscribe here.</p><p>Utah has been a powerhouse of emerging technology legislation over the past several years, drawing national and international attention. Driving much of this progress is Senate Majority Leader Kirk Cullimore, 48, who’s gained a reputation for spearheading policies that protect consumers but also spur innovation.</p><p>A former music teacher turned lawyer and lawmaker, Cullimore didn’t start out in tech. But as constituents approached him with technology concerns, he dove headfirst into learning about the space. One technology bill led to another, and he became the go-to legislator on tech.</p><p>“Senator Cullimore is one of the more technologically savvy legislators that I’ve engaged with,” says Utah’s Chief Privacy Officer Christopher Bramwell. “He’s been on the cutting edge of AI policy.”</p><p>In 2024, Cullimore clinched a big win with a first-of-its-kind AI law, SB 149, imposing light regulations on AI use and creating the nation’s first Office of AI Policy. The office works with companies to find ways they can safely pilot new AI uses in Utah. One company is currently testing the use of AI to quickly and easily refill patients’ medication prescriptions.</p><p>The conservative American Legislative Exchange Council based its model state AI legislation on SB 149.</p><p>“We’re trying to pave a way in this new digital era where government responds properly and where we are looking to protect people from technology overreach while still allowing technology to develop and potentially better our lives,” Cullimore says of his approach to tech legislation.</p><p>Pragmatism and consensus building are also strong considerations, he says. To make a meaningful difference, Utah needs to create policies that other states will want to adopt, too. That way, the state avoids the risks of a company simply bypassing Utah or suing to overturn a law.</p><p>The senator has also focused on less headline-grabbing tech policies. Cullimore helped Utah become the fourth state in the U.S. to enact a far-reaching consumer data privacy policy. It’s also the only state with what Bramwell deems a “comprehensive” and “modernized” government data privacy policy, thanks in part to Cullimore. The state now has the nation’s first data privacy ombudsperson to handle complaints about government privacy practices.</p><p>Building on this success, Cullimore recently introduced legislation that would protect individual privacy as digital IDs come into development. Under the legislation, Utah would spearhead a concept called the State Endorsed Digital Identity, or SEDI, which would focus on maintaining citizens’ digital privacy and creating clear rules for the use of a digital ID. A key priority is making sure the entity accepting the credential can only access the information they need and nothing more. The ACLU praised the legislation, saying Utah is the “only … state asking the right questions” about digital identity.</p><p>Cullimore didn’t initially set out to enter politics. For several years, he was the Rental Housing Association of Utah’s government affairs chair. And with his kids in elementary school, he joined the school community council and parent oversight boards. All of which, he says, eventually coalesced into a run for office.</p><p>From there, he’s made a name for himself tackling tricky emerging tech policy.</p><p>“He [Sen. Cullimore] knows how to get stuff passed in the body, and he is really passionate about these issues,” says Utah Department of Commerce Commissioner Margaret Busse. “He’s really been amazing for Utah.”</p><p>Related Articles</p>\n    \n</body>\n</html>",
+      "word_count": 560,
+      "char_count": 3576,
+      "lead_image": "https://erepublic.brightspotcdn.com/dims4/default/32c00b3/2147483647/strip/true/crop/3500x1701+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F56%2Fa9%2F90941a99482e92749d14b067edc7%2Fgov26-web-art-summer-poy-4.jpg",
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/32c00b3/2147483647/strip/true/crop/3500x1701+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F56%2Fa9%2F90941a99482e92749d14b067edc7%2Fgov26-web-art-summer-poy-4.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/5c0edc1/2147483647/strip/false/crop/3500x1825+0+0/resize/1486x775!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F56%2Fa9%2F90941a99482e92749d14b067edc7%2Fgov26-web-art-summer-poy-4.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/29bed0a/2147483647/strip/false/crop/3244x1825+149+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F56%2Fa9%2F90941a99482e92749d14b067edc7%2Fgov26-web-art-summer-poy-4.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 3,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-01T07:10:48Z"
+    },
+    {
+      "id": "6f8755e95293f4e5",
+      "title": "Ila Kumar: Innovating with communities",
+      "header": "MIT News",
+      "published_at": "2026-09-01T04:00:00Z",
+      "published_raw": "Tue, 01 Sep 2026 04:00:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80cV9tYURRYlZqbVQzY2xCMUtEaC1YbU1VUmhJMUxJamFtckpCUG5UNWZWME5lbEpBaHdDNWJpcTZ1YWRUREUxNGJDcm8yU3JuRTMyVXBidDBqeXU3UWZTQnd3UER1ZHlfeXdTcjcwcFFXUkt3a3c?oc=5",
+      "description": "Ila Kumar: Innovating with communities MIT News",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE80cV9tYURRYlZqbVQzY2xCMUtEaC1YbU1VUmhJMUxJamFtckpCUG5UNWZWME5lbEpBaHdDNWJpcTZ1YWRUREUxNGJDcm8yU3JuRTMyVXBidDBqeXU3UWZTQnd3UER1ZHlfeXdTcjcwcFFXUkt3a3c?oc=5\" target=\"_blank\">Ila Kumar: Innovating with communities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT News</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE80cV9tYURRYlZqbVQzY2xCMUtEaC1YbU1VUmhJMUxJamFtckpCUG5UNWZWME5lbEpBaHdDNWJpcTZ1YWRUREUxNGJDcm8yU3JuRTMyVXBidDBqeXU3UWZTQnd3UER1ZHlfeXdTcjcwcFFXUkt3a3c?oc=5"
+      ],
+      "scraped_at": "2026-09-01T07:10:48Z",
+      "url": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
+      "final_url": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
+      "source": "MIT News | Massachusetts Institute of Technology",
+      "article_title": "Ila Kumar: Innovating with communities",
+      "heading": "Ila Kumar: Innovating with communities",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "MIT PhD student Ila Kumar works alongside young people who have gone through the child welfare system, to reimagine how technology can support healing, connection, and independence.",
+      "content": "Before Ila Kumar thinks about how to build technology, she asks a different question: What is the context that technology will operate in, and who needs to be involved in the design?\nFor Kumar, meaningful innovation doesn’t result from engineers or designers working in isolation. Instead, she believes the best innovations emerge when the people who stand to benefit from a technology help create it from the very beginning.\nThat philosophy has guided her research in the Lifelong Kindergarten group, where she works alongside young people who have experienced trauma during childhood, particularly those involved in the child welfare system, to reimagine how technology can support healing, connection, and independence.\n“I really think that community-based design is the only way that we can make technology that accounts for communities’ needs, but also their barriers, their cultures, their concerns,” Kumar says. “It’s the only way that we can make really sustainable and positively impactful technology.”\nToday, Kumar is preparing to enter the sixth and final year of her PhD. But when she first arrived at MIT in 2021, she envisioned staying only long enough to complete a master’s degree. However, Kumar quickly fell in love with her work and decided to stay at MIT and pursue her doctorate.\nBefore graduate school, Kumar grew up in Philadelphia, attended the University of Pennsylvania, and worked on several projects at the intersection of technology and mental health or psychology research.\nThrough those experiences, Kumar began to question whether the technology she was helping to develop was having the sustained impact she hoped for. “I had done a number of projects that were ‘tech for good,’” she says. “And I wasn’t seeing that what I was doing had a long-term impact.”\nRather than walking away from technology altogether, Kumar began to rethink how it was created. “If we design technology in community-based ways and really think about holistic well-being,” she says, “maybe we can actually create things that help people.”\nThat conviction eventually became the foundation of her doctoral research, and over the course of her PhD, Kumar has increasingly moved from simply listening to communities to building with them.\nPublic conversations about technology often present a choice: Embrace it or reject it. Kumar believes that it’s not that simple.\nKumar sees the way digital platforms have the potential to both harm young people’s mental health and development, and help young people process emotions, strengthen relationships, and practice healthy vulnerability — if those tools are designed thoughtfully and embedded in the systems where young people already receive care and support.\nMuch of her work explores exactly what that could look like.\nOne project Kumar worked on, in partnership with Stepping Forward LA and with the input of the young people who would use the app, replaces text-heavy communication with a visual collage system to help young people impacted by trauma and the child welfare system to express emotions that may be difficult to put into words, and to build a sense of connectedness with one another.\nIn an ongoing project, Kumar is collaborating with the Justice Resource Institute to design a mobile app that supports youth in playing an active role in their treatment-planning process and helps them work toward the goals they set outside of the therapy office. The group is working with clinicians and youth to design and evaluate the system.\n“We are not sitting at MIT designing tools and just throwing them at people,” Kumar says. “We’re designing it together. We need to actually have the folks that are relevant to providing the care in the room.”\nThat idea became even clearer to Kumar through a 10-month technology leadership circle she co-facilitated with Foster America. The program brought together people with lived experience of foster care and technology experts to envision how digital technologies could fill gaps in care for young people in the child welfare system.\nThis project surfaced the importance of not just designing tools that center youths’ needs but also considering the ways in which social services need to be brought into the innovation process.\nThose ideas have also led Kumar to explorations that involve one of technology’s newest frontiers: artificial intelligence. She began asking questions after she realized that young people who had experienced trauma had already been turning to AI to make critical life decisions, even as many caregivers were not aware of it.\nAs a result, Kumar has increasingly focused on supporting care providers in talking with young people about AI. She has led training workshops with organizations that serve young people impacted by trauma or involved in the child welfare system.\nKumar’s passion for advocating for young people extends far beyond the lab. She also volunteers as a court-appointed special advocate, working one-on-one with a young person in the child welfare system while pursuing her PhD.\nThe role has deepened both her understanding of the challenges young people face and her belief that lasting change depends on relationships.\nSome of her most meaningful moments have come while working directly with young people. Last summer, she, alongside another graduate student in her lab, mentored two interns with foster care experience during a six-week program that blended technology, creativity, and personal growth.\n“It felt like a real privilege,” Kumar says. “Even the six weeks was not enough.”\nThose relationships have also inspired Kumar to address how community-based research is conducted at MIT.\nRecognizing that many students interested in community-engaged work often feel isolated, she collaborated with the Priscilla King Gray Public Service Center to co-teach a course on community-driven innovation. She later established a biweekly community of practice connecting researchers across MIT and Harvard University who are navigating the benefits and challenges of conducting research alongside communities rather than simply studying them.\nOutside of research, Kumar enjoys birdwatching, cooking with friends, and creating graphic illustrations — creative pursuits that, much like her research, reward patience, observation, and careful attention.\nAs technology becomes increasingly woven into young people’s lives, Kumar hopes innovation will move beyond the lab and into the communities it is meant to serve.\n“The future of actually impactful technologies,” Kumar says, “is when researchers are making decisions with communities instead of for them.”",
+      "content_html": "<html>\n  <body><p>Before Ila Kumar thinks about how to build technology, she asks a different question: What is the context that technology will operate in, and who needs to be involved in the design?</p><p>For Kumar, meaningful innovation doesn’t result from engineers or designers working in isolation. Instead, she believes the best innovations emerge when the people who stand to benefit from a technology help create it from the very beginning.</p><p>That philosophy has guided her research in the Lifelong Kindergarten group, where she works alongside young people who have experienced trauma during childhood, particularly those involved in the child welfare system, to reimagine how technology can support healing, connection, and independence.</p><p>“I really think that community-based design is the only way that we can make technology that accounts for communities’ needs, but also their barriers, their cultures, their concerns,” Kumar says. “It’s the only way that we can make really sustainable and positively impactful technology.”</p><p>Today, Kumar is preparing to enter the sixth and final year of her PhD. But when she first arrived at MIT in 2021, she envisioned staying only long enough to complete a master’s degree. However, Kumar quickly fell in love with her work and decided to stay at MIT and pursue her doctorate.</p><img src=\"https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202608/MIT-kumar-ila-02-press.jpg?itok=9_pnUbax\" alt=\"Ila Kumar portrait, seated at a table with craft supplies.\"/>\n\n\n<p/><p>Before graduate school, Kumar grew up in Philadelphia, attended the University of Pennsylvania, and worked on several projects at the intersection of technology and mental health or psychology research.</p><p>Through those experiences, Kumar began to question whether the technology she was helping to develop was having the sustained impact she hoped for. “I had done a number of projects that were ‘tech for good,’” she says. “And I wasn’t seeing that what I was doing had a long-term impact.”</p><p>Rather than walking away from technology altogether, Kumar began to rethink how it was created. “If we design technology in community-based ways and really think about holistic well-being,” she says, “maybe we can actually create things that help people.”</p><p>That conviction eventually became the foundation of her doctoral research, and over the course of her PhD, Kumar has increasingly moved from simply listening to communities to building with them.</p><p>Public conversations about technology often present a choice: Embrace it or reject it. Kumar believes that it’s not that simple.</p><p>Kumar sees the way digital platforms have the potential to both harm young people’s mental health and development, and help young people process emotions, strengthen relationships, and practice healthy vulnerability — if those tools are designed thoughtfully and embedded in the systems where young people already receive care and support.</p><p>Much of her work explores exactly what that could look like.</p><p>One project Kumar worked on, in partnership with Stepping Forward LA and with the input of the young people who would use the app, replaces text-heavy communication with a visual collage system to help young people impacted by trauma and the child welfare system to express emotions that may be difficult to put into words, and to build a sense of connectedness with one another.</p><p>In an ongoing project, Kumar is collaborating with the Justice Resource Institute to design a mobile app that supports youth in playing an active role in their treatment-planning process and helps them work toward the goals they set outside of the therapy office. The group is working with clinicians and youth to design and evaluate the system.</p><p>“We are not sitting at MIT designing tools and just throwing them at people,” Kumar says. “We’re designing it together. We need to actually have the folks that are relevant to providing the care in the room.”</p><p>That idea became even clearer to Kumar through a 10-month technology leadership circle she co-facilitated with Foster America. The program brought together people with lived experience of foster care and technology experts to envision how digital technologies could fill gaps in care for young people in the child welfare system.</p><p>This project surfaced the importance of not just designing tools that center youths’ needs but also considering the ways in which social services need to be brought into the innovation process.</p><p>Those ideas have also led Kumar to explorations that involve one of technology’s newest frontiers: artificial intelligence. She began asking questions after she realized that young people who had experienced trauma had already been turning to AI to make critical life decisions, even as many caregivers were not aware of it.</p><p>As a result, Kumar has increasingly focused on supporting care providers in talking with young people about AI. She has led training workshops with organizations that serve young people impacted by trauma or involved in the child welfare system.</p><img src=\"https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202608/MIT-kumar-ila-03-press.jpg?itok=YnXoUfCJ\" alt=\"Closeup Ila Kumar portrait\"/>\n\n\n<p/><p>Kumar’s passion for advocating for young people extends far beyond the lab. She also volunteers as a court-appointed special advocate, working one-on-one with a young person in the child welfare system while pursuing her PhD.</p><p>The role has deepened both her understanding of the challenges young people face and her belief that lasting change depends on relationships.</p><p>Some of her most meaningful moments have come while working directly with young people. Last summer, she, alongside another graduate student in her lab, mentored two interns with foster care experience during a six-week program that blended technology, creativity, and personal growth.</p><p>“It felt like a real privilege,” Kumar says. “Even the six weeks was not enough.”</p><p>Those relationships have also inspired Kumar to address how community-based research is conducted at MIT.</p><p>Recognizing that many students interested in community-engaged work often feel isolated, she collaborated with the Priscilla King Gray Public Service Center to co-teach a course on community-driven innovation. She later established a biweekly community of practice connecting researchers across MIT and Harvard University who are navigating the benefits and challenges of conducting research alongside communities rather than simply studying them.</p><p>Outside of research, Kumar enjoys birdwatching, cooking with friends, and creating graphic illustrations — creative pursuits that, much like her research, reward patience, observation, and careful attention.</p><p>As technology becomes increasingly woven into young people’s lives, Kumar hopes innovation will move beyond the lab and into the communities it is meant to serve.</p><p>“The future of actually impactful technologies,” Kumar says, “is when researchers are making decisions with communities instead of for them.”</p></body>\n</html>",
+      "word_count": 1028,
+      "char_count": 6605,
+      "lead_image": "https://news.mit.edu/sites/default/files/images/202608/MIT-kumar-ila-A1.jpg",
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202608/MIT-kumar-ila-A1.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://news.mit.edu/sites/default/files/styles/news_article__download/public/download/202608/MIT-kumar-ila-01-press.jpg?itok=GdPkEzkH",
+          "alt": "Ila Kumar portrait in front of shelves full of art and craft supplies.",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://news.mit.edu/sites/default/files/styles/news_article__download/public/download/202608/MIT-kumar-ila-02-press.jpg?itok=VpvtYSQi",
+          "alt": "Ila Kumar portrait, seated at a table with craft supplies.",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://news.mit.edu/sites/default/files/styles/news_article__download/public/download/202608/MIT-kumar-ila-03-press.jpg?itok=0ZATag_R",
+          "alt": "Closeup Ila Kumar portrait",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 4,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-01T07:10:48Z"
+    },
+    {
+      "id": "bfd6a67c773752db",
+      "title": "What to know about recent UMD technology updates, changes",
+      "header": "The Diamondback",
+      "published_at": "2026-09-01T04:00:00Z",
+      "published_raw": "Tue, 01 Sep 2026 04:00:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVUhwMmEtaHhINTJvVXFOcms1TnFnVml4N2ktNjBZUUQ5Rm91SW1OV1htTEpOa0ZzMGsyT3A5QlducTNFUUwwSmg0MlJ3eXFDR2ZpUlNxY09ZRU1NcGdwcGM4eEU5SGE1TU9qODk0aUZXZGJmckRIUQ?oc=5",
+      "description": "What to know about recent UMD technology updates, changes The Diamondback",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVUhwMmEtaHhINTJvVXFOcms1TnFnVml4N2ktNjBZUUQ5Rm91SW1OV1htTEpOa0ZzMGsyT3A5QlducTNFUUwwSmg0MlJ3eXFDR2ZpUlNxY09ZRU1NcGdwcGM4eEU5SGE1TU9qODk0aUZXZGJmckRIUQ?oc=5\" target=\"_blank\">What to know about recent UMD technology updates, changes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Diamondback</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVUhwMmEtaHhINTJvVXFOcms1TnFnVml4N2ktNjBZUUQ5Rm91SW1OV1htTEpOa0ZzMGsyT3A5QlducTNFUUwwSmg0MlJ3eXFDR2ZpUlNxY09ZRU1NcGdwcGM4eEU5SGE1TU9qODk0aUZXZGJmckRIUQ?oc=5"
+      ],
+      "scraped_at": "2026-09-01T07:10:48Z",
+      "url": "https://dbknews.com/2026/09/01/recent-umd-technology-updates-changes/",
+      "final_url": "https://dbknews.com/2026/09/01/recent-umd-technology-updates-changes/",
+      "source": "The Diamondback",
+      "article_title": "What to know about recent UMD technology updates, changes",
+      "heading": "What to know about recent UMD technology changes",
+      "authors": [
+        "Johana Gonzalez-Cruz"
+      ],
+      "article_published_at": "2026-09-01T04:40:02+00:00",
+      "article_modified_at": "2026-09-01T04:40:02+00:00",
+      "summary": "UMD community members must update their devices following security, connectivity and web interface changes made to this university’s IT services.",
+      "content": "University of Maryland community members must update their devices following security, connectivity and web interface changes made to this university’s information technology services over the summer.\nThis university’s IT division recently shared updates and steps in a Friday email regarding enabling multi-factor authentication for email accounts, reconnecting to campus Wi-Fi and changes to the university’s Zoom platform.\nHere’s what you need to know about the changes and what steps you need to take to stay up to date.\nEnabling Multi-factor authentication\nLater this fall, multi-factor authentication will become a mandatory security process for students to access their Terpmail account.\nTo enable multi-factor authentication, begin by logging into your Terpmail account. Click your profile picture in the upper right-hand corner of the screen.\nNext, click the “Manage your Google Account” button and select the “Security & sign-in” bar on the left side of your screen. If you haven’t set it up yet, the “2-step verification” section should indicate that this authentication is currently off.\nContinue by clicking that section. You will be required to sign in using your email credentials. Once signed in, you will be prompted with a “Seconds steps” section.\nScroll down and click the blue “Turn on 2-step Verification” button. Review the “You’re now protected with 2-step Verification” prompt to complete the process, which should be followed by a confirmation email. Students should go through these steps as soon as possible to avoid being locked out of their Terpmail account, according to Friday’s email.\n[Catch up on The Diamondback’s top stories from this summer]\nResetting SecureW2 tool\nCommunity members with personal devices that are connected to the SecureW2 authentication certificate have to redo the setup process.\nTo complete the process, first verify that your device has internet access. You will need to connect to the umd-guest wireless network, your phone’s cellular data or a personal hotspot if you’re already on campus.\nNext, visit connect.umd.edu. Select the computer and mobile device box or the gaming and streaming device box, based on what personal device you need to connect.\nThen, verify that your device’s operating system was correctly identified. If it was not, select the correct device from the dropdown menu at the bottom of the screen. If asked to sign in, do so using your university identification credentials.\nOnce prompted, you will need to click the “Install Now” button. Open the application in your device’s downloads folder. Click “Next”, follow the standard sign-in procedure and wait for the program to authenticate your device. Click “Done” once the process is complete.\nAn additional explanation of this installation process with photos can be found here.\n[Follow these steps to update device connection to UMD Wi-Fi]\nZoom interface redesign and third-party limitations\nOn September 30, this university’s Zoom platform design will be updated. The change affects the web interface used to sign in, manage settings and start meetings. This change will not affect Zoom’s desktop or mobile apps.\nFollowing the redesign, there will no longer be a navigation panel on the left side of the screen. Instead, a grid of nine squares, called a waffle menu, will replace the panel and handle controls among Zoom products. Users will be able to drag and drop items in the waffle menu to reorder them by personal preference.\nPersonal settings will be available in the “My account” section of the profile menu in the top right corner of the interface. This section holds the profile, reports, personal contacts, personal devices, recordings and transcripts, settings and summaries sections.\nArtificial intelligence platforms, such as otteri.ai and fireflies.ai, will no longer be usable on this university’s Zoom platform to protect students’ and community members’ data, according to Friday’s email.\nStudents can use Zoom’s built-in features for meeting notes and automatic transcription, such as “Meeting Summary with AI Companion” or “My Notes,” as alternatives to other platforms. These features may need to be enabled through Zoom’s web interface rather than the desktop app. Other features may be restricted by meeting hosts or may not be supported by certain web browsers.\nWhat if I have questions or technical problems?\nStudents can contact the university’s IT Service Desk with any questions or concerns about the updates.\nContact junior staff writer Johana Gonzalez-Cruz at jglez11@terpmail.umd.edu.",
+      "content_html": "<html>\n  <body>\n    <p>University of Maryland community members must update their devices following security, connectivity and web interface changes made to this university’s information technology services over the summer.</p>\n    <p>This university’s IT division recently shared updates and steps in a Friday email regarding enabling multi-factor authentication for email accounts, reconnecting to campus Wi-Fi and changes to the university’s Zoom platform.</p>\n    <p>Here’s what you need to know about the changes and what steps you need to take to stay up to date.</p>\n    <p>Enabling Multi-factor authentication</p>\n    <p>Later this fall, multi-factor authentication will become a mandatory security process for students to access their Terpmail account.</p>\n    <p>To enable multi-factor authentication, begin by logging into your Terpmail account. Click your profile picture in the upper right-hand corner of the screen.</p>\n    <p>Next, click the “Manage your Google Account” button and select the “Security &amp; sign-in” bar on the left side of your screen. If you haven’t set it up yet, the “2-step verification” section should indicate that this authentication is currently off.</p>\n    <p>Continue by clicking that section. You will be required to sign in using your email credentials. Once signed in, you will be prompted with a “Seconds steps” section.</p>\n    <p>Scroll down and click the blue “Turn on 2-step Verification” button. Review the “You’re now protected with 2-step Verification” prompt to complete the process, which should be followed by a confirmation email. Students should go through these steps as soon as possible to avoid being locked out of their Terpmail account, according to Friday’s email.</p>\n    <p>[Catch up on The Diamondback’s top stories from this summer]</p>\n    <p>Resetting SecureW2 tool</p>\n    <p>Community members with personal devices that are connected to the SecureW2 authentication certificate have to redo the setup process.</p>\n    <p>To complete the process, first verify that your device has internet access. You will need to connect to the umd-guest wireless network, your phone’s cellular data or a personal hotspot if you’re already on campus.</p>\n    <p>Next, visit connect.umd.edu. Select the computer and mobile device box or the gaming and streaming device box, based on what personal device you need to connect.</p>\n    <p>Then, verify that your device’s operating system was correctly identified. If it was not, select the correct device from the dropdown menu at the bottom of the screen. If asked to sign in, do so using your university identification credentials.</p>\n    <p>Once prompted, you will need to click the “Install Now” button. Open the application in your device’s downloads folder. Click “Next”, follow the standard sign-in procedure and wait for the program to authenticate your device. Click “Done” once the process is complete.</p>\n    <p>An additional explanation of this installation process with photos can be found here.</p>\n    <p>[Follow these steps to update device connection to UMD Wi-Fi]</p>\n    <p>Zoom interface redesign and third-party limitations</p>\n    <p>On September 30, this university’s Zoom platform design will be updated. The change affects the web interface used to sign in, manage settings and start meetings. This change will not affect Zoom’s desktop or mobile apps.</p>\n    <p>Following the redesign, there will no longer be a navigation panel on the left side of the screen. Instead, a grid of nine squares, called a waffle menu, will replace the panel and handle controls among Zoom products. Users will be able to drag and drop items in the waffle menu to reorder them by personal preference.</p>\n    <p>Personal settings will be available in the “My account” section of the profile menu in the top right corner of the interface. This section holds the profile, reports, personal contacts, personal devices, recordings and transcripts, settings and summaries sections.</p>\n    <p>Artificial intelligence platforms, such as otteri.ai and fireflies.ai, will no longer be usable on this university’s Zoom platform to protect students’ and community members’ data, according to Friday’s email.</p>\n    <p>Students can use Zoom’s built-in features for meeting notes and automatic transcription, such as “Meeting Summary with AI Companion” or “My Notes,” as alternatives to other platforms. These features may need to be enabled through Zoom’s web interface rather than the desktop app. Other features may be restricted by meeting hosts or may not be supported by certain web browsers.</p>\n    <p>What if I have questions or technical problems?</p>\n    <p>Students can contact the university’s IT Service Desk with any questions or concerns about the updates.</p>\n    <p>Contact junior staff writer Johana Gonzalez-Cruz at jglez11@terpmail.umd.edu.</p>\n  </body>\n</html>",
+      "word_count": 703,
+      "char_count": 4550,
+      "lead_image": "https://dbknews.com/wp-content/uploads/2026/08/083126_service.changes_NS-1.jpg",
+      "images": [
+        {
+          "url": "https://dbknews.com/wp-content/uploads/2026/08/083126_service.changes_NS-1.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-01T07:10:48Z"
+    },
     {
       "id": "26144a965fe20e6d",
       "title": "Anchorage police and Assembly members clash over technology and surveillance tools",
@@ -77,6 +231,40 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-01T01:35:11Z"
+    },
+    {
+      "id": "d2576ca06743d2d7",
+      "title": "Industry Roundup: GERSTEL Details How Its DHS+ Technology Delivers Cryogen-Free, Ultra-Sensitive Trace Analysis",
+      "header": "Chromatography Online",
+      "published_at": "2026-09-01T01:30:00Z",
+      "published_raw": "Tue, 01 Sep 2026 01:30:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRmRIUzJ6Y2lGcHp3WDVtdXhzQ3Q2N0I0T2Etc1BEN2hnVUR1R3RNdGQ2VFlkd2k4RW9JOUhLS2ZKQ1A3SFNIVThaRFdITEQ2dnAxclBvX2tQWVNFR2d1LW5QOVhYUDEyOWI4V3ozQkFRbEpWOVlkZGl0SkpXRm1UbUQtbHVBR1FJUU1Eem40TFQxbmh2bWVUZXMxYWFfYkNSdE8zUlk5U1BVSUptaHhEd0RXdmhLRlEtQ2xzTDZDLVV4eThJWFA1VTJLaWdLaERjNlQtWkotY3BzS2RYYXltd0pHUVk?oc=5",
+      "description": "Industry Roundup: GERSTEL Details How Its DHS+ Technology Delivers Cryogen-Free, Ultra-Sensitive Trace Analysis Chromatography Online",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRmRIUzJ6Y2lGcHp3WDVtdXhzQ3Q2N0I0T2Etc1BEN2hnVUR1R3RNdGQ2VFlkd2k4RW9JOUhLS2ZKQ1A3SFNIVThaRFdITEQ2dnAxclBvX2tQWVNFR2d1LW5QOVhYUDEyOWI4V3ozQkFRbEpWOVlkZGl0SkpXRm1UbUQtbHVBR1FJUU1Eem40TFQxbmh2bWVUZXMxYWFfYkNSdE8zUlk5U1BVSUptaHhEd0RXdmhLRlEtQ2xzTDZDLVV4eThJWFA1VTJLaWdLaERjNlQtWkotY3BzS2RYYXltd0pHUVk?oc=5\" target=\"_blank\">Industry Roundup: GERSTEL Details How Its DHS+ Technology Delivers Cryogen-Free, Ultra-Sensitive Trace Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chromatography Online</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRmRIUzJ6Y2lGcHp3WDVtdXhzQ3Q2N0I0T2Etc1BEN2hnVUR1R3RNdGQ2VFlkd2k4RW9JOUhLS2ZKQ1A3SFNIVThaRFdITEQ2dnAxclBvX2tQWVNFR2d1LW5QOVhYUDEyOWI4V3ozQkFRbEpWOVlkZGl0SkpXRm1UbUQtbHVBR1FJUU1Eem40TFQxbmh2bWVUZXMxYWFfYkNSdE8zUlk5U1BVSUptaHhEd0RXdmhLRlEtQ2xzTDZDLVV4eThJWFA1VTJLaWdLaERjNlQtWkotY3BzS2RYYXltd0pHUVk?oc=5"
+      ],
+      "scraped_at": "2026-09-01T07:10:48Z",
+      "url": "https://www.chromatographyonline.com/view/industry-roundup-gerstel-details-how-its-dhs-technology-delivers-cryogen-free-ultra-sensitive-trace-analysis",
+      "final_url": "https://www.chromatographyonline.com/view/industry-roundup-gerstel-details-how-its-dhs-technology-delivers-cryogen-free-ultra-sensitive-trace-analysis",
+      "source": "Chromatography Online",
+      "article_title": "",
+      "heading": "Industry Roundup: GERSTEL Details How Its DHS+ Technology Delivers Cryogen-Free, Ultra-Sensitive Trace Analysis",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Industry Roundup: GERSTEL Details How Its DHS+ Technology Delivers Cryogen-Free, Ultra-Sensitive Trace Analysis Chromatography Online",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-01T07:10:48Z"
     },
     {
       "id": "11b385ef5500bbe3",
@@ -276,6 +464,48 @@
       "status": "partial",
       "error": "short_text",
       "first_seen_at": "2026-08-31T22:21:59Z"
+    },
+    {
+      "id": "df879e23d9334dd8",
+      "title": "Flock cameras won’t be used at Michigan Capitol, but other technology is drawing concerns",
+      "header": "WILX",
+      "published_at": "2026-08-31T21:54:00Z",
+      "published_raw": "Mon, 31 Aug 2026 21:54:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXB6LW1KRTlGNjlURzRab0NjZ0NBTG9SbGZwUElIbGVMOEhVUUxPSTJLXzRVbjRlMV9pZElud2pRM3pwR2JkMlRzemF3LXpYaUkxY0tqc3owQVVFcllLMXpPMzRKR1IwV2JqS2FfT2FGWGZ5amluVDVTMXkyZjJCdnYzNmlCZnNBRGJMazZFam14OXZDTzAzMVl0RVQ3cW0xbFlPOE9CUUVpanhQ0gHAAUFVX3lxTFBDeHhQQTV0Y3o2ckNlTmF0NlF2RFhycjNVVHdoM3NuaHlaVDBkWXBnVmRQVVVsM056M2VjUnRqVkU0MGF1OXBMUFNlRWI4VDdhQVBTTV82TXB5a0JwbFZmamlQWkZYNkR0dWt0MTJVMkNvZks2bTdOZ0JueURYVHFJV3NqTkhLeGhZOTU3eWpFX1hMTENvQVk2N001blA1TUhIX1VYYTdZRGZyQWMzQXRheDVQWHozeUV5RElXOUd0Mw?oc=5",
+      "description": "Flock cameras won’t be used at Michigan Capitol, but other technology is drawing concerns WILX",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXB6LW1KRTlGNjlURzRab0NjZ0NBTG9SbGZwUElIbGVMOEhVUUxPSTJLXzRVbjRlMV9pZElud2pRM3pwR2JkMlRzemF3LXpYaUkxY0tqc3owQVVFcllLMXpPMzRKR1IwV2JqS2FfT2FGWGZ5amluVDVTMXkyZjJCdnYzNmlCZnNBRGJMazZFam14OXZDTzAzMVl0RVQ3cW0xbFlPOE9CUUVpanhQ0gHAAUFVX3lxTFBDeHhQQTV0Y3o2ckNlTmF0NlF2RFhycjNVVHdoM3NuaHlaVDBkWXBnVmRQVVVsM056M2VjUnRqVkU0MGF1OXBMUFNlRWI4VDdhQVBTTV82TXB5a0JwbFZmamlQWkZYNkR0dWt0MTJVMkNvZks2bTdOZ0JueURYVHFJV3NqTkhLeGhZOTU3eWpFX1hMTENvQVk2N001blA1TUhIX1VYYTdZRGZyQWMzQXRheDVQWHozeUV5RElXOUd0Mw?oc=5\" target=\"_blank\">Flock cameras won’t be used at Michigan Capitol, but other technology is drawing concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WILX</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXB6LW1KRTlGNjlURzRab0NjZ0NBTG9SbGZwUElIbGVMOEhVUUxPSTJLXzRVbjRlMV9pZElud2pRM3pwR2JkMlRzemF3LXpYaUkxY0tqc3owQVVFcllLMXpPMzRKR1IwV2JqS2FfT2FGWGZ5amluVDVTMXkyZjJCdnYzNmlCZnNBRGJMazZFam14OXZDTzAzMVl0RVQ3cW0xbFlPOE9CUUVpanhQ0gHAAUFVX3lxTFBDeHhQQTV0Y3o2ckNlTmF0NlF2RFhycjNVVHdoM3NuaHlaVDBkWXBnVmRQVVVsM056M2VjUnRqVkU0MGF1OXBMUFNlRWI4VDdhQVBTTV82TXB5a0JwbFZmamlQWkZYNkR0dWt0MTJVMkNvZks2bTdOZ0JueURYVHFJV3NqTkhLeGhZOTU3eWpFX1hMTENvQVk2N001blA1TUhIX1VYYTdZRGZyQWMzQXRheDVQWHozeUV5RElXOUd0Mw?oc=5"
+      ],
+      "scraped_at": "2026-09-01T07:10:48Z",
+      "url": "https://www.wilx.com/2026/08/31/flock-cameras-wont-be-michigan-capitol-other-technology-is-drawing-concerns/",
+      "final_url": "https://www.wilx.com/2026/08/31/flock-cameras-wont-be-michigan-capitol-other-technology-is-drawing-concerns/",
+      "source": "https://www.wilx.com",
+      "article_title": "Flock cameras won’t be used at Michigan Capitol, but other technology is drawing concerns",
+      "heading": "Flock cameras won’t be used at Michigan Capitol, but other technology is drawing concerns",
+      "authors": [
+        "Bobby Cushing"
+      ],
+      "article_published_at": "2026-08-31T21:54:59.028Z",
+      "article_modified_at": "2026-08-31T21:54:59.028Z",
+      "summary": "Local organizations, including DeFlock Lansing, applauded the decision during Monday’s commission meeting",
+      "content": "Flock cameras won’t be used at Michigan Capitol, but other technology is drawing concerns\nLANSING, Mich. (News 10) - The Michigan State Capitol Commission is no longer moving forward with plans to add Flock cameras or any other automatic license plate readers (ALPRs) around the state Capitol.\nLocal organizations, including DeFlock Lansing, applauded the decision during Monday’s commission meeting. Despite the news, many still attended the meeting.\nJohn Warmb, of DeFlock Lansing, had planned to speak in opposition to the addition of Flock cameras, but said that opposition was not needed.\n“I just want to thank you for not going forward with these plans, listening to the concerns that a lot of the people in this room have today,” Warmb said.\nThe Capitol Commission’s Executive Director Robert Blackshaw said there are no plans to move forward with any other ALPRs.\n“Not that I’m aware of, at this point,” he said.\nBlackshaw followed up by saying they are “looking at everything.”\n“We really want to educate ourselves to see what technologies are out there to help prevent [other technologies] from coming in,” Blackshaw said.\nRELATED COVERAGE:\n- Who is watching Mid-Michigan? Inside the use of Flock license plate readers\n- Lansing City Council adopts resolution to end Flock camera contracts\n- Flock Safety overhauls privacy policy for license plate reader cameras used by Michigan law enforcement\nDrone technology remains under discussion\nBlackshaw spoke about the potential use of drones around the Capitol and how emerging technologies could be utilized. He told commissioners about an upcoming drone summit at Camp Grayling called “The Guardian Sky Summit.”\nThe summit will have vendors and contractors “demonstrate their systems against drone threats in a controlled, real-world environment,” he said.\nBlackshaw told commissioners the Capitol building is “constantly” receiving threats and it is the commission’s “responsibility” to explore and educate themselves on what they detect, mitigate, and enforce around their airspace.\nWarmb said the technology shares similar problems as ALPRs, particularly autonomous drones.\n“A lot of them use the same technology, license plate reader technology and thermal imaging; they’re subject to the same issues of privacy and security and warrantless surveillance that we have an issue with, with the ALPRs,” Warmb said.\nWarmb said if plans move forward, which he hopes they don’t, he would like to see transparency throughout the process as well as “robust public discussion,” before decisions are made.\nBlackshaw said the invitation to Camp Grayling does not mean the commission is moving forward with adding drones, but that the commission is looking into them.\n“In any industry, any discipline, the tools are getting better, the computers are getting better, the cameras are getting better...It’s our responsibility to look at all this to see if it applies and fits into our system,” Blackshaw said.\nBlackshaw said as drones evolve, they need to be able to act quickly to protect the Capitol and the people inside.\n“AI is everywhere around us, so it’s definitely something that needs to be asked and needs to be thought about. If you don’t, you’re not being responsible,” Blackshaw said.\nWarmb said while he appreciates the commission’s decision regarding automatic license plate readers, he would like to see an announcement in writing to make sure another company does not take Flock’s place.\nBlackshaw did not say whether recent opposition to Flock cameras, specifically in the city of Lansing, had anything to do with the commission’s decision. He said everyone’s voice was important, and that opposing groups were often asking the same questions the commission asks itself.\nStream News 10 Lansing on your favorite devices! Here’s how to download the News 10+ app on Roku, Fire TV or Apple TV.\nBe the first to see the Mid-Michigan headlines you care about – download the News 10+ app and subscribe to our News 10 newsletter and YouTube page to receive the latest local news and weather.\nCopyright 2026 WILX. All rights reserved.",
+      "content_html": "<html>\n  <body>\n    <h1>Flock cameras won’t be used at Michigan Capitol, but other technology is drawing concerns</h1>\n    <p>LANSING, Mich. (News 10) - The Michigan State Capitol Commission is no longer moving forward with plans to add Flock cameras or any other automatic license plate readers (ALPRs) around the state Capitol.</p>\n    <p>Local organizations, including DeFlock Lansing, applauded the decision during Monday’s commission meeting. Despite the news, many still attended the meeting.</p>\n    <p>John Warmb, of DeFlock Lansing, had planned to speak in opposition to the addition of Flock cameras, but said that opposition was not needed.</p>\n    <p>“I just want to thank you for not going forward with these plans, listening to the concerns that a lot of the people in this room have today,” Warmb said.</p>\n    <p>The Capitol Commission’s Executive Director Robert Blackshaw said there are no plans to move forward with any other ALPRs.</p>\n    <p>“Not that I’m aware of, at this point,” he said.</p>\n    <p>Blackshaw followed up by saying they are “looking at everything.”</p>\n    <p>“We really want to educate ourselves to see what technologies are out there to help prevent [other technologies] from coming in,” Blackshaw said.</p>\n    <p>RELATED COVERAGE:</p>\n    <ul>\n      <li>Who is watching Mid-Michigan? Inside the use of Flock license plate readers</li>\n      <li>Lansing City Council adopts resolution to end Flock camera contracts</li>\n      <li>Flock Safety overhauls privacy policy for license plate reader cameras used by Michigan law enforcement</li>\n    </ul>\n    <h2>Drone technology remains under discussion</h2>\n    <p>Blackshaw spoke about the potential use of drones around the Capitol and how emerging technologies could be utilized. He told commissioners about an upcoming drone summit at Camp Grayling called “The Guardian Sky Summit.”</p>\n    <p>The summit will have vendors and contractors “demonstrate their systems against drone threats in a controlled, real-world environment,” he said.</p>\n    <p>Blackshaw told commissioners the Capitol building is “constantly” receiving threats and it is the commission’s “responsibility” to explore and educate themselves on what they detect, mitigate, and enforce around their airspace.</p>\n    <p>Warmb said the technology shares similar problems as ALPRs, particularly autonomous drones.</p>\n    <p>“A lot of them use the same technology, license plate reader technology and thermal imaging; they’re subject to the same issues of privacy and security and warrantless surveillance that we have an issue with, with the ALPRs,” Warmb said.</p>\n    <p>Warmb said if plans move forward, which he hopes they don’t, he would like to see transparency throughout the process as well as “robust public discussion,” before decisions are made.</p>\n    <p>Blackshaw said the invitation to Camp Grayling does not mean the commission is moving forward with adding drones, but that the commission is looking into them.</p>\n    <p>“In any industry, any discipline, the tools are getting better, the computers are getting better, the cameras are getting better...It’s our responsibility to look at all this to see if it applies and fits into our system,” Blackshaw said.</p>\n    <p>Blackshaw said as drones evolve, they need to be able to act quickly to protect the Capitol and the people inside.</p>\n    <p>“AI is everywhere around us, so it’s definitely something that needs to be asked and needs to be thought about. If you don’t, you’re not being responsible,” Blackshaw said.</p>\n    <p>Warmb said while he appreciates the commission’s decision regarding automatic license plate readers, he would like to see an announcement in writing to make sure another company does not take Flock’s place.</p>\n    <p>Blackshaw did not say whether recent opposition to Flock cameras, specifically in the city of Lansing, had anything to do with the commission’s decision. He said everyone’s voice was important, and that opposing groups were often asking the same questions the commission asks itself.</p>\n    <p>Stream News 10 Lansing on your favorite devices! Here’s how to download the News 10+ app on Roku, Fire TV or Apple TV.</p>\n    <p>Be the first to see the Mid-Michigan headlines you care about – download the News 10+ app and subscribe to our News 10 newsletter and YouTube page to receive the latest local news and weather.</p>\n    <p>Copyright 2026 WILX. All rights reserved.</p>\n  </body>\n</html>",
+      "word_count": 651,
+      "char_count": 4088,
+      "lead_image": "https://gray-wilx-prod.gtv-cdn.com/resizer/v2/IHRSDCKKSNG7HBPWHK427VQHHI.png?auth=76e205b3b7d6b4995dc6e85d556bf5b7e7a062b47fe8d5b1aa1d698b00609479&width=1200&height=600&smart=true",
+      "images": [
+        {
+          "url": "https://gray-wilx-prod.gtv-cdn.com/resizer/v2/IHRSDCKKSNG7HBPWHK427VQHHI.png?auth=76e205b3b7d6b4995dc6e85d556bf5b7e7a062b47fe8d5b1aa1d698b00609479&width=1200&height=600&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-01T07:10:48Z"
     },
     {
       "id": "8545359054b43426",
@@ -1195,40 +1425,6 @@
       "first_seen_at": "2026-08-31T17:49:43Z"
     },
     {
-      "id": "3329169f8890974c",
-      "title": "Gene-Editing Technology Offers New Ways to Create the Dogs of Our Dreams",
-      "header": "The New York Times",
-      "published_at": "2026-08-31T15:50:08Z",
-      "published_raw": "Mon, 31 Aug 2026 15:50:08 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOalY1czRUSFZoSDF2VTk2X01uWEdpS2h0eE90ODR6Mlktay02Ull3VEZaTVRBcGhidUdwRjJZUFN6WHVLSllfQkdZS1ZaSFR3dVVtcjZadmJhUXBoWW5od1pHOTZFSkRwLWZJRVJVdDJYcFF2NFFuRDFBVFV6QzBleENvc0Rvakk?oc=5",
-      "description": "Gene-Editing Technology Offers New Ways to Create the Dogs of Our Dreams The New York Times",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOalY1czRUSFZoSDF2VTk2X01uWEdpS2h0eE90ODR6Mlktay02Ull3VEZaTVRBcGhidUdwRjJZUFN6WHVLSllfQkdZS1ZaSFR3dVVtcjZadmJhUXBoWW5od1pHOTZFSkRwLWZJRVJVdDJYcFF2NFFuRDFBVFV6QzBleENvc0Rvakk?oc=5\" target=\"_blank\">Gene-Editing Technology Offers New Ways to Create the Dogs of Our Dreams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOalY1czRUSFZoSDF2VTk2X01uWEdpS2h0eE90ODR6Mlktay02Ull3VEZaTVRBcGhidUdwRjJZUFN6WHVLSllfQkdZS1ZaSFR3dVVtcjZadmJhUXBoWW5od1pHOTZFSkRwLWZJRVJVdDJYcFF2NFFuRDFBVFV6QzBleENvc0Rvakk?oc=5"
-      ],
-      "scraped_at": "2026-09-01T01:35:11Z",
-      "url": "https://www.nytimes.com/2026/08/31/science/dog-breeding-gene-editing-crispr.html",
-      "final_url": "https://www.nytimes.com/2026/08/31/science/dog-breeding-gene-editing-crispr.html",
-      "source": "The New York Times",
-      "article_title": "",
-      "heading": "Gene-Editing Technology Offers New Ways to Create the Dogs of Our Dreams",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Gene-Editing Technology Offers New Ways to Create the Dogs of Our Dreams The New York Times",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-08-31T17:49:43Z"
-    },
-    {
       "id": "77711e849217b56f",
       "title": "Micron Technology (MU) Gains Driven by Earnings Upgrades",
       "header": "Yahoo Finance",
@@ -1901,6 +2097,40 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-08-31T10:26:26Z"
+    },
+    {
+      "id": "3329169f8890974c",
+      "title": "Gene-Editing Technology Offers New Ways to Create the Dogs of Our Dreams",
+      "header": "The New York Times",
+      "published_at": "2026-08-31T09:02:28Z",
+      "published_raw": "Mon, 31 Aug 2026 09:02:28 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOalY1czRUSFZoSDF2VTk2X01uWEdpS2h0eE90ODR6Mlktay02Ull3VEZaTVRBcGhidUdwRjJZUFN6WHVLSllfQkdZS1ZaSFR3dVVtcjZadmJhUXBoWW5od1pHOTZFSkRwLWZJRVJVdDJYcFF2NFFuRDFBVFV6QzBleENvc0Rvakk?oc=5",
+      "description": "Gene-Editing Technology Offers New Ways to Create the Dogs of Our Dreams The New York Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOalY1czRUSFZoSDF2VTk2X01uWEdpS2h0eE90ODR6Mlktay02Ull3VEZaTVRBcGhidUdwRjJZUFN6WHVLSllfQkdZS1ZaSFR3dVVtcjZadmJhUXBoWW5od1pHOTZFSkRwLWZJRVJVdDJYcFF2NFFuRDFBVFV6QzBleENvc0Rvakk?oc=5\" target=\"_blank\">Gene-Editing Technology Offers New Ways to Create the Dogs of Our Dreams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOalY1czRUSFZoSDF2VTk2X01uWEdpS2h0eE90ODR6Mlktay02Ull3VEZaTVRBcGhidUdwRjJZUFN6WHVLSllfQkdZS1ZaSFR3dVVtcjZadmJhUXBoWW5od1pHOTZFSkRwLWZJRVJVdDJYcFF2NFFuRDFBVFV6QzBleENvc0Rvakk?oc=5"
+      ],
+      "scraped_at": "2026-09-01T07:10:48Z",
+      "url": "https://www.nytimes.com/2026/08/31/science/dog-breeding-gene-editing-crispr.html",
+      "final_url": "https://www.nytimes.com/2026/08/31/science/dog-breeding-gene-editing-crispr.html",
+      "source": "The New York Times",
+      "article_title": "",
+      "heading": "Gene-Editing Technology Offers New Ways to Create the Dogs of Our Dreams",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Gene-Editing Technology Offers New Ways to Create the Dogs of Our Dreams The New York Times",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-08-31T17:49:43Z"
     },
     {
       "id": "e57a7f5edcd0ffe1",
