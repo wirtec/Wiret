@@ -1,17 +1,641 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-02T10:31:40Z",
-  "count": 231,
+  "generated_at": "2026-09-02T14:57:39Z",
+  "count": 245,
   "stats": {
     "feed_items": 25,
     "scraped_now": 16,
-    "added": 13,
-    "updated": 3,
-    "ok": 178,
-    "failed": 53,
-    "duration_seconds": 6.65
+    "added": 14,
+    "updated": 2,
+    "ok": 187,
+    "failed": 58,
+    "duration_seconds": 104.75
   },
   "articles": [
+    {
+      "id": "0beaf4ce5ccad122",
+      "title": "Build technology for your customers’ careers",
+      "header": "Fast Company",
+      "published_at": "2026-09-02T14:33:30Z",
+      "published_raw": "Wed, 02 Sep 2026 14:33:30 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaWZteEJ2bjktLTVLTzdTQm5YV0N6QURKenU3bzRULXo1RFQ3dnhfQWZucndfMzlCVkZpRWlzTm50Qkp1T3otRlhLMkh4QWw0eWZNZUhBc0IyS1BiZXEwN3pIWU02YU9rbk5JcHQ2cjlsOHRmVzJIZ3JBZmFuS1RUUUVMSDBLZDA?oc=5",
+      "description": "Build technology for your customers’ careers Fast Company",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPaWZteEJ2bjktLTVLTzdTQm5YV0N6QURKenU3bzRULXo1RFQ3dnhfQWZucndfMzlCVkZpRWlzTm50Qkp1T3otRlhLMkh4QWw0eWZNZUhBc0IyS1BiZXEwN3pIWU02YU9rbk5JcHQ2cjlsOHRmVzJIZ3JBZmFuS1RUUUVMSDBLZDA?oc=5\" target=\"_blank\">Build technology for your customers’ careers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaWZteEJ2bjktLTVLTzdTQm5YV0N6QURKenU3bzRULXo1RFQ3dnhfQWZucndfMzlCVkZpRWlzTm50Qkp1T3otRlhLMkh4QWw0eWZNZUhBc0IyS1BiZXEwN3pIWU02YU9rbk5JcHQ2cjlsOHRmVzJIZ3JBZmFuS1RUUUVMSDBLZDA?oc=5"
+      ],
+      "scraped_at": "2026-09-02T14:55:56Z",
+      "url": "https://www.fastcompany.com/91600313/build-technology-for-your-customers-careers",
+      "final_url": "https://www.fastcompany.com/91600313/build-technology-for-your-customers-careers",
+      "source": "Fast Company",
+      "article_title": "",
+      "heading": "Build technology for your customers’ careers",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Build technology for your customers’ careers Fast Company",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-02T14:55:56Z"
+    },
+    {
+      "id": "584a8f4f01792406",
+      "title": "Hemant Desai Appointed as ACCGov CIO/IT Department Director",
+      "header": "Athens-Clarke County",
+      "published_at": "2026-09-02T14:11:37Z",
+      "published_raw": "Wed, 02 Sep 2026 14:11:37 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MYVFoMjJzUVdUTnloZnhzZnhNWmt4dHdpa3JQb3RjTFZzcUtZajd1bmtFNWNudTZZYWhDRDFBMVR5YUlkVkNfWDc5UWJWSDVBeHI1akFjWDVacDRD?oc=5",
+      "description": "Hemant Desai Appointed as ACCGov CIO/IT Department Director Athens-Clarke County",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MYVFoMjJzUVdUTnloZnhzZnhNWmt4dHdpa3JQb3RjTFZzcUtZajd1bmtFNWNudTZZYWhDRDFBMVR5YUlkVkNfWDc5UWJWSDVBeHI1akFjWDVacDRD?oc=5\" target=\"_blank\">Hemant Desai Appointed as ACCGov CIO/IT Department Director</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Athens-Clarke County</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MYVFoMjJzUVdUTnloZnhzZnhNWmt4dHdpa3JQb3RjTFZzcUtZajd1bmtFNWNudTZZYWhDRDFBMVR5YUlkVkNfWDc5UWJWSDVBeHI1akFjWDVacDRD?oc=5"
+      ],
+      "scraped_at": "2026-09-02T14:55:56Z",
+      "url": "https://www.accgov.com/CivicAlerts.aspx?AID=6985",
+      "final_url": "https://www.accgov.com/m/newsflash/home/detail/6985",
+      "source": "accgov.com",
+      "article_title": "Hemant Desai Appointed as ACCGov CIO/IT Department Director",
+      "heading": "Hemant Desai Appointed as ACCGov CIO/IT Department Director",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Athens-Clarke County Unified Government (ACCGov) Manager Bob Cowell has appointed Hemant Desai to serve as the new Chief Information Officer (CIO) and Information Technology (IT) Department Director b",
+      "content": "Athens-Clarke County Unified Government (ACCGov) Manager Bob Cowell has appointed Hemant Desai to serve as the new Chief Information Officer (CIO) and Information Technology (IT) Department Director beginning September 28, 2026.\nDesai has more than 20 years of technology leadership experience across the nonprofit, government, and education environments.\n\"Hemant brings an impressive combination of local government experience, technical expertise, and a genuine understanding of how technology can better serve an organization and its community,\" said Cowell. \"His previous public sector roles have given him valuable perspectives on the opportunities and challenges facing communities like ours. We’re excited to welcome him to Athens-Clarke County and to our leadership team.\"\nIn his most recent information technology role, Desai served for nearly five years as the CIO for the International City/County Management Association (ICMA) based in Washington, DC. In this position, he led initiatives related to cloud modernization, identity management, AI governance, and digital transformation for the global nonprofit serving local government professionals worldwide.\nPrior to his work at ICMA, Desai worked for over a decade for the Guilford County Government in Greensboro, NC as Project Manager, Director of Client Services, and for nearly eight years, as CIO. As CIO, he directed a team of 52 IT professionals in enterprise IT operations, cybersecurity, data governance, infrastructure modernization, and digital transformation initiatives for North Carolina’s third-largest county government serving more than 540,000 residents across 20 departments.\n\"I'm honored to join Athens-Clarke County as Chief Information Officer,\" said Desai. \"Technology works best when it's invisible to the people it serves, quietly making government more responsive, more secure, and more connected to the community. I look forward to building that kind of technology foundation alongside the Mayor and Commission and staff to earn the trust of the residents we serve every day.\"\nPrior to his government work, Desai held the positions of president and CIO of a regional computer learning center. He holds a bachelor’s degree in electrical engineering from Maharaja Sayajirao University in India and an MBA in Technology Management from the University of Phoenix. He holds certifications from the Project Management Institute (PMI) as a Program and Project Management Professional and is a Microsoft certified trainer and IT professional.\nThe Athens-Clarke County IT Department provides high-quality computer services, state-of-the-art computer networks and software applications, reliable equipment and system access, proficient technical support, and assistance that encourages the application of technology to improve the efficiency and productivity of ACCGov operations.\nFor more information on the ACCGov IT Department, visit www.accgov.com/it.\nResources",
+      "content_html": "<html>\n  <body>\n    <p>Athens-Clarke County Unified Government (ACCGov) Manager Bob Cowell has appointed Hemant Desai to serve as the new Chief Information Officer (CIO) and Information Technology (IT) Department Director beginning September 28, 2026.</p>\n    <p>Desai has more than 20 years of technology leadership experience across the nonprofit, government, and education environments.</p>\n    <p>\"Hemant brings an impressive combination of local government experience, technical expertise, and a genuine understanding of how technology can better serve an organization and its community,\" said Cowell. \"His previous public sector roles have given him valuable perspectives on the opportunities and challenges facing communities like ours. We’re excited to welcome him to Athens-Clarke County and to our leadership team.\"</p>\n    <p>In his most recent information technology role, Desai served for nearly five years as the CIO for the International City/County Management Association (ICMA) based in Washington, DC. In this position, he led initiatives related to cloud modernization, identity management, AI governance, and digital transformation for the global nonprofit serving local government professionals worldwide.</p>\n    <p>Prior to his work at ICMA, Desai worked for over a decade for the Guilford County Government in Greensboro, NC as Project Manager, Director of Client Services, and for nearly eight years, as CIO. As CIO, he directed a team of 52 IT professionals in enterprise IT operations, cybersecurity, data governance, infrastructure modernization, and digital transformation initiatives for North Carolina’s third-largest county government serving more than 540,000 residents across 20 departments.</p>\n    <p>\"I'm honored to join Athens-Clarke County as Chief Information Officer,\" said Desai. \"Technology works best when it's invisible to the people it serves, quietly making government more responsive, more secure, and more connected to the community. I look forward to building that kind of technology foundation alongside the Mayor and Commission and staff to earn the trust of the residents we serve every day.\"</p>\n    <p>Prior to his government work, Desai held the positions of president and CIO of a regional computer learning center. He holds a bachelor’s degree in electrical engineering from Maharaja Sayajirao University in India and an MBA in Technology Management from the University of Phoenix. He holds certifications from the Project Management Institute (PMI) as a Program and Project Management Professional and is a Microsoft certified trainer and IT professional.</p>\n    <p>The Athens-Clarke County IT Department provides high-quality computer services, state-of-the-art computer networks and software applications, reliable equipment and system access, proficient technical support, and assistance that encourages the application of technology to improve the efficiency and productivity of ACCGov operations.</p>\n    <p>For more information on the ACCGov IT Department, visit www.accgov.com/it.</p>\n    <p>Resources</p>\n  </body>\n</html>",
+      "word_count": 416,
+      "char_count": 2946,
+      "lead_image": "http://www.accgov.com/ImageRepository/Document?documentID=120399",
+      "images": [
+        {
+          "url": "http://www.accgov.com/ImageRepository/Document?documentID=120399",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-02T14:55:56Z"
+    },
+    {
+      "id": "36f545cfbde810e6",
+      "title": "Letters to the Editor: Trump is setting us back in categories far beyond military technology",
+      "header": "Los Angeles Times",
+      "published_at": "2026-09-02T13:30:00Z",
+      "published_raw": "Wed, 02 Sep 2026 13:30:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalJzcG1vU0VvY2dEQ3c4TE42LWxIQUowdWhEMEVieE56aExWcmJkVFlQa3ZQaXp1bEY5ZUctZ2JGTVdBTUR0SjN0XzRodXJoTTdzbUt1VEtzd0lSeEpiM05YeGhSUjB5aDJYa05DQll6SnJSUHJHelJXTElMNjdEUF9WYUQ0dThrWVM5Rm93TmFZYnAycFptNk9uTmUtbk1ldUdueV9NbE91b3c?oc=5",
+      "description": "Letters to the Editor: Trump is setting us back in categories far beyond military technology Los Angeles Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalJzcG1vU0VvY2dEQ3c4TE42LWxIQUowdWhEMEVieE56aExWcmJkVFlQa3ZQaXp1bEY5ZUctZ2JGTVdBTUR0SjN0XzRodXJoTTdzbUt1VEtzd0lSeEpiM05YeGhSUjB5aDJYa05DQll6SnJSUHJHelJXTElMNjdEUF9WYUQ0dThrWVM5Rm93TmFZYnAycFptNk9uTmUtbk1ldUdueV9NbE91b3c?oc=5\" target=\"_blank\">Letters to the Editor: Trump is setting us back in categories far beyond military technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalJzcG1vU0VvY2dEQ3c4TE42LWxIQUowdWhEMEVieE56aExWcmJkVFlQa3ZQaXp1bEY5ZUctZ2JGTVdBTUR0SjN0XzRodXJoTTdzbUt1VEtzd0lSeEpiM05YeGhSUjB5aDJYa05DQll6SnJSUHJHelJXTElMNjdEUF9WYUQ0dThrWVM5Rm93TmFZYnAycFptNk9uTmUtbk1ldUdueV9NbE91b3c?oc=5"
+      ],
+      "scraped_at": "2026-09-02T14:55:56Z",
+      "url": "https://www.latimes.com/opinion/letters-to-the-editor/story/2026-09-02/trump-military-technology-regression",
+      "final_url": "https://www.latimes.com/opinion/letters-to-the-editor/story/2026-09-02/trump-military-technology-regression",
+      "source": "Los Angeles Times",
+      "article_title": "Letters to the Editor: Trump is setting us back in categories far beyond military technology",
+      "heading": "Letters to the Editor: Trump is setting us back in categories far beyond military technology",
+      "authors": [],
+      "article_published_at": "2026-09-02T13:30:00",
+      "article_modified_at": "2026-09-02T13:30:00.265Z",
+      "summary": "An L.A. Times reader writes that a recent headline about a regression in military technology 'can be applied to President Trump spending money on programs in environmental destruction, lawlessness in justice and rewriting history.'",
+      "content": "Letters to the Editor: Trump is setting us back in categories far beyond military technology\n- Click here to listen to this article\n- Share via\nSee more from the L.A. Times in Google Search. Set us as preferred\nTo the editor: Contributing writer Jon Duffy’s headline applies to so many other areas besides reverting to old technologies for aircraft carrier launches (“Trump is spending billions to reverse American progress,” Aug. 31).\nExamine the federal budget and policies. The same headline can be applied to President Trump spending money on programs in environmental destruction, lawlessness in justice and rewriting history. It can apply to the spurning of allies and diplomatic collaboration and initiating and fighting spurious wars. Then there’s the defunding of health programs and spreading confusion about vaccines.\nThere are countless other examples: slashing federal aid to education, legalizing discrimination, exploding the national debt, promoting fossil fuels at the expense of green energy, defanging civil and human rights laws, undermining gun control laws, increasing the power of billionaires and corporations to buy elections and establishing limits on voting. The weakening of Congress and the curtailing of the power of lower courts, the building of personal monuments and the destruction of others and the cuts to scientific research grants are all further examples of how our tax dollars are at work reversing American programs that we have fought so long and hard to establish.\nDuffy’s description barely represents the “tip of the iceberg,” as most recently exposed by the melting of a glacier in Nepal, while the Trump administration denies climate change.\nJoel Pelcyger, Los Angeles",
+      "content_html": "<html>\n  <body><h1>Letters to the Editor: Trump is setting us back in categories far beyond military technology</h1><img src=\"https://ca-times.brightspotcdn.com/dims4/default/1f559af/2147483647/strip/true/crop/4729x3148+0+0/resize/1200x799!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F33%2F1f6a4d6942ee9ab861233ec96b2f%2Fd295d48c402440db8abee8c9da00efe3.jpg\" alt=\"An aircraft carrier at sea\"/>   <ul><li></li><li></li><li>   <gn-popover>Click here to listen to this article</gn-popover></li><li>  Share via</li></ul><p>See more from the L.A. Times in Google Search. Set us as preferred</p><p>To the editor: Contributing writer Jon Duffy’s headline applies to so many other areas besides reverting to old technologies for aircraft carrier launches (“Trump is spending billions to reverse American progress,” Aug. 31).</p><p>Examine the federal budget and policies. The same headline can be applied to President Trump spending money on programs in environmental destruction, lawlessness in justice and rewriting history. It can apply to the spurning of allies and diplomatic collaboration and initiating and fighting spurious wars. Then there’s the defunding of health programs and spreading confusion about vaccines.</p><p>There are countless other examples: slashing federal aid to education, legalizing discrimination, exploding the national debt, promoting fossil fuels at the expense of green energy, defanging civil and human rights laws, undermining gun control laws, increasing the power of billionaires and corporations to buy elections and establishing limits on voting. The weakening of Congress and the curtailing of the power of lower courts, the building of personal monuments and the destruction of others and the cuts to scientific research grants are all further examples of how our tax dollars are at work reversing American programs that we have fought so long and hard to establish.</p><p>Duffy’s description barely represents the “tip of the iceberg,” as most recently exposed by the melting of a glacier in Nepal, while the Trump administration denies climate change.</p><p>Joel Pelcyger, Los Angeles</p></body>\n</html>",
+      "word_count": 266,
+      "char_count": 1715,
+      "lead_image": "https://ca-times.brightspotcdn.com/dims4/default/9f60191/2147483647/strip/true/crop/4729x2483+0+333/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F33%2F1f6a4d6942ee9ab861233ec96b2f%2Fd295d48c402440db8abee8c9da00efe3.jpg",
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/9f60191/2147483647/strip/true/crop/4729x2483+0+333/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F33%2F1f6a4d6942ee9ab861233ec96b2f%2Fd295d48c402440db8abee8c9da00efe3.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/87e5d02/2147483647/strip/true/crop/4729x2660+0+244/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F33%2F1f6a4d6942ee9ab861233ec96b2f%2Fd295d48c402440db8abee8c9da00efe3.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/ee8b49f/2147483647/strip/false/crop/4729x3148+0+0/resize/1486x989!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F33%2F1f6a4d6942ee9ab861233ec96b2f%2Fd295d48c402440db8abee8c9da00efe3.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/8d32c6b/2147483647/strip/false/crop/4729x2660+0+244/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F33%2F1f6a4d6942ee9ab861233ec96b2f%2Fd295d48c402440db8abee8c9da00efe3.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 4,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-02T14:55:56Z"
+    },
+    {
+      "id": "1826c34026cf59f3",
+      "title": "Trump’s Transportation Secretary Sean P. Duffy Announces Milestone in Air Traffic Control Overhaul with Deployment of Surface Safety Technology | US Department of Transportation",
+      "header": "Department of Transportation (.gov)",
+      "published_at": "2026-09-02T13:19:14Z",
+      "published_raw": "Wed, 02 Sep 2026 13:19:14 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQnRyTGI1RktFZ1M2QlFIcFhsb3VraWhNcVBOeUdKZkg3QjRZZ005OWJLdFNvNFpyd09CQVlSeXRqYUpYYzBSa2ZMbUljbWJKVVFoOVN6V1J0UDVsUk5KRDhTdG50S0tKVlZ2TmZzTVpjUENjdDZMSmxlWVExODgwTlVvLTRxQjB6REZPQXNQc2hwcmNzUGtOdWY4TktrM0FScGk4TkpSX2NxSDRzYS1sZzJ5Q0NRSURNZkFodjc0TjZzYXdxWjd3dQ?oc=5",
+      "description": "Trump’s Transportation Secretary Sean P. Duffy Announces Milestone in Air Traffic Control Overhaul with Deployment of Surface Safety Technology | US Department of Transportation Department of Transportation (.gov)",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQnRyTGI1RktFZ1M2QlFIcFhsb3VraWhNcVBOeUdKZkg3QjRZZ005OWJLdFNvNFpyd09CQVlSeXRqYUpYYzBSa2ZMbUljbWJKVVFoOVN6V1J0UDVsUk5KRDhTdG50S0tKVlZ2TmZzTVpjUENjdDZMSmxlWVExODgwTlVvLTRxQjB6REZPQXNQc2hwcmNzUGtOdWY4TktrM0FScGk4TkpSX2NxSDRzYS1sZzJ5Q0NRSURNZkFodjc0TjZzYXdxWjd3dQ?oc=5\" target=\"_blank\">Trump’s Transportation Secretary Sean P. Duffy Announces Milestone in Air Traffic Control Overhaul with Deployment of Surface Safety Technology | US Department of Transportation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Transportation (.gov)</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQnRyTGI1RktFZ1M2QlFIcFhsb3VraWhNcVBOeUdKZkg3QjRZZ005OWJLdFNvNFpyd09CQVlSeXRqYUpYYzBSa2ZMbUljbWJKVVFoOVN6V1J0UDVsUk5KRDhTdG50S0tKVlZ2TmZzTVpjUENjdDZMSmxlWVExODgwTlVvLTRxQjB6REZPQXNQc2hwcmNzUGtOdWY4TktrM0FScGk4TkpSX2NxSDRzYS1sZzJ5Q0NRSURNZkFodjc0TjZzYXdxWjd3dQ?oc=5"
+      ],
+      "scraped_at": "2026-09-02T14:55:58Z",
+      "url": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-announces-milestone-air-traffic-control",
+      "final_url": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-announces-milestone-air-traffic-control",
+      "source": "Department of Transportation (.gov)",
+      "article_title": "",
+      "heading": "Trump’s Transportation Secretary Sean P. Duffy Announces Milestone in Air Traffic Control Overhaul with Deployment of Surface Safety Technology | US Department of Transportation",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Trump’s Transportation Secretary Sean P. Duffy Announces Milestone in Air Traffic Control Overhaul with Deployment of Surface Safety Technology | US Department of Transportation Department of Transportation (.gov)",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-02T14:55:58Z"
+    },
+    {
+      "id": "143ecd523ea59d92",
+      "title": "News - USAG Wiesbaden DPW invests in workforce with new technology",
+      "header": "DVIDS",
+      "published_at": "2026-09-02T13:15:00Z",
+      "published_raw": "Wed, 02 Sep 2026 13:15:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTXJPci1hLVdPWGpUQWZvV0RET3ZYakR5LTJKTEpmQzFoUHNJSFE4SlI3eW5EUVBZVWVLQTgtaHowNlpmTEFUcnl1ZjhzM3o3OFpmWmpxQlpVa2dyUmo3clZBVFZwTUt0aHVBeC05aUx0RlZMNVVia2JheUMtRUFtSUVDdktRbUZYSWxDZVdXUzYzX2ktMFVleQ?oc=5",
+      "description": "News - USAG Wiesbaden DPW invests in workforce with new technology DVIDS",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQTXJPci1hLVdPWGpUQWZvV0RET3ZYakR5LTJKTEpmQzFoUHNJSFE4SlI3eW5EUVBZVWVLQTgtaHowNlpmTEFUcnl1ZjhzM3o3OFpmWmpxQlpVa2dyUmo3clZBVFZwTUt0aHVBeC05aUx0RlZMNVVia2JheUMtRUFtSUVDdktRbUZYSWxDZVdXUzYzX2ktMFVleQ?oc=5\" target=\"_blank\">News - USAG Wiesbaden DPW invests in workforce with new technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DVIDS</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTXJPci1hLVdPWGpUQWZvV0RET3ZYakR5LTJKTEpmQzFoUHNJSFE4SlI3eW5EUVBZVWVLQTgtaHowNlpmTEFUcnl1ZjhzM3o3OFpmWmpxQlpVa2dyUmo3clZBVFZwTUt0aHVBeC05aUx0RlZMNVVia2JheUMtRUFtSUVDdktRbUZYSWxDZVdXUzYzX2ktMFVleQ?oc=5"
+      ],
+      "scraped_at": "2026-09-02T14:55:56Z",
+      "url": "https://www.dvidshub.net/news/573747/usag-wiesbaden-dpw-invests-workforce-with-new-technology",
+      "final_url": "https://www.dvidshub.net/news/573747/usag-wiesbaden-dpw-invests-workforce-with-new-technology",
+      "source": "DVIDS",
+      "article_title": "USAG Wiesbaden DPW invests in workforce with new technology",
+      "heading": "USAG Wiesbaden DPW invests in workforce with new technology",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "U.S. Army Garrison Wiesbaden is exploring two innovative ways to empower their Directorate of Public Works personnel with technological support: robotic lawn mowers 2.0 and upper-body exoskeletons.",
+      "content": "- Home SECRETARY OF WAR PETE HEGSETH Combatant Commands\n\n- SECRETARY OF WAR PETE HEGSETH\n\n- Combatant Commands\n\n- Features\n\n- Content Images Video News Audio Graphics Podcasts Publications Webcasts\n\n- Images\n\n- Video\n\n- News\n\n- Audio\n\n- Graphics\n\n- Podcasts\n\n- Publications\n\n- Webcasts\n\n- Hometown News Releases Hometown Heroes Holiday Greetings Map\n\n- Releases\n\n- Hometown Heroes\n\n- Holiday Greetings Map\n\n- Stories Storytellers Media Awards\n\n- Storytellers\n\n- Media Awards\n\n- Units Agencies\n\n- Agencies\n\n- Newswire\n\n- Press Inquiry Create Request Media Press Kit\n\n- Create Request\n\n- Media Press Kit\n\n- REGISTER\n\n- LOGIN\n\n- DVIDS DIRECT\n\n- ADMIN\n\n- OPTIONS\n\n- MY ALBUMS\n\n- LOGOUT\n\n- Home\n\n- SECRETARY OF WAR PETE HEGSETH\n\n- Combatant Commands\n\n- Features\n\n- Content\n\n- Images\n\n- Video\n\n- News\n\n- Audio\n\n- Graphics\n\n- Podcasts\n\n- Publications\n\n- Webcasts\n\n- Hometown News\n\n- Releases\n\n- Hometown Heroes\n\n- Holiday Greetings Map\n\n- Stories\n\n- Storytellers\n\n- Media Awards\n\n- Units\n\n- Agencies\n\n- Newswire\n\n- Press Inquiry\n\n- Create Request\n\n- Media Press Kit\n\n- About DVIDS\n\n- Contact Us\n\n- Privacy & Security\n\n- FAQs\n\n- Copyright Information\n\n- Accessibility Information\n\n- Customer Service\n\nWIESBADEN, HESSEN, GERMANY\n\n09.01.2026\n\nStory by Natalie Simmel\n\nU.S. Army Garrison Wiesbaden\n\nCLAY KASERNE, Germany — U.S. Army Garrison Wiesbaden is exploring two innovative ways to empower their Directorate of Public Works personnel with technological support: robotic lawn mowers 2.0 and upper-body exoskeletons.\n\nThe upgrades come as part of an existing effort to modernize garrison workflows and support frontline personnel, integrating practical automation directly into daily operations.\n\n“I think it's very exciting for each of our directorates, especially DPW, with the amount of manual and physical labor that is done, to look for innovative ways to assist the workforce as well as better accomplish the mission before us,” said Col. Ringo Midles, U.S. Army Wiesbaden Garrison commander.\n\nUpgraded autonomous mowers DPW is experimenting with an updated version of autonomous lawnmowers. While the garrison already uses automated models in several areas across the installation, the upgraded system brings additional operational benefits.\n\nThe new model delivers consistent endurance, running continuously for up to eight hours on a single charge. Multi-map storage lets the units transition between designated work zones. Its cutting mechanism features millimeter-precise height adjustments designed for optimal turf health across varied terrain.\n\nAs with the previous model, safety remains a priority. The mowers maintain a strict 1.7-meter (about 5.5-foot) perimeter around obstacles and adjust their path when encountering moving objects. Sensors detect people, pets, and small wildlife such as rabbits and hedgehogs, while adaptive learning algorithms refine navigation routes and situational awareness over time.\n\nThese autonomous systems free up DPW maintenance teams to reallocate staffing elsewhere on the installation. Where broad-area mowingrequired three- to four-person crews, teams can now scale down to two workers per zone.\n\n“It makes us more efficient,” Midles said. “We are not trying to exchange our staff with new technology; we are trying to support them with it. I would rather see that lawn mower do 80 percent of the work and our skilled workers do the last 20 percent that the robot cannot do and have our manpower directed at other, more pressing matters. We have plenty of work to do.”\n\nDuring a loan period, DPW is testing the upgraded autonomous lawnmower to evaluate its suitability for use in the installation.\n\n“You have to try them out in order to find where to place investments,” Midles said. “The way this enables a team of DPW workers to be more places and provide better services is exciting to me.”\n\nExoskeleton support for physical labor DPW purchased one upper-body exoskeleton, deployed in field trials across several DPW departments.\n“We are testing the exoskeleton with our painters, gardeners, masons, and electricians to identify where it delivers the greatest impact,” said Martin Hallbauer, Deputy Director of DPW.\n\nWhile the automated lawnmowers alleviate the overall workload, the exoskeleton’s purpose is to support the physical health of the personnel performing the work.\n\n“From a safety and ergonomics standpoint, our priority is safeguarding the long-term health of our workforce,” Hallbauer added. “By delivering measurable ergonomic relief during repetitive tasks, overhead work, and heavy lifting, this technology protects our frontline operators.”\n\nThe core benefit of the exoskeleton is physical endurance and injury prevention rather than artificial strength amplification. Designed to support the arms, shoulders, and back, the unit redistributes mechanical load away from vulnerable joints.\n\nThis significantly reduces physical fatigue and repetitive stress injuries during sustained heavy lifting and extended overhead tasks, such as streetlight maintenance and warehouse repairs.\n\nNEWS INFO\n\nPUBLIC DOMAIN\n\nThis work, USAG Wiesbaden DPW invests in workforce with new technology , by Natalie Simmel , identified by DVIDS , must comply with the restrictions shown on https://www.dvidshub.net/about/copyright .\n\nCONNECTED MEDIA\n\nMORE LIKE THIS\n\nCONTROLLED VOCABULARY KEYWORDS\n\nNo keywords found.\n\nTAGS\n\nOPTIONS\n\n- Register/Login to Download\n\n- Validate Your Account to Download\n\n- Connect My Placements\n\n- Download Story\n\n- Add to My Albums\n\n- Connect to Placements\n\n- Add\nto Playlist\n\n- Distribute Story\n\n- Schedule Social Post\n\n- Edit Story\n\n- Add News & Images to Playlist\n\n- Printable Version\n\n- Request Audio Version\n\nDVIDS Control Center\n\n- 404-282-1450\n\nWeb Support\n\n- dvidsservicedesk@dvidshub.net\n\nCustomer Service\n\n- 1-888-743-4662\n\n- dma.enterprise-customer-services@mail.mil\n\nFeatures\n\nNewswire\n\nAbout DVIDS\n\n- Contact Us\n\n- Privacy & Security\n\n- FAQs\n\n- Copyright Information\n\n- Accessibility Information\n\n- Customer Service\n\nPress Inquiry\n\n- Create Request\n\n- Media Press Kit\n\nUnits\n\n- Agencies\n\nStories\n\n- Storytellers\n\n- Media Awards\n\nHometown News\n\n- Releases\n\n- Hometown Heroes\n\n- Holiday Greetings Map\n\nContent\n\n- Images\n\n- Video\n\n- News\n\n- Audio\n\n- Graphics\n\n- Podcasts\n\n- Publications\n\n- Webcasts\n\nLinks\n\n- Links Disclaimer\n\n- No FEAR Act\n\n- Open Government\n\n- FOIA\n\n- USA Gov\n\n- Inspector General\n\n- Web Policy\n\n- EEO\n\n- Sexual Assault Prevention\n\n- DVI Records Schedule\n\n- DVI Executive Summary\n\n- Section 3103",
+      "content_html": "<body>\n<div id=\"fb-root\"></div>\n\n<div id=\"login_container\">\n\n</div>\n<div class=\"uk-container uk-container-center uk-margin-top uk-margin-large-bottom\">\n<div class=\"uk-grid\" id=\"dvids_logo_bar_container\">\n<div class=\"uk-width-small-1-1 uk-width-medium-1-1 uk-width-large-3-10\">\n<a border=\"0\" href=\"/\"><img alt=\"Digital Visual Information Distribution System Logo\" class=\"uk-float-left uk-hidden-small\" id=\"dvids_logo\" src=\"/images/dvids_logo_main.png\"/></a>\n<a border=\"0\" href=\"/\"><img alt=\"Digital Visual Information Distribution System Logo\" class=\"uk-float-left uk-hidden-medium uk-hidden-large\" src=\"/images/dvids_mobile_menu_logo_main.png\" style=\"max-width: 100px\"/></a>\n<a class=\"uk-navbar-toggle uk-hidden-large\" data-uk-offcanvas=\"\" href=\"#offcanvas-nav\" id=\"dvids_mobile_nav_icon\"></a>\n</div>\n<div class=\"uk-hidden-small uk-hidden-medium uk-width-large-7-10\">\n<div class=\"pure-menu pure-menu-horizontal\">\n<ul class=\"pure-menu-list uk-float-right uk-hidden-medium uk-hidden-small\" id=\"dvids_main_nav\">\n<li class=\"pure-menu-item pure-menu-allow-hover\">\n<a class=\"pure-menu-link\" href=\"/\" id=\"menuLinkhome\">Home</a>\n<ul class=\"pure-menu-children\">\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/feature/SECDEFHegseth\">SECRETARY OF WAR PETE HEGSETH</a></li>\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/cocom\">Combatant Commands</a></li>\n</ul>\n</li>\n<li class=\"pure-menu-item pure-menu-allow-hover\">\n<a class=\"pure-menu-link\" href=\"/feature\" id=\"menuLinkfeatures\">Features</a>\n<ul class=\"pure-menu-children\">\n</ul>\n</li>\n<li class=\"pure-menu-item pure-menu-allow-hover active\">\n<a class=\"pure-menu-link\" href=\"/search\" id=\"menuLinkcontent\">Content</a>\n<ul class=\"pure-menu-children\">\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/search/2.0?type=image\">Images</a></li>\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/search/2.0?type=video\">Video</a></li>\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/search/2.0?type=news\">News</a></li>\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/search/2.0?type=audio\">Audio</a></li>\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/search/2.0?type=graphics\">Graphics</a></li>\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/podcast\">Podcasts</a></li>\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/publication\">Publications</a></li>\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/webcast\">Webcasts</a></li>\n</ul>\n</li>\n<li class=\"pure-menu-item pure-menu-allow-hover\">\n<a class=\"pure-menu-link\" href=\"/jointhometownnewsservice\" id=\"menuLinkhometown\">Hometown News</a>\n<ul class=\"pure-menu-children\">\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/jointhometownnewsservice/map\">Releases</a></li>\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/map\">Hometown Heroes</a></li>\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/holiday\">Holiday Greetings Map</a></li>\n</ul>\n</li>\n<li class=\"pure-menu-item pure-menu-allow-hover\">\n<a class=\"pure-menu-link\" href=\"/portfolio\" id=\"menuLinkstories\">Stories</a>\n<ul class=\"pure-menu-children\">\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/portfolio\">Storytellers</a></li>\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/awards/guidelines\">Media Awards</a></li>\n</ul>\n</li>\n<li class=\"pure-menu-item pure-menu-allow-hover\">\n<a class=\"pure-menu-link\" href=\"/unit\" id=\"menuLinkunits\">Units</a>\n<ul class=\"pure-menu-children\">\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/agency\">Agencies</a></li>\n</ul>\n</li>\n<li class=\"pure-menu-item pure-menu-allow-hover\">\n<a class=\"pure-menu-link\" href=\"/alerts\" id=\"menuLinknewswire\">Newswire</a>\n<ul class=\"pure-menu-children\">\n</ul>\n</li>\n<li class=\"pure-menu-item pure-menu-allow-hover\">\n<a class=\"pure-menu-link\" href=\"/mediarequest\" id=\"menuLinkpress\">Press Inquiry</a>\n<ul class=\"pure-menu-children\">\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/mediarequest\">Create Request</a></li>\n<li class=\"pure-menu-item\"><a class=\"pure-menu-link\" href=\"/mediarequest/presskit\">Media Press Kit</a></li>\n</ul>\n</li>\n</ul>\n</div>\n</div> </div>\n</div><!--/uk-container-->\n<!-- Off Canvase Mobile Nav / keep at the bottom of body -->\n<div class=\"uk-offcanvas\" id=\"offcanvas-nav\">\n<div class=\"uk-offcanvas-bar uk-offcanvas-bar-flip\">\n<ul class=\"uk-nav uk-nav-offcanvas uk-nav-parent-icon\" data-uk-nav=\"\">\n<li class=\"dvids_modile_menu_header\" style=\"text-align: center;\">\n<img alt=\"DVIDS Mobile Logo\" src=\"/images/dvids_mobile_menu_logo.png\" style=\"max-width: 100px\"/>\n</li>\n<li class=\"login_links_mobile\" style=\"display: none\"><a href=\"/member/registration\">REGISTER</a></li>\n<li class=\"login_links_mobile\" style=\"display: none\"><a href=\"/auth/login\" id=\"login\">LOGIN</a></li>\n<li class=\"login_current_mobile\" style=\"display: none\"><a href=\"https://cms.dvidshub.net/direct\">DVIDS DIRECT</a></li>\n<li class=\"login_current_mobile\" style=\"display: none\"><a href=\"https://cms.dvidshub.net\">ADMIN</a></li>\n<li class=\"login_current_mobile\" style=\"display: none\"><a href=\"/member/options\">OPTIONS</a></li>\n<li class=\"login_current_mobile\" style=\"display: none\"><a href=\"/mediagallery/index\" id=\"my_downloads_link\">MY ALBUMS</a></li>\n<li class=\"login_current_mobile\" style=\"display: none\"><a class=\"logout\" href=\"#\">LOGOUT</a></li>\n<li class=\"uk-nav-header\"><a href=\"/\">Home</a></li>\n<li><a href=\"/feature/SECDEFHegseth\">SECRETARY OF WAR PETE HEGSETH</a></li>\n<li><a href=\"/cocom\">Combatant Commands</a></li>\n<li class=\"uk-nav-header\"><a href=\"/feature\">Features</a></li>\n<li class=\"uk-nav-header\"><a href=\"/search\">Content</a></li>\n<li><a href=\"/search/2.0?type=image\">Images</a></li>\n<li><a href=\"/search/2.0?type=video\">Video</a></li>\n<li><a href=\"/search/2.0?type=news\">News</a></li>\n<li><a href=\"/search/2.0?type=audio\">Audio</a></li>\n<li><a href=\"/search/2.0?type=graphics\">Graphics</a></li>\n<li><a href=\"/podcast\">Podcasts</a></li>\n<li><a href=\"/publication\">Publications</a></li>\n<li><a href=\"/webcast\">Webcasts</a></li>\n<li class=\"uk-nav-header\"><a href=\"/jointhometownnewsservice\">Hometown News</a></li>\n<li><a href=\"/jointhometownnewsservice/map\">Releases</a></li>\n<li><a href=\"/map\">Hometown Heroes</a></li>\n<li><a href=\"/holiday\">Holiday Greetings Map</a></li>\n<li class=\"uk-nav-header\"><a href=\"/portfolio\">Stories</a></li>\n<li><a href=\"/portfolio\">Storytellers</a></li>\n<li><a href=\"/awards/guidelines\">Media Awards</a></li>\n<li class=\"uk-nav-header\"><a href=\"/unit\">Units</a></li>\n<li><a href=\"/agency\">Agencies</a></li>\n<li class=\"uk-nav-header\"><a href=\"/alerts\">Newswire</a></li>\n<li class=\"uk-nav-header\"><a href=\"/mediarequest\">Press Inquiry</a></li>\n<li><a href=\"/mediarequest\">Create Request</a></li>\n<li><a href=\"/mediarequest/presskit\">Media Press Kit</a></li>\n<li class=\"uk-nav-header\"><a href=\"/about\">About DVIDS</a></li>\n<li><a href=\"/about/contactus\">Contact Us</a></li>\n<li><a href=\"/about/privacy\">Privacy &amp; Security</a></li>\n<li><a href=\"/about/faq\">FAQs</a></li>\n<li><a href=\"/about/copyright\">Copyright Information</a></li>\n<li><a href=\"/about/accessibility\">Accessibility Information</a></li>\n<li><a href=\"/about/contactweb\">Customer Service</a></li>\n</ul>\n</div>\n</div>\n<!-- / Off Canvase Mobile Nav -->\n\n<div id=\"body_content\">\n\n\n<!-- Main Body Content -->\n<div class=\"uk-container uk-container-center dvids_main_content uk-clearfix asset_detail\">\n<div class=\"uk-grid\">\n<div class=\"uk-width-10-10 uk-width-small-10-10 uk-width-medium-7-10 uk-width-large-7-10\">\n<h1 class=\"asset-title\">USAG Wiesbaden DPW invests in workforce with new technology</h1>\n</div>\n<div class=\"uk-width-10-10 uk-width-small-10-10 uk-width-medium-3-10 uk-width-large-3-10\" style=\"text-align: right; padding-right: 7px;\"><!-- uk-hidden-small -->\n<!-- Go to www.platform.sharethis.com/inline-share-buttons to customize your tools -->\n\n</div> </div>\n<div class=\"uk-grid\">\n<div class=\"uk-width-10-10 uk-width-small-10-10 uk-width-medium-7-10 uk-width-large-7-10 asset_news_container asset_container\">\n\n<div class=\"uk-grid asset_information\">\n<div class=\"uk-width-10-10 uk-width-small-10-10 uk-width-medium-7-10 uk-width-large-7-10\">\n<h3>WIESBADEN, HESSEN, GERMANY</h3>\n<h3>09.01.2026</h3>\n<h3>Story by <a href=\"/portfolio/1754031/natalie-simmel\">Natalie Simmel</a><a data-uk-tooltip=\"\" href=\"/rss/personnel/1754031\" style=\"margin-left: 6px;\" title=\"RSS feed for Natalie Simmel\"><i class=\"fa fa-rss fa-fw\"></i> </a></h3>\n<h3 class=\"the_unit\"><a href=\"/unit/USAGW\">U.S. Army Garrison Wiesbaden</a> <a data-uk-tooltip=\"\" href=\"/search/unit/USAGW\" title=\"Search for U.S. Army Garrison Wiesbaden media\"><i class=\"fa fa-search fa-fw\"></i></a> <a data-uk-tooltip=\"\" href=\"/rss/unit/5235\" title=\"RSS feed for U.S. Army Garrison Wiesbaden\"><i class=\"fa fa-rss fa-fw\"></i></a> <a data-uk-tooltip=\"\" href=\"/unit/USAGW\" title=\"Unit with the Most Placements for Images&lt;br/&gt; August 2019\"><i class=\"fa fa-trophy\"></i> </a></h3>\n</div>\n<div class=\"uk-width-10-10 uk-width-small-10-10 uk-width-medium-3-10 uk-width-large-3-10\">\n<div class=\"uk-align-left uk-align-small-right uk-align-medium-right uk-align-large-right\" style=\"margin:0px;\">\n\n\n\n</div>\n</div>\n</div>\n<div class=\"inline-audio-player\" id=\"inline-audio-player-1\">\n<div class=\"audio-title\">\n<i class=\"fa fa-volume-up\"></i>\n                USAG Wiesbaden DPW invests in workforce with new technology            </div>\n<div class=\"audio-controls\">\n<audio controls=\"\" preload=\"metadata\">\n<source src=\"https://d1phnh7z3g8on1.cloudfront.net/573747/dcb12801f71760eb.16272127-62f0-45f6-be06-f5024d204029.mp3\" type=\"audio/mpeg\">\n                    Your browser does not support the audio element.\n                </source></audio>\n</div>\n</div>\n\n<div class=\"news-body\">\n<p>CLAY KASERNE, Germany — U.S. Army Garrison Wiesbaden is exploring two innovative ways to empower their Directorate of Public Works personnel with technological support: robotic lawn mowers 2.0 and upper-body exoskeletons.</p>\n<p>The upgrades come as part of an existing effort to modernize garrison workflows and support frontline personnel, integrating practical automation directly into daily operations.</p>\n<p>“I think it's very exciting for each of our directorates, especially DPW, with the amount of manual and physical labor that is done, to look for innovative ways to assist the workforce as well as better accomplish the mission before us,” said Col. Ringo Midles, U.S. Army Wiesbaden Garrison commander.</p>\n<p><strong>Upgraded autonomous mowers</strong>\nDPW is experimenting with an updated version of autonomous lawnmowers. While the garrison already uses automated models in several areas across the installation, the upgraded system brings additional operational benefits.</p>\n<p>The new model delivers consistent endurance, running continuously for up to eight hours on a single charge. Multi-map storage lets the units transition between designated work zones. Its cutting mechanism features millimeter-precise height adjustments designed for optimal turf health across varied terrain.</p>\n<p>As with the previous model, safety remains a priority. The mowers maintain a strict 1.7-meter (about 5.5-foot) perimeter around obstacles and adjust their path when encountering moving objects. Sensors detect people, pets, and small wildlife such as rabbits and hedgehogs, while adaptive learning algorithms refine navigation routes and situational awareness over time.</p>\n<p>These autonomous systems free up DPW maintenance teams to reallocate staffing elsewhere on the installation. Where broad-area mowingrequired three- to four-person crews, teams can now scale down to two workers per zone.</p>\n<p>“It makes us more efficient,” Midles said. “We are not trying to exchange our staff with new technology; we are trying to support them with it. I would rather see that lawn mower do 80 percent of the work and our skilled workers do the last 20 percent that the robot cannot do and have our manpower directed at other, more pressing matters. We have plenty of work to do.”</p>\n<p>During a loan period, DPW is testing the upgraded autonomous lawnmower to evaluate its suitability for use in the installation.</p>\n<p>“You have to try them out in order to find where to place investments,” Midles said. “The way this enables a team of DPW workers to be more places and provide better services is exciting to me.”</p>\n<p><strong>Exoskeleton support for physical labor</strong>\nDPW purchased one upper-body exoskeleton, deployed in field trials across several DPW departments.\n“We are testing the exoskeleton with our painters, gardeners, masons, and electricians to identify where it delivers the greatest impact,” said Martin Hallbauer, Deputy Director of DPW.</p>\n<p>While the automated lawnmowers alleviate the overall workload, the exoskeleton’s purpose is to support the physical health of the personnel performing the work.</p>\n<p>“From a safety and ergonomics standpoint, our priority is safeguarding the long-term health of our workforce,” Hallbauer added. “By delivering measurable ergonomic relief during repetitive tasks, overhead work, and heavy lifting, this technology protects our frontline operators.”</p>\n<p>The core benefit of the exoskeleton is physical endurance and injury prevention rather than artificial strength amplification. Designed to support the arms, shoulders, and back, the unit redistributes mechanical load away from vulnerable joints.</p>\n<p>This significantly reduces physical fatigue and repetitive stress injuries during sustained heavy lifting and extended overhead tasks, such as streetlight maintenance and warehouse repairs.</p> </div>\n<div class=\"uk-grid\">\n<div class=\"uk-width-10-10 uk-width-small-10-10 uk-width-medium-4-10 uk-width-large-4-10 news_details asset_details\">\n<h2 class=\"news_info_header asset_info_header\">NEWS INFO</h2>\n<div class=\"news_info_container asset_info_container\">\n<table class=\"uk-table news_info_table asset_info_table\">\n<tbody>\n<tr>\n<td>Date Taken:</td>\n<td>09.01.2026</td>\n</tr>\n<tr>\n<td>Date Posted:</td>\n<td>09.02.2026 09:15</td>\n</tr>\n<tr>\n<td>Story ID:</td>\n<td>573747</td>\n</tr>\n<tr>\n<td>Location:</td>\n<td>WIESBADEN, HESSEN, DE</td>\n</tr>\n</tbody>\n</table>\n<hr/>\n<table class=\"uk-table image_info_table asset_info_table\">\n<tbody>\n<tr>\n<td>Web Views:</td>\n<td>26</td>\n</tr>\n<tr>\n<td>Downloads:</td>\n<td>0</td>\n</tr>\n</tbody>\n</table>\n<hr/>\n<h4 class=\"public-domain\">\n                            PUBLIC DOMAIN  \n                            <img src=\"/images/public_domain_logo.png\"/>\n</h4>\n<p class=\"copyright_info\">This work, <span property=\"dct:title\" style=\"font-style: italic;\">USAG Wiesbaden DPW invests in workforce with new technology</span>, by <a href=\"/portfolio/1754031/natalie-simmel\" rel=\"dct:creator\"><span property=\"dct:title\">Natalie Simmel</span></a>, identified by <a href=\"https://www.dvidshub.net\" rel=\"dct:publisher\"><span property=\"dct:title\">DVIDS</span></a>, must comply with the restrictions shown on <a href=\"https://www.dvidshub.net/about/copyright\">https://www.dvidshub.net/about/copyright</a>.</p>\n</div><!-- /news_info_container -->\n</div>\n</div>\n<div class=\"uk-hidden-small admin-360\">\n<div data-uk-observe=\"\" id=\"contentmanagement\" style=\"display: none;\"></div> </div>\n</div>\n<div class=\"uk-width-10-10 uk-width-small-10-10 uk-width-medium-3-10 uk-width-large-3-10 side_bar_container\">\n<h2>CONNECTED MEDIA</h2>\n<div class=\"uk-width-1-1 uk-grid-width-1-4 uk-grid-width-small-1-6 uk-grid-width-medium-1-4 uk-grid-width-large-1-4 tm-grid-colors tm-grid-heights\" data-uk-grid=\"{gutter: 8}\">\n<div><div class=\"uk-panel\"><a href=\"/image/9905687/usag-wiesbaden-dpw-invests-workforce-with-new-technology\"><img alt=\"USAG Wiesbaden DPW invests in workforce with new technology\" height=\"75\" src=\"https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2609/9905687/75x75_q95.jpg\" title=\"USAG Wiesbaden DPW invests in workforce with new technology\" width=\"75\"/></a></div></div>\n<div><div class=\"uk-panel\"><a href=\"/image/9905788/usag-wiesbaden-dpw-invests-workforce-with-new-technology\"><img alt=\"USAG Wiesbaden DPW invests in workforce with new technology\" height=\"75\" src=\"https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2609/9905788/75x75_q95.jpg\" title=\"USAG Wiesbaden DPW invests in workforce with new technology\" width=\"75\"/></a></div></div>\n<div><div class=\"uk-panel\"><a href=\"/image/9905793/usag-wiesbaden-dpw-invests-workforce-with-new-technology\"><img alt=\"USAG Wiesbaden DPW invests in workforce with new technology\" height=\"75\" src=\"https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2609/9905793/75x75_q95.jpg\" title=\"USAG Wiesbaden DPW invests in workforce with new technology\" width=\"75\"/></a></div></div>\n</div>\n<h2 class=\"more_like_this with-margin\" id=\"more_like_this\">MORE LIKE THIS</h2>\n<div class=\"uk-width-1-1 uk-width-small-6-10 uk-width-medium-6-10 uk-width-large-1-1 uk-grid-width-1-2 uk-grid-width-small-1-2 uk-grid-width-medium-1-2 uk-grid-width-large-1-2 tm-grid-colors tm-grid-heights uk-grid-preserve\" data-uk-grid=\"{gutter: 8}\" data-uk-grid-match=\"\" data-uk-observe=\"\" id=\"mlt-placeholder\"></div>\n<div class=\"uk-visible-small admin-360\">\n<div data-uk-observe=\"\" id=\"contentmanagement\" style=\"display: none;\"></div> </div>\n\n<h2 class=\"underlined with-margin\">CONTROLLED VOCABULARY KEYWORDS</h2>\n<div class=\"controlkeywords control_keywords\">\n<div class=\"uk-width-1-1 uk-width-large-1-1 uk-grid-width-1-2 uk-grid-width-small-1-2 uk-grid-width-medium-1-2 uk-grid-width-large-1-2 tm-grid-heights controlkeywords-container\" data-uk-grid=\"{gutter: 10}\" data-uk-observe=\"\">\n<!-- this message is here by default until a control keyword is loaded/added. -->\n<p class=\"notfound\"><i>No keywords found.</i></p>\n</div>\n<div class=\"input-wrapper uk-form uk-autocomplete\" data-uk-autocomplete=\"\" id=\"add-controlkeyword\" style=\"display: none; margin: 10px 0 0;\">\n<input class=\"controlkeyword-input\" id=\"control_keywords\" name=\"controlkeyword\" type=\"text\"/>\n\n</div>\n</div>\n<h2 class=\"underlined with-margin\">TAGS</h2>\n<div class=\"tags tags-public\">\n<div class=\"uk-width-1-1 uk-width-large-1-1 uk-grid-width-1-2 uk-grid-width-small-1-2 uk-grid-width-medium-1-2 uk-grid-width-large-1-2 tm-grid-heights tags-container\" data-uk-grid=\"{gutter: 10}\" data-uk-observe=\"\">\n<div class=\"tag\"><div class=\"readonly\"><a href=\"/tags/news/imcom\">IMCOM</a></div></div><div class=\"tag\"><div class=\"readonly\"><a href=\"/tags/news/eucom\">EUCOM</a></div></div><div class=\"tag\"><div class=\"readonly\"><a href=\"/tags/news/wiesbaden\">Wiesbaden</a></div></div><div class=\"tag\"><div class=\"readonly\"><a href=\"/tags/news/strongertogether\">StrongerTogether</a></div></div><div class=\"tag\"><div class=\"readonly\"><a href=\"/tags/news/targetnewseurope\">target_news_europe</a></div></div> </div>\n</div>\n<div data-uk-sticky=\"{media: '(min-width: 640px) and (orientation: landscape)', boundary: true}\">\n<h2 class=\"underlined with-margin\">OPTIONS</h2>\n<div class=\"uk-grid\">\n<div class=\"uk-width-10-10 uk-width-small-10-10 uk-width-medium-10-10 uk-width-large-10-10 options_list_container\">\n<li class=\"optionsLoggedOut\"><i class=\"fa fa-download fa-fw\"></i> \n                            <a href=\"/login\">Register/Login to Download</a>\n</li>\n<li class=\"optionsUnvalidated\"><i class=\"fa fa-download fa-fw\"></i> \n                            <a href=\"/member/options\">Validate Your Account to Download</a>\n</li>\n<li class=\"optionsUnitPersonnel\"><i class=\"fa fa-newspaper-o fa-fw\"></i> \n                                <a href=\"//cms.dvidshub.net/placement/form/asset_type/news/asset_type_id/573747?connect=true\">Connect My Placements</a>\n</li>\n<li class=\"optionsLoggedIn\"><i class=\"fa fa-download fa-fw\"></i>  <a href=\"/download/news/573747\">Download Story</a></li>\n<li class=\"optionsLoggedIn\"><i class=\"fa fa-download-portfolio fa-fw\"></i> \n                                <a class=\"add-asset-to-playlist\" data-uk-modal=\"\" href=\"#\" id=\"news_573747\">\n                                    Add to My Albums</a>\n</li>\n\n<li class=\"optionsSpecialist\"><i class=\"fa fa-newspaper-o fa-fw\"></i> \n                                    <a href=\"https://v2cms.dvidshub.net/cms/placements/create?asset_type=news&amp;asset_type_id=573747&amp;connect=true\">Connect to Placements</a>\n</li>\n<li class=\"optionsSpecialist\"><i class=\"fa fa-th-list fa-fw\"></i>  <a class=\"add-asset-to-playlist\" data-uk-modal=\"\" href=\"#\" id=\"news_573747_playlist\">Add\n                                        to Playlist</a></li>\n<li class=\"optionsSpecialist\"><i class=\"fa fa-external-link-square fa-fw\"></i> \n                                    <a href=\"//cms.dvidshub.net/distribution?type=news&amp;type_id=573747 \">Distribute Story</a>\n</li>\n<li class=\"optionsUnitPersonnel optionsSpecialist\"><i class=\"fa fa-calendar fa-fw\"></i> \n                                    <a href=\"https://v2cms.dvidshub.net/social/compose?asset_type=news&amp;asset_id=573747\">Schedule Social Post</a>\n</li>\n<li class=\"optionsEditor\"><i class=\"fa fa-edit fa-fw\"></i> \n                                    <a href=\"//cms.dvidshub.net/news/detail/id/573747/autoLoad/1\">Edit Story</a>\n</li>\n<li class=\"optionsSpecialist\"><i class=\"fa fa-th-large fa-fw\"></i> \n                                <a class=\"add-asset-to-playlist\" href=\"#\" id=\"news_573747_playlist_gallery_images\">Add News &amp; Images to Playlist</a>\n</li>\n<li class=\"optionsAlways\"><i class=\"fa fa-print fa-fw\"></i> \n                                <a href=\"/news/printable/573747\">Printable Version</a>\n</li>\n<li class=\"optionsAlways\"><i class=\"fa fa-headphones fa-fw\"></i> \n                                <a data-type-id=\"573747\" data-url=\"/download/news_audio\" href=\"#\" id=\"requestAudioVersion\">Request Audio Version</a>\n</li>\n<!-------------------->\n</div>\n</div><!-- uk-grid -->\n</div>\n</div>\n</div>\n<!-- sbg -->\n</div><!--/dvids_main_content-->\n<div id=\"dvids_footer_container\">\n<div class=\"dvids_footer_content\">\n<div class=\"dvids_footer_content_left\">\n<div class=\"footer-left-cell col-1 uk-width-1-4\">\n<h4>DVIDS Control Center</h4>\n<ul class=\"dvids_footer_ul\">\n<li><a class=\"dvids_footer_link\" href=\"#\">404-282-1450</a></li>\n<!-- <li><a class=\"dvids_footer_link\" href=\"mailto:dma.enterprise-customer-services@mail.mil\" alt=\"Customer Service Email\">dma.enterprise-customer-services@mail.mil</a></li> -->\n</ul>\n<h4>Web Support</h4>\n<ul class=\"dvids_footer_ul\">\n<li><a alt=\"Web Support Email\" class=\"dvids_footer_link\" href=\"mailto:dvidsservicedesk@dvidshub.net\">dvidsservicedesk@dvidshub.net</a></li>\n</ul>\n<h4>Customer Service</h4>\n<ul class=\"dvids_footer_ul\">\n<li><a class=\"dvids_footer_link\" href=\"#\">1-888-743-4662</a></li>\n<li><a alt=\"Customer Service Email\" class=\"dvids_footer_link\" href=\"mailto:dma.enterprise-customer-services@mail.mil\">dma.enterprise-customer-services@mail.mil</a></li>\n</ul>\n<h4><a alt=\"Features\" href=\"/feature\">Features</a></h4>\n<h4><a alt=\"Newswire\" href=\"/alerts\">Newswire</a></h4>\n<h4><a alt=\"About DVIDS\" href=\"/about\">About DVIDS</a></h4>\n<ul class=\"dvids_footer_ul\">\n<li><a alt=\"Contact Us\" href=\"/about/contactus\">Contact Us</a></li>\n<li><a alt=\"Privacy &amp; Security\" href=\"/about/privacy\">Privacy &amp; Security</a></li>\n<li><a alt=\"FAQs\" href=\"/about/faq\">FAQs</a></li>\n<li><a alt=\"Copyright Information\" href=\"/about/copyright\">Copyright Information</a></li>\n<li><a alt=\"Accessibility Information\" href=\"/about/accessibility\">Accessibility Information</a></li>\n<li><a alt=\"Customer Service\" href=\"/about/contactweb\">Customer Service</a></li>\n</ul>\n<h4><a alt=\"Press Inquiry\" href=\"/mediarequest\">Press Inquiry</a></h4>\n<ul class=\"dvids_footer_ul\">\n<li><a alt=\"Create Request\" href=\"/mediarequest\">Create Request</a></li>\n<li><a alt=\"Media Press Kit\" href=\"/mediarequest/presskit\">Media Press Kit</a></li>\n</ul>\n<h4><a alt=\"Units\" href=\"/unit\">Units</a></h4>\n<ul class=\"dvids_footer_ul\">\n<li><a alt=\"Agencies\" href=\"/agency\">Agencies</a></li>\n</ul>\n</div>\n<div class=\"footer-left-cell col-2 uk-width-1-4\">\n<h4><a alt=\"Stories\" href=\"/portfolio\">Stories</a></h4>\n<ul class=\"dvids_footer_ul\">\n<li><a alt=\"Storytellers\" href=\"/portfolio\">Storytellers</a></li>\n<li><a alt=\"Media Awards\" href=\"/awards/guidelines\">Media Awards</a></li>\n</ul>\n</div>\n<div class=\"footer-left-cell col-3 uk-width-1-4\">\n<h4><a alt=\"Hometown News\" href=\"/jointhometownnewsservice\">Hometown News</a></h4>\n<ul class=\"dvids_footer_ul\">\n<li><a alt=\"Releases\" href=\"/jointhometownnewsservice/map\">Releases</a></li>\n<li><a alt=\"Hometown Heroes\" href=\"/map\">Hometown Heroes</a></li>\n<li><a alt=\"Holiday Greetings Map\" href=\"/holiday\">Holiday Greetings Map</a></li>\n</ul>\n<h4><a alt=\"Content\" href=\"/search\">Content</a></h4>\n<ul class=\"dvids_footer_ul\">\n<li><a alt=\"Images\" href=\"/search/2.0?type=image\">Images</a></li>\n<li><a alt=\"Video\" href=\"/search/2.0?type=video\">Video</a></li>\n<li><a alt=\"News\" href=\"/search/2.0?type=news\">News</a></li>\n<li><a alt=\"Audio\" href=\"/search/2.0?type=audio\">Audio</a></li>\n<li><a alt=\"Graphics\" href=\"/search/2.0?type=graphics\">Graphics</a></li>\n<li><a alt=\"Podcasts\" href=\"/podcast\">Podcasts</a></li>\n<li><a alt=\"Publications\" href=\"/publication\">Publications</a></li>\n<li><a alt=\"Webcasts\" href=\"/webcast\">Webcasts</a></li>\n</ul>\n</div>\n<div class=\"footer-left-cell col-4 uk-width-1-4\">\n</div>\n<div class=\"footer-left-cell links-section\">\n<h4>Links</h4>\n<ul>\n<li><a alt=\"Links Disclaimer Link\" href=\"/about/linksdisclaimer\" target=\"_blank\">Links Disclaimer</a></li>\n<li><a alt=\"No FEAR Act Link\" href=\"http://prhome.defense.gov/NoFear/\" target=\"_blank\">No FEAR Act</a></li>\n<li><a alt=\"Open Government Link\" href=\"http://open.defense.gov/\" target=\"_blank\">Open Government</a></li>\n<li><a alt=\"FOIA Link\" href=\"http://open.defense.gov/Transparency/FOIA.aspx\" target=\"_blank\">FOIA</a></li>\n<li><a alt=\"USA Gov Link\" href=\"https://www.usa.gov/\" target=\"_blank\">USA Gov</a></li>\n<li><a alt=\"Inspector General Link\" href=\"http://www.dodig.mil/\" target=\"_blank\">Inspector General</a></li>\n<li><a alt=\"DoD Web Policy Link\" href=\"http://dodcio.defense.gov/DoD-Web-Policy/\" target=\"_blank\">Web Policy</a></li>\n<li><a alt=\"EEO Link\" href=\"http://www.dodig.mil/EEO/process.html\" target=\"_blank\">EEO</a></li>\n<li><a alt=\"Sexual Assault Prevention Link\" href=\"http://www.sapr.mil/\" target=\"_blank\">Sexual Assault Prevention</a></li>\n<li><a alt=\"DVI Records Schedule Link\" href=\"https://www.dimoc.mil/Portals/64/docs/DVI%20docs/DoD-VI-Records-Schedule.pdf?ver=2018-02-06-205026-927\" target=\"_blank\">DVI Records Schedule</a></li>\n<li><a alt=\"DVI Executive Summary Link\" href=\"https://www.dimoc.mil/Portals/64/ExecSumm%20-%20VI%20Records%20Schedule%20-%20AUG%202019_1.pdf\" target=\"_blank\">DVI Executive Summary</a></li>\n<li><a alt=\"Section 3103 Link\" href=\"https://www.govinfo.gov/app/details/USCODE-2009-title44/USCODE-2009-title44-chap31-sec3103\" target=\"_blank\">Section 3103</a></li>\n</ul>\n</div>\n<div class=\"footer_logos_container footer-left-cell\">\n<div class=\"footer_logos_grid_2\">\n<a class=\"uk-width-2-2 uk-margin-bottom\" href=\"/podcast\">\n<img alt=\"Podcasts Logo\" class=\"sub_footer_logos\" src=\"/images/podcasts_logo_white.png\"/></a>\n<a class=\"uk-width-2-2 uk-margin-bottom\" href=\"/app\">\n<img alt=\"Military 24/7 Logo\" class=\"sub_footer_logos\" src=\"/images/mil_247_logo_white.png\"/></a>\n<a class=\"uk-width-1-4 uk-margin-bottom uk-hidden-medium uk-hidden-large\" style=\"display:block\"></a>\n\n\n</div>\n</div>\n</div>\n<div class=\"clear\"></div>\n<div class=\"uk-grid\">\n<div class=\"uk-width-medium-10-10\">\n<a href=\"https://www.defense.gov/\" target=\"_blank\"><img alt=\"US Deptartment of Defense Logo\" class=\"uk-align-center dma-logo-sub\" src=\"/images/wargov-logo-footer.png\"/></a>\n</div>\n<div class=\"uk-align-center\" style=\"opacity: 0.25;\">\n                Version: 526cb83cb54a38e02fbb3460088d2cc92b1f270a_2026-09-01T14:21:38            </div>\n</div>\n</div>\n</div>\n\n</div><!--body_content-->\n</body>",
+      "word_count": 987,
+      "char_count": 6498,
+      "lead_image": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2609/9905788/1000w_q95.jpg",
+      "images": [
+        {
+          "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2609/9905788/1000w_q95.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2609/9905687/75x75_q95.jpg",
+          "alt": "USAG Wiesbaden DPW invests in workforce with new technology",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2609/9905788/75x75_q95.jpg",
+          "alt": "USAG Wiesbaden DPW invests in workforce with new technology",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2609/9905793/75x75_q95.jpg",
+          "alt": "USAG Wiesbaden DPW invests in workforce with new technology",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 4,
+      "extractor": "bs4",
+      "status": "ok",
+      "first_seen_at": "2026-09-02T14:55:56Z"
+    },
+    {
+      "id": "d975fdea9fcc565f",
+      "title": "Real Time Automation's John Rinaldi Accepted into Forbes Technology Council; Champions Scalable, Open Smart Manufacturing",
+      "header": "PR Newswire",
+      "published_at": "2026-09-02T13:05:00Z",
+      "published_raw": "Wed, 02 Sep 2026 13:05:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRVBXT29jVXg2WjY1R1BENVk4TGhVNlhobjhJaE1ZQ3Ntd3lsTldWZk5wc3ZJRXA1ZVdkenhhNVdBMlRYYmJmUDQzajdIZlF6N3hCeHUxcDlYQ2xOaUhmUVpOb2lZVFNZTzdReC12ZGZxQlc1bDc1b2JQSTNrTFl5ZFdkTzg3TDhqMHNjWEktQThnUTdYVXk3SUprQ0pxTW9IalZoc0Fscjd6Y2NqYTFVSWI2eVRXdzdwa1NDTi16bEt5U3NlY2VBQWZ0UnBxZXJEUkQxMlZCR21yNFh3ejF3LVIxZnNwSmQxRjloUldSNmNNMVBLWUcyTHZ1YnNoMjhURGJndQ?oc=5",
+      "description": "Real Time Automation's John Rinaldi Accepted into Forbes Technology Council; Champions Scalable, Open Smart Manufacturing PR Newswire",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQRVBXT29jVXg2WjY1R1BENVk4TGhVNlhobjhJaE1ZQ3Ntd3lsTldWZk5wc3ZJRXA1ZVdkenhhNVdBMlRYYmJmUDQzajdIZlF6N3hCeHUxcDlYQ2xOaUhmUVpOb2lZVFNZTzdReC12ZGZxQlc1bDc1b2JQSTNrTFl5ZFdkTzg3TDhqMHNjWEktQThnUTdYVXk3SUprQ0pxTW9IalZoc0Fscjd6Y2NqYTFVSWI2eVRXdzdwa1NDTi16bEt5U3NlY2VBQWZ0UnBxZXJEUkQxMlZCR21yNFh3ejF3LVIxZnNwSmQxRjloUldSNmNNMVBLWUcyTHZ1YnNoMjhURGJndQ?oc=5\" target=\"_blank\">Real Time Automation's John Rinaldi Accepted into Forbes Technology Council; Champions Scalable, Open Smart Manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRVBXT29jVXg2WjY1R1BENVk4TGhVNlhobjhJaE1ZQ3Ntd3lsTldWZk5wc3ZJRXA1ZVdkenhhNVdBMlRYYmJmUDQzajdIZlF6N3hCeHUxcDlYQ2xOaUhmUVpOb2lZVFNZTzdReC12ZGZxQlc1bDc1b2JQSTNrTFl5ZFdkTzg3TDhqMHNjWEktQThnUTdYVXk3SUprQ0pxTW9IalZoc0Fscjd6Y2NqYTFVSWI2eVRXdzdwa1NDTi16bEt5U3NlY2VBQWZ0UnBxZXJEUkQxMlZCR21yNFh3ejF3LVIxZnNwSmQxRjloUldSNmNNMVBLWUcyTHZ1YnNoMjhURGJndQ?oc=5"
+      ],
+      "scraped_at": "2026-09-02T14:55:59Z",
+      "url": "https://www.prnewswire.com/news-releases/real-time-automations-john-rinaldi-accepted-into-forbes-technology-council-champions-scalable-open-smart-manufacturing-302867719.html",
+      "final_url": "https://www.prnewswire.com/news-releases/real-time-automations-john-rinaldi-accepted-into-forbes-technology-council-champions-scalable-open-smart-manufacturing-302867719.html",
+      "source": "prnewswire.com",
+      "article_title": "Real Time Automation's John Rinaldi Accepted into Forbes Technology Council; Champions Scalable, Open Smart Manufacturing",
+      "heading": "Real Time Automation's John Rinaldi Accepted into Forbes Technology Council; Champions Scalable, Open Smart Manufacturing",
+      "authors": [
+        "Real Time Automation"
+      ],
+      "article_published_at": "2026-09-02T09:05:00-04:00",
+      "article_modified_at": "2026-09-02T09:05:10-04:00",
+      "summary": "/PRNewswire/ -- Real Time Automation (RTA), a global leader in industrial networking solutions, today announced that John Rinaldi, Founder and Chief Strategist...",
+      "content": "Industrial networking expert and author joins invitation-only community for world-class CIOs, CTOs, and technology executives.\nPEWAUKEE, Wis., Sept. 2, 2026 /PRNewswire/ -- Real Time Automation (RTA), a global leader in industrial networking solutions, today announced that John Rinaldi, Founder and Chief Strategist of Creating Industrial connectivity products, has been accepted into the Forbes Technology Council.\nJohn was selected by a review committee based on the depth and diversity of his experience. Criteria for acceptance include a proven track record of successfully impacting business growth metrics, recognized technical leadership, and substantial personal and professional achievements in industrial automation and communication technologies.\nAs a pioneer in industrial networking, John has authored six industry-standard books—including Industrial Ethernet, Modbus, and OPC UA: The Everyman's Guide—along with more than 100 articles on industrial communications. Through his leadership at RTA, he has dedicated decades to simplifying plant-floor connectivity, eliminating proprietary vendor lock-in, and helping manufacturers of all sizes modernize legacy systems into connected, smart operations.\n\"We are pleased to welcome John Rinaldi into the community,\" said Scott Gerber, founder of Forbes Councils, the collective that includes the Forbes Technology Council. \"The Forbes Councils' mission is to bring together recognized leaders in their industry, creating a curated, social capital-driven network that helps every member grow professionally and achieve a greater impact on the business world.\"\nAs an accepted member of the Council, John will collaborate with senior technology leaders in a private forum and work with a professional editorial team to share expert thought leadership via original business articles on Forbes.com. His contributions will focus on data modeling, industrial AI prerequisites, interoperability, and practical digital transformation strategies for discrete and process manufacturing.\n\"I am honored to join the Forbes Technology Council,\" said John S. Rinaldi. \"True digital transformation and industrial AI cannot succeed without addressing the real challenge on the factory floor: standardizing and contextualizing data at the edge. I look forward to collaborating with fellow technology executives and contributing practical, reality-grounded insights on how manufacturers can build reliable, scalable architectures.\"\nAbout Real Time Automation\nHeadquartered in Pewaukee, Wisconsin, Real Time Automation (RTA) has been delivering industrial connectivity solutions since 1989. RTA specializes in making industrial networking simple, reliable, and accessible through protocol gateways, embedded software, and expert consultation. Backed by its commitment to world-class customer support and tailored solutions, RTA helps manufacturers and OEMs worldwide move vital operational data seamlessly across legacy and modern automation ecosystems. For more information, visit rtautomation.com.\nAbout Forbes Councils\nForbes Councils is a collective of invitation-only communities created in partnership with Forbes and the expert community builders who founded Young Entrepreneur Council (YEC). In Forbes Councils, exceptional business owners and leaders come together with the people and resources that can help them thrive. For more information about Forbes Technology Council, visit forbestechcouncil.com.\nMedia Contact\nDiana Karthas\nRipple Effect Communications\n[email protected]\n617-536-8887\nSOURCE Real Time Automation",
+      "content_html": "<html>\n  <body><img src=\"https://www.prnewswire.com/content/dam/amplify-logo.png\"/><h1>Real Time Automation's John Rinaldi Accepted into Forbes Technology Council; Champions Scalable, Open Smart Manufacturing</h1><p>Industrial networking expert and author joins invitation-only community for world-class CIOs, CTOs, and technology executives.</p><p>PEWAUKEE, Wis., Sept. 2, 2026 /PRNewswire/ -- Real Time Automation (RTA), a global leader in industrial networking solutions, today announced that John Rinaldi, Founder and Chief Strategist of Creating Industrial connectivity products, has been accepted into the Forbes Technology Council.</p><p>John was selected by a review committee based on the depth and diversity of his experience. Criteria for acceptance include a proven track record of successfully impacting business growth metrics, recognized technical leadership, and substantial personal and professional achievements in industrial automation and communication technologies.</p><p>As a pioneer in industrial networking, John has authored six industry-standard books—including Industrial Ethernet, Modbus, and OPC UA: The Everyman's Guide—along with more than 100 articles on industrial communications. Through his leadership at RTA, he has dedicated decades to simplifying plant-floor connectivity, eliminating proprietary vendor lock-in, and helping manufacturers of all sizes modernize legacy systems into connected, smart operations.</p><p>\"We are pleased to welcome John Rinaldi into the community,\" said Scott Gerber, founder of Forbes Councils, the collective that includes the Forbes Technology Council. \"The Forbes Councils' mission is to bring together recognized leaders in their industry, creating a curated, social capital-driven network that helps every member grow professionally and achieve a greater impact on the business world.\"</p><p>As an accepted member of the Council, John will collaborate with senior technology leaders in a private forum and work with a professional editorial team to share expert thought leadership via original business articles on Forbes.com. His contributions will focus on data modeling, industrial AI prerequisites, interoperability, and practical digital transformation strategies for discrete and process manufacturing.</p><p>\"I am honored to join the Forbes Technology Council,\" said John S. Rinaldi. \"True digital transformation and industrial AI cannot succeed without addressing the real challenge on the factory floor: standardizing and contextualizing data at the edge. I look forward to collaborating with fellow technology executives and contributing practical, reality-grounded insights on how manufacturers can build reliable, scalable architectures.\"</p><p>About Real Time Automation</p><p>Headquartered in Pewaukee, Wisconsin, Real Time Automation (RTA) has been delivering industrial connectivity solutions since 1989. RTA specializes in making industrial networking simple, reliable, and accessible through protocol gateways, embedded software, and expert consultation. Backed by its commitment to world-class customer support and tailored solutions, RTA helps manufacturers and OEMs worldwide move vital operational data seamlessly across legacy and modern automation ecosystems. For more information, visit rtautomation.com.</p><p>About Forbes Councils</p><p>Forbes Councils is a collective of invitation-only communities created in partnership with Forbes and the expert community builders who founded Young Entrepreneur Council (YEC). In Forbes Councils, exceptional business owners and leaders come together with the people and resources that can help them thrive. For more information about Forbes Technology Council, visit forbestechcouncil.com.</p><p>Media Contact<br/>Diana Karthas<br/>Ripple Effect Communications<br/>[email protected]<br/>617-536-8887</p><p>SOURCE Real Time Automation</p><img src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NE39198&amp;Transmission_Id=202609020905PR_NEWS_USPR_____NE39198&amp;DateId=20260902\"/>\n          \n        <img src=\"https://www.prnewswire.com/content/dam/newWidget-desktop.png\"/>\n               <h2>21%</h2><img src=\"https://www.prnewswire.com/content/dam/amplify-logo.png\"/></body>\n</html>",
+      "word_count": 475,
+      "char_count": 3568,
+      "lead_image": "https://rt.prnewswire.com/rt.gif?NewsItemId=NE39198&Transmission_Id=202609020905PR_NEWS_USPR_____NE39198&DateId=20260902",
+      "images": [
+        {
+          "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=NE39198&Transmission_Id=202609020905PR_NEWS_USPR_____NE39198&DateId=20260902",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-02T14:55:59Z"
+    },
+    {
+      "id": "da1d536bee25e1a6",
+      "title": "Fujifilm and ASGE Advance Partnership with Next-Generation Endoscopic Technology Upgrade at the Institute for Training and Technology",
+      "header": "Business Wire",
+      "published_at": "2026-09-02T13:00:00Z",
+      "published_raw": "Wed, 02 Sep 2026 13:00:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUjZZVmxfMmhiZG1pYjdka0dRdDZMVmYwakI4cTlQSUZiTGlWSzdpa0FWSHJrME5LVXM3Ym5KUUg5blMzQ1JleHFsOFNLX28ta2tJNUgxT1dNcW54ZmlMTzdvbVgtWDkzN1gyT3dvbkdZY3NKOG42QUZsMm1Qa1d4MWZzUk1tNklla1g3TWFPaE1XMFdralJyTkxTbEY0Y0JYbUppMGY0U19yazUtUFZLbEJBQllGRGVxSzJna3VyYllZYS02ZnBfSjNVUnU3Tm1haG5YT1VUQXFDR2NQN21OSEE2ZTIwMV91UE1SdDBoNHhZeWFqaU11ZG0zU0thWWF2UDI4SHBnWGJlWjdrdXJPZkdCTXkxbXBFc0E?oc=5",
+      "description": "Fujifilm and ASGE Advance Partnership with Next-Generation Endoscopic Technology Upgrade at the Institute for Training and Technology Business Wire",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxPUjZZVmxfMmhiZG1pYjdka0dRdDZMVmYwakI4cTlQSUZiTGlWSzdpa0FWSHJrME5LVXM3Ym5KUUg5blMzQ1JleHFsOFNLX28ta2tJNUgxT1dNcW54ZmlMTzdvbVgtWDkzN1gyT3dvbkdZY3NKOG42QUZsMm1Qa1d4MWZzUk1tNklla1g3TWFPaE1XMFdralJyTkxTbEY0Y0JYbUppMGY0U19yazUtUFZLbEJBQllGRGVxSzJna3VyYllZYS02ZnBfSjNVUnU3Tm1haG5YT1VUQXFDR2NQN21OSEE2ZTIwMV91UE1SdDBoNHhZeWFqaU11ZG0zU0thWWF2UDI4SHBnWGJlWjdrdXJPZkdCTXkxbXBFc0E?oc=5\" target=\"_blank\">Fujifilm and ASGE Advance Partnership with Next-Generation Endoscopic Technology Upgrade at the Institute for Training and Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUjZZVmxfMmhiZG1pYjdka0dRdDZMVmYwakI4cTlQSUZiTGlWSzdpa0FWSHJrME5LVXM3Ym5KUUg5blMzQ1JleHFsOFNLX28ta2tJNUgxT1dNcW54ZmlMTzdvbVgtWDkzN1gyT3dvbkdZY3NKOG42QUZsMm1Qa1d4MWZzUk1tNklla1g3TWFPaE1XMFdralJyTkxTbEY0Y0JYbUppMGY0U19yazUtUFZLbEJBQllGRGVxSzJna3VyYllZYS02ZnBfSjNVUnU3Tm1haG5YT1VUQXFDR2NQN21OSEE2ZTIwMV91UE1SdDBoNHhZeWFqaU11ZG0zU0thWWF2UDI4SHBnWGJlWjdrdXJPZkdCTXkxbXBFc0E?oc=5"
+      ],
+      "scraped_at": "2026-09-02T14:55:58Z",
+      "url": "https://www.businesswire.com/news/home/20260902361183/en/Fujifilm-and-ASGE-Advance-Partnership-with-Next-Generation-Endoscopic-Technology-Upgrade-at-the-Institute-for-Training-and-Technology",
+      "final_url": "https://www.businesswire.com/news/home/20260902361183/en/Fujifilm-and-ASGE-Advance-Partnership-with-Next-Generation-Endoscopic-Technology-Upgrade-at-the-Institute-for-Training-and-Technology",
+      "source": "Business Wire",
+      "article_title": "",
+      "heading": "Fujifilm and ASGE Advance Partnership with Next-Generation Endoscopic Technology Upgrade at the Institute for Training and Technology",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Fujifilm and ASGE Advance Partnership with Next-Generation Endoscopic Technology Upgrade at the Institute for Training and Technology Business Wire",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-02T14:55:58Z"
+    },
+    {
+      "id": "1f0464440fa66d1e",
+      "title": "GF announces customer availability of UX platform technologies for intelligent edge, connectivity and Physical AI applications",
+      "header": "GlobalFoundries",
+      "published_at": "2026-09-02T12:30:00Z",
+      "published_raw": "Wed, 02 Sep 2026 12:30:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVUFHVlpmLW1rZDRoeHB6ZnV3VmNWMFFObG10XzV1eWFCMVlNRnpoYm5RaVg2SnFzZ1Z4R3JUclVOZGpwaGVpWVRBWkVndEZCME8zQmJtaFl0ekFHNExoSTUyb1FuM3BVTEU2OVJ3TW9oN0tJM0loUEFfZ1d0YTk5UVZtdzZselBFWFE5aEE5Z0RYMVQyX2k2dktLN3lvQm1JdjVRYTRmNEdELVZqaHd6MkVrbnAwV0c1bHZIbk1WRFlMdmNEXzM3WTBUVThpbENfVmJNZGU2WmpoM1dnMWhGY19FV1lnQzdLaGNndVduRmxac0Fh?oc=5",
+      "description": "GF announces customer availability of UX platform technologies for intelligent edge, connectivity and Physical AI applications GlobalFoundries",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVUFHVlpmLW1rZDRoeHB6ZnV3VmNWMFFObG10XzV1eWFCMVlNRnpoYm5RaVg2SnFzZ1Z4R3JUclVOZGpwaGVpWVRBWkVndEZCME8zQmJtaFl0ekFHNExoSTUyb1FuM3BVTEU2OVJ3TW9oN0tJM0loUEFfZ1d0YTk5UVZtdzZselBFWFE5aEE5Z0RYMVQyX2k2dktLN3lvQm1JdjVRYTRmNEdELVZqaHd6MkVrbnAwV0c1bHZIbk1WRFlMdmNEXzM3WTBUVThpbENfVmJNZGU2WmpoM1dnMWhGY19FV1lnQzdLaGNndVduRmxac0Fh?oc=5\" target=\"_blank\">GF announces customer availability of UX platform technologies for intelligent edge, connectivity and Physical AI applications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobalFoundries</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVUFHVlpmLW1rZDRoeHB6ZnV3VmNWMFFObG10XzV1eWFCMVlNRnpoYm5RaVg2SnFzZ1Z4R3JUclVOZGpwaGVpWVRBWkVndEZCME8zQmJtaFl0ekFHNExoSTUyb1FuM3BVTEU2OVJ3TW9oN0tJM0loUEFfZ1d0YTk5UVZtdzZselBFWFE5aEE5Z0RYMVQyX2k2dktLN3lvQm1JdjVRYTRmNEdELVZqaHd6MkVrbnAwV0c1bHZIbk1WRFlMdmNEXzM3WTBUVThpbENfVmJNZGU2WmpoM1dnMWhGY19FV1lnQzdLaGNndVduRmxac0Fh?oc=5"
+      ],
+      "scraped_at": "2026-09-02T14:55:57Z",
+      "url": "https://gf.com/news-and-events/news/gf-announces-customer-availability-of-ux-platform-technologies-for-intelligent-edge-connectivity-and-physical-ai-applications/",
+      "final_url": "https://gf.com/news-and-events/news/gf-announces-customer-availability-of-ux-platform-technologies-for-intelligent-edge-connectivity-and-physical-ai-applications/",
+      "source": "GlobalFoundries",
+      "article_title": "GF announces customer availability of UX platform technologies for intelligent edge, connectivity and Physical AI applications | GlobalFoundries",
+      "heading": "GlobalFoundries announces customer availability of UX platform technologies for intelligent edge, connectivity and Physical AI applications",
+      "authors": [],
+      "article_published_at": "2026-09-02T12:30:00+00:00",
+      "article_modified_at": null,
+      "summary": "New CMOS platforms combine ultra-low power connectivity, sensing and mixed-signal innovation for next-generation edge devices",
+      "content": "Newest feature-rich CMOS platform family combines ultra-low power connectivity, sensing and mixed-signal innovation with cost-efficient manufacturing for next-generation edge devices\nSANTA CLARA, Calif., Sept. 2, 2026 – Today at its annual GF Technology Summit (GTS) in North America, GlobalFoundries (Nasdaq: GFS) (GF) announced process design kit (PDK) availability for its UX platform family, two new feature-rich CMOS technologies purpose-built for next-generation intelligent edge devices and advanced sensing systems. First introduced on stage at GTS last year, the UX family includes 40nm (40UX) and 22nm (22UX) technologies, providing customers with a scalable roadmap for ultra-low power microcontrollers, wireless connectivity devices, sensor interfaces, imaging systems and edge AI applications. Built on proven technology modules and supported by GF’s design ecosystem and global manufacturing footprint, UX technologies will help customers accelerate development of AI devices and intelligent systems while balancing performance, power, cost and supply requirements.\nAs intelligence moves from the cloud into billions of connected devices, designers need semiconductor technologies that combine precise sensing, always-on connectivity and energy-efficient processing within tight power and form factor constraints. The UX family expands GF’s portfolio of differentiated technologies for Physical AI, giving customers a scalable path for solutions enabling connected microcontrollers (MCUs), highly integrated sensing and mixed-signal systems. 40UX brings proven, cost-efficient integration to MCUs and always-on-edge devices, while 22UX provides a higher level of analog, sensing, and mixed-signal performance for more complex intelligent systems.\nThe 40UX platform is optimized for secure, smart and connected microcontrollers and systems-on-a-chip (SoCs) serving wearable, IoT and wireless connectivity applications. Based on GF’s high-volume 40nm platform with high-endurance eFlash technology that has shipped more than one million wafers to date, 40UX combines ultra-low leakage transistors and SRAM, low-noise analog capabilities, integrated embedded flash with built-in self-test functionality and advanced RF enablement to support long battery life, high reliability and compact form factors. The platform is particularly well suited for Bluetooth Low Energy (BLE) devices, wireless connectivity products, low-noise sensor interfaces and other power-sensitive edge applications.\nThe 40UX platform is set to ramp to volume production at GF’s Singapore site by 2027, with future production planned though its site in Malta, New York. The technology’s roadmap includes optimizations embedded processing, including high-voltage and noise enablement, Automotive Grade 1 qualification and enhanced embedded non-volatile memory options.\nFor applications that require higher levels of analog integration and sensing performance, the 22UX platform delivers an analog-optimized 22nm solution for edge AI, imaging and mixed-signal systems. The platform combines ultra-low power operation with low-noise analog devices, improved device matching, wafer-scale Random Telegraph Signal (RTS) noise characterization, bonding-ready wafers for advanced 3D integration and a roadmap for ultra-low leakage, analog compute-in-memory and embedded memory capabilities. The platform is ideally suited for stacked CMOS image sensor readout ICs with a 1/f flicker noise and low-noise 3.3V analog FET for precise measurement. The platform’s improved device matching and higher voltage headroom make it an optimal choice for cost-optimized mixed-signal SoCs, sensor interfaces and power sensitive edge devices that require superior analog performance.\nThe 22UX platform integrates analog-optimized features including ultra-low power capabilities for exceptional energy-efficiency and third generation fill cells for faster product-level block/module integration. The platform is industry-compatible, offering easy porting from other bulk CMOS platforms, and was developed using high-volume proven modules and GF’s successful 28nm technology that has shipped over one million wafers to date. 22UX will be manufactured at GF’s advanced manufacturing facility in Dresden, Germany with a roadmap to reach multi-site production through GF’s global footprint.\n“Intelligence is moving into more of the devices people and businesses rely on every day, creating new demands for power efficiency, precise sensing, connectivity and cost-effective integration,” said Ed Kaste, senior vice president of GF’s CMOS business. “Our new UX platform family gives customers a scalable path to develop differentiated products for the intelligent edge, backed by proven technology and GF’s global manufacturing capabilities. By expanding our feature-rich CMOS portfolio with 40UX and 22UX, we are helping customers bring the next generation of connected and Physical AI systems to market.”\nBoth platforms are available for customer engagement and prototyping through GF’s GlobalShuttle™ multi-project wafer program with quarterly shuttles scheduled through 2027.\nAbout GF\nGlobalFoundries (GF) is a leading manufacturer of essential semiconductors the world relies on to live, work and connect. We innovate and partner with customers to deliver more power-efficient, high-performance products for the automotive, smart mobile devices, internet of things, communications infrastructure and other high-growth markets. With our global manufacturing footprint spanning the U.S., Europe, and Asia, GF is a trusted and reliable source for customers around the world. Every day, our talented global team delivers results with an unyielding focus on security, longevity, and sustainability. For more information, visit www.gf.com.\nForward-looking information\nThis news release may contain forward-looking statements, which involve risks and uncertainties. Readers are cautioned not to place undue reliance on any of these forward-looking statements. These forward-looking statements speak only as of the date hereof. GF undertakes no obligation to update any of these forward-looking statements to reflect events or circumstances after the date of this news release or to reflect actual outcomes, unless required by law.\nMedia contact:\nStephanie Gonzalez\n[email protected]",
+      "content_html": "<html>\n  <body>\n    <p>Newest feature-rich CMOS platform family combines ultra-low power connectivity, sensing and mixed-signal innovation with cost-efficient manufacturing for next-generation edge devices</p>\n    <p>SANTA CLARA, Calif., Sept. 2, 2026 – Today at its annual GF Technology Summit (GTS) in North America, GlobalFoundries (Nasdaq: GFS) (GF) announced process design kit (PDK) availability for its UX platform family, two new feature-rich CMOS technologies purpose-built for next-generation intelligent edge devices and advanced sensing systems. First introduced on stage at GTS last year, the UX family includes 40nm (40UX) and 22nm (22UX) technologies, providing customers with a scalable roadmap for ultra-low power microcontrollers, wireless connectivity devices, sensor interfaces, imaging systems and edge AI applications. Built on proven technology modules and supported by GF’s design ecosystem and global manufacturing footprint, UX technologies will help customers accelerate development of AI devices and intelligent systems while balancing performance, power, cost and supply requirements.</p>\n    <p>As intelligence moves from the cloud into billions of connected devices, designers need semiconductor technologies that combine precise sensing, always-on connectivity and energy-efficient processing within tight power and form factor constraints. The UX family expands GF’s portfolio of differentiated technologies for Physical AI, giving customers a scalable path for solutions enabling connected microcontrollers (MCUs), highly integrated sensing and mixed-signal systems. 40UX brings proven, cost-efficient integration to MCUs and always-on-edge devices, while 22UX provides a higher level of analog, sensing, and mixed-signal performance for more complex intelligent systems.</p>\n    <p>The 40UX platform is optimized for secure, smart and connected microcontrollers and systems-on-a-chip (SoCs) serving wearable, IoT and wireless connectivity applications. Based on GF’s high-volume 40nm platform with high-endurance eFlash technology that has shipped more than one million wafers to date, 40UX combines ultra-low leakage transistors and SRAM, low-noise analog capabilities, integrated embedded flash with built-in self-test functionality and advanced RF enablement to support long battery life, high reliability and compact form factors. The platform is particularly well suited for Bluetooth Low Energy (BLE) devices, wireless connectivity products, low-noise sensor interfaces and other power-sensitive edge applications.</p>\n    <p>The 40UX platform is set to ramp to volume production at GF’s Singapore site by 2027, with future production planned though its site in Malta, New York. The technology’s roadmap includes optimizations embedded processing, including high-voltage and noise enablement, Automotive Grade 1 qualification and enhanced embedded non-volatile memory options.</p>\n    <p>For applications that require higher levels of analog integration and sensing performance, the 22UX platform delivers an analog-optimized 22nm solution for edge AI, imaging and mixed-signal systems. The platform combines ultra-low power operation with low-noise analog devices, improved device matching, wafer-scale Random Telegraph Signal (RTS) noise characterization, bonding-ready wafers for advanced 3D integration and a roadmap for ultra-low leakage, analog compute-in-memory and embedded memory capabilities. The platform is ideally suited for stacked CMOS image sensor readout ICs with a 1/f flicker noise and low-noise 3.3V analog FET for precise measurement. The platform’s improved device matching and higher voltage headroom make it an optimal choice for cost-optimized mixed-signal SoCs, sensor interfaces and power sensitive edge devices that require superior analog performance.</p>\n    <p>The 22UX platform integrates analog-optimized features including ultra-low power capabilities for exceptional energy-efficiency and third generation fill cells for faster product-level block/module integration. The platform is industry-compatible, offering easy porting from other bulk CMOS platforms, and was developed using high-volume proven modules and GF’s successful 28nm technology that has shipped over one million wafers to date. 22UX will be manufactured at GF’s advanced manufacturing facility in Dresden, Germany with a roadmap to reach multi-site production through GF’s global footprint.</p>\n    <p>“Intelligence is moving into more of the devices people and businesses rely on every day, creating new demands for power efficiency, precise sensing, connectivity and cost-effective integration,” said Ed Kaste, senior vice president of GF’s CMOS business. “Our new UX platform family gives customers a scalable path to develop differentiated products for the intelligent edge, backed by proven technology and GF’s global manufacturing capabilities. By expanding our feature-rich CMOS portfolio with 40UX and 22UX, we are helping customers bring the next generation of connected and Physical AI systems to market.”</p>\n    <p>Both platforms are available for customer engagement and prototyping through GF’s GlobalShuttle™ multi-project wafer program with quarterly shuttles scheduled through 2027.</p>\n    <p>About GF</p>\n    <p>GlobalFoundries (GF) is a leading manufacturer of essential semiconductors the world relies on to live, work and connect. We innovate and partner with customers to deliver more power-efficient, high-performance products for the automotive, smart mobile devices, internet of things, communications infrastructure and other high-growth markets. With our global manufacturing footprint spanning the U.S., Europe, and Asia, GF is a trusted and reliable source for customers around the world. Every day, our talented global team delivers results with an unyielding focus on security, longevity, and sustainability. For more information, visit www.gf.com.</p>\n    <p>Forward-looking information</p>\n    <p>This news release may contain forward-looking statements, which involve risks and uncertainties. Readers are cautioned not to place undue reliance on any of these forward-looking statements. These forward-looking statements speak only as of the date hereof. GF undertakes no obligation to update any of these forward-looking statements to reflect events or circumstances after the date of this news release or to reflect actual outcomes, unless required by law.</p>\n    <p>Media contact:<br/>Stephanie Gonzalez<br/>[email protected]</p>\n  </body>\n</html>",
+      "word_count": 853,
+      "char_count": 6333,
+      "lead_image": "https://assets.gf.com/asset/328833518282/image_mduhljcich7k1e82tqmqeoke2f?content-disposition=inline",
+      "images": [
+        {
+          "url": "https://assets.gf.com/asset/328833518282/image_mduhljcich7k1e82tqmqeoke2f?content-disposition=inline",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-02T14:55:57Z"
+    },
+    {
+      "id": "60977c2c4ee4d4ea",
+      "title": "Roper Technologies to present at Goldman Sachs Technology Conference",
+      "header": "GlobeNewswire",
+      "published_at": "2026-09-02T12:30:00Z",
+      "published_raw": "Wed, 02 Sep 2026 12:30:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdWZybU1wbllTU3FRTjktSmZUR2h1T3hDM0RYd1RhVm4yaThEd3lqWldLMzlCQmx5cGgwUDlkNDJKNG9pNnFLdU9VZE5yYWhVamFJZXF2Vy1YM1dsc1Q0UGJUdGx5dUdhdHc4U2hyQnZJWFBrc1BHclpRLUxsRHVGV1kwMW9vVFl0ZHlQeEUzR1drVmdrUjNvR3RLMXNOajVQN0psYkxpQ1FndmR3SnJNNmcyWWVtN0gwZWJQMmVSa3lWYV9NOWlzUWJNTGJJNjNpTW05UHBjTQ?oc=5",
+      "description": "Roper Technologies to present at Goldman Sachs Technology Conference GlobeNewswire",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdWZybU1wbllTU3FRTjktSmZUR2h1T3hDM0RYd1RhVm4yaThEd3lqWldLMzlCQmx5cGgwUDlkNDJKNG9pNnFLdU9VZE5yYWhVamFJZXF2Vy1YM1dsc1Q0UGJUdGx5dUdhdHc4U2hyQnZJWFBrc1BHclpRLUxsRHVGV1kwMW9vVFl0ZHlQeEUzR1drVmdrUjNvR3RLMXNOajVQN0psYkxpQ1FndmR3SnJNNmcyWWVtN0gwZWJQMmVSa3lWYV9NOWlzUWJNTGJJNjNpTW05UHBjTQ?oc=5\" target=\"_blank\">Roper Technologies to present at Goldman Sachs Technology Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdWZybU1wbllTU3FRTjktSmZUR2h1T3hDM0RYd1RhVm4yaThEd3lqWldLMzlCQmx5cGgwUDlkNDJKNG9pNnFLdU9VZE5yYWhVamFJZXF2Vy1YM1dsc1Q0UGJUdGx5dUdhdHc4U2hyQnZJWFBrc1BHclpRLUxsRHVGV1kwMW9vVFl0ZHlQeEUzR1drVmdrUjNvR3RLMXNOajVQN0psYkxpQ1FndmR3SnJNNmcyWWVtN0gwZWJQMmVSa3lWYV9NOWlzUWJNTGJJNjNpTW05UHBjTQ?oc=5"
+      ],
+      "scraped_at": "2026-09-02T14:55:59Z",
+      "url": "https://www.globenewswire.com/news-release/2026/09/02/3355152/0/en/roper-technologies-to-present-at-goldman-sachs-technology-conference.html",
+      "final_url": "https://www.globenewswire.com/news-release/2026/09/02/3355152/0/en/roper-technologies-to-present-at-goldman-sachs-technology-conference.html",
+      "source": "GlobeNewswire",
+      "article_title": "",
+      "heading": "Roper Technologies to present at Goldman Sachs Technology Conference",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Roper Technologies to present at Goldman Sachs Technology Conference GlobeNewswire",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-02T14:55:59Z"
+    },
+    {
+      "id": "b56c744aff611825",
+      "title": "The Connected Hotel: Building a Technology Stack That Can Evolve",
+      "header": "Hospitality Net",
+      "published_at": "2026-09-02T11:39:34Z",
+      "published_raw": "Wed, 02 Sep 2026 11:39:34 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmxwU1FoRE95SkluRjZrM2JxYkVFLTlPTDBnWjB0Y1NQQzVOMkVZWEZtUVVqUmJwVUV4eDJhNFltQzRkWUZ5ZEdWcWRaQ1FORVJlWTRLNmREMVJGdFBXNHQ2Y3hSZnN5OFIyS1FWWDdSOTZiUkozUXBVVUQ0TWFod2RXWEM4OEFldG53VXNIUDUwSEdjeHJjSm1zU1ZrUkNsSnhXOWlLY20yRTg?oc=5",
+      "description": "The Connected Hotel: Building a Technology Stack That Can Evolve Hospitality Net",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmxwU1FoRE95SkluRjZrM2JxYkVFLTlPTDBnWjB0Y1NQQzVOMkVZWEZtUVVqUmJwVUV4eDJhNFltQzRkWUZ5ZEdWcWRaQ1FORVJlWTRLNmREMVJGdFBXNHQ2Y3hSZnN5OFIyS1FWWDdSOTZiUkozUXBVVUQ0TWFod2RXWEM4OEFldG53VXNIUDUwSEdjeHJjSm1zU1ZrUkNsSnhXOWlLY20yRTg?oc=5\" target=\"_blank\">The Connected Hotel: Building a Technology Stack That Can Evolve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hospitality Net</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmxwU1FoRE95SkluRjZrM2JxYkVFLTlPTDBnWjB0Y1NQQzVOMkVZWEZtUVVqUmJwVUV4eDJhNFltQzRkWUZ5ZEdWcWRaQ1FORVJlWTRLNmREMVJGdFBXNHQ2Y3hSZnN5OFIyS1FWWDdSOTZiUkozUXBVVUQ0TWFod2RXWEM4OEFldG53VXNIUDUwSEdjeHJjSm1zU1ZrUkNsSnhXOWlLY20yRTg?oc=5"
+      ],
+      "scraped_at": "2026-09-02T14:55:59Z",
+      "url": "https://www.hospitalitynet.org/news/4134197/the-connected-hotel-building-a-technology-stack-that-can-evolve",
+      "final_url": "https://www.hospitalitynet.org/news/4134197/the-connected-hotel-building-a-technology-stack-that-can-evolve",
+      "source": "Hospitality Net",
+      "article_title": "",
+      "heading": "The Connected Hotel: Building a Technology Stack That Can Evolve",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "The Connected Hotel: Building a Technology Stack That Can Evolve Hospitality Net",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-02T14:55:59Z"
+    },
+    {
+      "id": "28161c1ea73ac8b4",
+      "title": "Merit Financial Advisors names John Rajes chief technology officer",
+      "header": "Yahoo Finance",
+      "published_at": "2026-09-02T11:37:34Z",
+      "published_raw": "Wed, 02 Sep 2026 11:37:34 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdk42NVhCNlFHaW9nUW1RNUtwQU9FSThfaVkzeERUODJRU2pCN3ZuSm5HRnY0UTQyOEVILWNuLXQzMTdhNnlPbEh5VTZuSVNnbnVxeFh6VG1WdEluOFdoSldnN052Q1FoOUhxWUdSdVExbllMWG80a0Y3NWMxVWswcHRnb2F3VVVzS0Yybm50Z1NtaFl3MDg1WXdjLWE?oc=5",
+      "description": "Merit Financial Advisors names John Rajes chief technology officer Yahoo Finance",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdk42NVhCNlFHaW9nUW1RNUtwQU9FSThfaVkzeERUODJRU2pCN3ZuSm5HRnY0UTQyOEVILWNuLXQzMTdhNnlPbEh5VTZuSVNnbnVxeFh6VG1WdEluOFdoSldnN052Q1FoOUhxWUdSdVExbllMWG80a0Y3NWMxVWswcHRnb2F3VVVzS0Yybm50Z1NtaFl3MDg1WXdjLWE?oc=5\" target=\"_blank\">Merit Financial Advisors names John Rajes chief technology officer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdk42NVhCNlFHaW9nUW1RNUtwQU9FSThfaVkzeERUODJRU2pCN3ZuSm5HRnY0UTQyOEVILWNuLXQzMTdhNnlPbEh5VTZuSVNnbnVxeFh6VG1WdEluOFdoSldnN052Q1FoOUhxWUdSdVExbllMWG80a0Y3NWMxVWswcHRnb2F3VVVzS0Yybm50Z1NtaFl3MDg1WXdjLWE?oc=5"
+      ],
+      "scraped_at": "2026-09-02T14:55:57Z",
+      "url": "https://finance.yahoo.com/technology/articles/merit-financial-advisors-names-john-113734359.html",
+      "final_url": "https://finance.yahoo.com/technology/articles/merit-financial-advisors-names-john-113734359.html",
+      "source": "Yahoo Finance",
+      "article_title": "Merit Financial Advisors names John Rajes chief technology officer",
+      "heading": "Yahoo Finance",
+      "authors": [
+        "Vidhya Edwards Munnangi"
+      ],
+      "article_published_at": "2026-09-02T11:37:34Z",
+      "article_modified_at": "2026-09-02T11:37:34Z",
+      "summary": "Rajes will lead the company’s technology strategy across architecture, systems integration, data and AI.",
+      "content": "Merit Financial Advisors has appointed John Rajes as chief technology officer (CTO), adding a new senior executive as the firm expands its leadership structure.\nRajes will lead the company's technology strategy across architecture, systems integration, data and AI, with responsibility for efforts to create a more consistent digital environment for advisors and staff.\nRajes has previously worked in senior roles at LPL Financial, UBS, Barclays and Goldman Sachs.\nMost recently, he ran an independent consulting practice.\nWhile at LPL Financial, where he served as head of strategic partnerships, he oversaw a fintech partner network of around 90 providers and managed investment product relationships involving asset managers, insurance companies and separately managed account providers.\nAt Merit, one of his initial tasks will be to set out a technology roadmap aimed at improving integration, scale and simplicity.\nThis includes linking data and functions across the firm's existing technology systems so advisors spend less time switching between platforms.\nThe new role is also intended to separate responsibilities within the firm's technology and product operations.\nRajes will oversee technology strategy, infrastructure and execution, while chief product officer Brian Green remains focused on product strategy and development. Both report to Lee.\nMerit said advisors will be involved during the development of new technology initiatives, with feedback gathered as projects are designed rather than after completion.\nRajes is based in Charlotte, North Carolina, and will also spend substantial time at the firm's headquarters in Alpharetta, Georgia.\nThe move follows Merit's acquisition of the $900m Bridgeway Group in Southern California.\nThe appointment comes alongside other recent management changes at Merit.\nEarlier this year, the firm named Doug Moore as chief financial officer and appointed Sarah Mouser as executive vice president of financial planning. It also added Alex Hansen as chief advisor success officer.\nThe firm has more than $30.1bn in assets and operates through over 55 offices nationwide.\nIt has completed 61 acquisitions so far, including nine partnerships in 2026.\n\"Merit Financial Advisors names John Rajes chief technology officer \" was originally created and published by Private Banker International, a GlobalData owned brand.",
+      "content_html": "<html>\n  <body>\n    <h1>Merit Financial Advisors names John Rajes chief technology officer</h1>\n    <img src=\"https://s.yimg.com/lo/mysterio/api/08b6609a5570ffc76838d38a491f62cd96cb3d9546030f07921a8a6a8cddfd7d/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprivate_banker_international_938%2F8e13ad8dcb65ed91267db56465cf7aa2.jpg\"/>\n    <p>Merit Financial Advisors has appointed John Rajes as chief technology officer (CTO), adding a new senior executive as the firm expands its leadership structure.</p>\n    <p>Rajes will lead the company's technology strategy across architecture, systems integration, data and AI, with responsibility for efforts to create a more consistent digital environment for advisors and staff.</p>\n    <p>Rajes has previously worked in senior roles at LPL Financial, UBS, Barclays and Goldman Sachs.</p>\n    <p>Most recently, he ran an independent consulting practice.</p>\n    <p>While at LPL Financial, where he served as head of strategic partnerships, he oversaw a fintech partner network of around 90 providers and managed investment product relationships involving asset managers, insurance companies and separately managed account providers.</p>\n    <p>At Merit, one of his initial tasks will be to set out a technology roadmap aimed at improving integration, scale and simplicity.</p>\n    <p>This includes linking data and functions across the firm's existing technology systems so advisors spend less time switching between platforms.</p>\n    <p>The new role is also intended to separate responsibilities within the firm's technology and product operations.</p>\n    <p>Rajes will oversee technology strategy, infrastructure and execution, while chief product officer Brian Green remains focused on product strategy and development. Both report to Lee.</p>\n    <p>Merit said advisors will be involved during the development of new technology initiatives, with feedback gathered as projects are designed rather than after completion.</p>\n    <p>Rajes is based in Charlotte, North Carolina, and will also spend substantial time at the firm's headquarters in Alpharetta, Georgia.</p>\n    <p>The move follows Merit's acquisition of the $900m Bridgeway Group in Southern California.</p>\n    <p>The appointment comes alongside other recent management changes at Merit.</p>\n    <p>Earlier this year, the firm named Doug Moore as chief financial officer and appointed Sarah Mouser as executive vice president of financial planning. It also added Alex Hansen as chief advisor success officer.</p>\n    <p>The firm has more than $30.1bn in assets and operates through over 55 offices nationwide.</p>\n    <p>It has completed 61 acquisitions so far, including nine partnerships in 2026.</p>\n    <p>\"Merit Financial Advisors names John Rajes chief technology officer \" was originally created and published by Private Banker International, a GlobalData owned brand.</p>\n  </body>\n</html>",
+      "word_count": 346,
+      "char_count": 2368,
+      "lead_image": "https://s.yimg.com/lo/mysterio/api/4219a51ed77b22af5ada9f759806810185574dd30f6ae041c49a2a431a744c9b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprivate_banker_international_938%2F8e13ad8dcb65ed91267db56465cf7aa2.jpg",
+      "images": [
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/4219a51ed77b22af5ada9f759806810185574dd30f6ae041c49a2a431a744c9b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprivate_banker_international_938%2F8e13ad8dcb65ed91267db56465cf7aa2.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://media.zenfs.com/en/private_banker_international_938/8e13ad8dcb65ed91267db56465cf7aa2.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/2135d35a1f1f8a97b3c252dcd3de546e05a1d5ed44e5f47a2714c240b1c55c9d/lightyear_networkapi/resizefill_h48%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2F0f747c30-02f5-11ef-bfbf-3621ac7c7fcb",
+          "alt": "Private Banker International",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/08b6609a5570ffc76838d38a491f62cd96cb3d9546030f07921a8a6a8cddfd7d/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprivate_banker_international_938%2F8e13ad8dcb65ed91267db56465cf7aa2.jpg",
+          "alt": "",
+          "caption": "At Merit · Private Banker International",
+          "role": "body"
+        },
+        {
+          "url": "https://s.yimg.com/dv/static/siteApp/img/privacy-choice-control.png",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 5,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-02T14:55:57Z"
+    },
+    {
+      "id": "d9c61da0beb96243",
+      "title": "CMS approves new technology add-on payment for Reflow Medical’s Spur system",
+      "header": "Vascular News",
+      "published_at": "2026-09-02T11:04:54Z",
+      "published_raw": "Wed, 02 Sep 2026 11:04:54 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa285d3VxZmxHREtHRXNWdnd2TFowSkRSZnVOT3dGNXBCVU5ZZnZwc3NEcW5UaFdDYkZsODFDV1U0Q1BneFloNnNQeUFTTjFKdjRlYTR5VkV5ZTJaMGNqMkdnbjczTGRNczFTcEZzcG5ZVXdZZ1BES0RnT1hTVFFZWWZnRFJneFBGT3Vrd1FkeC1oeG9wZm00YzFMVlVXcUt2NlE?oc=5",
+      "description": "CMS approves new technology add-on payment for Reflow Medical’s Spur system Vascular News",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOa285d3VxZmxHREtHRXNWdnd2TFowSkRSZnVOT3dGNXBCVU5ZZnZwc3NEcW5UaFdDYkZsODFDV1U0Q1BneFloNnNQeUFTTjFKdjRlYTR5VkV5ZTJaMGNqMkdnbjczTGRNczFTcEZzcG5ZVXdZZ1BES0RnT1hTVFFZWWZnRFJneFBGT3Vrd1FkeC1oeG9wZm00YzFMVlVXcUt2NlE?oc=5\" target=\"_blank\">CMS approves new technology add-on payment for Reflow Medical’s Spur system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vascular News</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa285d3VxZmxHREtHRXNWdnd2TFowSkRSZnVOT3dGNXBCVU5ZZnZwc3NEcW5UaFdDYkZsODFDV1U0Q1BneFloNnNQeUFTTjFKdjRlYTR5VkV5ZTJaMGNqMkdnbjczTGRNczFTcEZzcG5ZVXdZZ1BES0RnT1hTVFFZWWZnRFJneFBGT3Vrd1FkeC1oeG9wZm00YzFMVlVXcUt2NlE?oc=5"
+      ],
+      "scraped_at": "2026-09-02T14:55:57Z",
+      "url": "https://vascularnews.com/cms-approves-new-technology-add-on-payment-for-reflow-medicals-spur-system/",
+      "final_url": "https://vascularnews.com/cms-approves-new-technology-add-on-payment-for-reflow-medicals-spur-system/",
+      "source": "Vascular News",
+      "article_title": "CMS approves new technology add-on payment for Reflow Medical’s Spur system - Vascular News",
+      "heading": "CMS approves new technology add-on payment for Reflow Medical’s Spur system",
+      "authors": [
+        "Jocelyn Hudson"
+      ],
+      "article_published_at": "2026-09-02T11:04:54+00:00",
+      "article_modified_at": "2026-09-02T12:04:54+01:00",
+      "summary": "Reflow Medical recently shared that the Centers for Medicare & Medicaid Services (CMS) has granted the Spur peripheral retrievable stent system a new technology add-on payment (NTAP), providing additional reimbursement for eligible fee-for-service Medicare inpatient cases beginning 1 October 2026.  A company press release notes that, under the fiscal year 2027 NTAP programme, qualifying inpatient […]",
+      "content": "Reflow Medical recently shared that the Centers for Medicare & Medicaid Services (CMS) has granted the Spur peripheral retrievable stent system a new technology add-on payment (NTAP), providing additional reimbursement for eligible fee-for-service Medicare inpatient cases beginning 1 October 2026.\nA company press release notes that, under the fiscal year 2027 NTAP programme, qualifying inpatient cases involving the Spur stent system are eligible for an incremental payment up to US$2,596.75, in addition to the applicable Medicare severity diagnosis-related group (MS-DRG) payment. Reflow states that actual payment is determined on a case-by-case basis in accordance with the applicable CMS and NTAP methodology used. The NTAP is available for a period of up to two years.\n“NTAP is designed to help hospitals adopt new technology by reducing any financial barriers when introducing clinically meaningful innovations,” says Jill Joines, director of market access and health economics for Reflow Medical. “By recognising the added costs of qualifying new technologies, NTAP supports timely patient access for Medicare beneficiaries while hospitals gain experience with the technology,” she adds.\n“This is an important milestone for Spur and for our continued efforts to support physicians treating patients with infrapopliteal arterial disease, a population with significant unmet clinical needs,” said Isa Rizk, CEO and co-founder of Reflow Medical.\nThe Spur stent system was granted De Novo classification by the US Food and Drug Administration (FDA) in May 2025, following its earlier FDA Breakthrough Device designation. It is intended as an adjunct to percutaneous transluminal angioplasty to dilate stenoses in infrapopliteal arteries ranging in diameter from 2.5–4.5mm. The Spur stent provides temporary mechanical scaffolding and is retrieved following treatment, leaving no permanent implant behind.",
+      "content_html": "<html>\n  <body>\n    <img src=\"https://vascularnews.com/wp-content/uploads/sites/7/2026/09/spur_0_1-300x169.jpg\"/>\n    <p>Reflow Medical recently shared that the Centers for Medicare &amp; Medicaid Services (CMS) has granted the Spur peripheral retrievable stent system a new technology add-on payment (NTAP), providing additional reimbursement for eligible fee-for-service Medicare inpatient cases beginning 1 October 2026.</p>\n    <p>A company press release notes that, under the fiscal year 2027 NTAP programme, qualifying inpatient cases involving the Spur stent system are eligible for an incremental payment up to US$2,596.75, in addition to the applicable Medicare severity diagnosis-related group (MS-DRG) payment. Reflow states that actual payment is determined on a case-by-case basis in accordance with the applicable CMS and NTAP methodology used. The NTAP is available for a period of up to two years.</p>\n    <p>“NTAP is designed to help hospitals adopt new technology by reducing any financial barriers when introducing clinically meaningful innovations,” says Jill Joines, director of market access and health economics for Reflow Medical. “By recognising the added costs of qualifying new technologies, NTAP supports timely patient access for Medicare beneficiaries while hospitals gain experience with the technology,” she adds.</p>\n    <p>“This is an important milestone for Spur and for our continued efforts to support physicians treating patients with infrapopliteal arterial disease, a population with significant unmet clinical needs,” said Isa Rizk, CEO and co-founder of Reflow Medical.</p>\n    <p>The Spur stent system was granted De Novo classification by the US Food and Drug Administration (FDA) in May 2025, following its earlier FDA Breakthrough Device designation. It is intended as an adjunct to percutaneous transluminal angioplasty to dilate stenoses in infrapopliteal arteries ranging in diameter from 2.5–4.5mm. The Spur stent provides temporary mechanical scaffolding and is retrieved following treatment, leaving no permanent implant behind.</p>\n  </body>\n</html>",
+      "word_count": 274,
+      "char_count": 1911,
+      "lead_image": "https://vascularnews.com/wp-content/uploads/sites/7/2026/09/spur_0_1-scaled.jpg",
+      "images": [
+        {
+          "url": "https://vascularnews.com/wp-content/uploads/sites/7/2026/09/spur_0_1-scaled.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://vascularnews.com/wp-content/uploads/sites/7/2026/09/spur_0_1-2048x1152.jpg",
+          "alt": "",
+          "caption": "Spur peripheral retrievable stent system",
+          "role": "body"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-02T14:55:57Z"
+    },
+    {
+      "id": "a2f87f7f60fb6341",
+      "title": "AITAN raises $41 million to take Israeli combat drone technology global",
+      "header": "calcalistech.com",
+      "published_at": "2026-09-02T10:51:00Z",
+      "published_raw": "Wed, 02 Sep 2026 10:51:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PSGo1WUtCeVZ0U0hKWGlaVk5ZWEN2cXk5U2dWLWV3Zkk0UGxDRGczM2hWak1Gek5NNHpaeGV1c2pJamlBWWR5Z0p1NldBT2lxT1lVMnZjdWMyTjlncmF2aHBRT1RLN3dr?oc=5",
+      "description": "AITAN raises $41 million to take Israeli combat drone technology global calcalistech.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PSGo1WUtCeVZ0U0hKWGlaVk5ZWEN2cXk5U2dWLWV3Zkk0UGxDRGczM2hWak1Gek5NNHpaeGV1c2pJamlBWWR5Z0p1NldBT2lxT1lVMnZjdWMyTjlncmF2aHBRT1RLN3dr?oc=5\" target=\"_blank\">AITAN raises $41 million to take Israeli combat drone technology global</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PSGo1WUtCeVZ0U0hKWGlaVk5ZWEN2cXk5U2dWLWV3Zkk0UGxDRGczM2hWak1Gek5NNHpaeGV1c2pJamlBWWR5Z0p1NldBT2lxT1lVMnZjdWMyTjlncmF2aHBRT1RLN3dr?oc=5"
+      ],
+      "scraped_at": "2026-09-02T14:55:57Z",
+      "url": "https://www.calcalistech.com/ctechnews/article/b1dz1kbdme",
+      "final_url": "https://www.calcalistech.com/ctechnews/article/b1dz1kbdme",
+      "source": "ctech",
+      "article_title": "AITAN raises $41 million to take Israeli combat drone technology global | CTech",
+      "heading": "AITAN raises $41 million to take Israeli combat drone technology global",
+      "authors": [
+        "Sophie Shulman"
+      ],
+      "article_published_at": "2026-09-02T10:51:04.757239Z",
+      "article_modified_at": "2026-09-02T10:51:04.757239Z",
+      "summary": "The company, whose systems have been used by Israeli forces since October 7, has accumulated more than 500,000 operational flight hours. Its new funding will help expand technology developed through combat experience in Israel to the country’s allies.",
+      "content": "AITAN raises $41 million to take Israeli combat drone technology global\nThe company, whose systems have been used by Israeli forces since October 7, has accumulated more than 500,000 operational flight hours. Its new funding will help expand technology developed through combat experience in Israel to the country’s allies.\nDrone company AITAN, formerly known as eyesAtop, has raised $41 million in its first significant funding round. The round was co-led by Deep33 and Dell Technologies Capital, with participation from Gokul Rajaram, a board member at Pinterest and Coinbase. Other investors include Benjamin Ling of Bling Capital and Kevin Weil of Scribble Ventures. Including previous funding, AITAN has raised a total of $54 million.\nAITAN develops artificial intelligence-based combat systems that have been used by Israeli forces since October 7 in highly challenging combat conditions. Its technology is designed to enable robotic forces to carry out complex combat missions while reducing the exposure of soldiers to risk.\nThe company was built on the technology of eyesAtop, a small veteran startup founded more than a decade ago by Yinon Atzmon, Idan Yitzhak, Ben Barkay, and Einav Harazi. In 2025, entrepreneurs Udi Oster and Daniel Almog acquired the company’s technology, seeking to capitalize on the surge in demand for drone technologies following the war in Israel. The two serve as AITAN’s joint CEOs, and the company employs about 50 people at its offices in Ramat Gan.\nA few months ago, the company changed its name to AITAN in memory of Oster’s younger brother, Eitan, an Egoz officer who was killed in Lebanon in September 2024.\nOster and Almog met while serving together in Unit 8200 and, after leaving the military in 2014, founded the startup Tapingo. The company developed an online food-ordering management platform and was sold to U.S. delivery company Grubhub for $150 million in 2018.\nAITAN’s main product is an operating system for drones that allows militaries to deploy and operate robotic combat systems at scale while maintaining operational continuity even when supply chains are disrupted.\nThe experience of the wars in Israel and Ukraine has highlighted the operational and logistical challenges involved in deploying robotic combat systems on a large scale. Unlike traditional weapons systems, which can be manufactured and stored for years, robotic systems can evolve during a conflict, sometimes from week to week, in response to changing battlefield requirements and disruptions to supply chains.\nMilitaries must also be able to manufacture the systems in large volumes, operate them in complex combat environments and make different platforms work together as a coordinated force rather than as a collection of separate systems.\n“With the outbreak of the Swords of Iron War, it was clear to us that the only goal before us was to help our friends and family win and return safely from captivity and the battlefield. Three years later, with our technology already having a broad operational impact in the field, it is the right time to expand our reach and bring these capabilities to Israel’s allies around the world,” Oster said.\nAITAN’s systems are in daily use by the IDF and the Ministry of Defense and have accumulated more than 500,000 operational flight hours across a wide range of robotic combat missions.\nThe company recently won a joint tender to develop the IDF’s command-and-control platform for the next generation of attack drones, as well as major design contracts for robotic weapons systems.\nMany of AITAN’s employees are reservists and veterans of Israel’s defense establishment, bringing significant operational experience to the company. Its close proximity to day-to-day military operations allows the system to be regularly updated based on feedback and lessons from the battlefield.\n“Robotic warfare is becoming a central part of the ability of countries to maintain their security independence, and more and more of them understand that they must develop and maintain these capabilities themselves,” said Lior Prosor, general partner at Deep33.\n“To this end, control of the entire process is required, from supply and production chains, through software development and force training, to the operation of the systems in the field, their maintenance and their ongoing adaptation to operational needs. Israel and Ukraine are among the few countries in the world that have gained significant operational experience operating robotic systems, along with many flight hours in combat conditions. This experience gives AITAN a unique advantage and allows it to expand its activities and offer its technology and capabilities to Israel’s allies,” he said.\n“We believe that Physical AI will be one of the most significant technological areas in the coming decade,” said Yair Snir, managing director at Dell Technologies Capital. “One of the key challenges on the way there is the ability to connect complex autonomous systems and allow them to operate together in a coordinated manner, even in complex terrain conditions.”\nAITAN, he said, recognized early that the future of the security industry depends on the ability to connect different systems and smart networks so they can communicate, make decisions and act together. “The technology it has developed has already proven itself in security environments on the ground, and illustrates the growing importance of these capabilities,” Snir said.",
+      "content_html": "<html>\n  <body>\n    <img src=\"https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/02/ByoQZ00SOMg/ByoQZ00SOMg_0_0_3000_1996_0_large.jpg\" alt=\"AITAN co-CEOs. \" title=\"AITAN co-CEOs. \"/>\n    <h1>AITAN raises $41 million to take Israeli combat drone technology global</h1>\n    <h2>The company, whose systems have been used by Israeli forces since October 7, has accumulated more than 500,000 operational flight hours. Its new funding will help expand technology developed through combat experience in Israel to the country’s allies.</h2>\n    <p>Drone company AITAN, formerly known as eyesAtop, has raised $41 million in its first significant funding round. The round was co-led by Deep33 and Dell Technologies Capital, with participation from Gokul Rajaram, a board member at Pinterest and Coinbase. Other investors include Benjamin Ling of Bling Capital and Kevin Weil of Scribble Ventures. Including previous funding, AITAN has raised a total of $54 million.</p>\n    <p>AITAN develops artificial intelligence-based combat systems that have been used by Israeli forces since October 7 in highly challenging combat conditions. Its technology is designed to enable robotic forces to carry out complex combat missions while reducing the exposure of soldiers to risk.</p>\n    <p>1 View gallery </p>\n    <img src=\"https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/02/ByoQZ00SOMg/ByoQZ00SOMg_0_0_3000_1996_0_x-large.jpg\" alt=\"אודי אוסטר (מימין) ודניאל אלמוג, מייסדי AITAN\" title=\"AITAN co-CEOs.  (Photo: Shani Tzadikrio) \"/>\n    <img src=\"https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/02/ByoQZ00SOMg/ByoQZ00SOMg_0_0_3000_1996_0_x-large.jpg\" alt=\"אודי אוסטר (מימין) ודניאל אלמוג, מייסדי AITAN\" title=\"AITAN co-CEOs.  (Photo: Shani Tzadikrio) \"/>\n    <p>AITAN co-CEOs. </p>\n    <p>(Photo: Shani Tzadikrio)</p>\n    <p>The company was built on the technology of eyesAtop, a small veteran startup founded more than a decade ago by Yinon Atzmon, Idan Yitzhak, Ben Barkay, and Einav Harazi. In 2025, entrepreneurs Udi Oster and Daniel Almog acquired the company’s technology, seeking to capitalize on the surge in demand for drone technologies following the war in Israel. The two serve as AITAN’s joint CEOs, and the company employs about 50 people at its offices in Ramat Gan.</p>\n    <p>A few months ago, the company changed its name to AITAN in memory of Oster’s younger brother, Eitan, an Egoz officer who was killed in Lebanon in September 2024.</p>\n    <p>Oster and Almog met while serving together in Unit 8200 and, after leaving the military in 2014, founded the startup Tapingo. The company developed an online food-ordering management platform and was sold to U.S. delivery company Grubhub for $150 million in 2018.</p>\n    <p>AITAN’s main product is an operating system for drones that allows militaries to deploy and operate robotic combat systems at scale while maintaining operational continuity even when supply chains are disrupted.</p>\n    <p>The experience of the wars in Israel and Ukraine has highlighted the operational and logistical challenges involved in deploying robotic combat systems on a large scale. Unlike traditional weapons systems, which can be manufactured and stored for years, robotic systems can evolve during a conflict, sometimes from week to week, in response to changing battlefield requirements and disruptions to supply chains.</p>\n    <p>Militaries must also be able to manufacture the systems in large volumes, operate them in complex combat environments and make different platforms work together as a coordinated force rather than as a collection of separate systems.</p>\n    <p>“With the outbreak of the Swords of Iron War, it was clear to us that the only goal before us was to help our friends and family win and return safely from captivity and the battlefield. Three years later, with our technology already having a broad operational impact in the field, it is the right time to expand our reach and bring these capabilities to Israel’s allies around the world,” Oster said.</p>\n    <p>AITAN’s systems are in daily use by the IDF and the Ministry of Defense and have accumulated more than 500,000 operational flight hours across a wide range of robotic combat missions.</p>\n    <p>The company recently won a joint tender to develop the IDF’s command-and-control platform for the next generation of attack drones, as well as major design contracts for robotic weapons systems.</p>\n    <p>Many of AITAN’s employees are reservists and veterans of Israel’s defense establishment, bringing significant operational experience to the company. Its close proximity to day-to-day military operations allows the system to be regularly updated based on feedback and lessons from the battlefield.</p>\n    <p>“Robotic warfare is becoming a central part of the ability of countries to maintain their security independence, and more and more of them understand that they must develop and maintain these capabilities themselves,” said Lior Prosor, general partner at Deep33.</p>\n    <p>“To this end, control of the entire process is required, from supply and production chains, through software development and force training, to the operation of the systems in the field, their maintenance and their ongoing adaptation to operational needs. Israel and Ukraine are among the few countries in the world that have gained significant operational experience operating robotic systems, along with many flight hours in combat conditions. This experience gives AITAN a unique advantage and allows it to expand its activities and offer its technology and capabilities to Israel’s allies,” he said.</p>\n    <p>“We believe that Physical AI will be one of the most significant technological areas in the coming decade,” said Yair Snir, managing director at Dell Technologies Capital. “One of the key challenges on the way there is the ability to connect complex autonomous systems and allow them to operate together in a coordinated manner, even in complex terrain conditions.”</p>\n    <p>AITAN, he said, recognized early that the future of the security industry depends on the ability to connect different systems and smart networks so they can communicate, make decisions and act together. “The technology it has developed has already proven itself in security environments on the ground, and illustrates the growing importance of these capabilities,” Snir said.</p>\n  </body>\n</html>",
+      "word_count": 854,
+      "char_count": 5459,
+      "lead_image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/02/ByoQZ00SOMg/ByoQZ00SOMg_0_0_3000_1689_0_large.jpg",
+      "images": [
+        {
+          "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/02/ByoQZ00SOMg/ByoQZ00SOMg_0_0_3000_1689_0_large.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/02/ByoQZ00SOMg/ByoQZ00SOMg_0_0_3000_1996_0_large.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://images1.calcalist.co.il/images/1280/24more.png",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2022/11/16/ByB2c8MUo/ByB2c8MUo_0_0_1692_953_0_large.jpg",
+          "alt": "If everyone can build everything, what is left to compete on?",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/08/30/Bynz11DWOMl/Bynz11DWOMl_2_173_1599_901_0_large.jpg",
+          "alt": "I ran Israel's national red team. Now every attacker has one",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/08/19/SyWX117XvGl/SyWX117XvGl_0_83_1305_735_0_large.jpg",
+          "alt": "Is Israel missing the AI infrastructure wave?",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/09/17/ryFHllOile/ryFHllOile_0_53_2500_1408_0_large.jpg",
+          "alt": "Can damaged nerves grow back? An Israeli biotech is betting they can",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/07/14/rkg5p2574Ge/rkg5p2574Ge_0_0_624_347_0_large.jpg",
+          "alt": "\"If you're building a frontier technology, then you don't have growth\"",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://www.calcalistech.com/ctechnews/images/1280/footer/f_mail.png",
+          "alt": "Contact Us",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://www.calcalistech.com/ctechnews/images/1280/footer/f_fbb.png",
+          "alt": "Facebook",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://www.calcalistech.com/ctechnews/images/1280/footer/YIT.png",
+          "alt": "yit",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 11,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-02T14:55:57Z"
+    },
     {
       "id": "f1d12ec55afd87bf",
       "title": "Get those nominations in for Top Women in Retail Technology Awards",
@@ -369,6 +993,46 @@
       "first_seen_at": "2026-09-02T10:31:36Z"
     },
     {
+      "id": "24170bd43fb41885",
+      "title": "Tech Briefs: Warner, Griffith talk drone technology for Iran — and the Radford arsenal",
+      "header": "Cardinal News",
+      "published_at": "2026-09-02T08:05:00Z",
+      "published_raw": "Wed, 02 Sep 2026 08:05:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeThXelQwN3VnOUE2ZFk5cWJCamFSZ3RmbEp3OC05NHEtanM3QjQtcG1lb2d2Y2VVR0hMQmFmR04xN3Q1ODdpaDlHWS00cGotSWJiNV9ucGFtZnU2UWt6Z3lWOUpOeVFPaVNaUG9EZjFhSkJWakxsZUNFZ1hIWEptN2FFeUtPdDBfUmxGNHl1ZUxnVWc4VTZCUkl3eFdXQmlwMjVaeV9jVVktNUprX1owejlvcFNuUXNOVHZZ?oc=5",
+      "description": "Tech Briefs: Warner, Griffith talk drone technology for Iran — and the Radford arsenal Cardinal News",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeThXelQwN3VnOUE2ZFk5cWJCamFSZ3RmbEp3OC05NHEtanM3QjQtcG1lb2d2Y2VVR0hMQmFmR04xN3Q1ODdpaDlHWS00cGotSWJiNV9ucGFtZnU2UWt6Z3lWOUpOeVFPaVNaUG9EZjFhSkJWakxsZUNFZ1hIWEptN2FFeUtPdDBfUmxGNHl1ZUxnVWc4VTZCUkl3eFdXQmlwMjVaeV9jVVktNUprX1owejlvcFNuUXNOVHZZ?oc=5\" target=\"_blank\">Tech Briefs: Warner, Griffith talk drone technology for Iran — and the Radford arsenal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cardinal News</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeThXelQwN3VnOUE2ZFk5cWJCamFSZ3RmbEp3OC05NHEtanM3QjQtcG1lb2d2Y2VVR0hMQmFmR04xN3Q1ODdpaDlHWS00cGotSWJiNV9ucGFtZnU2UWt6Z3lWOUpOeVFPaVNaUG9EZjFhSkJWakxsZUNFZ1hIWEptN2FFeUtPdDBfUmxGNHl1ZUxnVWc4VTZCUkl3eFdXQmlwMjVaeV9jVVktNUprX1owejlvcFNuUXNOVHZZ?oc=5"
+      ],
+      "scraped_at": "2026-09-02T14:55:57Z",
+      "url": "https://cardinalnews.org/2026/09/02/tech-briefs-warner-griffith-talk-drone-technology-for-iran-and-the-radford-arsenal/",
+      "final_url": "https://cardinalnews.org/2026/09/02/tech-briefs-warner-griffith-talk-drone-technology-for-iran-and-the-radford-arsenal/",
+      "source": "Cardinal News",
+      "article_title": "Tech Briefs: Warner, Griffith talk drone technology for Iran — and the Radford arsenal",
+      "heading": "Tech Briefs: Warner, Griffith talk drone technology for Iran — and the Radford arsenal",
+      "authors": [],
+      "article_published_at": "2026-09-02T08:05:00+00:00",
+      "article_modified_at": "2026-09-01T23:07:17+00:00",
+      "summary": "Warner says White House turned down Ukraine’s offer of drone assistance; Griffith floats a plan to have Virginia Tech drone program monitor Radford Army Ammunition Plant.",
+      "content": "Drones are going to be ubiquitous in the coming years, Sen. Mark Warner, D-Va., said last week. The onetime cellphone entrepreneur told a group gathered at Virginia Tech’s Kentland Farm that if he had to start his investing career over, he would be a drone guy.\nI wrote about the event in question, a ribbon-cutting for a new counter-drone testing and research facility on the university-owned farm, for Monday’s Cardinal News. For today’s Tech Briefs, I’m writing up some interesting stuff that Warner and U.S. Rep. Morgan Griffith, R-Salem, said during gaggles set up after the ribbon-cutting.\nThere wasn’t enough room for it in Monday’s piece, which focused on the $5 million research contract the university signed with the Army. And with drone-centric wars happening internationally, in Ukraine and Iran, it’s a topic that will be top of mind for a long time.\nBut first, remember that I’m always up for tips, questions and suggestions, so feel free to email me: tad@cardinalnews.org.\nWarner says White House turned down Ukraine’s offer of drone assistance before Iran war\nWarner, vice chairman of the Senate Intelligence Committee, told reporters on Friday that the Trump administration in December turned down Ukraine’s offer of drone technology.\n“Ukrainians, because of the existential threat [from Russia] have been able to turn around their technology at record speed,” he said.\nMeanwhile, the U.S. is wasting valuable munitions shooting down the cheap drones that Iran is using to attack its Middle Eastern bases and intelligence, he said.\n“What’s really angered me is, in four years, we’ve had people testify before the intelligence committee saying, ‘Oh, absolutely, we’ve learned these lessons, and then we start this war of choice with Iran, and we’re using missiles that cost more than $2 million a pop to shoot down Iranian drones.\n“And we have only brought the price point down of our counter-drone technology to roughly 60, 70, $80,000 [apiece]. That cannot be done at scale.”\nMeanwhile, Ukraine is building counter-drones at $5,000 each, he said. While the British and some Persian Gulf states are flying them, “we are behind,” he said.\n“We ought to be able to do the same. … If you’re going to start a war of choice, wouldn’t you want the best in the world to protect your soldiers? We turned it down, so we’re using up more munitions at a record pace.”\nGriffith, in a separate interview, deferred to Warner’s understanding about whether the White House turned down Ukrainian help, but said that Ukraine is the clear leader in drone warfare tech, and that “obviously, in retrospect, it might have been an error” to turn down the assistance.\nPlenty of Iranian drones and missiles have hit important targets, and multiple news sources have reported destruction in the air and on the ground, including a key Navy logistical hub in Bahrain. Just past the six-month mark in the war, both sides have recently resumed firing at each other.\nGriffith floats plan to have Virginia Tech drone program monitor Radford Army Ammunition Plant\nMultiple dignitaries took to the dais at Kentland Farm before the ribbon-cutting. Griffith walked up with an idea: Use Virginia Tech’s drone program for occasional patrols over the Radford Army Ammunition Plant.\n“Even if we can’t provide 24/7 security over the arsenal right now, anybody who’s looking at that as a target, as a bad guy, has to worry about … maybe they have the Virginia Tech folks flying over doing some experiments,” he told the group.\nLater, he told reporters that he has gotten some good feedback about the idea, though it would require cutting the red tape involved with getting permission to fly over the plant just across the river from Kentland.\n“I come up with lots of ideas, and every now and then one of them’s good,” he said. “I think this is a good one.”\nIt would require the Army’s permission, he said. But with the university’s drone library built out and the plant’s location within view, it makes sense to occasionally fly over there, as a deterrent to potential attacks, he added.\n“Apply a few test runs through there,” Griffith said. “See what they can detect with their defense systems. Let them [the plant] know in advance they’re doing it. You wouldn’t have to be 24/7, but if you’re using it as a test ground, then the bad guys don’t know … particularly if you didn’t do it on a regular set every Tuesday at 3, but you just did it, whenever. You call them and say, ‘OK, we got them coming in 15 minutes,’ and boom, there they are.”\nMaybe the researchers could learn things about patrolling military sites, he said. The Radford plant is mostly civilian-staffed, but there is a small military presence at a “major asset,” he said.\n“It’s not like they have to ship all the equipment across the country,” he said. “It’s right there.”\nA Virginia Tech spokeswoman said the university didn’t have a comment.",
+      "content_html": "<html>\n  <body>\n    <img src=\"https://i0.wp.com/cardinalnews.org/wp-content/uploads/2026/05/Tech-Briefs-Signature-Tad-Dickens.png?resize=780%2C130&amp;ssl=1\"/>\n    <p>Drones are going to be ubiquitous in the coming years, Sen. Mark Warner, D-Va., said last week. The onetime cellphone entrepreneur told a group gathered at Virginia Tech’s Kentland Farm that if he had to start his investing career over, he would be a drone guy.</p>\n    <p>I wrote about the event in question, a ribbon-cutting for a new counter-drone testing and research facility on the university-owned farm, for Monday’s Cardinal News. For today’s Tech Briefs, I’m writing up some interesting stuff that Warner and U.S. Rep. Morgan Griffith, R-Salem, said during gaggles set up after the ribbon-cutting.</p>\n    <p>There wasn’t enough room for it in Monday’s piece, which focused on the $5 million research contract the university signed with the Army. And with drone-centric wars happening internationally, in Ukraine and Iran, it’s a topic that will be top of mind for a long time.</p>\n    <p>But first, remember that I’m always up for tips, questions and suggestions, so feel free to email me: tad@cardinalnews.org.</p>\n    <h3>Warner says White House turned down Ukraine’s offer of drone assistance before Iran war</h3>\n    <p>Warner, vice chairman of the Senate Intelligence Committee, told reporters on Friday that the Trump administration in December turned down Ukraine’s offer of drone technology.</p>\n    <p>“Ukrainians, because of the existential threat [from Russia] have been able to turn around their technology at record speed,” he said.</p>\n    <img src=\"https://i0.wp.com/cardinalnews.org/wp-content/uploads/2026/09/Image_20260901_163759_672.jpeg?resize=768%2C1024&amp;ssl=1\" alt=\"A man in a suit stands behind a dais, his arms spread apart in gesture as he speaks to a group sitting outdoors, under a tent.\"/>\n    <p>Meanwhile, the U.S. is wasting valuable munitions shooting down the cheap drones that Iran is using to attack its Middle Eastern bases and intelligence, he said.</p>\n    <p>“What’s really angered me is, in four years, we’ve had people testify before the intelligence committee saying, ‘Oh, absolutely, we’ve learned these lessons, and then we start this war of choice with Iran, and we’re using missiles that cost more than $2 million a pop to shoot down Iranian drones.</p>\n    <p>“And we have only brought the price point down of our counter-drone technology to roughly 60, 70, $80,000 [apiece]. That cannot be done at scale.”</p>\n    <p>Meanwhile, Ukraine is building counter-drones at $5,000 each, he said. While the British and some Persian Gulf states are flying them, “we are behind,” he said.</p>\n    <p>“We ought to be able to do the same. … If you’re going to start a war of choice, wouldn’t you want the best in the world to protect your soldiers? We turned it down, so we’re using up more munitions at a record pace.”</p>\n    <p>Griffith, in a separate interview, deferred to Warner’s understanding about whether the White House turned down Ukrainian help, but said that Ukraine is the clear leader in drone warfare tech, and that “obviously, in retrospect, it might have been an error” to turn down the assistance.</p>\n    <p>Plenty of Iranian drones and missiles have hit important targets, and multiple news sources have reported destruction in the air and on the ground, including a key Navy logistical hub in Bahrain. Just past the six-month mark in the war, both sides have recently resumed firing at each other.</p>\n    <h3>Griffith floats plan to have Virginia Tech drone program monitor Radford Army Ammunition Plant</h3>\n    <p>Multiple dignitaries took to the dais at Kentland Farm before the ribbon-cutting. Griffith walked up with an idea: Use Virginia Tech’s drone program for occasional patrols over the Radford Army Ammunition Plant.</p>\n    <img src=\"https://i0.wp.com/cardinalnews.org/wp-content/uploads/2026/09/Image_20260901_163729_459.jpeg?resize=768%2C1024&amp;ssl=1\" alt=\"A man in a suit stands behind a dais, his hands spread apart in gesture as he speaks to a group sitting outdoors, under a tent.\"/>\n    <p>“Even if we can’t provide 24/7 security over the arsenal right now, anybody who’s looking at that as a target, as a bad guy, has to worry about … maybe they have the Virginia Tech folks flying over doing some experiments,” he told the group.</p>\n    <p>Later, he told reporters that he has gotten some good feedback about the idea, though it would require cutting the red tape involved with getting permission to fly over the plant just across the river from Kentland.</p>\n    <p>“I come up with lots of ideas, and every now and then one of them’s good,” he said. “I think this is a good one.”</p>\n    <p>It would require the Army’s permission, he said. But with the university’s drone library built out and the plant’s location within view, it makes sense to occasionally fly over there, as a deterrent to potential attacks, he added.</p>\n    <p>“Apply a few test runs through there,” Griffith said. “See what they can detect with their defense systems. Let them [the plant] know in advance they’re doing it. You wouldn’t have to be 24/7, but if you’re using it as a test ground, then the bad guys don’t know … particularly if you didn’t do it on a regular set every Tuesday at 3, but you just did it, whenever. You call them and say, ‘OK, we got them coming in 15 minutes,’ and boom, there they are.”</p>\n    <p>Maybe the researchers could learn things about patrolling military sites, he said. The Radford plant is mostly civilian-staffed, but there is a small military presence at a “major asset,” he said.</p>\n    <p>“It’s not like they have to ship all the equipment across the country,” he said. “It’s right there.”</p>\n    <p>A Virginia Tech spokeswoman said the university didn’t have a comment.</p>\n  </body>\n</html>",
+      "word_count": 828,
+      "char_count": 4887,
+      "lead_image": "https://i0.wp.com/cardinalnews.org/wp-content/uploads/2026/09/Image_20260901_163729_265-scaled.jpeg?fit=1200%2C900&ssl=1",
+      "images": [
+        {
+          "url": "https://i0.wp.com/cardinalnews.org/wp-content/uploads/2026/09/Image_20260901_163729_265-scaled.jpeg?fit=1200%2C900&ssl=1",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-02T14:55:57Z"
+    },
+    {
       "id": "fbe7844ea027719e",
       "title": "TDK to showcase smart javelin technology as official global supporter of World Athletics Ultimate Championship",
       "header": "worldathletics.org",
@@ -704,6 +1368,40 @@
       "first_seen_at": "2026-09-02T10:31:37Z"
     },
     {
+      "id": "1c98e853d7c9a512",
+      "title": "Palantir CEO sets sights on Ukraine as next target",
+      "header": "The Washington Post",
+      "published_at": "2026-09-02T03:00:00Z",
+      "published_raw": "Wed, 02 Sep 2026 03:00:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkQ4ajBfS2JQNVdtY2ZFbm9Zd2N2bHJfeUc4VFBUMXlON3NyMlF6cDhwSVM0cGY0RGVrTlZUa01pSXJYREJiTlZ2TmN0NWVEbXNXS0dRQ0dYX0pYMkZ6NFg1T05ZRThFZUdvNE93dzAxaDg1bXRxb3dsOE5pQTdyVi1KcHVMUGRFVkF0RExjQTJQUElzX3VaM1JQZFdqbnM?oc=5",
+      "description": "Palantir CEO sets sights on Ukraine as next target The Washington Post",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkQ4ajBfS2JQNVdtY2ZFbm9Zd2N2bHJfeUc4VFBUMXlON3NyMlF6cDhwSVM0cGY0RGVrTlZUa01pSXJYREJiTlZ2TmN0NWVEbXNXS0dRQ0dYX0pYMkZ6NFg1T05ZRThFZUdvNE93dzAxaDg1bXRxb3dsOE5pQTdyVi1KcHVMUGRFVkF0RExjQTJQUElzX3VaM1JQZFdqbnM?oc=5\" target=\"_blank\">Palantir CEO sets sights on Ukraine as next target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkQ4ajBfS2JQNVdtY2ZFbm9Zd2N2bHJfeUc4VFBUMXlON3NyMlF6cDhwSVM0cGY0RGVrTlZUa01pSXJYREJiTlZ2TmN0NWVEbXNXS0dRQ0dYX0pYMkZ6NFg1T05ZRThFZUdvNE93dzAxaDg1bXRxb3dsOE5pQTdyVi1KcHVMUGRFVkF0RExjQTJQUElzX3VaM1JQZFdqbnM?oc=5"
+      ],
+      "scraped_at": "2026-09-02T14:55:56Z",
+      "url": "https://www.washingtonpost.com/technology/2026/09/01/palantir-ceo-sets-sights-ukraine-next-target/",
+      "final_url": "https://www.washingtonpost.com/technology/2026/09/01/palantir-ceo-sets-sights-ukraine-next-target/",
+      "source": "The Washington Post",
+      "article_title": "",
+      "heading": "Palantir CEO sets sights on Ukraine as next target",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Palantir CEO sets sights on Ukraine as next target The Washington Post",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-01T20:28:35Z"
+    },
+    {
       "id": "b3393a9265c55d15",
       "title": "West Fargo Police debut skim scan technology to fight card fraud",
       "header": "Valley News Live",
@@ -888,40 +1586,6 @@
       "extractor": "bs4",
       "status": "ok",
       "first_seen_at": "2026-09-02T10:31:36Z"
-    },
-    {
-      "id": "1c98e853d7c9a512",
-      "title": "Palantir CEO sets sights on Ukraine as next target",
-      "header": "The Washington Post",
-      "published_at": "2026-09-02T00:32:34Z",
-      "published_raw": "Wed, 02 Sep 2026 00:32:34 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkQ4ajBfS2JQNVdtY2ZFbm9Zd2N2bHJfeUc4VFBUMXlON3NyMlF6cDhwSVM0cGY0RGVrTlZUa01pSXJYREJiTlZ2TmN0NWVEbXNXS0dRQ0dYX0pYMkZ6NFg1T05ZRThFZUdvNE93dzAxaDg1bXRxb3dsOE5pQTdyVi1KcHVMUGRFVkF0RExjQTJQUElzX3VaM1JQZFdqbnM?oc=5",
-      "description": "Palantir CEO sets sights on Ukraine as next target The Washington Post",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkQ4ajBfS2JQNVdtY2ZFbm9Zd2N2bHJfeUc4VFBUMXlON3NyMlF6cDhwSVM0cGY0RGVrTlZUa01pSXJYREJiTlZ2TmN0NWVEbXNXS0dRQ0dYX0pYMkZ6NFg1T05ZRThFZUdvNE93dzAxaDg1bXRxb3dsOE5pQTdyVi1KcHVMUGRFVkF0RExjQTJQUElzX3VaM1JQZFdqbnM?oc=5\" target=\"_blank\">Palantir CEO sets sights on Ukraine as next target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkQ4ajBfS2JQNVdtY2ZFbm9Zd2N2bHJfeUc4VFBUMXlON3NyMlF6cDhwSVM0cGY0RGVrTlZUa01pSXJYREJiTlZ2TmN0NWVEbXNXS0dRQ0dYX0pYMkZ6NFg1T05ZRThFZUdvNE93dzAxaDg1bXRxb3dsOE5pQTdyVi1KcHVMUGRFVkF0RExjQTJQUElzX3VaM1JQZFdqbnM?oc=5"
-      ],
-      "scraped_at": "2026-09-02T00:53:38Z",
-      "url": "https://www.washingtonpost.com/technology/2026/09/01/palantir-ceo-sets-sights-ukraine-next-target/",
-      "final_url": "https://www.washingtonpost.com/technology/2026/09/01/palantir-ceo-sets-sights-ukraine-next-target/",
-      "source": "The Washington Post",
-      "article_title": "",
-      "heading": "Palantir CEO sets sights on Ukraine as next target",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Palantir CEO sets sights on Ukraine as next target The Washington Post",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-01T20:28:35Z"
     },
     {
       "id": "00e23cbbfa1b8dca",
@@ -6466,7 +7130,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMihwFBVV95cUxOalY1czRUSFZoSDF2VTk2X01uWEdpS2h0eE90ODR6Mlktay02Ull3VEZaTVRBcGhidUdwRjJZUFN6WHVLSllfQkdZS1ZaSFR3dVVtcjZadmJhUXBoWW5od1pHOTZFSkRwLWZJRVJVdDJYcFF2NFFuRDFBVFV6QzBleENvc0Rvakk?oc=5"
       ],
-      "scraped_at": "2026-09-01T07:10:48Z",
+      "scraped_at": "2026-09-02T14:55:56Z",
       "url": "https://www.nytimes.com/2026/08/31/science/dog-breeding-gene-editing-crispr.html",
       "final_url": "https://www.nytimes.com/2026/08/31/science/dog-breeding-gene-editing-crispr.html",
       "source": "The New York Times",
