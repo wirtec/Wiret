@@ -1,17 +1,295 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-03T16:53:41Z",
-  "count": 335,
+  "generated_at": "2026-09-03T19:38:36Z",
+  "count": 349,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 22,
-    "added": 21,
-    "updated": 1,
-    "ok": 253,
-    "failed": 82,
-    "duration_seconds": 7.72
+    "scraped_now": 18,
+    "added": 14,
+    "updated": 4,
+    "ok": 262,
+    "failed": 87,
+    "duration_seconds": 104.24
   },
   "articles": [
+    {
+      "id": "d969bf9f416e0266",
+      "title": "Xpect Solutions buys Amivero to bulk up AI, automation capabilities",
+      "header": "Washington Technology",
+      "published_at": "2026-09-03T19:02:50Z",
+      "published_raw": "Thu, 03 Sep 2026 19:02:50 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbTNVRDFWWWNucE84WGlZVmJVSk9NZ19kZ3JLUWpWRVBKUGdTaGRmZDdxYUVTeHhtYUhPa3dSQjJTV2dIWW9pWllzV2U0RHNjOTA2RzlnREdjQ05SNFFESTljd1AyY1JMcFdqT0lfQnFoeUtxbmVaMm9XT2R5emFYZTRLWTh6blVMLWZXeEFSTGFVMjRQSEtwTTRIdXNxRjlVOWNuRnUwSFhLamRYUWNna2tiSmRXSnQxdGRCRy1pbGV2ZTBRWGlDWk5JajdGRUhxMlJJY1dSZ2NVTkVLaDJN?oc=5",
+      "description": "Xpect Solutions buys Amivero to bulk up AI, automation capabilities Washington Technology",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbTNVRDFWWWNucE84WGlZVmJVSk9NZ19kZ3JLUWpWRVBKUGdTaGRmZDdxYUVTeHhtYUhPa3dSQjJTV2dIWW9pWllzV2U0RHNjOTA2RzlnREdjQ05SNFFESTljd1AyY1JMcFdqT0lfQnFoeUtxbmVaMm9XT2R5emFYZTRLWTh6blVMLWZXeEFSTGFVMjRQSEtwTTRIdXNxRjlVOWNuRnUwSFhLamRYUWNna2tiSmRXSnQxdGRCRy1pbGV2ZTBRWGlDWk5JajdGRUhxMlJJY1dSZ2NVTkVLaDJN?oc=5\" target=\"_blank\">Xpect Solutions buys Amivero to bulk up AI, automation capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Technology</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbTNVRDFWWWNucE84WGlZVmJVSk9NZ19kZ3JLUWpWRVBKUGdTaGRmZDdxYUVTeHhtYUhPa3dSQjJTV2dIWW9pWllzV2U0RHNjOTA2RzlnREdjQ05SNFFESTljd1AyY1JMcFdqT0lfQnFoeUtxbmVaMm9XT2R5emFYZTRLWTh6blVMLWZXeEFSTGFVMjRQSEtwTTRIdXNxRjlVOWNuRnUwSFhLamRYUWNna2tiSmRXSnQxdGRCRy1pbGV2ZTBRWGlDWk5JajdGRUhxMlJJY1dSZ2NVTkVLaDJN?oc=5"
+      ],
+      "scraped_at": "2026-09-03T19:36:55Z",
+      "url": "https://www.washingtontechnology.com/companies/2026/09/xpect-solutions-buys-amivero-bulk-ai-automation-capabilities/415809/?oref=wt-homepage-river",
+      "final_url": "https://www.washingtontechnology.com/companies/2026/09/xpect-solutions-buys-amivero-bulk-ai-automation-capabilities/415809/?oref=wt-homepage-river",
+      "source": "Washington Technology",
+      "article_title": "Xpect Solutions buys Amivero to bulk up AI, automation capabilities",
+      "heading": "Xpect Solutions buys Amivero to bulk up AI, automation capabilities",
+      "authors": [
+        "Nick Wakeman"
+      ],
+      "article_published_at": "2026-09-03T19:02:50+00:00",
+      "article_modified_at": "2026-09-03T15:02:51",
+      "summary": "The deal bulks up Xpect's national security portfolio, as the NewSpring-backed company builds out its mission tech stack.",
+      "content": "Xpect Solutions buys Amivero to bulk up AI, automation capabilities\nThe deal bulks up Xpect's national security portfolio, as the NewSpring-backed company builds out its mission tech stack.\nXpect Solutions is adding artificial intelligence, automation, software development and other mission-focused capabilities through the acquisition of Amivero.\nThe company didn’t disclose the financial terms of the deal. The addition of Amivero is another step for NewSpring Holdings backed Xpect to build a technology company focused on the national security market.\n“Xpect’s strategy has always been about building the capabilities our customers need to solve their most important mission challenges,” said Yusuf Abdul-Salaam, CEO of Xpect Solutions.\nXpect’s strategy has focused on four technical disciplines: enterprise IT, cybersecurity, digital modernization, and data and AI. Amivero adds complementary capabilities and customer relationships.\nIts expertise includes AI and automation, fraud operations, digital identity and software development will be added to Xpect’s strengths in network modernization, zero trust, cyber operations, physical security, cloud, DevSecOps and mission-focused data solutions.\nTogether, the company will accelerate research and development and investment in repeatable solutions to help federal customers modernize and scale mission-critical systems, Xpect said in its announcement.\nOver the last year, Xpect has pulled in $40 million in unclassified prime contracts. Its biggest customer is the FBI, according to USASpending.gov.\nAmivero had about $32 million in unclassified prime contracts. Much of its work goes through the General Services Administration. The Homeland Security Department is its next biggest customer.",
+      "content_html": "<html>\n  <body>\n    <h1>Xpect Solutions buys Amivero to bulk up AI, automation capabilities</h1>\n    <img src=\"https://cdn.washingtontechnology.com/media/img/cd/2026/09/03/MandAwt20260903/860x394.jpg?1788462095\"/>\n    <p>Gettyimages.com/ Tippapatt</p>\n    <h2>The deal bulks up Xpect's national security portfolio, as the NewSpring-backed company builds out its mission tech stack.</h2>\n    <p>Xpect Solutions is adding artificial intelligence, automation, software development and other mission-focused capabilities through the acquisition of Amivero.</p>\n    <p>The company didn’t disclose the financial terms of the deal. The addition of Amivero is another step for NewSpring Holdings backed Xpect to build a technology company focused on the national security market.</p>\n    <p>“Xpect’s strategy has always been about building the capabilities our customers need to solve their most important mission challenges,” said Yusuf Abdul-Salaam, CEO of Xpect Solutions.</p>\n    <p>Xpect’s strategy has focused on four technical disciplines: enterprise IT, cybersecurity, digital modernization, and data and AI. Amivero adds complementary capabilities and customer relationships.</p>\n    <p>Its expertise includes AI and automation, fraud operations, digital identity and software development will be added to Xpect’s strengths in network modernization, zero trust, cyber operations, physical security, cloud, DevSecOps and mission-focused data solutions.</p>\n    <p>Together, the company will accelerate research and development and investment in repeatable solutions to help federal customers modernize and scale mission-critical systems, Xpect said in its announcement.</p>\n    <p>Over the last year, Xpect has pulled in $40 million in unclassified prime contracts. Its biggest customer is the FBI, according to USASpending.gov.</p>\n    <p>Amivero had about $32 million in unclassified prime contracts. Much of its work goes through the General Services Administration. The Homeland Security Department is its next biggest customer.</p>\n  </body>\n</html>",
+      "word_count": 241,
+      "char_count": 1751,
+      "lead_image": "https://cdn.washingtontechnology.com/media/img/cd/2026/09/03/MandAwt20260903/open-graph.jpg",
+      "images": [
+        {
+          "url": "https://cdn.washingtontechnology.com/media/img/cd/2026/09/03/MandAwt20260903/open-graph.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://cdn.washingtontechnology.com/media/img/cd/2026/09/03/MandAwt20260903/860x394.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://cdn.washingtontechnology.com/media/img/cd/2026/09/03/MandAwt20260903/route-fifty-lead-image.jpg?1788462095",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 3,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-03T19:36:55Z"
+    },
+    {
+      "id": "7bcdfc3ce3fd6e6f",
+      "title": "Ohio Telecom Association rebrands as the Ohio Broadband & Technology Association",
+      "header": "Lightwave Online",
+      "published_at": "2026-09-03T18:58:21Z",
+      "published_raw": "Thu, 03 Sep 2026 18:58:21 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOUEteWdpS01icXoxd0pOM2FFbzlYc3dGY0VESVk4aVJ0ZVY3eFVDVXlMekRPNE1xNWpHd3p3eEU4UlV2NnBpYm9iVmJReldBejR3WFd6S1k5M1RRTTM3X1JwTzRFbmdyR1JzN2FydUNEdW9GQkpNSlg1ODRIU01QM0JDS2x5aVpCQllNM2MzV0Y3WU9TdGNqZjBmYzVMc0l0RU5KaVYzWm80U1lueEdnWXBBUVBNaE5tT3NXb1ZDeFd5blZXQTNxZQ?oc=5",
+      "description": "Ohio Telecom Association rebrands as the Ohio Broadband & Technology Association Lightwave Online",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOUEteWdpS01icXoxd0pOM2FFbzlYc3dGY0VESVk4aVJ0ZVY3eFVDVXlMekRPNE1xNWpHd3p3eEU4UlV2NnBpYm9iVmJReldBejR3WFd6S1k5M1RRTTM3X1JwTzRFbmdyR1JzN2FydUNEdW9GQkpNSlg1ODRIU01QM0JDS2x5aVpCQllNM2MzV0Y3WU9TdGNqZjBmYzVMc0l0RU5KaVYzWm80U1lueEdnWXBBUVBNaE5tT3NXb1ZDeFd5blZXQTNxZQ?oc=5\" target=\"_blank\">Ohio Telecom Association rebrands as the Ohio Broadband & Technology Association</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lightwave Online</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOUEteWdpS01icXoxd0pOM2FFbzlYc3dGY0VESVk4aVJ0ZVY3eFVDVXlMekRPNE1xNWpHd3p3eEU4UlV2NnBpYm9iVmJReldBejR3WFd6S1k5M1RRTTM3X1JwTzRFbmdyR1JzN2FydUNEdW9GQkpNSlg1ODRIU01QM0JDS2x5aVpCQllNM2MzV0Y3WU9TdGNqZjBmYzVMc0l0RU5KaVYzWm80U1lueEdnWXBBUVBNaE5tT3NXb1ZDeFd5blZXQTNxZQ?oc=5"
+      ],
+      "scraped_at": "2026-09-03T19:36:56Z",
+      "url": "https://www.lightwaveonline.com/home/news/55402884/ohio-telecom-association-rebrands-as-the-ohio-broadband-technology-association",
+      "final_url": "https://www.lightwaveonline.com/home/news/55402884/ohio-telecom-association-rebrands-as-the-ohio-broadband-technology-association",
+      "source": "Lightwave Online",
+      "article_title": "Ohio Telecom Association rebrands as the Ohio Broadband & Technology Association",
+      "heading": "Ohio Telecom Association rebrands as the Ohio Broadband & Technology Association",
+      "authors": [
+        "Sean Buckley"
+      ],
+      "article_published_at": "Sep 3rd 2026",
+      "article_modified_at": null,
+      "summary": "The Ohio Telecom Association (OTA), the statewide trade association representing telecommunications companies in Ohio, announced that it’s changing its name to better reflect ...",
+      "content": "Ohio Telecom Association rebrands as the Ohio Broadband & Technology Association\nKey Highlights\n- The name change to Ohio Broadband & Technology Association reflects the industry's shift towards broadband and digital connectivity.\n- OBTA's membership includes telecom providers, wireless companies, and over 100 associate members supporting the industry’s growth.\n- The association has invested over $1 billion in broadband infrastructure in Ohio over the past decade.\n- Ohio is leveraging federal and state funds, including the Infrastructure Investment and Jobs Act, to expand high-speed internet access.\n- Recent projects include a $20 million fiber network along U.S. Route 30 to serve 15 counties and critical facilities.\nThe Ohio Telecom Association (OTA), the statewide trade association representing telecommunications companies in Ohio, is changing its name to the Ohio Broadband & Technology Association (OBTA) to better reflect its evolving mission centered on broadband service advocacy.\nToday, OBTA represents 42 telecommunications providers, two wireless providers, and more than 100 associate member companies that supply goods and services to the telecommunications industry.\nTed Heckmann, board chairman of the newly renamed OBTA and VP of regulatory and government affairs for altafiber, said the name change reflects the telecom industry’s coalescence around broadband.\n“This is the natural next step in the evolution of our association and our industry,” he said. “Today, whether you're a phone company, a cable provider, a network operator, a technology company or even a data center, everyone is focused on the same fundamental mission: building and expanding broadband networks. Our new name more accurately reflects that reality.”\nAn evolving mission\nHaving launched in 1895, the initial mission of the organization, which was initially known as the Ohio Telephone Association, was, not surprisingly, to support and promote the growth of the early telephone industry.\nIt was the first association of its kind in the country.\nAs the telecom industry in Ohio continued to evolve, the name changed to the Ohio Telecommunications Industry Association and later to the Ohio Telecom Association.\nOBTA said this latest change follows that same pattern, recognizing broadband is a high-speed, always-on connection — delivered through fiber, cable or DSL — that moves far more data than traditional phone networks ever could.\nTrint Hatt, executive director of OBTA, noted that the new name and enhanced membership do not alter its mission.\n“We will continue to promote the common interests of our members and help the public and policymakers understand the essential role our industry plays in building the networks that connect people through words, pictures and data,” he said. “Bringing the companies that build and rely on that connectivity together under one banner strengthens the entire industry and enhances our ability to serve consumers and businesses.”\nScaling Ohio’s broadband investments\nToday, OBTA represents 42 telecommunications providers, two wireless providers, and more than 100 associate member companies that supply goods and services to the telecommunications industry.\nTogether, these companies employ more than 16,000 Ohio citizens.\nOver the past decade, OBTA’s member companies have invested more than $1 billion a year to develop broadband networks across Ohio and to increase the speed and capacity of those networks.\nTo complement these efforts, the state has invested roughly $300 million under Gov. DeWine via the Ohio Broadband Strategy, which focuses on improving access for two groups: the unserved and underserved. An estimated 300,000 households in Ohio, representing close to 1 million Ohioans, lack access to high-speed internet.\nAn additional $800 million+ in federal funding has supplemented state efforts—including investments from the Infrastructure Investment and Jobs Act (IIJA) and the BEAD program—to bring better internet access to rural and other underserved areas.\nBut Ohio realizes that last-mile connectivity is only one part of the broadband equation. The state is also investing in new middle mile networks to backhaul wireline broadband traffic.\nIn late July, Ohio announced that it is investing $20 million to expand the state’s broadband infrastructure across 15 counties.\nThrough BroadbandOhio’s Route 30 Middle-Mile Infrastructure Project, Com Net, Inc. will receive $20 million to construct a fiber network spanning Ohio from east to west.\nThe new network will follow the U.S. Route 30 corridor, which crosses 15 counties and runs near numerous schools and higher education institutions, healthcare facilities, local governments, businesses, and other critical facilities, including Mansfield Lahm Air National Guard Base, home of the 179th Cyberspace Wing, and the Mansfield Industrial Park.\nFor related articles, visit the Broadband Topic Center.\nFor more information on high-speed transmission systems and suppliers, visit the Lightwave Buyer’s Guide.\nTo stay abreast of fiber network deployments, subscribe to Lightwave’s Service Providers and Datacom/Data Center newsletters.\nAbout the Author\nSean Buckley\nSean is the Editor-in-Chief of Lightwave. He establishes and executes Lightwave's editorial strategy across its website, email newsletters, events, and other information products. Before coming to Lightwave in July 2023, he served as editor of Broadband Communities. Earlier, he served as senior editor of FierceTelecom and the editor of the former Telecommunications Magazine. He got his start in the optical industry in 1998 when he became the editor of enterprise and optical networks at Information Gatekeepers. He has a BA in English from the University of Massachusetts, Boston, and lives in Dracut, Mass, with his wife, two sons, and his cat, Dove.",
+      "content_html": "<html>\n  <body><h1>Ohio Telecom Association rebrands as the Ohio Broadband &amp; Technology Association</h1><h2>Key Highlights</h2><ul><li>The name change to Ohio Broadband &amp; Technology Association reflects the industry's shift towards broadband and digital connectivity.</li><li>OBTA's membership includes telecom providers, wireless companies, and over 100 associate members supporting the industry’s growth.</li><li>The association has invested over $1 billion in broadband infrastructure in Ohio over the past decade.</li><li>Ohio is leveraging federal and state funds, including the Infrastructure Investment and Jobs Act, to expand high-speed internet access.</li><li>Recent projects include a $20 million fiber network along U.S. Route 30 to serve 15 counties and critical facilities.</li></ul><p>The Ohio Telecom Association (OTA), the statewide trade association representing telecommunications companies in Ohio, is changing its name to the Ohio Broadband &amp; Technology Association (OBTA) to better reflect its evolving mission centered on broadband service advocacy.</p><p>Today, OBTA represents 42 telecommunications providers, two wireless providers, and more than 100 associate member companies that supply goods and services to the telecommunications industry.</p><p>Ted Heckmann, board chairman of the newly renamed OBTA and VP of regulatory and government affairs for altafiber, said the name change reflects the telecom industry’s coalescence around broadband.</p><p>“This is the natural next step in the evolution of our association and our industry,” he said. “Today, whether you're a phone company, a cable provider, a network operator, a technology company or even a data center, everyone is focused on the same fundamental mission: building and expanding broadband networks. Our new name more accurately reflects that reality.”</p><p>An evolving mission</p><p>Having launched in 1895, the initial mission of the organization, which was initially known as the Ohio Telephone Association, was, not surprisingly, to support and promote the growth of the early telephone industry.</p><p>It was the first association of its kind in the country.</p><p>As the telecom industry in Ohio continued to evolve, the name changed to the Ohio Telecommunications Industry Association and later to the Ohio Telecom Association.</p><p>OBTA said this latest change follows that same pattern, recognizing broadband is a high-speed, always-on connection — delivered through fiber, cable or DSL — that moves far more data than traditional phone networks ever could.</p><p>Trint Hatt, executive director of OBTA, noted that the new name and enhanced membership do not alter its mission.</p><p>“We will continue to promote the common interests of our members and help the public and policymakers understand the essential role our industry plays in building the networks that connect people through words, pictures and data,” he said. “Bringing the companies that build and rely on that connectivity together under one banner strengthens the entire industry and enhances our ability to serve consumers and businesses.”</p><p>Scaling Ohio’s broadband investments</p><p>Today, OBTA represents 42 telecommunications providers, two wireless providers, and more than 100 associate member companies that supply goods and services to the telecommunications industry.</p><p>Together, these companies employ more than 16,000 Ohio citizens.</p><p>Over the past decade, OBTA’s member companies have invested more than $1 billion a year to develop broadband networks across Ohio and to increase the speed and capacity of those networks.</p><p>To complement these efforts, the state has invested roughly $300 million under Gov. DeWine via the Ohio Broadband Strategy, which focuses on improving access for two groups: the unserved and underserved. An estimated 300,000 households in Ohio, representing close to 1 million Ohioans, lack access to high-speed internet.</p><p>An additional $800 million+ in federal funding has supplemented state efforts—including investments from the Infrastructure Investment and Jobs Act (IIJA) and the BEAD program—to bring better internet access to rural and other underserved areas.</p><p>But Ohio realizes that last-mile connectivity is only one part of the broadband equation. The state is also investing in new middle mile networks to backhaul wireline broadband traffic.</p><p>In late July, Ohio announced that it is investing $20 million to expand the state’s broadband infrastructure across 15 counties.</p><p>Through BroadbandOhio’s Route 30 Middle-Mile Infrastructure Project, Com Net, Inc. will receive $20 million to construct a fiber network spanning Ohio from east to west.</p><p>The new network will follow the U.S. Route 30 corridor, which crosses 15 counties and runs near numerous schools and higher education institutions, healthcare facilities, local governments, businesses, and other critical facilities, including Mansfield Lahm Air National Guard Base, home of the 179th Cyberspace Wing, and the Mansfield Industrial Park.</p><p>For related articles, visit the Broadband Topic Center.<br/>For more information on high-speed transmission systems and suppliers, visit the Lightwave Buyer’s Guide.<br/>To stay abreast of fiber network deployments, subscribe to Lightwave’s Service Providers and Datacom/Data Center newsletters.</p><h2>About the Author</h2><img src=\"https://img.lightwaveonline.com/files/base/ebm/lw/image/2023/06/SBphoto.649efb6500a71.png?w=120&amp;h=120&amp;fit=crop\" alt=\"Sean Buckley\"/>Sean Buckley<h3>Sean Buckley</h3><p>Sean is the Editor-in-Chief of Lightwave. He establishes and executes Lightwave's editorial strategy across its website, email newsletters, events, and other information products. Before coming to Lightwave in July 2023, he served as editor of Broadband Communities. Earlier, he served as senior editor of FierceTelecom and the editor of the former Telecommunications Magazine. He got his start in the optical industry in 1998 when he became the editor of enterprise and optical networks at Information Gatekeepers. He has a BA in English from the University of Massachusetts, Boston, and lives in Dracut, Mass, with his wife, two sons, and his cat, Dove.</p><h1>Related</h1><h1>Voices of the Industry</h1><img src=\"https://img.lightwaveonline.com/files/base/ebm/lw/image/2025/09/68d2b6c4dfbfeed76f8a4ae8-aiimage.png?auto=format,compress&amp;fit=crop&amp;q=45&amp;h=139&amp;height=139&amp;w=250&amp;width=250\" alt=\"aiimage\"/>aiimage<img src=\"https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/08/6a7e1c11e23cd8f831b2e7c5-istock_000001759899_medium.png?auto=format,compress&amp;fit=crop&amp;q=45&amp;h=139&amp;height=139&amp;w=250&amp;width=250\" alt=\"istock_000001759899_medium\"/>istock_000001759899_medium</body>\n</html>",
+      "word_count": 866,
+      "char_count": 5840,
+      "lead_image": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a99a033329565472aa443ef-untitled_linkedin_post.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "images": [
+        {
+          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a99a033329565472aa443ef-untitled_linkedin_post.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a999bc23e6bc6b928eee8c3-hatt.png?auto=format%2Ccompress&w=320",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a999c55ec20580960a5a2c6-heckmann.png?auto=format%2Ccompress&w=320",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a999d69329565472aa44057-artboard2.png?auto=format%2Ccompress&w=320",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a99a033329565472aa443ef-untitled_linkedin_post.png?auto=format%2Ccompress&w=320",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a999c55ec20580960a5a2c6-heckmann.png?auto=format,compress&fit=max&q=45?w=250&width=250",
+          "alt": "Ted Heckmann, board chairman of the newly renamed OBTA and VP of regulatory and government affairs for altafiber.",
+          "caption": "Ted Heckmann, board chairman of the newly renamed OBTA and VP of regulatory and government affairs for altafiber.",
+          "role": "body"
+        },
+        {
+          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a999bc23e6bc6b928eee8c3-hatt.png?auto=format,compress&fit=max&q=45?w=250&width=250",
+          "alt": "Trint Hatt, Executive Director, Ohio Broadband &amp; Technology Association.",
+          "caption": "Trint Hatt, Executive Director, Ohio Broadband & Technology Association.",
+          "role": "body"
+        },
+        {
+          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a999d69329565472aa44057-artboard2.png?auto=format,compress&fit=max&q=45?w=250&width=250",
+          "alt": "BroadbandOhio&rsquo;s Route 30 Middle-Mile Infrastructure Project will follow the U.S. Route 30 corridor.",
+          "caption": "BroadbandOhio’s Route 30 Middle-Mile Infrastructure Project will follow the U.S. Route 30 corridor.",
+          "role": "body"
+        },
+        {
+          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2023/06/SBphoto.649efb6500a71.png?w=120&h=120&fit=crop",
+          "alt": "Sean Buckley",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://informa.blueconic.net/rest/v2/contentStores/e571870a-e8a3-4416-8d93-59463618f7e1/items/55358370/image?auto=format,compress&fit=crop&q=45&h=139&height=139&w=250&width=250",
+          "alt": "Optical Internetworking Forum (OIF) responds to AI’s accelerated network demands",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://informa.blueconic.net/rest/v2/contentStores/e571870a-e8a3-4416-8d93-59463618f7e1/items/55397988/image?auto=format,compress&fit=crop&q=45&h=139&height=139&w=250&width=250",
+          "alt": "The death of the cookie-cutter data center",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://informa.blueconic.net/rest/v2/contentStores/c1b73bed-402c-48ac-8e5d-f1dcc15529ec/items/www.lightwaveonline.com%252F55344310/image?auto=format,compress&fit=crop&q=45&h=139&height=139&w=250&width=250",
+          "alt": "Optimizing Fiber Networks for Speed, Efficiency and Scalability",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 12,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-03T19:36:56Z"
+    },
+    {
+      "id": "c0e0944d17a1281c",
+      "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
+      "header": "The New York Times",
+      "published_at": "2026-09-03T18:38:57Z",
+      "published_raw": "Thu, 03 Sep 2026 18:38:57 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5",
+      "description": "Nvidia Buys Hugging Face in $12.9 Billion Deal The New York Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5\" target=\"_blank\">Nvidia Buys Hugging Face in $12.9 Billion Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5"
+      ],
+      "scraped_at": "2026-09-03T19:36:53Z",
+      "url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
+      "final_url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
+      "source": "The New York Times",
+      "article_title": "",
+      "heading": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Nvidia Buys Hugging Face in $12.9 Billion Deal The New York Times",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-03T19:36:53Z"
+    },
+    {
+      "id": "4c716f67c7f33e86",
+      "title": "John Deere partners with specialty crop technology incubator farm Reservoir",
+      "header": "Michigan Farm News",
+      "published_at": "2026-09-03T18:12:11Z",
+      "published_raw": "Thu, 03 Sep 2026 18:12:11 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMDczUWl0d2NaZlJkbGkzVnVVNkFfaWFZVUtzZlpXM2lpX2xZdzFOWVVBNHA1TTNRQmJhMmkyMUFxdXVuempoaUxIb1d1RnpuUnBqLW5QQ0lnM3dsZzVfR0ZEMDNCOFZfSlFzZ1ZjNW4xc0oxczJ5dlJ2X1NHRnJHbE04NVd5Q0VGV3BWSmVVYW5iZkROTHdIZ2JyWF9yUEt2T0cyeDR3QXpISG1iZjY1cnpUNFJLcFpneDh5X0NzLXVBRFk?oc=5",
+      "description": "John Deere partners with specialty crop technology incubator farm Reservoir Michigan Farm News",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMDczUWl0d2NaZlJkbGkzVnVVNkFfaWFZVUtzZlpXM2lpX2xZdzFOWVVBNHA1TTNRQmJhMmkyMUFxdXVuempoaUxIb1d1RnpuUnBqLW5QQ0lnM3dsZzVfR0ZEMDNCOFZfSlFzZ1ZjNW4xc0oxczJ5dlJ2X1NHRnJHbE04NVd5Q0VGV3BWSmVVYW5iZkROTHdIZ2JyWF9yUEt2T0cyeDR3QXpISG1iZjY1cnpUNFJLcFpneDh5X0NzLXVBRFk?oc=5\" target=\"_blank\">John Deere partners with specialty crop technology incubator farm Reservoir</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Michigan Farm News</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMDczUWl0d2NaZlJkbGkzVnVVNkFfaWFZVUtzZlpXM2lpX2xZdzFOWVVBNHA1TTNRQmJhMmkyMUFxdXVuempoaUxIb1d1RnpuUnBqLW5QQ0lnM3dsZzVfR0ZEMDNCOFZfSlFzZ1ZjNW4xc0oxczJ5dlJ2X1NHRnJHbE04NVd5Q0VGV3BWSmVVYW5iZkROTHdIZ2JyWF9yUEt2T0cyeDR3QXpISG1iZjY1cnpUNFJLcFpneDh5X0NzLXVBRFk?oc=5"
+      ],
+      "scraped_at": "2026-09-03T19:36:55Z",
+      "url": "https://www.michiganfarmnews.com/about/news-media/john-deere-partners-with-specialty-crop-technology-incubator-farm-reservoir",
+      "final_url": "https://www.michiganfarmnews.com/about/news-media/john-deere-partners-with-specialty-crop-technology-incubator-farm-reservoir",
+      "source": "An official publication of Michigan Farm Bureau",
+      "article_title": "John Deere partners with specialty crop technology incubator farm Reservoir | An official publication of Michigan Farm Bureau",
+      "heading": "John Deere partners with specialty crop technology incubator farm Reservoir",
+      "authors": [
+        "Farm News Media"
+      ],
+      "article_published_at": "2026-09-03",
+      "article_modified_at": "2026-09-03",
+      "summary": "John Deere is rolling out a strategic collaboration with the Reservoir, an on-farm incubator that accelerates innovation for specialty crop growers.",
+      "content": "John Deere is rolling out a strategic collaboration with the Reservoir, a California-based on-farm ag technology incubator that accelerates innovation for specialty crop growers.\nReservoir Farms is the world’s first on-farm robotics incubator, starting in California’s Salinas Valley and expanding to other key regions. Founded in 2024, the Reservoir connects startups, growers and tech experts to develop and test solutions for specialty crop growers in real-world production environments.\nThrough the agreement, Deere becomes the exclusive original equipment manufacturer to the Reservoir, granting branding opportunities across the Reservoir's Salinas, California facility and future locations. Deere will have access to early-stage startups, co-developed research and development programs and curated field days for tech demonstrations.\nThe company’s Business Integration Manager Sean Sundberg said specialty crops are an important growth area for agriculture, “and an area where innovation is needed and can have a direct, measurable impact on growers' resilience and productivity.”\n“This partnership gives us a front-row seat to the next generation of agricultural technology, and an opportunity to work alongside growers and entrepreneurs to ensure future solutions are practical, scalable and built to last,” Sundland added.\nDeere said the collaboration underscores the company’s broader commitment to invest more than $20 billion in domestic manufacturing over the next decade. By pairing the company’s advanced precision ag and automation capabilities with the Reservoir's on-farm R&D team, Deere said the collaboration creates a powerful platform for developing, testing and scaling solutions that address the most pressing challenges for specialty crop growers.\nThe announcement comes as labor challenges continue to threaten multigenerational family farms, especially with a California judge’s sending H-2A wages into chaos once again.\nREAD NEXT: H-2A WAGES PLUNGED INTO LIMBO BY CALIFORNIA JUDGE'S RULING\n“John Deere's investment in the Reservoir is a vital strategic step toward making sure specialty crop growers have a fighting chance amid our industry's labor shortage,” said Walt Duflock, senior vice president of innovation at Western Growers.\n“The California agricultural technology landscape will thrive thanks to this kind of collaborative effort.”",
+      "content_html": "<html>\n  <body>\n    <p>John Deere is rolling out a strategic collaboration with the Reservoir, a California-based on-farm ag technology incubator that accelerates innovation for specialty crop growers.</p>\n    <p>Reservoir Farms is the world’s first on-farm robotics incubator, starting in California’s Salinas Valley and expanding to other key regions. Founded in 2024, the Reservoir connects startups, growers and tech experts to develop and test solutions for specialty crop growers in real-world production environments.</p>\n    <p>Through the agreement, Deere becomes the exclusive original equipment manufacturer to the Reservoir, granting branding opportunities across the Reservoir's Salinas, California facility and future locations. Deere will have access to early-stage startups, co-developed research and development programs and curated field days for tech demonstrations.</p>\n    <p>The company’s Business Integration Manager Sean Sundberg said specialty crops are an important growth area for agriculture, “and an area where innovation is needed and can have a direct, measurable impact on growers' resilience and productivity.”</p>\n    <p>“This partnership gives us a front-row seat to the next generation of agricultural technology, and an opportunity to work alongside growers and entrepreneurs to ensure future solutions are practical, scalable and built to last,” Sundland added.</p>\n    <p>Deere said the collaboration underscores the company’s broader commitment to invest more than $20 billion in domestic manufacturing over the next decade. By pairing the company’s advanced precision ag and automation capabilities with the Reservoir's on-farm R&amp;D team, Deere said the collaboration creates a powerful platform for developing, testing and scaling solutions that address the most pressing challenges for specialty crop growers.</p>\n    <p>The announcement comes as labor challenges continue to threaten multigenerational family farms, especially with a California judge’s sending H-2A wages into chaos once again.</p>\n    <p>READ NEXT: H-2A WAGES PLUNGED INTO LIMBO BY CALIFORNIA JUDGE'S RULING</p>\n    <p>“John Deere's investment in the Reservoir is a vital strategic step toward making sure specialty crop growers have a fighting chance amid our industry's labor shortage,” said Walt Duflock, senior vice president of innovation at Western Growers.</p>\n    <p>“The California agricultural technology landscape will thrive thanks to this kind of collaborative effort.”</p>\n  </body>\n</html>",
+      "word_count": 332,
+      "char_count": 2371,
+      "lead_image": "https://www.michiganfarmnews.com/sites/default/files/styles/default_share_image/public/2026-09/reservoir-test-farm-john-deere-web.jpg?h=2d1696cf&itok=ELIvaSTn",
+      "images": [
+        {
+          "url": "https://www.michiganfarmnews.com/sites/default/files/styles/default_share_image/public/2026-09/reservoir-test-farm-john-deere-web.jpg?h=2d1696cf&itok=ELIvaSTn",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://www.michiganfarmnews.com/sites/default/files/styles/twitter_card_image/public/2026-09/reservoir-test-farm-john-deere-web.jpg?h=2d1696cf&itok=4z0d38zq",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-03T19:36:55Z"
+    },
+    {
+      "id": "80157af9b8846bcf",
+      "title": "What is public interest technology and how does it help people in need? A policy expert explains",
+      "header": "Fast Company",
+      "published_at": "2026-09-03T17:02:33Z",
+      "published_raw": "Thu, 03 Sep 2026 17:02:33 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZm1IczlpVnZwYWY4eHoyNlNqc0lkdHFGRV85bUkwVkZTWFowaVVyOGg2R1NUTjV5WlFTbUQtY0I0UjVlOWdVNmNYVmg0OFlURmludHdIb21hOHlsNmFRZUItcFRxNlJ5ZmxoNmxFYk5MMktOa2NpRHZTbzZzUGt6RHBXQVVnN0l3aGY1akd4SmFCc2MzRW5OUzFTZWRwRnZFUzZiWnBiRjNRLWlYMmxWSHlB?oc=5",
+      "description": "What is public interest technology and how does it help people in need? A policy expert explains Fast Company",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPZm1IczlpVnZwYWY4eHoyNlNqc0lkdHFGRV85bUkwVkZTWFowaVVyOGg2R1NUTjV5WlFTbUQtY0I0UjVlOWdVNmNYVmg0OFlURmludHdIb21hOHlsNmFRZUItcFRxNlJ5ZmxoNmxFYk5MMktOa2NpRHZTbzZzUGt6RHBXQVVnN0l3aGY1akd4SmFCc2MzRW5OUzFTZWRwRnZFUzZiWnBiRjNRLWlYMmxWSHlB?oc=5\" target=\"_blank\">What is public interest technology and how does it help people in need? A policy expert explains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZm1IczlpVnZwYWY4eHoyNlNqc0lkdHFGRV85bUkwVkZTWFowaVVyOGg2R1NUTjV5WlFTbUQtY0I0UjVlOWdVNmNYVmg0OFlURmludHdIb21hOHlsNmFRZUItcFRxNlJ5ZmxoNmxFYk5MMktOa2NpRHZTbzZzUGt6RHBXQVVnN0l3aGY1akd4SmFCc2MzRW5OUzFTZWRwRnZFUzZiWnBiRjNRLWlYMmxWSHlB?oc=5"
+      ],
+      "scraped_at": "2026-09-03T19:36:56Z",
+      "url": "https://www.fastcompany.com/91599992/public-interest-technology-how-does-help-people-need-policy-expert-explains",
+      "final_url": "https://www.fastcompany.com/91599992/public-interest-technology-how-does-help-people-need-policy-expert-explains",
+      "source": "Fast Company",
+      "article_title": "",
+      "heading": "What is public interest technology and how does it help people in need? A policy expert explains",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "What is public interest technology and how does it help people in need? A policy expert explains Fast Company",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-03T19:36:56Z"
+    },
     {
       "id": "4d1e7137526b4499",
       "title": "Lenovo Advances Hybrid AI Across New Personal and Enterprise Technology",
@@ -51,6 +329,40 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-03T16:53:36Z"
+    },
+    {
+      "id": "57b20184d8ccd6de",
+      "title": "Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents",
+      "header": "The Washington Post",
+      "published_at": "2026-09-03T16:00:00Z",
+      "published_raw": "Thu, 03 Sep 2026 16:00:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUM2S0d4bnRiVmNRdE5JaHRVb0xCYXFTWkh1dnZPSWI1a0VoMEtlNzRZSzJHZG1PNjZobnBzV2licHEwVWg0RkdIenFEeV96eDRWYTZzXzhXZ2pUZWRPRHhBdENmRnIwNEtnUVZNekE5djd4TzZ6NnBQRHhkaFdUT3VTOWphUHdzWFR4d1NLc0tzNmZ4MDRPWFduRXZMeWhHYmpndGRhYm10S2sweEt3VE5oeGxtdmUxQnJMelhtbzlzZTVZZklV?oc=5",
+      "description": "Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents The Washington Post",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUM2S0d4bnRiVmNRdE5JaHRVb0xCYXFTWkh1dnZPSWI1a0VoMEtlNzRZSzJHZG1PNjZobnBzV2licHEwVWg0RkdIenFEeV96eDRWYTZzXzhXZ2pUZWRPRHhBdENmRnIwNEtnUVZNekE5djd4TzZ6NnBQRHhkaFdUT3VTOWphUHdzWFR4d1NLc0tzNmZ4MDRPWFduRXZMeWhHYmpndGRhYm10S2sweEt3VE5oeGxtdmUxQnJMelhtbzlzZTVZZklV?oc=5\" target=\"_blank\">Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUM2S0d4bnRiVmNRdE5JaHRVb0xCYXFTWkh1dnZPSWI1a0VoMEtlNzRZSzJHZG1PNjZobnBzV2licHEwVWg0RkdIenFEeV96eDRWYTZzXzhXZ2pUZWRPRHhBdENmRnIwNEtnUVZNekE5djd4TzZ6NnBQRHhkaFdUT3VTOWphUHdzWFR4d1NLc0tzNmZ4MDRPWFduRXZMeWhHYmpndGRhYm10S2sweEt3VE5oeGxtdmUxQnJMelhtbzlzZTVZZklV?oc=5"
+      ],
+      "scraped_at": "2026-09-03T19:36:53Z",
+      "url": "https://www.washingtonpost.com/technology/2026/09/03/sanders-proposes-artificial-superintelligence-ban-after-rogue-ai-incidents/",
+      "final_url": "https://www.washingtonpost.com/technology/2026/09/03/sanders-proposes-artificial-superintelligence-ban-after-rogue-ai-incidents/",
+      "source": "The Washington Post",
+      "article_title": "",
+      "heading": "Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents The Washington Post",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-03T19:36:53Z"
     },
     {
       "id": "ef6b3a458a2ad884",
@@ -135,6 +447,66 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-03T16:53:37Z"
+    },
+    {
+      "id": "d33391407823309e",
+      "title": "Why Credo Technology's $8B Post-Earnings Sell-Off Is A Massive Overreaction (NASDAQ:CRDO)",
+      "header": "Seeking Alpha",
+      "published_at": "2026-09-03T15:19:26Z",
+      "published_raw": "Thu, 03 Sep 2026 15:19:26 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWTMySTJhXzk4cWdCMEFuM0VRZ2RYV2FyTHE3YWF6cUVsRkt0RGd0V3VIX2VGb2gxM2d5SWNLbXpaRnFWTktxWlZ1MHVuMlpHaW1wVjJBaU9fZFkxNXFHNWpJbEFaX3I4OTFWQWN4eklXeV9qSEtxZTdzSWJ5ZG50VmtaQzVuNkxaSWVEejVlY21jQ25WcXlkUEFFazI5cElwNFh0c3JReUpQalVSVkdJQWZJMDM?oc=5",
+      "description": "Why Credo Technology's $8B Post-Earnings Sell-Off Is A Massive Overreaction (NASDAQ:CRDO) Seeking Alpha",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQWTMySTJhXzk4cWdCMEFuM0VRZ2RYV2FyTHE3YWF6cUVsRkt0RGd0V3VIX2VGb2gxM2d5SWNLbXpaRnFWTktxWlZ1MHVuMlpHaW1wVjJBaU9fZFkxNXFHNWpJbEFaX3I4OTFWQWN4eklXeV9qSEtxZTdzSWJ5ZG50VmtaQzVuNkxaSWVEejVlY21jQ25WcXlkUEFFazI5cElwNFh0c3JReUpQalVSVkdJQWZJMDM?oc=5\" target=\"_blank\">Why Credo Technology's $8B Post-Earnings Sell-Off Is A Massive Overreaction (NASDAQ:CRDO)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWTMySTJhXzk4cWdCMEFuM0VRZ2RYV2FyTHE3YWF6cUVsRkt0RGd0V3VIX2VGb2gxM2d5SWNLbXpaRnFWTktxWlZ1MHVuMlpHaW1wVjJBaU9fZFkxNXFHNWpJbEFaX3I4OTFWQWN4eklXeV9qSEtxZTdzSWJ5ZG50VmtaQzVuNkxaSWVEejVlY21jQ25WcXlkUEFFazI5cElwNFh0c3JReUpQalVSVkdJQWZJMDM?oc=5"
+      ],
+      "scraped_at": "2026-09-03T19:36:53Z",
+      "url": "https://seekingalpha.com/article/4942831-why-credo-technologys-8b-post-earnings-sell-off-is-a-massive-overreaction",
+      "final_url": "https://seekingalpha.com/article/4942831-why-credo-technologys-8b-post-earnings-sell-off-is-a-massive-overreaction",
+      "source": "Seeking Alpha",
+      "article_title": "Why Credo Technology's $8B Post-Earnings Sell-Off Is A Massive Overreaction (NASDAQ:CRDO)",
+      "heading": "Why Credo Technology's $8B Post-Earnings Sell-Off Is A Massive Overreaction",
+      "authors": [
+        "The Asian Investor"
+      ],
+      "article_published_at": "2026-09-03T11:19:26-04:00",
+      "article_modified_at": "2026-09-03T15:21:17.000Z",
+      "summary": "Credo Tech Q1: revenue +115% on AI data center connectivity; shares fell on GM worries. Click for more on CRDO stock.",
+      "content": "With demand for data center products continuing unabated in the second quarter, Credo Technology (CRDO), a data center infrastructure provider that provides connectivity products to connect AI clusters, exceeded expectations for its last financial\nWhy Credo Technology's $8B Post-Earnings Sell-Off Is A Massive Overreaction\nSummary\n- Credo Technology delivered record Q1 results, with revenues up 115% year-over-year on strong demand for its AI data center connectivity products.\n- Despite beating top- and bottom-line estimates, CRDO shares dropped 20%, mainly due to concerns about a 2.9 PP GAAP gross margin contraction, driven by product mix changes.\n- I see the market’s reaction as excessive, given CRDO’s strategic transition to higher-value integrated modules and the robust, long-term AI infrastructure CapEx cycle.\n- Non-GAAP gross margins remained fairly stable, and management also guided for the potential of GM expansion in the second quarter.\n- With a forward price-to-revenue ratio of 7.9x versus a 7.4x 3-year average, I view the current valuation as an attractive buying opportunity.\nThis article was written by\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of CRDO, ALAB, MRVL, GOOG either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "content_html": "<html>\n  <body>\n    <div class=\"border-t border-solid border-t-black-10 pb-20 pt-18 dark:border-t-black-80 o9Jlq paywall-full-content\" data-test-id=\"author-root\">\n      <p class=\"mb-12 text-medium-2-r text-share-text-3\">This article was written by</p>\n      <div class=\"text-medium-2-r\">\n        <div class=\"relative\">\n          <div class=\"relative overflow-hidden\" style=\"max-height:100%\">\n            <div>\n              <p data-test-id=\"content-container\">I am interested in a lot of technology and AI stocks like Google, Nvidia, AMD, Tesla and Amazon.</p>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n    <div class=\"paywall-full-content\" data-test-id=\"content-container\">\n      <p id=\"a-disclosure\">Analyst’s Disclosure: I/we have a beneficial long position in the shares of CRDO, ALAB, MRVL, GOOG either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article. </p>\n      <p id=\"a-disclosure-more\">Seeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.</p>\n    </div>\n  </body>\n</html>",
+      "word_count": 318,
+      "char_count": 2077,
+      "lead_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219944504/image_2219944504.jpg?io=getty-c-w1536",
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219944504/image_2219944504.jpg?io=getty-c-w1536",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219944504/image_2219944504.jpg?io=getty-c-w1280",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219944504/image_2219944504.jpg?io=getty-c-crop-16-9",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219944504/image_2219944504.jpg?io=getty-c-crop-4-3",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 4,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-03T19:36:53Z"
     },
     {
       "id": "dd3cee793925692c",
@@ -381,7 +753,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRUJBRjRFS29WdDZQOTNzOHJnTi1mTjVrbUNwVGhCbzBreEp3amJMQnI3TGNQMnMyMDhyejhta1hmOTF3Y0lRcm5wUGpHTDZsdGw2UGNMenhSSUxzVWJrcnozaWdDdmpXdjJsT0tQVTMybUJCX2wtSlJiZVNDQklPVFdpS3ZOMnkweEoxYi01MzVBc0NTeFVSOU1uZFh6eXJmREJDMEdiNTAzSU10M3dManRHOHNwUkF4bHNFaXMyS1BYUXFNcHhFLWlFaEk4Q1J5cnJBd3dTa2ZpZw?oc=5"
       ],
-      "scraped_at": "2026-09-03T16:53:37Z",
+      "scraped_at": "2026-09-03T19:36:56Z",
       "url": "https://www.cherokeephoenix.org/cherokee-film-brings-music-to-life-via-cutting-edge-technology/video_1ff7f9c2-e61b-4b38-9e14-8c7cea68df1e.html",
       "final_url": "https://www.cherokeephoenix.org/cherokee-film-brings-music-to-life-via-cutting-edge-technology/video_1ff7f9c2-e61b-4b38-9e14-8c7cea68df1e.html",
       "source": "cherokeephoenix.org",
@@ -391,10 +763,10 @@
       "article_published_at": "2026-09-03T08:30:00-05:00",
       "article_modified_at": "2026-09-03T08:30:00-05:00",
       "summary": "Click here to view this video from cherokeephoenix.org.",
-      "content": "Cherokee Film brings music to life via cutting edge technology Sep 3, 2026 1 hr ago Facebook Twitter WhatsApp SMS Email Print Copy article link Save Facebook Twitter WhatsApp SMS Email Print Copy article link Save Trending Now Staubus works to reconnect to Cherokee/Shawnee culture through art Martinez wins Begay Native Youth golf title Major investment yielding lifechanging results Polling sites updated for 2027 election Tickets on sale now for Cherokee musical returning to Hard Rock Live Oct. 9-10 Latest e-Edition Sept. 1, 2026 issue of the Cherokee Phoenix To view our latest e-Edition click the image on the left.",
-      "content_html": "<html>\n  <body>\n    <p>Cherokee Film brings music to life via cutting edge technology Sep 3, 2026 1 hr ago Facebook Twitter WhatsApp SMS Email Print Copy article link Save Facebook Twitter WhatsApp SMS Email Print Copy article link Save Trending Now Staubus works to reconnect to Cherokee/Shawnee culture through art Martinez wins Begay Native Youth golf title Major investment yielding lifechanging results Polling sites updated for 2027 election Tickets on sale now for Cherokee musical returning to Hard Rock Live Oct. 9-10 Latest e-Edition Sept. 1, 2026 issue of the Cherokee Phoenix To view our latest e-Edition click the image on the left.</p>\n  </body>\n</html>",
+      "content": "Cherokee Film brings music to life via cutting edge technology Sep 3, 2026 4 hrs ago Facebook Twitter WhatsApp SMS Email Print Copy article link Save Facebook Twitter WhatsApp SMS Email Print Copy article link Save Trending Now Staubus works to reconnect to Cherokee/Shawnee culture through art Martinez wins Begay Native Youth golf title Major investment yielding lifechanging results Polling sites updated for 2027 election Tickets on sale now for Cherokee musical returning to Hard Rock Live Oct. 9-10 Latest e-Edition Sept. 1, 2026 issue of the Cherokee Phoenix To view our latest e-Edition click the image on the left.",
+      "content_html": "<html>\n  <body>\n    <p>Cherokee Film brings music to life via cutting edge technology Sep 3, 2026 4 hrs ago Facebook Twitter WhatsApp SMS Email Print Copy article link Save Facebook Twitter WhatsApp SMS Email Print Copy article link Save Trending Now Staubus works to reconnect to Cherokee/Shawnee culture through art Martinez wins Begay Native Youth golf title Major investment yielding lifechanging results Polling sites updated for 2027 election Tickets on sale now for Cherokee musical returning to Hard Rock Live Oct. 9-10 Latest e-Edition Sept. 1, 2026 issue of the Cherokee Phoenix To view our latest e-Edition click the image on the left.</p>\n  </body>\n</html>",
       "word_count": 100,
-      "char_count": 622,
+      "char_count": 623,
       "lead_image": "https://bloximages.newyork1.vip.townnews.com/cherokeephoenix.org/content/tncms/assets/v3/editorial/1/ff/1ff7f9c2-e61b-4b38-9e14-8c7cea68df1e/6a9868737883e.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
       "images": [
         {
@@ -409,6 +781,82 @@
       "status": "partial",
       "error": "short_text",
       "first_seen_at": "2026-09-03T16:53:37Z"
+    },
+    {
+      "id": "51cfb493c2a76d42",
+      "title": "Marvell Technology Knows Synopsys Is a Huge Threat",
+      "header": "24/7 Wall St.",
+      "published_at": "2026-09-03T13:22:00Z",
+      "published_raw": "Thu, 03 Sep 2026 13:22:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlFBcUJwc3V0S2htelNaQXVnY3ZXVWZRYXlSZzl6T1l6S1N6OVNOX2xnVHBCWEVYLXZaX2V2WWMtdi1jVVo5Snd3LTZPNi1ZYVZOd0F0dkFnZUlRS3lvVG9RX1FnUGQ3SnJjcjgwSWJEcWF4NUt5TEkwTWk3enQ1SGcwZkFEaDFpOHpJSWQ0eU1Oa2E4bTVQSUlB?oc=5",
+      "description": "Marvell Technology Knows Synopsys Is a Huge Threat 24/7 Wall St.",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlFBcUJwc3V0S2htelNaQXVnY3ZXVWZRYXlSZzl6T1l6S1N6OVNOX2xnVHBCWEVYLXZaX2V2WWMtdi1jVVo5Snd3LTZPNi1ZYVZOd0F0dkFnZUlRS3lvVG9RX1FnUGQ3SnJjcjgwSWJEcWF4NUt5TEkwTWk3enQ1SGcwZkFEaDFpOHpJSWQ0eU1Oa2E4bTVQSUlB?oc=5\" target=\"_blank\">Marvell Technology Knows Synopsys Is a Huge Threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlFBcUJwc3V0S2htelNaQXVnY3ZXVWZRYXlSZzl6T1l6S1N6OVNOX2xnVHBCWEVYLXZaX2V2WWMtdi1jVVo5Snd3LTZPNi1ZYVZOd0F0dkFnZUlRS3lvVG9RX1FnUGQ3SnJjcjgwSWJEcWF4NUt5TEkwTWk3enQ1SGcwZkFEaDFpOHpJSWQ0eU1Oa2E4bTVQSUlB?oc=5"
+      ],
+      "scraped_at": "2026-09-03T19:36:57Z",
+      "url": "https://247wallst.com/investing/2026/09/03/marvell-technology-knows-synopsys-is-a-huge-threat/",
+      "final_url": "https://247wallst.com/investing/2026/09/03/marvell-technology-knows-synopsys-is-a-huge-threat/",
+      "source": "24/7 Wall St.",
+      "article_title": "Marvell Technology Knows Synopsys Is a Huge Threat",
+      "heading": "Marvell Technology Knows Synopsys Is a Huge Threat",
+      "authors": [
+        "Alex Sirois"
+      ],
+      "article_published_at": "2026-09-03T13:22:12+00:00",
+      "article_modified_at": null,
+      "summary": "Marvell and Synopsys both profit from the AI chip boom, but one company is quietly handing hyperscalers the tools to cut the other out entirely. The tension between them reveals something uncomfortable about where custom silicon money actually flows.",
+      "content": "Marvell Technology Knows Synopsys Is a Huge Threat\nMarvell and Synopsys both profit from the AI chip boom, but one company is quietly handing hyperscalers the tools to cut the other out entirely. The tension between them reveals something uncomfortable about where custom silicon money actually flows.\nMarvell Technology (NASDAQ:MRVL | MRVL Price Prediction) and Synopsys (NASDAQ:SNPS) reported earnings a day apart in late August. Both ride the AI infrastructure wave from opposite ends of the stack. Marvell sells custom silicon and optics to hyperscalers. Synopsys sells the EDA software and IP those same hyperscalers use to design chips in-house. That overlap is exactly why the article title frames Synopsys as a threat.\nCustom Silicon Lifts Marvell. Ansys Lifts Synopsys.\nMarvell posted record Q2 FY27 revenue of $2.739 billion, up 36.55% year over year, with Data Center growing 46% and reaching 79% of the mix. CEO Matt Murphy said “AI-related bookings remain exceptionally robust” and guided Q3 to $3.15 billion. The blockbuster item was an expanded Google custom silicon agreement covering inference accelerators, storage controllers, NICs, and near-memory compute, paired with a warrant allowing Google to acquire up to 7% of Marvell shares tied to revenue milestones.\nSynopsys delivered revenue of $2.477 billion, up 42.37%, and non-GAAP EPS of $3.91. Design IP finally returned to roughly 11% growth, and Ansys is starting to pay off through the new Multiphysics Fusion product. Sassine Ghazi said Synopsys is “executing with focus, extending our leadership and gaining momentum” one year after the acquisition closed.\n| Driver | Marvell | Synopsys |\n| Main Engine | Data Center silicon, custom XPU | EDA software, IP, Ansys physics |\n| Non-GAAP Op Margin | 36.6% | 41.6% |\n| YoY Revenue Growth | 36.55% | 42.37% |\nWhere the Two Businesses Actually Collide\nMarvell explicitly flags the risk that customers develop their own solutions or vertically integrate. Synopsys is the shovel seller enabling that path. Ghazi described a “Factory 2” model of licensing plus royalties, where hyperscalers get customized IP to build differentiated in-house silicon. He put it bluntly: “These chips will not happen without our interface IP.”\nMarvell counters with portfolio breadth. Murphy argued “Point solutions at this juncture, we believe, are not going to get it done.” Marvell is stacking 800G and 1.6T optics, 51.2T scale-out switches, Celestial AI photonics, and XPU-attached silicon into an end-to-end offer that any single Synopsys IP block cannot replicate on its own.\nWhat I Am Watching Through 2027\nFor Marvell, the tell is custom revenue in fiscal 2029, which Murphy indicated could push beyond the previously cited $10 billion plus figure once the Google programs ramp. Investor Day on October 6, 2026 should reset those numbers. For Synopsys, I want to see Multiphysics Fusion actually contribute to EDA growth in 2027 and Factory 2 deals close with named hyperscalers. Sentiment has already diverged sharply: MRVL is up 143.33% year to date, while SNPS is down 11.44%.\nWhy I Lean Toward Marvell for Now\nI find Marvell’s setup more compelling despite the Synopsys overhang. The Google warrant is a rare signal of customer commitment. If a hyperscaler is willing to take equity exposure, that reads like a partner planning to stay. Synopsys still fits a different investor. If you want software-like margins near 41.6%, a $10.9 billion backlog, and a stock that has already reset, SNPS looks like a patient compounder. I would rethink my Marvell view if custom bookings soften at Investor Day or if hyperscalers accelerate their own designs faster than the roadmap suggests.\nContact [email protected] for any questions or corrections.",
+      "content_html": "<html>\n  <body><h1>Marvell Technology Knows Synopsys Is a Huge Threat</h1><p>Marvell and Synopsys both profit from the AI chip boom, but one company is quietly handing hyperscalers the tools to cut the other out entirely. The tension between them reveals something uncomfortable about where custom silicon money actually flows.</p><img src=\"https://247wallst.com/wp-content/uploads/2024/10/shutterstock-2514379153-huge-licensed-scaled-400x224.jpg\" alt=\"A close-up, high-angle view of a dark circuit board with a central glowing blue chip bearing the letters 'AI'. Numerous small components and intricate circuitry are visible, many glowing in bright orange and red, indicating activity and power. The image has a futuristic and high-tech feel with a shallow depth of field.\"/>\t\t\t\t\t\t\t<p>Marvell Technology (NASDAQ:MRVL | MRVL Price Prediction) and Synopsys (NASDAQ:SNPS) reported earnings a day apart in late August. Both ride the AI infrastructure wave from opposite ends of the stack. Marvell sells custom silicon and optics to hyperscalers. Synopsys sells the EDA software and IP those same hyperscalers use to design chips in-house. That overlap is exactly why the article title frames Synopsys as a threat.</p><h2>Custom Silicon Lifts Marvell. Ansys Lifts Synopsys.</h2><p>Marvell posted record Q2 FY27 revenue of $2.739 billion, up 36.55% year over year, with Data Center growing 46% and reaching 79% of the mix. CEO Matt Murphy said “AI-related bookings remain exceptionally robust” and guided Q3 to $3.15 billion. The blockbuster item was an expanded Google custom silicon agreement covering inference accelerators, storage controllers, NICs, and near-memory compute, paired with a warrant allowing Google to acquire up to 7% of Marvell shares tied to revenue milestones.</p><p>Synopsys delivered revenue of $2.477 billion, up 42.37%, and non-GAAP EPS of $3.91. Design IP finally returned to roughly 11% growth, and Ansys is starting to pay off through the new Multiphysics Fusion product. Sassine Ghazi said Synopsys is “executing with focus, extending our leadership and gaining momentum” one year after the acquisition closed.</p><table><tr><td>Driver</td><td>Marvell</td><td>Synopsys</td></tr><tr><td>Main Engine</td><td>Data Center silicon, custom XPU</td><td>EDA software, IP, Ansys physics</td></tr><tr><td>Non-GAAP Op Margin</td><td>36.6%</td><td>41.6%</td></tr><tr><td>YoY Revenue Growth</td><td>36.55%</td><td>42.37%</td></tr></table><h2>Where the Two Businesses Actually Collide</h2><p>Marvell explicitly flags the risk that customers develop their own solutions or vertically integrate. Synopsys is the shovel seller enabling that path. Ghazi described a “Factory 2” model of licensing plus royalties, where hyperscalers get customized IP to build differentiated in-house silicon. He put it bluntly: “These chips will not happen without our interface IP.”</p><p>Marvell counters with portfolio breadth. Murphy argued “Point solutions at this juncture, we believe, are not going to get it done.” Marvell is stacking 800G and 1.6T optics, 51.2T scale-out switches, Celestial AI photonics, and XPU-attached silicon into an end-to-end offer that any single Synopsys IP block cannot replicate on its own.</p><h2>What I Am Watching Through 2027</h2><p>For Marvell, the tell is custom revenue in fiscal 2029, which Murphy indicated could push beyond the previously cited $10 billion plus figure once the Google programs ramp. Investor Day on October 6, 2026 should reset those numbers. For Synopsys, I want to see Multiphysics Fusion actually contribute to EDA growth in 2027 and Factory 2 deals close with named hyperscalers. Sentiment has already diverged sharply: MRVL is up 143.33% year to date, while SNPS is down 11.44%.</p><h2>Why I Lean Toward Marvell for Now</h2><p>I find Marvell’s setup more compelling despite the Synopsys overhang. The Google warrant is a rare signal of customer commitment. If a hyperscaler is willing to take equity exposure, that reads like a partner planning to stay. Synopsys still fits a different investor. If you want software-like margins near 41.6%, a $10.9 billion backlog, and a stock that has already reset, SNPS looks like a patient compounder. I would rethink my Marvell view if custom bookings soften at Investor Day or if hyperscalers accelerate their own designs faster than the roadmap suggests.</p><p>Contact [email protected] for any questions or corrections.</p></body>\n</html>",
+      "word_count": 596,
+      "char_count": 3749,
+      "lead_image": "https://247wallst.com/wp-content/uploads/2024/10/shutterstock-2514379153-huge-licensed-scaled.jpg",
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2024/10/shutterstock-2514379153-huge-licensed-scaled.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-03T19:36:57Z"
+    },
+    {
+      "id": "bbc2e63b4fb70d06",
+      "title": "UM-Flint's Institute for Society and Technology finds local gig workers want stronger pay and benefits protections",
+      "header": "UM-Flint NOW",
+      "published_at": "2026-09-03T13:13:19Z",
+      "published_raw": "Thu, 03 Sep 2026 13:13:19 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaVN1MTVuOFVoczRtdGxhdlY1dWxIcU9fdGVrbk90NUFYNE5SdEk3N2lNalltYTNERWlHb0o4d3BLQjQ2UUZNRXVBNURaZWh2WFpud0pkdFJwWWVtTWNmUE0zcUF2dzBGLVlyS2MxN3BKRVl6emtoSlo0MGR4NmcxTEktcmFxT1RDSUtwVlRPT1UwRXZQUU5vQ0ltMkVrcE5MVWtkN1RvYzU0TlhkOTFTOHp1X1FoU0VtVGRXbFRVNWNzUF9VSUJvb2YxdjJVVC0tdEJRZ1E3eW9MM2tYNWtz?oc=5",
+      "description": "UM-Flint's Institute for Society and Technology finds local gig workers want stronger pay and benefits protections UM-Flint NOW",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaVN1MTVuOFVoczRtdGxhdlY1dWxIcU9fdGVrbk90NUFYNE5SdEk3N2lNalltYTNERWlHb0o4d3BLQjQ2UUZNRXVBNURaZWh2WFpud0pkdFJwWWVtTWNmUE0zcUF2dzBGLVlyS2MxN3BKRVl6emtoSlo0MGR4NmcxTEktcmFxT1RDSUtwVlRPT1UwRXZQUU5vQ0ltMkVrcE5MVWtkN1RvYzU0TlhkOTFTOHp1X1FoU0VtVGRXbFRVNWNzUF9VSUJvb2YxdjJVVC0tdEJRZ1E3eW9MM2tYNWtz?oc=5\" target=\"_blank\">UM-Flint's Institute for Society and Technology finds local gig workers want stronger pay and benefits protections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UM-Flint NOW</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaVN1MTVuOFVoczRtdGxhdlY1dWxIcU9fdGVrbk90NUFYNE5SdEk3N2lNalltYTNERWlHb0o4d3BLQjQ2UUZNRXVBNURaZWh2WFpud0pkdFJwWWVtTWNmUE0zcUF2dzBGLVlyS2MxN3BKRVl6emtoSlo0MGR4NmcxTEktcmFxT1RDSUtwVlRPT1UwRXZQUU5vQ0ltMkVrcE5MVWtkN1RvYzU0TlhkOTFTOHp1X1FoU0VtVGRXbFRVNWNzUF9VSUJvb2YxdjJVVC0tdEJRZ1E3eW9MM2tYNWtz?oc=5"
+      ],
+      "scraped_at": "2026-09-03T19:36:54Z",
+      "url": "https://news.umflint.edu/2026/09/03/um-flints-institute-for-technology-society-finds-local-gig-workers-want-stronger-pay-and-benefits-protections/",
+      "final_url": "https://news.umflint.edu/2026/09/03/um-flints-institute-for-technology-society-finds-local-gig-workers-want-stronger-pay-and-benefits-protections/",
+      "source": "UM-Flint NOW",
+      "article_title": "",
+      "heading": "UM-Flint's Institute for Society and Technology finds local gig workers want stronger pay and benefits protections",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "UM-Flint's Institute for Society and Technology finds local gig workers want stronger pay and benefits protections UM-Flint NOW",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-03T19:36:54Z"
     },
     {
       "id": "17c2b7fa956cf207",
@@ -544,6 +992,83 @@
       "first_seen_at": "2026-09-03T16:53:39Z"
     },
     {
+      "id": "c1f670c36b271d9f",
+      "title": "Roper Technologies to present at Citi Technology Conference",
+      "header": "GlobeNewswire",
+      "published_at": "2026-09-03T12:30:00Z",
+      "published_raw": "Thu, 03 Sep 2026 12:30:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbnVWSVZHMlJ1dC1saXZMR2ZkajFZMVdJdXNteHZCdzd4bmI4OTJGSVZKbVN0bVlhbFRCaHZ6X3Z4X0RjSjZvM0g3UEZBY0tiVVlrdmVQOU1SMUx5TUc0SlBBUHIxcDA0N1J2VEM1U1dmb3AzNEFhOER2SjN5SDZFSnJacFgyeHg5SkQ1ZmkyNUxRemhyWXFCZW1Cc0J0bVdFdXdpelRHM3cydzhVYVR6Q1J5emo5Z0UxLTJ5akVWRW9pZjVuWVZnZE00dw?oc=5",
+      "description": "Roper Technologies to present at Citi Technology Conference GlobeNewswire",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPbnVWSVZHMlJ1dC1saXZMR2ZkajFZMVdJdXNteHZCdzd4bmI4OTJGSVZKbVN0bVlhbFRCaHZ6X3Z4X0RjSjZvM0g3UEZBY0tiVVlrdmVQOU1SMUx5TUc0SlBBUHIxcDA0N1J2VEM1U1dmb3AzNEFhOER2SjN5SDZFSnJacFgyeHg5SkQ1ZmkyNUxRemhyWXFCZW1Cc0J0bVdFdXdpelRHM3cydzhVYVR6Q1J5emo5Z0UxLTJ5akVWRW9pZjVuWVZnZE00dw?oc=5\" target=\"_blank\">Roper Technologies to present at Citi Technology Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbnVWSVZHMlJ1dC1saXZMR2ZkajFZMVdJdXNteHZCdzd4bmI4OTJGSVZKbVN0bVlhbFRCaHZ6X3Z4X0RjSjZvM0g3UEZBY0tiVVlrdmVQOU1SMUx5TUc0SlBBUHIxcDA0N1J2VEM1U1dmb3AzNEFhOER2SjN5SDZFSnJacFgyeHg5SkQ1ZmkyNUxRemhyWXFCZW1Cc0J0bVdFdXdpelRHM3cydzhVYVR6Q1J5emo5Z0UxLTJ5akVWRW9pZjVuWVZnZE00dw?oc=5"
+      ],
+      "scraped_at": "2026-09-03T19:36:56Z",
+      "url": "https://www.globenewswire.com/news-release/2026/09/03/3355923/0/en/roper-technologies-to-present-at-citi-technology-conference.html",
+      "final_url": "https://www.globenewswire.com/news-release/2026/09/03/3355923/0/en/roper-technologies-to-present-at-citi-technology-conference.html",
+      "source": "GlobeNewswire",
+      "article_title": "",
+      "heading": "Roper Technologies to present at Citi Technology Conference",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Roper Technologies to present at Citi Technology Conference GlobeNewswire",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-03T19:36:56Z"
+    },
+    {
+      "id": "4d95b2585c7c5321",
+      "title": "City Sets Date to Convene Resident Assembly on Surveillance Technology",
+      "header": "thecrimson.com",
+      "published_at": "2026-09-03T12:00:15Z",
+      "published_raw": "Thu, 03 Sep 2026 12:00:15 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GRi1xc1pPd2V4SjhhWEs3ZnVIbE5GallrOHo0Q2lEcWtjQXp4LVVUSEw2VVJxcURKbG1XRURGdFVFR3h2YWFMaTNHSW9fS0JHQzdYSm5NRXNkR3JzbVppTVIwZDRQQVZvZkxYaFpqY2J4Mnh0azFualV2bnphVXM?oc=5",
+      "description": "City Sets Date to Convene Resident Assembly on Surveillance Technology thecrimson.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1GRi1xc1pPd2V4SjhhWEs3ZnVIbE5GallrOHo0Q2lEcWtjQXp4LVVUSEw2VVJxcURKbG1XRURGdFVFR3h2YWFMaTNHSW9fS0JHQzdYSm5NRXNkR3JzbVppTVIwZDRQQVZvZkxYaFpqY2J4Mnh0azFualV2bnphVXM?oc=5\" target=\"_blank\">City Sets Date to Convene Resident Assembly on Surveillance Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecrimson.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GRi1xc1pPd2V4SjhhWEs3ZnVIbE5GallrOHo0Q2lEcWtjQXp4LVVUSEw2VVJxcURKbG1XRURGdFVFR3h2YWFMaTNHSW9fS0JHQzdYSm5NRXNkR3JzbVppTVIwZDRQQVZvZkxYaFpqY2J4Mnh0azFualV2bnphVXM?oc=5"
+      ],
+      "scraped_at": "2026-09-03T19:36:55Z",
+      "url": "https://www.thecrimson.com/article/2026/9/3/resident-assembly-shotspotter/",
+      "final_url": "https://www.thecrimson.com/article/2026/9/3/resident-assembly-shotspotter/",
+      "source": "thecrimson.com",
+      "article_title": "City Sets Date to Convene Resident Assembly on Surveillance Technology | The Harvard Crimson",
+      "heading": "City Sets Date to Convene Resident Assembly on Surveillance Technology",
+      "authors": [
+        "Shawn A. Boehmer",
+        "Claire A. Michal"
+      ],
+      "article_published_at": "2026-09-03T12:00:15.976564+00:00",
+      "article_modified_at": null,
+      "summary": "Nearly a third of Cambridge households will be invited to join a resident assembly to weigh in on surveillance technology in the city next week, according to a Wednesday announcement from the city.",
+      "content": "City Sets Date to Convene Resident Assembly on Surveillance Technology\nNearly a third of Cambridge households will be invited to join a resident assembly to weigh in on surveillance technology in the city next week, according to a Wednesday announcement from the city.\nThe city is slated to send 15,000 invitations next week to randomly selected households across Cambridge to solicit interest in joining the assembly. By Oct. 10, the city will formally select the 40-person panel, while ensuring the body reflects the city demographically, reflecting a variety of “lived experiences related to the assembly focus.”\nResidents chosen will meet four times between Oct. 24 and Dec. 5, joined by “independent experts,” to discuss the city’s surveillance technology and prepare recommendations for the Council on its existing technologies — like ShotSpotter, the gunshot detection system, and “the future of public safety.” Each participant will be paid a $1,000 stipend, with accommodations for childcare and interpretation.\nThe assembly comes in response to the Council’s back-and-forth on allowing the Cambridge Police Department to use ShotSpotter, which uses a network of acoustic sensors to detect and notify police of potential gunfire. The Council voted to remove ShotSpotter in May, citing concerns over data privacy and the technology’s effectiveness. But it was temporarily reinstated in August, a month after the fatal shooting of 32-year-old Cambridge Public Works employee Xavier Bautista.\nResidents criticized the Council’s decision making for failing to represent public opinion as ShotSpotter went live again. And as the city weighs a permanent reinstallation, officials have also been tasked with bringing more residents into policy decisions beyond their two existing channels — public comment and individual meetings with constituents.\nCity Councilor Timothy R. Flaherty, who co-sponsored the order to establish the assembly, said the group “could be fruitful,” but said he would prefer more city-held meetings in neighborhoods that “are most impacted by urban violence.”\nStill, Flaherty applauded the city’s commitment to ensuring the body holds a diverse perspective of experiences, and said that making recommendations on surveillance technology use “requires an intimate understanding” of the impact of violence in the city.\nGet The Crimson in your inbox.\nBut City Councilor Catherine “Cathie” Zusy, who supported the August order, said the resident assembly still wasn’t a sufficient solution.\n“The Council/the City should have engaged proactively in public outreach, especially to the communities most impacted by violence, before the votes,” Zusy wrote. “Creating a Citizens Assembly will be a lot of work and will just kick the hard decision about ShotSpotter down the road.”\nCity Manager Yi-An Huang ’05 defended the city’s plan to bolster engagement in the Wednesday announcement, writing that having a representative resident body was “a practical way to bring diverse voices together to learn, discuss, and advise on complex issues.”\n“Having members representative of our community set the direction for technologies that have generated widespread discussion is very compelling to the City,” Huang wrote.\nThe city contracted an outside nonprofit, FIDE North America, to design and implement the panel. The group has helped design, advise, or evaluate similar citizen assemblies in Richmond, Va., Boulder, Colo., Dayton and Akron, Ohio, and Victoria, British Columbia.\n—Staff writer Shawn A. Boehmer can be reached at [email protected] and on Signal at shawnb.18. Follow him on X @ShawnBoehmer.\n—Staff writer Claire A. Michal can be reached at [email protected] and on Signal at ClaireMichal.154.\nWant to keep up with breaking news? Subscribe to our email newsletter\nHave a tip for The Crimson? Share it confidentially",
+      "content_html": "<html>\n  <body><h1>City Sets Date to Convene Resident Assembly on Surveillance Technology</h1><img src=\"https://thumbnails.thecrimson.com/photos/2025/10/21/012807_1381354.jpg.1500x1000_q95_crop-smart_upscale.jpg\" alt=\"Cambridge City Hall is located at 795 Massachusetts Ave. The city will invite 15,000 randomly selected households to apply for a 40-person resident assembly on surveillance technology.\"/> <p>Nearly a third of Cambridge households will be invited to join a resident assembly to weigh in on surveillance technology in the city next week, according to a Wednesday announcement from the city.</p><p>The city is slated to send 15,000 invitations next week to randomly selected households across Cambridge to solicit interest in joining the assembly. By Oct. 10, the city will formally select the 40-person panel, while ensuring the body reflects the city demographically, reflecting a variety of “lived experiences related to the assembly focus.”</p><p>Residents chosen will meet four times between Oct. 24 and Dec. 5, joined by “independent experts,” to discuss the city’s surveillance technology and prepare recommendations for the Council on its existing technologies — like ShotSpotter, the gunshot detection system, and “the future of public safety.” Each participant will be paid a $1,000 stipend, with accommodations for childcare and interpretation.</p><p>The assembly comes in response to the Council’s back-and-forth on allowing the Cambridge Police Department to use ShotSpotter, which uses a network of acoustic sensors to detect and notify police of potential gunfire. The Council voted to remove ShotSpotter in May, citing concerns over data privacy and the technology’s effectiveness. But it was temporarily reinstated in August, a month after the fatal shooting of 32-year-old Cambridge Public Works employee Xavier Bautista.</p><p>Residents criticized the Council’s decision making for failing to represent public opinion as ShotSpotter went live again. And as the city weighs a permanent reinstallation, officials have also been tasked with bringing more residents into policy decisions beyond their two existing channels — public comment and individual meetings with constituents.</p><p>City Councilor Timothy R. Flaherty, who co-sponsored the order to establish the assembly, said the group “could be fruitful,” but said he would prefer more city-held meetings in neighborhoods that “are most impacted by urban violence.”</p><p>Still, Flaherty applauded the city’s commitment to ensuring the body holds a diverse perspective of experiences, and said that making recommendations on surveillance technology use “requires an intimate understanding” of the impact of violence in the city.</p><h2>Get The Crimson in your inbox.</h2><p>But City Councilor Catherine “Cathie” Zusy, who supported the August order, said the resident assembly still wasn’t a sufficient solution.</p><p>“The Council/the City should have engaged proactively in public outreach, especially to the communities most impacted by violence, before the votes,” Zusy wrote. “Creating a Citizens Assembly will be a lot of work and will just kick the hard decision about ShotSpotter down the road.”</p><p>City Manager Yi-An Huang ’05 defended the city’s plan to bolster engagement in the Wednesday announcement, writing that having a representative resident body was “a practical way to bring diverse voices together to learn, discuss, and advise on complex issues.”</p><p>“Having members representative of our community set the direction for technologies that have generated widespread discussion is very compelling to the City,” Huang wrote.</p><p>The city contracted an outside nonprofit, FIDE North America, to design and implement the panel. The group has helped design, advise, or evaluate similar citizen assemblies in Richmond, Va., Boulder, Colo., Dayton and Akron, Ohio, and Victoria, British Columbia.</p><p>—Staff writer Shawn A. Boehmer can be reached at [email protected] and on Signal at shawnb.18. Follow him on X @ShawnBoehmer.</p><p>—Staff writer Claire A. Michal can be reached at [email protected] and on Signal at ClaireMichal.154.</p><p>Want to keep up with breaking news? Subscribe to our email newsletter</p><p>Have a tip for The Crimson? Share it confidentially</p></body>\n</html>",
+      "word_count": 581,
+      "char_count": 3844,
+      "lead_image": "https://thumbnails.thecrimson.com/photos/2025/10/21/012807_1381354.jpg.1500x1000_q95_crop-smart_upscale.jpg",
+      "images": [
+        {
+          "url": "https://thumbnails.thecrimson.com/photos/2025/10/21/012807_1381354.jpg.1500x1000_q95_crop-smart_upscale.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-03T19:36:55Z"
+    },
+    {
       "id": "d8863cb2e794acc9",
       "title": "Through Children's Eyes",
       "header": "UNICEF",
@@ -661,26 +1186,26 @@
     },
     {
       "id": "0950bfaa1ecfa4e4",
-      "title": "How IMSA Labs aims to drive sports car technology forward - RACER",
-      "header": "RACER - Racing News",
+      "title": "How IMSA Labs aims to drive sports car technology forward",
+      "header": "racer.com",
       "published_at": "2026-09-03T11:47:00Z",
       "published_raw": "Thu, 03 Sep 2026 11:47:00 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGhuOUx0blZpMG1RZExORXBrdVUyUVVLR01iSC1hM05pc3FZNEdsSnJROHhmUkxJZWdJczlDdUdvYXo5anlxVTJVX1FOR3JyTHM4SFY4TUQzNEJNVjdPUTlLZjRqdGFJT081ZUZIWGc0RUVhMTJ0THNmNDQ0SmNucU1YYTA3ZllYMG5B?oc=5",
-      "description": "How IMSA Labs aims to drive sports car technology forward RACER - Racing News",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGhuOUx0blZpMG1RZExORXBrdVUyUVVLR01iSC1hM05pc3FZNEdsSnJROHhmUkxJZWdJczlDdUdvYXo5anlxVTJVX1FOR3JyTHM4SFY4TUQzNEJNVjdPUTlLZjRqdGFJT081ZUZIWGc0RUVhMTJ0THNmNDQ0SmNucU1YYTA3ZllYMG5B?oc=5\" target=\"_blank\">How IMSA Labs aims to drive sports car technology forward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RACER - Racing News</font>",
+      "description": "How IMSA Labs aims to drive sports car technology forward racer.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGhuOUx0blZpMG1RZExORXBrdVUyUVVLR01iSC1hM05pc3FZNEdsSnJROHhmUkxJZWdJczlDdUdvYXo5anlxVTJVX1FOR3JyTHM4SFY4TUQzNEJNVjdPUTlLZjRqdGFJT081ZUZIWGc0RUVhMTJ0THNmNDQ0SmNucU1YYTA3ZllYMG5B?oc=5\" target=\"_blank\">How IMSA Labs aims to drive sports car technology forward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">racer.com</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGhuOUx0blZpMG1RZExORXBrdVUyUVVLR01iSC1hM05pc3FZNEdsSnJROHhmUkxJZWdJczlDdUdvYXo5anlxVTJVX1FOR3JyTHM4SFY4TUQzNEJNVjdPUTlLZjRqdGFJT081ZUZIWGc0RUVhMTJ0THNmNDQ0SmNucU1YYTA3ZllYMG5B?oc=5"
       ],
-      "scraped_at": "2026-09-03T16:53:34Z",
+      "scraped_at": "2026-09-03T19:36:53Z",
       "url": "https://racer.com/2026/09/03/how-imsa-labs-is-driving-sports-car-technology-forward",
       "final_url": "https://racer.com/2026/09/03/how-imsa-labs-is-driving-sports-car-technology-forward",
-      "source": "RACER - Racing News",
+      "source": "racer.com",
       "article_title": "",
-      "heading": "How IMSA Labs aims to drive sports car technology forward - RACER",
+      "heading": "How IMSA Labs aims to drive sports car technology forward",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
-      "summary": "How IMSA Labs aims to drive sports car technology forward RACER - Racing News",
+      "summary": "How IMSA Labs aims to drive sports car technology forward racer.com",
       "content": "",
       "content_html": "",
       "word_count": 0,
@@ -692,6 +1217,102 @@
       "status": "partial",
       "error": "download_failed",
       "first_seen_at": "2026-09-03T16:53:34Z"
+    },
+    {
+      "id": "3fbf091db2893120",
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "header": "MIT Technology Review",
+      "published_at": "2026-09-03T09:30:32Z",
+      "published_raw": "Thu, 03 Sep 2026 09:30:32 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm9nZWEwQmhJSWdKTWVFMEZiTkhkSnBpckdTRmwzYjFoMFVYRldMVFhiQkkxVFYzR25mSkhlVmZ2cGlpbjNMWmltMS0zc1ZzVTJVVlVPd0dpbzdLa1JMNlJzMmN2YjY0aEYwd3Z2UzA4SkdVOU9PWm9lYzJ6SDU2eTExOTlvWGhINlo0OHhTdy1ocnY1dElRX3MxaW12c3djb2fSAacBQVVfeXFMUHlyUGpUUllxWXZXZC1HTnJ0ZDVzWkhoR1NTQURpZFlxWVc3aUpvUWRuRm5seHAwWTM3eklWRW9nMDh5b1hhTFQzVWI3dVQ4V2h6YkhYTExzYXFPUV8tMi1GX010WXdDQWowbDMtRTZfVXVTSXNIa1U1Q0JUZEphOWhBTGFGRG9QaVFsTkJ5T3k3a3V4R1hlc2E1U1FkdmNJYS1lMm5fUlE?oc=5",
+      "description": "Scaling agentic AI pilots across the enterprise MIT Technology Review",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm9nZWEwQmhJSWdKTWVFMEZiTkhkSnBpckdTRmwzYjFoMFVYRldMVFhiQkkxVFYzR25mSkhlVmZ2cGlpbjNMWmltMS0zc1ZzVTJVVlVPd0dpbzdLa1JMNlJzMmN2YjY0aEYwd3Z2UzA4SkdVOU9PWm9lYzJ6SDU2eTExOTlvWGhINlo0OHhTdy1ocnY1dElRX3MxaW12c3djb2fSAacBQVVfeXFMUHlyUGpUUllxWXZXZC1HTnJ0ZDVzWkhoR1NTQURpZFlxWVc3aUpvUWRuRm5seHAwWTM3eklWRW9nMDh5b1hhTFQzVWI3dVQ4V2h6YkhYTExzYXFPUV8tMi1GX010WXdDQWowbDMtRTZfVXVTSXNIa1U1Q0JUZEphOWhBTGFGRG9QaVFsTkJ5T3k3a3V4R1hlc2E1U1FkdmNJYS1lMm5fUlE?oc=5\" target=\"_blank\">Scaling agentic AI pilots across the enterprise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm9nZWEwQmhJSWdKTWVFMEZiTkhkSnBpckdTRmwzYjFoMFVYRldMVFhiQkkxVFYzR25mSkhlVmZ2cGlpbjNMWmltMS0zc1ZzVTJVVlVPd0dpbzdLa1JMNlJzMmN2YjY0aEYwd3Z2UzA4SkdVOU9PWm9lYzJ6SDU2eTExOTlvWGhINlo0OHhTdy1ocnY1dElRX3MxaW12c3djb2fSAacBQVVfeXFMUHlyUGpUUllxWXZXZC1HTnJ0ZDVzWkhoR1NTQURpZFlxWVc3aUpvUWRuRm5seHAwWTM3eklWRW9nMDh5b1hhTFQzVWI3dVQ4V2h6YkhYTExzYXFPUV8tMi1GX010WXdDQWowbDMtRTZfVXVTSXNIa1U1Q0JUZEphOWhBTGFGRG9QaVFsTkJ5T3k3a3V4R1hlc2E1U1FkdmNJYS1lMm5fUlE?oc=5"
+      ],
+      "scraped_at": "2026-09-03T19:36:57Z",
+      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "final_url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "source": "MIT Technology Review",
+      "article_title": "Scaling agentic AI pilots across the enterprise",
+      "heading": "Scaling agentic AI pilots across the enterprise",
+      "authors": [
+        "MIT Technology Review Insights"
+      ],
+      "article_published_at": "2026-09-03T05:30:32-04:00",
+      "article_modified_at": "2026-09-03T05:30:33-04:00",
+      "summary": "As agentic AI moves from pilots to enterprise-wide deployment, orchestration, data, governance, and clear business objectives are becoming critical for scaling, says chief operating officer at NiCE Arun Chandra.",
+      "content": "Sponsored\nScaling agentic AI pilots across the enterprise\nAs agentic AI moves from pilots to enterprise-wide deployment, orchestration, data, governance, and clear business objectives are becoming critical for scaling, says chief operating officer at NiCE Arun Chandra.\nIn partnership withNiCE\nAs agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains uneven, with many organizations still working through isolated pilots.\nFor Arun Chandra, chief operating officer at NiCE, the first step is moving beyond experimentation for its own sake. “Everybody's trying to figure out what can we do with this technology?” he says. But scaling requires a clearer connection to business strategy: Organizations need to define whether they are trying to increase revenue, reduce costs, or pursue another strategic or financial objective. From there, they need to rethink the workflows where agents will operate instead of just layering AI onto existing processes. “The last thing you want to do is to apply AI on an outdated or an inefficient workflow,” Chandra says.\nThat shift requires organizations to treat agentic AI as a cohesive system. Agents need access to the data, knowledge, and context required to make effective decisions, as well as connections to back-end systems if they are expected to take action. Fragmented information can undermine those capabilities: “The efficacy of these AI agents is purely a function of the context, the knowledge, and the data they can ingest and use,” Chandra says.\nThe organizational implications are equally noteworthy. Scaling agents can create a new form of fragmentation if teams build isolated systems that don’t connect with one another, while governance, privacy, security, and change management become more important as agents take on more consequential work. Chandra argues that AI agents should ultimately be held to the same standards as human workers, with organizations thinking of their workforce as a combination of humans and AI agents.\nLooking ahead, that connected approach could enable agents to work proactively and even communicate with other agents to resolve customer needs. For organizations making the transition from pilots to scale, the priority is not to “boil the ocean,” Chandra says, but to instead build a connected strategy around high-value use cases, workflows, workforce changes, and measurable outcomes.\nThis webcast is produced in partnership with NiCE.\nThis content was produced by Insights, MIT Technology Review’s custom content arm, not its editorial staff. It was researched and written by humans, with any AI tools that may have been used limited to production processes under human oversight.\nKeep Reading\nMost Popular\nA fundamental flaw leaves LLMs strikingly vulnerable to attack\nIt makes it easy to trick them into doing things they shouldn’t, such as telling you how to sabotage an aircraft’s navigation system.\nAnthropic found a hidden space where Claude puzzles over concepts\nA new technique has let the company probe deeper than ever into the weird workings of an LLM.\nSperm donors need limits, says a European fertility group\nSome donor-conceived people are finding hundreds of siblings. An international cap on donations could help prevent that.\nAI is more likely than humans to form biases when hiring\nAI doesn’t just learn stereotypes from its training. It can cook up new ones, too.\nStay connected\nGet the latest updates from\nMIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
+      "content_html": "<html>\n  <body>\n    <p>Sponsored</p>\n    <h1>Scaling agentic AI pilots across the enterprise</h1>\n    <p>As agentic AI moves from pilots to enterprise-wide deployment, orchestration, data, governance, and clear business objectives are becoming critical for scaling, says chief operating officer at NiCE Arun Chandra.</p>\n    <p>In partnership withNiCE</p>\n    <p>As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains uneven, with many organizations still working through isolated pilots.</p>\n    <img src=\"https://wp.technologyreview.com/wp-content/uploads/2026/08/MITTRI-NiCE-social-card.png?w=840\"/>\n    <p>For Arun Chandra, chief operating officer at NiCE, the first step is moving beyond experimentation for its own sake. “Everybody's trying to figure out what can we do with this technology?” he says. But scaling requires a clearer connection to business strategy: Organizations need to define whether they are trying to increase revenue, reduce costs, or pursue another strategic or financial objective. From there, they need to rethink the workflows where agents will operate instead of just layering AI onto existing processes. “The last thing you want to do is to apply AI on an outdated or an inefficient workflow,” Chandra says.</p>\n    <p>That shift requires organizations to treat agentic AI as a cohesive system. Agents need access to the data, knowledge, and context required to make effective decisions, as well as connections to back-end systems if they are expected to take action. Fragmented information can undermine those capabilities: “The efficacy of these AI agents is purely a function of the context, the knowledge, and the data they can ingest and use,” Chandra says.</p>\n    <p>The organizational implications are equally noteworthy. Scaling agents can create a new form of fragmentation if teams build isolated systems that don’t connect with one another, while governance, privacy, security, and change management become more important as agents take on more consequential work. Chandra argues that AI agents should ultimately be held to the same standards as human workers, with organizations thinking of their workforce as a combination of humans and AI agents.</p>\n    <p>Looking ahead, that connected approach could enable agents to work proactively and even communicate with other agents to resolve customer needs. For organizations making the transition from pilots to scale, the priority is not to “boil the ocean,” Chandra says, but to instead build a connected strategy around high-value use cases, workflows, workforce changes, and measurable outcomes.</p>\n    <p>This webcast is produced in partnership with NiCE.</p>\n    <p>This content was produced by Insights, MIT Technology Review’s custom content arm, not its editorial staff. It was researched and written by humans, with any AI tools that may have been used limited to production processes under human oversight.</p>\n    <h3>Keep Reading</h3>\n    <h3>Most Popular</h3>\n    <h3>A fundamental flaw leaves LLMs strikingly vulnerable to attack</h3>\n    <p>It makes it easy to trick them into doing things they shouldn’t, such as telling you how to sabotage an aircraft’s navigation system.</p>\n    <h3>Anthropic found a hidden space where Claude puzzles over concepts</h3>\n    <p>A new technique has let the company probe deeper than ever into the weird workings of an LLM.</p>\n    <h3>Sperm donors need limits, says a European fertility group</h3>\n    <p>Some donor-conceived people are finding hundreds of siblings. An international cap on donations could help prevent that.</p>\n    <h3>AI is more likely than humans to form biases when hiring</h3>\n    <p>AI doesn’t just learn stereotypes from its training. It can cook up new ones, too.</p>\n    <h3>Stay connected</h3>\n    <h2>Get the latest updates from<br/>MIT Technology Review</h2>\n    <p>Discover special offers, top stories, upcoming events, and more.</p>\n  </body>\n</html>",
+      "word_count": 589,
+      "char_count": 3796,
+      "lead_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MITTRI-NiCE-social-card.png?resize=1200,600",
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MITTRI-NiCE-social-card.png?resize=1200,600",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-03T19:36:57Z"
+    },
+    {
+      "id": "1fcd1decef83c7e8",
+      "title": "Micron Technology Stock Has Stumbled, but Here's Why I'm Not Buying the Dip",
+      "header": "Yahoo Finance",
+      "published_at": "2026-09-03T09:20:00Z",
+      "published_raw": "Thu, 03 Sep 2026 09:20:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZVI2dktUUkJBSTBlSkRxdEpQb0swWmx4T1dQXzJsOVAyUEt6TmhTNWs4SjdhamlQN24tMUxpSFg5LWc4Vm45alNnc19CdWtIZFhYYlpnNjJzb2l2ZkdqYnpUUFJaUmowcGR0U3ZQSTE5SHZ1VnY0NnNDeEY0ZVBISk5TUzVwb0NLcjJVNWVtSmRVbHNFYjdIc1VyRDBGdEpneDBrX0FR?oc=5",
+      "description": "Micron Technology Stock Has Stumbled, but Here's Why I'm Not Buying the Dip Yahoo Finance",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPZVI2dktUUkJBSTBlSkRxdEpQb0swWmx4T1dQXzJsOVAyUEt6TmhTNWs4SjdhamlQN24tMUxpSFg5LWc4Vm45alNnc19CdWtIZFhYYlpnNjJzb2l2ZkdqYnpUUFJaUmowcGR0U3ZQSTE5SHZ1VnY0NnNDeEY0ZVBISk5TUzVwb0NLcjJVNWVtSmRVbHNFYjdIc1VyRDBGdEpneDBrX0FR?oc=5\" target=\"_blank\">Micron Technology Stock Has Stumbled, but Here's Why I'm Not Buying the Dip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZVI2dktUUkJBSTBlSkRxdEpQb0swWmx4T1dQXzJsOVAyUEt6TmhTNWs4SjdhamlQN24tMUxpSFg5LWc4Vm45alNnc19CdWtIZFhYYlpnNjJzb2l2ZkdqYnpUUFJaUmowcGR0U3ZQSTE5SHZ1VnY0NnNDeEY0ZVBISk5TUzVwb0NLcjJVNWVtSmRVbHNFYjdIc1VyRDBGdEpneDBrX0FR?oc=5"
+      ],
+      "scraped_at": "2026-09-03T19:36:54Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-stock-stumbled-heres-092000054.html",
+      "final_url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-stock-stumbled-heres-092000054.html",
+      "source": "Yahoo Finance",
+      "article_title": "Micron Technology Stock Has Stumbled, but Here's Why I'm Not Buying the Dip",
+      "heading": "Yahoo Finance",
+      "authors": [
+        "Anthony Di Pizio, The Motley Fool"
+      ],
+      "article_published_at": "2026-09-03T09:20:00Z",
+      "article_modified_at": "2026-09-03T09:20:00Z",
+      "summary": "The artificial intelligence infrastructure spending boom has run into some turbulence.",
+      "content": "- MU -0.75%\n\n- NVDA +2.14%\n\nMicron Technology (NASDAQ: MU) stock closed at $958.73 on Monday, Aug. 31, which was 21% below its June all-time high. But just to keep things in perspective, the stock is still sitting on an eye-popping one-year gain of 680%.\n\nMicron supplies some of the world's best high-bandwidth memory (HBM) for data centers, a critical component in the artificial intelligence (AI) hardware stack. Demand is currently through the roof and supply remains tight, giving the company an unprecedented ability to dictate prices.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nHowever, the supply-demand imbalance could resolve during the next year or two, potentially hurting Micron's financial performance. Therefore, although its stock is trading at a very attractive valuation, it isn't a straightforward buy right now. Here's why I'm steering clear despite the recent dip.\n\nWhy Micron stock is pulling back\n\nAccording to Nvidia , the five largest hyperscale companies (which includes the likes of Microsoft and Amazon ), will spend nearly $800 billion combined on AI data center infrastructure during 2026, with a substantial chunk of that money going toward chips and components. Nvidia says that spending figure could top $1.3 trillion in 2027.\n\nThose companies have to earn a return on all of that spending; otherwise, it won't make economic sense. Some of them will make money by renting computing capacity to other businesses for a fee, whereas others will charge for the use of their AI models and software applications. But making money isn't easy with hardware costs surging; a recent report by Bloomberg suggests Nvidia has informed customers of a 15% price increase, partly because of rising HBM prices.\n\nTo recoup some of the climbing costs, companies like Microsoft and Anthropic recently implemented passive price increases for the use of their AI models and software, which has forced some organizations to rethink their spending. Uber Technologies , Walmart , AT&T , and Amazon are just some of the companies that have implemented AI usage caps on their employees to prevent budget blowouts.\n\nAccording to a recent survey by UBS Group , about 60% of businesses are now routing tasks to cheaper, more efficient AI models to help reduce usage costs. These models typically consume less computing power, which might be bad news for semiconductor demand.\n\nTo make matters worse, lawmakers in more than a dozen U.S. states have introduced legislation to temporarily ban the construction of new data centers while they weigh the social, economic, and environmental impacts. This will be a problem for many planned infrastructure projects, and the effects could flow through to Micron and other chip makers in the form of lower sales.\n\nMicron's revenue continues to skyrocket\n\nThe aforementioned AI headwinds haven't shown up in Micron's financial results. The company generated a record $41.4 billion in total revenue during its fiscal 2026 third quarter (ended May 28), a staggering 346% increase from the year-ago period. All four segments of its business produced triple-digit percentage growth, thanks to AI-related memory demand for data centers, computers, smartphones, and even cars.\n\nThe supply-demand imbalance in the memory market is giving Micron an unprecedented ability to dictate prices, which is a big reason for its rapid revenue growth. That is also boosting the company's profit margins, which is why its third-quarter earnings soared by an eye-popping 1,368% to $24.67 per share.\n\nManagement's forecast points to another set of blockbuster results in the fourth quarter, which just ended on Aug. 31. The company is expected to have $50 billion in sales and earnings of $30.73 per share. The final numbers will be revealed at the end of September.\n\nWhy I'm not buying Micron stock on the dip\n\nMicron stock looks like an absolute bargain right now. Based on the company's trailing 12-month earnings of $44.23 per share, its stock is trading at a price-to-earnings (P/E) ratio of just 21, making it cheaper than both the S&P 500 and Nasdaq-100 indexes, which have P/E ratios of 24.5 and 34.3, respectively.\n\nPlus, if Micron's earnings rise to $155.03 per share in fiscal 2027 like Wall Street expects (according to Yahoo! Finance), then its stock has an even more attractive forward P/E ratio of just 6.\n\nWhy would a company growing at Micron's pace be trading at a discount to the broader market? Simply put, I think Wall Street knows the company's earnings will eventually crash back down to Earth. If a slowdown in demand doesn't cause it, then an increase in supply might, because every memory company is racing to build more manufacturing capacity right now. During the next few years, higher supply levels will erode Micron's ability to dictate prices, so the company probably won't be able to maintain its current level of earnings.\n\nAs a result, if we look a few years into the future, Micron stock might be more expensive than it currently appears. That's why I don't plan to buy the recent dip.\n\nShould you buy stock in Micron Technology right now?\n\nBefore you buy stock in Micron Technology, consider this:\n\nThe Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Micron Technology wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.\n\nConsider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $435,803 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,334,577 !*\n\nNow, it's worth noting Stock Advisor's total average return is 966% — a market-crushing outperformance compared to 211% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors.\n\nSee the 10 stocks »\n\n*Stock Advisor returns as of September 3, 2026.\n\nAnthony Di Pizio has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Amazon, Micron Technology, Microsoft, Nvidia, and Walmart. The Motley Fool recommends Uber Technologies. The Motley Fool has a disclosure policy .\n\nMicron Technology Stock Has Stumbled, but Here's Why I'm Not Buying the Dip was originally published by The Motley Fool",
+      "content_html": "<article class=\"article-wrap no-bb yf-1qcy35b\" data-testid=\"article-content-wrapper\"> <div class=\"cover-wrap yf-1wlntij\"> <div class=\"top-header yf-1wlntij\"> <a aria-label=\"Motley Fool\" class=\"subtle-link fin-size-small yf-119g04z\" data-yga='{\"yLinkElement\":\"logo\",\"yLinkElementType\":\"link\",\"yTrafficOrigin\":\"logo-provider default\",\"yModuleName\":\"logo-provider\",\"yLinkText\":\"Motley Fool\"}' data-ylk=\"elm:logo;elmt:link;itc:0;source:logo-provider%20default;sec:logo-provider;slk:Motley%20Fool\" href=\"http://www.fool.com/\" rel=\"nofollow\" title=\"Motley Fool\"><img alt=\"Motley Fool\" class=\"provider-logo\" fetchpriority=\"auto\" height=\"24\" loading=\"lazy\" src=\"https://s.yimg.com/lo/mysterio/api/ecf053599bde0389a9fdbd6366aeb28634f34079b3cbef04cc2f7a3f97418f1e/lightyear_networkapi/resizefill_h48%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F515f50a0-0f30-11eb-9ebf-0273aacc9ef0\" width=\"91\"/> </a> </div> <div class=\"cover-headline yf-1wlntij\"><h1 class=\"cover-title yf-1wlntij\">Micron Technology Stock Has Stumbled, but Here's Why I'm Not Buying the Dip</h1> <label class=\"type-ui-xxl-reg yf-gjjls9\" data-testid=\"typography\"> </label></div></div> <div class=\"cover-wrap yf-1wlntij\"><section class=\"tw-mb-8 tw-rounded-md tw-overflow-hidden yf-182xluv\" data-testid=\"video-player\"><div class=\"loader yf-182xluv\"><div class=\"tw-flex yf-usnhox\" data-testid=\"\"> </div></div> </section></div> <div class=\"byline yf-z1ictt\"><div class=\"byline-attr yf-z1ictt\"> <div><div class=\"byline-attr-author yf-z1ictt\">  Anthony Di Pizio, The Motley Fool </div> <div class=\"byline-attr-time-style\"> <time class=\"byline-attr-meta-time\" data-timestamp=\"2026-09-03T09:20:00+00:00\" datetime=\"2026-09-03T09:20:00+00:00\">Thu, September 3, 2026 at 4:20 AM CDT</time> <span class=\"byline-attr-mins-read yf-1pgkgts\">6 min read</span></div></div></div>  </div> <section class=\"ticker-list yf-1s5gwqx\"><div class=\"carousel yf-1s5gwqx coinbase-cta\"><div class=\"carousel-wrapper yf-1s5gwqx\"> <div><div class=\"scroll-carousel yf-17re3t7\" data-testid=\"carousel-container\"><ul aria-label=\"Article stock tickers\" class=\"carousel-top yf-1s5gwqx\" role=\"list\"><li class=\"slide\"><div style=\"display: contents; --ticker-name-font-size:var(--font-m); --text-color:var(--text1); --ticker-change-font-weight:var(--font-normal); --ticker-hover2-box-shadow:0 4px 10px 0 rgba(0, 0, 0, .08); --ticker-hover2-border-color:var(--light-divider);\"><span class=\"ticker-wrapper yf-hzimq4 has-follow\"><a aria-label=\"MU\" class=\"ticker medium hover2 border has-follow streaming extraPadding yf-hzimq4\" data-testid=\"ticker-container\" data-yga='{\"yLinkElement\":\"qte\",\"yLinkElementType\":\"link\",\"yModuleName\":\"ticker-tag-module\",\"yLinkText\":\"MU\",\"yTrafficOrigin\":\"ticker-tag-module default\"}' data-ylk=\"elm:qte;elmt:link;itc:0;sec:ticker-tag-module;slk:MU;source:ticker-tag-module%20default\" href=\"/quote/MU/\" title=\"MU\"> <div class=\"name yf-hzimq4\"> <span class=\"symbol yf-hzimq4\">MU </span> </div> <fin-streamer active=\"\" class=\"percentChange yf-hzimq4\" data-field=\"regularMarketChangePercent\" data-pricehint=\"2\" data-symbol=\"MU\" data-trend=\"txt\" data-tstyle=\"default\"><span class=\"txt-negative yf-hzimq4\">-0.75%</span></fin-streamer> </a> <div class=\"follow yf-hzimq4 extraPadding\"><div data-testid=\"lazy-render\"></div> </div></span></div> </li><li class=\"slide\"><div style=\"display: contents; --ticker-name-font-size:var(--font-m); --text-color:var(--text1); --ticker-change-font-weight:var(--font-normal); --ticker-hover2-box-shadow:0 4px 10px 0 rgba(0, 0, 0, .08); --ticker-hover2-border-color:var(--light-divider);\"><span class=\"ticker-wrapper yf-hzimq4 has-follow\"><a aria-label=\"NVDA\" class=\"ticker medium hover2 border has-follow streaming extraPadding yf-hzimq4\" data-testid=\"ticker-container\" data-yga='{\"yLinkElement\":\"qte\",\"yLinkElementType\":\"link\",\"yModuleName\":\"ticker-tag-module\",\"yLinkText\":\"NVDA\",\"yTrafficOrigin\":\"ticker-tag-module default\"}' data-ylk=\"elm:qte;elmt:link;itc:0;sec:ticker-tag-module;slk:NVDA;source:ticker-tag-module%20default\" href=\"/quote/NVDA/\" title=\"NVDA\"> <div class=\"name yf-hzimq4\"> <span class=\"symbol yf-hzimq4\">NVDA </span> </div> <fin-streamer active=\"\" class=\"percentChange yf-hzimq4\" data-field=\"regularMarketChangePercent\" data-pricehint=\"2\" data-symbol=\"NVDA\" data-trend=\"txt\" data-tstyle=\"default\"><span class=\"txt-positive yf-hzimq4\">+2.14%</span></fin-streamer> </a> <div class=\"follow yf-hzimq4 extraPadding\"><div data-testid=\"lazy-render\"></div> </div></span></div> </li></ul></div> </div> </div> </div> </section> <div class=\"body-wrap yf-1qcy35b\"> <div class=\"body yf-v6n2s3\" data-testid=\"article-body\"> <div class=\"bodyItems-wrapper\"> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START --><strong>Micron Technology</strong> (NASDAQ: MU) stock closed at $958.73 on Monday, Aug. 31, which was 21% below its June all-time high. But just to keep things in perspective, the stock is still sitting on an eye-popping one-year gain of 680%.<!-- HTML_TAG_END --> </p> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->Micron supplies some of the world's best high-bandwidth memory (HBM) for data centers, a critical component in the artificial intelligence (AI) hardware stack. Demand is currently through the roof and supply remains tight, giving the company an unprecedented ability to dictate prices.<!-- HTML_TAG_END --> </p> <div class=\"wrapper yf-2smqn1\" data-testid=\"inarticle-ad\"> <div class=\"sdaContainer dv-all sda-INARTICLE-0cd53f8c-f5b5-3783-9b41-c80615384d86-1 yf-d5hqm1 overflow margin visible placeholder\" data-ad-loc=\"mid_center\" data-ad-region=\"main-dynamic\" data-ad-size=\"970x250,728x90,970x90,300x250,fluid\" data-ad-unit=\"/22888152279/us/yfin/ros/dt/us_yfin_ros_dt_mid_center\" data-testid=\"ad-container\" id=\"sda-INARTICLE-0cd53f8c-f5b5-3783-9b41-c80615384d86-1\" style=\"--placeholder-height: 250px;\"> </div></div> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START --><strong><em>Missed Nvidia in 2009? This Rare Signal Is Flashing Again.</em></strong><em> In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. </em><a data-yga='{\"yLinkText\":\"Continue »\",\"yLinkElement\":\"context_link\",\"yModuleName\":\"content-canvas\",\"yTrafficOrigin\":\"content-canvas default\"}' data-ylk=\"slk:Continue%20%C2%BB;elm:context_link;itc:0;sec:content-canvas;source:content-canvas%20default\" href=\"https://api.fool.com/infotron/infotrack/click?apikey=35527423-a535-4519-a07f-20014582e03e&amp;impression=a1ef7f32-a07b-4615-91f2-d20228851f90&amp;url=https%3A%2F%2Fwww.fool.com%2Fmms%2Fmark%2Fa-sa-dd-total-conviction%3Faid%3D11123%26source%3Disaediica0000074%26ftm_cam%3Dsa-dd-4%26ftm_veh%3Dtop_incontent_pitch_feed_yahoo%26ftm_pit%3D19375&amp;utm_source=yahoo-host-full&amp;utm_medium=feed&amp;utm_campaign=article&amp;referring_guid=0cba09db-5575-4213-8acb-5a202e26e0b2\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><strong><em><u>Continue »</u></em></strong></a><!-- HTML_TAG_END --> </p> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->However, the supply-demand imbalance could resolve during the next year or two, potentially hurting Micron's financial performance. Therefore, although its stock is trading at a very attractive valuation, it isn't a straightforward buy right now. Here's why I'm steering clear despite the recent dip.<!-- HTML_TAG_END --> </p> <figure class=\"yf-750ceo\" data-testid=\"article-figure-image\"><div class=\"image-container yf-1f8hkhu loader\" style=\"--max-height: 640px;\"> <div class=\"image-wrapper yf-1f8hkhu\" style=\"--aspect-ratio: 960 / 640; --img-max-width: 960px;\"><a href=\"https://s.yimg.com/lo/mysterio/api/651526dab03c729e2d3dc8a933fca43268137ef72f1b8368bbd74bcf58cf186f/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F6d1af7ad0ac02e028a56a9eb8637e57d.png\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"The Micron logo on a blue translucent background.\" class=\"yf-1f8hkhu loader\" height=\"640\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==\" width=\"960\"/></a></div></div> <figcaption class=\"yf-750ceo\"><!-- HTML_TAG_START -->Image source: The Motley Fool.<!-- HTML_TAG_END --> </figcaption> </figure> <h2 class=\"text text-block heading text-left neo-font-heading-lg yf-18d6y07\" role=\"heading\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->Why Micron stock is pulling back<!-- HTML_TAG_END --> </h2> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->According to <strong>Nvidia</strong>, the five largest hyperscale companies (which includes the likes of <strong>Microsoft</strong> and <strong>Amazon</strong>), will spend nearly $800 billion combined on AI data center infrastructure during 2026, with a substantial chunk of that money going toward chips and components. Nvidia says that spending figure could top $1.3 trillion in 2027.<!-- HTML_TAG_END --> </p> <div class=\"wrapper yf-2smqn1\" data-testid=\"inarticle-ad\"> <div class=\"sdaContainer dv-all sda-INARTICLE-0cd53f8c-f5b5-3783-9b41-c80615384d86-2 yf-d5hqm1 overflow margin visible placeholder\" data-ad-loc=\"mid_center_2\" data-ad-region=\"main-dynamic\" data-ad-size=\"970x250,728x90,970x90,300x250\" data-ad-unit=\"/22888152279/us/yfin/ros/dt/us_yfin_ros_dt_mid_center\" data-testid=\"ad-container\" id=\"sda-INARTICLE-0cd53f8c-f5b5-3783-9b41-c80615384d86-2\" style=\"--placeholder-height: 250px;\"> </div></div> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->Those companies have to earn a return on all of that spending; otherwise, it won't make economic sense. Some of them will make money by <a data-yga='{\"yLinkText\":\"renting computing capacity\",\"yLinkElement\":\"context_link\",\"yModuleName\":\"content-canvas\",\"yTrafficOrigin\":\"content-canvas default\"}' data-ylk=\"slk:renting%20computing%20capacity;elm:context_link;itc:0;sec:content-canvas;source:content-canvas%20default\" href=\"https://www.fool.com/investing/stock-market/market-sectors/information-technology/cloud-stocks/?utm_source=yahoo-host-full&amp;utm_medium=feed&amp;utm_campaign=article&amp;referring_guid=0cba09db-5575-4213-8acb-5a202e26e0b2\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">renting computing capacity</a> to other businesses for a fee, whereas others will charge for the use of their AI models and software applications. But making money isn't easy with hardware costs surging; a recent report by Bloomberg suggests Nvidia has informed customers of a 15% price increase, partly because of rising HBM prices.<!-- HTML_TAG_END --> </p> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->To recoup some of the climbing costs, companies like Microsoft and <a data-yga='{\"yLinkText\":\"Anthropic\",\"yLinkElement\":\"context_link\",\"yModuleName\":\"content-canvas\",\"yTrafficOrigin\":\"content-canvas default\"}' data-ylk=\"slk:Anthropic;elm:context_link;itc:0;sec:content-canvas;source:content-canvas%20default\" href=\"https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-anthropic-stock/?utm_source=yahoo-host-full&amp;utm_medium=feed&amp;utm_campaign=article&amp;referring_guid=0cba09db-5575-4213-8acb-5a202e26e0b2\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Anthropic</a> recently implemented passive price increases for the use of their AI models and software, which has forced some organizations to rethink their spending. <strong>Uber Technologies</strong>, <strong>Walmart</strong>, <strong>AT&amp;T</strong>, and Amazon are just some of the companies that have implemented AI usage caps on their employees to prevent budget blowouts.<!-- HTML_TAG_END --> </p> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->According to a recent survey by <strong>UBS Group</strong>, about 60% of businesses are now routing tasks to cheaper, more efficient AI models to help reduce usage costs. These models typically consume less computing power, which might be bad news for semiconductor demand.<!-- HTML_TAG_END --> </p> </div> <div class=\"readmore yf-11souuj\">  </div> <div class=\"read-more-wrapper\" data-testid=\"read-more\" style=\"display: none\"> <div class=\"wrapper yf-2smqn1\" data-testid=\"inarticle-ad\"> <div class=\"sdaContainer dv-all sda-INARTICLE-0cd53f8c-f5b5-3783-9b41-c80615384d86-3 yf-d5hqm1 overflow margin visible placeholder\" data-ad-loc=\"mid_center_3\" data-ad-region=\"main-dynamic\" data-ad-size=\"970x250,728x90,970x90,300x250\" data-ad-unit=\"/22888152279/us/yfin/ros/dt/us_yfin_ros_dt_mid_center\" data-testid=\"ad-container\" id=\"sda-INARTICLE-0cd53f8c-f5b5-3783-9b41-c80615384d86-3\" style=\"--placeholder-height: 250px;\"> </div></div> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->To make matters worse, lawmakers in more than a dozen U.S. states have introduced legislation to temporarily ban the construction of new data centers while they weigh the social, economic, and environmental impacts. This will be a problem for many planned infrastructure projects, and the effects could flow through to Micron and other chip makers in the form of lower sales.<!-- HTML_TAG_END --> </p> <h2 class=\"text text-block heading text-left neo-font-heading-lg yf-18d6y07\" role=\"heading\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->Micron's revenue continues to skyrocket<!-- HTML_TAG_END --> </h2> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->The aforementioned AI headwinds haven't shown up in Micron's financial results. The company generated a record $41.4 billion in total revenue during its fiscal 2026 third quarter (ended May 28), a staggering 346% increase from the year-ago period. All four segments of its business produced triple-digit percentage growth, thanks to AI-related memory demand for data centers, computers, smartphones, and even cars.<!-- HTML_TAG_END --> </p> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->The supply-demand imbalance in the memory market is giving Micron an unprecedented ability to dictate prices, which is a big reason for its rapid revenue growth. That is also boosting the company's profit margins, which is why its third-quarter earnings soared by an eye-popping 1,368% to $24.67 per share.<!-- HTML_TAG_END --> </p> <div class=\"wrapper yf-2smqn1\" data-testid=\"inarticle-ad\"> <div class=\"sdaContainer dv-all sda-INARTICLE-0cd53f8c-f5b5-3783-9b41-c80615384d86-4 yf-d5hqm1 overflow margin visible placeholder\" data-ad-loc=\"mid_center_4\" data-ad-region=\"main-dynamic\" data-ad-size=\"970x250,728x90,970x90,300x250\" data-ad-unit=\"/22888152279/us/yfin/ros/dt/us_yfin_ros_dt_mid_center\" data-testid=\"ad-container\" id=\"sda-INARTICLE-0cd53f8c-f5b5-3783-9b41-c80615384d86-4\" style=\"--placeholder-height: 250px;\"> </div></div> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->Management's forecast points to another set of blockbuster results in the fourth quarter, which just ended on Aug. 31. The company is expected to have $50 billion in sales and earnings of $30.73 per share. The final numbers will be revealed at the end of September.<!-- HTML_TAG_END --> </p> <h2 class=\"text text-block heading text-left neo-font-heading-lg yf-18d6y07\" role=\"heading\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->Why I'm not buying Micron stock on the dip<!-- HTML_TAG_END --> </h2> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->Micron stock looks like an absolute bargain right now. Based on the company's trailing 12-month earnings of $44.23 per share, its stock is trading at a price-to-earnings (P/E) ratio of just 21, making it cheaper than both the <strong>S&amp;P 500</strong> and <strong>Nasdaq-100</strong> indexes, which have P/E ratios of 24.5 and 34.3, respectively.<!-- HTML_TAG_END --> </p> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->Plus, if Micron's earnings rise to $155.03 per share in fiscal 2027 like Wall Street expects (according to Yahoo! Finance), then its stock has an even more attractive forward P/E ratio of just 6.<!-- HTML_TAG_END --> </p> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->Why would a company growing at Micron's pace be trading at a <em>discount</em> to the broader market? Simply put, I think Wall Street knows the company's earnings will eventually crash back down to Earth. If a slowdown in demand doesn't cause it, then an increase in supply might, because every memory company is racing to build more manufacturing capacity right now. During the next few years, higher supply levels will erode Micron's ability to dictate prices, so the company probably won't be able to maintain its current level of earnings.<!-- HTML_TAG_END --> </p> <div class=\"wrapper yf-2smqn1\" data-testid=\"inarticle-ad\"> <div class=\"sdaContainer dv-all sda-INARTICLE-0cd53f8c-f5b5-3783-9b41-c80615384d86-5 yf-d5hqm1 overflow margin visible placeholder\" data-ad-loc=\"mid_center_5\" data-ad-region=\"main-dynamic\" data-ad-size=\"970x250,728x90,970x90,300x250\" data-ad-unit=\"/22888152279/us/yfin/ros/dt/us_yfin_ros_dt_mid_center\" data-testid=\"ad-container\" id=\"sda-INARTICLE-0cd53f8c-f5b5-3783-9b41-c80615384d86-5\" style=\"--placeholder-height: 250px;\"> </div></div> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->As a result, if we look a few years into the future, Micron stock might be more expensive than it currently appears. That's why I don't plan to buy the recent dip.<!-- HTML_TAG_END --> </p> <h2 class=\"text text-block heading text-left neo-font-heading-lg yf-18d6y07\" role=\"heading\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->Should you buy stock in Micron Technology right now?<!-- HTML_TAG_END --> </h2> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->Before you buy stock in Micron Technology, consider this:<!-- HTML_TAG_END --> </p> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->The <em>Motley Fool Stock Advisor</em> analyst team just identified what they believe are the <a data-yga='{\"yLinkText\":\"10 best stocks\",\"yLinkElement\":\"context_link\",\"yModuleName\":\"content-canvas\",\"yTrafficOrigin\":\"content-canvas default\"}' data-ylk=\"slk:10%20best%20stocks;elm:context_link;itc:0;sec:content-canvas;source:content-canvas%20default\" href=\"https://api.fool.com/infotron/infotrack/click?apikey=35527423-a535-4519-a07f-20014582e03e&amp;impression=674426eb-c736-4e25-98a7-4694be210d1d&amp;url=https%3A%2F%2Fwww.fool.com%2Fmms%2Fmark%2Fe-sa-bbn-bn%3Faid%3D8867%26source%3Disaeditxt0001181%26ftm_cam%3Dsa-bbn-evergreen%26ftm_veh%3Darticle_pitch_feed_yahoo%26ftm_pit%3D18781&amp;utm_source=yahoo-host-full&amp;utm_medium=feed&amp;utm_campaign=article&amp;referring_guid=0cba09db-5575-4213-8acb-5a202e26e0b2\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><strong>10 best stocks</strong></a> for investors to buy now… and Micron Technology wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.<!-- HTML_TAG_END --> </p> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->Consider when <strong>Netflix</strong> made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, <strong>you'd have $435,803</strong>!* Or when <strong>Nvidia</strong> made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, <strong>you'd have $1,334,577</strong>!*<!-- HTML_TAG_END --> </p> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->Now, it's worth noting <em>Stock Advisor's</em> total average return is 966% — a market-crushing outperformance compared to 211% for the S&amp;P 500. Don't miss the latest top 10 list, available with <em>Stock Advisor</em>, and join an investing community built by individual investors for individual investors.<!-- HTML_TAG_END --> </p> <div class=\"wrapper yf-2smqn1\" data-testid=\"inarticle-ad\"> <div class=\"sdaContainer dv-all sda-INARTICLE-0cd53f8c-f5b5-3783-9b41-c80615384d86-6 yf-d5hqm1 overflow margin visible placeholder\" data-ad-loc=\"mid_center_6\" data-ad-region=\"main-dynamic\" data-ad-size=\"970x250,728x90,970x90,300x250\" data-ad-unit=\"/22888152279/us/yfin/ros/dt/us_yfin_ros_dt_mid_center\" data-testid=\"ad-container\" id=\"sda-INARTICLE-0cd53f8c-f5b5-3783-9b41-c80615384d86-6\" style=\"--placeholder-height: 250px;\"> </div></div> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START --><a class=\"ticker_pitch\" data-yga='{\"yLinkText\":\"See the 10 stocks »\",\"yLinkElement\":\"context_link\",\"yModuleName\":\"content-canvas\",\"yTrafficOrigin\":\"content-canvas default\"}' data-ylk=\"slk:See%20the%2010%20stocks%20%C2%BB;elm:context_link;itc:0;sec:content-canvas;source:content-canvas%20default\" href=\"https://api.fool.com/infotron/infotrack/click?apikey=35527423-a535-4519-a07f-20014582e03e&amp;impression=674426eb-c736-4e25-98a7-4694be210d1d&amp;url=https%3A%2F%2Fwww.fool.com%2Fmms%2Fmark%2Fe-sa-bbn-bn%3Faid%3D8867%26source%3Disaeditxt0001181%26ftm_cam%3Dsa-bbn-evergreen%26ftm_pit%3D18781%26ftm_veh%3Darticle_pitch_feed_yahoo%26company%3DMicron%2520Technology&amp;utm_source=yahoo-host-full&amp;utm_medium=feed&amp;utm_campaign=article&amp;referring_guid=0cba09db-5575-4213-8acb-5a202e26e0b2\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><strong>See the 10 stocks »</strong></a><!-- HTML_TAG_END --> </p> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START --><em>*Stock Advisor returns as of September 3, 2026.</em><!-- HTML_TAG_END --> </p> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START --><a data-yga='{\"yLinkText\":\"Anthony Di Pizio\",\"yLinkElement\":\"context_link\",\"yModuleName\":\"content-canvas\",\"yTrafficOrigin\":\"content-canvas default\"}' data-ylk=\"slk:Anthony%20Di%20Pizio;elm:context_link;itc:0;sec:content-canvas;source:content-canvas%20default\" href=\"https://www.fool.com/author/20380/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><em>Anthony Di Pizio</em></a><em> has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Amazon, Micron Technology, Microsoft, Nvidia, and Walmart. The Motley Fool recommends Uber Technologies. The Motley Fool has a </em><a data-yga='{\"yLinkText\":\"disclosure policy\",\"yLinkElement\":\"context_link\",\"yModuleName\":\"content-canvas\",\"yTrafficOrigin\":\"content-canvas default\"}' data-ylk=\"slk:disclosure%20policy;elm:context_link;itc:0;sec:content-canvas;source:content-canvas%20default\" href=\"https://www.fool.com/legal/fool-disclosure-policy/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><em>disclosure policy</em></a><em>.</em><!-- HTML_TAG_END --> </p> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START --><a data-yga=\"{&quot;yLinkText&quot;:&quot;Micron Technology Stock Has Stumbled, but Here's Why I'm Not Buying the Dip&quot;,&quot;yLinkElement&quot;:&quot;context_link&quot;,&quot;yModuleName&quot;:&quot;content-canvas&quot;,&quot;yTrafficOrigin&quot;:&quot;content-canvas default&quot;}\" data-ylk=\"slk:Micron%20Technology%20Stock%20Has%20Stumbled%2C%20but%20Here's%20Why%20I'm%20Not%20Buying%20the%20Dip;elm:context_link;itc:0;sec:content-canvas;source:content-canvas%20default\" href=\"https://www.fool.com/investing/2026/09/03/micron-technology-stock-plummeting-not-buying-dip/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Micron Technology Stock Has Stumbled, but Here's Why I'm Not Buying the Dip</a> was originally published by The Motley Fool<!-- HTML_TAG_END --> </p>  </div> <div class=\"view-cmts yf-16ut6xk\" data-testid=\"view-comments\" id=\"view-cmts-0cd53f8c-f5b5-3783-9b41-c80615384d86\"> </div> </div></div> <span class=\"article-footer yf-127tkty\"><section class=\"privacy-container yf-1oqrg4r inline\" style=\"--privacy-link-font-weight: var(--font-normal); --privacy-link-color: inherit;\"> <div class=\"terms-and-privacy small yf-1oqrg4r column\"><a class=\"subtle-link fin-size-small privacy-link-terms-link yf-119g04z\" data-yga='{\"yLinkElement\":\"corp\",\"yLinkElementType\":\"link\",\"yTrafficOrigin\":\"article footer\",\"yModuleName\":\"article\",\"ySubModuleName\":\"footer\"}' data-ylk=\"elm:corp;elmt:link;itc:0;source:article%20footer;sec:article;subsec:footer\" href=\"https://guce.yahoo.com/terms?locale=en-US\">Terms   </a> and <a class=\"subtle-link fin-size-small privacy-link-privacy-link yf-119g04z\" data-yga='{\"yLinkElement\":\"corp\",\"yLinkElementType\":\"link\",\"yTrafficOrigin\":\"article footer\",\"yModuleName\":\"article\",\"ySubModuleName\":\"footer\"}' data-ylk=\"elm:corp;elmt:link;itc:0;source:article%20footer;sec:article;subsec:footer\" href=\"https://guce.yahoo.com/privacy-policy?locale=en-US\">Privacy Policy   </a> </div> <div class=\"link-groups yf-1oqrg4r column\"><a class=\"subtle-link fin-size-small privacy-link-dashboard noUnderline yf-119g04z\" data-yga='{\"yLinkElement\":\"corp\",\"yLinkElementType\":\"link\",\"yTrafficOrigin\":\"article footer\",\"yModuleName\":\"article\",\"ySubModuleName\":\"footer\"}' data-ylk=\"elm:corp;elmt:link;itc:0;source:article%20footer;sec:article;subsec:footer\" href=\"https://guce.yahoo.com/privacy-dashboard?locale=en-US\">Privacy Dashboard    </a> </div> <div class=\"link-groups yf-1oqrg4r column\"> <a class=\"more-info\" data-svelte-h=\"svelte-rdl0fd\" href=\"/more-info\">More Info</a></div> </section> </span> </article>",
+      "word_count": 1090,
+      "char_count": 6660,
+      "lead_image": "https://s.yimg.com/lo/mysterio/api/7367a90020ecda5122c21c86032764566033669841392fbfc4dd1e9c31ab5d7f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F6d1af7ad0ac02e028a56a9eb8637e57d.png",
+      "images": [
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/7367a90020ecda5122c21c86032764566033669841392fbfc4dd1e9c31ab5d7f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F6d1af7ad0ac02e028a56a9eb8637e57d.png",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://media.zenfs.com/en/motleyfool.com/6d1af7ad0ac02e028a56a9eb8637e57d.png",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/ecf053599bde0389a9fdbd6366aeb28634f34079b3cbef04cc2f7a3f97418f1e/lightyear_networkapi/resizefill_h48%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F515f50a0-0f30-11eb-9ebf-0273aacc9ef0",
+          "alt": "Motley Fool",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 3,
+      "extractor": "bs4",
+      "status": "ok",
+      "first_seen_at": "2026-09-03T19:36:54Z"
     },
     {
       "id": "04776b91fc9b307a",
@@ -896,6 +1517,46 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-03T16:53:39Z"
+    },
+    {
+      "id": "8c0541a585a88f9d",
+      "title": "With education technology, engagement is not the same as learning",
+      "header": "American Psychological Association (APA)",
+      "published_at": "2026-09-03T07:37:52Z",
+      "published_raw": "Thu, 03 Sep 2026 07:37:52 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0hwZXhKZURyanRqeHMwWUo3ZS1qSUtvMGltSmdoak43MGZaRXBqZHVuQjhnZEJfb2w0RVdvUGN3RzRfRklkSC1BWU5mZkZWV0FlbzNkZ3lJTFpLYjFZcExTZFlSYUc3LTFNWUkyTkV2aVNMaUJJS3FuNnZJeFoxaHJ3OTZyZw?oc=5",
+      "description": "With education technology, engagement is not the same as learning American Psychological Association (APA)",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0hwZXhKZURyanRqeHMwWUo3ZS1qSUtvMGltSmdoak43MGZaRXBqZHVuQjhnZEJfb2w0RVdvUGN3RzRfRklkSC1BWU5mZkZWV0FlbzNkZ3lJTFpLYjFZcExTZFlSYUc3LTFNWUkyTkV2aVNMaUJJS3FuNnZJeFoxaHJ3OTZyZw?oc=5\" target=\"_blank\">With education technology, engagement is not the same as learning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Psychological Association (APA)</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0hwZXhKZURyanRqeHMwWUo3ZS1qSUtvMGltSmdoak43MGZaRXBqZHVuQjhnZEJfb2w0RVdvUGN3RzRfRklkSC1BWU5mZkZWV0FlbzNkZ3lJTFpLYjFZcExTZFlSYUc3LTFNWUkyTkV2aVNMaUJJS3FuNnZJeFoxaHJ3OTZyZw?oc=5"
+      ],
+      "scraped_at": "2026-09-03T19:36:54Z",
+      "url": "https://www.apa.org/news/press/releases/2026/09/education-technology-engagement",
+      "final_url": "https://www.apa.org/news/press/releases/2026/09/education-technology-engagement",
+      "source": "https://www.apa.org",
+      "article_title": "With education technology, engagement is not the same as learning",
+      "heading": "With education technology, engagement is not the same as learning",
+      "authors": [],
+      "article_published_at": "2026-09-03",
+      "article_modified_at": "2026-09-03",
+      "summary": "An APA report warns that educational technology and generative AI may boost student engagement and performance without fostering real learning, urging schools and families to prioritize evidence-based tools that build lasting knowledge and skills.",
+      "content": "Washington — A new report from the American Psychological Association warns that student engagement with educational technology is not the same as learning—and that generative artificial intelligence (AI) tools pose particular risks by improving students’ immediate performance without building their underlying knowledge or skills.\nThe APA Expert Report on Children’s and Adolescents’ Learning with Educational Technology argues that students’ ability to apply new knowledge outside of an app or screen is a much stronger indication of learning than how much time a child spends on a screen, and that parents and educators working with children and young people ages 5 to 18 should be wary of marketing claims that run ahead of scientific evidence.\nThe report stresses that even if a student is paying close attention to an app, such as by clicking frequently, responding to animations, or interacting with rewards, that engagement does not necessarily mean that the student is learning.\n“Educational technology has the potential to profoundly advance students’ learning and abilities, but parents, teachers, and school districts need tools that are safe, supported by evidence, and can genuinely help students learn,” said APA CEO Arthur C. Evans Jr., PhD. “These recommendations, based in psychological research, can help determine whether EdTech tools actually produce the learning outcomes they promise.”\nCompiled by a multidisciplinary panel of cognitive and educational psychologists, learning scientists, and EdTech experts, the report synthesizes evidence across a wide range of technologies, including educational apps, games, intelligent tutoring systems, generative AI tools, and digital learning platforms. It offers 10 evidence-based recommendations to help families, educators, policymakers, and developers ensure that technology promotes meaningful learning.\nDrawing on research from psychological science, the report recommends that schools, families, and developers prioritize tools that build durable knowledge and skills that students can carry into other contexts, instead of evaluating apps based on flashy features. Additional recommendations include making adult involvement a significant part of EdTech implementation and investing in research that can keep pace with rapid technological change.\nEducators should exercise particular caution when introducing generative AI tools into learning environments, said Nicole Barnes, PhD, APA’s executive lead psychologist for education.\n“AI can help a student produce a better essay, but the improved final product does not necessarily mean the student has become a better writer,” Barnes said. “Just as we need to separate engagement from learning, we will increasingly need to separate performance from learning.”\nRather than trying to prevent children and adolescents from using AI tools altogether, the report recommends teaching students to actively evaluate AI-generated responses. Students should learn to question chatbots’ assumptions and identify gaps in chatbots’ reasoning, compare responses against other sources and consider how answers might change under different circumstances. In this sense, students should approach AI less as an answer machine and more as something they are continuously testing, challenging, and learning from.\nThe report stresses that primary responsibility for ensuring that EdTech products are supported by evidence lies with the companies that develop them and the institutions that choose to adopt them. Developers should be prepared to demonstrate that their products improve learning, while schools and districts should expect credible, independent evidence before investing in educational technology.\nAPA also offers simple advice to parents: look and ask.\n- Spend a minute watching the app and pay attention to what is happening on the screen—if much of the experience involves dressing a character, selecting accessories, collecting rewards, or responding to flashing images, it is reasonable to question the app’s educational value.\n- Ask a teacher, principal, early childhood leader, or school board whether there is credible, independent evidence showing that the app leads to learning.",
+      "content_html": "<html>\n  <body>\n    <p>Washington — A new report from the American Psychological Association warns that student engagement with educational technology is not the same as learning—and that generative artificial intelligence (AI) tools pose particular risks by improving students’ immediate performance without building their underlying knowledge or skills.</p>\n    <p>The APA Expert Report on Children’s and Adolescents’ Learning with Educational Technology argues that students’ ability to apply new knowledge outside of an app or screen is a much stronger indication of learning than how much time a child spends on a screen, and that parents and educators working with children and young people ages 5 to 18 should be wary of marketing claims that run ahead of scientific evidence.</p>\n    <p>The report stresses that even if a student is paying close attention to an app, such as by clicking frequently, responding to animations, or interacting with rewards, that engagement does not necessarily mean that the student is learning.</p>\n    <p>“Educational technology has the potential to profoundly advance students’ learning and abilities, but parents, teachers, and school districts need tools that are safe, supported by evidence, and can genuinely help students learn,” said APA CEO Arthur C. Evans Jr., PhD. “These recommendations, based in psychological research, can help determine whether EdTech tools actually produce the learning outcomes they promise.”</p>\n    <p>Compiled by a multidisciplinary panel of cognitive and educational psychologists, learning scientists, and EdTech experts, the report synthesizes evidence across a wide range of technologies, including educational apps, games, intelligent tutoring systems, generative AI tools, and digital learning platforms. It offers 10 evidence-based recommendations to help families, educators, policymakers, and developers ensure that technology promotes meaningful learning.</p>\n    <p>Drawing on research from psychological science, the report recommends that schools, families, and developers prioritize tools that build durable knowledge and skills that students can carry into other contexts, instead of evaluating apps based on flashy features. Additional recommendations include making adult involvement a significant part of EdTech implementation and investing in research that can keep pace with rapid technological change.</p>\n    <p>Educators should exercise particular caution when introducing generative AI tools into learning environments, said Nicole Barnes, PhD, APA’s executive lead psychologist for education.</p>\n    <p>“AI can help a student produce a better essay, but the improved final product does not necessarily mean the student has become a better writer,” Barnes said. “Just as we need to separate engagement from learning, we will increasingly need to separate performance from learning.”</p>\n    <p>Rather than trying to prevent children and adolescents from using AI tools altogether, the report recommends teaching students to actively evaluate AI-generated responses. Students should learn to question chatbots’ assumptions and identify gaps in chatbots’ reasoning, compare responses against other sources and consider how answers might change under different circumstances. In this sense, students should approach AI less as an answer machine and more as something they are continuously testing, challenging, and learning from.</p>\n    <p>The report stresses that primary responsibility for ensuring that EdTech products are supported by evidence lies with the companies that develop them and the institutions that choose to adopt them. Developers should be prepared to demonstrate that their products improve learning, while schools and districts should expect credible, independent evidence before investing in educational technology.</p>\n    <p>APA also offers simple advice to parents: look and ask.</p>\n    <ul>\n      <li>Spend a minute watching the app and pay attention to what is happening on the screen—if much of the experience involves dressing a character, selecting accessories, collecting rewards, or responding to flashing images, it is reasonable to question the app’s educational value.</li>\n      <li>Ask a teacher, principal, early childhood leader, or school board whether there is credible, independent evidence showing that the app leads to learning.</li>\n    </ul>\n  </body>\n</html>",
+      "word_count": 603,
+      "char_count": 4205,
+      "lead_image": "https://www.apa.org/images/tile-teacher-children-tablets_tcm7-352079.jpg",
+      "images": [
+        {
+          "url": "https://www.apa.org/images/tile-teacher-children-tablets_tcm7-352079.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-03T19:36:54Z"
     },
     {
       "id": "2de95227a52027e4",
@@ -1315,7 +1976,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN0ZsSFQ2OC0yVnpDTTZmaEFraEJYSTBqNFBsdmFrR1g1VXU4ZzI5LVZxTWdyNXVYTHpGbEs0dEdaZkJhZU93eThmaHZ4cWpsUkNmRlhvZVB4UXVHUC02NlFFN3BwTkRnM0VROTBmTkhRQk9ibGpYXzg5akJYSFh6bmdLRl92OVpvdWl0WjU4OHB2aEpURW12OGtlaExkcTl1VnRuVzdGVWdEUE9PdkNQaWhod0VRTnFvN0dSVUl6MHpHbUtvekE?oc=5"
       ],
-      "scraped_at": "2026-09-03T16:53:37Z",
+      "scraped_at": "2026-09-03T19:36:53Z",
       "url": "https://spacenews.com/samara-aerospace-tests-reliability-of-attitude-control-technology-with-national-science-foundation-award/",
       "final_url": "https://spacenews.com/samara-aerospace-tests-reliability-of-attitude-control-technology-with-national-science-foundation-award/",
       "source": "SpaceNews",
@@ -4333,7 +4994,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMW5zeHZNenRzTXlJNlFrM214YXdnckdLay0tZE95cmI3RUJqWlRQOXBUdlhnTjdrWnhLcVhNNkRTRlBSRnVyLW00TGdlMzY1RTgwaEY4TVV4X2NESWdHSVNFcUY0NVhiM3RyOFV3a2FhRmNhSzFHVlpacmJsbDVhWmJQWmVBY1J3N0hsOUhPVk5McUpTZFJLYnlmaU1VQjI2QkRtNGN3b3F0enlMNG1ZUXpFR0JiVWswSEFR0gHPAUFVX3lxTE5fWlVaOFZnNHlvci1SdFE5bGc1X0R5eEFxdzE5QUVmMmhzQUktSVNYbmZJM0ExRFlLMDg1cXV6Yzd1azVDX1dPbkQ2U2lQNUZXLXM4MnBNbkxzbHZDdVltSS0wT0NFODBzX2VoQzhZU2xFbnVMVlFHS2N2MTJTd1BQMzhrZlFzUXFvN29rT0QtY0ZoRXBGY3BlcUVvQkVnbVBGN1lFeF9aeEVjWER1YldiUVk3YmQtTEYxcld5LUFmZ04wa3hvZ0poSXNseXJGYw?oc=5"
       ],
-      "scraped_at": "2026-09-03T07:42:52Z",
+      "scraped_at": "2026-09-03T19:36:53Z",
       "url": "https://www.oregonlive.com/business/2026/09/energy-technology-company-to-close-tualatin-facility-eliminate-87-jobs.html",
       "final_url": "https://www.oregonlive.com/business/2026/09/energy-technology-company-to-close-tualatin-facility-eliminate-87-jobs.html",
       "source": "OregonLive.com",
