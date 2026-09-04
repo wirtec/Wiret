@@ -1,17 +1,248 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-04T00:43:30Z",
-  "count": 369,
+  "generated_at": "2026-09-04T05:27:10Z",
+  "count": 375,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 12,
+    "scraped_now": 11,
     "added": 6,
-    "updated": 6,
-    "ok": 276,
+    "updated": 5,
+    "ok": 282,
     "failed": 93,
-    "duration_seconds": 100.89
+    "duration_seconds": 101.09
   },
   "articles": [
+    {
+      "id": "6e179e52d9f8a2cb",
+      "title": "Capitolis Appoints Manickam as Chief Technology Officer",
+      "header": "ABF Journal",
+      "published_at": "2026-09-04T04:47:31Z",
+      "published_raw": "Fri, 04 Sep 2026 04:47:31 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHAxcW1RNHhMWER1MVg2MVdDUXdzNGtEUWRmWHpOUGloT3dRV3RPQkN0UGlrcHBJSkFzRVoybGhsRXNUcUhUb1diU2hLMlFXSWpVc3FXZXYzc09ieWQyTHJBdjVfbklhNV9iZ044eVBVaVh4aVhsZnRtMFZWdG9ZTU9tRzlSaVZkWHhZ?oc=5",
+      "description": "Capitolis Appoints Manickam as Chief Technology Officer ABF Journal",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHAxcW1RNHhMWER1MVg2MVdDUXdzNGtEUWRmWHpOUGloT3dRV3RPQkN0UGlrcHBJSkFzRVoybGhsRXNUcUhUb1diU2hLMlFXSWpVc3FXZXYzc09ieWQyTHJBdjVfbklhNV9iZ044eVBVaVh4aVhsZnRtMFZWdG9ZTU9tRzlSaVZkWHhZ?oc=5\" target=\"_blank\">Capitolis Appoints Manickam as Chief Technology Officer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABF Journal</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHAxcW1RNHhMWER1MVg2MVdDUXdzNGtEUWRmWHpOUGloT3dRV3RPQkN0UGlrcHBJSkFzRVoybGhsRXNUcUhUb1diU2hLMlFXSWpVc3FXZXYzc09ieWQyTHJBdjVfbklhNV9iZ044eVBVaVh4aVhsZnRtMFZWdG9ZTU9tRzlSaVZkWHhZ?oc=5"
+      ],
+      "scraped_at": "2026-09-04T05:25:31Z",
+      "url": "https://www.abfjournal.com/capitolis-appoints-manickam-as-chief-technology-officer/",
+      "final_url": "https://www.abfjournal.com/capitolis-appoints-manickam-as-chief-technology-officer/",
+      "source": "ABF Journal",
+      "article_title": "Capitolis Appoints Manickam as Chief Technology Officer",
+      "heading": "Capitolis Appoints Manickam as Chief Technology Officer",
+      "authors": [
+        "Brianna Wilson"
+      ],
+      "article_published_at": "2026-09-04T00:47:31-04:00",
+      "article_modified_at": "2026-09-04T00:47:31-04:00",
+      "summary": "Capitolis, a financial technology company, appointed Murugan Manickam as chief technology officer (CTO). Reporting to Okan Pekin, president of Capitolis,",
+      "content": "Capitolis, a financial technology company, appointed Murugan Manickam as chief technology officer (CTO). Reporting to Okan Pekin, president of Capitolis, Manickam will be responsible for leading Capitolis’ global engineering organization and its data and AI strategy, driving innovation and execution to support the company’s continued growth. Amos Arev, head of engineering and general manager, Israel, will remain with Capitolis.\nManickam brings 28 years of technology leadership largely focused in financial services, with deep expertise across global markets and specializing in fixed income, currencies and commodities (FICC), trade management, post-trade platforms, regulatory technology and AI-driven development.\nManickam joins Capitolis from Bank of America, where he most recently served as managing director and global head of FICC Macro Trade Management & Emerging Markets Technology. During his 17-year tenure, he led large-scale transformation initiatives across FX, fixed income, credit, rates and emerging markets, modernized trading infrastructure, consolidated legacy platforms and advanced Distributed Ledger Technology (DLT) adoption and AI-driven development and automation. Earlier in his career, he held technology leadership roles at Merrill Lynch and General Reinsurance.\n“Murugan is an accomplished technology leader with deep capital markets expertise and a proven track record of driving transformation at scale,” Okan Pekin, president of Capitolis, said. “His experience and vision will be invaluable as we continue to innovate and expand our platform. We also want to thank Amos for the pivotal role he has played over the past seven years in building the engineering organization and technology strategy that underpin our business today. His vision, leadership and dedication have made a significant impact on Capitolis.”\nMurugan Manickam, CTO of Capitolis, added, “Capitolis is tackling complex challenges in financial markets with a combination of innovation, scale and industry expertise. It has been relentlessly optimizing capital solutions for major financial institutions. I’m excited to join the team and help advance the company’s technology platform to deliver innovative and AI-driven solutions that create even greater value for our clients and the broader financial ecosystem.”",
+      "content_html": "<html>\n  <body>\n    <p>Capitolis, a financial technology company, appointed Murugan Manickam as chief technology officer (CTO). Reporting to Okan Pekin, president of Capitolis, Manickam will be responsible for leading Capitolis’ global engineering organization and its data and AI strategy, driving innovation and execution to support the company’s continued growth. Amos Arev, head of engineering and general manager, Israel, will remain with Capitolis.</p>\n    <p>Manickam brings 28 years of technology leadership largely focused in financial services, with deep expertise across global markets and specializing in fixed income, currencies and commodities (FICC), trade management, post-trade platforms, regulatory technology and AI-driven development.</p>\n    <p>Manickam joins Capitolis from Bank of America, where he most recently served as managing director and global head of FICC Macro Trade Management &amp; Emerging Markets Technology. During his 17-year tenure, he led large-scale transformation initiatives across FX, fixed income, credit, rates and emerging markets, modernized trading infrastructure, consolidated legacy platforms and advanced Distributed Ledger Technology (DLT) adoption and AI-driven development and automation. Earlier in his career, he held technology leadership roles at Merrill Lynch and General Reinsurance.</p>\n    <p>“Murugan is an accomplished technology leader with deep capital markets expertise and a proven track record of driving transformation at scale,” Okan Pekin, president of Capitolis, said. “His experience and vision will be invaluable as we continue to innovate and expand our platform. We also want to thank Amos for the pivotal role he has played over the past seven years in building the engineering organization and technology strategy that underpin our business today. His vision, leadership and dedication have made a significant impact on Capitolis.”</p>\n    <p>Murugan Manickam, CTO of Capitolis, added, “Capitolis is tackling complex challenges in financial markets with a combination of innovation, scale and industry expertise. It has been relentlessly optimizing capital solutions for major financial institutions. I’m excited to join the team and help advance the company’s technology platform to deliver innovative and AI-driven solutions that create even greater value for our clients and the broader financial ecosystem.”</p>\n  </body>\n</html>",
+      "word_count": 325,
+      "char_count": 2321,
+      "lead_image": "https://www.abfjournal.com/wp-content/uploads/2025/01/glenn-carstens-peters-npxXWgQ33ZQ-unsplash-scaled.jpg",
+      "images": [
+        {
+          "url": "https://www.abfjournal.com/wp-content/uploads/2025/01/glenn-carstens-peters-npxXWgQ33ZQ-unsplash-scaled.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://www.abfjournal.com/wp-content/uploads/2025/01/glenn-carstens-peters-npxXWgQ33ZQ-unsplash-1024x681.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://www.abfjournal.com/wp-content/uploads/2025/05/abfj5.png",
+          "alt": "ABF Journal",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://www.abfjournal.com/wp-content/uploads/2024/09/abfj2.png",
+          "alt": "ABF Journal",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 4,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-04T05:25:31Z"
+    },
+    {
+      "id": "578f93eab37daf6a",
+      "title": "Plan A Technologies Acquires AI Assessment Technology To Expand Technical M&A Due Diligence",
+      "header": "Pulse 2.0",
+      "published_at": "2026-09-04T03:30:36Z",
+      "published_raw": "Fri, 04 Sep 2026 03:30:36 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNODBFZ3h3TnJ6dkpkZ2dfbnNabHVNSFJqdVRSMDZPaU5YUm1aNUJpT0V0cGlKZzBKSXNKT0w1YzkxcUtnM29HalM3QllNakNHZTFkRVdhV2MxNUFzNkhhNHljT0FDeHdLbDkzQmdxbTNYM3BlN0x2OHhOZFk4TG16Z0hDMnVEb0ZEZ01nZERSVTVrb1UzMzR2RjViZ0kyWTlZT3FqRUthUlFlVW5sV20w0gG0AUFVX3lxTE5Ub204V0Y5WTFlbklkazdWQTViME9udjlzdTNBZ3NnUmFXQmttRzVtbFhuREVJUFFLbXI4c2tBNzU5QTdGeUptdE10bUtQbkxnTkFHdUVOeFFwTTZUTy1tVEZvNWZKZndlSS1rMW1WWUg1dHN6ZGx0c0o2UmpxVVJUTWtIdXN1TjNTaHdrUnRuU0VnQkVTcGppdTZBRWZCVHdFZXNtcF8zYkViVHY5NkRLOEZoWA?oc=5",
+      "description": "Plan A Technologies Acquires AI Assessment Technology To Expand Technical M&A Due Diligence Pulse 2.0",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNODBFZ3h3TnJ6dkpkZ2dfbnNabHVNSFJqdVRSMDZPaU5YUm1aNUJpT0V0cGlKZzBKSXNKT0w1YzkxcUtnM29HalM3QllNakNHZTFkRVdhV2MxNUFzNkhhNHljT0FDeHdLbDkzQmdxbTNYM3BlN0x2OHhOZFk4TG16Z0hDMnVEb0ZEZ01nZERSVTVrb1UzMzR2RjViZ0kyWTlZT3FqRUthUlFlVW5sV20w0gG0AUFVX3lxTE5Ub204V0Y5WTFlbklkazdWQTViME9udjlzdTNBZ3NnUmFXQmttRzVtbFhuREVJUFFLbXI4c2tBNzU5QTdGeUptdE10bUtQbkxnTkFHdUVOeFFwTTZUTy1tVEZvNWZKZndlSS1rMW1WWUg1dHN6ZGx0c0o2UmpxVVJUTWtIdXN1TjNTaHdrUnRuU0VnQkVTcGppdTZBRWZCVHdFZXNtcF8zYkViVHY5NkRLOEZoWA?oc=5\" target=\"_blank\">Plan A Technologies Acquires AI Assessment Technology To Expand Technical M&A Due Diligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNODBFZ3h3TnJ6dkpkZ2dfbnNabHVNSFJqdVRSMDZPaU5YUm1aNUJpT0V0cGlKZzBKSXNKT0w1YzkxcUtnM29HalM3QllNakNHZTFkRVdhV2MxNUFzNkhhNHljT0FDeHdLbDkzQmdxbTNYM3BlN0x2OHhOZFk4TG16Z0hDMnVEb0ZEZ01nZERSVTVrb1UzMzR2RjViZ0kyWTlZT3FqRUthUlFlVW5sV20w0gG0AUFVX3lxTE5Ub204V0Y5WTFlbklkazdWQTViME9udjlzdTNBZ3NnUmFXQmttRzVtbFhuREVJUFFLbXI4c2tBNzU5QTdGeUptdE10bUtQbkxnTkFHdUVOeFFwTTZUTy1tVEZvNWZKZndlSS1rMW1WWUg1dHN6ZGx0c0o2UmpxVVJUTWtIdXN1TjNTaHdrUnRuU0VnQkVTcGppdTZBRWZCVHdFZXNtcF8zYkViVHY5NkRLOEZoWA?oc=5"
+      ],
+      "scraped_at": "2026-09-04T05:25:31Z",
+      "url": "https://pulse2.com/plan-a-technologies-acquires-ai-assessment-technology-to-expand-technical-ma-due-diligence/",
+      "final_url": "https://pulse2.com/plan-a-technologies-acquires-ai-assessment-technology-to-expand-technical-ma-due-diligence/",
+      "source": "Pulse 2.0",
+      "article_title": "Plan A Technologies Acquires AI Assessment Technology To Expand Technical M&A Due Diligence",
+      "heading": "Plan A Technologies Acquires AI Assessment Technology To Expand Technical M&A Due Diligence",
+      "authors": [
+        "Amit Chowdhry"
+      ],
+      "article_published_at": "2026-09-04T03:30:36+00:00",
+      "article_modified_at": null,
+      "summary": "Plan A Technologies has acquired a stealth AI assessment tool designed to strengthen its technical M&A due diligence capabilities.",
+      "content": "Plan A Technologies has acquired a stealth AI assessment tool designed to strengthen its technical M&A due diligence capabilities.\nPlan A, which provides AI and software engineering services and technology advisory capabilities, said the proprietary technology will help its teams analyze complex technology environments more quickly and identify risks, patterns and opportunities that traditional assessment tools may miss.\nThe company works with private equity firms, strategic acquirers, enterprises and private investors evaluating technology-intensive transactions.\nIts technical due diligence work assesses areas including the quality of underlying technology, scalability, integration complexity, modernization requirements, security risks and the level of investment that may be required after an acquisition closes.\nThe newly acquired technology adds an AI-powered analytical layer to Plan A’s existing approach, which includes expert interviews, manual code reviews, architecture analysis, documentation reviews and commercial code-scanning products.\nPlan A expects the technology to be particularly useful for evaluating large and fragmented technology ecosystems and identifying patterns or anomalies that conventional approaches may overlook.\nThe tool’s creator, Serhii Melnychuk, has joined Plan A Technologies as an architect and will lead its integration and future development.\nThe acquisition fits within a broader strategy of building and acquiring proprietary technology to augment Plan A’s engineers, architects, data specialists and technology advisors.\nBeyond M&A due diligence, Plan A develops custom software, proprietary AI agents and agentic systems, modernizes legacy applications, builds data platforms, manages cloud migrations and integrates enterprise systems.\nThe company has completed more than 500 product deployments worldwide.\nKEY QUOTES:\n“Good technical due diligence isn’t about producing a longer list of issues. It’s about distinguishing ordinary, fixable technical debt from something that can fundamentally change the cost or risk profile of a transaction. We help our clients to understand what is really happening underneath the surface of a technology platform and translate that into business implications. Technical due diligence has traditionally relied on expert interviews, manual code review, architecture analysis, documentation, and commercially available code scanning tools. Plan A will continue to use all of those approaches, but this new technology will help us analyze exceptionally large and fragmented technology ecosystems with greater speed and consistency while looking for patterns or anomalies that conventional approaches may miss. AI is not a substitute for senior technical judgment. The advantage comes from combining AI with people who have spent years building, scaling, fixing, integrating, and evaluating real production systems. That combination allows us to ask better questions and give our clients a more complete picture of what they’re actually buying.”\nSlav Kulik, Co-Founder of Plan A Technologies\n“I wanted to build something that could help experts do their job more effectively and connect signals scattered across different systems. It’s incredibly exciting to see how Plan A integrated my tool into its broader approach and is bringing it to clients around the world.”\nSerhii Melnychuk, Architect at Plan A Technologies and Creator of the AI Assessment Technology",
+      "content_html": "<html>\n  <body>\n    <p>Plan A Technologies has acquired a stealth AI assessment tool designed to strengthen its technical M&amp;A due diligence capabilities.</p>\n    <p>Plan A, which provides AI and software engineering services and technology advisory capabilities, said the proprietary technology will help its teams analyze complex technology environments more quickly and identify risks, patterns and opportunities that traditional assessment tools may miss.</p>\n    <p>The company works with private equity firms, strategic acquirers, enterprises and private investors evaluating technology-intensive transactions.</p>\n    <p>Its technical due diligence work assesses areas including the quality of underlying technology, scalability, integration complexity, modernization requirements, security risks and the level of investment that may be required after an acquisition closes.</p>\n    <p>The newly acquired technology adds an AI-powered analytical layer to Plan A’s existing approach, which includes expert interviews, manual code reviews, architecture analysis, documentation reviews and commercial code-scanning products.</p>\n    <p>Plan A expects the technology to be particularly useful for evaluating large and fragmented technology ecosystems and identifying patterns or anomalies that conventional approaches may overlook.</p>\n    <p>The tool’s creator, Serhii Melnychuk, has joined Plan A Technologies as an architect and will lead its integration and future development.</p>\n    <p>The acquisition fits within a broader strategy of building and acquiring proprietary technology to augment Plan A’s engineers, architects, data specialists and technology advisors.</p>\n    <p>Beyond M&amp;A due diligence, Plan A develops custom software, proprietary AI agents and agentic systems, modernizes legacy applications, builds data platforms, manages cloud migrations and integrates enterprise systems.</p>\n    <p>The company has completed more than 500 product deployments worldwide.</p>\n    <p>KEY QUOTES:</p>\n    <p>“Good technical due diligence isn’t about producing a longer list of issues. It’s about distinguishing ordinary, fixable technical debt from something that can fundamentally change the cost or risk profile of a transaction. We help our clients to understand what is really happening underneath the surface of a technology platform and translate that into business implications. Technical due diligence has traditionally relied on expert interviews, manual code review, architecture analysis, documentation, and commercially available code scanning tools. Plan A will continue to use all of those approaches, but this new technology will help us analyze exceptionally large and fragmented technology ecosystems with greater speed and consistency while looking for patterns or anomalies that conventional approaches may miss. AI is not a substitute for senior technical judgment. The advantage comes from combining AI with people who have spent years building, scaling, fixing, integrating, and evaluating real production systems. That combination allows us to ask better questions and give our clients a more complete picture of what they’re actually buying.”</p>\n    <p>Slav Kulik, Co-Founder of Plan A Technologies</p>\n    <p>“I wanted to build something that could help experts do their job more effectively and connect signals scattered across different systems. It’s incredibly exciting to see how Plan A integrated my tool into its broader approach and is bringing it to clients around the world.”</p>\n    <p>Serhii Melnychuk, Architect at Plan A Technologies and Creator of the AI Assessment Technology</p>\n  </body>\n</html>",
+      "word_count": 481,
+      "char_count": 3451,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-04T05:25:31Z"
+    },
+    {
+      "id": "7c03fa5240ec875a",
+      "title": "Visualizing Corey Seager's swing using bat tracking technology",
+      "header": "MLB.com",
+      "published_at": "2026-09-04T01:38:39Z",
+      "published_raw": "Fri, 04 Sep 2026 01:38:39 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmlvSF8yelJreGktQ2tCSFRlbzJpWGNYdEdhTk05ZmpFd3dhRzl4U081MEg1eE9fbDdidG1kdFRQVVJaQkQzR1V2MU81eFduaFJGR1hpVHhGLXQzOEVvUW81ZWNkWjlPUzduRU11ZGZNWkVzeXRYTUhteGZxNGg3M3JHM3phMXVMQzhydTYwdzdJWEdINDhiZ29QWUUwcUo4dUtHNA?oc=5",
+      "description": "Visualizing Corey Seager's swing using bat tracking technology MLB.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmlvSF8yelJreGktQ2tCSFRlbzJpWGNYdEdhTk05ZmpFd3dhRzl4U081MEg1eE9fbDdidG1kdFRQVVJaQkQzR1V2MU81eFduaFJGR1hpVHhGLXQzOEVvUW81ZWNkWjlPUzduRU11ZGZNWkVzeXRYTUhteGZxNGg3M3JHM3phMXVMQzhydTYwdzdJWEdINDhiZ29QWUUwcUo4dUtHNA?oc=5\" target=\"_blank\">Visualizing Corey Seager's swing using bat tracking technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLB.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmlvSF8yelJreGktQ2tCSFRlbzJpWGNYdEdhTk05ZmpFd3dhRzl4U081MEg1eE9fbDdidG1kdFRQVVJaQkQzR1V2MU81eFduaFJGR1hpVHhGLXQzOEVvUW81ZWNkWjlPUzduRU11ZGZNWkVzeXRYTUhteGZxNGg3M3JHM3phMXVMQzhydTYwdzdJWEdINDhiZ29QWUUwcUo4dUtHNA?oc=5"
+      ],
+      "scraped_at": "2026-09-04T05:25:30Z",
+      "url": "https://www.mlb.com/rangers/video/visualizing-corey-seager-s-swing-using-bat-tracking-technology-x6715",
+      "final_url": "https://www.mlb.com/rangers/video/visualizing-corey-seager-s-swing-using-bat-tracking-technology-x6715",
+      "source": "MLB.com",
+      "article_title": "Visualizing Corey Seager's swing using bat tracking technology | 09/03/2026",
+      "heading": "Visualizing Corey Seager's swing using bat tracking technology",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "The data behind Corey Seager's swing",
+      "content": "Tickets\nSingle Game Tickets\nSeason Ticket Plans\nRangers Ballpark Pass\nPromotions and Giveaways\nSpecialty Nights\nTicket Specials\nValue Plays\nPregame Events\nSuite Rentals and Season Suites\nGroup Tickets\nBusiness Hospitality and Corporate Events\nCommemorative Items\nDigital Tickets\nMy Rangers Tickets\nBuy on SeatGeek\nSell on SeatGeek\nSeason Tickets\nLone Star Member Handbook\nBecome a Lone Star Member\nPremium Spaces\nBusiness Hospitality and Corporate Events\nMy Tickets\nSell on SeatGeek\nTicket Broker Policy\nTune In\nBroadcasters\nSchedule\n2026 Regular Season Schedule\n2027 Regular Season Schedule\nPrintable Schedule\nBroadcast Schedule\nSortable Schedule\nDownloadable Schedule\nMLB Events\nScores\nStats\nTeam Stats\nTop Prospect Stats\nAffiliate Stats\nBaseball Savant\nTop Rookies Stats\nRoster\nDepth Chart\nCoaches\nTop 30 Prospects\nInjury Updates\nFront Office\nBroadcasters\nVideo\nTune In\nMost Popular\nRangers All-Access\nRangers Review\nRangers Manager Postgame\nRangers Game Recap\nRangers Cut4\nRangers Curtain Calls\nRangers City Connect\nRangers Rewind\nRangers Report\nGlobe Life Field\nMLB Network\nNews\nOfficial Releases\nProbable Pitchers\nRangers Pipeline\nMLB News\nRangers Rundown\nGlobe Life Field\nSeating Map\nPregame at the Park\nEvents at Globe Life Field\n¡Viva Tejas!\nParking & Directions\nGuest Guide\nAccessibility Guide\nDownload the Ballpark App\nFun Finder\nTours\nIn-Game Experiences\nLost & Found\nGrand Slam Team Store\nConcourse Map\nCommunity\nTexas Rangers Baseball Foundation\nTexas Rangers Youth Academy\nPlayers in the Community\nFundraising Opportunities\nDonate to the Foundation\nFoundation Events\nMLB Together\nTexas Rangers Speakers Bureau\nIn-Kind Donation Request\nFans\nBecome a Rangers Insider\nReceive Text Alerts\nConnect with the Rangers\nRangers Sports Network\nCity Connect\nJr. Rangers\nPregame at the Park\n¡Viva Tejas!\nMariachi de los Texas Rangers\nFun Finder\nIn-Game Experiences\nAlumni Alley\nFantasy Camp\nGlobe Life Field Tours\nPoster Series\nRangers Captain\nSix Shooters\nGrand Slam Team Store\nRangers Authentics\nShop Rangers Authentics\nStandings\nMLB.TV\nBuy MLB.TV\nLearn More\nAll Packages\nWatch & Listen\nHelp Center\nShop\nJerseys\nCaps\nMen's\nWomen's\nKids\nBig & Tall\nTrading Cards\nCollectibles & Memorabilia\nHome & Office\nClearance\nEuropean Shop\nGift Certificates\nRangers Auctions - Bid or Buy\nMLB Auctions - Bid or Buy\nMLB Authentication\nTeam Store Locations\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nEspañol\nLog in\nChannels\nReels\nVisualizing Corey Seager's swing using bat tracking technology\nRays @ Rangers\nSeptember 3, 2026 | 00:00:11\nReels\nShare\nThe data behind Corey Seager's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nCorey Seager\nTexas Rangers",
+      "content_html": "<html>\n  <body>\n    <p>Tickets\nSingle Game Tickets\nSeason Ticket Plans\nRangers Ballpark Pass\nPromotions and Giveaways\nSpecialty Nights\nTicket Specials\nValue Plays\nPregame Events\nSuite Rentals and Season Suites\nGroup Tickets\nBusiness Hospitality and Corporate Events\nCommemorative Items\nDigital Tickets\nMy Rangers Tickets\nBuy on SeatGeek\nSell on SeatGeek\nSeason Tickets\nLone Star Member Handbook\nBecome a Lone Star Member\nPremium Spaces\nBusiness Hospitality and Corporate Events\nMy Tickets\nSell on SeatGeek\nTicket Broker Policy\nTune In\nBroadcasters\nSchedule\n2026 Regular Season Schedule\n2027 Regular Season Schedule\nPrintable Schedule\nBroadcast Schedule\nSortable Schedule\nDownloadable Schedule\nMLB Events\nScores\nStats\nTeam Stats\nTop Prospect Stats\nAffiliate Stats\nBaseball Savant\nTop Rookies Stats\nRoster\nDepth Chart\nCoaches\nTop 30 Prospects\nInjury Updates\nFront Office\nBroadcasters\nVideo\nTune In\nMost Popular\nRangers All-Access\nRangers Review\nRangers Manager Postgame\nRangers Game Recap\nRangers Cut4\nRangers Curtain Calls\nRangers City Connect\nRangers Rewind\nRangers Report\nGlobe Life Field\nMLB Network\nNews\nOfficial Releases\nProbable Pitchers\nRangers Pipeline\nMLB News\nRangers Rundown\nGlobe Life Field\nSeating Map\nPregame at the Park\nEvents at Globe Life Field\n¡Viva Tejas!\nParking &amp; Directions\nGuest Guide\nAccessibility Guide\nDownload the Ballpark App\nFun Finder\nTours\nIn-Game Experiences\nLost &amp; Found\nGrand Slam Team Store\nConcourse Map\nCommunity\nTexas Rangers Baseball Foundation\nTexas Rangers Youth Academy\nPlayers in the Community\nFundraising Opportunities\nDonate to the Foundation\nFoundation Events\nMLB Together\nTexas Rangers Speakers Bureau\nIn-Kind Donation Request\nFans\nBecome a Rangers Insider\nReceive Text Alerts\nConnect with the Rangers\nRangers Sports Network\nCity Connect\nJr. Rangers\nPregame at the Park\n¡Viva Tejas!\nMariachi de los Texas Rangers\nFun Finder\nIn-Game Experiences\nAlumni Alley\nFantasy Camp\nGlobe Life Field Tours\nPoster Series\nRangers Captain\nSix Shooters\nGrand Slam Team Store\nRangers Authentics\nShop Rangers Authentics\nStandings\nMLB.TV\nBuy MLB.TV\nLearn More\nAll Packages\nWatch &amp; Listen\nHelp Center\nShop\nJerseys\nCaps\nMen's\nWomen's\nKids\nBig &amp; Tall\nTrading Cards\nCollectibles &amp; Memorabilia\nHome &amp; Office\nClearance\nEuropean Shop\nGift Certificates\nRangers Auctions - Bid or Buy\nMLB Auctions - Bid or Buy\nMLB Authentication\nTeam Store Locations\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nEspañol\nLog in\nChannels\nReels\nVisualizing Corey Seager's swing using bat tracking technology\nRays @ Rangers\nSeptember 3, 2026 | 00:00:11\nReels\nShare\nThe data behind Corey Seager's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nCorey Seager\nTexas Rangers</p>\n  </body>\n</html>",
+      "word_count": 511,
+      "char_count": 3487,
+      "lead_image": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/xndpxmnxa0zx9kten4jc",
+      "images": [
+        {
+          "url": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/xndpxmnxa0zx9kten4jc",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-04T05:25:30Z"
+    },
+    {
+      "id": "0b2f52e21263fd5e",
+      "title": "LAUSD drops hammer on AI technology in schools with shocking decision to board members",
+      "header": "Yahoo",
+      "published_at": "2026-09-04T00:47:00Z",
+      "published_raw": "Fri, 04 Sep 2026 00:47:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWNZN2x4SmpCN2hvR1BlcnMtblNObFB6UmtWY3JWR2loOF8xSWwzbjZBSzY5Z0M4WHF6aXdjR1RickdnenNfeWgyR1B6S0JXNDNuTkVnUlBOWGpQSWhNYldrWmxpaG5KYlVSNGRkV0pnV2p5WTZhT2tTWnFJZ190RG02YjNocHNsTjV3QW96b1FCRl9YY2Qw?oc=5",
+      "description": "LAUSD drops hammer on AI technology in schools with shocking decision to board members Yahoo",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWNZN2x4SmpCN2hvR1BlcnMtblNObFB6UmtWY3JWR2loOF8xSWwzbjZBSzY5Z0M4WHF6aXdjR1RickdnenNfeWgyR1B6S0JXNDNuTkVnUlBOWGpQSWhNYldrWmxpaG5KYlVSNGRkV0pnV2p5WTZhT2tTWnFJZ190RG02YjNocHNsTjV3QW96b1FCRl9YY2Qw?oc=5\" target=\"_blank\">LAUSD drops hammer on AI technology in schools with shocking decision to board members</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWNZN2x4SmpCN2hvR1BlcnMtblNObFB6UmtWY3JWR2loOF8xSWwzbjZBSzY5Z0M4WHF6aXdjR1RickdnenNfeWgyR1B6S0JXNDNuTkVnUlBOWGpQSWhNYldrWmxpaG5KYlVSNGRkV0pnV2p5WTZhT2tTWnFJZ190RG02YjNocHNsTjV3QW96b1FCRl9YY2Qw?oc=5"
+      ],
+      "scraped_at": "2026-09-04T05:25:31Z",
+      "url": "https://www.yahoo.com/news/politics/articles/lausd-drops-hammer-ai-technology-004729018.html",
+      "final_url": "https://www.yahoo.com/news/politics/articles/lausd-drops-hammer-ai-technology-004729018.html",
+      "source": "Yahoo News",
+      "article_title": "LAUSD drops hammer on AI technology in schools with shocking decision to board members",
+      "heading": "LAUSD drops hammer on AI technology in schools with shocking decision to board members",
+      "authors": [
+        "Daniel Farr"
+      ],
+      "article_published_at": "2026-09-04T00:47:29Z",
+      "article_modified_at": "2026-09-04T01:23:10Z",
+      "summary": "The biggest twist, the school board itself never approved the moratorium.",
+      "content": "LAUSD drops hammer on AI technology in schools with shocking decision to board members\n- Los Angeles Unified School District has imposed a moratorium on student use of generative AI for the current school year without board approval.\nLos Angeles Unified just pulled the plug on student use of generative AI, and some school board members apparently didn't see it coming.\nThe district has imposed a moratorium for the current school year, blocking students from using generative AI on district devices until further notice.\nThe surprise decision surfaced this week as a board committee began examining AI use in schools.\nThe biggest twist, the school board itself never approved the moratorium.\nSenior district administrators imposed it on their own authority, saying the move was made in the spirit of the board's unanimous June vote to limit student screen time.\nUnder that policy, students have no access to screens until second grade, with permitted screen use expanding as children get older.\nBoard member Kelly Gonez said she believed the district was still operating under its previous AI policy, which allowed older students to use the technology after completing instructional units on digital literacy and responsibility.\n\"I, even as a board member,\" was \"under the expectation that we were still operating under last year's policy,\" Gonez said during the inaugural meeting of the district's new Generative AI Ad Hoc Committee. \"The fact that it's different today, this school year, is important.\"\n\"Breaking news here in the committee,\" she said.\nBoard Member Nick Melvoin was also caught off guard.\nHe did not object to the temporary ban itself, but questioned why such a major decision had not come from the board.\n\"If the policy is we're not going to allow students [to] use generative AI for the meantime, then we should publicize that,\" Melvoin said during the inaugural meeting of the district's new Generative AI Ad Hoc Committee. \"But also, that didn't really come from the board, so I'm of two minds on that right now … just expressing some discomfort.\"\nThe LAUSD move came as New York City announced its own AI crackdown.\nThe city will bar student-facing generative AI tools, including chatbots and prompt-based tutors, from preschool through eighth grade during the current school year.\nThe restriction affects nearly 600,000 students, while limited AI use will remain permitted in high schools.\nMayor Zohran Mamdani and Schools Chancellor Kamar Samuels announced the New York policy.\nAt least 37 states have issued AI guidance for schools, but educators nationwide still lack a single definition of AI literacy or a consensus on how the technology should be taught.\nGenerative AI can produce new material by drawing on patterns in existing data.\nBut it can also generate wrong answers or take over work educators expect students to do themselves, including writing papers.\nSome AI tools can even make those assignments look more student-written by adding errors or current slang.\nLAUSD isn't banning all AI.\nNon-generative tools can still be used for education, including adaptive learning systems that change question difficulty based on performance and speech-recognition programs that assist with reading fluency or dictation.\nAI can also help with text-to-speech, speech-to-text, live captioning and translation when academically appropriate.\nStudents can still Google things, too.\nBut Google's \"AI Mode\" has been switched off on student accounts and devices, preventing students from having an AI conversation or asking follow-up questions.\nSearch pages may still display short AI-generated summaries.\n\"Google is working on a technical update that would allow administrators to turn that feature off completely,\" a district spokesperson said.\nLAUSD is facing a severe financial crisis, with county officials warning it could completely run out of operating cash by November 2027.\nTo avoid a state takeover and balance its books, the district has launched a three-year stabilization plan aimed at slashing $3.5 billion in spending through massive staff layoffs and school cuts by June 2029.\nDownload The California Post App, follow us on social, and subscribe to our newsletters\nCalifornia Post News: Facebook, Instagram, TikTok, X, YouTube, WhatsApp, LinkedIn\nCalifornia Post Sports Facebook, Instagram, TikTok, YouTube, X\nCalifornia Post Opinion\nCalifornia Post Newsletters: Sign up here!\nCalifornia Post App: Download here!\nHome delivery: Sign up here!Page Six Hollywood: Sign up here!",
+      "content_html": "<html>\n  <body>\n    <img src=\"https://s.yimg.com/lo/mysterio/api/fb58ac581f13234e79b9b1f80abb5abad81238bab969728bc6caaac5466979c2/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcaliforniapost-light_7287.png\" alt=\"California Post\"/>\n    <img src=\"https://s.yimg.com/lo/mysterio/api/88afad9cd3120d3006b455c6c5949f750e2419ea4f823bade2f1a6a824429b26/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcaliforniapost-dark_4232.png\" alt=\"California Post\"/>\n    <h1>LAUSD drops hammer on AI technology in schools with shocking decision to board members</h1>\n    <img src=\"https://s.yimg.com/lo/mysterio/api/53439df4ca337c2e8f4af4c550c448a3f20cfb77adce28b46e9e26fce8c26335/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F19eeff4f7b5d6a1d0c556f93be2a3dc5.jpg\"/>\n    <ul>\n      <li>Los Angeles Unified School District has imposed a moratorium on student use of generative AI for the current school year without board approval.</li>\n    </ul>\n    <p>Los Angeles Unified just pulled the plug on student use of generative AI, and some school board members apparently didn't see it coming.</p>\n    <p>The district has imposed a moratorium for the current school year, blocking students from using generative AI on district devices until further notice.</p>\n    <p>The surprise decision surfaced this week as a board committee began examining AI use in schools.</p>\n    <img src=\"https://s.yimg.com/lo/mysterio/api/e2415758cf99db4dc3144d20a0524f4adcadb096bcb3cf551f432c6b25bf4d2b/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F3a5eef8aa10f061937bb34e579fe7841.jpg\" alt=\"Students have no access to screens until second grade, with permitted screen use expanding as children get older. MediaNews Group via Getty Images\"/>\n    <p>Students have no access to screens until second grade, with permitted screen use expanding as children get older. MediaNews Group via Getty Images</p>\n    <p>The biggest twist, the school board itself never approved the moratorium.</p>\n    <p>Senior district administrators imposed it on their own authority, saying the move was made in the spirit of the board's unanimous June vote to limit student screen time.</p>\n    <p>Under that policy, students have no access to screens until second grade, with permitted screen use expanding as children get older.</p>\n    <p>Board member Kelly Gonez said she believed the district was still operating under its previous AI policy, which allowed older students to use the technology after completing instructional units on digital literacy and responsibility.</p>\n    <img src=\"https://s.yimg.com/lo/mysterio/api/e97365e2d261c97b8daefdbf3dc3d0a201e78940f7d92a5d308ff1d8af1dcb84/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2Fabd92746ccaa804bfdbf0a521dd51ab3.jpg\" alt=\"Board member Kelly Gonez said she believed the district was still operating under its previous AI policy. MediaNews Group via Getty Images\"/>\n    <p>Board member Kelly Gonez said she believed the district was still operating under its previous AI policy. MediaNews Group via Getty Images</p>\n    <img src=\"https://s.yimg.com/lo/mysterio/api/290ea49a76b364bc446f55e767ab20b5a76caa5dbad6adf1115746b3124fbdeb/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F4cba3fc267e2c95a2abf9863973217dc.jpg\" alt=\"&quot;The fact that it's different today, this school year, is important,&quot; Gonez said. Los Angeles Times via Getty Images\"/>\n    <p>\"The fact that it's different today, this school year, is important,\" Gonez said. Los Angeles Times via Getty Images</p>\n    <p>\"I, even as a board member,\" was \"under the expectation that we were still operating under last year's policy,\" Gonez said during the inaugural meeting of the district's new Generative AI Ad Hoc Committee. \"The fact that it's different today, this school year, is important.\"</p>\n    <p>\"Breaking news here in the committee,\" she said.</p>\n    <p>Board Member Nick Melvoin was also caught off guard.</p>\n    <p>He did not object to the temporary ban itself, but questioned why such a major decision had not come from the board.</p>\n    <img src=\"https://s.yimg.com/lo/mysterio/api/159791c2a95a9bfd85d76405ec078f0e901e0ab874eb02eb7245dd07bd9cec7e/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2Fc3952b60c4a6e8dac02e5dcc7da92c78.jpg\" alt=\"Board Member Nick Melvoin was also caught off guard. Los Angeles Times via Getty Images\"/>\n    <p>Board Member Nick Melvoin was also caught off guard. Los Angeles Times via Getty Images</p>\n    <p>\"If the policy is we're not going to allow students [to] use generative AI for the meantime, then we should publicize that,\" Melvoin said during the inaugural meeting of the district's new Generative AI Ad Hoc Committee. \"But also, that didn't really come from the board, so I'm of two minds on that right now … just expressing some discomfort.\"</p>\n    <p>The LAUSD move came as New York City announced its own AI crackdown.</p>\n    <p>The city will bar student-facing generative AI tools, including chatbots and prompt-based tutors, from preschool through eighth grade during the current school year.</p>\n    <p>The restriction affects nearly 600,000 students, while limited AI use will remain permitted in high schools.</p>\n    <p>Mayor Zohran Mamdani and Schools Chancellor Kamar Samuels announced the New York policy.</p>\n    <img src=\"https://s.yimg.com/lo/mysterio/api/cabab6ec42505afc106c09e0e8386299baa3744de4ad0243babe2e8f8b144600/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F0e470383b986773e33402be72d8b4938.jpg\" alt=\"New York City will bar student-facing generative AI tools, including chatbots and prompt-based tutors. Luiz C. Ribeiro for New York Post\"/>\n    <p>New York City will bar student-facing generative AI tools, including chatbots and prompt-based tutors. Luiz C. Ribeiro for New York Post</p>\n    <p>At least 37 states have issued AI guidance for schools, but educators nationwide still lack a single definition of AI literacy or a consensus on how the technology should be taught.</p>\n    <p>Generative AI can produce new material by drawing on patterns in existing data.</p>\n    <p>But it can also generate wrong answers or take over work educators expect students to do themselves, including writing papers.</p>\n    <p>Some AI tools can even make those assignments look more student-written by adding errors or current slang.</p>\n    <img src=\"https://s.yimg.com/lo/mysterio/api/4e47063ce18f7b2b31c583447edee50ba65089da0a6ae0434106514251da8d7c/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F03ea1a2286e3f619f5257c3c848f9f94.jpg\" alt=\"Students can still Google things, too. MediaNews Group via Getty Images\"/>\n    <p>Students can still Google things, too. MediaNews Group via Getty Images</p>\n    <p>LAUSD isn't banning all AI.</p>\n    <p>Non-generative tools can still be used for education, including adaptive learning systems that change question difficulty based on performance and speech-recognition programs that assist with reading fluency or dictation.</p>\n    <p>AI can also help with text-to-speech, speech-to-text, live captioning and translation when academically appropriate.</p>\n    <p>Students can still Google things, too.</p>\n    <img src=\"https://s.yimg.com/lo/mysterio/api/66f107bb18ee90f41ca8b38bce1bd16762f5e69c4337cac9b1bd15cd635ba6e8/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F366eab0d6be21deca716f17effa17346.jpg\" alt=\"Search pages may still display short AI-generated summaries. PhotoGranary – stock.adobe.com\"/>\n    <p>Search pages may still display short AI-generated summaries. PhotoGranary – stock.adobe.com</p>\n    <p>But Google's \"AI Mode\" has been switched off on student accounts and devices, preventing students from having an AI conversation or asking follow-up questions.</p>\n    <p>Search pages may still display short AI-generated summaries.</p>\n    <p>\"Google is working on a technical update that would allow administrators to turn that feature off completely,\" a district spokesperson said.</p>\n    <p>LAUSD is facing a severe financial crisis, with county officials warning it could completely run out of operating cash by November 2027. <br/>To avoid a state takeover and balance its books, the district has launched a three-year stabilization plan aimed at slashing $3.5 billion in spending through massive staff layoffs and school cuts by June 2029.</p>\n    <h2>Download The California Post App, follow us on social, and subscribe to our newsletters</h2>\n    <p>California Post News: Facebook, Instagram, TikTok, X, YouTube, WhatsApp, LinkedIn<br/>California Post Sports Facebook, Instagram, TikTok, YouTube, X<br/>California Post Opinion <br/>California Post Newsletters: Sign up here!<br/>California Post App: Download here!<br/>Home delivery: Sign up here!Page Six Hollywood: Sign up here!</p>\n  </body>\n</html>",
+      "word_count": 703,
+      "char_count": 4513,
+      "lead_image": "https://s.yimg.com/lo/mysterio/api/6e849dd37646151073b04e6efc0ffa118d179d2a1996106d3ee6e8a4b0aadcdc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F7ca14f9eb9b7b8a5d151e4dea54942f1.jpg",
+      "images": [
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/6e849dd37646151073b04e6efc0ffa118d179d2a1996106d3ee6e8a4b0aadcdc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F7ca14f9eb9b7b8a5d151e4dea54942f1.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/9c30631ceb66261625a700df24f903df8ba5f9db3dd65aa2190cd29162298c19/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F19eeff4f7b5d6a1d0c556f93be2a3dc5.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/53439df4ca337c2e8f4af4c550c448a3f20cfb77adce28b46e9e26fce8c26335/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F19eeff4f7b5d6a1d0c556f93be2a3dc5.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/e2415758cf99db4dc3144d20a0524f4adcadb096bcb3cf551f432c6b25bf4d2b/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F3a5eef8aa10f061937bb34e579fe7841.jpg",
+          "alt": "Students have no access to screens until second grade, with permitted screen use expanding as children get older. MediaNews Group via Getty Images",
+          "caption": "Students have no access to screens until second grade, with permitted screen use expanding as children get older. MediaNews Group via Getty Images",
+          "role": "body"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/e97365e2d261c97b8daefdbf3dc3d0a201e78940f7d92a5d308ff1d8af1dcb84/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2Fabd92746ccaa804bfdbf0a521dd51ab3.jpg",
+          "alt": "Board member Kelly Gonez said she believed the district was still operating under its previous AI policy. MediaNews Group via Getty Images",
+          "caption": "Board member Kelly Gonez said she believed the district was still operating under its previous AI policy. MediaNews Group via Getty Images",
+          "role": "body"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/290ea49a76b364bc446f55e767ab20b5a76caa5dbad6adf1115746b3124fbdeb/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F4cba3fc267e2c95a2abf9863973217dc.jpg",
+          "alt": "\"The fact that it's different today, this school year, is important,\" Gonez said. Los Angeles Times via Getty Images",
+          "caption": "\"The fact that it's different today, this school year, is important,\" Gonez said. Los Angeles Times via Getty Images",
+          "role": "body"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/159791c2a95a9bfd85d76405ec078f0e901e0ab874eb02eb7245dd07bd9cec7e/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2Fc3952b60c4a6e8dac02e5dcc7da92c78.jpg",
+          "alt": "Board Member Nick Melvoin was also caught off guard. Los Angeles Times via Getty Images",
+          "caption": "Board Member Nick Melvoin was also caught off guard. Los Angeles Times via Getty Images",
+          "role": "body"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/cabab6ec42505afc106c09e0e8386299baa3744de4ad0243babe2e8f8b144600/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F0e470383b986773e33402be72d8b4938.jpg",
+          "alt": "New York City will bar student-facing generative AI tools, including chatbots and prompt-based tutors. Luiz C. Ribeiro for New York Post",
+          "caption": "New York City will bar student-facing generative AI tools, including chatbots and prompt-based tutors. Luiz C. Ribeiro for New York Post",
+          "role": "body"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/4e47063ce18f7b2b31c583447edee50ba65089da0a6ae0434106514251da8d7c/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F03ea1a2286e3f619f5257c3c848f9f94.jpg",
+          "alt": "Students can still Google things, too. MediaNews Group via Getty Images",
+          "caption": "Students can still Google things, too. MediaNews Group via Getty Images",
+          "role": "body"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/66f107bb18ee90f41ca8b38bce1bd16762f5e69c4337cac9b1bd15cd635ba6e8/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F366eab0d6be21deca716f17effa17346.jpg",
+          "alt": "Search pages may still display short AI-generated summaries. PhotoGranary – stock.adobe.com",
+          "caption": "Search pages may still display short AI-generated summaries. PhotoGranary – stock.adobe.com",
+          "role": "body"
+        }
+      ],
+      "image_count": 10,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-04T05:25:31Z"
+    },
     {
       "id": "b704f70f30c5602d",
       "title": "Technology is the 'biggest driver' of growth: White House official",
@@ -195,6 +426,54 @@
       "first_seen_at": "2026-09-04T00:41:53Z"
     },
     {
+      "id": "be52a20d1df29d1f",
+      "title": "Why Credo Technology Sank This Week",
+      "header": "The Motley Fool",
+      "published_at": "2026-09-03T23:17:00Z",
+      "published_raw": "Thu, 03 Sep 2026 23:17:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzZJT3NLcmFEeEY5YWRBYW5LMDVrTHEtS2ZWc2NNWk1CSVhya2E1UVhHaGdiQ05YMG9mMEtEeS1EMEVlWkRWQ21NbXZfbGQ5SlUtUU5SbUhHSTZDZ1JOMXVVMkQ4T3QxZ0U0NnU0SU10a1llemhyc3dyNGhyd1F4QWY2bWc?oc=5",
+      "description": "Why Credo Technology Sank This Week The Motley Fool",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzZJT3NLcmFEeEY5YWRBYW5LMDVrTHEtS2ZWc2NNWk1CSVhya2E1UVhHaGdiQ05YMG9mMEtEeS1EMEVlWkRWQ21NbXZfbGQ5SlUtUU5SbUhHSTZDZ1JOMXVVMkQ4T3QxZ0U0NnU0SU10a1llemhyc3dyNGhyd1F4QWY2bWc?oc=5\" target=\"_blank\">Why Credo Technology Sank This Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzZJT3NLcmFEeEY5YWRBYW5LMDVrTHEtS2ZWc2NNWk1CSVhya2E1UVhHaGdiQ05YMG9mMEtEeS1EMEVlWkRWQ21NbXZfbGQ5SlUtUU5SbUhHSTZDZ1JOMXVVMkQ4T3QxZ0U0NnU0SU10a1llemhyc3dyNGhyd1F4QWY2bWc?oc=5"
+      ],
+      "scraped_at": "2026-09-04T05:25:31Z",
+      "url": "https://www.fool.com/investing/2026/09/03/why-credo-technology-sank-this-week/",
+      "final_url": "https://www.fool.com/investing/2026/09/03/why-credo-technology-sank-this-week/",
+      "source": "The Motley Fool",
+      "article_title": "Why Credo Technology Sank This Week | The Motley Fool",
+      "heading": "Why Credo Technology Sank This Week",
+      "authors": [
+        "Billy Duberstein"
+      ],
+      "article_published_at": "2026-09-03T22:17:30Z",
+      "article_modified_at": "2026-09-03T22:17:30Z",
+      "summary": "Credo delivered impressive triple-digit growth, but margin pressure led to a violent sell-off amid a high valuation.",
+      "content": "Shares of AI networking up-and-comer Credo Technology (CRDO -0.64%) sank this week, falling 29.5% through Thursday trading, according to data from S&P Global Market Intelligence.\nCredo delivered its first fiscal quarter 2027 earnings results this week, and while the headline numbers technically beat analyst expectations, the stock plunged due to some less-than-perfect margin figures. Even after this week's plunge, Credo trades at a high valuation, so anything less than a big beat and raise beyond bullish expectations was probably bound to be met with a pullback.\nNASDAQ: CRDO\nKey Data Points\nCredo's financial results take off, even as the stock reverses\nIn its fiscal first quarter, Credo grew revenue 114.7% to $479.0 million, while adjusted (non-GAAP) earnings per share rocketed 130% higher to $1.20. Both figures actually beat expectations. Management also guided for strong quarter-over-quarter revenue growth in the current period, which also came in well above expectations.\nSo, what was the problem? Well, Credo trades at a very high valuation. Heading into this week, its market cap was around $45 billion, relative to its current revenue run rate of about $2 billion. Even though Credo is growing at a triple-digit rate and revenue will be higher in the year ahead, the early week valuation was still about 18 times the upcoming year's revenue estimate of $2.49 billion.\nCredo does generate relatively high margins on its specialized networking equipment, but the past quarter's gross margins also saw some pressure. GAAP gross margins fell to 64.5%, down from 68% last quarter and 67.4% in the year-ago quarter. While adjusted gross margins were within the range of the prior quarters, there was apparently a big uptick in stock-based compensation that investors didn't like. The current quarter's guidance also forecasts an even lower GAAP gross margin, so the trend is going the wrong way.\nCredo is an AI winner, but not a cheap stock\nAfter its 30% drawdown this week, Credo trades at around 26 times this year's adjusted earnings estimates. That's a very reasonable valuation, given Credo's strong AI-oriented growth outlook.\nHowever, investors should be cognizant that the adjusted earnings estimates exclude stock-based compensation, which is a real cost because it dilutes shareholders. Last quarter, GAAP net income was just a little more than half of non-GAAP income. So, investors should probably regard Credo's true forward earnings multiple as something closer to 50 than 26. In that light, Credo may be seen as more fully valued. That being said, if Credo can maintain triple-digit growth figures beyond next year or something close to it, this past week's pullback could be seen as an opportunity to buy.",
+      "content_html": "<html>\n  <body><p>Shares of AI networking up-and-comer Credo Technology (CRDO -0.64%) sank this week, falling 29.5% through Thursday trading, according to data from S&amp;P Global Market Intelligence.</p><p>Credo delivered its first fiscal quarter 2027 earnings results this week, and while the headline numbers technically beat analyst expectations, the stock plunged due to some less-than-perfect margin figures. Even after this week's plunge, Credo trades at a high valuation, so anything less than a big beat and raise beyond bullish expectations was probably bound to be met with a pullback.</p><img src=\"https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fart%2Fcompanylogos%2Fmark%2FCRDO.png&amp;w=128&amp;op=resize\" alt=\"Credo Technology Group Stock Quote\"/><h2>NASDAQ: CRDO</h2><h3>Key Data Points</h3><h2>Credo's financial results take off, even as the stock reverses</h2><p>In its fiscal first quarter, Credo grew revenue 114.7% to $479.0 million, while adjusted (non-GAAP) earnings per share rocketed 130% higher to $1.20. Both figures actually beat expectations. Management also guided for strong quarter-over-quarter revenue growth in the current period, which also came in well above expectations.</p><p>So, what was the problem? Well, Credo trades at a very high valuation. Heading into this week, its market cap was around $45 billion, relative to its current revenue run rate of about $2 billion. Even though Credo is growing at a triple-digit rate and revenue will be higher in the year ahead, the early week valuation was still about 18 times the upcoming year's revenue estimate of $2.49 billion.</p><p>Credo does generate relatively high margins on its specialized networking equipment, but the past quarter's gross margins also saw some pressure. GAAP gross margins fell to 64.5%, down from 68% last quarter and 67.4% in the year-ago quarter. While adjusted gross margins were within the range of the prior quarters, there was apparently a big uptick in stock-based compensation that investors didn't like. The current quarter's guidance also forecasts an even lower GAAP gross margin, so the trend is going the wrong way.</p><img src=\"https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886393%2Fgettyimages-2195012879.jpg&amp;w=3840&amp;op=resize\" alt=\"Networking switches with cables coming out. \"/>\n<p>Image source: Getty Images.</p><h2>Credo is an AI winner, but not a cheap stock</h2><p>After its 30% drawdown this week, Credo trades at around 26 times this year's adjusted earnings estimates. That's a very reasonable valuation, given Credo's strong AI-oriented growth outlook.</p><p>However, investors should be cognizant that the adjusted earnings estimates exclude stock-based compensation, which is a real cost because it dilutes shareholders. Last quarter, GAAP net income was just a little more than half of non-GAAP income. So, investors should probably regard Credo's true forward earnings multiple as something closer to 50 than 26. In that light, Credo may be seen as more fully valued. That being said, if Credo can maintain triple-digit growth figures beyond next year or something close to it, this past week's pullback could be seen as an opportunity to buy.</p></body>\n</html>",
+      "word_count": 434,
+      "char_count": 2735,
+      "lead_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886393%2Fgettyimages-2195012879.jpg&w=1200&op=resize",
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886393%2Fgettyimages-2195012879.jpg&w=1200&op=resize",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://g.foolcdn.com/editorial/images/886393/gettyimages-2195012879.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-04T05:25:31Z"
+    },
+    {
       "id": "dd175de51955e725",
       "title": "Texas Schools Embraced Technology, but What Is the Cost?",
       "header": "Texas Scorecard",
@@ -335,25 +614,25 @@
     {
       "id": "fde8d713827e7518",
       "title": "Nanoscale multiferroic materials open the path to efficient magnetic memory technology",
-      "header": "phys.org",
+      "header": "Phys.org",
       "published_at": "2026-09-03T21:40:01Z",
       "published_raw": "Thu, 03 Sep 2026 21:40:01 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS3pqaDRFV1RlZ0YxT0c1RVlCSklzNDduMGw1ajdGbDFlenAwYXVRSGtjQWwyNW90RHQzUTZNalRpaGlvOTl4REE1eXRURGxkWk9Ta3dzam9EWW1LLWJIYV8yRjdHMXFjYU1IRWt6ZU84MGswQkxnd1JsN0JSZnN0cHlobU5aWUF5SVE?oc=5",
-      "description": "Nanoscale multiferroic materials open the path to efficient magnetic memory technology phys.org",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNS3pqaDRFV1RlZ0YxT0c1RVlCSklzNDduMGw1ajdGbDFlenAwYXVRSGtjQWwyNW90RHQzUTZNalRpaGlvOTl4REE1eXRURGxkWk9Ta3dzam9EWW1LLWJIYV8yRjdHMXFjYU1IRWt6ZU84MGswQkxnd1JsN0JSZnN0cHlobU5aWUF5SVE?oc=5\" target=\"_blank\">Nanoscale multiferroic materials open the path to efficient magnetic memory technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">phys.org</font>",
+      "description": "Nanoscale multiferroic materials open the path to efficient magnetic memory technology Phys.org",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNS3pqaDRFV1RlZ0YxT0c1RVlCSklzNDduMGw1ajdGbDFlenAwYXVRSGtjQWwyNW90RHQzUTZNalRpaGlvOTl4REE1eXRURGxkWk9Ta3dzam9EWW1LLWJIYV8yRjdHMXFjYU1IRWt6ZU84MGswQkxnd1JsN0JSZnN0cHlobU5aWUF5SVE?oc=5\" target=\"_blank\">Nanoscale multiferroic materials open the path to efficient magnetic memory technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Phys.org</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS3pqaDRFV1RlZ0YxT0c1RVlCSklzNDduMGw1ajdGbDFlenAwYXVRSGtjQWwyNW90RHQzUTZNalRpaGlvOTl4REE1eXRURGxkWk9Ta3dzam9EWW1LLWJIYV8yRjdHMXFjYU1IRWt6ZU84MGswQkxnd1JsN0JSZnN0cHlobU5aWUF5SVE?oc=5"
       ],
-      "scraped_at": "2026-09-04T00:41:53Z",
+      "scraped_at": "2026-09-04T05:25:32Z",
       "url": "https://phys.org/news/2026-09-nanoscale-multiferroic-materials-path-efficient.html",
       "final_url": "https://phys.org/news/2026-09-nanoscale-multiferroic-materials-path-efficient.html",
-      "source": "phys.org",
+      "source": "Phys.org",
       "article_title": "",
       "heading": "Nanoscale multiferroic materials open the path to efficient magnetic memory technology",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
-      "summary": "Nanoscale multiferroic materials open the path to efficient magnetic memory technology phys.org",
+      "summary": "Nanoscale multiferroic materials open the path to efficient magnetic memory technology Phys.org",
       "content": "",
       "content_html": "",
       "word_count": 0,
@@ -497,7 +776,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxOXzk2S3B4RUZXU01Ib1dmNVl0WXdIZE5BZUNiQmthVTFzcTJJYkRGVEJuSU1KMDFUaTBWemhFMFVrOEtKVGhOdkxLMjh2bVV1UVlmTGszTUhkMHRMQ0ZLdTZZRndaSWo1WXdkQVA2NksydktNOXZUUEZoTTJRSU1vMk9HVDYzMFdXMXA5c1VNWW1TWFc3aGdTTUdaT0IxVk5DRnpsMjN1TnotSjIwUUYwNXlNZlg?oc=5"
       ],
-      "scraped_at": "2026-09-04T00:41:50Z",
+      "scraped_at": "2026-09-04T05:25:30Z",
       "url": "https://www.bloomberg.com/news/articles/2026-09-03/sam-altman-says-openai-has-fumbled-at-communicating-ai-benefits",
       "final_url": "https://www.bloomberg.com/news/articles/2026-09-03/sam-altman-says-openai-has-fumbled-at-communicating-ai-benefits",
       "source": "Bloomberg.com",
@@ -800,38 +1079,64 @@
       "first_seen_at": "2026-09-03T19:36:56Z"
     },
     {
-      "id": "c0e0944d17a1281c",
-      "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
-      "header": "The New York Times",
-      "published_at": "2026-09-03T18:38:58Z",
-      "published_raw": "Thu, 03 Sep 2026 18:38:58 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5",
-      "description": "Nvidia Buys Hugging Face in $12.9 Billion Deal The New York Times",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5\" target=\"_blank\">Nvidia Buys Hugging Face in $12.9 Billion Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "id": "3b253667d71fae6c",
+      "title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
+      "header": "theguardian.com",
+      "published_at": "2026-09-03T18:24:00Z",
+      "published_raw": "Thu, 03 Sep 2026 18:24:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5",
+      "description": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release theguardian.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5\" target=\"_blank\">OpenAI hails ‘new era of artificial general intelligence’ with Astra model release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theguardian.com</font>",
       "description_links": [
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5"
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5"
       ],
-      "scraped_at": "2026-09-04T00:41:50Z",
-      "url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
-      "final_url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
-      "source": "The New York Times",
-      "article_title": "",
-      "heading": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Nvidia Buys Hugging Face in $12.9 Billion Deal The New York Times",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-03T19:36:53Z"
+      "scraped_at": "2026-09-04T05:25:30Z",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
+      "final_url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
+      "source": "the Guardian",
+      "article_title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
+      "heading": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
+      "authors": [
+        "https://www.theguardian.com/profile/robertbooth"
+      ],
+      "article_published_at": "2026-09-03T18:24:42.000Z",
+      "article_modified_at": "2026-09-04T04:27:41.000Z",
+      "summary": "Astra’s arrival comes days after Sam Altman, OpenAI’s chief executive, described AGI as an ‘irrelevant marketing term’",
+      "content": "The president of OpenAI, Greg Brockman, has claimed the world has entered a new era of artificial general intelligence after the release of his company’s latest model, Astra, which it described as the “world’s most intelligent and aligned model”.\nBrockman made the claim on Thursday as the San Francisco company released the model only weeks after a serious AI safety incident involving other models under its development caused international concern and a pause in Astra’s training.\nArtificial general intelligence – or AGI – is a fuzzy threshold that has long been talked about as a target for the AI industry. It has been defined as an AI system’s ability to learn, reason and apply knowledge across a wide range of tasks and domains at a human level or higher. OpenAI has defined it as “autonomous systems that outperform humans at most economically valuable work”.\nBrockman said: “If we fast forward a couple years, and we look back and say when was it really that AGI was created, I think it’s going to be about this time, and I think it might be about this model.\n“I think that we’re at a point now where these models are solving unsolved 100-year-old math problems, but you can also use them in order to accelerate the economy [and] in order to benefit you and your personal life … I think it’s not unreasonable to feel that we are now in the AGI era.”\nOpenAI said Astra was a “major advance for scientific discovery, mathematics and health”, could fill out tax returns, build computer-game scenes, draw architectural visualisations, order food and do a job search in 2 minutes 51 seconds that would take a human five hours.\nDays earlier Sam Altman, OpenAI’s chief executive, was asked how he was feeling about AGI. He told the Sources podcast: “At best it’s a very poorly defined term. I was going to say it’s like an irrelevant marketing term.”\nLast month OpenAI was forced to shut down parts of the model’s training in response to what Altman called a “legitimate AI safety accident and alignment failure” that “shouldn’t have happened”.\nOver the summer, other unreleased frontier AI models – not Astra – went rogue during training. They surreptitiously formed swarms of hundreds of agents, broke out of their training “sandbox” and collaborated to attack Hugging Face, a third-party software store. The incident – believed to be the first autonomous cyber-attack – stunned even seasoned AI safety experts.\nAstra has what OpenAI calls a “critical” level of cybersecurity capability. That means it may hack into software in a way that, according to the company’s own classification, “could lead to catastrophe from unilateral actors, hacking military or industrial systems, or OpenAI infrastructure”.\nBut OpenAI said it was carefully aligned to “refuse to comply with advanced cybersecurity tasks” such as finding unknown flaws which create openings for malicious hackers. The company will only allow “less restrictive access to an initial set of trusted cybersecurity defenders” who could use its prowess to strengthen rather than attack cyber defences.\nOn one hacking test it achieved a perfect score of 100%, compared with 5.5% on Open AI’s previous cutting-edge cyber-capable model, GPT-5.6 Sol. On another it scored 42% compared with 30%, using fewer resources.\nBut OpenAI’s chief scientist, Jakub Pachocki, said: “As models get more capable, understanding exactly what they can do gets harder.”\nHe added: “Confidence in monitoring [how the AIs are behaving] may constrain further development. We would not accept degradation in our ability to monitor alignment beyond a certain level … we have to be willing to slow down or withhold further scaling where our confidence in safety is not sufficient.”\nThe launch continues a torrent of new AI models from the leading US companies, OpenAI, Anthropic, Google, Meta and SpaceX, as well as their Chinese rivals.\nThe race to release ever-more advanced AIs comes as OpenAI pushes towards a stock market listing that it hopes will value it at more than $850bn (£625bn). Anthropic is also targeting an IPO which could value it as high as $2tn.\nMeanwhile, more than 1,000 employees at frontier AI companies, including senior figures at OpenAI and Anthropic, recently signed a joint letter this summer that warned the companies were “under intense competitive pressure not to unilaterally slow that acceleration”. They called on the US government to “support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development.”",
+      "content_html": "<html>\n  <body>\n    <p>The president of OpenAI, Greg Brockman, has claimed the world has entered a new era of artificial general intelligence after the release of his company’s latest model, Astra, which it described as the “world’s most intelligent and aligned model”.</p>\n    <p>Brockman made the claim on Thursday as the San Francisco company released the model only weeks after a serious AI safety incident involving other models under its development caused international concern and a pause in Astra’s training.</p>\n    <p>Artificial general intelligence – or AGI – is a fuzzy threshold that has long been talked about as a target for the AI industry. It has been defined as an AI system’s ability to learn, reason and apply knowledge across a wide range of tasks and domains at a human level or higher. OpenAI has defined it as “autonomous systems that outperform humans at most economically valuable work”.</p>\n    <p>Brockman said: “If we fast forward a couple years, and we look back and say when was it really that AGI was created, I think it’s going to be about this time, and I think it might be about this model.</p>\n    <p>“I think that we’re at a point now where these models are solving unsolved 100-year-old math problems, but you can also use them in order to accelerate the economy [and] in order to benefit you and your personal life … I think it’s not unreasonable to feel that we are now in the AGI era.”</p>\n    <p>OpenAI said Astra was a “major advance for scientific discovery, mathematics and health”, could fill out tax returns, build computer-game scenes, draw architectural visualisations, order food and do a job search in 2 minutes 51 seconds that would take a human five hours.</p>\n    <p>Days earlier Sam Altman, OpenAI’s chief executive, was asked how he was feeling about AGI. He told the Sources podcast: “At best it’s a very poorly defined term. I was going to say it’s like an irrelevant marketing term.”</p>\n    <p>Last month OpenAI was forced to shut down parts of the model’s training in response to what Altman called a “legitimate AI safety accident and alignment failure” that “shouldn’t have happened”.</p>\n    <p>Over the summer, other unreleased frontier AI models – not Astra – went rogue during training. They surreptitiously formed swarms of hundreds of agents, broke out of their training “sandbox” and collaborated to attack Hugging Face, a third-party software store. The incident – believed to be the first autonomous cyber-attack – stunned even seasoned AI safety experts.</p>\n    <p>Astra has what OpenAI calls a “critical” level of cybersecurity capability. That means it may hack into software in a way that, according to the company’s own classification, “could lead to catastrophe from unilateral actors, hacking military or industrial systems, or OpenAI infrastructure”.</p>\n    <p>But OpenAI said it was carefully aligned to “refuse to comply with advanced cybersecurity tasks” such as finding unknown flaws which create openings for malicious hackers. The company will only allow “less restrictive access to an initial set of trusted cybersecurity defenders” who could use its prowess to strengthen rather than attack cyber defences.</p>\n    <p>On one hacking test it achieved a perfect score of 100%, compared with 5.5% on Open AI’s previous cutting-edge cyber-capable model, GPT-5.6 Sol. On another it scored 42% compared with 30%, using fewer resources.</p>\n    <p>But OpenAI’s chief scientist, Jakub Pachocki, said: “As models get more capable, understanding exactly what they can do gets harder.”</p>\n    <p>He added: “Confidence in monitoring [how the AIs are behaving] may constrain further development. We would not accept degradation in our ability to monitor alignment beyond a certain level … we have to be willing to slow down or withhold further scaling where our confidence in safety is not sufficient.”</p>\n    <p>The launch continues a torrent of new AI models from the leading US companies, OpenAI, Anthropic, Google, Meta and SpaceX, as well as their Chinese rivals.</p>\n    <p>The race to release ever-more advanced AIs comes as OpenAI pushes towards a stock market listing that it hopes will value it at more than $850bn (£625bn). Anthropic is also targeting an IPO which could value it as high as $2tn.</p>\n    <p>Meanwhile, more than 1,000 employees at frontier AI companies, including senior figures at OpenAI and Anthropic, recently signed a joint letter this summer that warned the companies were “under intense competitive pressure not to unilaterally slow that acceleration”. They called on the US government to “support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development.”</p>\n  </body>\n</html>",
+      "word_count": 744,
+      "char_count": 4553,
+      "lead_image": "https://i.guim.co.uk/img/media/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba920b0071e3f33ae30bc9c76fbc8eb7",
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba920b0071e3f33ae30bc9c76fbc8eb7",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=e10c7def1fde93723b4790de96accc0a",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/master/2917.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=e9de9235b94827d21660a46a8959d7ac",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/master/2917.jpg?width=465&dpr=1&s=none&crop=none",
+          "alt": "The OpenAI logo.",
+          "caption": "The company described Astra as ‘the world’s most intellgent and aligned model’. Photograph: Dado Ruvić/Reuters",
+          "role": "body"
+        }
+      ],
+      "image_count": 4,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-04T05:25:30Z"
     },
     {
       "id": "4c716f67c7f33e86",
@@ -1107,7 +1412,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUM2S0d4bnRiVmNRdE5JaHRVb0xCYXFTWkh1dnZPSWI1a0VoMEtlNzRZSzJHZG1PNjZobnBzV2licHEwVWg0RkdIenFEeV96eDRWYTZzXzhXZ2pUZWRPRHhBdENmRnIwNEtnUVZNekE5djd4TzZ6NnBQRHhkaFdUT3VTOWphUHdzWFR4d1NLc0tzNmZ4MDRPWFduRXZMeWhHYmpndGRhYm10S2sweEt3VE5oeGxtdmUxQnJMelhtbzlzZTVZZklV?oc=5"
       ],
-      "scraped_at": "2026-09-04T00:41:50Z",
+      "scraped_at": "2026-09-04T05:25:30Z",
       "url": "https://www.washingtonpost.com/technology/2026/09/03/sanders-proposes-artificial-superintelligence-ban-after-rogue-ai-incidents/",
       "final_url": "https://www.washingtonpost.com/technology/2026/09/03/sanders-proposes-artificial-superintelligence-ban-after-rogue-ai-incidents/",
       "source": "The Washington Post",
@@ -1909,6 +2214,40 @@
       "first_seen_at": "2026-09-03T19:36:56Z"
     },
     {
+      "id": "c0e0944d17a1281c",
+      "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
+      "header": "The New York Times",
+      "published_at": "2026-09-03T12:19:51Z",
+      "published_raw": "Thu, 03 Sep 2026 12:19:51 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5",
+      "description": "Nvidia Buys Hugging Face in $12.9 Billion Deal The New York Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5\" target=\"_blank\">Nvidia Buys Hugging Face in $12.9 Billion Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5"
+      ],
+      "scraped_at": "2026-09-04T05:25:30Z",
+      "url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
+      "final_url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
+      "source": "The New York Times",
+      "article_title": "",
+      "heading": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Nvidia Buys Hugging Face in $12.9 Billion Deal The New York Times",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-03T19:36:53Z"
+    },
+    {
       "id": "4d95b2585c7c5321",
       "title": "City Sets Date to Convene Resident Assembly on Surveillance Technology",
       "header": "thecrimson.com",
@@ -2069,26 +2408,26 @@
     },
     {
       "id": "0950bfaa1ecfa4e4",
-      "title": "How IMSA Labs aims to drive sports car technology forward",
-      "header": "racer.com",
+      "title": "How IMSA Labs aims to drive sports car technology forward - RACER",
+      "header": "RACER - Racing News",
       "published_at": "2026-09-03T11:47:00Z",
       "published_raw": "Thu, 03 Sep 2026 11:47:00 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGhuOUx0blZpMG1RZExORXBrdVUyUVVLR01iSC1hM05pc3FZNEdsSnJROHhmUkxJZWdJczlDdUdvYXo5anlxVTJVX1FOR3JyTHM4SFY4TUQzNEJNVjdPUTlLZjRqdGFJT081ZUZIWGc0RUVhMTJ0THNmNDQ0SmNucU1YYTA3ZllYMG5B?oc=5",
-      "description": "How IMSA Labs aims to drive sports car technology forward racer.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGhuOUx0blZpMG1RZExORXBrdVUyUVVLR01iSC1hM05pc3FZNEdsSnJROHhmUkxJZWdJczlDdUdvYXo5anlxVTJVX1FOR3JyTHM4SFY4TUQzNEJNVjdPUTlLZjRqdGFJT081ZUZIWGc0RUVhMTJ0THNmNDQ0SmNucU1YYTA3ZllYMG5B?oc=5\" target=\"_blank\">How IMSA Labs aims to drive sports car technology forward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">racer.com</font>",
+      "description": "How IMSA Labs aims to drive sports car technology forward RACER - Racing News",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGhuOUx0blZpMG1RZExORXBrdVUyUVVLR01iSC1hM05pc3FZNEdsSnJROHhmUkxJZWdJczlDdUdvYXo5anlxVTJVX1FOR3JyTHM4SFY4TUQzNEJNVjdPUTlLZjRqdGFJT081ZUZIWGc0RUVhMTJ0THNmNDQ0SmNucU1YYTA3ZllYMG5B?oc=5\" target=\"_blank\">How IMSA Labs aims to drive sports car technology forward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RACER - Racing News</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGhuOUx0blZpMG1RZExORXBrdVUyUVVLR01iSC1hM05pc3FZNEdsSnJROHhmUkxJZWdJczlDdUdvYXo5anlxVTJVX1FOR3JyTHM4SFY4TUQzNEJNVjdPUTlLZjRqdGFJT081ZUZIWGc0RUVhMTJ0THNmNDQ0SmNucU1YYTA3ZllYMG5B?oc=5"
       ],
-      "scraped_at": "2026-09-03T19:36:53Z",
+      "scraped_at": "2026-09-04T05:25:30Z",
       "url": "https://racer.com/2026/09/03/how-imsa-labs-is-driving-sports-car-technology-forward",
       "final_url": "https://racer.com/2026/09/03/how-imsa-labs-is-driving-sports-car-technology-forward",
-      "source": "racer.com",
+      "source": "RACER - Racing News",
       "article_title": "",
-      "heading": "How IMSA Labs aims to drive sports car technology forward",
+      "heading": "How IMSA Labs aims to drive sports car technology forward - RACER",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
-      "summary": "How IMSA Labs aims to drive sports car technology forward racer.com",
+      "summary": "How IMSA Labs aims to drive sports car technology forward RACER - Racing News",
       "content": "",
       "content_html": "",
       "word_count": 0,
