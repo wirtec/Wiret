@@ -1,17 +1,157 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-04T23:40:51Z",
-  "count": 427,
+  "generated_at": "2026-09-05T02:43:53Z",
+  "count": 432,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 17,
-    "added": 14,
-    "updated": 3,
-    "ok": 324,
-    "failed": 103,
-    "duration_seconds": 11.88
+    "scraped_now": 9,
+    "added": 5,
+    "updated": 4,
+    "ok": 327,
+    "failed": 105,
+    "duration_seconds": 14.47
   },
   "articles": [
+    {
+      "id": "4441031f9dd696d3",
+      "title": "Visualizing Michael Busch's swing using bat tracking technology",
+      "header": "mlb.com",
+      "published_at": "2026-09-05T02:15:38Z",
+      "published_raw": "Sat, 05 Sep 2026 02:15:38 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS211SXBuU2hlaGFNbnFRR1BSS1JTSWtHbXBDQUNVU1BxTFVaNjhYQ2k3MVgxbnM1eEY0djBUd2xlYTBiMFRxMTIyOERZYUg2WlhwUVdIYmIzU2NEOHhVeks1UXBsZnRJb1gtU2FJcnY3UkJ5MXFIWTU0b19ZRUFvQTdEdHdHbl9iSUFFcENEQlVWNFhKRTRoZWpZSk9VN0IwY1E?oc=5",
+      "description": "Visualizing Michael Busch's swing using bat tracking technology mlb.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOS211SXBuU2hlaGFNbnFRR1BSS1JTSWtHbXBDQUNVU1BxTFVaNjhYQ2k3MVgxbnM1eEY0djBUd2xlYTBiMFRxMTIyOERZYUg2WlhwUVdIYmIzU2NEOHhVeks1UXBsZnRJb1gtU2FJcnY3UkJ5MXFIWTU0b19ZRUFvQTdEdHdHbl9iSUFFcENEQlVWNFhKRTRoZWpZSk9VN0IwY1E?oc=5\" target=\"_blank\">Visualizing Michael Busch's swing using bat tracking technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mlb.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS211SXBuU2hlaGFNbnFRR1BSS1JTSWtHbXBDQUNVU1BxTFVaNjhYQ2k3MVgxbnM1eEY0djBUd2xlYTBiMFRxMTIyOERZYUg2WlhwUVdIYmIzU2NEOHhVeks1UXBsZnRJb1gtU2FJcnY3UkJ5MXFIWTU0b19ZRUFvQTdEdHdHbl9iSUFFcENEQlVWNFhKRTRoZWpZSk9VN0IwY1E?oc=5"
+      ],
+      "scraped_at": "2026-09-05T02:43:40Z",
+      "url": "https://www.mlb.com/cubs/video/visualizing-michael-busch-s-swing-using-bat-tracking-technology-x6266",
+      "final_url": "https://www.mlb.com/cubs/video/visualizing-michael-busch-s-swing-using-bat-tracking-technology-x6266",
+      "source": "MLB.com",
+      "article_title": "Visualizing Michael Busch's swing using bat tracking technology | 09/04/2026",
+      "heading": "Visualizing Michael Busch's swing using bat tracking technology",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "The data behind Michael Busch's swing",
+      "content": "Tickets\nBuy Tickets\n2026 Postseason Tickets\nSingle Game Tickets\nSchool Night Special\nSeason Ticket Waitlist\n2027 Ticket Deposits\n2026 Promo Calendar\nSuites and Premier Seating\nGroup Tickets\nConcerts at Wrigley Field\nWrigley Field Experience\nCUBS U Student Tickets\nMy Cubs Tickets\n3D Seating Map\nSeatGeek\nSchedule\n2026 Regular Season Schedule\n2027 Regular Season Schedule\n2027 All-Star Game\nAdd Schedule To Calendar\nSortable Schedule\nPrintable Schedule\n2026 Promo Calendar\nMLB Events\nBroadcast Affiliates Guide\nScores\nWrigley Field\nBallpark Information\nKnow Before You Go\nWrigley Field Tours\nParking and Transportation\nWrigley Field Seating Map\nSloan Park\nSpecial Events at Wrigley Field\nConcerts at Wrigley Field\n2027 All-Star Game\nGround Rules\nA to Z Guide\nDirections\nWrigley Field Netting\nCubs Store\nMobile Wallet\nCubs Archive\nConcourse Map\nRoster\n40-Man Roster\nCoaches\nTransactions\nInjury Updates\nDraft Results\nFront Office\nBroadcasters\nDepth Chart\nAll-time Roster\nTop 30 Prospects\nMinor League Affiliates\nStandings\nStats\nTeam Stats\nTop Prospect Stats\nAffiliate Stats\nCubs Kids\nCubs Convention\nClark's Crew\nCubs Kids\nKids Sundays\nCubs Summer Camps\nCubs Charities\nCubscharities.org\nCharities Newsletter\nDonate to Cubs Charities\nIn-Kind Donations\n50/50 Raffle\nCubs Charities Programs\nRace to Wrigley\nBricks and Ivy\nScholars\nWrigley Field Neighbors\nMLB Together\nNews\nProbable Pitchers\nOfficial Releases\nCubs Pipeline\nRSS News Feeds\nCubs History\nCubs History Feature Stories\nMLB News\nWeather Updates\nVideo\nCubs Game Recap\nCubs Cut4\nCubs Reviews\nCubs Manager Postgame\nMost Popular\nMLB Network\nCubs All Access\nApps\nMLB\nMLB Ballpark\nMLB Play\nMiLB\nMLB FAQs\nMLB Ballpark FAQs\nMLB Play FAQs\nStay Connected\nMLB Ballpark\nMLB Ballpark FAQs\nCubs Newsletter\nCubs SMS\nCUBSU\nSocla Media Clubhouse\nMLB.TV\nBuy MLB.TV\nLearn More\nAll Packages\nWatch & Listen\nHelp Center\nShop\nJerseys\nCaps\nMen's\nWomen's\nKids\nBig & Tall\nTrading Cards\nCollectibles & Memorabilia\nHome & Office\nClearance\nEuropean Shop\nGift Certificates\nCubs Auctions - Bid or Buy\nMLB Auctions - Bid or Buy\nMLB Authentication\nTeam Store Locations\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nEspañol\nLog in\nChannels\nReels\nVisualizing Michael Busch's swing using bat tracking technology\nCubs @ Marlins\nSeptember 4, 2026 | 00:00:11\nReels\nShare\nThe data behind Michael Busch's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nMichael Busch\nChicago Cubs",
+      "content_html": "<html>\n  <body>\n    <p>Tickets\nBuy Tickets\n2026 Postseason Tickets\nSingle Game Tickets\nSchool Night Special\nSeason Ticket Waitlist\n2027 Ticket Deposits\n2026 Promo Calendar\nSuites and Premier Seating\nGroup Tickets\nConcerts at Wrigley Field\nWrigley Field Experience\nCUBS U Student Tickets\nMy Cubs Tickets\n3D Seating Map\nSeatGeek\nSchedule\n2026 Regular Season Schedule\n2027 Regular Season Schedule\n2027 All-Star Game\nAdd Schedule To Calendar\nSortable Schedule\nPrintable Schedule\n2026 Promo Calendar\nMLB Events\nBroadcast Affiliates Guide\nScores\nWrigley Field\nBallpark Information\nKnow Before You Go\nWrigley Field Tours\nParking and Transportation\nWrigley Field Seating Map\nSloan Park\nSpecial Events at Wrigley Field\nConcerts at Wrigley Field\n2027 All-Star Game\nGround Rules\nA to Z Guide\nDirections\nWrigley Field Netting\nCubs Store\nMobile Wallet\nCubs Archive\nConcourse Map\nRoster\n40-Man Roster\nCoaches\nTransactions\nInjury Updates\nDraft Results\nFront Office\nBroadcasters\nDepth Chart\nAll-time Roster\nTop 30 Prospects\nMinor League Affiliates\nStandings\nStats\nTeam Stats\nTop Prospect Stats\nAffiliate Stats\nCubs Kids\nCubs Convention\nClark's Crew\nCubs Kids\nKids Sundays\nCubs Summer Camps\nCubs Charities\nCubscharities.org\nCharities Newsletter\nDonate to Cubs Charities\nIn-Kind Donations\n50/50 Raffle\nCubs Charities Programs\nRace to Wrigley\nBricks and Ivy\nScholars\nWrigley Field Neighbors\nMLB Together\nNews\nProbable Pitchers\nOfficial Releases\nCubs Pipeline\nRSS News Feeds\nCubs History\nCubs History Feature Stories\nMLB News\nWeather Updates\nVideo\nCubs Game Recap\nCubs Cut4\nCubs Reviews\nCubs Manager Postgame\nMost Popular\nMLB Network\nCubs All Access\nApps\nMLB\nMLB Ballpark\nMLB Play\nMiLB\nMLB FAQs\nMLB Ballpark FAQs\nMLB Play FAQs\nStay Connected\nMLB Ballpark\nMLB Ballpark FAQs\nCubs Newsletter\nCubs SMS\nCUBSU\nSocla Media Clubhouse\nMLB.TV\nBuy MLB.TV\nLearn More\nAll Packages\nWatch &amp; Listen\nHelp Center\nShop\nJerseys\nCaps\nMen's\nWomen's\nKids\nBig &amp; Tall\nTrading Cards\nCollectibles &amp; Memorabilia\nHome &amp; Office\nClearance\nEuropean Shop\nGift Certificates\nCubs Auctions - Bid or Buy\nMLB Auctions - Bid or Buy\nMLB Authentication\nTeam Store Locations\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nEspañol\nLog in\nChannels\nReels\nVisualizing Michael Busch's swing using bat tracking technology\nCubs @ Marlins\nSeptember 4, 2026 | 00:00:11\nReels\nShare\nThe data behind Michael Busch's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nMichael Busch\nChicago Cubs</p>\n  </body>\n</html>",
+      "word_count": 483,
+      "char_count": 3235,
+      "lead_image": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/xenmynr6ozdvg5jgptnb",
+      "images": [
+        {
+          "url": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/xenmynr6ozdvg5jgptnb",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-05T02:43:40Z"
+    },
+    {
+      "id": "3d49e71151a454d9",
+      "title": "Sacramento company develops clean energy technology for AI data centers",
+      "header": "KCRA",
+      "published_at": "2026-09-05T01:45:00Z",
+      "published_raw": "Sat, 05 Sep 2026 01:45:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORk53SHhISTVkeGlDYUpnYzBpaXYzRlJRRzZiRVdwSTFPaUNSbGp4UnJJZmxwdFZWOVpKa3QtMkYxWWZFZWJVTnRjb0FlSW9FaFBlT3o0Vmt1RnhIRUxLSFZRVDE3Y1I0ZkJPd2JhZE1QMjBoNTNFODhxeWJ6UXRDR3ZyVGpSV3dncGZPRmNrSkp5OXF4?oc=5",
+      "description": "Sacramento company develops clean energy technology for AI data centers KCRA",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxORk53SHhISTVkeGlDYUpnYzBpaXYzRlJRRzZiRVdwSTFPaUNSbGp4UnJJZmxwdFZWOVpKa3QtMkYxWWZFZWJVTnRjb0FlSW9FaFBlT3o0Vmt1RnhIRUxLSFZRVDE3Y1I0ZkJPd2JhZE1QMjBoNTNFODhxeWJ6UXRDR3ZyVGpSV3dncGZPRmNrSkp5OXF4?oc=5\" target=\"_blank\">Sacramento company develops clean energy technology for AI data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCRA</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxORk53SHhISTVkeGlDYUpnYzBpaXYzRlJRRzZiRVdwSTFPaUNSbGp4UnJJZmxwdFZWOVpKa3QtMkYxWWZFZWJVTnRjb0FlSW9FaFBlT3o0Vmt1RnhIRUxLSFZRVDE3Y1I0ZkJPd2JhZE1QMjBoNTNFODhxeWJ6UXRDR3ZyVGpSV3dncGZPRmNrSkp5OXF4?oc=5"
+      ],
+      "scraped_at": "2026-09-05T02:43:40Z",
+      "url": "https://www.kcra.com/article/sacramento-company-clean-energy-tech-ai-data-centers/73619917",
+      "final_url": "https://www.kcra.com/article/sacramento-company-clean-energy-tech-ai-data-centers/73619917",
+      "source": "KCRA",
+      "article_title": "Sacramento company develops clean energy technology for AI data centers",
+      "heading": "Sacramento company develops clean energy technology for AI data centers",
+      "authors": [
+        "Cecil Hannibal"
+      ],
+      "article_published_at": "2026-09-04T23:46:00Z",
+      "article_modified_at": "2026-09-05T02:09:18.434293Z",
+      "summary": "Sacramento company develops clean energy technology for AI data centers",
+      "content": "Sacramento company develops clean energy technology for AI data centers\nLiCAP Technologies, a Sacramento-based clean energy technology company, is developing advanced ultracapacitors that charge and release energy faster than batteries, with a patented process that reduces environmental impact.\n\"We believe that Sacramento is a hub for clean technology in the region,\" said Richard Qiu, president of LiCAP Technologies.\nRichard Qiu said the company recently announced its new rack level ultracapacitor energy storage system which is engineered for the high-power and fast-response demands of AI data centers.\nLiCAP’s patented a process called \"activated dry electrode technology\" to create ultracapacitors while most of the industry uses a wet coating process that's more harmful to the environment according to the company.\n\"It's a major environmental impact to remove that chemical from the process,\" said Eric Fodge.\nFodge added, \"Doing something that can literally impact everyone on the planet is very rewarding.\"\nThe company, which employs nearly 50 people, plans to triple the size of its facility and hire more workers in the Sacramento region.\n\"Our belief is not only are we making interesting technology, but also we want to make sure we're building resources that help the local community...to do this all together,\" Qiu said.\nIn June, the California Energy Commission awarded LiCAP an $11.3 million grant to expand its manufacturing capabilities.",
+      "content_html": "<html>\n  <body>\n    <h1>Sacramento company develops clean energy technology for AI data centers</h1>\n    <img src=\"https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/site_branding/kcra.png\" alt=\"KCRA branding logo\"/>\n    <img src=\"https://hips.hearstapps.com/rover/profile_photos/0b5d8c11-e263-4cc0-9f5c-6cf95204ecd2_1732122704.jpeg?resize=100:*\" alt=\"Cecil Hannibal\"/>\n    <p>Sacramento company develops clean energy technology for AI data centers</p>\n    <img src=\"https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/site_branding/kcra.png\" alt=\"KCRA branding logo\"/>\n    <img src=\"https://hips.hearstapps.com/rover/profile_photos/0b5d8c11-e263-4cc0-9f5c-6cf95204ecd2_1732122704.jpeg?resize=100:*\" alt=\"Cecil Hannibal\"/>\n    <p>LiCAP Technologies, a Sacramento-based clean energy technology company, is developing advanced ultracapacitors that charge and release energy faster than batteries, with a patented process that reduces environmental impact.</p>\n    <p>\"We believe that Sacramento is a hub for clean technology in the region,\" said Richard Qiu, president of LiCAP Technologies.</p>\n    <p>Richard Qiu said the company recently announced its new rack level ultracapacitor energy storage system which is engineered for the high-power and fast-response demands of AI data centers.</p>\n    <p>LiCAP’s patented a process called \"activated dry electrode technology\" to create ultracapacitors while most of the industry uses a wet coating process that's more harmful to the environment according to the company.</p>\n    <p>\"It's a major environmental impact to remove that chemical from the process,\" said Eric Fodge.</p>\n    <p>Fodge added, \"Doing something that can literally impact everyone on the planet is very rewarding.\"</p>\n    <p>The company, which employs nearly 50 people, plans to triple the size of its facility and hire more workers in the Sacramento region.</p>\n    <p>\"Our belief is not only are we making interesting technology, but also we want to make sure we're building resources that help the local community...to do this all together,\" Qiu said.</p>\n    <p>In June, the California Energy Commission awarded LiCAP an $11.3 million grant to expand its manufacturing capabilities.</p>\n    <img src=\"https://htv-prod-media.s3.amazonaws.com/htv_default_image/kcra/logo.png\" alt=\"KCRA Logo\"/>\n  </body>\n</html>",
+      "word_count": 219,
+      "char_count": 1459,
+      "lead_image": "https://kubrick.htvapps.com/vidthumb/8cdebe96-924e-49c8-8189-0c25198cfe3a/2ce46068-8bf3-4ab4-bd46-beae5838823b.jpg?crop=0.801xw%3A0.801xh%3B0.107xw%2C0&resize=1200%3A*",
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/8cdebe96-924e-49c8-8189-0c25198cfe3a/2ce46068-8bf3-4ab4-bd46-beae5838823b.jpg?crop=0.801xw%3A0.801xh%3B0.107xw%2C0&resize=1200%3A*",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/8cdebe96-924e-49c8-8189-0c25198cfe3a/2ce46068-8bf3-4ab4-bd46-beae5838823b.jpg?resize=1200%3A*",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/site_branding/kcra.png",
+          "alt": "KCRA branding logo",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://hips.hearstapps.com/rover/profile_photos/0b5d8c11-e263-4cc0-9f5c-6cf95204ecd2_1732122704.jpeg?resize=100:*",
+          "alt": "Cecil Hannibal",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 4,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-05T02:43:40Z"
+    },
+    {
+      "id": "f1382f056fbc537a",
+      "title": "Visualizing Alec Bohm's swing using bat tracking technology",
+      "header": "mlb.com",
+      "published_at": "2026-09-05T00:18:08Z",
+      "published_raw": "Sat, 05 Sep 2026 00:18:08 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnNqQ2c1aVhPc0phLUc4T2MtcElhbFBDQzVqX0FTTUNYU09rLTZuQUZsYVowVUw0Rkh6Wi1EOFVqV0FyRGlkRmo1RVNlaTFObzVST3hXdGZobXhjdDNKTkNVYjhHZFh0MGFlakpGaXVqYWIzSXk5SlBpYjlwUEFUZzVPM0RSbUN0RGpaR0FtNFdtZk8yOEt4N1JocjNnRFlWaEE?oc=5",
+      "description": "Visualizing Alec Bohm's swing using bat tracking technology mlb.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnNqQ2c1aVhPc0phLUc4T2MtcElhbFBDQzVqX0FTTUNYU09rLTZuQUZsYVowVUw0Rkh6Wi1EOFVqV0FyRGlkRmo1RVNlaTFObzVST3hXdGZobXhjdDNKTkNVYjhHZFh0MGFlakpGaXVqYWIzSXk5SlBpYjlwUEFUZzVPM0RSbUN0RGpaR0FtNFdtZk8yOEt4N1JocjNnRFlWaEE?oc=5\" target=\"_blank\">Visualizing Alec Bohm's swing using bat tracking technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mlb.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnNqQ2c1aVhPc0phLUc4T2MtcElhbFBDQzVqX0FTTUNYU09rLTZuQUZsYVowVUw0Rkh6Wi1EOFVqV0FyRGlkRmo1RVNlaTFObzVST3hXdGZobXhjdDNKTkNVYjhHZFh0MGFlakpGaXVqYWIzSXk5SlBpYjlwUEFUZzVPM0RSbUN0RGpaR0FtNFdtZk8yOEt4N1JocjNnRFlWaEE?oc=5"
+      ],
+      "scraped_at": "2026-09-05T02:43:40Z",
+      "url": "https://www.mlb.com/phillies/video/visualizing-alec-bohm-s-swing-using-bat-tracking-technology-x9313",
+      "final_url": "https://www.mlb.com/phillies/video/visualizing-alec-bohm-s-swing-using-bat-tracking-technology-x9313",
+      "source": "MLB.com",
+      "article_title": "Visualizing Alec Bohm's swing using bat tracking technology | 09/04/2026",
+      "heading": "Visualizing Alec Bohm's swing using bat tracking technology",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "The data behind Alec Bohm's swing",
+      "content": "Tickets\nSingle Game Tickets\nSeason Ticket Plans\nPromotions and Giveaways\nGroup Tickets\nTheme Nights\nSeason Ticket Deposits\nMilitary & First Responders Offer\nPremium Seating\nSuites & Hospitality\nParking Passes\nGift Cards\nMobile Ticketing\nMy Phillies Tickets\nConcerts\nCommemorative Tickets\nSeatGeek\nText For Ticket Deals\nGHOST® Energy Ticket Bundle\nPostseason Ticket Information\nSchedule\nSpring Training Schedule\nSortable Schedule\nDownloadable Schedule\nPrintable Schedule\nPostponed Game Information\nMLB Events\nScores\nStats\nTeam Stats\nTop Prospect Stats\nBaseball Savant\nRoster\n40-Man Roster\nDepth Chart\nCoaches\nTop 30 Prospects\nTransactions\nDraft Results\nFront Office\nBroadcasters\nPhillies Alumni\nPlayer Search\nPhillies Ballgirls\nMinor League Affiliates\nMinor League Boxscores\nVideo\nPhillies Reviews\nPhillies Manager Postgame\nPhillies Cut4\nMost Popular\nPhillies Game Recap\nPhillies Podcasts\nMLB Network\nNews\nOfficial Releases\nProbable Pitchers\nPhillies Pipeline\nPhillies History\nPhillies History Feature Stories\nMLB News\nCitizens Bank Park\nKnow Before You Go\nSpecial Events\nBallpark Tours\nBallpark Information\nGetting to the Ballpark\nThe Yard\nKing Swings Playground\nConcessions\nSeating Map\nConcourse Map\nNew Era Phillies Team Store\nPhillies Authentics\nGo-Ahead Entry\nPhillies Wallet\nCommunity\nPhillies Charities 5K\nPhillies Charities, Inc.\nPhillies Salute the Military\nPhillies Family\nRed Goes Green\nYouth Baseball & Softball Development Programs\nEducational Programs\nPhillies Charities 50/50 Drawing\nStrike Out The Stigma\nPhillies and IBX Give Back\nMLB Together\nFans\nPhillies City Connect\nSocial Media Clubhouse\nPhillies Fan Clubs\nInside Pitch Newsletter\nPhillies Kids\nExperiences and Merchandise\nPhanatic Central\nPhillies Vacations\nRoad Trips\nPhillies Vacation in Paradise\nPhillies Yearbook\nPhantasy Camp\nGift Guide\nBeyond the Bell Blog\nFirst Game Certificate\nApps\nMLB\nMLB Ballpark\nMLB Play\nMiLB\nMLB FAQs\nMLB Ballpark FAQs\nMLB Play FAQs\nStandings\nMLB.TV\nBuy MLB.TV\nBuy Phillies.TV\nBuy MLB+\nWatch & Listen\nHelp Center\nShop\nJerseys\nCaps\nMen's\nWomen's\nKids\nBig & Tall\nTrading Cards\nCollectibles & Memorabilia\nHome & Office\nClearance\nEuropean Shop\nMLB.com Gift Certificates\nPhillies Authentic Shop\nPhillies Auctions - Bid or Buy\nMLB Auctions - Bid or Buy\nMLB Authentication\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nEspañol\nLog in\nChannels\nReels\nVisualizing Alec Bohm's swing using bat tracking technology\nBraves @ Phillies\nSeptember 4, 2026 | 00:00:11\nReels\nShare\nThe data behind Alec Bohm's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nAlec Bohm\nPhiladelphia Phillies",
+      "content_html": "<html>\n  <body>\n    <p>Tickets\nSingle Game Tickets\nSeason Ticket Plans\nPromotions and Giveaways\nGroup Tickets\nTheme Nights\nSeason Ticket Deposits\nMilitary &amp; First Responders Offer\nPremium Seating\nSuites &amp; Hospitality\nParking Passes\nGift Cards\nMobile Ticketing\nMy Phillies Tickets\nConcerts\nCommemorative Tickets\nSeatGeek\nText For Ticket Deals\nGHOST® Energy Ticket Bundle\nPostseason Ticket Information\nSchedule\nSpring Training Schedule\nSortable Schedule\nDownloadable Schedule\nPrintable Schedule\nPostponed Game Information\nMLB Events\nScores\nStats\nTeam Stats\nTop Prospect Stats\nBaseball Savant\nRoster\n40-Man Roster\nDepth Chart\nCoaches\nTop 30 Prospects\nTransactions\nDraft Results\nFront Office\nBroadcasters\nPhillies Alumni\nPlayer Search\nPhillies Ballgirls\nMinor League Affiliates\nMinor League Boxscores\nVideo\nPhillies Reviews\nPhillies Manager Postgame\nPhillies Cut4\nMost Popular\nPhillies Game Recap\nPhillies Podcasts\nMLB Network\nNews\nOfficial Releases\nProbable Pitchers\nPhillies Pipeline\nPhillies History\nPhillies History Feature Stories\nMLB News\nCitizens Bank Park\nKnow Before You Go\nSpecial Events\nBallpark Tours\nBallpark Information\nGetting to the Ballpark\nThe Yard\nKing Swings Playground\nConcessions\nSeating Map\nConcourse Map\nNew Era Phillies Team Store\nPhillies Authentics\nGo-Ahead Entry\nPhillies Wallet\nCommunity\nPhillies Charities 5K\nPhillies Charities, Inc.\nPhillies Salute the Military\nPhillies Family\nRed Goes Green\nYouth Baseball &amp; Softball Development Programs\nEducational Programs\nPhillies Charities 50/50 Drawing\nStrike Out The Stigma\nPhillies and IBX Give Back\nMLB Together\nFans\nPhillies City Connect\nSocial Media Clubhouse\nPhillies Fan Clubs\nInside Pitch Newsletter\nPhillies Kids\nExperiences and Merchandise\nPhanatic Central\nPhillies Vacations\nRoad Trips\nPhillies Vacation in Paradise\nPhillies Yearbook\nPhantasy Camp\nGift Guide\nBeyond the Bell Blog\nFirst Game Certificate\nApps\nMLB\nMLB Ballpark\nMLB Play\nMiLB\nMLB FAQs\nMLB Ballpark FAQs\nMLB Play FAQs\nStandings\nMLB.TV\nBuy MLB.TV\nBuy Phillies.TV\nBuy MLB+\nWatch &amp; Listen\nHelp Center\nShop\nJerseys\nCaps\nMen's\nWomen's\nKids\nBig &amp; Tall\nTrading Cards\nCollectibles &amp; Memorabilia\nHome &amp; Office\nClearance\nEuropean Shop\nMLB.com Gift Certificates\nPhillies Authentic Shop\nPhillies Auctions - Bid or Buy\nMLB Auctions - Bid or Buy\nMLB Authentication\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nEspañol\nLog in\nChannels\nReels\nVisualizing Alec Bohm's swing using bat tracking technology\nBraves @ Phillies\nSeptember 4, 2026 | 00:00:11\nReels\nShare\nThe data behind Alec Bohm's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nAlec Bohm\nPhiladelphia Phillies</p>\n  </body>\n</html>",
+      "word_count": 488,
+      "char_count": 3414,
+      "lead_image": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/ke4evnmcecr1xfgvxkgg",
+      "images": [
+        {
+          "url": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/ke4evnmcecr1xfgvxkgg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-05T02:43:40Z"
+    },
     {
       "id": "d65309693efa7a0b",
       "title": "Technology is reshaping education. But is it helping students learn?",
@@ -24,7 +164,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZU5zSkVRZkZDOTFEQlBEYVNoUzNZLVFGOE5IczB3VVhldWE4TF9waGxUVWJSeEtPMUFjeVY5b0JXM1E2WXdFYjJUVERZM2lMOGtfT1lWQW42Tms2SnNkOEdIdEdVVDBFZ2JuZ0d3NzdRTm42U0dWZFB1emUyZWJRX0ROb2w4b2FOcE0wRVBiRDN3YWpEeXJZZGp2UVpVeGIxV2gtc00xX19zU2JJeGxqT3FOMUFieThhS0E?oc=5"
       ],
-      "scraped_at": "2026-09-04T23:40:39Z",
+      "scraped_at": "2026-09-05T02:43:40Z",
       "url": "https://www.pbs.org/newshour/video/horizons/2026/09/technology-is-reshaping-education-but-is-it-helping-students-learn",
       "final_url": "https://www.pbs.org/newshour/video/horizons/2026/09/technology-is-reshaping-education-but-is-it-helping-students-learn",
       "source": "pbs.org",
@@ -529,7 +669,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSVFVbG93TmxmTTJuRXZlRThCNmVDREJDQUd1eVFic0VSY1FWaDFYX1RYdmxoclBJV25tNnhCSG4zbERuaEhSTVQxd1VkTDc4VENaUlgtcF9uWlZwRjJPd1NrY2g3dl9wVG0wdkxJR215VVdSTTlIT2NOVkxxYmRpS0lTOHh4WFU2b2dnWmxUdHJ3dlo2SUJTbTFFVQ?oc=5"
       ],
-      "scraped_at": "2026-09-04T18:02:21Z",
+      "scraped_at": "2026-09-05T02:43:42Z",
       "url": "https://patimes.org/fusus-using-technology-to-build-public-safety-partnerships-with-businesses/",
       "final_url": "https://patimes.org/fusus-using-technology-to-build-public-safety-partnerships-with-businesses/",
       "source": "PA TIMES Online",
@@ -604,6 +744,40 @@
       "first_seen_at": "2026-09-04T18:02:18Z"
     },
     {
+      "id": "a81d7320aec53dad",
+      "title": "Kubota Brings a Thoughtful Approach to Technology with Work Smart",
+      "header": "Brownfield Ag News",
+      "published_at": "2026-09-04T17:48:53Z",
+      "published_raw": "Fri, 04 Sep 2026 17:48:53 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFkwalJad1otMXFETEJrLUM3WHZ4QUJqWGZNQVduS1pWVEVVSllWV0NKY1BLMnZDbnVqOXFtQXVXX1M3d0w0ZTRraVdJeDR0V3hlOGMxeVpQeVcwZFo0SThFSjZybVhCMHQxMENxdDd1ZHV2UDg1azIwZi1QcURFVkV5U0lTSkJIaFR5M21VZmNOY1NfSmg2Vmtsc0ItMm9hNXdqeTlSNA?oc=5",
+      "description": "Kubota Brings a Thoughtful Approach to Technology with Work Smart Brownfield Ag News",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFkwalJad1otMXFETEJrLUM3WHZ4QUJqWGZNQVduS1pWVEVVSllWV0NKY1BLMnZDbnVqOXFtQXVXX1M3d0w0ZTRraVdJeDR0V3hlOGMxeVpQeVcwZFo0SThFSjZybVhCMHQxMENxdDd1ZHV2UDg1azIwZi1QcURFVkV5U0lTSkJIaFR5M21VZmNOY1NfSmg2Vmtsc0ItMm9hNXdqeTlSNA?oc=5\" target=\"_blank\">Kubota Brings a Thoughtful Approach to Technology with Work Smart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brownfield Ag News</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFkwalJad1otMXFETEJrLUM3WHZ4QUJqWGZNQVduS1pWVEVVSllWV0NKY1BLMnZDbnVqOXFtQXVXX1M3d0w0ZTRraVdJeDR0V3hlOGMxeVpQeVcwZFo0SThFSjZybVhCMHQxMENxdDd1ZHV2UDg1azIwZi1QcURFVkV5U0lTSkJIaFR5M21VZmNOY1NfSmg2Vmtsc0ItMm9hNXdqeTlSNA?oc=5"
+      ],
+      "scraped_at": "2026-09-05T02:43:42Z",
+      "url": "https://www.brownfieldagnews.com/news/kubota-brings-a-thoughtful-approach-to-technology-with-work-smart/",
+      "final_url": "https://www.brownfieldagnews.com/news/kubota-brings-a-thoughtful-approach-to-technology-with-work-smart/",
+      "source": "Brownfield Ag News",
+      "article_title": "",
+      "heading": "Kubota Brings a Thoughtful Approach to Technology with Work Smart",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Kubota Brings a Thoughtful Approach to Technology with Work Smart Brownfield Ag News",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-05T02:43:42Z"
+    },
+    {
       "id": "584d49f2880b7be5",
       "title": "CLAAS expands harvesting portfolio with new technology",
       "header": "michiganfarmnews.com",
@@ -663,7 +837,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTmFucEJ4VFN0a1o3aUpZWWttMEpyQXZsOGNIY1gtd1ZnMmc1dnNXcm9qdG9tMHVUSzFEbWRUdDVOMkVRckZnUHRzRjZOZ3hVdXhmS3poTHZoNlg2ckJobi0xbGJyQW1CYTEwVUdmWmt0czFpSXhkX0RiNWNSa2x4eFVJWXRUdHo2dkZUZTRubWpXZnR6NlZzVkNHTno4azA2TVhRb2YzMXIyZ1lseUY4a2g0eDZERnI5N1cwMEUwMjg4WFY5a0UwQ01HOXk3R1FGRENZ?oc=5"
       ],
-      "scraped_at": "2026-09-04T23:40:39Z",
+      "scraped_at": "2026-09-05T02:43:42Z",
       "url": "https://federalnewsnetwork.com/cybersecurity/2026/09/as-washington-races-ahead-are-existing-national-security-technology-systems-at-risk/",
       "final_url": "https://federalnewsnetwork.com/amtower-off-center/2019/03/amplifying-your-brand-in-the-govcon-market/",
       "source": "Federal News Network",
@@ -676,7 +850,7 @@
       "article_modified_at": "2019-05-14T23:23+00:00",
       "summary": "How are communications and public relations evolving in the GovCon market? Host Mark Amtower discusses the evolving nature the two concepts in the government contracting market with Evan Weisel Tony Welz and Stephen Mackey of W2 Communications.",
       "content": "How are communications and public relations evolving in the GovCon market? Host Mark Amtower discusses the evolving nature the two concepts in the government...\nBest listening experience is on Chrome, Firefox or Safari. Subscribe to Amtower Off Center’s audio interviews on Apple Podcasts or PodcastOne.\nThis week on Amtower Off Center, host Mark Amtower interviews Evan Weisel, Tony Welz and Stephen Mackey of W2 Communications on the evolving nature of communications and PR in GovCon.\nStephen Mackey, Evan Weisel and Tony Welz, W2 Communications (Left to right)\nThe PR coup at the RSA Conference 10 years ago when W2 got their clients in front of media for hours by staging an invitation only Texas Hold’em poker tournament at RSA",
-      "content_html": "<html>\n  <body>\n    <p>How are communications and public relations evolving in the GovCon market? Host Mark Amtower discusses the evolving nature the two concepts in the government...</p>\n    <p>Best listening experience is on Chrome, Firefox or Safari. Subscribe to Amtower Off Center’s audio interviews on Apple Podcasts or PodcastOne.</p>\n    <p>This week on Amtower Off Center, host Mark Amtower interviews Evan Weisel, Tony Welz and Stephen Mackey of W2 Communications on the evolving nature of communications and PR in GovCon.</p>\n    <p>Topics include:</p>\n    <p>Join us Oct. 1 &amp; 2 for our Cyber Leaders Exchange event where government and industry experts will discuss how agencies can secure the AI-driven federal enterprise while advancing innovation and mission delivery. Register today!</p>\n    <p>Copyright © 2026 Federal News Network. All rights reserved. This website is not intended for users located within the European Economic Area.</p>\n  </body>\n</html>",
+      "content_html": "<html>\n  <body>\n    <p>How are communications and public relations evolving in the GovCon market? Host Mark Amtower discusses the evolving nature the two concepts in the government...</p>\n    <p>Best listening experience is on Chrome, Firefox or Safari. Subscribe to Amtower Off Center’s audio interviews on Apple Podcasts or PodcastOne.</p>\n    <p>This week on Amtower Off Center, host Mark Amtower interviews Evan Weisel, Tony Welz and Stephen Mackey of W2 Communications on the evolving nature of communications and PR in GovCon.</p>\n    <p>Topics include:</p>\n    <p>Join us Sept. 15 and 17 for the Federal Leader’s Guide to the CAIO &amp; CDO where leaders will share what's shaping the future of government. Register today!</p>\n    <p>Copyright © 2026 Federal News Network. All rights reserved. This website is not intended for users located within the European Economic Area.</p>\n  </body>\n</html>",
       "word_count": 119,
       "char_count": 733,
       "lead_image": "https://federalnewsnetwork.com/wp-content/uploads/2019/03/amtower-group-photo-of-mackey.jpg",
@@ -1249,6 +1423,40 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-04T18:02:19Z"
+    },
+    {
+      "id": "74e84ceb88603ffc",
+      "title": "Corporate America Is Getting Hooked on Open-Source A.I.",
+      "header": "The New York Times",
+      "published_at": "2026-09-04T14:55:38Z",
+      "published_raw": "Fri, 04 Sep 2026 14:55:38 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2FXaWpJTHFhTkJaSmNqeWxrTVo0TTNQNE1saFp5SDFUbmJRZ05vUWRJaXl2cnZmZE0zc2huMzhDVHZHaGYxSEdQNFVrcnFaMThtWl85UkxIWm1HZkdoa19QbVF1cG5halo1ZEVtLUotTE9US0wteXZ0RnU2STBfaWRXLTJYRm5FUWc?oc=5",
+      "description": "Corporate America Is Getting Hooked on Open-Source A.I. The New York Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2FXaWpJTHFhTkJaSmNqeWxrTVo0TTNQNE1saFp5SDFUbmJRZ05vUWRJaXl2cnZmZE0zc2huMzhDVHZHaGYxSEdQNFVrcnFaMThtWl85UkxIWm1HZkdoa19QbVF1cG5halo1ZEVtLUotTE9US0wteXZ0RnU2STBfaWRXLTJYRm5FUWc?oc=5\" target=\"_blank\">Corporate America Is Getting Hooked on Open-Source A.I.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2FXaWpJTHFhTkJaSmNqeWxrTVo0TTNQNE1saFp5SDFUbmJRZ05vUWRJaXl2cnZmZE0zc2huMzhDVHZHaGYxSEdQNFVrcnFaMThtWl85UkxIWm1HZkdoa19QbVF1cG5halo1ZEVtLUotTE9US0wteXZ0RnU2STBfaWRXLTJYRm5FUWc?oc=5"
+      ],
+      "scraped_at": "2026-09-05T02:43:40Z",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "final_url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "source": "The New York Times",
+      "article_title": "",
+      "heading": "Corporate America Is Getting Hooked on Open-Source A.I.",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Corporate America Is Getting Hooked on Open-Source A.I. The New York Times",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-05T02:43:40Z"
     },
     {
       "id": "3d15affb05ea11ba",
@@ -2690,25 +2898,25 @@
     {
       "id": "34e0da66b47c07cd",
       "title": "Idaho Congressman Russ Fulcher co-sponsors bill regulating federal access to license plate reader data, other technology data",
-      "header": "KTVB",
+      "header": "ktvb.com",
       "published_at": "2026-09-04T04:41:00Z",
       "published_raw": "Fri, 04 Sep 2026 04:41:00 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQRnB1cU1OSk5nei1GUjRqNG5CLWdNQ25sMWpnVlY1dUptX2llLTFLYUE2SmY4SGdjSzFPWEF6ckxla0pPSlhUeVBCN1l3Y09uRFdjV05qclVENEFWQ1RRQUs2Rm5nTzh0R1ktRjZxbUJNVDdOSkNyeDluTVNYdVRzcjZnMzJJRUEyX3c5VFM5STZUbFBUcEo0dFJCeVhDVTlhZnlRa044ajR3eGpMYWlBSGNlc0tmUGY3QTVGUHJaX09xT044TUM3U2pKTE9VaGg0UW9UMmhMRmFFamtaaWhHZ1RQTjNFOU9CVFhjQmIyWVNtNThVX3VtSUhJTDJVMmliVzdwQl9KSlpnRzl1bEFOSzBSQjE4MjVKRkRTdzhQVDk1RHE2R0p0U1VPc0M?oc=5",
-      "description": "Idaho Congressman Russ Fulcher co-sponsors bill regulating federal access to license plate reader data, other technology data KTVB",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxQRnB1cU1OSk5nei1GUjRqNG5CLWdNQ25sMWpnVlY1dUptX2llLTFLYUE2SmY4SGdjSzFPWEF6ckxla0pPSlhUeVBCN1l3Y09uRFdjV05qclVENEFWQ1RRQUs2Rm5nTzh0R1ktRjZxbUJNVDdOSkNyeDluTVNYdVRzcjZnMzJJRUEyX3c5VFM5STZUbFBUcEo0dFJCeVhDVTlhZnlRa044ajR3eGpMYWlBSGNlc0tmUGY3QTVGUHJaX09xT044TUM3U2pKTE9VaGg0UW9UMmhMRmFFamtaaWhHZ1RQTjNFOU9CVFhjQmIyWVNtNThVX3VtSUhJTDJVMmliVzdwQl9KSlpnRzl1bEFOSzBSQjE4MjVKRkRTdzhQVDk1RHE2R0p0U1VPc0M?oc=5\" target=\"_blank\">Idaho Congressman Russ Fulcher co-sponsors bill regulating federal access to license plate reader data, other technology data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTVB</font>",
+      "description": "Idaho Congressman Russ Fulcher co-sponsors bill regulating federal access to license plate reader data, other technology data ktvb.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxQRnB1cU1OSk5nei1GUjRqNG5CLWdNQ25sMWpnVlY1dUptX2llLTFLYUE2SmY4SGdjSzFPWEF6ckxla0pPSlhUeVBCN1l3Y09uRFdjV05qclVENEFWQ1RRQUs2Rm5nTzh0R1ktRjZxbUJNVDdOSkNyeDluTVNYdVRzcjZnMzJJRUEyX3c5VFM5STZUbFBUcEo0dFJCeVhDVTlhZnlRa044ajR3eGpMYWlBSGNlc0tmUGY3QTVGUHJaX09xT044TUM3U2pKTE9VaGg0UW9UMmhMRmFFamtaaWhHZ1RQTjNFOU9CVFhjQmIyWVNtNThVX3VtSUhJTDJVMmliVzdwQl9KSlpnRzl1bEFOSzBSQjE4MjVKRkRTdzhQVDk1RHE2R0p0U1VPc0M?oc=5\" target=\"_blank\">Idaho Congressman Russ Fulcher co-sponsors bill regulating federal access to license plate reader data, other technology data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ktvb.com</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMirAJBVV95cUxQRnB1cU1OSk5nei1GUjRqNG5CLWdNQ25sMWpnVlY1dUptX2llLTFLYUE2SmY4SGdjSzFPWEF6ckxla0pPSlhUeVBCN1l3Y09uRFdjV05qclVENEFWQ1RRQUs2Rm5nTzh0R1ktRjZxbUJNVDdOSkNyeDluTVNYdVRzcjZnMzJJRUEyX3c5VFM5STZUbFBUcEo0dFJCeVhDVTlhZnlRa044ajR3eGpMYWlBSGNlc0tmUGY3QTVGUHJaX09xT044TUM3U2pKTE9VaGg0UW9UMmhMRmFFamtaaWhHZ1RQTjNFOU9CVFhjQmIyWVNtNThVX3VtSUhJTDJVMmliVzdwQl9KSlpnRzl1bEFOSzBSQjE4MjVKRkRTdzhQVDk1RHE2R0p0U1VPc0M?oc=5"
       ],
-      "scraped_at": "2026-09-04T23:40:39Z",
+      "scraped_at": "2026-09-05T02:43:40Z",
       "url": "https://www.ktvb.com/article/news/local/idaho/idaho-congressman-russ-fulcher-co-sponsors-bill-regulating-federal-access-license-plate-reader-data-r-technology-data/277-f233e0ca-4efc-4e47-bcb7-e3d27803f282",
       "final_url": "https://www.ktvb.com/article/news/local/idaho/idaho-congressman-russ-fulcher-co-sponsors-bill-regulating-federal-access-license-plate-reader-data-r-technology-data/277-f233e0ca-4efc-4e47-bcb7-e3d27803f282",
-      "source": "KTVB",
+      "source": "ktvb.com",
       "article_title": "",
       "heading": "Idaho Congressman Russ Fulcher co-sponsors bill regulating federal access to license plate reader data, other technology data",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
-      "summary": "Idaho Congressman Russ Fulcher co-sponsors bill regulating federal access to license plate reader data, other technology data KTVB",
+      "summary": "Idaho Congressman Russ Fulcher co-sponsors bill regulating federal access to license plate reader data, other technology data ktvb.com",
       "content": "",
       "content_html": "",
       "word_count": 0,
