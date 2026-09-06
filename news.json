@@ -1,17 +1,105 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-06T17:29:12Z",
+  "generated_at": "2026-09-06T19:56:04Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 10,
-    "added": 4,
-    "updated": 6,
+    "scraped_now": 8,
+    "added": 3,
+    "updated": 5,
     "ok": 382,
     "failed": 118,
-    "duration_seconds": 13.32
+    "duration_seconds": 9.56
   },
   "articles": [
+    {
+      "id": "40b6271f6276b8f2",
+      "title": "Visualizing Yordan Alvarez's swing using bat tracking technology",
+      "header": "MLB.com",
+      "published_at": "2026-09-06T19:34:47Z",
+      "published_raw": "Sun, 06 Sep 2026 19:34:47 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZms4Z2dfTVViY0dYN2cyUzhjUjRNM2RZRkp5djVhN2NmTWNfOEZuN01hOTlUajdnd2Rfb1hYckZQQlRIVDlpM3lFYXB4Q2hvVVMzTkxGMUhSclA3ZHJ4c21jQ1BvdldHMkFlUWt0Nm5kcUdmbzNYTHBTN3ltcHFldzlhOHV5YkEyZnVUbHJCQjZlWlRhYzVyazFVcTg?oc=5",
+      "description": "Visualizing Yordan Alvarez's swing using bat tracking technology MLB.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZms4Z2dfTVViY0dYN2cyUzhjUjRNM2RZRkp5djVhN2NmTWNfOEZuN01hOTlUajdnd2Rfb1hYckZQQlRIVDlpM3lFYXB4Q2hvVVMzTkxGMUhSclA3ZHJ4c21jQ1BvdldHMkFlUWt0Nm5kcUdmbzNYTHBTN3ltcHFldzlhOHV5YkEyZnVUbHJCQjZlWlRhYzVyazFVcTg?oc=5\" target=\"_blank\">Visualizing Yordan Alvarez's swing using bat tracking technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLB.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZms4Z2dfTVViY0dYN2cyUzhjUjRNM2RZRkp5djVhN2NmTWNfOEZuN01hOTlUajdnd2Rfb1hYckZQQlRIVDlpM3lFYXB4Q2hvVVMzTkxGMUhSclA3ZHJ4c21jQ1BvdldHMkFlUWt0Nm5kcUdmbzNYTHBTN3ltcHFldzlhOHV5YkEyZnVUbHJCQjZlWlRhYzVyazFVcTg?oc=5"
+      ],
+      "scraped_at": "2026-09-06T19:55:56Z",
+      "url": "https://www.mlb.com/video/visualizing-yordan-alvarez-s-swing-using-bat-tracking-technology-x4430",
+      "final_url": "https://www.mlb.com/video/visualizing-yordan-alvarez-s-swing-using-bat-tracking-technology-x4430",
+      "source": "MLB.com",
+      "article_title": "Visualizing Yordan Alvarez's swing using bat tracking technology | 09/06/2026",
+      "heading": "Visualizing Yordan Alvarez's swing using bat tracking technology",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "The data behind Yordan Alvarez's swing",
+      "content": "News\nProbable Pitchers\nAwards\nStarting Lineups\nTransactions\nInjury Report\nWorld Baseball Classic\nMLB Draft\nAll-Star Game\nAUSL\nMLB Pipeline\nPostseason History\nPodcasts\nInternational\nWatch\nVideo\nSearch\nStatcast\nMLB Network\nMLB.TV\nBuy MLB.TV\nWatch & Listen\nHelp Center\nScores\nSchedule\n2026 Regular Season\n2026 Postseason\n2027 Spring Training\n2026 World Baseball Classic\n2025 Regular Season\nMLB Events\nTeam by Team Schedule\nSync Schedules\nStats\nStatcast Leaders\nBaseball Savant\nTop Prospect Stats\nStandings\nPlayers\nProspect Rankings\nDepth Charts\nMLB Players Association\nNegro Leagues\nMLB Play\nBeat the Streak\nImmaculate Grid\nTrivia\nSpinball\nPickle\nDaily Walkoff\nYouth\nPlay Ball\nYouth Baseball & Softball\nMiLB\nAUSL\nComplete coverage\nTheAUSL.com\nMLB.TV\nBuy MLB.TV\nLearn More\nAll Packages\nWatch & Listen\nHelp Center\nTickets\nSeason Tickets\nSingle Game Tickets\nGroup Tickets\nSpecial Ticket Offers\nMLB Students\nMLB Tourism\nVIP Ticket Packages\nTicket Terms & Conditions\nBuy on SeatGeek\nSell on SeatGeek\nShop\nMLB Online Shop\nAuction\nGift Cards\nMLB NYC Flagship Store\nEuropean Shop\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nLang\nEspañol\n日本語\n한국어\nLog in\nChannels\nReels\nVisualizing Yordan Alvarez's swing using bat tracking technology\nD-backs @ Astros\nSeptember 6, 2026 | 00:00:11\nReels\nShare\nThe data behind Yordan Alvarez's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nYordan Alvarez\nHouston Astros",
+      "content_html": "<html>\n  <body>\n    <p>News\nProbable Pitchers\nAwards\nStarting Lineups\nTransactions\nInjury Report\nWorld Baseball Classic\nMLB Draft\nAll-Star Game\nAUSL\nMLB Pipeline\nPostseason History\nPodcasts\nInternational\nWatch\nVideo\nSearch\nStatcast\nMLB Network\nMLB.TV\nBuy MLB.TV\nWatch &amp; Listen\nHelp Center\nScores\nSchedule\n2026 Regular Season\n2026 Postseason\n2027 Spring Training\n2026 World Baseball Classic\n2025 Regular Season\nMLB Events\nTeam by Team Schedule\nSync Schedules\nStats\nStatcast Leaders\nBaseball Savant\nTop Prospect Stats\nStandings\nPlayers\nProspect Rankings\nDepth Charts\nMLB Players Association\nNegro Leagues\nMLB Play\nBeat the Streak\nImmaculate Grid\nTrivia\nSpinball\nPickle\nDaily Walkoff\nYouth\nPlay Ball\nYouth Baseball &amp; Softball\nMiLB\nAUSL\nComplete coverage\nTheAUSL.com\nMLB.TV\nBuy MLB.TV\nLearn More\nAll Packages\nWatch &amp; Listen\nHelp Center\nTickets\nSeason Tickets\nSingle Game Tickets\nGroup Tickets\nSpecial Ticket Offers\nMLB Students\nMLB Tourism\nVIP Ticket Packages\nTicket Terms &amp; Conditions\nBuy on SeatGeek\nSell on SeatGeek\nShop\nMLB Online Shop\nAuction\nGift Cards\nMLB NYC Flagship Store\nEuropean Shop\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nLang\nEspañol\n日本語\n한국어\nLog in\nChannels\nReels\nVisualizing Yordan Alvarez's swing using bat tracking technology\nD-backs @ Astros\nSeptember 6, 2026 | 00:00:11\nReels\nShare\nThe data behind Yordan Alvarez's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nYordan Alvarez\nHouston Astros</p>\n  </body>\n</html>",
+      "word_count": 329,
+      "char_count": 2234,
+      "lead_image": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/wu6lsorslvdvcj9idxk5",
+      "images": [
+        {
+          "url": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/wu6lsorslvdvcj9idxk5",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-06T19:55:56Z"
+    },
+    {
+      "id": "875ac5a21e51b716",
+      "title": "Kingston Technology Hub tract",
+      "header": "mdjonline.com",
+      "published_at": "2026-09-06T16:27:00Z",
+      "published_raw": "Sun, 06 Sep 2026 16:27:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdGhQOHYyUVE0ZE9UMERoS1VrcFNEVzVlTFpOZFN4dG1XU3VaWkVnZ09oeXROX3poSDF6YUJuLS1ZREZJejl1Z0E0VHo1RXlzd2xFbHlqc01ENllIZ3AyNXd1MVR3VzBrV1M1T3k2MTY1VUlnUDRBLThOVjRkUzRKVFd3alNobXdfbEFNUTVBQl90VGRRNDRhdHdiZkIyd0UwLTA4Ni1Sd3hxNHgyaXFlak9GM0U?oc=5",
+      "description": "Kingston Technology Hub tract mdjonline.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNdGhQOHYyUVE0ZE9UMERoS1VrcFNEVzVlTFpOZFN4dG1XU3VaWkVnZ09oeXROX3poSDF6YUJuLS1ZREZJejl1Z0E0VHo1RXlzd2xFbHlqc01ENllIZ3AyNXd1MVR3VzBrV1M1T3k2MTY1VUlnUDRBLThOVjRkUzRKVFd3alNobXdfbEFNUTVBQl90VGRRNDRhdHdiZkIyd0UwLTA4Ni1Sd3hxNHgyaXFlak9GM0U?oc=5\" target=\"_blank\">Kingston Technology Hub tract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mdjonline.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdGhQOHYyUVE0ZE9UMERoS1VrcFNEVzVlTFpOZFN4dG1XU3VaWkVnZ09oeXROX3poSDF6YUJuLS1ZREZJejl1Z0E0VHo1RXlzd2xFbHlqc01ENllIZ3AyNXd1MVR3VzBrV1M1T3k2MTY1VUlnUDRBLThOVjRkUzRKVFd3alNobXdfbEFNUTVBQl90VGRRNDRhdHdiZkIyd0UwLTA4Ni1Sd3hxNHgyaXFlak9GM0U?oc=5"
+      ],
+      "scraped_at": "2026-09-06T19:55:57Z",
+      "url": "https://www.mdjonline.com/news/state/kingston-technology-hub-tract/image_5fc0acde-a666-5a6b-b02f-bd5a95783d3d.html",
+      "final_url": "https://www.mdjonline.com/news/state/kingston-technology-hub-tract/image_5fc0acde-a666-5a6b-b02f-bd5a95783d3d.html",
+      "source": "Marietta Daily Journal",
+      "article_title": "Kingston Technology Hub tract",
+      "heading": "Kingston Technology Hub tract",
+      "authors": [
+        "Courtesy Bartow County Tax Office"
+      ],
+      "article_published_at": "2026-09-06T12:27:00-04:00",
+      "article_modified_at": "2026-09-06T13:30:49-04:00",
+      "summary": "Thor Acquisition WC LLC is seeking a rezoning of 560 acres off Ga. 293 east of Kingston for a data center.",
+      "content": "Kingston Technology Hub tract Courtesy Bartow County Tax Office Sep 6, 2026 Sep 6, 2026 Updated 2 hrs ago 0 Facebook Twitter WhatsApp SMS Email Print Copy article link Save Thor Acquisition WC LLC is seeking a rezoning of 560 acres off Ga. 293 east of Kingston for a data center. Courtesy Bartow County Tax Office As featured on Facebook Twitter WhatsApp SMS Email Print Copy article link Save Thank you for reading! Please log in, or sign up for a new account and purchase a subscription to read or post comments. Register Log In Log In Purchase a Subscription Trending Stories East Cobb teen charged with rape Marietta podcaster investigates 'The Truth About Natalie' in new series AROUND TOWN: Roy Barnes: ‘You couldn’t put a gun to my head’ to return to politics Ways to commemorate the 25th anniversary of 9/11 in Cobb County New invasive pest puts Georgia pastures on alert Latest e-Edition Marietta Daily Journal To view our latest e-Edition click the image on the left. Pet of the Day Meet Jiji: Pet of the Day Search the MDJ's archives",
+      "content_html": "<html>\n  <body>\n    <p>Kingston Technology Hub tract Courtesy Bartow County Tax Office Sep 6, 2026 Sep 6, 2026 Updated 2 hrs ago 0 Facebook Twitter WhatsApp SMS Email Print Copy article link Save Thor Acquisition WC LLC is seeking a rezoning of 560 acres off Ga. 293 east of Kingston for a data center. Courtesy Bartow County Tax Office As featured on Facebook Twitter WhatsApp SMS Email Print Copy article link Save Thank you for reading! Please log in, or sign up for a new account and purchase a subscription to read or post comments. Register Log In Log In Purchase a Subscription Trending Stories East Cobb teen charged with rape Marietta podcaster investigates 'The Truth About Natalie' in new series AROUND TOWN: Roy Barnes: ‘You couldn’t put a gun to my head’ to return to politics Ways to commemorate the 25th anniversary of 9/11 in Cobb County New invasive pest puts Georgia pastures on alert Latest e-Edition Marietta Daily Journal To view our latest e-Edition click the image on the left. Pet of the Day Meet Jiji: Pet of the Day Search the MDJ's archives</p>\n  </body>\n</html>",
+      "word_count": 183,
+      "char_count": 1044,
+      "lead_image": "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/5/fc/5fc0acde-a666-5a6b-b02f-bd5a95783d3d/6a9da3494063b.image.jpg?crop=951%2C498%2C59%2C0",
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/5/fc/5fc0acde-a666-5a6b-b02f-bd5a95783d3d/6a9da3494063b.image.jpg?crop=951%2C498%2C59%2C0",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/5/fc/5fc0acde-a666-5a6b-b02f-bd5a95783d3d/6a9da3494063b.image.jpg?crop=951%2C498%2C59%2C0&resize=438%2C229&order=crop%2Cresize",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-06T19:55:57Z"
+    },
     {
       "id": "4554214bd0ed60fc",
       "title": "Remains in century-old cold case identified thanks to DNA technology",
@@ -98,15 +186,15 @@
       "id": "68eb0ddcaf5e35ca",
       "title": "Who’s Boring Now?",
       "header": "WSJ",
-      "published_at": "2026-09-06T14:56:16Z",
-      "published_raw": "Sun, 06 Sep 2026 14:56:16 GMT",
+      "published_at": "2026-09-06T14:55:00Z",
+      "published_raw": "Sun, 06 Sep 2026 14:55:00 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGaFduOVk5VVdhcXZxZzh6dy0tMjFlMHhNNUtySVhsNVpkbGNDS0lEcUVIVnVUUFVNMEF6NFVxM0VxbTlsaXRoU1A5NEEzUTNTcC1LRmZ0anZSbG5NclE?oc=5",
       "description": "Who’s Boring Now? WSJ",
       "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGaFduOVk5VVdhcXZxZzh6dy0tMjFlMHhNNUtySVhsNVpkbGNDS0lEcUVIVnVUUFVNMEF6NFVxM0VxbTlsaXRoU1A5NEEzUTNTcC1LRmZ0anZSbG5NclE?oc=5\" target=\"_blank\">Who’s Boring Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGaFduOVk5VVdhcXZxZzh6dy0tMjFlMHhNNUtySVhsNVpkbGNDS0lEcUVIVnVUUFVNMEF6NFVxM0VxbTlsaXRoU1A5NEEzUTNTcC1LRmZ0anZSbG5NclE?oc=5"
       ],
-      "scraped_at": "2026-09-06T17:28:59Z",
+      "scraped_at": "2026-09-06T19:55:56Z",
       "url": "https://www.wsj.com/tech/whos-boring-now-b22edb19",
       "final_url": "https://www.wsj.com/tech/whos-boring-now-b22edb19",
       "source": "WSJ",
@@ -582,7 +670,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmxlTnVaUWF3blBjeFRUN2MyUGxsM2t2NFVtTzVmX01jVGpySnRNbE9ndjg3SGk3UE5FcktYS2VnT1JMaGdFaGRjb2RnZ0pubktUb1lLbjVaeGJfaUJmNzJnX1gyV202TWljNG1EUmRCcDExVHFZOVQxYW5EcndiSUNjcHJ3QWhUUkxyWU1aWm1EaGJWMGtkeUJvd0ZKUEFkdHc3aGloY25vMlJYc2pv?oc=5"
       ],
-      "scraped_at": "2026-09-06T17:28:59Z",
+      "scraped_at": "2026-09-06T19:55:56Z",
       "url": "https://www.startribune.com/roseville-superfund-polluted-truck-terminal-twin-lakes-technology-center/601883382",
       "final_url": "https://www.startribune.com/roseville-superfund-polluted-truck-terminal-twin-lakes-technology-center/601883382",
       "source": "Star Tribune",
@@ -603,6 +691,40 @@
       "status": "partial",
       "error": "download_failed",
       "first_seen_at": "2026-09-06T14:51:37Z"
+    },
+    {
+      "id": "b7cf2e2a585874cd",
+      "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
+      "header": "The New York Times",
+      "published_at": "2026-09-06T10:45:11Z",
+      "published_raw": "Sun, 06 Sep 2026 10:45:11 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5",
+      "description": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips The New York Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5\" target=\"_blank\">How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5"
+      ],
+      "scraped_at": "2026-09-06T19:55:56Z",
+      "url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+      "final_url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+      "source": "The New York Times",
+      "article_title": "",
+      "heading": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips The New York Times",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-06T11:54:34Z"
     },
     {
       "id": "e5a7862ab420aab1",
@@ -717,40 +839,6 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-06T14:51:37Z"
-    },
-    {
-      "id": "b7cf2e2a585874cd",
-      "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
-      "header": "The New York Times",
-      "published_at": "2026-09-06T09:00:58Z",
-      "published_raw": "Sun, 06 Sep 2026 09:00:58 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5",
-      "description": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips The New York Times",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5\" target=\"_blank\">How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5"
-      ],
-      "scraped_at": "2026-09-06T17:29:01Z",
-      "url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
-      "final_url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
-      "source": "The New York Times",
-      "article_title": "",
-      "heading": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips The New York Times",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-06T11:54:34Z"
     },
     {
       "id": "40fa3859017b8a0d",
@@ -1376,6 +1464,83 @@
       "status": "partial",
       "error": "short_text",
       "first_seen_at": "2026-09-06T11:54:35Z"
+    },
+    {
+      "id": "16f80518b2be906c",
+      "title": "How drone technology helped Texas County crews battle 220-acre wildfire",
+      "header": "KFVS12",
+      "published_at": "2026-09-06T03:22:00Z",
+      "published_raw": "Sun, 06 Sep 2026 03:22:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeHN3SGc3YmNkeHl2SllnXy1idnZ0bGJrVUM4cGt3Vk85WUZQZTNxcTZEV3U1WldUSzhfdEw1N2Jzc1JiRkFUX3RIR0c2UUR6b2U5TTNHRk1wcU5ZcVE0NlhreV8tSkpKMzFHcWNza2tnc0tIRlVfNlhFdlo3VlBsNjEtRlctLTZHODZHRWhwSm5xaW1IZEFoVlZwZ0VBaElPWHE3emtzM0E1ZHBNRkhvcVZ3?oc=5",
+      "description": "How drone technology helped Texas County crews battle 220-acre wildfire KFVS12",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOeHN3SGc3YmNkeHl2SllnXy1idnZ0bGJrVUM4cGt3Vk85WUZQZTNxcTZEV3U1WldUSzhfdEw1N2Jzc1JiRkFUX3RIR0c2UUR6b2U5TTNHRk1wcU5ZcVE0NlhreV8tSkpKMzFHcWNza2tnc0tIRlVfNlhFdlo3VlBsNjEtRlctLTZHODZHRWhwSm5xaW1IZEFoVlZwZ0VBaElPWHE3emtzM0E1ZHBNRkhvcVZ3?oc=5\" target=\"_blank\">How drone technology helped Texas County crews battle 220-acre wildfire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFVS12</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeHN3SGc3YmNkeHl2SllnXy1idnZ0bGJrVUM4cGt3Vk85WUZQZTNxcTZEV3U1WldUSzhfdEw1N2Jzc1JiRkFUX3RIR0c2UUR6b2U5TTNHRk1wcU5ZcVE0NlhreV8tSkpKMzFHcWNza2tnc0tIRlVfNlhFdlo3VlBsNjEtRlctLTZHODZHRWhwSm5xaW1IZEFoVlZwZ0VBaElPWHE3emtzM0E1ZHBNRkhvcVZ3?oc=5"
+      ],
+      "scraped_at": "2026-09-06T19:55:57Z",
+      "url": "https://www.kfvs12.com/video/2026/09/06/how-drone-technology-helped-texas-county-crews-battle-220-acre-wildfire/",
+      "final_url": "https://www.kfvs12.com/video/2026/09/06/how-drone-technology-helped-texas-county-crews-battle-220-acre-wildfire/",
+      "source": "https://www.kfvs12.com",
+      "article_title": "How drone technology helped Texas County crews battle 220-acre wildfire",
+      "heading": "How drone technology helped Texas County crews battle 220-acre wildfire",
+      "authors": [],
+      "article_published_at": "2026-09-06T03:22:25Z",
+      "article_modified_at": "2026-09-06T03:22:25Z",
+      "summary": "A fast-moving wildfire scorched over 200 acres in Texas County this week, pushing volunteer crews to their physical limits.",
+      "content": "Updated: 6 hours ago\nThe Georgiana community is rallying around a student injured during Friday night's football game.\nUpdated: 6 hours ago\nKeelon Russell made first start for Alabama Saturday, putting up 335 yards of total offense and a touchdown as the No. 13 Crimson Tide rolled over East Carolina 48-10.\nUpdated: 6 hours ago\nThe Faulkner University Eagles took the field Saturday for their first home game of the season with heavy hearts\nUpdated: 6 hours ago\nThe Crimson Tide are off to a strong start after rolling past East Carolina 48-10 in their season opener\nUpdated: 2 hours ago\nWVVA News Weekend",
+      "content_html": "<html>\n  <body>\n    <p>Shared Video</p>\n    <img src=\"https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-06-2026%2Ft_94e0fa129f8e43e7b157c5101f327c39_name_file_1280x720_2000_v3_1_.jpg?auth=ba718ba02ddc76dd021bafa3ed5517944e7449ec2e621b9b484360852daec6c4&amp;width=800&amp;height=450&amp;smart=true\" alt=\"Georgiana community rallies around injured student\"/>\n    <p>Updated: 6 hours ago</p>\n    <p>The Georgiana community is rallying around a student injured during Friday night's football game.</p>\n    <p>Shared Video</p>\n    <img src=\"https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-06-2026%2Ft_2fac0cd80dc14beeb8befe7ce86d33ea_name_file_1280x720_2000_v3_1_.jpg?auth=1d97d29cb7b882fd715780395e17c617fa6e61b4850735027918cfc2461d1388&amp;width=800&amp;height=450&amp;smart=true\" alt=\"Alabama dominates East Carolina in season opener\"/>\n    <p>Updated: 6 hours ago</p>\n    <p>Keelon Russell made first start for Alabama Saturday, putting up 335 yards of total offense and a touchdown as the No. 13 Crimson Tide rolled over East Carolina 48-10.</p>\n    <p>Shared Video</p>\n    <img src=\"https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-06-2026%2Ft_07c7a34b500646a3899c09c73b0e7a47_name_file_1280x720_2000_v3_1_.jpg?auth=c6bffd3c89c13f3ed591b8786f2287cd981944f8253e9d265608ddc01ed06fd6&amp;width=800&amp;height=450&amp;smart=true\" alt=\"Faulkner Eagles honor teammate Qadir Lyle's legacy\"/>\n    <p>Updated: 6 hours ago</p>\n    <p>The Faulkner University Eagles took the field Saturday for their first home game of the season with heavy hearts</p>\n    <p>Shared Video</p>\n    <img src=\"https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-06-2026%2Ft_018f0e1c1f7b4651a4e372760073cea3_name_file_1280x720_2000_v3_1_.jpg?auth=bc9fc49411a6940e87e892cd2453424b1ca7536cf4e0fe2810390be09ce8d260&amp;width=800&amp;height=450&amp;smart=true\" alt=\"Alabama defeats East Carolina 48-10\"/>\n    <p>Updated: 6 hours ago</p>\n    <p>The Crimson Tide are off to a strong start after rolling past East Carolina 48-10 in their season opener</p>\n    <p>Shared Video</p>\n    <img src=\"https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-06-2026%2Ft_89e61066413b41c79e629f439bd5c72a_name_file_1280x720_2000_v3_1_.jpg?auth=75191b0b043f11b1edf2db45628d808865a16c81008a0b2412c41410f770db7b&amp;width=800&amp;height=450&amp;smart=true\" alt=\"Southern University football is back on the Bluff.\"/>\n    <p>Updated: 3 hours ago</p>\n    <p>Shared Video</p>\n    <img src=\"https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-06-2026%2Ft_31eb26596bd84da090e5eccc60315dee_name_file_1280x720_2000_v3_1_.jpg?auth=6f97cb3be90c4a8f72eea7f7507648bd464c627a74d99f80d200b74eafd41623&amp;width=800&amp;height=450&amp;smart=true\" alt=\"Hickam and Cooke shared stories about Riley, their science teacher at Big Creek High School...\"/>\n    <p>Updated: 2 hours ago</p>\n    <p>WVVA News Weekend</p>\n  </body>\n</html>",
+      "word_count": 104,
+      "char_count": 606,
+      "lead_image": "https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-06-2026%2Ft_35818aca6c474a80b06d0746a7adf75e_name_thumb.png?auth=1685b52f4204c7559603fece12017ffa58b38a8f8cfcc3ff3874faa749de7665&width=1200&height=600&smart=true",
+      "images": [
+        {
+          "url": "https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-06-2026%2Ft_35818aca6c474a80b06d0746a7adf75e_name_thumb.png?auth=1685b52f4204c7559603fece12017ffa58b38a8f8cfcc3ff3874faa749de7665&width=1200&height=600&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-06-2026%2Ft_94e0fa129f8e43e7b157c5101f327c39_name_file_1280x720_2000_v3_1_.jpg?auth=ba718ba02ddc76dd021bafa3ed5517944e7449ec2e621b9b484360852daec6c4&width=800&height=450&smart=true",
+          "alt": "Georgiana community rallies around injured student",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-06-2026%2Ft_2fac0cd80dc14beeb8befe7ce86d33ea_name_file_1280x720_2000_v3_1_.jpg?auth=1d97d29cb7b882fd715780395e17c617fa6e61b4850735027918cfc2461d1388&width=800&height=450&smart=true",
+          "alt": "Alabama dominates East Carolina in season opener",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-06-2026%2Ft_07c7a34b500646a3899c09c73b0e7a47_name_file_1280x720_2000_v3_1_.jpg?auth=c6bffd3c89c13f3ed591b8786f2287cd981944f8253e9d265608ddc01ed06fd6&width=800&height=450&smart=true",
+          "alt": "Faulkner Eagles honor teammate Qadir Lyle's legacy",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-06-2026%2Ft_018f0e1c1f7b4651a4e372760073cea3_name_file_1280x720_2000_v3_1_.jpg?auth=bc9fc49411a6940e87e892cd2453424b1ca7536cf4e0fe2810390be09ce8d260&width=800&height=450&smart=true",
+          "alt": "Alabama defeats East Carolina 48-10",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-06-2026%2Ft_89e61066413b41c79e629f439bd5c72a_name_file_1280x720_2000_v3_1_.jpg?auth=75191b0b043f11b1edf2db45628d808865a16c81008a0b2412c41410f770db7b&width=800&height=450&smart=true",
+          "alt": "Southern University football is back on the Bluff.",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-06-2026%2Ft_31eb26596bd84da090e5eccc60315dee_name_file_1280x720_2000_v3_1_.jpg?auth=6f97cb3be90c4a8f72eea7f7507648bd464c627a74d99f80d200b74eafd41623&width=800&height=450&smart=true",
+          "alt": "Hickam and Cooke shared stories about Riley, their science teacher at Big Creek High School...",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 7,
+      "extractor": "trafilatura",
+      "status": "partial",
+      "error": "short_text",
+      "first_seen_at": "2026-09-06T19:55:57Z"
     },
     {
       "id": "b59ab3fc1afd91cd",
@@ -4241,7 +4406,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZU5zSkVRZkZDOTFEQlBEYVNoUzNZLVFGOE5IczB3VVhldWE4TF9waGxUVWJSeEtPMUFjeVY5b0JXM1E2WXdFYjJUVERZM2lMOGtfT1lWQW42Tms2SnNkOEdIdEdVVDBFZ2JuZ0d3NzdRTm42U0dWZFB1emUyZWJRX0ROb2w4b2FOcE0wRVBiRDN3YWpEeXJZZGp2UVpVeGIxV2gtc00xX19zU2JJeGxqT3FOMUFieThhS0E?oc=5"
       ],
-      "scraped_at": "2026-09-06T17:28:59Z",
+      "scraped_at": "2026-09-06T19:55:56Z",
       "url": "https://www.pbs.org/newshour/video/horizons/2026/09/technology-is-reshaping-education-but-is-it-helping-students-learn",
       "final_url": "https://www.pbs.org/newshour/video/horizons/2026/09/technology-is-reshaping-education-but-is-it-helping-students-learn",
       "source": "pbs.org",
@@ -4914,7 +5079,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTmFucEJ4VFN0a1o3aUpZWWttMEpyQXZsOGNIY1gtd1ZnMmc1dnNXcm9qdG9tMHVUSzFEbWRUdDVOMkVRckZnUHRzRjZOZ3hVdXhmS3poTHZoNlg2ckJobi0xbGJyQW1CYTEwVUdmWmt0czFpSXhkX0RiNWNSa2x4eFVJWXRUdHo2dkZUZTRubWpXZnR6NlZzVkNHTno4azA2TVhRb2YzMXIyZ1lseUY4a2g0eDZERnI5N1cwMEUwMjg4WFY5a0UwQ01HOXk3R1FGRENZ?oc=5"
       ],
-      "scraped_at": "2026-09-06T17:29:00Z",
+      "scraped_at": "2026-09-06T19:55:56Z",
       "url": "https://federalnewsnetwork.com/cybersecurity/2026/09/as-washington-races-ahead-are-existing-national-security-technology-systems-at-risk/",
       "final_url": "https://federalnewsnetwork.com/amtower-off-center/2019/03/amplifying-your-brand-in-the-govcon-market/",
       "source": "Federal News Network",
@@ -4927,7 +5092,7 @@
       "article_modified_at": "2019-05-14T23:23+00:00",
       "summary": "How are communications and public relations evolving in the GovCon market? Host Mark Amtower discusses the evolving nature the two concepts in the government contracting market with Evan Weisel Tony Welz and Stephen Mackey of W2 Communications.",
       "content": "How are communications and public relations evolving in the GovCon market? Host Mark Amtower discusses the evolving nature the two concepts in the government...\nBest listening experience is on Chrome, Firefox or Safari. Subscribe to Amtower Off Center’s audio interviews on Apple Podcasts or PodcastOne.\nThis week on Amtower Off Center, host Mark Amtower interviews Evan Weisel, Tony Welz and Stephen Mackey of W2 Communications on the evolving nature of communications and PR in GovCon.\nStephen Mackey, Evan Weisel and Tony Welz, W2 Communications (Left to right)\nThe PR coup at the RSA Conference 10 years ago when W2 got their clients in front of media for hours by staging an invitation only Texas Hold’em poker tournament at RSA",
-      "content_html": "<html>\n  <body>\n    <p>How are communications and public relations evolving in the GovCon market? Host Mark Amtower discusses the evolving nature the two concepts in the government...</p>\n    <p>Best listening experience is on Chrome, Firefox or Safari. Subscribe to Amtower Off Center’s audio interviews on Apple Podcasts or PodcastOne.</p>\n    <p>This week on Amtower Off Center, host Mark Amtower interviews Evan Weisel, Tony Welz and Stephen Mackey of W2 Communications on the evolving nature of communications and PR in GovCon.</p>\n    <p>Topics include:</p>\n    <p>Find out how federal leaders are charting the future of health IT in our new e-book, sponsored by Maximus. Download today!</p>\n    <p>Copyright © 2026 Federal News Network. All rights reserved. This website is not intended for users located within the European Economic Area.</p>\n  </body>\n</html>",
+      "content_html": "<html>\n  <body>\n    <p>How are communications and public relations evolving in the GovCon market? Host Mark Amtower discusses the evolving nature the two concepts in the government...</p>\n    <p>Best listening experience is on Chrome, Firefox or Safari. Subscribe to Amtower Off Center’s audio interviews on Apple Podcasts or PodcastOne.</p>\n    <p>This week on Amtower Off Center, host Mark Amtower interviews Evan Weisel, Tony Welz and Stephen Mackey of W2 Communications on the evolving nature of communications and PR in GovCon.</p>\n    <p>Topics include:</p>\n    <p>Join us Oct. 1 &amp; 2 for our Cyber Leaders Exchange event where government and industry experts will discuss how agencies can secure the AI-driven federal enterprise while advancing innovation and mission delivery. Register today!</p>\n    <p>Copyright © 2026 Federal News Network. All rights reserved. This website is not intended for users located within the European Economic Area.</p>\n  </body>\n</html>",
       "word_count": 119,
       "char_count": 733,
       "lead_image": "https://federalnewsnetwork.com/wp-content/uploads/2019/03/amtower-group-photo-of-mackey.jpg",
@@ -25881,170 +26046,6 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-08-30T17:10:18Z"
-    },
-    {
-      "id": "7d97d80e1541906f",
-      "title": "Bengals Announce Strategic Partnership with Cincinnati-based Technology Leader CBTS",
-      "header": "Cincinnati Bengals",
-      "published_at": "2026-08-28T14:33:42Z",
-      "published_raw": "Fri, 28 Aug 2026 14:33:42 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY2JFUWdOc25rM1NmVzRMZmh1NFpWY3N3ZWNlcXdGNXladXFBbFZyTTYyWUtyZHQwZjFVaTBpMU5BVjc4UUotYVFremRuUmxFWFRUdzM1LWNpZmdxSzVYRmFINTRndGNzZ3ZEOTFDbXBNNl9TN3JCT1JueF92OHJhbHR1ZnpwV2JjU3lBM0FtMmNGZ3VJdC1hZGV3dHhLOGhUZUxySnJfcVV2LWtpQ01Va2FR?oc=5",
-      "description": "Bengals Announce Strategic Partnership with Cincinnati-based Technology Leader CBTS Cincinnati Bengals",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPY2JFUWdOc25rM1NmVzRMZmh1NFpWY3N3ZWNlcXdGNXladXFBbFZyTTYyWUtyZHQwZjFVaTBpMU5BVjc4UUotYVFremRuUmxFWFRUdzM1LWNpZmdxSzVYRmFINTRndGNzZ3ZEOTFDbXBNNl9TN3JCT1JueF92OHJhbHR1ZnpwV2JjU3lBM0FtMmNGZ3VJdC1hZGV3dHhLOGhUZUxySnJfcVV2LWtpQ01Va2FR?oc=5\" target=\"_blank\">Bengals Announce Strategic Partnership with Cincinnati-based Technology Leader CBTS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cincinnati Bengals</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY2JFUWdOc25rM1NmVzRMZmh1NFpWY3N3ZWNlcXdGNXladXFBbFZyTTYyWUtyZHQwZjFVaTBpMU5BVjc4UUotYVFremRuUmxFWFRUdzM1LWNpZmdxSzVYRmFINTRndGNzZ3ZEOTFDbXBNNl9TN3JCT1JueF92OHJhbHR1ZnpwV2JjU3lBM0FtMmNGZ3VJdC1hZGV3dHhLOGhUZUxySnJfcVV2LWtpQ01Va2FR?oc=5"
-      ],
-      "scraped_at": "2026-08-30T00:17:19Z",
-      "url": "https://www.bengals.com/news/bengals-announce-strategic-partnership-with-cincinnati-based-technology-leader-cbts",
-      "final_url": "https://www.bengals.com/news/bengals-announce-strategic-partnership-with-cincinnati-based-technology-leader-cbts",
-      "source": "bengals.com",
-      "article_title": "Bengals Announce Strategic Partnership with Cincinnati-based Technology Leader CBTS",
-      "heading": "Bengals Announce Strategic Partnership with Cincinnati-based Technology Leader CBTS",
-      "authors": [],
-      "article_published_at": "2026-08-28T14:00:00Z",
-      "article_modified_at": "2026-08-28T15:45:03.333Z",
-      "summary": "The Bengals and CBTS, a leading technology services company headquartered in Cincinnati, announced a new partnership that unites two hometown brands and names CBTS the Official Technology Provider of the Cincinnati Bengals.",
-      "content": "The Bengals and CBTS, a leading technology services company headquartered in Cincinnati, announced a new partnership that unites two hometown brands and names CBTS the Official Technology Provider of the Cincinnati Bengals. Fans will see CBTS branding in Paycor Stadium on the West Plaza Suites Level and across multiple media platforms, including television, radio and social media.\n\n\"We are proud to partner with CBTS, an organization with deep roots in Cincinnati and a long history of supporting businesses in our region,\" said Bengals Chief Financial & Commercial Officer John Helmle. \"We are excited to welcome CBTS as the Official Technology Provider of the Cincinnati Bengals and create new opportunities to connect with Bengals fans.\"\n\n\"CBTS was born in Cincinnati, and becoming the Official Technology Provider of the Cincinnati Bengals is an exciting milestone for us,\" said CBTS CEO Kristin Russell. \"For more than three decades, we've helped organizations build the technology foundations they count on when performance matters. Now we have the opportunity to bring that story to one of the biggest stages in our hometown, and we couldn't be prouder to do it with the Bengals.\"\n\nAbout CBTS\n\nCBTS is a leading technology services company that designs, builds, and operates resilient technology foundations for mid-market and enterprise organizations across North America. Offering expertise in AI, data, applications, platforms, and security, CBTS combines the technical depth of a large integrator with the flexibility and client focus of a specialized partner. Founded in 1994 and headquartered in Cincinnati, Ohio, CBTS and its OnX Canada division serve more than 3,000 clients. CBTS has been named CRN Tech Elite 250 for seven consecutive years and ranks #49 on the CRN Solution Provider 500. Learn more at cbts.com .\n\nCody Ford Released | BENGALS ROSTER UPDATE\n\nThe Bengals today released OT Cody Ford.\n\nChris Brown and Usher To Perform at Paycor Stadium on October 24\n\nGRAMMY Award-winning icons USHER and Chris Brown today announced eight new stadium dates for The R&B Tour, extending the co-headlining run to 59 total dates.\n\nBengals Sign CB Matthew McDoom | BENGALS ROSTER UPDATE\n\nThe Bengals today signed free agent CB Matthew McDoom and announced CB Ceyair Wright has left the team to pursue other opportunities.\n\nB.J. Hill Cleared to Practice | BENGALS ROSTER UPDATE\n\nBengals DT B.J. Hill has passed a physical and is cleared to practice.\n\nBengals Expand Partnerships with Fox19 Now and iHeartMedia\n\nThe Bengals are expanding partnerships with FOX19 NOW and iHeartMedia to further integrate their on-air talent across the club's television and radio programming, providing fans with enhanced coverage and greater access throughout the season.\n\nJosh Kattus Cleared to Practice | BENGALS ROSTER UPDATE\n\nBengals TE Josh Kattus has passed a physical and is cleared to practice.\n\nPrinceton High School to Host Archbishop Moeller at Paycor Stadium on Aug. 20\n\nThe Cincinnati Bengals and Hamilton County today announced that Princeton High School will host Archbishop Moeller High School in a season-opening game at Paycor Stadium on Thursday, Aug. 20.\n\nBengals Announce 2026 Training Camp Schedule\n\nBengals Training Camp presented by Kettering Health will kick off on Wednesday, July 29 with the first of six practices open to the public, including a special Friday night practice in Paycor Stadium on Aug. 7.\n\nB.J. Hill Placed on Acive/Physically Unable to Perform List | BENGALS ROSTER UPDATE\n\nThe Bengals today placed DT B.J. Hill on the Active/Physically Unable to Perform list and placed TE Josh Kattus on the Active/Non-Football Injury list.\n\nBengals Waive Isaiah Nwokobia | BENGALS ROSTER UPDATE\n\nThe Bengals today waived S Isaiah Nwokobia\n\nBengals Announce 2026 Ring of Honor Class\n\nThe Ring of Honor induction ceremony will take place during halftime of the game against the Tennessee Titans on Sunday, Nov. 1.",
-      "content_html": "<main id=\"main-content\" tabindex=\"0\"><article class=\"d3-l-section-row nfl-c-article\"><div class=\"d3-l-grid--outer\"><div class=\"d3-l-grid--inner\"><div class=\"d3-l-col__col-8 nfl-c-article__header\"><h1 class=\"nfl-c-article__title\">Bengals Announce Strategic Partnership with Cincinnati-based Technology Leader CBTS</h1><div class=\"nfl-c-article__dates\"><span> Aug 28, 2026 at 10:00 AM</span></div><div class=\"nfl-c-article__byline\"></div></div></div></div><div class=\"d3-l-grid--outer\"><div class=\"d3-l-grid--inner\"><div class=\"nfl-c-article__header-image d3-l-col__col-12\"><div class=\"d3-o-media-object\"><figure class=\"d3-o-media-object__figure\"><picture is-lazy=\"/t_lazy\"><!--[if IE 9]><video style=\"display:none\"><![endif]--><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/t_lazy/f_png/bengals/hq98ej0sea7iqfkfwof4.png 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop_2x/t_lazy/f_png/bengals/hq98ej0sea7iqfkfwof4.png 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop_3x/t_lazy/f_png/bengals/hq98ej0sea7iqfkfwof4.png\" media=\"(min-width:1024px)\"><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_landscape_tablet/t_lazy/f_png/bengals/hq98ej0sea7iqfkfwof4.png 1x, https://static.clubs.nfl.com/image/upload/t_landscape_tablet_2x/t_lazy/f_png/bengals/hq98ej0sea7iqfkfwof4.png 2x, https://static.clubs.nfl.com/image/upload/t_landscape_tablet_3x/t_lazy/f_png/bengals/hq98ej0sea7iqfkfwof4.png\" media=\"(min-width:768px)\"><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_png/bengals/hq98ej0sea7iqfkfwof4.png 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_2x/t_lazy/f_png/bengals/hq98ej0sea7iqfkfwof4.png 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_3x/t_lazy/f_png/bengals/hq98ej0sea7iqfkfwof4.png\"><!--[if IE 9]></video><![endif]--><img alt=\"CBTS thumb\" class=\"img-responsive\" data-src=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_png/bengals/hq98ej0sea7iqfkfwof4.png\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\"/></source></source></source></picture></figure></div></div></div></div><div class=\"d3-l-grid--outer\"><div class=\"nfl-c-article__body d3-l-grid--inner\" data-require=\"modules/smoothScroller\"><div class=\"d3-l-col__col-8\"><div class=\"nfl-c-article__container\"><div class=\"nfl-c-body-part nfl-c-body-part--text\"><p>The Bengals and CBTS, a leading technology services company headquartered in Cincinnati, announced a new partnership that unites two hometown brands and names CBTS the Official Technology Provider of the Cincinnati Bengals. Fans will see CBTS branding in Paycor Stadium on the West Plaza Suites Level and across multiple media platforms, including television, radio and social media.</p></div><div class=\"nfl-c-body-part nfl-c-body-part--text\"><p>\"We are proud to partner with CBTS, an organization with deep roots in Cincinnati and a long history of supporting businesses in our region,\" said Bengals Chief Financial &amp; Commercial Officer John Helmle. \"We are excited to welcome CBTS as the Official Technology Provider of the Cincinnati Bengals and create new opportunities to connect with Bengals fans.\"</p></div><div class=\"nfl-c-body-part nfl-c-body-part--text\"><p>\"CBTS was born in Cincinnati, and becoming the Official Technology Provider of the Cincinnati Bengals is an exciting milestone for us,\" said CBTS CEO Kristin Russell. \"For more than three decades, we've helped organizations build the technology foundations they count on when performance matters. Now we have the opportunity to bring that story to one of the biggest stages in our hometown, and we couldn't be prouder to do it with the Bengals.\"</p></div><div class=\"nfl-c-body-part nfl-c-body-part--text\"><p>About CBTS</p></div><div class=\"nfl-c-body-part nfl-c-body-part--text\"><p>CBTS is a leading technology services company that designs, builds, and operates resilient technology foundations for mid-market and enterprise organizations across North America. Offering expertise in AI, data, applications, platforms, and security, CBTS combines the technical depth of a large integrator with the flexibility and client focus of a specialized partner. Founded in 1994 and headquartered in Cincinnati, Ohio, CBTS and its OnX Canada division serve more than 3,000 clients. CBTS has been named CRN Tech Elite 250 for seven consecutive years and ranks #49 on the CRN Solution Provider 500. Learn more at <a class=\"nfl-o-cta--link nfl-o-cta--underline\" href=\"https://www.cbts.com/\" style=\"word-break:break-word\" target=\"_blank\">cbts.com</a>.</p></div></div></div></div></div></article><section class=\"d3-l-grid--outer d3-l-section-row\"><div class=\"d3-l-grid--inner\" data-jsonid=\"617ca43a-8012-42af-a009-0d754794c044\" data-require=\"modules/carousel\"><div aria-label=\"carousel with 11 items\" class=\"d3-l-col__col-12 d3-o-carousel owl-carousel d3-o-carousel--arrows-outside\" data-count=\"11\" data-cycle=\"False\" data-is-content-tray=\"true\" data-items=\"4\" role=\"region\"><div class=\"d3-o-media-object d3-o-media-object--vertical d3-o-content-tray__card\"><a aria-label=\"Cody Ford Released | BENGALS ROSTER UPDATE\" data-id=\"4301503a-94df-429e-8a7b-0258fb6242b6\" data-link_module=\"Content Tray_Card carousel\" data-link_name=\"Cody Ford Released | BENGALS ROSTER UPDATE\" data-link_position=\"1:11\" data-link_type=\"Related Content\" data-link_url=\"/news/cody-ford-released-2026-roster-update\" href=\"/news/cody-ford-released-2026-roster-update\" title=\"Cody Ford Released | BENGALS ROSTER UPDATE\"><figure class=\"d3-o-media-object__figure\"><picture is-lazy=\"/t_lazy\"><!--[if IE 9]><video style=\"display:none\"><![endif]--><source media=\"(min-width:1024px)\" srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop/t_lazy/f_auto/bengals/repkneqagnryudsspf8d.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_2x/t_lazy/f_auto/bengals/repkneqagnryudsspf8d.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_3x/t_lazy/f_auto/bengals/repkneqagnryudsspf8d.jpg\"><source media=\"(min-width:768px)\" srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet/t_lazy/f_auto/bengals/repkneqagnryudsspf8d.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_2x/t_lazy/f_auto/bengals/repkneqagnryudsspf8d.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_3x/t_lazy/f_auto/bengals/repkneqagnryudsspf8d.jpg\"><source srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/repkneqagnryudsspf8d.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_2x/t_lazy/f_auto/bengals/repkneqagnryudsspf8d.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_3x/t_lazy/f_auto/bengals/repkneqagnryudsspf8d.jpg\"><!--[if IE 9]></video><![endif]--><img alt=\"\" class=\"img-responsive\" src=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/repkneqagnryudsspf8d.jpg\"/></source></source></source></picture></figure><div class=\"d3-o-media-object__body\"><div class=\"d3-o-media-object__roofline\">news</div><h3 class=\"d3-o-media-object__title\">Cody Ford Released | BENGALS ROSTER UPDATE</h3><div class=\"d3-o-media-object__summary\"><p>The Bengals today released OT Cody Ford.</p></div></div></a></div><div class=\"d3-o-media-object d3-o-media-object--vertical d3-o-content-tray__card\"><a aria-label=\"Chris Brown and Usher To Perform at Paycor Stadium on October 24\" data-id=\"4ee819e1-31a4-4d1e-a8c6-948bc0d90925\" data-link_module=\"Content Tray_Card carousel\" data-link_name=\"Chris Brown and Usher To Perform at Paycor Stadium on October 24\" data-link_position=\"2:11\" data-link_type=\"Related Content\" data-link_url=\"/news/usher-chris-brown-r-b-tour-cincinnati-2026-paycor-stadium\" href=\"/news/usher-chris-brown-r-b-tour-cincinnati-2026-paycor-stadium\" title=\"Chris Brown and Usher To Perform at Paycor Stadium on October 24\"><figure class=\"d3-o-media-object__figure\"><picture is-lazy=\"/t_lazy\"><!--[if IE 9]><video style=\"display:none\"><![endif]--><source media=\"(min-width:1024px)\" srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop/t_lazy/f_auto/bengals/duizgpgo6y9rsztgkj16.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_2x/t_lazy/f_auto/bengals/duizgpgo6y9rsztgkj16.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_3x/t_lazy/f_auto/bengals/duizgpgo6y9rsztgkj16.jpg\"><source media=\"(min-width:768px)\" srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet/t_lazy/f_auto/bengals/duizgpgo6y9rsztgkj16.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_2x/t_lazy/f_auto/bengals/duizgpgo6y9rsztgkj16.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_3x/t_lazy/f_auto/bengals/duizgpgo6y9rsztgkj16.jpg\"><source srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/duizgpgo6y9rsztgkj16.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_2x/t_lazy/f_auto/bengals/duizgpgo6y9rsztgkj16.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_3x/t_lazy/f_auto/bengals/duizgpgo6y9rsztgkj16.jpg\"><!--[if IE 9]></video><![endif]--><img alt=\"\" class=\"img-responsive\" src=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/duizgpgo6y9rsztgkj16.jpg\"/></source></source></source></picture></figure><div class=\"d3-o-media-object__body\"><div class=\"d3-o-media-object__roofline\">news</div><h3 class=\"d3-o-media-object__title\">Chris Brown and Usher To Perform at Paycor Stadium on October 24</h3><div class=\"d3-o-media-object__summary\"><p>GRAMMY Award-winning icons USHER and Chris Brown today announced eight new stadium dates for The R&amp;B Tour, extending the co-headlining run to 59 total dates.</p></div></div></a></div><div class=\"d3-o-media-object d3-o-media-object--vertical d3-o-content-tray__card\"><a aria-label=\"Bengals Sign CB Matthew McDoom | BENGALS ROSTER UPDATE\" data-id=\"ab6a68b5-7e46-459c-9d2b-65111231764e\" data-link_module=\"Content Tray_Card carousel\" data-link_name=\"Bengals Sign CB Matthew McDoom | BENGALS ROSTER UPDATE\" data-link_position=\"3:11\" data-link_type=\"Related Content\" data-link_url=\"/news/matthew-mcdoom-signed-ceyair-wright-exempt-list-roster-update\" href=\"/news/matthew-mcdoom-signed-ceyair-wright-exempt-list-roster-update\" title=\"Bengals Sign CB Matthew McDoom | BENGALS ROSTER UPDATE\"><figure class=\"d3-o-media-object__figure\"><picture is-lazy=\"/t_lazy\"><!--[if IE 9]><video style=\"display:none\"><![endif]--><source media=\"(min-width:1024px)\" srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop/t_lazy/f_auto/bengals/yy4fzftqg6jz2mosortf.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_2x/t_lazy/f_auto/bengals/yy4fzftqg6jz2mosortf.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_3x/t_lazy/f_auto/bengals/yy4fzftqg6jz2mosortf.jpg\"><source media=\"(min-width:768px)\" srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet/t_lazy/f_auto/bengals/yy4fzftqg6jz2mosortf.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_2x/t_lazy/f_auto/bengals/yy4fzftqg6jz2mosortf.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_3x/t_lazy/f_auto/bengals/yy4fzftqg6jz2mosortf.jpg\"><source srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/yy4fzftqg6jz2mosortf.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_2x/t_lazy/f_auto/bengals/yy4fzftqg6jz2mosortf.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_3x/t_lazy/f_auto/bengals/yy4fzftqg6jz2mosortf.jpg\"><!--[if IE 9]></video><![endif]--><img alt=\"\" class=\"img-responsive\" src=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/yy4fzftqg6jz2mosortf.jpg\"/></source></source></source></picture></figure><div class=\"d3-o-media-object__body\"><div class=\"d3-o-media-object__roofline\">news</div><h3 class=\"d3-o-media-object__title\">Bengals Sign CB Matthew McDoom | BENGALS ROSTER UPDATE</h3><div class=\"d3-o-media-object__summary\"><p>The Bengals today signed free agent CB Matthew McDoom and announced CB Ceyair Wright has left the team to pursue other opportunities.</p></div></div></a></div><div class=\"d3-o-media-object d3-o-media-object--vertical d3-o-content-tray__card\"><a aria-label=\"B.J. Hill Cleared to Practice | BENGALS ROSTER UPDATE\" data-id=\"95039b00-761f-4a23-8713-81d7eb05eb8d\" data-link_module=\"Content Tray_Card carousel\" data-link_name=\"B.J. Hill Cleared to Practice | BENGALS ROSTER UPDATE\" data-link_position=\"4:11\" data-link_type=\"Related Content\" data-link_url=\"/news/b-j-hill-cleared-to-practice-bengals-roster-update-2026\" href=\"/news/b-j-hill-cleared-to-practice-bengals-roster-update-2026\" title=\"B.J. Hill Cleared to Practice | BENGALS ROSTER UPDATE\"><figure class=\"d3-o-media-object__figure\"><picture is-lazy=\"/t_lazy\"><!--[if IE 9]><video style=\"display:none\"><![endif]--><source media=\"(min-width:1024px)\" srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop/t_lazy/f_auto/bengals/osbpkegovvzz9ij375iz.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_2x/t_lazy/f_auto/bengals/osbpkegovvzz9ij375iz.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_3x/t_lazy/f_auto/bengals/osbpkegovvzz9ij375iz.jpg\"><source media=\"(min-width:768px)\" srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet/t_lazy/f_auto/bengals/osbpkegovvzz9ij375iz.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_2x/t_lazy/f_auto/bengals/osbpkegovvzz9ij375iz.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_3x/t_lazy/f_auto/bengals/osbpkegovvzz9ij375iz.jpg\"><source srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/osbpkegovvzz9ij375iz.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_2x/t_lazy/f_auto/bengals/osbpkegovvzz9ij375iz.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_3x/t_lazy/f_auto/bengals/osbpkegovvzz9ij375iz.jpg\"><!--[if IE 9]></video><![endif]--><img alt=\"\" class=\"img-responsive\" src=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/osbpkegovvzz9ij375iz.jpg\"/></source></source></source></picture></figure><div class=\"d3-o-media-object__body\"><div class=\"d3-o-media-object__roofline\">news</div><h3 class=\"d3-o-media-object__title\">B.J. Hill Cleared to Practice | BENGALS ROSTER UPDATE</h3><div class=\"d3-o-media-object__summary\"><p>Bengals DT B.J. Hill has passed a physical and is cleared to practice.</p></div></div></a></div><div class=\"d3-o-media-object d3-o-media-object--vertical d3-o-content-tray__card\"><a aria-label=\"Bengals Expand Partnerships with Fox19 Now and iHeartMedia \" data-id=\"9eee3f85-713d-4f0f-bc1b-136e538b37e9\" data-link_module=\"Content Tray_Card carousel\" data-link_name=\"Bengals Expand Partnerships with Fox19 Now and iHeartMedia \" data-link_position=\"5:11\" data-link_type=\"Related Content\" data-link_url=\"/news/fox19-preseason-broadcasting-announcement-2026-iheart-press-release\" href=\"/news/fox19-preseason-broadcasting-announcement-2026-iheart-press-release\" title=\"Bengals Expand Partnerships with Fox19 Now and iHeartMedia \"><figure class=\"d3-o-media-object__figure\"><picture is-lazy=\"/t_lazy\"><!--[if IE 9]><video style=\"display:none\"><![endif]--><source data-srcset=\"https://static.clubs.nfl.com/image/private/t_editorial_landscape_3_4_desktop/t_lazy/f_auto/bengals/kommttlhozlpij8olsps.jpg 1x, https://static.clubs.nfl.com/image/private/t_editorial_landscape_3_4_desktop_2x/t_lazy/f_auto/bengals/kommttlhozlpij8olsps.jpg 2x, https://static.clubs.nfl.com/image/private/t_editorial_landscape_3_4_desktop_3x/t_lazy/f_auto/bengals/kommttlhozlpij8olsps.jpg\" media=\"(min-width:1024px)\"><source data-srcset=\"https://static.clubs.nfl.com/image/private/t_editorial_landscape_tablet/t_lazy/f_auto/bengals/kommttlhozlpij8olsps.jpg 1x, https://static.clubs.nfl.com/image/private/t_editorial_landscape_tablet_2x/t_lazy/f_auto/bengals/kommttlhozlpij8olsps.jpg 2x, https://static.clubs.nfl.com/image/private/t_editorial_landscape_tablet_3x/t_lazy/f_auto/bengals/kommttlhozlpij8olsps.jpg\" media=\"(min-width:768px)\"><source data-srcset=\"https://static.clubs.nfl.com/image/private/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/kommttlhozlpij8olsps.jpg 1x, https://static.clubs.nfl.com/image/private/t_editorial_landscape_mobile_2x/t_lazy/f_auto/bengals/kommttlhozlpij8olsps.jpg 2x, https://static.clubs.nfl.com/image/private/t_editorial_landscape_mobile_3x/t_lazy/f_auto/bengals/kommttlhozlpij8olsps.jpg\"><!--[if IE 9]></video><![endif]--><img alt=\"\" class=\"img-responsive\" data-src=\"https://static.clubs.nfl.com/image/private/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/kommttlhozlpij8olsps.jpg\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\"/></source></source></source></picture></figure><div class=\"d3-o-media-object__body\"><div class=\"d3-o-media-object__roofline\">news</div><h3 class=\"d3-o-media-object__title\">Bengals Expand Partnerships with Fox19 Now and iHeartMedia</h3><div class=\"d3-o-media-object__summary\"><p>The Bengals are expanding partnerships with FOX19 NOW and iHeartMedia to further integrate their on-air talent across the club's television and radio programming, providing fans with enhanced coverage and greater access throughout the season.</p></div></div></a></div><div class=\"d3-o-media-object d3-o-media-object--vertical d3-o-content-tray__card\"><a aria-label=\"Josh Kattus Cleared to Practice | BENGALS ROSTER UPDATE\" data-id=\"59dd5eb7-4b78-4638-895d-e087904814fd\" data-link_module=\"Content Tray_Card carousel\" data-link_name=\"Josh Kattus Cleared to Practice | BENGALS ROSTER UPDATE\" data-link_position=\"6:11\" data-link_type=\"Related Content\" data-link_url=\"/news/josh-kattus-cleared-to-practice-2026-roster-update\" href=\"/news/josh-kattus-cleared-to-practice-2026-roster-update\" title=\"Josh Kattus Cleared to Practice | BENGALS ROSTER UPDATE\"><figure class=\"d3-o-media-object__figure\"><picture is-lazy=\"/t_lazy\"><!--[if IE 9]><video style=\"display:none\"><![endif]--><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_2x/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_3x/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg\" media=\"(min-width:1024px)\"><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_2x/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_3x/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg\" media=\"(min-width:768px)\"><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_2x/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_3x/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg\"><!--[if IE 9]></video><![endif]--><img alt=\"\" class=\"img-responsive\" data-src=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\"/></source></source></source></picture></figure><div class=\"d3-o-media-object__body\"><div class=\"d3-o-media-object__roofline\">news</div><h3 class=\"d3-o-media-object__title\">Josh Kattus Cleared to Practice | BENGALS ROSTER UPDATE</h3><div class=\"d3-o-media-object__summary\"><p>Bengals TE Josh Kattus has passed a physical and is cleared to practice.</p></div></div></a></div><div class=\"d3-o-media-object d3-o-media-object--vertical d3-o-content-tray__card\"><a aria-label=\"Princeton High School to Host Archbishop Moeller at Paycor Stadium on Aug. 20 \" data-id=\"ad4cf718-d51c-4f4d-bbfb-1b93458fa884\" data-link_module=\"Content Tray_Card carousel\" data-link_name=\"Princeton High School to Host Archbishop Moeller at Paycor Stadium on Aug. 20 \" data-link_position=\"7:11\" data-link_type=\"Related Content\" data-link_url=\"/news/princeton-high-school-archbishop-moeller-paycor-stadium-football-august-20-2026\" href=\"/news/princeton-high-school-archbishop-moeller-paycor-stadium-football-august-20-2026\" title=\"Princeton High School to Host Archbishop Moeller at Paycor Stadium on Aug. 20 \"><figure class=\"d3-o-media-object__figure\"><picture is-lazy=\"/t_lazy\"><!--[if IE 9]><video style=\"display:none\"><![endif]--><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop/t_lazy/f_auto/bengals/ayicpo1xct5wonlrxjdj.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_2x/t_lazy/f_auto/bengals/ayicpo1xct5wonlrxjdj.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_3x/t_lazy/f_auto/bengals/ayicpo1xct5wonlrxjdj.jpg\" media=\"(min-width:1024px)\"><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet/t_lazy/f_auto/bengals/ayicpo1xct5wonlrxjdj.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_2x/t_lazy/f_auto/bengals/ayicpo1xct5wonlrxjdj.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_3x/t_lazy/f_auto/bengals/ayicpo1xct5wonlrxjdj.jpg\" media=\"(min-width:768px)\"><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/ayicpo1xct5wonlrxjdj.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_2x/t_lazy/f_auto/bengals/ayicpo1xct5wonlrxjdj.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_3x/t_lazy/f_auto/bengals/ayicpo1xct5wonlrxjdj.jpg\"><!--[if IE 9]></video><![endif]--><img alt=\"\" class=\"img-responsive\" data-src=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/ayicpo1xct5wonlrxjdj.jpg\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\"/></source></source></source></picture></figure><div class=\"d3-o-media-object__body\"><div class=\"d3-o-media-object__roofline\">news</div><h3 class=\"d3-o-media-object__title\">Princeton High School to Host Archbishop Moeller at Paycor Stadium on Aug. 20</h3><div class=\"d3-o-media-object__summary\"><p>The Cincinnati Bengals and Hamilton County today announced that Princeton High School will host Archbishop Moeller High School in a season-opening game at Paycor Stadium on Thursday, Aug. 20.</p></div></div></a></div><div class=\"d3-o-media-object d3-o-media-object--vertical d3-o-content-tray__card\"><a aria-label=\"Bengals Announce 2026 Training Camp Schedule\" data-id=\"37e3ef00-ef67-494e-82ba-97adebf40159\" data-link_module=\"Content Tray_Card carousel\" data-link_name=\"Bengals Announce 2026 Training Camp Schedule\" data-link_position=\"8:11\" data-link_type=\"Related Content\" data-link_url=\"/news/bengals-2026-training-camp-schedule-announced\" href=\"/news/bengals-2026-training-camp-schedule-announced\" title=\"Bengals Announce 2026 Training Camp Schedule\"><figure class=\"d3-o-media-object__figure\"><picture is-lazy=\"/t_lazy\"><!--[if IE 9]><video style=\"display:none\"><![endif]--><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop/t_lazy/f_auto/bengals/gmdhnpoy8ys69xg5jbl1.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_2x/t_lazy/f_auto/bengals/gmdhnpoy8ys69xg5jbl1.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_3x/t_lazy/f_auto/bengals/gmdhnpoy8ys69xg5jbl1.jpg\" media=\"(min-width:1024px)\"><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet/t_lazy/f_auto/bengals/gmdhnpoy8ys69xg5jbl1.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_2x/t_lazy/f_auto/bengals/gmdhnpoy8ys69xg5jbl1.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_3x/t_lazy/f_auto/bengals/gmdhnpoy8ys69xg5jbl1.jpg\" media=\"(min-width:768px)\"><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/gmdhnpoy8ys69xg5jbl1.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_2x/t_lazy/f_auto/bengals/gmdhnpoy8ys69xg5jbl1.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_3x/t_lazy/f_auto/bengals/gmdhnpoy8ys69xg5jbl1.jpg\"><!--[if IE 9]></video><![endif]--><img alt=\"\" class=\"img-responsive\" data-src=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/gmdhnpoy8ys69xg5jbl1.jpg\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\"/></source></source></source></picture></figure><div class=\"d3-o-media-object__body\"><div class=\"d3-o-media-object__roofline\">news</div><h3 class=\"d3-o-media-object__title\">Bengals Announce 2026 Training Camp Schedule</h3><div class=\"d3-o-media-object__summary\"><p>Bengals Training Camp presented by Kettering Health will kick off on Wednesday, July 29 with the first of six practices open to the public, including a special Friday night practice in Paycor Stadium on Aug. 7.</p></div></div></a></div><div class=\"d3-o-media-object d3-o-media-object--vertical d3-o-content-tray__card\"><a aria-label=\"B.J. Hill Placed on Acive/Physically Unable to Perform List | BENGALS ROSTER UPDATE\" data-id=\"3143610c-ca39-4431-8fdd-bea4bb9b7802\" data-link_module=\"Content Tray_Card carousel\" data-link_name=\"B.J. Hill Placed on Acive/Physically Unable to Perform List | BENGALS ROSTER UPDATE\" data-link_position=\"9:11\" data-link_type=\"Related Content\" data-link_url=\"/news/b-j-hill-injury-josh-kattus-bengals-roster-update\" href=\"/news/b-j-hill-injury-josh-kattus-bengals-roster-update\" title=\"B.J. Hill Placed on Acive/Physically Unable to Perform List | BENGALS ROSTER UPDATE\"><figure class=\"d3-o-media-object__figure\"><picture is-lazy=\"/t_lazy\"><!--[if IE 9]><video style=\"display:none\"><![endif]--><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop/t_lazy/f_auto/bengals/k8pltfxcpulgp3nifkhn.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_2x/t_lazy/f_auto/bengals/k8pltfxcpulgp3nifkhn.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_3x/t_lazy/f_auto/bengals/k8pltfxcpulgp3nifkhn.jpg\" media=\"(min-width:1024px)\"><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet/t_lazy/f_auto/bengals/k8pltfxcpulgp3nifkhn.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_2x/t_lazy/f_auto/bengals/k8pltfxcpulgp3nifkhn.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_3x/t_lazy/f_auto/bengals/k8pltfxcpulgp3nifkhn.jpg\" media=\"(min-width:768px)\"><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/k8pltfxcpulgp3nifkhn.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_2x/t_lazy/f_auto/bengals/k8pltfxcpulgp3nifkhn.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_3x/t_lazy/f_auto/bengals/k8pltfxcpulgp3nifkhn.jpg\"><!--[if IE 9]></video><![endif]--><img alt=\"\" class=\"img-responsive\" data-src=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/k8pltfxcpulgp3nifkhn.jpg\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\"/></source></source></source></picture></figure><div class=\"d3-o-media-object__body\"><div class=\"d3-o-media-object__roofline\">news</div><h3 class=\"d3-o-media-object__title\">B.J. Hill Placed on Acive/Physically Unable to Perform List | BENGALS ROSTER UPDATE</h3><div class=\"d3-o-media-object__summary\"><p>The Bengals today placed DT B.J. Hill on the Active/Physically Unable to Perform list and placed TE Josh Kattus on the Active/Non-Football Injury list.</p></div></div></a></div><div class=\"d3-o-media-object d3-o-media-object--vertical d3-o-content-tray__card\"><a aria-label=\"Bengals Waive Isaiah Nwokobia | BENGALS ROSTER UPDATE\" data-id=\"a49f9e88-5427-4493-aa99-4af01324a541\" data-link_module=\"Content Tray_Card carousel\" data-link_name=\"Bengals Waive Isaiah Nwokobia | BENGALS ROSTER UPDATE\" data-link_position=\"10:11\" data-link_type=\"Related Content\" data-link_url=\"/news/bengals-waive-isaiah-nwokobia-2026-roster-update\" href=\"/news/bengals-waive-isaiah-nwokobia-2026-roster-update\" title=\"Bengals Waive Isaiah Nwokobia | BENGALS ROSTER UPDATE\"><figure class=\"d3-o-media-object__figure\"><picture is-lazy=\"/t_lazy\"><!--[if IE 9]><video style=\"display:none\"><![endif]--><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_2x/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_3x/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg\" media=\"(min-width:1024px)\"><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_2x/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_3x/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg\" media=\"(min-width:768px)\"><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_2x/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_3x/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg\"><!--[if IE 9]></video><![endif]--><img alt=\"\" class=\"img-responsive\" data-src=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/yuszdassf8slvkgdcmoi.jpg\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\"/></source></source></source></picture></figure><div class=\"d3-o-media-object__body\"><div class=\"d3-o-media-object__roofline\">news</div><h3 class=\"d3-o-media-object__title\">Bengals Waive Isaiah Nwokobia | BENGALS ROSTER UPDATE</h3><div class=\"d3-o-media-object__summary\"><p>The Bengals today waived S Isaiah Nwokobia</p></div></div></a></div><div class=\"d3-o-media-object d3-o-media-object--vertical d3-o-content-tray__card\"><a aria-label=\"Bengals Announce 2026 Ring of Honor Class\" data-id=\"da86ca74-bb6a-427e-bf24-e678d058728e\" data-link_module=\"Content Tray_Card carousel\" data-link_name=\"Bengals Announce 2026 Ring of Honor Class\" data-link_position=\"11:11\" data-link_type=\"Related Content\" data-link_url=\"/news/bengals-announce-2026-ring-of-honor-class-james-brooks-bob-trumpy\" href=\"/news/bengals-announce-2026-ring-of-honor-class-james-brooks-bob-trumpy\" title=\"Bengals Announce 2026 Ring of Honor Class\"><figure class=\"d3-o-media-object__figure\"><picture is-lazy=\"/t_lazy\"><!--[if IE 9]><video style=\"display:none\"><![endif]--><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop/t_lazy/f_auto/bengals/ansymwzgfnxteyoh8rrd.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_2x/t_lazy/f_auto/bengals/ansymwzgfnxteyoh8rrd.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_3_4_desktop_3x/t_lazy/f_auto/bengals/ansymwzgfnxteyoh8rrd.jpg\" media=\"(min-width:1024px)\"><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet/t_lazy/f_auto/bengals/ansymwzgfnxteyoh8rrd.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_2x/t_lazy/f_auto/bengals/ansymwzgfnxteyoh8rrd.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_tablet_3x/t_lazy/f_auto/bengals/ansymwzgfnxteyoh8rrd.jpg\" media=\"(min-width:768px)\"><source data-srcset=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/ansymwzgfnxteyoh8rrd.jpg 1x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_2x/t_lazy/f_auto/bengals/ansymwzgfnxteyoh8rrd.jpg 2x, https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile_3x/t_lazy/f_auto/bengals/ansymwzgfnxteyoh8rrd.jpg\"><!--[if IE 9]></video><![endif]--><img alt=\"\" class=\"img-responsive\" data-src=\"https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/ansymwzgfnxteyoh8rrd.jpg\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\"/></source></source></source></picture></figure><div class=\"d3-o-media-object__body\"><div class=\"d3-o-media-object__roofline\">news</div><h3 class=\"d3-o-media-object__title\">Bengals Announce 2026 Ring of Honor Class</h3><div class=\"d3-o-media-object__summary\"><p>The Ring of Honor induction ceremony will take place during halftime of the game against the Tennessee Titans on Sunday, Nov. 1.</p></div></div></a></div></div></div><span style=\"display:none\">  </span></section><section class=\"d3-l-grid--outer d3-l-adv-row\"><span aria-label=\"Advertising\" class=\"d3-o-section-title\">Advertising</span><div class=\"d3-l-grid--inner\"><div class=\"d3-o-adv-block\" data-id=\"adv_club\" id=\"adv_club\"></div></div></section></main>",
-      "word_count": 618,
-      "char_count": 3937,
-      "lead_image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bengals/hq98ej0sea7iqfkfwof4",
-      "images": [
-        {
-          "url": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bengals/hq98ej0sea7iqfkfwof4",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bengals/hq98ej0sea7iqfkfwof4.png",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://static.clubs.nfl.com/image/upload/t_landscape_tablet/bengals/hq98ej0sea7iqfkfwof4.png",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/bengals/hq98ej0sea7iqfkfwof4.png",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/repkneqagnryudsspf8d.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/duizgpgo6y9rsztgkj16.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/yy4fzftqg6jz2mosortf.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/t_lazy/f_auto/bengals/osbpkegovvzz9ij375iz.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 8,
-      "extractor": "bs4",
-      "status": "ok",
-      "first_seen_at": "2026-08-30T00:17:19Z"
-    },
-    {
-      "id": "08de3c1c78c04798",
-      "title": "To Build the Future of Food, Technology Matters. Relationships Matter More",
-      "header": "Food Tank",
-      "published_at": "2026-08-28T13:00:01Z",
-      "published_raw": "Fri, 28 Aug 2026 13:00:01 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWZ3OU1vcW9Qa0M4M0gyaXdzbVJNOVR5SWtoZzg0NGNKMTE4NTI5R0o1R2NDREZOU2lIc1V0a2tXbHh4UU5obXdSYm42NUhSR2VJd1NNaUJlUHpvQzJSblZHekRocHZBT0FoQ21SV0RCcmFZZERYbFRxaFJhdkFoVEdJLVhKNGNxTjBTbGUza3FMNU1mX0VSRmQzVlUyUGl2SWNBMFlxN2FONlk?oc=5",
-      "description": "To Build the Future of Food, Technology Matters. Relationships Matter More Food Tank",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWZ3OU1vcW9Qa0M4M0gyaXdzbVJNOVR5SWtoZzg0NGNKMTE4NTI5R0o1R2NDREZOU2lIc1V0a2tXbHh4UU5obXdSYm42NUhSR2VJd1NNaUJlUHpvQzJSblZHekRocHZBT0FoQ21SV0RCcmFZZERYbFRxaFJhdkFoVEdJLVhKNGNxTjBTbGUza3FMNU1mX0VSRmQzVlUyUGl2SWNBMFlxN2FONlk?oc=5\" target=\"_blank\">To Build the Future of Food, Technology Matters. Relationships Matter More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Food Tank</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWZ3OU1vcW9Qa0M4M0gyaXdzbVJNOVR5SWtoZzg0NGNKMTE4NTI5R0o1R2NDREZOU2lIc1V0a2tXbHh4UU5obXdSYm42NUhSR2VJd1NNaUJlUHpvQzJSblZHekRocHZBT0FoQ21SV0RCcmFZZERYbFRxaFJhdkFoVEdJLVhKNGNxTjBTbGUza3FMNU1mX0VSRmQzVlUyUGl2SWNBMFlxN2FONlk?oc=5"
-      ],
-      "scraped_at": "2026-08-30T12:33:40Z",
-      "url": "https://foodtank.com/news/2026/08/to-build-the-future-of-food-technology-matters-relationships-matter-more/",
-      "final_url": "https://foodtank.com/news/2026/08/to-build-the-future-of-food-technology-matters-relationships-matter-more/",
-      "source": "Food Tank",
-      "article_title": "",
-      "heading": "To Build the Future of Food, Technology Matters. Relationships Matter More",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "To Build the Future of Food, Technology Matters. Relationships Matter More Food Tank",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-08-30T05:19:31Z"
-    },
-    {
-      "id": "6ef43a526d525bbf",
-      "title": "Fall 2026 Teaching with Technology virtual workshop series open for registration",
-      "header": "The Pennsylvania State University",
-      "published_at": "2026-08-28T12:19:57Z",
-      "published_raw": "Fri, 28 Aug 2026 12:19:57 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHNUcG01Z1RNeEpCZldlU205S1dhVXN4b3hiV0tKVHlkTTJEYlFqamJzdjYyNGtJSUJsemJ1SFpkTWFvcm1ONmpYbU1ObDNLN3kzVmpFdldTby0wV3J5QUNKdUxXSjlaQS1pa202QjZfVExETEZxWXp5YlYxaXMwMFdMOU83Y05GVGJLMHI0Zk5VRGlLRER2Sjl5TUUwRkQxalQxb3JoazFWX2k2SDZGcEhMM1IwdGhJTkw2UFRRVlk?oc=5",
-      "description": "Fall 2026 Teaching with Technology virtual workshop series open for registration The Pennsylvania State University",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHNUcG01Z1RNeEpCZldlU205S1dhVXN4b3hiV0tKVHlkTTJEYlFqamJzdjYyNGtJSUJsemJ1SFpkTWFvcm1ONmpYbU1ObDNLN3kzVmpFdldTby0wV3J5QUNKdUxXSjlaQS1pa202QjZfVExETEZxWXp5YlYxaXMwMFdMOU83Y05GVGJLMHI0Zk5VRGlLRER2Sjl5TUUwRkQxalQxb3JoazFWX2k2SDZGcEhMM1IwdGhJTkw2UFRRVlk?oc=5\" target=\"_blank\">Fall 2026 Teaching with Technology virtual workshop series open for registration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Pennsylvania State University</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHNUcG01Z1RNeEpCZldlU205S1dhVXN4b3hiV0tKVHlkTTJEYlFqamJzdjYyNGtJSUJsemJ1SFpkTWFvcm1ONmpYbU1ObDNLN3kzVmpFdldTby0wV3J5QUNKdUxXSjlaQS1pa202QjZfVExETEZxWXp5YlYxaXMwMFdMOU83Y05GVGJLMHI0Zk5VRGlLRER2Sjl5TUUwRkQxalQxb3JoazFWX2k2SDZGcEhMM1IwdGhJTkw2UFRRVlk?oc=5"
-      ],
-      "scraped_at": "2026-08-30T00:17:23Z",
-      "url": "https://www.psu.edu/news/university-libraries/story/fall-2026-teaching-technology-virtual-workshop-series-open-registration",
-      "final_url": "https://www.psu.edu/news/university-libraries/story/fall-2026-teaching-technology-virtual-workshop-series-open-registration",
-      "source": "psu.edu",
-      "article_title": "Fall 2026 Teaching with Technology virtual workshop series open for registration | Penn State University",
-      "heading": "Fall 2026 Teaching with Technology virtual workshop series open for registration",
-      "authors": [
-        "Dean Blackstock"
-      ],
-      "article_published_at": "2026-08-28T12:19:57.000Z",
-      "article_modified_at": "2026-08-28T12:20:40.000Z",
-      "summary": "Teaching and Learning with Technology will again host the Teaching with Technology Series in fall 2026. This ongoing series of virtual workshops introduces instructors to University-approved educational technologies designed to strengthen course content, foster student engagement, and support digital accessibility.",
-      "content": "The Teaching with Technology Series returns this fall semester, encouraging instructors to use University-approved technologies in innovative ways. Credit: Adobe Stock (https://stock.adobe.com/images/e-learning-online-education-webinar-training-seminar-personal-development-concept/476051263?prev_url=detail) . All Rights Reserved .\n\nUNIVERSITY PARK, Pa. — Teaching and Learning with Technology (TLT), will again host the Teaching with Technology Series (TwT) in fall 2026. This ongoing series of virtual workshops introduces instructors to University-approved educational technologies designed to strengthen course content, foster student engagement, and support digital accessibility.\n\nThis fall’s TwT lineup is structured around three focused tracks: AI for Educators, Prep and Practice, and Learning Tool Exploration. Whether an instructor is just getting started at Penn State or is looking to deepen their instructional toolkit, there’s a workshop for everyone. Session highlights include exploring Generative AI tools and their responsible use with licensed library content, multimodal storytelling with Adobe Express, social annotation, digital accessibility, and flipped and blended learning strategies.\n\nWorkshops will be offered through November 2026. Visit this link to browse the full schedule and register for upcoming sessions .\n\nInstructors participating in the “ Embracing Teaching and Learning with Technology for New Faculty to Penn State ” and “ AI-Enhanced Pedagogy: Exploring Generative AI as a Collaborative Partner” Provost Endorsements can attend TwT sessions for credit toward either endorsement. Visit the Provost Endorsement Program website for more information.\n\nFor more information, email tltlearningdesign@psu.edu .\n\nTags\n\n- Academics\n\n- Campus Life\n\n- Activities and Traditions\n\n- Faculty and Staff\n\n- University Park\n\n- Information Technology\n\n- Teaching and Learning with Technology\n\n- University Libraries\n\n- Artificial Intelligence",
-      "content_html": "<article data-testid=\"article\"><div class=\"article-header_articleHeader__2OlVW\"><a class=\"article-header_articleTopic___KasL\" data-link-type=\"nextjs\" href=\"/news/university-libraries\" id=\"article-primary-tag\">University Libraries</a><h1 class=\"article-header_articleTitle__wF1eO\">Fall 2026 Teaching with Technology virtual workshop series open for registration</h1></div><figure class=\"article-hero-image_articleHeroImage__lVCi1\" data-testid=\"article-hero-image\" itemscope=\"\" itemtype=\"http://schema.org/ImageObject\"><figcaption class=\"caption_caption__NUVUU article-hero-image_caption__M94xx\" data-testid=\"caption\" id=\"caption\"><div class=\"caption_wrapper__TvVG_\"><div class=\"caption_captionContentWrapper__DBIP0 caption-background\"><div class=\"caption_captionContent__ooqwN\"><p><span>The Teaching with Technology Series returns this fall semester, encouraging instructors to use University-approved technologies in innovative ways. </span> <span class=\"caption_captionCredit___hoK5\" data-testid=\"credit\">Credit: <!-- -->Adobe Stock (https://stock.adobe.com/images/e-learning-online-education-webinar-training-seminar-personal-development-concept/476051263?prev_url=detail)<!-- -->. <!-- -->All Rights Reserved<!-- -->.</span></p></div></div></div></figcaption></figure><div class=\"basic-story_paragraphContainer__TWxF3\"><div class=\"text-content_outer__fxYfg text-intro\"><div class=\"text-content_inner__OK4E9\"><div class=\"text-content_textContent__f06k1\"><div id=\"text-content-container\"><p>UNIVERSITY PARK, Pa. — <a href=\"https://tlt.psu.edu/\" rel=\"noreferrer noopener\" target=\"_blank\">Teaching and Learning with Technology</a> (TLT), will again host the <a href=\"https://tlt.psu.edu/services/learning-design-team/ld-events-and-workshops/teaching-with-technology-series/\" rel=\"noreferrer noopener\" target=\"_blank\">Teaching with Technology Series</a> (TwT) in fall 2026. This ongoing series of virtual workshops introduces instructors to University-approved educational technologies designed to strengthen course content, foster student engagement, and support digital accessibility. </p>\n<p>This fall’s TwT lineup is structured around three focused tracks: AI for Educators, Prep and Practice, and Learning Tool Exploration. Whether an instructor is just getting started at Penn State or is looking to deepen their instructional toolkit, there’s a workshop for everyone. Session highlights include exploring Generative AI tools and their responsible use with licensed library content, multimodal storytelling with Adobe Express, social annotation, digital accessibility, and flipped and blended learning strategies. </p>\n<p>Workshops will be offered through November 2026. <a href=\"https://forms.cloud.microsoft/r/aSxdsHBjxG\" rel=\"noreferrer noopener\" target=\"_blank\">Visit this link to browse the full schedule and register for upcoming sessions</a>. </p>\n<p>Instructors participating in the “<a href=\"https://tlt.psu.edu/opportunities/provost-endorsements/new-faculty-provost-endorsement/\" rel=\"noreferrer noopener\" target=\"_blank\">Embracing Teaching and Learning with Technology for New Faculty to Penn State</a>” and “<a href=\"https://tlt.psu.edu/provost-endorsements/genai-provost-endorsement/\" rel=\"noreferrer noopener\" target=\"_blank\">AI-Enhanced Pedagogy: Exploring Generative AI as a Collaborative Partner”</a> Provost Endorsements can attend TwT sessions for credit toward either endorsement. Visit the<a href=\"https://vpfa.psu.edu/provost-endorsement-program/\" rel=\"noreferrer noopener\" target=\"_blank\"> </a><a href=\"https://cfda.psu.edu/professional_growth/provost-endorsement-program\" rel=\"noreferrer noopener\" target=\"_blank\">Provost Endorsement Program website</a> for more information. </p>\n<p>For more information, email <a href=\"mailto:tltlearningdesign@psu.edu\" rel=\"noreferrer noopener\" target=\"_blank\">tltlearningdesign@psu.edu</a>.</p>\n</div></div></div></div></div><div class=\"basic-story_updatedContainer__fKQ60\"><time class=\"basic-story_updated__EkcOf\" datetime=\"2026-08-28T12:20:40.000Z\">Last Updated <!-- -->August 28, 2026</time></div><section class=\"article-tags_outer__dHrwq\"><h3 class=\"article-tags_title__8MQNs\">Tags</h3><ul class=\"article-tags_list__Euped\"><li class=\"article-tags_listItem__8O2kq\"><a class=\"tag_tag__TPikM\" data-link-type=\"nextjs\" href=\"/news/academics\" id=\"article-tag-click\">Academics</a></li><li class=\"article-tags_listItem__8O2kq\"><a class=\"tag_tag__TPikM\" data-link-type=\"nextjs\" href=\"/news/campus-life\" id=\"article-tag-click\">Campus Life</a></li><li class=\"article-tags_listItem__8O2kq\"><a class=\"tag_tag__TPikM\" data-link-type=\"nextjs\" href=\"/news/campus-life/activities-and-traditions\" id=\"article-tag-click\">Activities and Traditions</a></li><li class=\"article-tags_listItem__8O2kq\"><a class=\"tag_tag__TPikM\" data-link-type=\"nextjs\" href=\"/news/faculty-and-staff\" id=\"article-tag-click\">Faculty and Staff</a></li><li class=\"article-tags_listItem__8O2kq\"><a class=\"tag_tag__TPikM\" data-link-type=\"nextjs\" href=\"/news/university-park\" id=\"article-tag-click\">University Park</a></li><li class=\"article-tags_listItem__8O2kq\"><a class=\"tag_tag__TPikM\" data-link-type=\"nextjs\" href=\"/news/information-technology\" id=\"article-tag-click\">Information Technology</a></li><li class=\"article-tags_listItem__8O2kq\"><a class=\"tag_tag__TPikM\" data-link-type=\"nextjs\" href=\"/news/teaching-and-learning-technology\" id=\"article-tag-click\">Teaching and Learning with Technology</a></li><li class=\"article-tags_listItem__8O2kq\"><a class=\"tag_tag__TPikM\" data-link-type=\"nextjs\" href=\"/news/university-libraries\" id=\"article-tag-click\">University Libraries</a></li><li class=\"article-tags_listItem__8O2kq\"><a class=\"tag_tag__TPikM\" data-link-type=\"nextjs\" href=\"/news/artificial-intelligence\" id=\"article-tag-click\">Artificial Intelligence</a></li></ul></section></article>",
-      "word_count": 254,
-      "char_count": 1968,
-      "lead_image": "https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/styles/16_9_1000w/public/2026/08/fall-2026-twt-series_anonymous_image1.png?h=36eb1379&itok=395KgxYV",
-      "images": [
-        {
-          "url": "https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/styles/16_9_1000w/public/2026/08/fall-2026-twt-series_anonymous_image1.png?h=36eb1379&itok=395KgxYV",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/styles/4_3_1500w/public/2026/08/fall-2026-twt-series_anonymous_image1.png?h=36eb1379&itok=n-SyuTEI",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 2,
-      "extractor": "bs4",
-      "status": "ok",
-      "first_seen_at": "2026-08-30T00:17:23Z"
     }
   ]
 }
