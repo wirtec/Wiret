@@ -1,15 +1,15 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-06T21:57:05Z",
+  "generated_at": "2026-09-06T23:31:58Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 11,
-    "added": 8,
-    "updated": 3,
+    "scraped_now": 2,
+    "added": 0,
+    "updated": 2,
     "ok": 382,
     "failed": 118,
-    "duration_seconds": 15.1
+    "duration_seconds": 2.05
   },
   "articles": [
     {
@@ -554,7 +554,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGaFduOVk5VVdhcXZxZzh6dy0tMjFlMHhNNUtySVhsNVpkbGNDS0lEcUVIVnVUUFVNMEF6NFVxM0VxbTlsaXRoU1A5NEEzUTNTcC1LRmZ0anZSbG5NclE?oc=5"
       ],
-      "scraped_at": "2026-09-06T21:56:51Z",
+      "scraped_at": "2026-09-06T23:31:57Z",
       "url": "https://www.wsj.com/tech/whos-boring-now-b22edb19",
       "final_url": "https://www.wsj.com/tech/whos-boring-now-b22edb19",
       "source": "WSJ",
@@ -1053,6 +1053,40 @@
       "first_seen_at": "2026-09-06T14:51:37Z"
     },
     {
+      "id": "b7cf2e2a585874cd",
+      "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
+      "header": "The New York Times",
+      "published_at": "2026-09-06T10:45:11Z",
+      "published_raw": "Sun, 06 Sep 2026 10:45:11 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5",
+      "description": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips The New York Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5\" target=\"_blank\">How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5"
+      ],
+      "scraped_at": "2026-09-06T23:31:57Z",
+      "url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+      "final_url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+      "source": "The New York Times",
+      "article_title": "",
+      "heading": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips The New York Times",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-06T11:54:34Z"
+    },
+    {
       "id": "e5a7862ab420aab1",
       "title": "Opinion | The one thing parents agree on about technology in schools: Limit AI.",
       "header": "MS NOW",
@@ -1165,40 +1199,6 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-06T14:51:37Z"
-    },
-    {
-      "id": "b7cf2e2a585874cd",
-      "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
-      "header": "The New York Times",
-      "published_at": "2026-09-06T09:00:58Z",
-      "published_raw": "Sun, 06 Sep 2026 09:00:58 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5",
-      "description": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips The New York Times",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5\" target=\"_blank\">How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5"
-      ],
-      "scraped_at": "2026-09-06T21:56:51Z",
-      "url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
-      "final_url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
-      "source": "The New York Times",
-      "article_title": "",
-      "heading": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips The New York Times",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-06T11:54:34Z"
     },
     {
       "id": "40fa3859017b8a0d",
