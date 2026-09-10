@@ -1,17 +1,299 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-10T00:47:50Z",
+  "generated_at": "2026-09-10T05:34:06Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
     "scraped_now": 12,
-    "added": 8,
-    "updated": 4,
-    "ok": 390,
-    "failed": 110,
-    "duration_seconds": 5.26
+    "added": 9,
+    "updated": 3,
+    "ok": 389,
+    "failed": 111,
+    "duration_seconds": 102.09
   },
   "articles": [
+    {
+      "id": "fcf5785f5b4ace9b",
+      "title": "RBI Sees Common Technology Providers as Financial Stability Risk",
+      "header": "Bloomberg.com",
+      "published_at": "2026-09-10T04:18:00Z",
+      "published_raw": "Thu, 10 Sep 2026 04:18:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOG9GQlhPeU0ta2lhczUwcHJOS3hta2ZPck0zQ244TXN5ZmloR3ZnSjUyUkdCblJBdVJWSUk5aEhWQ2xjUi0tbldYRk5IUEV1bFo2OXFtaHl1TmRXa24tcXRlbV8zQjFzcFNndlF1WmpkMXVVcVRzbEZhWDgtblZBZXptMExrclpfZTVkQ01iVC1vR1hxYTI1S3B2RURGSy1jOV9GN3pkTXNUS1ZJOXdSMzhJTUZJdw?oc=5",
+      "description": "RBI Sees Common Technology Providers as Financial Stability Risk Bloomberg.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNOG9GQlhPeU0ta2lhczUwcHJOS3hta2ZPck0zQ244TXN5ZmloR3ZnSjUyUkdCblJBdVJWSUk5aEhWQ2xjUi0tbldYRk5IUEV1bFo2OXFtaHl1TmRXa24tcXRlbV8zQjFzcFNndlF1WmpkMXVVcVRzbEZhWDgtblZBZXptMExrclpfZTVkQ01iVC1vR1hxYTI1S3B2RURGSy1jOV9GN3pkTXNUS1ZJOXdSMzhJTUZJdw?oc=5\" target=\"_blank\">RBI Sees Common Technology Providers as Financial Stability Risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOG9GQlhPeU0ta2lhczUwcHJOS3hta2ZPck0zQ244TXN5ZmloR3ZnSjUyUkdCblJBdVJWSUk5aEhWQ2xjUi0tbldYRk5IUEV1bFo2OXFtaHl1TmRXa24tcXRlbV8zQjFzcFNndlF1WmpkMXVVcVRzbEZhWDgtblZBZXptMExrclpfZTVkQ01iVC1vR1hxYTI1S3B2RURGSy1jOV9GN3pkTXNUS1ZJOXdSMzhJTUZJdw?oc=5"
+      ],
+      "scraped_at": "2026-09-10T05:32:25Z",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/rbi-sees-common-technology-providers-as-financial-stability-risk",
+      "final_url": "https://www.bloomberg.com/news/articles/2026-09-10/rbi-sees-common-technology-providers-as-financial-stability-risk",
+      "source": "Bloomberg.com",
+      "article_title": "",
+      "heading": "RBI Sees Common Technology Providers as Financial Stability Risk",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "RBI Sees Common Technology Providers as Financial Stability Risk Bloomberg.com",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-10T05:32:25Z"
+    },
+    {
+      "id": "896c79df3ced7f3b",
+      "title": "Political world erupts as AI researchers warn of ‘extinction’ threat",
+      "header": "The Washington Post",
+      "published_at": "2026-09-10T02:42:29Z",
+      "published_raw": "Thu, 10 Sep 2026 02:42:29 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONE16cFNXWkVTdG1xM1dRTUxYLTVtdms1elBUVEJrT3BpT2RMS3pwaUlUVWVSQnFlM0RYYmNab2dUZ0hJRW9GRVYtTHRjLWk2SThLQzJ3ZG1iNjhQU1pEWXVLRnQyclBOOGd1WGNHYUlfdEZUdUVHRW5nYmgwZTkyT2FyTUg3TENQUENmVENmNXA4bmtNc08yaUdUOVBWaGRXQm1QVXFaR25VMW9Pa2FUVktKQldOcG80WVBaOXRuRmxDNml5WlkyUg?oc=5",
+      "description": "Political world erupts as AI researchers warn of ‘extinction’ threat The Washington Post",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxONE16cFNXWkVTdG1xM1dRTUxYLTVtdms1elBUVEJrT3BpT2RMS3pwaUlUVWVSQnFlM0RYYmNab2dUZ0hJRW9GRVYtTHRjLWk2SThLQzJ3ZG1iNjhQU1pEWXVLRnQyclBOOGd1WGNHYUlfdEZUdUVHRW5nYmgwZTkyT2FyTUg3TENQUENmVENmNXA4bmtNc08yaUdUOVBWaGRXQm1QVXFaR25VMW9Pa2FUVktKQldOcG80WVBaOXRuRmxDNml5WlkyUg?oc=5\" target=\"_blank\">Political world erupts as AI researchers warn of ‘extinction’ threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONE16cFNXWkVTdG1xM1dRTUxYLTVtdms1elBUVEJrT3BpT2RMS3pwaUlUVWVSQnFlM0RYYmNab2dUZ0hJRW9GRVYtTHRjLWk2SThLQzJ3ZG1iNjhQU1pEWXVLRnQyclBOOGd1WGNHYUlfdEZUdUVHRW5nYmgwZTkyT2FyTUg3TENQUENmVENmNXA4bmtNc08yaUdUOVBWaGRXQm1QVXFaR25VMW9Pa2FUVktKQldOcG80WVBaOXRuRmxDNml5WlkyUg?oc=5"
+      ],
+      "scraped_at": "2026-09-10T05:32:26Z",
+      "url": "https://www.washingtonpost.com/technology/2026/09/09/anthropic-researcher-resigns-warning-reckless-race-toward-superintelligence/",
+      "final_url": "https://www.washingtonpost.com/technology/2026/09/09/anthropic-researcher-resigns-warning-reckless-race-toward-superintelligence/",
+      "source": "The Washington Post",
+      "article_title": "",
+      "heading": "Political world erupts as AI researchers warn of ‘extinction’ threat",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Political world erupts as AI researchers warn of ‘extinction’ threat The Washington Post",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-10T05:32:26Z"
+    },
+    {
+      "id": "b96165ec56f6358a",
+      "title": "Central Texas communities plan technology restrictions after ditching Flock cameras",
+      "header": "KXAN Austin",
+      "published_at": "2026-09-10T02:30:41Z",
+      "published_raw": "Thu, 10 Sep 2026 02:30:41 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTEhGaTIxVVk5QTZWRXBJNk1aSjBCbXctSXdsdEc1ZGsxYjA0b20xUFQyRXhvNnl1WElObUJJdVhVR2NSS0RjY21RTlNTNTZNaExVbFF5eEVRdlI5N1BCdk00WmoxdHBRbnRUUW9TX0IxQS1iMzYxT1pDTERmbnlDaVB3bm1MX1VHN3J6NkYwRkZNaTYxd0ZoUkVRMXhpeV9SNXdObnlNU0xHREFCVVVVVXB2c1JWWUnSAbwBQVVfeXFMUHBBRFZ4ZFdaekI0eXRud3MyWWJrWjVLNDg2RlU3VzBTVWYyVkhmZm1LaWxfMUY1WW9YbDd3cFp4aDJibktvaU85UHVQbmpjS0JHa0F6bHlJRkdCOVY3VzRidGhkUFFOTGtiWGpRSFdpaTVzSG5rbFp1eTNSSXkzNWphdUpGWjM5MHZtbzVkdU5USHJ2U0t5OTBEU0Z4RFVkZzdJUUxhdFZ3aTBnZGN1WTBiTzlCSkg0eUhnM2k?oc=5",
+      "description": "Central Texas communities plan technology restrictions after ditching Flock cameras KXAN Austin",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQTEhGaTIxVVk5QTZWRXBJNk1aSjBCbXctSXdsdEc1ZGsxYjA0b20xUFQyRXhvNnl1WElObUJJdVhVR2NSS0RjY21RTlNTNTZNaExVbFF5eEVRdlI5N1BCdk00WmoxdHBRbnRUUW9TX0IxQS1iMzYxT1pDTERmbnlDaVB3bm1MX1VHN3J6NkYwRkZNaTYxd0ZoUkVRMXhpeV9SNXdObnlNU0xHREFCVVVVVXB2c1JWWUnSAbwBQVVfeXFMUHBBRFZ4ZFdaekI0eXRud3MyWWJrWjVLNDg2RlU3VzBTVWYyVkhmZm1LaWxfMUY1WW9YbDd3cFp4aDJibktvaU85UHVQbmpjS0JHa0F6bHlJRkdCOVY3VzRidGhkUFFOTGtiWGpRSFdpaTVzSG5rbFp1eTNSSXkzNWphdUpGWjM5MHZtbzVkdU5USHJ2U0t5OTBEU0Z4RFVkZzdJUUxhdFZ3aTBnZGN1WTBiTzlCSkg0eUhnM2k?oc=5\" target=\"_blank\">Central Texas communities plan technology restrictions after ditching Flock cameras</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KXAN Austin</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTEhGaTIxVVk5QTZWRXBJNk1aSjBCbXctSXdsdEc1ZGsxYjA0b20xUFQyRXhvNnl1WElObUJJdVhVR2NSS0RjY21RTlNTNTZNaExVbFF5eEVRdlI5N1BCdk00WmoxdHBRbnRUUW9TX0IxQS1iMzYxT1pDTERmbnlDaVB3bm1MX1VHN3J6NkYwRkZNaTYxd0ZoUkVRMXhpeV9SNXdObnlNU0xHREFCVVVVVXB2c1JWWUnSAbwBQVVfeXFMUHBBRFZ4ZFdaekI0eXRud3MyWWJrWjVLNDg2RlU3VzBTVWYyVkhmZm1LaWxfMUY1WW9YbDd3cFp4aDJibktvaU85UHVQbmpjS0JHa0F6bHlJRkdCOVY3VzRidGhkUFFOTGtiWGpRSFdpaTVzSG5rbFp1eTNSSXkzNWphdUpGWjM5MHZtbzVkdU5USHJ2U0t5OTBEU0Z4RFVkZzdJUUxhdFZ3aTBnZGN1WTBiTzlCSkg0eUhnM2k?oc=5"
+      ],
+      "scraped_at": "2026-09-10T05:32:25Z",
+      "url": "https://www.kxan.com/news/local/central-texas-communities-plan-technology-restrictions-after-ditching-flock-cameras/",
+      "final_url": "https://www.kxan.com/news/local/central-texas-communities-plan-technology-restrictions-after-ditching-flock-cameras/amp/",
+      "source": "KXAN Austin",
+      "article_title": "Central Texas communities plan technology restrictions after ditching Flock cameras",
+      "heading": "Central Texas communities plan technology restrictions after ditching Flock cameras",
+      "authors": [
+        "Nathan Langley"
+      ],
+      "article_published_at": "2026-09-10T02:30:41+00:00",
+      "article_modified_at": "2026-09-10T03:59:16+00:00",
+      "summary": "Weeks after ending contracts with the company, some cities distance themselves from keeping the automatic license plate readers.",
+      "content": "AUSTIN, Texas (KXAN) — A red sign hangs onto a camera pole within a Pflugerville neighborhood. It provides a “notice” to viewers of 24/7 video recording, courtesy of Flock Safety.\nOn Aug. 25, Pflugerville City Council canceled its $175,000 contract with the Atlanta-based company. The termination also put an end to the community’s 28 automatic license plate readers.\n“I believe we’re still doing okay,” Mayor Doug Weiss told KXAN. “I have not been apprised of any increases in crime in the area.”\nFlock’s cameras capture car details — like license plate numbers, make, models — with customers collecting the data. Law enforcement may use the information for helping solve crimes and/or finding suspects.\nAmid a rise in data privacy and surveillance concerns, a growing list of communities have cut ties with Flock in recent weeks. The latest data collected by KXAN shows at least 11 cities and counties have ended operations with the company’s cameras.\n“I think the ALPRs really helped our officers to solve crimes, not to find crimes,” reflected Weiss.\nLocal leaders, like Weiss, now distance themselves from the technology as their municipalities move on from ALPRs.\nPflugerville\nPflugerville leaders say more than 400 agencies had unauthorized access to its Flock system. That situation’s inspired hesitation for the city’s next steps.\n“Once you have an experience like we did with Flock, you’re going to be a whole lot more careful the next time around — if there is a next time,” said Weiss.\nIn an NPR report from August, the CEO of Axon — a Flock competitor and producer of body cameras — claimed “We’re seeing a significant number of agencies want to come over to Axon and convert from existing license plate readers to us.”\nWeiss says Pflugerville won’t be one of those agencies switching at this time. Instead, the mayor says he and city council members are focusing on the city’s first data governance standards: Secure Accountable, Fair and Explainable technology use — i.e., the “SAFE policy.”\n“To ensure that it is managed appropriately, that it’s not infringing on our individuals and that we know exactly what it does,” explained Weiss.\nThe policy would also address public transparency around “high-risk systems” like ALPRs, which may require city council approval. Council is expected to vote on SAFE in the future.\nLago Vista\nSince decommissioning the city’s roughly five Flock cameras in early August, Lago Vista Mayor Shane Saum says he’s learned of “a couple” of incidents that ALPRs could have assisted.\n“Nothing serious,” clarified Saum. He mentioned other cameras — public and private — are accessible for law enforcement to utilize.\n“All the tools that existed before flock cameras still exist,” he maintained.\nSaum added his city hasn’t looked at signing with another ALPR provider, such as Axon; he mentioned an existing contract for body cameras with the Scottsdale, Arizona, based company could open the door for portable license plate reader.\n“It’s something I talked to the chief [Police Chief Ron Joy] about that we’re just not interested in.”\nBastrop City Council ended its contract with Flock Tuesday; leaders pushed to ban ALPRs in the community.\nSaum expects a similar decision could arise from a resident-led referendum taking shape in Lago Vista.\n“But I do want to listen to my police officers as well as how far we take that, and what they need to do their job and keep the citizens of Lago Vista safe.”\nKXAN reached out to Flock for comment but has yet to receive a response. The company has previously defended its technology and data privacy, with the CEO saying communities/customers own collected data, not Flock.",
+      "content_html": "<html>\n  <body>\n    <p>AUSTIN, Texas (KXAN) — A red sign hangs onto a camera pole within a Pflugerville neighborhood. It provides a “notice” to viewers of 24/7 video recording, courtesy of Flock Safety.</p>\n    <p>On Aug. 25, Pflugerville City Council canceled its $175,000 contract with the Atlanta-based company. The termination also put an end to the community’s 28 automatic license plate readers.</p>\n    <p>“I believe we’re still doing okay,” Mayor Doug Weiss told KXAN. “I have not been apprised of any increases in crime in the area.”</p>\n    <p>Flock’s cameras capture car details — like license plate numbers, make, models — with customers collecting the data. Law enforcement may use the information for helping solve crimes and/or finding suspects.</p>\n    <p>Amid a rise in data privacy and surveillance concerns, a growing list of communities have cut ties with Flock in recent weeks. The latest data collected by KXAN shows at least 11 cities and counties have ended operations with the company’s cameras.</p>\n    <p>“I think the ALPRs really helped our officers to solve crimes, not to find crimes,” reflected Weiss.</p>\n    <p>Local leaders, like Weiss, now distance themselves from the technology as their municipalities move on from ALPRs.</p>\n    <h3>Pflugerville</h3>\n    <p>Pflugerville leaders say more than 400 agencies had unauthorized access to its Flock system. That situation’s inspired hesitation for the city’s next steps.</p>\n    <p>“Once you have an experience like we did with Flock, you’re going to be a whole lot more careful the next time around — if there is a next time,” said Weiss.</p>\n    <p>In an NPR report from August, the CEO of Axon — a Flock competitor and producer of body cameras — claimed “We’re seeing a significant number of agencies want to come over to Axon and convert from existing license plate readers to us.”</p>\n    <p>Weiss says Pflugerville won’t be one of those agencies switching at this time. Instead, the mayor says he and city council members are focusing on the city’s first data governance standards: Secure Accountable, Fair and Explainable technology use — i.e., the “SAFE policy.”</p>\n    <p>“To ensure that it is managed appropriately, that it’s not infringing on our individuals and that we know exactly what it does,” explained Weiss.</p>\n    <p>The policy would also address public transparency around “high-risk systems” like ALPRs, which may require city council approval. Council is expected to vote on SAFE in the future.</p>\n    <h3>Lago Vista</h3>\n    <p>Since decommissioning the city’s roughly five Flock cameras in early August, Lago Vista Mayor Shane Saum says he’s learned of “a couple” of incidents that ALPRs could have assisted.</p>\n    <p>“Nothing serious,” clarified Saum. He mentioned other cameras — public and private — are accessible for law enforcement to utilize.</p>\n    <p>“All the tools that existed before flock cameras still exist,” he maintained.</p>\n    <p>Saum added his city hasn’t looked at signing with another ALPR provider, such as Axon; he mentioned an existing contract for body cameras with the Scottsdale, Arizona, based company could open the door for portable license plate reader.</p>\n    <p>“It’s something I talked to the chief [Police Chief Ron Joy] about that we’re just not interested in.”</p>\n    <p>Bastrop City Council ended its contract with Flock Tuesday; leaders pushed to ban ALPRs in the community.</p>\n    <p>Saum expects a similar decision could arise from a resident-led referendum taking shape in Lago Vista.</p>\n    <p>“But I do want to listen to my police officers as well as how far we take that, and what they need to do their job and keep the citizens of Lago Vista safe.”</p>\n    <p>KXAN reached out to Flock for comment but has yet to receive a response. The company has previously defended its technology and data privacy, with the CEO saying communities/customers own collected data, not Flock.</p>\n  </body>\n</html>",
+      "word_count": 603,
+      "char_count": 3658,
+      "lead_image": "https://www.kxan.com/wp-content/uploads/sites/40/2026/08/AP26015655012732.jpg?w=1280",
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2026/08/AP26015655012732.jpg?w=1280",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2026/08/AP26015655012732.jpg?strip=1&w=640",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura+amp",
+      "status": "ok",
+      "first_seen_at": "2026-09-10T05:32:25Z"
+    },
+    {
+      "id": "4bb2f0c09911f701",
+      "title": "Women's Soccer Topped by NYU",
+      "header": "Stevens Institute of Technology Athletics",
+      "published_at": "2026-09-10T01:20:25Z",
+      "published_raw": "Thu, 10 Sep 2026 01:20:25 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HZnUwUElMd2NhaWkzME5LQVZjUHdFZV82U0JjZmpfMVFFZVNVYnozejgtUWs0Zk1RMVNzeHVFN3FCM05HS01zMmlEUzQ1c1BCaXRLQ0NBbGRxY0ZZbjBlVW9SMmZXS2w0dWRvLVNWZ2RQMDNUcWMzZ2w4Yw?oc=5",
+      "description": "Women's Soccer Topped by NYU Stevens Institute of Technology Athletics",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5HZnUwUElMd2NhaWkzME5LQVZjUHdFZV82U0JjZmpfMVFFZVNVYnozejgtUWs0Zk1RMVNzeHVFN3FCM05HS01zMmlEUzQ1c1BCaXRLQ0NBbGRxY0ZZbjBlVW9SMmZXS2w0dWRvLVNWZ2RQMDNUcWMzZ2w4Yw?oc=5\" target=\"_blank\">Women's Soccer Topped by NYU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stevens Institute of Technology Athletics</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HZnUwUElMd2NhaWkzME5LQVZjUHdFZV82U0JjZmpfMVFFZVNVYnozejgtUWs0Zk1RMVNzeHVFN3FCM05HS01zMmlEUzQ1c1BCaXRLQ0NBbGRxY0ZZbjBlVW9SMmZXS2w0dWRvLVNWZ2RQMDNUcWMzZ2w4Yw?oc=5"
+      ],
+      "scraped_at": "2026-09-10T05:32:26Z",
+      "url": "https://stevensducks.com/news/2026/9/9/womens-soccer-topped-by-nyu.aspx",
+      "final_url": "https://stevensducks.com/news/2026/9/9/womens-soccer-topped-by-nyu.aspx",
+      "source": "Stevens Institute of Technology Athletics",
+      "article_title": "Women's Soccer Topped by NYU - Stevens Institute of Technology Athletics",
+      "heading": "Stevens Institute of Technology Athletics",
+      "authors": [
+        "Stevens Institute of Technology Athletics"
+      ],
+      "article_published_at": "2026-09-09T21:14:00",
+      "article_modified_at": "2026-09-09T21:19:38",
+      "summary": "Newark, N.J. – The Stevens Institute of Technology women's soccer team suffered its first loss of the season Wednesday evening, falling to New York University 4-0",
+      "content": "Newark, N.J. – The Stevens Institute of Technology women's soccer team suffered its first loss of the season Wednesday evening, falling to New York University 4-0 at Lubetkin Field at J. Malcolm Simon Stadium.\n\nThe Ducks (0-1-2) put six of their eight shots on target, including five attempts on goal over the final 12 minutes of the opening half, but were unable to find the back of the net. NYU (2-0-1) finished with a 24-8 advantage in shots and scored three times in the second half.\n\nHOW IT HAPPENED\nStevens generated the first shot on goal of the match less than four minutes in when\nAlana Odom\ntested the NYU goalkeeper from in close, who made the save. The Violets responded with several opportunities of their own, but the Ducks kept the match scoreless through the opening 29 minutes. NYU broke through at the 29:03 mark to give the hosts a 1-0 advantage.\n\nThe Ducks responded by creating some of their best chances of the night over the remainder of the half.\nTeagan Shay\nand\nSophia Murphy\neach put attempts on goal less than a minute apart before\nMia Sena\nforced another save in the 37th minute.\nTaylor Truglia\nadded a shot on target with 29 seconds remaining before halftime, but the goalie made the stop to preserve NYU's one-goal lead.\n\nNYU controlled possession to begin the second half, recording six shots and four corner kicks over the opening 20 minutes.\nSydney Lauffer\n, who entered in goal for Stevens at halftime, made back-to-back saves in the 56th and 58th minutes to keep the deficit at one. The Violets doubled their advantage in the 67th minute before adding another less than five minutes later.\n\nSophia Carr\nrecorded Stevens' lone attempt of the second half in the 78th minute, sending her shot wide right. NYU closed out the scoring at 85:34 for the final 4-0 margin.\n\nINSIDE THE BOX SCORE\n- Murphy led Stevens with three shots, putting two on goal, while Odom, Truglia, Sena and Shay each registered one shot on target.\n- Lucy Smith made two saves while allowing one goal over the opening 45 minutes.\n- Lauffer made her collegiate debut and played the second half and finished with three saves.\n- The Ducks were outshot 24-8 and NYU held an 8-2 advantage in corner kicks.\nUP NEXT\nStevens continues its road swing Saturday, Sept. 12, when the Ducks travel to Middletown, Connecticut, to face Wesleyan University. Opening kick is scheduled for 3 p.m.",
+      "content_html": "<html>\n  <body><div class=\"sidearm-story-template-text\">        \n                                        \n                    \n                    \n                    Newark, N.J. <p>– The Stevens Institute of Technology women's soccer team suffered its first loss of the season Wednesday evening, falling to New York University 4-0 at Lubetkin Field at J. Malcolm Simon Stadium.\n </p><p>\nThe Ducks (0-1-2) put six of their eight shots on target, including five attempts on goal over the final 12 minutes of the opening half, but were unable to find the back of the net. NYU (2-0-1) finished with a 24-8 advantage in shots and scored three times in the second half.\n \n</p>HOW IT HAPPENED<p>\nStevens generated the first shot on goal of the match less than four minutes in when </p>Alana Odom<p> tested the NYU goalkeeper from in close, who made the save. The Violets responded with several opportunities of their own, but the Ducks kept the match scoreless through the opening 29 minutes. NYU broke through at the 29:03 mark to give the hosts a 1-0 advantage.\n </p><p>\nThe Ducks responded by creating some of their best chances of the night over the remainder of the half. </p>Teagan Shay<p> and </p>Sophia Murphy<p> each put attempts on goal less than a minute apart before </p>Mia Sena<p> forced another save in the 37th minute. </p>Taylor Truglia<p> added a shot on target with 29 seconds remaining before halftime, but the goalie made the stop to preserve NYU's one-goal lead.\n </p><p>\nNYU controlled possession to begin the second half, recording six shots and four corner kicks over the opening 20 minutes. </p>Sydney Lauffer<p>, who entered in goal for Stevens at halftime, made back-to-back saves in the 56th and 58th minutes to keep the deficit at one. The Violets doubled their advantage in the 67th minute before adding another less than five minutes later.\n \n</p>Sophia Carr<p> recorded Stevens' lone attempt of the second half in the 78th minute, sending her shot wide right. NYU closed out the scoring at 85:34 for the final 4-0 margin.\n \n</p>INSIDE THE BOX SCORE\n\n<ul>\n\t<li>Murphy led Stevens with three shots, putting two on goal, while Odom, Truglia, Sena and Shay each registered one shot on target. </li>\n\t<li>Lucy Smith made two saves while allowing one goal over the opening 45 minutes. </li>\n\t<li>Lauffer made her collegiate debut and played the second half and finished with three saves. </li>\n\t<li>The Ducks were outshot 24-8 and NYU held an 8-2 advantage in corner kicks.</li>\n</ul>\nUP NEXT<p>\nStevens continues its road swing Saturday, Sept. 12, when the Ducks travel to Middletown, Connecticut, to face Wesleyan University. Opening kick is scheduled for 3 p.m.\n \n </p>\n\n                </div> \n                \n                </body>\n</html>",
+      "word_count": 416,
+      "char_count": 2380,
+      "lead_image": "https://stevensducks.com/images/2026/9/9/2024-10-02-DJ_20Stevens_20Womens_20Soccer_20vs_20Mount_20Saint_20Vincent_20269947_20post_20dn-standard.jpg",
+      "images": [
+        {
+          "url": "https://stevensducks.com/images/2026/9/9/2024-10-02-DJ_20Stevens_20Womens_20Soccer_20vs_20Mount_20Saint_20Vincent_20269947_20post_20dn-standard.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-10T05:32:26Z"
+    },
+    {
+      "id": "6a71723ef48602ec",
+      "title": "New $50 million dollar solar technology factory opens in Albuquerque",
+      "header": "KRQE",
+      "published_at": "2026-09-10T01:03:15Z",
+      "published_raw": "Thu, 10 Sep 2026 01:03:15 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObS1oLUtoemcxcVBSWkRhTzVWWjRQaHBWMFY1NTc1SGtMd3VWTE1VSHpnaW1XaERrS1hIYThSSEZadnRCdmNzQmxxSmNlVzhvNEppWlp4dWVYSkpQeEFiVzNTa1lKTlN6Q0lkcVNHQUg2Vzktdm4wZGhwV3JCQmoxaTVaYk5OSjR0RkNjeVVYSXQwUzY0aXFZQTJCcFZuaURqS1gzOThNbDBkdVg1aXJhTnBn0gG3AUFVX3lxTFB0RlNzeFJzTkViVlI4X05ac3hueHVhQXFkNGY3RHI5R3BIWlY2RVVzMnN3RDRCblhSbWxLU1l4UTlXV25PbzgxeDBGSzE2cDlsLUNpTk9DanNyN0MtSmtyMVlTZ3FBMlgzRDZGR29YNFI4SzhoOEN5VTBrcnBTLUlqRkppQjNJNERHMHZTcUhibWtwaUpSWEZ1enFvTjQ2QVVVQmVVdU5WcEdlc2t0QTBTTU1rb3ZDSQ?oc=5",
+      "description": "New $50 million dollar solar technology factory opens in Albuquerque KRQE",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxObS1oLUtoemcxcVBSWkRhTzVWWjRQaHBWMFY1NTc1SGtMd3VWTE1VSHpnaW1XaERrS1hIYThSSEZadnRCdmNzQmxxSmNlVzhvNEppWlp4dWVYSkpQeEFiVzNTa1lKTlN6Q0lkcVNHQUg2Vzktdm4wZGhwV3JCQmoxaTVaYk5OSjR0RkNjeVVYSXQwUzY0aXFZQTJCcFZuaURqS1gzOThNbDBkdVg1aXJhTnBn0gG3AUFVX3lxTFB0RlNzeFJzTkViVlI4X05ac3hueHVhQXFkNGY3RHI5R3BIWlY2RVVzMnN3RDRCblhSbWxLU1l4UTlXV25PbzgxeDBGSzE2cDlsLUNpTk9DanNyN0MtSmtyMVlTZ3FBMlgzRDZGR29YNFI4SzhoOEN5VTBrcnBTLUlqRkppQjNJNERHMHZTcUhibWtwaUpSWEZ1enFvTjQ2QVVVQmVVdU5WcEdlc2t0QTBTTU1rb3ZDSQ?oc=5\" target=\"_blank\">New $50 million dollar solar technology factory opens in Albuquerque</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRQE</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxObS1oLUtoemcxcVBSWkRhTzVWWjRQaHBWMFY1NTc1SGtMd3VWTE1VSHpnaW1XaERrS1hIYThSSEZadnRCdmNzQmxxSmNlVzhvNEppWlp4dWVYSkpQeEFiVzNTa1lKTlN6Q0lkcVNHQUg2Vzktdm4wZGhwV3JCQmoxaTVaYk5OSjR0RkNjeVVYSXQwUzY0aXFZQTJCcFZuaURqS1gzOThNbDBkdVg1aXJhTnBn0gG3AUFVX3lxTFB0RlNzeFJzTkViVlI4X05ac3hueHVhQXFkNGY3RHI5R3BIWlY2RVVzMnN3RDRCblhSbWxLU1l4UTlXV25PbzgxeDBGSzE2cDlsLUNpTk9DanNyN0MtSmtyMVlTZ3FBMlgzRDZGR29YNFI4SzhoOEN5VTBrcnBTLUlqRkppQjNJNERHMHZTcUhibWtwaUpSWEZ1enFvTjQ2QVVVQmVVdU5WcEdlc2t0QTBTTU1rb3ZDSQ?oc=5"
+      ],
+      "scraped_at": "2026-09-10T05:32:26Z",
+      "url": "https://www.krqe.com/news/albuquerque-metro/new-50-million-dollar-solar-technology-factory-opens-in-albuquerque/",
+      "final_url": "https://www.krqe.com/news/albuquerque-metro/new-50-million-dollar-solar-technology-factory-opens-in-albuquerque/amp/",
+      "source": "KRQE NEWS 13 -  Breaking News, Albuquerque News, New Mexico News, Weather, and Videos",
+      "article_title": "New $50 million dollar solar technology factory opens in Albuquerque",
+      "heading": "New $50 million dollar solar technology factory opens in Albuquerque",
+      "authors": [
+        "Ben Schlittler"
+      ],
+      "article_published_at": "2026-09-10T01:03:15+00:00",
+      "article_modified_at": "2026-09-10T01:04:08+00:00",
+      "summary": "ALBUQUERQUE, N.M. (KRQE) – Array Technologies is one of the few billion-dollar companies based in New Mexico, and they’ve spent the last 2.5 years building a 200,000-square-foot solar technol…",
+      "content": "ALBUQUERQUE, N.M. (KRQE) – Array Technologies is one of the few billion-dollar companies based in New Mexico, and they’ve spent the last 2.5 years building a 200,000-square-foot solar technology manufacturing center, something they said is important for the company and the solar power industry to scale up. “Our new factory is three times the size of our prior Albuquerque facility; this gives us room to expand our capabilities, further strengthen our domestic manufacturing, and build for what comes next,” said Array CEO Kevin Hostetler.\nStory continues below\nArray spent $50 million building the facility on Albuquerque’s Westside, with $2.5 million in economic development funds from the state, and another quarter million each from the City of Albuquerque and Bernalillo County. The factory will manage development of solar technology including the trackers that move solar panels into position, and clamps that hold the panels in place.\nThe factory is something New Mexico Senator Martin Heinrich (D) said is a major win for clean energy in the state. “What Array has facilitated in terms of clean generation, of over 100 gigawatts of clean, cheap power, you want to put that into perspective, that’s like 100 light water nuclear power plants.”\nRight now, there are 300 employees working at the new facility, across various jobs like manufacturing, engineering, and distribution, among others. Array Technologies ships its products all across the U.S.",
+      "content_html": "<html>\n  <body>\n    <p>ALBUQUERQUE, N.M. (KRQE) – Array Technologies is one of the few billion-dollar companies based in New Mexico, and they’ve spent the last 2.5 years building a 200,000-square-foot solar technology manufacturing center, something they said is important for the company and the solar power industry to scale up. “Our new factory is three times the size of our prior Albuquerque facility; this gives us room to expand our capabilities, further strengthen our domestic manufacturing, and build for what comes next,” said Array CEO Kevin Hostetler.</p>\n    <p>Story continues below</p>\n    <p>Array spent $50 million building the facility on Albuquerque’s Westside, with $2.5 million in economic development funds from the state, and another quarter million each from the City of Albuquerque and Bernalillo County. The factory will manage development of solar technology including the trackers that move solar panels into position, and clamps that hold the panels in place.</p>\n    <p>The factory is something New Mexico Senator Martin Heinrich (D) said is a major win for clean energy in the state. “What Array has facilitated in terms of clean generation, of over 100 gigawatts of clean, cheap power, you want to put that into perspective, that’s like 100 light water nuclear power plants.”</p>\n    <p>Right now, there are 300 employees working at the new facility, across various jobs like manufacturing, engineering, and distribution, among others. Array Technologies ships its products all across the U.S.</p>\n  </body>\n</html>",
+      "word_count": 228,
+      "char_count": 1459,
+      "lead_image": "https://www.krqe.com/wp-content/uploads/sites/12/2026/09/Screenshot-2026-09-09-184559.png?w=1280",
+      "images": [
+        {
+          "url": "https://www.krqe.com/wp-content/uploads/sites/12/2026/09/Screenshot-2026-09-09-184559.png?w=1280",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://www.krqe.com/wp-content/uploads/sites/12/2026/09/Screenshot-2026-09-09-184559.png?strip=1&w=640",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura+amp",
+      "status": "ok",
+      "first_seen_at": "2026-09-10T05:32:26Z"
+    },
+    {
+      "id": "dc074cfc719652a0",
+      "title": "FSU-PC’s ASCENT program receives grant to support K-12 technology clubs",
+      "header": "WJHG",
+      "published_at": "2026-09-10T00:59:00Z",
+      "published_raw": "Thu, 10 Sep 2026 00:59:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMm1KcnMxTmlHOFJpZjI4dU5TcUtuSTNEalVrZWs2S2gwbnJqd0pVeUJIeWpYY0JKSXk3cXNRYlQyd3BlbTBxUzNHT3h4cXJ6a1dOZE5xUXVqb3ExY1gzZWpIdXMwcjhhLXk2dXZxeWdLa2lnQ3JCcUZ6cTV0cy1HbW5XODRSYU5aRFdhRHl4WDd4QXExNXA0XzBtX1BYNWdSQXc?oc=5",
+      "description": "FSU-PC’s ASCENT program receives grant to support K-12 technology clubs WJHG",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPMm1KcnMxTmlHOFJpZjI4dU5TcUtuSTNEalVrZWs2S2gwbnJqd0pVeUJIeWpYY0JKSXk3cXNRYlQyd3BlbTBxUzNHT3h4cXJ6a1dOZE5xUXVqb3ExY1gzZWpIdXMwcjhhLXk2dXZxeWdLa2lnQ3JCcUZ6cTV0cy1HbW5XODRSYU5aRFdhRHl4WDd4QXExNXA0XzBtX1BYNWdSQXc?oc=5\" target=\"_blank\">FSU-PC’s ASCENT program receives grant to support K-12 technology clubs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJHG</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMm1KcnMxTmlHOFJpZjI4dU5TcUtuSTNEalVrZWs2S2gwbnJqd0pVeUJIeWpYY0JKSXk3cXNRYlQyd3BlbTBxUzNHT3h4cXJ6a1dOZE5xUXVqb3ExY1gzZWpIdXMwcjhhLXk2dXZxeWdLa2lnQ3JCcUZ6cTV0cy1HbW5XODRSYU5aRFdhRHl4WDd4QXExNXA0XzBtX1BYNWdSQXc?oc=5"
+      ],
+      "scraped_at": "2026-09-10T05:32:25Z",
+      "url": "https://www.wjhg.com/2026/09/10/fsu-pcs-ascent-program-receives-grant-support-k-12-technology-clubs/",
+      "final_url": "https://www.wjhg.com/2026/09/10/fsu-pcs-ascent-program-receives-grant-support-k-12-technology-clubs/",
+      "source": "https://www.wjhg.com",
+      "article_title": "FSU-PC’s ASCENT program receives grant to support K-12 technology clubs",
+      "heading": "FSU-PC’s ASCENT program receives grant to support K-12 technology clubs",
+      "authors": [
+        "Emmaleigh Clegg"
+      ],
+      "article_published_at": "2026-09-10T00:59:20.86Z",
+      "article_modified_at": "2026-09-10T00:59:20.86Z",
+      "summary": "$126,000 grant from St. Joe Community Foundation to fund equipment for Bay and Walton County ITC programs.",
+      "content": "FSU-PC’s ASCENT program receives grant to support K-12 technology clubs\nPANAMA CITY, Fla. (WJHG/WECP) - Technology is rapidly growing and plays an important role in everyday life, which is why FSU-PC’s ASCENT program works to grow student knowledge of science, career, and new technologies.\n“Every job needs it now, and there is no way you can get by in life without having technical knowledge,” said Brianne Biddle, Assistant Director of ASCENT.\nA $126,000 grant from the St. Joe Community Foundation will fund camps and K-12 Integrated Technology clubs (ITC) in Bay and Walton counties.\n“We take this funding, and we help to support those clubs with equipment,” said Biddle, “because that’s kind of the biggest barrier to technology education is having the equipment, because everything is so outdated so quickly.”\nThat includes clubs like the esports program at Rosenwald High School.\n“They become empowered in learning that these skills they have in playing video games, or playing on computers, and messing around with them have value,” said Carly Karas, a teacher and ITC at Rosenwald High School. \" Then we take that, and we funnel that confidence into new skills.\"\nFor students, these programs help them find their passion for technology career fields like computer science.\n“They mean a lot; it’s just seeing that people share the same connection that they have with computer science as I do,” said Tai Chin, a student at the Collegiate School. “It’s just getting others involved and seeing how the light sparks behind their eyes, and just seeing like it’s something they want to do too.”\nThe programs are building a strong foundation for students’ futures.\n“They need to be able to navigate this kind of world. That is where these ITCs shine,” Karas said.\nASCENT also works to empower the workforce with adult programs through its Office of Professional Engagement and Learning program.\nTo stay up to date on all the latest news as it develops, follow WJHG on Facebook, Instagram and X (Twitter).\nHave a news tip or see an error that needs correction? Email news@wjhg.com. Please include the article’s headline in your message.\nKeep up with all the biggest headlines on the WJHG News app, and check out what’s happening outside using the WJHG Weather app.\nCopyright 2026 WJHG. All rights reserved.",
+      "content_html": "<html>\n  <body>\n    <h1>FSU-PC’s ASCENT program receives grant to support K-12 technology clubs</h1>\n    <p>PANAMA CITY, Fla. (WJHG/WECP) - Technology is rapidly growing and plays an important role in everyday life, which is why FSU-PC’s ASCENT program works to grow student knowledge of science, career, and new technologies.</p>\n    <p>“Every job needs it now, and there is no way you can get by in life without having technical knowledge,” said Brianne Biddle, Assistant Director of ASCENT.</p>\n    <p>A $126,000 grant from the St. Joe Community Foundation will fund camps and K-12 Integrated Technology clubs (ITC) in Bay and Walton counties.</p>\n    <p>“We take this funding, and we help to support those clubs with equipment,” said Biddle, “because that’s kind of the biggest barrier to technology education is having the equipment, because everything is so outdated so quickly.”</p>\n    <p>That includes clubs like the esports program at Rosenwald High School.</p>\n    <p>“They become empowered in learning that these skills they have in playing video games, or playing on computers, and messing around with them have value,” said Carly Karas, a teacher and ITC at Rosenwald High School. \" Then we take that, and we funnel that confidence into new skills.\"</p>\n    <p>For students, these programs help them find their passion for technology career fields like computer science.</p>\n    <p>“They mean a lot; it’s just seeing that people share the same connection that they have with computer science as I do,” said Tai Chin, a student at the Collegiate School. “It’s just getting others involved and seeing how the light sparks behind their eyes, and just seeing like it’s something they want to do too.”</p>\n    <p>The programs are building a strong foundation for students’ futures.</p>\n    <p>“They need to be able to navigate this kind of world. That is where these ITCs shine,” Karas said.</p>\n    <p>ASCENT also works to empower the workforce with adult programs through its Office of Professional Engagement and Learning program.</p>\n    <p>To stay up to date on all the latest news as it develops, follow WJHG on Facebook, Instagram and X (Twitter).</p>\n    <p>Have a news tip or see an error that needs correction? Email news@wjhg.com. Please include the article’s headline in your message.</p>\n    <p>Keep up with all the biggest headlines on the WJHG News app, and check out what’s happening outside using the WJHG Weather app.</p>\n    <p>Copyright 2026 WJHG. All rights reserved.</p>\n  </body>\n</html>",
+      "word_count": 381,
+      "char_count": 2307,
+      "lead_image": "https://gray-wjhg-prod.gtv-cdn.com/resizer/v2/IILSVLHEJFHLDNTECNW52MQ47Y.png?auth=f07a85bfa0570d0f795003c36aee0733338bc79bd54d239fb0f614fa73e46854&width=1200&height=600&smart=true",
+      "images": [
+        {
+          "url": "https://gray-wjhg-prod.gtv-cdn.com/resizer/v2/IILSVLHEJFHLDNTECNW52MQ47Y.png?auth=f07a85bfa0570d0f795003c36aee0733338bc79bd54d239fb0f614fa73e46854&width=1200&height=600&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-10T05:32:25Z"
+    },
+    {
+      "id": "41e9543cf51d806a",
+      "title": "AI insiders say their technology could doom humanity. Will Congress act?",
+      "header": "Politico",
+      "published_at": "2026-09-10T00:17:00Z",
+      "published_raw": "Thu, 10 Sep 2026 00:17:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzl0VlhoQVZFUEgtejJlV1ZzVlY4Mzg1ck1QRXZSb2toZTRlbVRCUlNlcjlPelR1ZlZSOS10ZTJ4NzYwdlRsS3dHRHFnaWFCWl8zRHdRRDV5SUJQcXRJRy1IRVlvOHFjRHZzbFRYZmFsc1lyeERGLXM1SFR3UjFpcjM1RzBqdw?oc=5",
+      "description": "AI insiders say their technology could doom humanity. Will Congress act? Politico",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzl0VlhoQVZFUEgtejJlV1ZzVlY4Mzg1ck1QRXZSb2toZTRlbVRCUlNlcjlPelR1ZlZSOS10ZTJ4NzYwdlRsS3dHRHFnaWFCWl8zRHdRRDV5SUJQcXRJRy1IRVlvOHFjRHZzbFRYZmFsc1lyeERGLXM1SFR3UjFpcjM1RzBqdw?oc=5\" target=\"_blank\">AI insiders say their technology could doom humanity. Will Congress act?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzl0VlhoQVZFUEgtejJlV1ZzVlY4Mzg1ck1QRXZSb2toZTRlbVRCUlNlcjlPelR1ZlZSOS10ZTJ4NzYwdlRsS3dHRHFnaWFCWl8zRHdRRDV5SUJQcXRJRy1IRVlvOHFjRHZzbFRYZmFsc1lyeERGLXM1SFR3UjFpcjM1RzBqdw?oc=5"
+      ],
+      "scraped_at": "2026-09-10T05:32:26Z",
+      "url": "https://www.politico.com/news/2026/09/09/ai-safety-guardrails-congress-01069791",
+      "final_url": "https://www.politico.com/news/2026/09/09/ai-safety-guardrails-congress-01069791",
+      "source": "Politico",
+      "article_title": "",
+      "heading": "AI insiders say their technology could doom humanity. Will Congress act?",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "AI insiders say their technology could doom humanity. Will Congress act? Politico",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-10T05:32:26Z"
+    },
     {
       "id": "9d7ed63f5a225119",
       "title": "'The front edge of new technology': Burt County farmer's weed-cutting robots reduce pesticide use",
@@ -169,40 +451,6 @@
       "first_seen_at": "2026-09-10T00:47:46Z"
     },
     {
-      "id": "d44f300ae39c30bd",
-      "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
-      "header": "The New York Times",
-      "published_at": "2026-09-09T22:04:28Z",
-      "published_raw": "Wed, 09 Sep 2026 22:04:28 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRTBoUnlPekRRWGcyRzdRUkdsY2UxY2FnSVNBWWN1MS1qc0gyd3VqMEI3ekxxb0Y3SlZiMEd5WXdWQzlXeUQxSWZzZW1xNnVOQjVNWGd3eGoxZlZod0VFTGNrSTVKQ1hodXl4TnowVjVFcGx0V3dQWHl3bDRRaDRGRTBqZlRFTUdQN0E?oc=5",
-      "description": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999 The New York Times",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRTBoUnlPekRRWGcyRzdRUkdsY2UxY2FnSVNBWWN1MS1qc0gyd3VqMEI3ekxxb0Y3SlZiMEd5WXdWQzlXeUQxSWZzZW1xNnVOQjVNWGd3eGoxZlZod0VFTGNrSTVKQ1hodXl4TnowVjVFcGx0V3dQWHl3bDRRaDRGRTBqZlRFTUdQN0E?oc=5\" target=\"_blank\">Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRTBoUnlPekRRWGcyRzdRUkdsY2UxY2FnSVNBWWN1MS1qc0gyd3VqMEI3ekxxb0Y3SlZiMEd5WXdWQzlXeUQxSWZzZW1xNnVOQjVNWGd3eGoxZlZod0VFTGNrSTVKQ1hodXl4TnowVjVFcGx0V3dQWHl3bDRRaDRGRTBqZlRFTUdQN0E?oc=5"
-      ],
-      "scraped_at": "2026-09-09T22:13:11Z",
-      "url": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
-      "final_url": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
-      "source": "The New York Times",
-      "article_title": "",
-      "heading": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999 The New York Times",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-09T19:40:44Z"
-    },
-    {
       "id": "1154a5fd6d35744e",
       "title": "Visualizing Josh Bell's swing using bat tracking technology",
       "header": "mlb.com",
@@ -241,6 +489,54 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-09T22:13:11Z"
+    },
+    {
+      "id": "d8830b01ac3a41f4",
+      "title": "Two men allegedly embezzle $1.4M from Edmond technology business",
+      "header": "kfor.com",
+      "published_at": "2026-09-09T21:53:52Z",
+      "published_raw": "Wed, 09 Sep 2026 21:53:52 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0ppcE0zQV9wOXlJS2JBUlRxREs1QUlKVm9kVGY3dkRhcnA4SG44aGxsQkE3UGpSVWY4NEFpNVdGQ2h4M095MHBnTWc2SzZzTF84ZFZ4ZHlsOFhoYXlVTlFubG55TEJnOXdGWWY0cjUxenBGWlZ3amZnNWdaOHh4bFV2R3QwRk9hRTBTSm5ISlhjcmhVT1pZ0gGcAUFVX3lxTE5ZM1JsR2Y1OUVWNGJlM09Hdzd1ZEZUeW9wR19QcFdlcURnOFA0dXRPTVVyOGtwR0s1eFNycktacFhwc2U3Mk9UTU1nYW9uN25sNlNqLVBBbmkxSUR5SlVXc0FDSERBR3Y4NzVTNmYwTURmdmlOUWJGMmVya2JOcVRoRzhuYndrOG5qS3R6TGYzX1ZqTnNmREJhX3FiXw?oc=5",
+      "description": "Two men allegedly embezzle $1.4M from Edmond technology business kfor.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0ppcE0zQV9wOXlJS2JBUlRxREs1QUlKVm9kVGY3dkRhcnA4SG44aGxsQkE3UGpSVWY4NEFpNVdGQ2h4M095MHBnTWc2SzZzTF84ZFZ4ZHlsOFhoYXlVTlFubG55TEJnOXdGWWY0cjUxenBGWlZ3amZnNWdaOHh4bFV2R3QwRk9hRTBTSm5ISlhjcmhVT1pZ0gGcAUFVX3lxTE5ZM1JsR2Y1OUVWNGJlM09Hdzd1ZEZUeW9wR19QcFdlcURnOFA0dXRPTVVyOGtwR0s1eFNycktacFhwc2U3Mk9UTU1nYW9uN25sNlNqLVBBbmkxSUR5SlVXc0FDSERBR3Y4NzVTNmYwTURmdmlOUWJGMmVya2JOcVRoRzhuYndrOG5qS3R6TGYzX1ZqTnNmREJhX3FiXw?oc=5\" target=\"_blank\">Two men allegedly embezzle $1.4M from Edmond technology business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kfor.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0ppcE0zQV9wOXlJS2JBUlRxREs1QUlKVm9kVGY3dkRhcnA4SG44aGxsQkE3UGpSVWY4NEFpNVdGQ2h4M095MHBnTWc2SzZzTF84ZFZ4ZHlsOFhoYXlVTlFubG55TEJnOXdGWWY0cjUxenBGWlZ3amZnNWdaOHh4bFV2R3QwRk9hRTBTSm5ISlhjcmhVT1pZ0gGcAUFVX3lxTE5ZM1JsR2Y1OUVWNGJlM09Hdzd1ZEZUeW9wR19QcFdlcURnOFA0dXRPTVVyOGtwR0s1eFNycktacFhwc2U3Mk9UTU1nYW9uN25sNlNqLVBBbmkxSUR5SlVXc0FDSERBR3Y4NzVTNmYwTURmdmlOUWJGMmVya2JOcVRoRzhuYndrOG5qS3R6TGYzX1ZqTnNmREJhX3FiXw?oc=5"
+      ],
+      "scraped_at": "2026-09-10T05:32:25Z",
+      "url": "https://kfor.com/news/local/two-men-allegedly-embezzle-1-4m-from-edmond-technology-business/",
+      "final_url": "https://kfor.com/news/local/two-men-allegedly-embezzle-1-4m-from-edmond-technology-business/amp/",
+      "source": "KFOR.com Oklahoma City",
+      "article_title": "Two men allegedly embezzle $1.4M from Edmond technology business",
+      "heading": "Two men allegedly embezzle $1.4M from Edmond technology business",
+      "authors": [
+        "Mecca Thompson/KFOR"
+      ],
+      "article_published_at": "2026-09-09T21:53:52+00:00",
+      "article_modified_at": "2026-09-09T21:53:54+00:00",
+      "summary": "Arrest warrants have been issued for two men accused of allegedly embezzling over $1M from Summit Technologies.",
+      "content": "EDMOND, Okla. (KFOR) — Arrest warrants have been issued for two men accused of allegedly embezzling over $1M from Summit Technologies.\nThe Oklahoma State Bureau of Investigation and the Oklahoma County District Attorney’s Office are investigating two of the company’s former employees.\nBetween January 2018 and December 2022, court documents say two men in a relationship allegedly embezzled the funds using company credit cards.\nNo charges have been filed; however, the warrants for their arrest were issued on September 3.\nOne of the men worked for the company from 1997 to 2022, with the other employed from 2006 to 2022.\nInvestigators say both used their position to increase their own pay and company accounts to pay for their personally owned credit cards.\nExamples of the alleged embezzlement include paying for trips to Las Vegas and Florida.\nThe pair also paid for down payments towards Land Rover, Porsche and BMW cars.\nRecords also detail large purchases from designer stores Louis Vuitton and Cartier.\nAs of Wednesday afternoon, no arrests have been made.\nPer advice from attorneys, owners of the company tell News 4 they are unable to comment.",
+      "content_html": "<html>\n  <body>\n    <p>EDMOND, Okla. (KFOR) — Arrest warrants have been issued for two men accused of allegedly embezzling over $1M from Summit Technologies.</p>\n    <p>The Oklahoma State Bureau of Investigation and the Oklahoma County District Attorney’s Office are investigating two of the company’s former employees.</p>\n    <p>Between January 2018 and December 2022, court documents say two men in a relationship allegedly embezzled the funds using company credit cards.</p>\n    <p>No charges have been filed; however, the warrants for their arrest were issued on September 3.</p>\n    <p>One of the men worked for the company from 1997 to 2022, with the other employed from 2006 to 2022.</p>\n    <p>Investigators say both used their position to increase their own pay and company accounts to pay for their personally owned credit cards.</p>\n    <p>Examples of the alleged embezzlement include paying for trips to Las Vegas and Florida.</p>\n    <p>The pair also paid for down payments towards Land Rover, Porsche and BMW cars.</p>\n    <p>Records also detail large purchases from designer stores Louis Vuitton and Cartier.</p>\n    <p>As of Wednesday afternoon, no arrests have been made.</p>\n    <p>Per advice from attorneys, owners of the company tell News 4 they are unable to comment.</p>\n  </body>\n</html>",
+      "word_count": 187,
+      "char_count": 1156,
+      "lead_image": "https://kfor.com/wp-content/uploads/sites/3/2026/09/Screenshot-2026-09-09-164417.png?w=1280",
+      "images": [
+        {
+          "url": "https://kfor.com/wp-content/uploads/sites/3/2026/09/Screenshot-2026-09-09-164417.png?w=1280",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://kfor.com/wp-content/uploads/sites/3/2026/09/Screenshot-2026-09-09-164417.png?strip=1&w=640",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura+amp",
+      "status": "ok",
+      "first_seen_at": "2026-09-10T05:32:25Z"
     },
     {
       "id": "50396412628d8578",
@@ -329,7 +625,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZanJzY3R6dzB1S0M2czBLSXJUWEhhNkdKQmVCWnB2WFhXOUpXYVpLU1A5ZWozTVJoUWFuMUZyUmFhUWdFS2ZtTThOUUw2Um9wcTQ2T09iZjBzTGVBSW5qR0MwVnVFemxKZzRGSG1QMlVZNXp5UFB4Y1JR?oc=5"
       ],
-      "scraped_at": "2026-09-10T00:47:48Z",
+      "scraped_at": "2026-09-10T05:32:26Z",
       "url": "https://www.aei.org/economics/a-world-where-ai-is-a-normal-technology/",
       "final_url": "https://www.aei.org/economics/a-world-where-ai-is-a-normal-technology/",
       "source": "American Enterprise Institute - AEI",
@@ -635,6 +931,48 @@
       "first_seen_at": "2026-09-10T00:47:47Z"
     },
     {
+      "id": "56d5ed8364b156e2",
+      "title": "Former AI employee says insiders believe technology ‘could kill us all’ by decade’s end",
+      "header": "KPTV",
+      "published_at": "2026-09-09T19:46:00Z",
+      "published_raw": "Wed, 09 Sep 2026 19:46:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUkVKSm16bTdYNXdkSG9wblUyVTVnSW5iX0lieUROOTJHNFJ3cWpSOTA0YjFrQVlOUjVGZDMxdXBnZGc0ZEQwNUNUUHlZci1NUWZGNHZlZHF5cjBKNG5sUnBnNnRpejc1d1BiNUJ5dlpTREdpNTY2RGxqMy1oTExacjFzMW5aWWRRZ1JDeENaY05za2ZJZUIxWl81VVVVOWNyUnRsMUY2Rmw4UXpHMWNuMlJUZHloY3ZM0gHMAUFVX3lxTE1QY0Z0NFZHOExYZEJDMzg2Z1dMc1liQkcxQ091TWh0cHZFN1RKM0dZM25CV2w1TWZkRGVnNnhtckdESE1yY1hUUTUzQ2hBQWcxSWQ0T3pYaG1yWEVGWXZJbmxTdEpmY3ozQmNVdVZNMHgtT01hYmNpVUhYYTVSMkFFTjlaQWtzZTdldmoxQmEwQ2hJMGpPd0xIUFZ0cEdIclRKVGtjME1EQUdaTjRoWUtnN2I3UTg0emp1aDVaM0I1eXV3NFZuS0FxLW9JSQ?oc=5",
+      "description": "Former AI employee says insiders believe technology ‘could kill us all’ by decade’s end KPTV",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUkVKSm16bTdYNXdkSG9wblUyVTVnSW5iX0lieUROOTJHNFJ3cWpSOTA0YjFrQVlOUjVGZDMxdXBnZGc0ZEQwNUNUUHlZci1NUWZGNHZlZHF5cjBKNG5sUnBnNnRpejc1d1BiNUJ5dlpTREdpNTY2RGxqMy1oTExacjFzMW5aWWRRZ1JDeENaY05za2ZJZUIxWl81VVVVOWNyUnRsMUY2Rmw4UXpHMWNuMlJUZHloY3ZM0gHMAUFVX3lxTE1QY0Z0NFZHOExYZEJDMzg2Z1dMc1liQkcxQ091TWh0cHZFN1RKM0dZM25CV2w1TWZkRGVnNnhtckdESE1yY1hUUTUzQ2hBQWcxSWQ0T3pYaG1yWEVGWXZJbmxTdEpmY3ozQmNVdVZNMHgtT01hYmNpVUhYYTVSMkFFTjlaQWtzZTdldmoxQmEwQ2hJMGpPd0xIUFZ0cEdIclRKVGtjME1EQUdaTjRoWUtnN2I3UTg0emp1aDVaM0I1eXV3NFZuS0FxLW9JSQ?oc=5\" target=\"_blank\">Former AI employee says insiders believe technology ‘could kill us all’ by decade’s end</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KPTV</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUkVKSm16bTdYNXdkSG9wblUyVTVnSW5iX0lieUROOTJHNFJ3cWpSOTA0YjFrQVlOUjVGZDMxdXBnZGc0ZEQwNUNUUHlZci1NUWZGNHZlZHF5cjBKNG5sUnBnNnRpejc1d1BiNUJ5dlpTREdpNTY2RGxqMy1oTExacjFzMW5aWWRRZ1JDeENaY05za2ZJZUIxWl81VVVVOWNyUnRsMUY2Rmw4UXpHMWNuMlJUZHloY3ZM0gHMAUFVX3lxTE1QY0Z0NFZHOExYZEJDMzg2Z1dMc1liQkcxQ091TWh0cHZFN1RKM0dZM25CV2w1TWZkRGVnNnhtckdESE1yY1hUUTUzQ2hBQWcxSWQ0T3pYaG1yWEVGWXZJbmxTdEpmY3ozQmNVdVZNMHgtT01hYmNpVUhYYTVSMkFFTjlaQWtzZTdldmoxQmEwQ2hJMGpPd0xIUFZ0cEdIclRKVGtjME1EQUdaTjRoWUtnN2I3UTg0emp1aDVaM0I1eXV3NFZuS0FxLW9JSQ?oc=5"
+      ],
+      "scraped_at": "2026-09-10T05:32:25Z",
+      "url": "https://www.kptv.com/2026/09/09/former-ai-employee-says-insiders-believe-technology-could-kill-us-all-by-decades-end/",
+      "final_url": "https://www.kptv.com/2026/09/09/former-ai-employee-says-insiders-believe-technology-could-kill-us-all-by-decades-end/",
+      "source": "https://www.kptv.com",
+      "article_title": "Former AI employee says insiders believe technology ‘could kill us all’ by decade’s end",
+      "heading": "Former AI employee says insiders believe technology ‘could kill us all’ by decade’s end",
+      "authors": [
+        "CNN Newsource Staff"
+      ],
+      "article_published_at": "2026-09-09T19:46:03.329Z",
+      "article_modified_at": "2026-09-09T19:46:03.329Z",
+      "summary": "AI safety concerns among workers in that field are becoming more commonplace.",
+      "content": "Former AI employee says insiders believe technology ‘could kill us all’ by decade’s end\n(CNN) - AI safety concerns among workers in that field are becoming more commonplace.\nTwo days ago, the chief scientist for OpenAI warned that AI capabilities are advancing faster than researchers’ ability to reliably monitor and control them.\nAnd now, another Anthropic employee has quit.\nFormer researcher Jacob Coxon posted to social media about his resignation.\n“The people building AI earnestly believe it could kill us all by the end of the decade,” the 27-year-old said.\nCoxon’s post gained attention after a more senior Anthropic employee, Evan Hubinger, commented that Coxon was correct.\nHe said that despite Anthropic’s good intentions, the company doesn’t have a plan to avoid so-called superintelligence.\nThat’s a state in which AI exceeds humans’ ability to control it.\nHubinger clarified his comments shortly afterward in a follow-up post.\nHe said Anthropic’s own risk report acknowledges the concern but also says present AI poses little chance of gaining such power.\nIn July, nearly 1,400 AI company employees signed an open letter urging the U.S. government to regulate the technology to rein in big tech and slow the pace of AI.\nCopyright 2026 CNN Newsource. All rights reserved.",
+      "content_html": "<html>\n  <body>\n    <h1>Former AI employee says insiders believe technology ‘could kill us all’ by decade’s end</h1>\n    <p>(CNN) - AI safety concerns among workers in that field are becoming more commonplace.</p>\n    <p>Two days ago, the chief scientist for OpenAI warned that AI capabilities are advancing faster than researchers’ ability to reliably monitor and control them.</p>\n    <p>And now, another Anthropic employee has quit.</p>\n    <p>Former researcher Jacob Coxon posted to social media about his resignation.</p>\n    <p>“The people building AI earnestly believe it could kill us all by the end of the decade,” the 27-year-old said.</p>\n    <p>Coxon’s post gained attention after a more senior Anthropic employee, Evan Hubinger, commented that Coxon was correct.</p>\n    <p>He said that despite Anthropic’s good intentions, the company doesn’t have a plan to avoid so-called superintelligence.</p>\n    <p>That’s a state in which AI exceeds humans’ ability to control it.</p>\n    <p>Hubinger clarified his comments shortly afterward in a follow-up post.</p>\n    <p>He said Anthropic’s own risk report acknowledges the concern but also says present AI poses little chance of gaining such power.</p>\n    <p>In July, nearly 1,400 AI company employees signed an open letter urging the U.S. government to regulate the technology to rein in big tech and slow the pace of AI.</p>\n    <p>Copyright 2026 CNN Newsource. All rights reserved.</p>\n  </body>\n</html>",
+      "word_count": 204,
+      "char_count": 1285,
+      "lead_image": "https://gray-kptv-prod.gtv-cdn.com/resizer/v2/S7UIWX3XQFEMBCVKTFVBUD4RZM.jpg?auth=9c0dba22549683c58066d6faddc338508cdbf7cb72c1cd1cc2bbba7084063147&width=1200&height=600&smart=true",
+      "images": [
+        {
+          "url": "https://gray-kptv-prod.gtv-cdn.com/resizer/v2/S7UIWX3XQFEMBCVKTFVBUD4RZM.jpg?auth=9c0dba22549683c58066d6faddc338508cdbf7cb72c1cd1cc2bbba7084063147&width=1200&height=600&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-10T05:32:25Z"
+    },
+    {
       "id": "1928be7646f90856",
       "title": "China slams US claims of ‘industrial-scale’ AI theft",
       "header": "Al Jazeera",
@@ -891,6 +1229,40 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-09T19:40:45Z"
+    },
+    {
+      "id": "d44f300ae39c30bd",
+      "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
+      "header": "The New York Times",
+      "published_at": "2026-09-09T18:47:23Z",
+      "published_raw": "Wed, 09 Sep 2026 18:47:23 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRTBoUnlPekRRWGcyRzdRUkdsY2UxY2FnSVNBWWN1MS1qc0gyd3VqMEI3ekxxb0Y3SlZiMEd5WXdWQzlXeUQxSWZzZW1xNnVOQjVNWGd3eGoxZlZod0VFTGNrSTVKQ1hodXl4TnowVjVFcGx0V3dQWHl3bDRRaDRGRTBqZlRFTUdQN0E?oc=5",
+      "description": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999 The New York Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRTBoUnlPekRRWGcyRzdRUkdsY2UxY2FnSVNBWWN1MS1qc0gyd3VqMEI3ekxxb0Y3SlZiMEd5WXdWQzlXeUQxSWZzZW1xNnVOQjVNWGd3eGoxZlZod0VFTGNrSTVKQ1hodXl4TnowVjVFcGx0V3dQWHl3bDRRaDRGRTBqZlRFTUdQN0E?oc=5\" target=\"_blank\">Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRTBoUnlPekRRWGcyRzdRUkdsY2UxY2FnSVNBWWN1MS1qc0gyd3VqMEI3ekxxb0Y3SlZiMEd5WXdWQzlXeUQxSWZzZW1xNnVOQjVNWGd3eGoxZlZod0VFTGNrSTVKQ1hodXl4TnowVjVFcGx0V3dQWHl3bDRRaDRGRTBqZlRFTUdQN0E?oc=5"
+      ],
+      "scraped_at": "2026-09-10T05:32:25Z",
+      "url": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
+      "final_url": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
+      "source": "The New York Times",
+      "article_title": "",
+      "heading": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999 The New York Times",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-09T19:40:44Z"
     },
     {
       "id": "9da3edda13126422",
@@ -4112,7 +4484,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5"
       ],
-      "scraped_at": "2026-09-10T00:47:46Z",
+      "scraped_at": "2026-09-10T05:32:25Z",
       "url": "https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/",
       "final_url": "https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/",
       "source": "Reuters",
@@ -25477,448 +25849,6 @@
       "status": "partial",
       "error": "short_text",
       "first_seen_at": "2026-09-02T10:31:34Z"
-    },
-    {
-      "id": "0a9bcadfe6eceb79",
-      "title": "CCSD Superintendent Jennifer Scott Discusses Technology and School Expansions",
-      "header": "Flagpole",
-      "published_at": "2026-09-02T04:15:09Z",
-      "published_raw": "Wed, 02 Sep 2026 04:15:09 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR2xCREdvSVlqVkhiN0kzYmV6YXF1RXVPQTZra1pHUUFYaV9GZ0JzSVBhSkQ5ZURtZnRnZWExc3pnRWFPNkEtdkd1NXBJTjN1YmtsQ0FmV2tORHMxVGg0Ykl2bU5JNUpHQjVSU3RHUFktMXNNOFdYeHNQYnZ4TDZpczFoUEtkNHhtSmJuMWNGNUtCSE1idVdJOW8zdUZfcmxJWnM1U2ZRSWR3ZXlpZndvOHA2Q0hvQjU1bWxvazNIMlV0bzQ?oc=5",
-      "description": "CCSD Superintendent Jennifer Scott Discusses Technology and School Expansions Flagpole",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR2xCREdvSVlqVkhiN0kzYmV6YXF1RXVPQTZra1pHUUFYaV9GZ0JzSVBhSkQ5ZURtZnRnZWExc3pnRWFPNkEtdkd1NXBJTjN1YmtsQ0FmV2tORHMxVGg0Ykl2bU5JNUpHQjVSU3RHUFktMXNNOFdYeHNQYnZ4TDZpczFoUEtkNHhtSmJuMWNGNUtCSE1idVdJOW8zdUZfcmxJWnM1U2ZRSWR3ZXlpZndvOHA2Q0hvQjU1bWxvazNIMlV0bzQ?oc=5\" target=\"_blank\">CCSD Superintendent Jennifer Scott Discusses Technology and School Expansions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Flagpole</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR2xCREdvSVlqVkhiN0kzYmV6YXF1RXVPQTZra1pHUUFYaV9GZ0JzSVBhSkQ5ZURtZnRnZWExc3pnRWFPNkEtdkd1NXBJTjN1YmtsQ0FmV2tORHMxVGg0Ykl2bU5JNUpHQjVSU3RHUFktMXNNOFdYeHNQYnZ4TDZpczFoUEtkNHhtSmJuMWNGNUtCSE1idVdJOW8zdUZfcmxJWnM1U2ZRSWR3ZXlpZndvOHA2Q0hvQjU1bWxvazNIMlV0bzQ?oc=5"
-      ],
-      "scraped_at": "2026-09-02T10:31:36Z",
-      "url": "https://flagpole.com/news/city-dope/2026/09/02/ccsd-superintendent-jennifer-scott-discusses-technology-and-school-expansions/",
-      "final_url": "https://flagpole.com/news/city-dope/2026/09/02/ccsd-superintendent-jennifer-scott-discusses-technology-and-school-expansions/",
-      "source": "Flagpole",
-      "article_title": "",
-      "heading": "CCSD Superintendent Jennifer Scott Discusses Technology and School Expansions",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "CCSD Superintendent Jennifer Scott Discusses Technology and School Expansions Flagpole",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-02T05:24:24Z"
-    },
-    {
-      "id": "f1fa9529c442f673",
-      "title": "Charlotte Pulica | Technology is making us boring",
-      "header": "The Daily Pennsylvanian",
-      "published_at": "2026-09-02T03:50:35Z",
-      "published_raw": "Wed, 02 Sep 2026 03:50:35 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zR3J1QjZ4Vy1MR3k4d0ROdnFCSDFuSkU1QmhlNGlKN1E1MEhNWmVtdGhqWF9YMmJ5dFVveDRhOUNpazlCeUNvdkFFLWQ1MjFuX3pGUV9uWlozWUhrTkhUak4xNTY1LXdxNzJpcEI2UzVIbU0?oc=5",
-      "description": "Charlotte Pulica | Technology is making us boring The Daily Pennsylvanian",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9zR3J1QjZ4Vy1MR3k4d0ROdnFCSDFuSkU1QmhlNGlKN1E1MEhNWmVtdGhqWF9YMmJ5dFVveDRhOUNpazlCeUNvdkFFLWQ1MjFuX3pGUV9uWlozWUhrTkhUak4xNTY1LXdxNzJpcEI2UzVIbU0?oc=5\" target=\"_blank\">Charlotte Pulica | Technology is making us boring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Pennsylvanian</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zR3J1QjZ4Vy1MR3k4d0ROdnFCSDFuSkU1QmhlNGlKN1E1MEhNWmVtdGhqWF9YMmJ5dFVveDRhOUNpazlCeUNvdkFFLWQ1MjFuX3pGUV9uWlozWUhrTkhUak4xNTY1LXdxNzJpcEI2UzVIbU0?oc=5"
-      ],
-      "scraped_at": "2026-09-02T05:24:21Z",
-      "url": "https://www.thedp.com/article/2026/09/penn-no-tech-class-increase",
-      "final_url": "https://www.thedp.com/article/2026/09/penn-no-tech-class-increase",
-      "source": "Charlotte Pulica | Technology is making us boring - The Daily Pennsylvanian",
-      "article_title": "Charlotte Pulica | Technology is making us boring",
-      "heading": "Charlotte Pulica | Technology is making us boring",
-      "authors": [
-        "Charlotte Pulica"
-      ],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Columnist Charlotte Pulica argues that while “no-tech” classes may seem like a nuisance, they are the best solution to getting the most out of an education.",
-      "content": "What happens when you put 30 Ivy League students in a classroom and ask them a question? Apparently, nothing.\nWhether it’s a first-year seminar with 10 students or a lecture hall with over 100, we’ve all watched as our professor posed a question and was met with an awkward silence. We’ll stare at our computers, pretending we’re deep in thought or entrenched in our notes, and wait for someone to break the tension. It may not be every question or every class, but it’s enough to create an environment where we’ve simply gotten used to not responding. Humanities and seminar-based classes are supposed to thrive off of conversation, discussion, and even contention. But unfortunately, none of that can happen if students don’t feel the need to participate.\nIt’s hard to believe that Penn students have nothing to say or no opinions to share. As a matter of fact, it seems that Penn students always have something to say. The dead air isn’t necessarily caused by a lack of interesting thoughts or comments, but rather the ever-present technology we can’t seem to go without anymore, and with it comes an increasingly accurate idea: technology has made us boring.\nIt’s not that Penn students are unintelligent or unable to answer a question if a computer is in front of them. But the presence of tech in class — even if it’s just for note taking — has been proven to produce worse outcomes for students. The result is often a combination of increased distractions, decreased satisfaction with the class, and an overall lack of understanding when it comes to the course material. It’s becoming clear that classes have become a competition between the course material and our screens, and everybody is losing in the process.\nPenn’s solution? An increase in professors creating a “no-tech” policy for their classroom. No phones, no iPads, no laptops — a completely analog transformation. I’ve experienced my fair share of tech-free classes in both humanities and STEM courses. And although I’ve noticed a general disapproval from students (including, occasionally, myself), I’ve also noticed something much more thought-provoking: everyone and everything seemed less boring. Without the physical barrier of a screen taking up everyone’s view, the only thing left to focus on was the class itself.\nIt’s easy to buy into the justification of foundational or major requirements and only see a class as a means to an end. When you have your laptop right in front of you, why not finish that problem set or reply to that email? Sometimes it can feel more efficient to treat a class like a study hall, and we’re all guilty of it. But in those moments when your focus is on a screen instead of the professor, a whole possibility of education is lost.\nThe reason we don’t just take online classes, sequester ourselves in our dorms, and bury ourselves in self-produced research in order to graduate is because that’s not the point of Penn. We’re meant to collaborate and converse with people who have completely different experiences and backgrounds under the mentorship of world class professors. And the truth is, that’s harder to do when there’s a screen blocking your view and constantly fighting for your attention.\nSure, it might take a little extra effort to take notes with a pen and paper rather than typing on a laptop. But it’s definitely not without reward. Students do much better on exams and with information retention in general when they handwrite their notes compared to using tech, and without the added distraction, you’re able to focus on the class at hand rather than the screen in front of you. And if all we care about is trying to minimize the amount of time and work we put into everything, why even bother coming to Penn? If not to educate and better ourselves, are we really paying $100,000 a year just to reorganize our Google Calendar during a lecture?\nSEE MORE FROM CHARLOTTE PULICA:\nNo-tech classes might feel over the top or annoying, but when it comes to a discussion-based class or a seminar, they’re starting to feel essential. Participating in discussions, answering questions, retaining and interacting with the content — these are the qualities that make a course truly educational. Yes, technology is always going to be a part of our lives and our education, and yes, it might feel easier in the moment to rely on it, but we have an opportunity to take classes that are meant to expand our perspectives and challenge our ideas, which seems a lot more valuable than whatever is on our screen.\nClasses can feel boring. Discussions can feel boring. Required readings can feel boring. But in a world where we have a constant stream of dopamine-inducing content inches away from our faces, being forced to confront that feeling might be the only way to realize that it was really us being boring the entire time.\nCHARLOTTE PULICA is a College sophomore studying Cognitive Science from Enoch, Utah. Her email is cpulica1@sas.upenn.edu.\nCharlotte Pulica is a College first year studying communications and consumer psychology from Enoch, Utah. Her column focuses on student life and administrative policy. She currently serves as a Deputy Opinion Editor and can be reached at cpulica1@sas.upenn.edu .",
-      "content_html": "<html>\n  <body>\n    <p>What happens when you put 30 Ivy League students in a classroom and ask them a question? Apparently, nothing.</p>\n    <p>Whether it’s a first-year seminar with 10 students or a lecture hall with over 100, we’ve all watched as our professor posed a question and was met with an awkward silence. We’ll stare at our computers, pretending we’re deep in thought or entrenched in our notes, and wait for someone to break the tension. It may not be every question or every class, but it’s enough to create an environment where we’ve simply gotten used to not responding. Humanities and seminar-based classes are supposed to thrive off of conversation, discussion, and even contention. But unfortunately, none of that can happen if students don’t feel the need to participate.</p>\n    <p>It’s hard to believe that Penn students have nothing to say or no opinions to share. As a matter of fact, it seems that Penn students always have something to say. The dead air isn’t necessarily caused by a lack of interesting thoughts or comments, but rather the ever-present technology we can’t seem to go without anymore, and with it comes an increasingly accurate idea: technology has made us boring.</p>\n    <p>It’s not that Penn students are unintelligent or unable to answer a question if a computer is in front of them. But the presence of tech in class — even if it’s just for note taking — has been proven to produce worse outcomes for students. The result is often a combination of increased distractions, decreased satisfaction with the class, and an overall lack of understanding when it comes to the course material. It’s becoming clear that classes have become a competition between the course material and our screens, and everybody is losing in the process.</p>\n    <p>Penn’s solution? An increase in professors creating a “no-tech” policy for their classroom. No phones, no iPads, no laptops — a completely analog transformation. I’ve experienced my fair share of tech-free classes in both humanities and STEM courses. And although I’ve noticed a general disapproval from students (including, occasionally, myself), I’ve also noticed something much more thought-provoking: everyone and everything seemed less boring. Without the physical barrier of a screen taking up everyone’s view, the only thing left to focus on was the class itself.</p>\n    <p>It’s easy to buy into the justification of foundational or major requirements and only see a class as a means to an end. When you have your laptop right in front of you, why not finish that problem set or reply to that email? Sometimes it can feel more efficient to treat a class like a study hall, and we’re all guilty of it. But in those moments when your focus is on a screen instead of the professor, a whole possibility of education is lost.</p>\n    <p>The reason we don’t just take online classes, sequester ourselves in our dorms, and bury ourselves in self-produced research in order to graduate is because that’s not the point of Penn. We’re meant to collaborate and converse with people who have completely different experiences and backgrounds under the mentorship of world class professors. And the truth is, that’s harder to do when there’s a screen blocking your view and constantly fighting for your attention.</p>\n    <p>Sure, it might take a little extra effort to take notes with a pen and paper rather than typing on a laptop. But it’s definitely not without reward. Students do much better on exams and with information retention in general when they handwrite their notes compared to using tech, and without the added distraction, you’re able to focus on the class at hand rather than the screen in front of you. And if all we care about is trying to minimize the amount of time and work we put into everything, why even bother coming to Penn? If not to educate and better ourselves, are we really paying $100,000 a year just to reorganize our Google Calendar during a lecture?</p>\n    <p>SEE MORE FROM CHARLOTTE PULICA:</p>\n    <p>No-tech classes might feel over the top or annoying, but when it comes to a discussion-based class or a seminar, they’re starting to feel essential. Participating in discussions, answering questions, retaining and interacting with the content — these are the qualities that make a course truly educational. Yes, technology is always going to be a part of our lives and our education, and yes, it might feel easier in the moment to rely on it, but we have an opportunity to take classes that are meant to expand our perspectives and challenge our ideas, which seems a lot more valuable than whatever is on our screen.</p>\n    <p>Classes can feel boring. Discussions can feel boring. Required readings can feel boring. But in a world where we have a constant stream of dopamine-inducing content inches away from our faces, being forced to confront that feeling might be the only way to realize that it was really us being boring the entire time.</p>\n    <p>CHARLOTTE PULICA is a College sophomore studying Cognitive Science from Enoch, Utah. Her email is cpulica1@sas.upenn.edu.</p>\n    <img src=\"https://snworksceo.imgix.net/dpn/80f92796-6f5f-4655-bbe3-8366fc51c7bf.sized-1000x1000.png?w=150&amp;h=150&amp;auto=format&amp;mask=ellipse&amp;fit=facearea&amp;facepad=2.5&amp;dpr=2\"/>\n    <p>Charlotte Pulica is a College first year studying communications and consumer psychology from Enoch, Utah. Her column focuses on student life and administrative policy. She currently serves as a Deputy Opinion Editor and can be reached at cpulica1@sas.upenn.edu .</p>\n  </body>\n</html>",
-      "word_count": 878,
-      "char_count": 5220,
-      "lead_image": "https://snworksceo.imgix.net/dpn/1ea55f49-65d5-4b1b-ab3c-4e7f758e1127.sized-1000x1000.jpg?w=800&h=600",
-      "images": [
-        {
-          "url": "https://snworksceo.imgix.net/dpn/1ea55f49-65d5-4b1b-ab3c-4e7f758e1127.sized-1000x1000.jpg?w=800&h=600",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://snworksceo.imgix.net/dpn/80f92796-6f5f-4655-bbe3-8366fc51c7bf.sized-1000x1000.png?w=150&h=150&auto=format&mask=ellipse&fit=facearea&facepad=2.5&dpr=2",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 2,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-02T05:24:21Z"
-    },
-    {
-      "id": "440604d978d6498c",
-      "title": "Visualizing Jeff McNeil's swing using bat tracking technology",
-      "header": "MLB.com",
-      "published_at": "2026-09-02T03:43:18Z",
-      "published_raw": "Wed, 02 Sep 2026 03:43:18 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVXdiSks5VHF5OUZyWGhEdnNIZGtERG9XNFJ3cWd4QXFDaFpwTnNUZkRwd3ZJOUpTdHp5WE9MYzBsLXd0Rk5xOGg5RVBxZ0xMcVViRFBkRUphbFNUYkNkUDdhWm9HcU81TnlrNmdtdGgwS2pwZmJPbS1Nc2pnYXZ5SnFtZjdCQS1oTEEwS3RMRUdHTjV0ZDVlLVZCTmJPbWRYSVVmWDJR?oc=5",
-      "description": "Visualizing Jeff McNeil's swing using bat tracking technology MLB.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNVXdiSks5VHF5OUZyWGhEdnNIZGtERG9XNFJ3cWd4QXFDaFpwTnNUZkRwd3ZJOUpTdHp5WE9MYzBsLXd0Rk5xOGg5RVBxZ0xMcVViRFBkRUphbFNUYkNkUDdhWm9HcU81TnlrNmdtdGgwS2pwZmJPbS1Nc2pnYXZ5SnFtZjdCQS1oTEEwS3RMRUdHTjV0ZDVlLVZCTmJPbWRYSVVmWDJR?oc=5\" target=\"_blank\">Visualizing Jeff McNeil's swing using bat tracking technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLB.com</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVXdiSks5VHF5OUZyWGhEdnNIZGtERG9XNFJ3cWd4QXFDaFpwTnNUZkRwd3ZJOUpTdHp5WE9MYzBsLXd0Rk5xOGg5RVBxZ0xMcVViRFBkRUphbFNUYkNkUDdhWm9HcU81TnlrNmdtdGgwS2pwZmJPbS1Nc2pnYXZ5SnFtZjdCQS1oTEEwS3RMRUdHTjV0ZDVlLVZCTmJPbWRYSVVmWDJR?oc=5"
-      ],
-      "scraped_at": "2026-09-02T05:24:21Z",
-      "url": "https://www.mlb.com/athletics/video/visualizing-jeff-mcneil-s-swing-using-bat-tracking-technology-x1234",
-      "final_url": "https://www.mlb.com/athletics/video/visualizing-jeff-mcneil-s-swing-using-bat-tracking-technology-x1234",
-      "source": "MLB.com",
-      "article_title": "Visualizing Jeff McNeil's swing using bat tracking technology | 09/01/2026",
-      "heading": "Visualizing Jeff McNeil's swing using bat tracking technology",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "The data behind Jeff McNeil's swing",
-      "content": "Tickets\nSingle Game Tickets\nTheme Games\nSacramento Saturdays\nSeason Tickets\nFan Value Ticket Offers\nMilitary & First Responders Offer\nCollege & Graduate Student Discounts\nPremium Spaces\nSuites & Hospitality Spaces\nGroup Tickets\nMy A's Tickets\nBuy & Sell Tickets on SeatGeek\nHow to Use Digital Tickets\nRainout Policy\nTicket Back Terms\nRequest Ticket Information\nGift Cards\nSutter Health Park\nA-Z Guide\nParking & Transportation\nFood & Beverage\nAccess Guide for Guests with Disabilities\nProhibited Items & Security\nClear Bag Policy\nA's Team Store\nSeating Map\nConcourse Map\nWalk-Up Music Playlist\nGuest Code of Conduct\nStay Connected\nWatch\nSchedule\n2026 Regular Season Schedule\n2027 Regular Season Schedule\nPromotional Schedule\nPrintable Schedule\nDownloadable Schedule\nBroadcast Schedule\nTV & Radio Broadcast Affiliates\nIn-Market Streaming\nMLB Events\nScores\nStats\nTeam Stats\nTop Prospect Stats\nAffiliate Stats\nBaseball Savant\nTop Rookies Stats\nRoster\n40-Man Roster\nDepth Chart\nCoaches\nTop 30 Prospects\nTransactions\nStarting Lineups\nInjury Updates\nDraft Results\nEmployment Opportunities\nBroadcasters\nPlayer Search\nAffiliates\nVideo\nA's in the Community\nAthletics Reviews\nAthletics Manager Postgame\nAthletics Cut4\nMost Popular\nAthletics Game Recap\nA's Podcasts\nNews\nProbable Pitchers\nOfficial Releases\nAthletics Pipeline\nAthletics History\nAthletics History Feature Stories\nMLB News\nCommunity\nRequest a Donation\nMLB Together\nCommunity Impact Report\nFans\nBeyond the Dugout Podcast\nBlack History Month: Honoring Leadership & Legacy\nSacramento Jersey Reveal\nA's Cast\nA's Cast FAQ\nNewsletters\nPA Announcer: Amelia Schimmel\nStomper's Home Fun\nA's Kids\nStomper\nBobbleheads\nSocial Media Clubhouse\nGift Guide\nStandings\nApps\nMLB\nMLB Ballpark\nMLB Play\nMiLB\nMLB FAQs\nMLB Ballpark FAQs\nMLB Play FAQs\nLas Vegas\nA's Ballpark in Las Vegas\nConstruction Cam\nCommunity Impact Report\nAthletics.TV\nBuy Athletics.TV\nMLB.TV Spring Schedule\nWatch & Listen\nHelp Center\nShop\nJerseys\nCaps\nMen's\nWomen's\nKids\nBig & Tall\nTrading Cards\nHome & Office\nClearance\nEuropean Shop\nGift Certificates\nAthletics Authentic Shop\nA's Auctions - Bid or Buy\nMLB Auctions - Bid or Buy\nMLB Authentication\nTeam Store Locations\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nEspañol\nLog in\nChannels\nReels\nVisualizing Jeff McNeil's swing using bat tracking technology\nAthletics @ Rangers\nSeptember 1, 2026 | 00:00:11\nReels\nShare\nThe data behind Jeff McNeil's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nJeff McNeil\nAthletics",
-      "content_html": "<html>\n  <body>\n    <p>Tickets\nSingle Game Tickets\nTheme Games\nSacramento Saturdays\nSeason Tickets\nFan Value Ticket Offers\nMilitary &amp; First Responders Offer\nCollege &amp; Graduate Student Discounts\nPremium Spaces\nSuites &amp; Hospitality Spaces\nGroup Tickets\nMy A's Tickets\nBuy &amp; Sell Tickets on SeatGeek\nHow to Use Digital Tickets\nRainout Policy\nTicket Back Terms\nRequest Ticket Information\nGift Cards\nSutter Health Park\nA-Z Guide\nParking &amp; Transportation\nFood &amp; Beverage\nAccess Guide for Guests with Disabilities\nProhibited Items &amp; Security\nClear Bag Policy\nA's Team Store\nSeating Map\nConcourse Map\nWalk-Up Music Playlist\nGuest Code of Conduct\nStay Connected\nWatch\nSchedule\n2026 Regular Season Schedule\n2027 Regular Season Schedule\nPromotional Schedule\nPrintable Schedule\nDownloadable Schedule\nBroadcast Schedule\nTV &amp; Radio Broadcast Affiliates\nIn-Market Streaming\nMLB Events\nScores\nStats\nTeam Stats\nTop Prospect Stats\nAffiliate Stats\nBaseball Savant\nTop Rookies Stats\nRoster\n40-Man Roster\nDepth Chart\nCoaches\nTop 30 Prospects\nTransactions\nStarting Lineups\nInjury Updates\nDraft Results\nEmployment Opportunities\nBroadcasters\nPlayer Search\nAffiliates\nVideo\nA's in the Community\nAthletics Reviews\nAthletics Manager Postgame\nAthletics Cut4\nMost Popular\nAthletics Game Recap\nA's Podcasts\nNews\nProbable Pitchers\nOfficial Releases\nAthletics Pipeline\nAthletics History\nAthletics History Feature Stories\nMLB News\nCommunity\nRequest a Donation\nMLB Together\nCommunity Impact Report\nFans\nBeyond the Dugout Podcast\nBlack History Month: Honoring Leadership &amp; Legacy\nSacramento Jersey Reveal\nA's Cast\nA's Cast FAQ\nNewsletters\nPA Announcer: Amelia Schimmel\nStomper's Home Fun\nA's Kids\nStomper\nBobbleheads\nSocial Media Clubhouse\nGift Guide\nStandings\nApps\nMLB\nMLB Ballpark\nMLB Play\nMiLB\nMLB FAQs\nMLB Ballpark FAQs\nMLB Play FAQs\nLas Vegas\nA's Ballpark in Las Vegas\nConstruction Cam\nCommunity Impact Report\nAthletics.TV\nBuy Athletics.TV\nMLB.TV Spring Schedule\nWatch &amp; Listen\nHelp Center\nShop\nJerseys\nCaps\nMen's\nWomen's\nKids\nBig &amp; Tall\nTrading Cards\nHome &amp; Office\nClearance\nEuropean Shop\nGift Certificates\nAthletics Authentic Shop\nA's Auctions - Bid or Buy\nMLB Auctions - Bid or Buy\nMLB Authentication\nTeam Store Locations\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nEspañol\nLog in\nChannels\nReels\nVisualizing Jeff McNeil's swing using bat tracking technology\nAthletics @ Rangers\nSeptember 1, 2026 | 00:00:11\nReels\nShare\nThe data behind Jeff McNeil's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nJeff McNeil\nAthletics</p>\n  </body>\n</html>",
-      "word_count": 484,
-      "char_count": 3313,
-      "lead_image": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/nrhtnd9cbm8dyhmadeba",
-      "images": [
-        {
-          "url": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/nrhtnd9cbm8dyhmadeba",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-02T05:24:21Z"
-    },
-    {
-      "id": "6bf25df12b3e320b",
-      "title": "West Fargo Police debut skim scan technology to fight card fraud",
-      "header": "valleynewslive.com",
-      "published_at": "2026-09-02T03:22:53Z",
-      "published_raw": "Wed, 02 Sep 2026 03:22:53 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEZXYmlESDhDWmZFY0w3T2ozY1d3VFVyRXY3NzFsNGJwNmNQU2JZVF9ya0luUVpRQkpWVnluZUVWckFWYWRLMDI4bWtaOHl1NHc0ZVpXSTdxQzdVZWx5TERGai1KdjlISDJ2dTZLLTdXQTBnOGw4M05YekJ0c1V6dlFjcTduOGlGc1ZUMy1CSWo5aElfV1F3NVF5NUdDQ1A3LWlmb2d0a3d3clVRWlJF?oc=5",
-      "description": "West Fargo Police debut skim scan technology to fight card fraud valleynewslive.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEZXYmlESDhDWmZFY0w3T2ozY1d3VFVyRXY3NzFsNGJwNmNQU2JZVF9ya0luUVpRQkpWVnluZUVWckFWYWRLMDI4bWtaOHl1NHc0ZVpXSTdxQzdVZWx5TERGai1KdjlISDJ2dTZLLTdXQTBnOGw4M05YekJ0c1V6dlFjcTduOGlGc1ZUMy1CSWo5aElfV1F3NVF5NUdDQ1A3LWlmb2d0a3d3clVRWlJF?oc=5\" target=\"_blank\">West Fargo Police debut skim scan technology to fight card fraud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">valleynewslive.com</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEZXYmlESDhDWmZFY0w3T2ozY1d3VFVyRXY3NzFsNGJwNmNQU2JZVF9ya0luUVpRQkpWVnluZUVWckFWYWRLMDI4bWtaOHl1NHc0ZVpXSTdxQzdVZWx5TERGai1KdjlISDJ2dTZLLTdXQTBnOGw4M05YekJ0c1V6dlFjcTduOGlGc1ZUMy1CSWo5aElfV1F3NVF5NUdDQ1A3LWlmb2d0a3d3clVRWlJF?oc=5"
-      ],
-      "scraped_at": "2026-09-02T10:31:37Z",
-      "url": "https://www.valleynewslive.com/video/2026/09/02/west-fargo-police-debut-skim-scan-technology-fight-card-fraud/",
-      "final_url": "https://www.valleynewslive.com/video/2026/09/02/west-fargo-police-debut-skim-scan-technology-fight-card-fraud/",
-      "source": "https://www.valleynewslive.com",
-      "article_title": "West Fargo Police debut skim scan technology to fight card fraud",
-      "heading": "West Fargo Police debut skim scan technology to fight card fraud",
-      "authors": [],
-      "article_published_at": "2026-09-02T03:19:21Z",
-      "article_modified_at": "2026-09-02T03:00:00Z",
-      "summary": "West Fargo Police debut skim scan technology to fight card fraud valleynewslive.com",
-      "content": "Skip to content\nNews\nWatch Live\nWeather\n24/7 Weather\nPodcasts\nStreaming Schedule\nWhistleblower\nRed River Valley Fair\nSports\nWe the People\nVNL Deals\nHome\nNews\nIsadora Wengel Investigation\nVNL Investigates\nRegional\nNational\nInternational\nEducation\nCountdown to 47\nState Politics\nValley Ag\nHonor Flight\nWhistleblower Hotline\nVideo\nWeather\n24/7 Weather\nMaps\nRiver Levels\nRoad Conditions\nSky Cam\nInteractive Radar\nClosings\nPower Outage Map\nSports\nOlympics\nFM Redhawks\nBison Huddle\nUND Corner\nVNL Sports Overtime\nSports Videos\nContests\nWeather Kid\nGood News Story\nAbout Us\nTikTok\nFacebook\nInstagram\nYouTube\nTwitch\nMeet the Team\nMeet the Sales Team\nInvest In Your Valley\nVNL Ad Solutions\nRides with Jay Thomas\nValley Today\nNorth Dakota Today\nWhat's on TV\nNextGen TV\nSubmit Photos & Video\nCircle\nInvestigateTV\nWatching Your Wallet\nVNL Deals\nLocal News Live\nDigital Marketing\nGrAI Policy\nWest Fargo Police debut skim scan technology to fight card fraud\nUpdated: 7 hours ago\nShare\nAdd Us On Google\nAdd as a preferred source on Google\nNews\n10:00PM News Part 1 - September 1\nUpdated: 7 hours ago\nNews\nAbsentee ballots now available for Fargo’s Oct. 6 special election\nUpdated: 7 hours ago\nNews\nTrial date set for man charged in 2025 downtown Fargo shooting death\nUpdated: 7 hours ago\nNews\n10:00PM News Part 2 - September 1\nUpdated: 7 hours ago\nNews\nMan sentenced to 45 years in Fargo murder case denied reduced sentence\nUpdated: 7 hours ago\nSports\n10:00PM Sports - September 1\nUpdated: 7 hours ago",
-      "content_html": "<html>\n  <body>\n    <p>Skip to content\nNews\nWatch Live\nWeather\n24/7 Weather\nPodcasts\nStreaming Schedule\nWhistleblower\nRed River Valley Fair\nSports\nWe the People\nVNL Deals\nHome\nNews\nIsadora Wengel Investigation\nVNL Investigates\nRegional\nNational\nInternational\nEducation\nCountdown to 47\nState Politics\nValley Ag\nHonor Flight\nWhistleblower Hotline\nVideo\nWeather\n24/7 Weather\nMaps\nRiver Levels\nRoad Conditions\nSky Cam\nInteractive Radar\nClosings\nPower Outage Map\nSports\nOlympics\nFM Redhawks\nBison Huddle\nUND Corner\nVNL Sports Overtime\nSports Videos\nContests\nWeather Kid\nGood News Story\nAbout Us\nTikTok\nFacebook\nInstagram\nYouTube\nTwitch\nMeet the Team\nMeet the Sales Team\nInvest In Your Valley\nVNL Ad Solutions\nRides with Jay Thomas\nValley Today\nNorth Dakota Today\nWhat's on TV\nNextGen TV\nSubmit Photos &amp; Video\nCircle\nInvestigateTV\nWatching Your Wallet\nVNL Deals\nLocal News Live\nDigital Marketing\nGrAI Policy\nWest Fargo Police debut skim scan technology to fight card fraud\nUpdated: 7 hours ago\nShare\nAdd Us On Google\nAdd as a preferred source on Google\nNews\n10:00PM News Part 1 - September 1\nUpdated: 7 hours ago\nNews\nAbsentee ballots now available for Fargo’s Oct. 6 special election\nUpdated: 7 hours ago\nNews\nTrial date set for man charged in 2025 downtown Fargo shooting death\nUpdated: 7 hours ago\nNews\n10:00PM News Part 2 - September 1\nUpdated: 7 hours ago\nNews\nMan sentenced to 45 years in Fargo murder case denied reduced sentence\nUpdated: 7 hours ago\nSports\n10:00PM Sports - September 1\nUpdated: 7 hours ago</p>\n  </body>\n</html>",
-      "word_count": 244,
-      "char_count": 1485,
-      "lead_image": "https://gray-kvly-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-02-2026%2Ft_a5d2cc7f394649e5bae2e818823fd7f1_name_file_1280x720_2000_v3_1_.jpg?auth=b8409184fd7e4cafb72e31eefa866194c4beacdc7c5625bc74134f1635bccccf&width=1200&height=600&smart=true",
-      "images": [
-        {
-          "url": "https://gray-kvly-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-02-2026%2Ft_a5d2cc7f394649e5bae2e818823fd7f1_name_file_1280x720_2000_v3_1_.jpg?auth=b8409184fd7e4cafb72e31eefa866194c4beacdc7c5625bc74134f1635bccccf&width=1200&height=600&smart=true",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://gray-kvly-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-02-2026%2Ft_365e69fbbd9645f69b23c51cfb489e0f_name_file_1280x720_2000_v3_1_.jpg?auth=40eadb58d78d070476f5558a00e61168e2841e75a27ac947331a12f5c18f7027&width=800&height=450&smart=true",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://gray-kvly-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-02-2026%2Ft_42e075ad2a324bde93e312b0795c8178_name_file_1280x720_2000_v3_1_.jpg?auth=694996c3ddc1be75173c1a67bc82742053682d5ec77e91449f7a827b92683f9f&width=800&height=450&smart=true",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://gray-kvly-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-02-2026%2Ft_4ddb560ecf0649c283797de1b569ee54_name_file_1280x720_2000_v3_1_.jpg?auth=558e47ad07598f3755e5700b896440e4d0010847f66bdef66b8205c92d289d3b&width=800&height=450&smart=true",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://gray-kvly-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-02-2026%2Ft_0cc70f3fe02f485fbb0e77421a9c1c8e_name_file_1280x720_2000_v3_1_.jpg?auth=d6da952cd1ae2057ced9baa16ed2e0d0805014b4b26f7fd3cabffc4554175b1b&width=800&height=450&smart=true",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://gray-kvly-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-02-2026%2Ft_6d2f3c0d3f474cb0a7dd5e11af91beab_name_file_1280x720_2000_v3_1_.jpg?auth=2949c7616f79f57ae039b711c990d1df747cc4b1cd33983f01956cbfee2f8d41&width=800&height=450&smart=true",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://gray-kvly-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-02-2026%2Ft_1c29a74ae7324c9cae735af9c003535b_name_file_1280x720_2000_v3_1_.jpg?auth=a29237ec28f6d91f39510407ebb7500f5aebb899ff543eaee597480b71ae481c&width=800&height=450&smart=true",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 7,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-02T10:31:37Z"
-    },
-    {
-      "id": "1c98e853d7c9a512",
-      "title": "Palantir CEO sets sights on Ukraine as next target",
-      "header": "The Washington Post",
-      "published_at": "2026-09-02T03:00:00Z",
-      "published_raw": "Wed, 02 Sep 2026 03:00:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkQ4ajBfS2JQNVdtY2ZFbm9Zd2N2bHJfeUc4VFBUMXlON3NyMlF6cDhwSVM0cGY0RGVrTlZUa01pSXJYREJiTlZ2TmN0NWVEbXNXS0dRQ0dYX0pYMkZ6NFg1T05ZRThFZUdvNE93dzAxaDg1bXRxb3dsOE5pQTdyVi1KcHVMUGRFVkF0RExjQTJQUElzX3VaM1JQZFdqbnM?oc=5",
-      "description": "Palantir CEO sets sights on Ukraine as next target The Washington Post",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkQ4ajBfS2JQNVdtY2ZFbm9Zd2N2bHJfeUc4VFBUMXlON3NyMlF6cDhwSVM0cGY0RGVrTlZUa01pSXJYREJiTlZ2TmN0NWVEbXNXS0dRQ0dYX0pYMkZ6NFg1T05ZRThFZUdvNE93dzAxaDg1bXRxb3dsOE5pQTdyVi1KcHVMUGRFVkF0RExjQTJQUElzX3VaM1JQZFdqbnM?oc=5\" target=\"_blank\">Palantir CEO sets sights on Ukraine as next target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkQ4ajBfS2JQNVdtY2ZFbm9Zd2N2bHJfeUc4VFBUMXlON3NyMlF6cDhwSVM0cGY0RGVrTlZUa01pSXJYREJiTlZ2TmN0NWVEbXNXS0dRQ0dYX0pYMkZ6NFg1T05ZRThFZUdvNE93dzAxaDg1bXRxb3dsOE5pQTdyVi1KcHVMUGRFVkF0RExjQTJQUElzX3VaM1JQZFdqbnM?oc=5"
-      ],
-      "scraped_at": "2026-09-02T18:25:10Z",
-      "url": "https://www.washingtonpost.com/technology/2026/09/01/palantir-ceo-sets-sights-ukraine-next-target/",
-      "final_url": "https://www.washingtonpost.com/technology/2026/09/01/palantir-ceo-sets-sights-ukraine-next-target/",
-      "source": "The Washington Post",
-      "article_title": "",
-      "heading": "Palantir CEO sets sights on Ukraine as next target",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Palantir CEO sets sights on Ukraine as next target The Washington Post",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-01T20:28:35Z"
-    },
-    {
-      "id": "27cbab11251297a6",
-      "title": "West Fargo Police debut skim scan technology to fight card fraud",
-      "header": "Valley News Live",
-      "published_at": "2026-09-02T02:44:00Z",
-      "published_raw": "Wed, 02 Sep 2026 02:44:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUkh4c1NkV2g2Sk1rOER0U0lDamo2U2dSTm9DNGpsckxmUkNkQ1BKZmRYb3JRZG41N1FLNE9UYU96Q1pCZ0lVT3loeWd5TmhoTm9wTkdjTUFlMjEtWllFNmVmOVZlcjNFUEFoS2pPeDRxTXdONi1ZLXZXTlRPTVRTa2R2c21FVGh5SkxPVTVpRFRYZk9iQTBBbjVqRXZIOXFMQ2xadlZJQdIBuwFBVV95cUxQRjJtbFk2S2dIWDFNYTJIZjZpelJ0d0VPNXU4NHZ6MWZCeVBVYnVPazFVYVNQN1hDS3VJdWJtNFZ3bnFGMGlXbFo1NEtoWTUzNXItT3QxR0NwVy0tOTZhYmg5Wmk2dmFzQXFfZnNYR0dYVGU0ODZVbDRuZy1lMVlzUVRsckN4WGgyLUNGal9tVFJyaWREMTdLQ2dNS0ZSVjd0SnA0SjdwQW1FcUhHRkpLSV9rNGdvWmxxZ05V?oc=5",
-      "description": "West Fargo Police debut skim scan technology to fight card fraud Valley News Live",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUkh4c1NkV2g2Sk1rOER0U0lDamo2U2dSTm9DNGpsckxmUkNkQ1BKZmRYb3JRZG41N1FLNE9UYU96Q1pCZ0lVT3loeWd5TmhoTm9wTkdjTUFlMjEtWllFNmVmOVZlcjNFUEFoS2pPeDRxTXdONi1ZLXZXTlRPTVRTa2R2c21FVGh5SkxPVTVpRFRYZk9iQTBBbjVqRXZIOXFMQ2xadlZJQdIBuwFBVV95cUxQRjJtbFk2S2dIWDFNYTJIZjZpelJ0d0VPNXU4NHZ6MWZCeVBVYnVPazFVYVNQN1hDS3VJdWJtNFZ3bnFGMGlXbFo1NEtoWTUzNXItT3QxR0NwVy0tOTZhYmg5Wmk2dmFzQXFfZnNYR0dYVGU0ODZVbDRuZy1lMVlzUVRsckN4WGgyLUNGal9tVFJyaWREMTdLQ2dNS0ZSVjd0SnA0SjdwQW1FcUhHRkpLSV9rNGdvWmxxZ05V?oc=5\" target=\"_blank\">West Fargo Police debut skim scan technology to fight card fraud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Valley News Live</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUkh4c1NkV2g2Sk1rOER0U0lDamo2U2dSTm9DNGpsckxmUkNkQ1BKZmRYb3JRZG41N1FLNE9UYU96Q1pCZ0lVT3loeWd5TmhoTm9wTkdjTUFlMjEtWllFNmVmOVZlcjNFUEFoS2pPeDRxTXdONi1ZLXZXTlRPTVRTa2R2c21FVGh5SkxPVTVpRFRYZk9iQTBBbjVqRXZIOXFMQ2xadlZJQdIBuwFBVV95cUxQRjJtbFk2S2dIWDFNYTJIZjZpelJ0d0VPNXU4NHZ6MWZCeVBVYnVPazFVYVNQN1hDS3VJdWJtNFZ3bnFGMGlXbFo1NEtoWTUzNXItT3QxR0NwVy0tOTZhYmg5Wmk2dmFzQXFfZnNYR0dYVGU0ODZVbDRuZy1lMVlzUVRsckN4WGgyLUNGal9tVFJyaWREMTdLQ2dNS0ZSVjd0SnA0SjdwQW1FcUhHRkpLSV9rNGdvWmxxZ05V?oc=5"
-      ],
-      "scraped_at": "2026-09-02T18:25:10Z",
-      "url": "https://www.valleynewslive.com/2026/09/02/west-fargo-police-debut-skim-scan-technology-fight-card-fraud/",
-      "final_url": "https://www.valleynewslive.com/2026/09/02/west-fargo-police-debut-skim-scan-technology-fight-card-fraud/",
-      "source": "https://www.valleynewslive.com",
-      "article_title": "West Fargo Police debut skim scan technology to fight card fraud",
-      "heading": "West Fargo Police debut skim scan technology to fight card fraud",
-      "authors": [
-        "Sydney Zatz"
-      ],
-      "article_published_at": "2026-09-02T02:44:25.544Z",
-      "article_modified_at": "2026-09-02T02:44:25.544Z",
-      "summary": "West Fargo police are sharing a new method aimed at combating point-of-sale transaction fraud.",
-      "content": "West Fargo Police debut skim scan technology to fight card fraud\nWEST FARGO, N.D. (Valley News Live) - West Fargo police are sharing a new method aimed at combating point-of-sale transaction fraud. The technology, called Skim Scan technology, detects hidden skimmers or shimmers on payment terminals at retailers and gas pumps.\nHow the technology works\nPolice say the device allows them to be proactive by inspecting point-of-sale systems at businesses to check whether devices have been compromised.\n“We want to do some prevention of fraud-type activities,” said Sgt. Craig Danielson of the West Fargo Police Department.\n“Prevention in the form of inspecting those point-of-sale devices for businesses to ensure them that the devices they have are not being compromised.”\nThe department has one device, which costs about $500.\nA nationwide trend\nPolice say skimming fraud is prevalent nationwide and describe the new technology as a way to get ahead of the trend. In 2025, law enforcement across the country removed more than 400 illegal skimming devices, preventing an estimated potential fraud loss of more than $428 million.\n“The trend nationwide is a lot of fuel stations, a lot of pumps where they’re away from those point-of-sale locations and front counter areas,” Danielson said.\nConsumer reaction\nAaron Niehaus, a consumer, said fraud is something he keeps in mind, especially at the pump.\n“I think it’s something you need to be constantly aware of in a digital world, where your payment is always on your person and all your financial assets are sitting in your pocket, you know?” Niehaus said.\nNiehaus said he thinks the new technology is warranted.\n“Digital systems are not necessarily owned by that place of business. It’s part of a broader network, a broader financial network of credit card transactions. If it means preventing people from getting scammed then information is used responsibly, it’s a good thing to me,” Niehaus said.\nHow to get terminals scanned\nA link to request a terminal scan can be found, here.\nPolice also recommend using caution when using payment terminals, including checking for anything loose, crooked, damaged or scratched. They recommend using tap-to-pay.\nCopyright 2026 KVLY. All rights reserved.",
-      "content_html": "<html>\n  <body>\n    <h1>West Fargo Police debut skim scan technology to fight card fraud</h1>\n    <p>WEST FARGO, N.D. (Valley News Live) - West Fargo police are sharing a new method aimed at combating point-of-sale transaction fraud. The technology, called Skim Scan technology, detects hidden skimmers or shimmers on payment terminals at retailers and gas pumps.</p>\n    <h2>How the technology works</h2>\n    <p>Police say the device allows them to be proactive by inspecting point-of-sale systems at businesses to check whether devices have been compromised.</p>\n    <p>“We want to do some prevention of fraud-type activities,” said Sgt. Craig Danielson of the West Fargo Police Department.</p>\n    <p>“Prevention in the form of inspecting those point-of-sale devices for businesses to ensure them that the devices they have are not being compromised.”</p>\n    <p>The department has one device, which costs about $500.</p>\n    <h2>A nationwide trend</h2>\n    <p>Police say skimming fraud is prevalent nationwide and describe the new technology as a way to get ahead of the trend. In 2025, law enforcement across the country removed more than 400 illegal skimming devices, preventing an estimated potential fraud loss of more than $428 million.</p>\n    <p>“The trend nationwide is a lot of fuel stations, a lot of pumps where they’re away from those point-of-sale locations and front counter areas,” Danielson said.</p>\n    <h2>Consumer reaction</h2>\n    <p>Aaron Niehaus, a consumer, said fraud is something he keeps in mind, especially at the pump.</p>\n    <p>“I think it’s something you need to be constantly aware of in a digital world, where your payment is always on your person and all your financial assets are sitting in your pocket, you know?” Niehaus said.</p>\n    <p>Niehaus said he thinks the new technology is warranted.</p>\n    <p>“Digital systems are not necessarily owned by that place of business. It’s part of a broader network, a broader financial network of credit card transactions. If it means preventing people from getting scammed then information is used responsibly, it’s a good thing to me,” Niehaus said.</p>\n    <h2>How to get terminals scanned</h2>\n    <p>A link to request a terminal scan can be found, here.</p>\n    <p>Police also recommend using caution when using payment terminals, including checking for anything loose, crooked, damaged or scratched. They recommend using tap-to-pay.</p>\n    <p>Copyright 2026 KVLY. All rights reserved.</p>\n  </body>\n</html>",
-      "word_count": 357,
-      "char_count": 2243,
-      "lead_image": "https://gray-kvly-prod.gtv-cdn.com/resizer/v2/PFGIQPEBCRBKFNG4FGC44427WI.jpg?auth=c97b1c62c0d324054d33af576d5c6a2c8438c3c899f77c2a0f94671e87f26640&width=1200&height=600&smart=true",
-      "images": [
-        {
-          "url": "https://gray-kvly-prod.gtv-cdn.com/resizer/v2/PFGIQPEBCRBKFNG4FGC44427WI.jpg?auth=c97b1c62c0d324054d33af576d5c6a2c8438c3c899f77c2a0f94671e87f26640&width=1200&height=600&smart=true",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-02T05:24:23Z"
-    },
-    {
-      "id": "71937da8cda6e088",
-      "title": "China approves string of ‘telepathy’ devices amid push to leapfrog Elon Musk",
-      "header": "South China Morning Post",
-      "published_at": "2026-09-02T02:00:12Z",
-      "published_raw": "Wed, 02 Sep 2026 02:00:12 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUmZaT05tT29ZMjFVS293UmRWS3pseTRlNGJ2ZHZhWnRKb3U4b2VkWDF5SFhTZ0lsMm9xOHhfQVYzWjk0Y29sbnJnU0pBUi1jUmhONXYxLWhqNWF6dERRdzJnWWd4LWoxUEsxY3NLZS1UdEE5MngxN2hRZXBxRzhrN0lPWG83cVE5dkROZy1HWHdrU254VlRCdGkwMS1yQ0NJSFZJZ016b2d3MGhCZW10cEdWcVR5V3ZBXzZIcy1CZlhoUdIBwgFBVV95cUxQU3FYbDRqYTBjS2p1aXM3a2s3akpoUndxd3ZCSVFiRUFtVHJCVFoyQl9ZNkt0TWVVcWRyTzlqVVFKSzZoTndNTUdXNVJWLUxJcHJYcV8xeWF1SVZPdlRaMWQ2MXY1VDhmY2MyNzJnb2JWQnAtWGxTQy1wR1N2U1BHXzFPakVpTF9kUF9ENXZoNTIyUm9DZC1BaWVtaEFnMVJxbXhYM3VIV05rZENsbHBKajZuSVlvX3pmN0NIRkVvV19UQQ?oc=5",
-      "description": "China approves string of ‘telepathy’ devices amid push to leapfrog Elon Musk South China Morning Post",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUmZaT05tT29ZMjFVS293UmRWS3pseTRlNGJ2ZHZhWnRKb3U4b2VkWDF5SFhTZ0lsMm9xOHhfQVYzWjk0Y29sbnJnU0pBUi1jUmhONXYxLWhqNWF6dERRdzJnWWd4LWoxUEsxY3NLZS1UdEE5MngxN2hRZXBxRzhrN0lPWG83cVE5dkROZy1HWHdrU254VlRCdGkwMS1yQ0NJSFZJZ016b2d3MGhCZW10cEdWcVR5V3ZBXzZIcy1CZlhoUdIBwgFBVV95cUxQU3FYbDRqYTBjS2p1aXM3a2s3akpoUndxd3ZCSVFiRUFtVHJCVFoyQl9ZNkt0TWVVcWRyTzlqVVFKSzZoTndNTUdXNVJWLUxJcHJYcV8xeWF1SVZPdlRaMWQ2MXY1VDhmY2MyNzJnb2JWQnAtWGxTQy1wR1N2U1BHXzFPakVpTF9kUF9ENXZoNTIyUm9DZC1BaWVtaEFnMVJxbXhYM3VIV05rZENsbHBKajZuSVlvX3pmN0NIRkVvV19UQQ?oc=5\" target=\"_blank\">China approves string of ‘telepathy’ devices amid push to leapfrog Elon Musk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUmZaT05tT29ZMjFVS293UmRWS3pseTRlNGJ2ZHZhWnRKb3U4b2VkWDF5SFhTZ0lsMm9xOHhfQVYzWjk0Y29sbnJnU0pBUi1jUmhONXYxLWhqNWF6dERRdzJnWWd4LWoxUEsxY3NLZS1UdEE5MngxN2hRZXBxRzhrN0lPWG83cVE5dkROZy1HWHdrU254VlRCdGkwMS1yQ0NJSFZJZ016b2d3MGhCZW10cEdWcVR5V3ZBXzZIcy1CZlhoUdIBwgFBVV95cUxQU3FYbDRqYTBjS2p1aXM3a2s3akpoUndxd3ZCSVFiRUFtVHJCVFoyQl9ZNkt0TWVVcWRyTzlqVVFKSzZoTndNTUdXNVJWLUxJcHJYcV8xeWF1SVZPdlRaMWQ2MXY1VDhmY2MyNzJnb2JWQnAtWGxTQy1wR1N2U1BHXzFPakVpTF9kUF9ENXZoNTIyUm9DZC1BaWVtaEFnMVJxbXhYM3VIV05rZENsbHBKajZuSVlvX3pmN0NIRkVvV19UQQ?oc=5"
-      ],
-      "scraped_at": "2026-09-03T16:53:34Z",
-      "url": "https://www.scmp.com/business/companies/article/3366040/china-approves-string-telepathy-devices-amid-push-leapfrog-elon-musk",
-      "final_url": "https://www.scmp.com/business/companies/article/3366040/china-approves-string-telepathy-devices-amid-push-leapfrog-elon-musk",
-      "source": "South China Morning Post",
-      "article_title": "China approves string of ‘telepathy’ devices amid push to leapfrog Elon Musk",
-      "heading": "China approves string of ‘telepathy’ devices amid push to leapfrog Elon Musk",
-      "authors": [
-        "Julie Zhang"
-      ],
-      "article_published_at": "2026-09-02T10:00:12+08:00",
-      "article_modified_at": "2026-09-02T10:00:12+08:00",
-      "summary": "Chinese regulators have approved a group of brain-technology products this year, as local start-ups push to surpass Musk’s Neuralink.",
-      "content": "China approves string of ‘telepathy’ devices amid push to leapfrog Elon Musk\nChinese regulators have approved a group of brain-technology products this year, as local start-ups push to surpass Musk’s Neuralink\nChina’s health regulators have granted approvals for a string of brain-technology products this year, as domestic start-ups push to transform the treatment of conditions ranging from paraplegia to Alzheimer’s and depression.\nThe approvals come as Beijing bids to lead the world in brain-computer interfaces – devices that allow patients to control digital devices using thought alone – offering generous policy support to help Chinese firms compete with overseas players such as Elon Musk’s Neuralink.\nAmong the brain tech products to win Chinese market approval recently is a system developed by a domestic firm named Tiankai Suishi (Tianjin) Intelligent Technology, which helps doctors assess whether a patient’s cognitive functions have been impaired.\nThe device is a cap studded with electrodes that fits over a patient’s scalp and can be used to read the electrical signals given off by the brain, according to an article posted to the company’s official WeChat feed. It was approved by China’s National Medical Products Administration (NMPA) on August 19, official records show.\nTiankai Suishi also sells BCI devices that aid early diagnosis of cognitive dysfunction linked to conditions such as Alzheimer’s disease and schizophrenia. It is currently seeking regulatory approval for a product to assist with diagnosing depression.\nThe company, founded in 2023, has registered capital of 10.67 million yuan (US$1.59 million), according to the corporate database Qichacha. It is led by Gu Bin, who completed a doctoral degree at Tianjin University’s medical school, according to Chinese media reports.",
-      "content_html": "<html>\n  <body>\n    <h1>China approves string of ‘telepathy’ devices amid push to leapfrog Elon Musk</h1>\n    <p>Chinese regulators have approved a group of brain-technology products this year, as local start-ups push to surpass Musk’s Neuralink</p>\n    <img src=\"https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2026/09/02/1b8b3d7b-3b63-43e9-b384-456c3654bfa5_22577772.jpg?itok=-v7r2-U0&amp;v=1788313325\" alt=\"An engineer wears a brain-computer interface head cap to pilot a humanoid robot at the Fourier Intelligence booth during last month’s World Robot Conference in Beijing. Photo: Reuters\"/>\n    <p>China’s health regulators have granted approvals for a string of brain-technology products this year, as domestic start-ups push to transform the treatment of conditions ranging from paraplegia to Alzheimer’s and depression.</p>\n    <p>The approvals come as Beijing bids to lead the world in brain-computer interfaces – devices that allow patients to control digital devices using thought alone – offering generous policy support to help Chinese firms compete with overseas players such as Elon Musk’s Neuralink.</p>\n    <p>Among the brain tech products to win Chinese market approval recently is a system developed by a domestic firm named Tiankai Suishi (Tianjin) Intelligent Technology, which helps doctors assess whether a patient’s cognitive functions have been impaired.</p>\n    <p>The device is a cap studded with electrodes that fits over a patient’s scalp and can be used to read the electrical signals given off by the brain, according to an article posted to the company’s official WeChat feed. It was approved by China’s National Medical Products Administration (NMPA) on August 19, official records show.</p>\n    <p>Tiankai Suishi also sells BCI devices that aid early diagnosis of cognitive dysfunction linked to conditions such as Alzheimer’s disease and schizophrenia. It is currently seeking regulatory approval for a product to assist with diagnosing depression.</p>\n    <p>The company, founded in 2023, has registered capital of 10.67 million yuan (US$1.59 million), according to the corporate database Qichacha. It is led by Gu Bin, who completed a doctoral degree at Tianjin University’s medical school, according to Chinese media reports.</p>\n  </body>\n</html>",
-      "word_count": 274,
-      "char_count": 1815,
-      "lead_image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/02/6061c47d-236c-4b9b-a9ef-51bf81797203_8e451604.jpg?itok=NDPim3dh&v=1788313322",
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/02/6061c47d-236c-4b9b-a9ef-51bf81797203_8e451604.jpg?itok=NDPim3dh&v=1788313322",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2026/09/02/1b8b3d7b-3b63-43e9-b384-456c3654bfa5_22577772.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2026/09/02/1b8b3d7b-3b63-43e9-b384-456c3654bfa5_22577772.jpg?itok=-v7r2-U0&v=1788313325",
-          "alt": "An engineer wears a brain-computer interface head cap to pilot a humanoid robot at the Fourier Intelligence booth during last month’s World Robot Conference in Beijing. Photo: Reuters",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 3,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-03T16:53:34Z"
-    },
-    {
-      "id": "325a931d37bba863",
-      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
-      "header": "BBC",
-      "published_at": "2026-09-02T01:27:34Z",
-      "published_raw": "Wed, 02 Sep 2026 01:27:34 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iUXdSS2NCbVFMSlhaM1pGYktvaDB5N2oxVHNEUzZaR2VKeVNjYkluMTFDNWtUb0J2a0hnMnpSNHl6Z1VQVnZ2aDFsOTlxTUwyR3I0RXpfbDU0QQ?oc=5",
-      "description": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group BBC",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iUXdSS2NCbVFMSlhaM1pGYktvaDB5N2oxVHNEUzZaR2VKeVNjYkluMTFDNWtUb0J2a0hnMnpSNHl6Z1VQVnZ2aDFsOTlxTUwyR3I0RXpfbDU0QQ?oc=5\" target=\"_blank\">Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iUXdSS2NCbVFMSlhaM1pGYktvaDB5N2oxVHNEUzZaR2VKeVNjYkluMTFDNWtUb0J2a0hnMnpSNHl6Z1VQVnZ2aDFsOTlxTUwyR3I0RXpfbDU0QQ?oc=5"
-      ],
-      "scraped_at": "2026-09-02T18:25:11Z",
-      "url": "https://www.bbc.com/news/articles/cly4e0wn452o",
-      "final_url": "https://www.bbc.com/news/articles/cly4e0wn452o",
-      "source": "bbc.com",
-      "article_title": "Which? says fake 10 Downing Street listing exposes 'unfit' Booking.com checks",
-      "heading": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
-      "authors": [
-        "Liv McMahon"
-      ],
-      "article_published_at": "2026-09-02T01:27:34.641Z",
-      "article_modified_at": "2026-09-02T01:27:34.641Z",
-      "summary": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
-      "content": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group\nConsumer group Which? says it was able to create a fake listing for 10 Downing Street on travel giant Booking.com.\nThe UK watchdog said its researchers were able to book a bogus stay at the prime minister's address - as well as leave a fake review noting \"hanging out\" with resident mouser Larry the cat as a highlight.\nIt said despite clear signs it was fake, Booking.com did not remove the listing until two months after it was uploaded.\n\"This limited test is not a true reflection of the experience of millions of listings or reviews published on our platform,\" a Booking.com spokesperson told the BBC.\nThey said because Which?'s listing was not \"live\" on its site across the two months it was present, \"some of our automatic fraud controls were not triggered to completely remove the closed listing\".\nPeople could only see the listing and request to book the property during a 20-minute window opened by Which? so its researchers could try to book it.\nBooking.com's spokesperson added \"a range of checks and verification measures\" help secure the site, and technologies such as AI \"help us detect and remove the majority of fraudulent listings within 24 hours\".\nBut Which? Travel editor Rory Boland said its checks had been shown to be \"unfit for purpose\".\n\"If Booking.com's so-called sophisticated AI systems can't spot that 10 Downing Street is not a holiday rental, then it's no wonder scammers can exploit the platform so easily,\" he said.\n\"It would be laughable that we were able to list the UK's most famous address for rent, if the consequences weren't so devastating for holidaymakers, who risk losing thousands of pounds to bogus listings and phishing links.\"\nIt is not the first time the site has faced criticism over its security efforts and customer service.\n'Prime city centre location'\nWhich?'s listing, uploaded to Booking.com on 18 June, advertised a \"1 bedroom apartment in the heart of London\".\nIt used images of the iconic 10 Downing Street front door, listed at its address - with a description referring to the one bedroom space as \"a prime city centre location\".\nIn the 20 minutes that Which? permitted customers to request a stay at its fake 10 Downing Street property, it said 14 people asked to do so.\nOnly the booking request from a person known to be a Which? researcher was accepted.\nThe watchdog's team also sent the researcher a message within Booking.com's system asking them to click an external link to confirm their payment details - something booking sites typically block to prevent customers being scammed.\nBut Which? said that in this instance, Booking.com did not flag or remove the external link it sent.\nBooking.com said it had \"visible reminders to not click on links customers are not confident about, and booking confirmations also provide further guidance, including details of the agreed payment schedule\".\nThe fake review left by Which? also seemingly passed the site's checks, despite bearing all the hallmarks of a joke.\n\"It was unbelievable that Booking.com let us stay at 10 Downing Street - the home of the UK PM!\" it said.\nThe listing itself was removed by the platform on 27 August.\nSome customers have previously accused the firm of failing to protect them from falling victim to cyber-criminals.\n\"Fraud affects many industries, and 80% of UK adults believe scams are becoming more sophisticated,\" said Booking.com's spokesperson - adding it was continuing to strengthen its defences in the face of this challenge.\nWhich?, meanwhile, said more should be done to force booking sites to swiftly remove false listings under the Online Safety Act (OSA).\nThe Act requires firms which have identified illegal content, including fraudulent material, on their sites to show they are committed to removing it.\nBoland said Ofcom, which enforces the OSA, should be encouraged use it to \"crack down on irresponsible online platforms that leave consumers wide open to fraud\".\n\"For illegal content generated by users, platforms have existing legal duties that mean they must take it down swiftly once they become aware of it,\" an Ofcom spokesperson told Which?.\nSign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.",
-      "content_html": "<html>\n  <body><h1>Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group</h1><img src=\"https://ichef.bbci.co.uk/news/480/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg.webp\" alt=\"Reuters 10 Downing Street. The black door featuring the &quot;10&quot; lettering and letterbox is closed, with Larry the Cat sat on the doorstep in front of it.\"/>Reuters<p>Consumer group Which? says it was able to create a fake listing for 10 Downing Street on travel giant Booking.com.</p><p>The UK watchdog said its researchers were able to book a bogus stay at the prime minister's address - as well as leave a fake review noting \"hanging out\" with resident mouser Larry the cat as a highlight.</p><p>It said despite clear signs it was fake, Booking.com did not remove the listing until two months after it was uploaded.</p><p>\"This limited test is not a true reflection of the experience of millions of listings or reviews published on our platform,\" a Booking.com spokesperson told the BBC.</p><p>They said because Which?'s listing was not \"live\" on its site across the two months it was present, \"some of our automatic fraud controls were not triggered to completely remove the closed listing\".</p><p>People could only see the listing and request to book the property during a 20-minute window opened by Which? so its researchers could try to book it.</p><p>Booking.com's spokesperson added \"a range of checks and verification measures\" help secure the site, and technologies such as AI \"help us detect and remove the majority of fraudulent listings within 24 hours\".</p><p>But Which? Travel editor Rory Boland said its checks had been shown to be \"unfit for purpose\".</p><p>\"If Booking.com's so-called sophisticated AI systems can't spot that 10 Downing Street is not a holiday rental, then it's no wonder scammers can exploit the platform so easily,\" he said.</p><p>\"It would be laughable that we were able to list the UK's most famous address for rent, if the consequences weren't so devastating for holidaymakers, who risk losing thousands of pounds to bogus listings and phishing links.\"</p><p>It is not the first time the site has faced criticism over its security efforts and customer service.</p><h2>'Prime city centre location'</h2><p>Which?'s listing, uploaded to Booking.com on 18 June, advertised a \"1 bedroom apartment in the heart of London\".</p><p>It used images of the iconic 10 Downing Street front door, listed at its address - with a description referring to the one bedroom space as \"a prime city centre location\".</p><img src=\"https://ichef.bbci.co.uk/news/480/cpsprodpb/35bc/live/d6fdec60-a617-11f1-b109-879e35c24276.jpg.webp\" alt=\"Which?/Booking.com The Booking.com listing page, with a picture of the front door of Number 10 Downing Street. It is headlined: &quot;1 bedroom apartment in the heart of London&quot;. Underneath an address of &quot;10 Downing Street, London&quot; is listed. Below the image are labels saying &quot;the entire place is yours&quot; and 215 square foot size.\"/>Which?/Booking.com<p>In the 20 minutes that Which? permitted customers to request a stay at its fake 10 Downing Street property, it said 14 people asked to do so.</p><p>Only the booking request from a person known to be a Which? researcher was accepted.</p><p>The watchdog's team also sent the researcher a message within Booking.com's system asking them to click an external link to confirm their payment details - something booking sites typically block to prevent customers being scammed.</p><p>But Which? said that in this instance, Booking.com did not flag or remove the external link it sent.</p><p>Booking.com said it had \"visible reminders to not click on links customers are not confident about, and booking confirmations also provide further guidance, including details of the agreed payment schedule\".</p><p>The fake review left by Which? also seemingly passed the site's checks, despite bearing all the hallmarks of a joke.</p><p>\"It was unbelievable that Booking.com let us stay at 10 Downing Street - the home of the UK PM!\" it said.</p><p>The listing itself was removed by the platform on 27 August.</p><img src=\"https://ichef.bbci.co.uk/news/480/cpsprodpb/7021/live/4ebb2e50-a615-11f1-9a0e-e95c171695e2.jpg.webp\" alt=\"Which?/Booking.com A screengrab of a review left for the fake Which? listing on Booking.com. It has been rated 10 - Exceptional, with 10/10 across Staff, Facilities, Cleanliness, Comfort, Value for money and Location categories. A review posted on 11 August 2026 by a user called Trevor says &quot;It was unbelievable that Booking.com let us stay at 10 Downing Street - the home of the UK PM&quot;. Beneath it, besides a smiley face emoji, it identifies an upside as &quot;Hanging out with Larry the Cat&quot;. Below that, next to a sad face emoji, it reads &quot;Some guy was moving in during our stay - but it was fine&quot;.\"/>Which?/Booking.com<p>Some customers have previously accused the firm of failing to protect them from falling victim to cyber-criminals.</p><p>\"Fraud affects many industries, and 80% of UK adults believe scams are becoming more sophisticated,\" said Booking.com's spokesperson - adding it was continuing to strengthen its defences in the face of this challenge.</p><p>Which?, meanwhile, said more should be done to force booking sites to swiftly remove false listings under the Online Safety Act (OSA).</p><p>The Act requires firms which have identified illegal content, including fraudulent material, on their sites to show they are committed to removing it.</p><p>Boland said Ofcom, which enforces the OSA, should be encouraged use it to \"crack down on irresponsible online platforms that leave consumers wide open to fraud\".</p><p>\"For illegal content generated by users, platforms have existing legal duties that mean they must take it down swiftly once they become aware of it,\" an Ofcom spokesperson told Which?.</p><img src=\"https://ichef.bbci.co.uk/news/480/cpsprodpb/b89d/live/aa711840-a6a1-11f1-aed2-8d6da8d75094.png.webp\" alt=\"Your Voice banner image. Your Voice is written in white against a purple background. \"/><img src=\"https://ichef.bbci.co.uk/news/480/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp\" alt=\"A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”\"/><p>Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.</p></body>\n</html>",
-      "word_count": 714,
-      "char_count": 4307,
-      "lead_image": "https://ichef.bbci.co.uk/news/1024/branded_news/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg",
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg.webp",
-          "alt": "Reuters 10 Downing Street. The black door featuring the \"10\" lettering and letterbox is closed, with Larry the Cat sat on the doorstep in front of it.",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/35bc/live/d6fdec60-a617-11f1-b109-879e35c24276.jpg.webp",
-          "alt": "Which?/Booking.com The Booking.com listing page, with a picture of the front door of Number 10 Downing Street. It is headlined: \"1 bedroom apartment in the heart of London\". Underneath an address of \"10 Downing Street, London\" is listed. Below the image are labels saying \"the entire place is yours\" and 215 square foot size.",
-          "caption": "A description for the property said it was 'situated on 10 Downing Street' and only a short walk of '400 metres' to Big Ben",
-          "role": "body"
-        },
-        {
-          "url": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/7021/live/4ebb2e50-a615-11f1-9a0e-e95c171695e2.jpg.webp",
-          "alt": "Which?/Booking.com A screengrab of a review left for the fake Which? listing on Booking.com. It has been rated 10 - Exceptional, with 10/10 across Staff, Facilities, Cleanliness, Comfort, Value for money and Location categories. A review posted on 11 August 2026 by a user called Trevor says \"It was unbelievable that Booking.com let us stay at 10 Downing Street - the home of the UK PM\". Beneath it,",
-          "caption": "According to Which?, Booking.com said in a message the review would be checked by its moderators but it was added to the listing soon after",
-          "role": "body"
-        },
-        {
-          "url": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/b89d/live/aa711840-a6a1-11f1-aed2-8d6da8d75094.png.webp",
-          "alt": "Your Voice banner image. Your Voice is written in white against a purple background.",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp",
-          "alt": "A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 6,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-02T18:25:11Z"
-    },
-    {
-      "id": "638f8241a0c2bcb8",
-      "title": "G20 Innovation Ministerial kicks off in Chapel Hill with AI, emerging technology as centerpieces of discussion",
-      "header": "The Daily Tar Heel",
-      "published_at": "2026-09-02T01:20:33Z",
-      "published_raw": "Wed, 02 Sep 2026 01:20:33 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VU3JNYmZjX0dLd2xkdXlmNDVtdVU0MU9EeEVrOWZueEF5UkF0R3hsWTdLVzBHOVFKU2dlMlNMandTdDd5dWE2c05nQ2tJS2QzdDA4ZGd5aWpkSUdKYU5ra0t0NlNqZTA4ZmZDemY1cVhjQ1Nw?oc=5",
-      "description": "G20 Innovation Ministerial kicks off in Chapel Hill with AI, emerging technology as centerpieces of discussion The Daily Tar Heel",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5VU3JNYmZjX0dLd2xkdXlmNDVtdVU0MU9EeEVrOWZueEF5UkF0R3hsWTdLVzBHOVFKU2dlMlNMandTdDd5dWE2c05nQ2tJS2QzdDA4ZGd5aWpkSUdKYU5ra0t0NlNqZTA4ZmZDemY1cVhjQ1Nw?oc=5\" target=\"_blank\">G20 Innovation Ministerial kicks off in Chapel Hill with AI, emerging technology as centerpieces of discussion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Tar Heel</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VU3JNYmZjX0dLd2xkdXlmNDVtdVU0MU9EeEVrOWZueEF5UkF0R3hsWTdLVzBHOVFKU2dlMlNMandTdDd5dWE2c05nQ2tJS2QzdDA4ZGd5aWpkSUdKYU5ra0t0NlNqZTA4ZmZDemY1cVhjQ1Nw?oc=5"
-      ],
-      "scraped_at": "2026-09-02T05:24:24Z",
-      "url": "https://dailytarheel.com/480187/university/university-g20-event-1/",
-      "final_url": "https://dailytarheel.com/480187/university/university-g20-event-1/",
-      "source": "The Daily Tar Heel",
-      "article_title": "G20 Innovation Ministerial kicks off in Chapel Hill with AI, emerging technology as centerpieces of discussion",
-      "heading": "The Daily Tar Heel",
-      "authors": [
-        "Ragan Huntsman"
-      ],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Guest speakers like Elon Musk, Mark Zuckerberg and David Sachs discuss AI boosting global economies — and a new industrial revolution.",
-      "content": "The G20 Innovation Ministerial kicked off this Tuesday in Chapel Hill, with science and technology ministers from the world’s most powerful economies gathering at the Carolina Inn to discuss the future of technology-driven growth.\nMichael Kratsios, President Donald Trump’s science and technology advisor, opened with an overview of the two-day event’s mission: to share best practices and shape the future of technology-driven growth for global economies. He also unveiled the “Carolina Principles for Emerging Technology,” a framework that the G20 Innovation Working Group has finalized over the past several months.\nKratsious said that North Carolina being home to the Research Triangle, the first public university and being the “first in flight” made Chapel Hill the right place to host these conversations.\nThe event has culminated in an increased security presence and community opposition to the speakers, which has led to planned protests throughout the week.\nIn adopting the Carolina Principles, Kratsios said that G20 members commit to three general goals: investing in foundational research to accelerate discovery, strengthening development and commercialization pathways, driving trusted adoption and deployment by applying existing sector-specific rules where appropriate — reserving new regulation for novel considerations.\nKratsios mentioned that these principles don’t require countries to harmonize their legal systems or standardize regulatory institutions across nations. He said that every country will have its own approach in supporting discovery, development and deployment, but these shared principles will help G20 ministers to fully realize the benefits of technology for their people.\n“As many of you know, AI is transforming so many parts of our economies. But I think one area that is underreported and one that we’ll be stressing today is AI for scientific discovery,” Kratsios said. “Applying artificial intelligence to material science, chemistry, math, physics — that is where the greatest breakthroughs are going to happen in the next five to 10 years, and that is where we can show the biggest impact to our people.”\n‘Stockfish-level good’: Elon Musk discusses the future of artificial intelligence software\nAppearing virtually as the event’s first guest speaker, Tesla and SpaceX CEO and OpenAI co-founder Elon Musk told ministers that countries should expect to continue seeing significant productivity gains from digital AI and emerging humanoid robotics. Scaling this gain, he estimated that AI will increase the total global economy by 20 to 30 percent, meaning about $20 to $30 trillion per year.\nMusk added that by the end of next year, AI will likely be able to do anything digital that doesn’t require the “shaping of atoms by hand”. He referred to this level of AI as “Stockfish-level good,” pointing to the powerful Stockfish chess engine, which can easily beat the world’s best chess players. He said that this software will be so advanced that it will be “impossible for a human to compete in writing software with AI.”\nUsing this AI software alongside powerful chips and electromechanical dexterity, Musk said that humanoid robotics will grow at an explosive rate.\n“This is one I would be willing to put serious money betting on, that there will be at least a billion robots in 10 years, and that those robots will be at least five times the output of a human,” Musk said. “Meaning that a billion humanoid robots will be more productive than all humans combined.”\nMusk’s closing message concerned electricity. Regarding data centers, he told ministers that industry consensus points to a power shortfall of roughly 15 gigawatts in 2027, saying “there actually is quite a crisis of power” because AI chip production is growing far faster than electricity supply can keep up with. He said that the gap is already severe enough that SpaceX built its own power plants to run AI infrastructure.\n‘It’s a new industrial revolution’: Leaders talk upgrading power\nDavid Sacks, former White House “AI Czar” and co-chair of the President’s Council of Advisors on Science and Technology, also attended virtually. Sacks pointed to roughly $800 billion being invested in the United States’ AI capacity this year. Sacks added he expects that number to rise to $1.4 trillion next year.\n“It’s a new industrial revolution, and I think that if we harness this correctly, it’s an opportunity for the U.S. to reindustrialize, to upgrade its power grid, to bring back some manufacturing in these cutting-edge areas, which has been a priority of President Trump,” Sacks said.\nBob Mumgaard, CEO of Commonwealth Fusion Systems, discussed accelerating development timelines in physical technology sectors via video call. He emphasized that tools like large-scale computing, AI, and advanced materials allow for much faster progress than previously possible, and said that if AI companies are allowed to generate their own power, they can contribute excess electricity back to local residents and decrease electrical prices for residents.\nHe said his company is transitioning from completing a facility in Massachusetts to starting construction on its first commercial power plant in Virginia.\nVirtual speaker Demis Hassabis, chairman and co-founder of Google DeepMind, said with the aid of AI tools like AlphaFold, the drug discovery process can be shortened from the span of years to months, and maybe even one day.\n‘Hands of billions of people’: Mark Zuckerberg talk AI empowerment\nMark Zuckerberg, founder, chairman and CEO of Meta, joined virtually. He said his philosophy is made up of three principles: empowering individuals as a source of prosperity, using AI and superintelligence for invention — not automation — and having technology diffused into a system of checks and balances.\n“We’re working on agents at Meta that we want to put in the hands of billions of people, where they just understand your goals and can work 24/7 on your behalf to help you achieve them,” Zuckerberg said.\nThe final virtual speaker of the day was Michael Crow, president of Arizona State University, who talked through how ASU is rethinking higher education to keep pace with rapid industrial transformation. He said that AI has been an “unbelievably empowering” force used to accelerate, enhance and deepen learning.\nDay 2 of the G20 Innovation Ministerial will take place on Wednesday, and will include fireside chats with Secretary of Commerce Howard Lutnick, OpenAI’s Sam Altman and NVIDIA’s Jensen Huang at the Carolina Inn.",
-      "content_html": "<html>\n  <body>\n    <p>The G20 Innovation Ministerial kicked off this Tuesday in Chapel Hill, with science and technology ministers from the world’s most powerful economies gathering at the Carolina Inn to discuss the future of technology-driven growth.</p>\n    <p>Michael Kratsios, President Donald Trump’s science and technology advisor, opened with an overview of the two-day event’s mission: to share best practices and shape the future of technology-driven growth for global economies. He also unveiled the “Carolina Principles for Emerging Technology,” a framework that the G20 Innovation Working Group has finalized over the past several months.</p>\n    <p>Kratsious said that North Carolina being home to the Research Triangle, the first public university and being the “first in flight” made Chapel Hill the right place to host these conversations.</p>\n    <p>The event has culminated in an increased security presence and community opposition to the speakers, which has led to planned protests throughout the week.</p>\n    <p>In adopting the Carolina Principles, Kratsios said that G20 members commit to three general goals: investing in foundational research to accelerate discovery, strengthening development and commercialization pathways, driving trusted adoption and deployment by applying existing sector-specific rules where appropriate — reserving new regulation for novel considerations.</p>\n    <p>Kratsios mentioned that these principles don’t require countries to harmonize their legal systems or standardize regulatory institutions across nations. He said that every country will have its own approach in supporting discovery, development and deployment, but these shared principles will help G20 ministers to fully realize the benefits of technology for their people.</p>\n    <p>“As many of you know, AI is transforming so many parts of our economies. But I think one area that is underreported and one that we’ll be stressing today is AI for scientific discovery,” Kratsios said. “Applying artificial intelligence to material science, chemistry, math, physics — that is where the greatest breakthroughs are going to happen in the next five to 10 years, and that is where we can show the biggest impact to our people.”</p>\n    <p>‘Stockfish-level good’: Elon Musk discusses the future of artificial intelligence software</p>\n    <p>Appearing virtually as the event’s first guest speaker, Tesla and SpaceX CEO and OpenAI co-founder Elon Musk told ministers that countries should expect to continue seeing significant productivity gains from digital AI and emerging humanoid robotics. Scaling this gain, he estimated that AI will increase the total global economy by 20 to 30 percent, meaning about $20 to $30 trillion per year.</p>\n    <p>Musk added that by the end of next year, AI will likely be able to do anything digital that doesn’t require the “shaping of atoms by hand”. He referred to this level of AI as “Stockfish-level good,” pointing to the powerful Stockfish chess engine, which can easily beat the world’s best chess players. He said that this software will be so advanced that it will be “impossible for a human to compete in writing software with AI.”</p>\n    <p>Using this AI software alongside powerful chips and electromechanical dexterity, Musk said that humanoid robotics will grow at an explosive rate.</p>\n    <p>“This is one I would be willing to put serious money betting on, that there will be at least a billion robots in 10 years, and that those robots will be at least five times the output of a human,” Musk said. “Meaning that a billion humanoid robots will be more productive than all humans combined.”</p>\n    <p>Musk’s closing message concerned electricity. Regarding data centers, he told ministers that industry consensus points to a power shortfall of roughly 15 gigawatts in 2027, saying “there actually is quite a crisis of power” because AI chip production is growing far faster than electricity supply can keep up with. He said that the gap is already severe enough that SpaceX built its own power plants to run AI infrastructure.</p>\n    <p>‘It’s a new industrial revolution’: Leaders talk upgrading power</p>\n    <p>David Sacks, former White House “AI Czar” and co-chair of the President’s Council of Advisors on Science and Technology, also attended virtually. Sacks pointed to roughly $800 billion being invested in the United States’ AI capacity this year. Sacks added he expects that number to rise to $1.4 trillion next year.</p>\n    <p>“It’s a new industrial revolution, and I think that if we harness this correctly, it’s an opportunity for the U.S. to reindustrialize, to upgrade its power grid, to bring back some manufacturing in these cutting-edge areas, which has been a priority of President Trump,” Sacks said.</p>\n    <p>Bob Mumgaard, CEO of Commonwealth Fusion Systems, discussed accelerating development timelines in physical technology sectors via video call. He emphasized that tools like large-scale computing, AI, and advanced materials allow for much faster progress than previously possible, and said that if AI companies are allowed to generate their own power, they can contribute excess electricity back to local residents and decrease electrical prices for residents.</p>\n    <p>He said his company is transitioning from completing a facility in Massachusetts to starting construction on its first commercial power plant in Virginia.</p>\n    <p>Virtual speaker Demis Hassabis, chairman and co-founder of Google DeepMind, said with the aid of AI tools like AlphaFold, the drug discovery process can be shortened from the span of years to months, and maybe even one day.</p>\n    <p>‘Hands of billions of people’: Mark Zuckerberg talk AI empowerment</p>\n    <p>Mark Zuckerberg, founder, chairman and CEO of Meta, joined virtually. He said his philosophy is made up of three principles: empowering individuals as a source of prosperity, using AI and superintelligence for invention — not automation — and having technology diffused into a system of checks and balances.</p>\n    <p>“We’re working on agents at Meta that we want to put in the hands of billions of people, where they just understand your goals and can work 24/7 on your behalf to help you achieve them,” Zuckerberg said.</p>\n    <p>The final virtual speaker of the day was Michael Crow, president of Arizona State University, who talked through how ASU is rethinking higher education to keep pace with rapid industrial transformation. He said that AI has been an “unbelievably empowering” force used to accelerate, enhance and deepen learning.</p>\n    <p>Day 2 of the G20 Innovation Ministerial will take place on Wednesday, and will include fireside chats with Secretary of Commerce Howard Lutnick, OpenAI’s Sam Altman and NVIDIA’s Jensen Huang at the Carolina Inn.</p>\n  </body>\n</html>",
-      "word_count": 1026,
-      "char_count": 6544,
-      "lead_image": "https://dailytarheel.com/wp-content/uploads/2026/09/20260901_Ruesch_university-g20-conference-day1-7.jpg",
-      "images": [
-        {
-          "url": "https://dailytarheel.com/wp-content/uploads/2026/09/20260901_Ruesch_university-g20-conference-day1-7.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-02T05:24:24Z"
     }
   ]
 }
