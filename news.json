@@ -1,17 +1,71 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-10T23:41:42Z",
+  "generated_at": "2026-09-11T02:48:33Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 12,
-    "added": 7,
-    "updated": 5,
-    "ok": 388,
-    "failed": 112,
-    "duration_seconds": 101.43
+    "scraped_now": 11,
+    "added": 5,
+    "updated": 6,
+    "ok": 390,
+    "failed": 110,
+    "duration_seconds": 101.44
   },
   "articles": [
+    {
+      "id": "9d8d873eb433ecbf",
+      "title": "Advances in cataract lens technology offers more options for vision correction",
+      "header": "ABC30 Fresno",
+      "published_at": "2026-09-11T01:30:19Z",
+      "published_raw": "Fri, 11 Sep 2026 01:30:19 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUpsakNTZEJ2bWV0UFdHMmJ0YVBhNUhjM1JESkFpczRhbHNDVUFKeHhES05Ha25fbzBBcjJEX09JVnpWRzVlcjl5Zmt4YzhXWmQ5SXc3czg4SlI4OFNld2ZUNDdXei03S2hQc0p0U3Q4dGdIX2xiS0lBa0VyTi1mUG95RnUzb2U3NHY0aDFzYjlpSzh1Z3VOQzBfaEF5WXlWX3NILWJaUdIBrAFBVV95cUxOUGhLVHBJOTUwVkdPcWkzUnhuRFJsd0xrTklDeFJ1M3daazNoTW1kU19KQU9QczFOSnF2TmM4bklxbG80Tkh3emNXdnZIZW9BaklxR05HbWoyMzhNYzZEdkhncGNqa1lLVjVMMlY2SURCVGZ4TlhxTUlTN0o5d1F3NWtLckREOUFYWXFNRl9lSWhtWE9sX1pKcFk1aWwwUUI1Z2lsczh5MnhsaDZf?oc=5",
+      "description": "Advances in cataract lens technology offers more options for vision correction ABC30 Fresno",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUpsakNTZEJ2bWV0UFdHMmJ0YVBhNUhjM1JESkFpczRhbHNDVUFKeHhES05Ha25fbzBBcjJEX09JVnpWRzVlcjl5Zmt4YzhXWmQ5SXc3czg4SlI4OFNld2ZUNDdXei03S2hQc0p0U3Q4dGdIX2xiS0lBa0VyTi1mUG95RnUzb2U3NHY0aDFzYjlpSzh1Z3VOQzBfaEF5WXlWX3NILWJaUdIBrAFBVV95cUxOUGhLVHBJOTUwVkdPcWkzUnhuRFJsd0xrTklDeFJ1M3daazNoTW1kU19KQU9QczFOSnF2TmM4bklxbG80Tkh3emNXdnZIZW9BaklxR05HbWoyMzhNYzZEdkhncGNqa1lLVjVMMlY2SURCVGZ4TlhxTUlTN0o5d1F3NWtLckREOUFYWXFNRl9lSWhtWE9sX1pKcFk1aWwwUUI1Z2lsczh5MnhsaDZf?oc=5\" target=\"_blank\">Advances in cataract lens technology offers more options for vision correction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC30 Fresno</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUpsakNTZEJ2bWV0UFdHMmJ0YVBhNUhjM1JESkFpczRhbHNDVUFKeHhES05Ha25fbzBBcjJEX09JVnpWRzVlcjl5Zmt4YzhXWmQ5SXc3czg4SlI4OFNld2ZUNDdXei03S2hQc0p0U3Q4dGdIX2xiS0lBa0VyTi1mUG95RnUzb2U3NHY0aDFzYjlpSzh1Z3VOQzBfaEF5WXlWX3NILWJaUdIBrAFBVV95cUxOUGhLVHBJOTUwVkdPcWkzUnhuRFJsd0xrTklDeFJ1M3daazNoTW1kU19KQU9QczFOSnF2TmM4bklxbG80Tkh3emNXdnZIZW9BaklxR05HbWoyMzhNYzZEdkhncGNqa1lLVjVMMlY2SURCVGZ4TlhxTUlTN0o5d1F3NWtLckREOUFYWXFNRl9lSWhtWE9sX1pKcFk1aWwwUUI1Z2lsczh5MnhsaDZf?oc=5"
+      ],
+      "scraped_at": "2026-09-11T02:46:54Z",
+      "url": "https://abc30.com/post/advances-cataract-lens-technology-offers-more-options-vision-correction/19816389/",
+      "final_url": "https://abc30.com/post/advances-cataract-lens-technology-offers-more-options-vision-correction/19816389/",
+      "source": "ABC30 Fresno",
+      "article_title": "Advances in cataract lens technology offers more options for vision correction",
+      "heading": "Advances in cataract lens technology offers more options for vision correction",
+      "authors": [
+        "Danyelle Burke North"
+      ],
+      "article_published_at": "2026-09-11T01:28:30Z",
+      "article_modified_at": "2026-09-11T01:28:31Z",
+      "summary": "As cataract treatment continues to evolve, patients now have more lens implant options than ever before.",
+      "content": "Friday, September 11, 2026 1:28AM\nMERCED, Calif. (KFSN) -- More than half of all Americans age 80 or older either have cataracts or have had surgery to remove them, according to the National Eye Institute.\nAs cataract treatment continues to evolve, patients now have more lens implant options than ever before.\nDr. Kelley Hawkins, an ophthalmologist with EYE-Q Vision Care, said cataracts develop when the eye's natural lens becomes cloudy with age.\n\"When we're born, the lens is kind of a clear jelly-like material,\" Dr. Hawkins said.\nAs people get older, the lens can become cloudier, denser or more brown in color. Dr. Hawkins said cataracts typically begin developing around age 60 and progress over time.\n\"For most people, it starts at the age of 60 and kind of progresses over time. The average age for cataract surgery is 65 to 75 years old,\" Dr. Hawkins said.\nCommon cataract symptoms include blurry, cloudy or foggy vision, glare around lights and colors appearing faded.\nDuring cataract surgery, doctors make a small incision through the cornea to remove the cloudy lens.\n\"Once inside, we actually use an ultrasound device to break the cataract into pieces and safely remove it from the eye. Once the cataracts out, the eye needs a lens to see. So we actually put an implant inside of the eye, and that's that intraocular lens,\" Dr. Hawkins said.\nDr. Hawkins said patients now have several choices when it comes to lens implants. One option is a monofocal lens, which is designed to provide clear vision at a single fixed distance.\n\"Most people want that to be far away, but some of my nearsighted folks choose up close with that lens. It's going to improve the vision, but you're still going to need glasses for either the distance or for up close,\" Dr. Hawkins said.\nAnother option is a multifocal lens, which can reduce a patient's dependence on glasses by providing vision at multiple distances.\n\"This lens implant gives distance vision, intermediate, and some near, kind of like our progressive glasses do,\" said Dr. Hawkins. \"What really excites me is kind of this newer technology that we have for cataract surgery, this light adjustable lens.\"\nDr. Hawkins said the light adjustable lens is implanted during cataract surgery like other intraocular lenses. After recovery, patients return about a month later for adjustments designed to further refine their vision.\n\"Essentially, to dial in the vision is as close to perfect as possible. It just makes it customizable to every patient. Once you find your happy place, we actually lock this lens in, and then it stays like that for hopefully as long as possible,\" Dr. Hawkins said.\nDr. Hawkins also highlighted what she described as the relatively easy recovery process following cataract surgery.\n\"On average, it takes a few days for the vision to recover, even up to a week, and that's normal. Most patients have some mild irritation in the eye after surgery. That's expected. Severe pain and things like that are very unlikely,\" Dr. Hawkins said.\nPatients considering cataract surgery should discuss the available lens options with their eye care provider to determine which choice best fits their vision needs and lifestyle goals.\nFor news updates, follow Danyelle Burke North on Instagram and TikTok.\nCopyright © 2026 KFSN-TV. All Rights Reserved.",
+      "content_html": "<html>\n  <body>\n    <p>MERCED, Calif. (KFSN) -- More than half of all Americans age 80 or older either have cataracts or have had surgery to remove them, according to the National Eye Institute.</p>\n    <p>As cataract treatment continues to evolve, patients now have more lens implant options than ever before.</p>\n    <p>Dr. Kelley Hawkins, an ophthalmologist with EYE-Q Vision Care, said cataracts develop when the eye's natural lens becomes cloudy with age.</p>\n    <p>\"When we're born, the lens is kind of a clear jelly-like material,\" Dr. Hawkins said.</p>\n    <p>As people get older, the lens can become cloudier, denser or more brown in color. Dr. Hawkins said cataracts typically begin developing around age 60 and progress over time.</p>\n    <p>\"For most people, it starts at the age of 60 and kind of progresses over time. The average age for cataract surgery is 65 to 75 years old,\" Dr. Hawkins said.</p>\n    <p>Common cataract symptoms include blurry, cloudy or foggy vision, glare around lights and colors appearing faded.</p>\n    <p>During cataract surgery, doctors make a small incision through the cornea to remove the cloudy lens.</p>\n    <p>\"Once inside, we actually use an ultrasound device to break the cataract into pieces and safely remove it from the eye. Once the cataracts out, the eye needs a lens to see. So we actually put an implant inside of the eye, and that's that intraocular lens,\" Dr. Hawkins said.</p>\n    <p>Dr. Hawkins said patients now have several choices when it comes to lens implants. One option is a monofocal lens, which is designed to provide clear vision at a single fixed distance.</p>\n    <p>\"Most people want that to be far away, but some of my nearsighted folks choose up close with that lens. It's going to improve the vision, but you're still going to need glasses for either the distance or for up close,\" Dr. Hawkins said.</p>\n    <p>Another option is a multifocal lens, which can reduce a patient's dependence on glasses by providing vision at multiple distances.</p>\n    <p>\"This lens implant gives distance vision, intermediate, and some near, kind of like our progressive glasses do,\" said Dr. Hawkins. \"What really excites me is kind of this newer technology that we have for cataract surgery, this light adjustable lens.\"</p>\n    <p>Dr. Hawkins said the light adjustable lens is implanted during cataract surgery like other intraocular lenses. After recovery, patients return about a month later for adjustments designed to further refine their vision.</p>\n    <p>\"Essentially, to dial in the vision is as close to perfect as possible. It just makes it customizable to every patient. Once you find your happy place, we actually lock this lens in, and then it stays like that for hopefully as long as possible,\" Dr. Hawkins said.</p>\n    <p>Dr. Hawkins also highlighted what she described as the relatively easy recovery process following cataract surgery.</p>\n    <p>\"On average, it takes a few days for the vision to recover, even up to a week, and that's normal. Most patients have some mild irritation in the eye after surgery. That's expected. Severe pain and things like that are very unlikely,\" Dr. Hawkins said.</p>\n    <p>Patients considering cataract surgery should discuss the available lens options with their eye care provider to determine which choice best fits their vision needs and lifestyle goals.</p>\n    <p>For news updates, follow Danyelle Burke North on Instagram and TikTok.</p>\n  </body>\n</html>",
+      "word_count": 551,
+      "char_count": 3317,
+      "lead_image": "https://cdn.abcotvs.com/dip/images/19817590_091026-kfsn-cataract-vision-tech.jpg?w=1600",
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/19817590_091026-kfsn-cataract-vision-tech.jpg?w=1600",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/18892743_041526-kfsn-danyelle-burke-north-bio-img.png",
+          "alt": "Danyelle Burke North Image",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://cdn.abcotvs.net/abcotv/static/common/origins/origin-kfsn.png",
+          "alt": "KFSN logo",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 3,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-11T02:46:54Z"
+    },
     {
       "id": "a751c86f800d3f83",
       "title": "Visualizing Joc Pederson's swing using bat tracking technology",
@@ -135,6 +189,40 @@
       "first_seen_at": "2026-09-10T23:40:03Z"
     },
     {
+      "id": "b578e8f34f59d135",
+      "title": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?",
+      "header": "The New York Times",
+      "published_at": "2026-09-10T21:58:48Z",
+      "published_raw": "Thu, 10 Sep 2026 21:58:48 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw?oc=5",
+      "description": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That? The New York Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw?oc=5\" target=\"_blank\">A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw?oc=5"
+      ],
+      "scraped_at": "2026-09-11T02:46:53Z",
+      "url": "https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html",
+      "final_url": "https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html",
+      "source": "The New York Times",
+      "article_title": "",
+      "heading": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That? The New York Times",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-11T02:46:53Z"
+    },
+    {
       "id": "8d02cd976310e15f",
       "title": "AI researchers issue major warning on technology as leaders call for safeguards",
       "header": "WLWT",
@@ -206,7 +294,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3FFQWxYZlVVNm96ZlhRanFYSEQ1RTlLYUg1M2NGTUwwNXJEcUVFMHhyZTU0UU9uaGxrNTd2NlZJcUE2Y2RUbG5lcDk0Q1ljQVY3T2ROaGZUWlNaRDNpNlhESE16LWw5RV8yN2dTeWkyai0yTDAxb3lWZG8tRVB1MVFrQWdzZGRFWGkxY0JrMm5MYnVHMWZsc0RBV2RvWWl2X1hsMFAxUVA3bExjX0NFRlAyVEo?oc=5"
       ],
-      "scraped_at": "2026-09-10T23:40:01Z",
+      "scraped_at": "2026-09-11T02:46:53Z",
       "url": "https://www.bloomberg.com/news/articles/2026-09-10/south-korea-ramps-up-spy-law-to-protect-chip-secrets-from-china",
       "final_url": "https://www.bloomberg.com/news/articles/2026-09-10/south-korea-ramps-up-spy-law-to-protect-chip-secrets-from-china",
       "source": "Bloomberg.com",
@@ -230,26 +318,26 @@
     },
     {
       "id": "d3fffd3c3f34bfb6",
-      "title": "Apple’s New iPhone Duo Is Here. How Do Consumer Technology Journalists Review It?",
+      "title": "Apple’s New Foldable iPhone Is Here. How Do We Review It?",
       "header": "The New York Times",
       "published_at": "2026-09-10T20:49:55Z",
       "published_raw": "Thu, 10 Sep 2026 20:49:55 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnRrNENyY05jSE94SjhGQzJ3X1VXcnQzTjBNTFlRcnBoZUlnUkZsYmozTzc3YjJPOFBFOERFUnFsNzFicE9seFMtNm9KOGQycmxVUTVDZldiOTZ3bi1QcS1RRUFNMVJrQXp1ell6bVQ3dGlId3Z4ZjVWTENaNmt6cEpGLUgzQzFkSzVjd3JjT3hTZkk?oc=5",
-      "description": "Apple’s New iPhone Duo Is Here. How Do Consumer Technology Journalists Review It? The New York Times",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnRrNENyY05jSE94SjhGQzJ3X1VXcnQzTjBNTFlRcnBoZUlnUkZsYmozTzc3YjJPOFBFOERFUnFsNzFicE9seFMtNm9KOGQycmxVUTVDZldiOTZ3bi1QcS1RRUFNMVJrQXp1ell6bVQ3dGlId3Z4ZjVWTENaNmt6cEpGLUgzQzFkSzVjd3JjT3hTZkk?oc=5\" target=\"_blank\">Apple’s New iPhone Duo Is Here. How Do Consumer Technology Journalists Review It?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description": "Apple’s New Foldable iPhone Is Here. How Do We Review It? The New York Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnRrNENyY05jSE94SjhGQzJ3X1VXcnQzTjBNTFlRcnBoZUlnUkZsYmozTzc3YjJPOFBFOERFUnFsNzFicE9seFMtNm9KOGQycmxVUTVDZldiOTZ3bi1QcS1RRUFNMVJrQXp1ell6bVQ3dGlId3Z4ZjVWTENaNmt6cEpGLUgzQzFkSzVjd3JjT3hTZkk?oc=5\" target=\"_blank\">Apple’s New Foldable iPhone Is Here. How Do We Review It?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnRrNENyY05jSE94SjhGQzJ3X1VXcnQzTjBNTFlRcnBoZUlnUkZsYmozTzc3YjJPOFBFOERFUnFsNzFicE9seFMtNm9KOGQycmxVUTVDZldiOTZ3bi1QcS1RRUFNMVJrQXp1ell6bVQ3dGlId3Z4ZjVWTENaNmt6cEpGLUgzQzFkSzVjd3JjT3hTZkk?oc=5"
       ],
-      "scraped_at": "2026-09-10T23:40:03Z",
+      "scraped_at": "2026-09-11T02:46:54Z",
       "url": "https://www.nytimes.com/2026/09/10/insider/apple-iphone-duo-tech-reviews-journalists.html",
       "final_url": "https://www.nytimes.com/2026/09/10/insider/apple-iphone-duo-tech-reviews-journalists.html",
       "source": "The New York Times",
       "article_title": "",
-      "heading": "Apple’s New iPhone Duo Is Here. How Do Consumer Technology Journalists Review It?",
+      "heading": "Apple’s New Foldable iPhone Is Here. How Do We Review It?",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
-      "summary": "Apple’s New iPhone Duo Is Here. How Do Consumer Technology Journalists Review It? The New York Times",
+      "summary": "Apple’s New Foldable iPhone Is Here. How Do We Review It? The New York Times",
       "content": "",
       "content_html": "",
       "word_count": 0,
@@ -401,6 +489,46 @@
       "first_seen_at": "2026-09-10T21:21:47Z"
     },
     {
+      "id": "8365e1d207eea843",
+      "title": "5 backend technology priorities for peak retail events",
+      "header": "cio.com",
+      "published_at": "2026-09-10T19:43:57Z",
+      "published_raw": "Thu, 10 Sep 2026 19:43:57 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVXNQRnlHZVhvd2hsSGJTUFZyTGtxQXdkWFJoQ1RRYk1SbEVCQXlaRGVWbDdTR0VKLTMyOFhHNDBkWGZ3OVdCSTBDVU9hVzlWV01oS3hCb3NEck5maGxHQ1p4dXo5MDFHUHhGRkd6RG9BdF9PVHJWWWJmZFdtZ1dxMG9FYlBuN01fQjJEYnZuRTZLeVdKR0V3RTVOdw?oc=5",
+      "description": "5 backend technology priorities for peak retail events cio.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOVXNQRnlHZVhvd2hsSGJTUFZyTGtxQXdkWFJoQ1RRYk1SbEVCQXlaRGVWbDdTR0VKLTMyOFhHNDBkWGZ3OVdCSTBDVU9hVzlWV01oS3hCb3NEck5maGxHQ1p4dXo5MDFHUHhGRkd6RG9BdF9PVHJWWWJmZFdtZ1dxMG9FYlBuN01fQjJEYnZuRTZLeVdKR0V3RTVOdw?oc=5\" target=\"_blank\">5 backend technology priorities for peak retail events</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cio.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVXNQRnlHZVhvd2hsSGJTUFZyTGtxQXdkWFJoQ1RRYk1SbEVCQXlaRGVWbDdTR0VKLTMyOFhHNDBkWGZ3OVdCSTBDVU9hVzlWV01oS3hCb3NEck5maGxHQ1p4dXo5MDFHUHhGRkd6RG9BdF9PVHJWWWJmZFdtZ1dxMG9FYlBuN01fQjJEYnZuRTZLeVdKR0V3RTVOdw?oc=5"
+      ],
+      "scraped_at": "2026-09-11T02:46:54Z",
+      "url": "https://www.cio.com/article/4220907/5-backend-technology-priorities-for-peak-retail-events.html",
+      "final_url": "https://www.cio.com/article/4220907/5-backend-technology-priorities-for-peak-retail-events.html",
+      "source": "CIO",
+      "article_title": "5 backend technology priorities for peak retail events",
+      "heading": "5 backend technology priorities for peak retail events",
+      "authors": [],
+      "article_published_at": "2026-09-10T19:37:43-07:00",
+      "article_modified_at": "2026-09-10T12:41:25-07:00",
+      "summary": "The holiday shopping season puts inventory, fulfillment, and transaction systems to the test. Here’s where technology leaders should focus.",
+      "content": "The holiday shopping season puts inventory, fulfillment, and transaction systems to the test. Here’s where technology leaders should focus.\nPeak retail events, from Amazon Prime Day and Labor Day promotions to Black Friday and Cyber Monday, compress months of retail activity into a matter of days. The margin for error is small: Rocket Software research found that 55% of consumers would switch brands after one or two failed transactions, including 12% who would leave immediately.\nThat makes the holiday shopping season a valuable test of a retailer’s technology foundation. Systems need to keep pace as demand accelerates because performance shapes both revenue and customer confidence. In the same survey, 84% of consumers said knowing a company uses modern, secure technology would make them more confident doing business with it.\nMany clients are taking an incremental approach to modernization, strengthening existing systems while building on the technology investments already supporting core operations. Peak shopping events provide an opportunity to evaluate whether those modernization efforts are delivering the operational outcomes the business expects.\nWhat should retailers prioritize to prepare backend technology for peak shopping events?\n1. Strengthen inventory visibility and data accuracy\nInventory is often one of the first places where cracks begin to show when demand accelerates. A distribution center may mark an item as sold while the ecommerce site still shows it in stock, creating problems that extend well beyond a missed sale. Teams shift their attention from serving customers to reconciling data, and decisions become harder when every minute counts. What seems like a minor discrepancy during a typical week can quickly become an operational issue when inventory is moving across channels at a much faster pace.\nWe encourage clients to think about inventory confidence as a business capability, especially as demand shifts throughout the day. Maintaining a trusted view of inventory across the retail ecosystem gives teams the information they need to act decisively, rather than spending valuable time determining which system has the correct answer.\n2. Improve backend resilience across retail systems\nHigh-volume shopping periods test how well systems work together under pressure. For many, that means coordinating modern digital experiences with core transaction systems that have processed the business for decades. Delays that begin in one part of the technology ecosystem can ripple outward, affecting business operations long before anyone identifies the source.\nMany clients are extending existing platforms while introducing new applications alongside them. That makes visibility across both legacy and modern environments increasingly important, especially as data and transactions move between them. Understanding those dependencies before traffic begins to climb gives technology teams a clearer picture of where friction is most likely to emerge.\nCritical business processes have to continue even while teams isolate the issue and restore normal performance. The retailers we work with are focused on understanding how their technology landscape behaves under sustained demand so they can respond with greater confidence while keeping the customer experience uninterrupted.\n3. Maintain reliable transaction processing\nCheckout often receives the most attention during the holiday shopping season, but the transaction itself is only one point in a much longer chain of business processes.\nDuring peak demand, retailers rely on coordinated performance across:\n- Pricing\n- Payment processing\n- Fraud detection\n- Order management\n- Inventory systems\nWhen one part of that flow slows, the effects are felt well beyond checkout, influencing everything from conversion to fulfillment.\nOnce transactions begin to slow, recovery becomes increasingly difficult. Dependencies that normally operate in the background can quickly become bottlenecks, making it harder for teams to keep orders moving as demand continues to build. An end-to-end view of transaction performance reveals where dependencies create friction, giving technology teams a better opportunity to resolve issues before customers notice them.\n4. Increase end-to-end supply chain visibility\nThe work doesn’t stop at checkout. It continues through the fulfillment process, where changing conditions can affect delivery timelines long after a purchase is complete. A delay in one area can quickly affect decisions elsewhere, especially when inventory and orders move at a much faster pace.\nSupply chain visibility gives teams the context they need to respond as conditions evolve. Visibility creates time to act, so when teams can see where operations are beginning to slow, they can make adjustments before disruptions become customer-facing. During peak retail events, that level of visibility supports steadier execution across the business.\n5. Turn observability into faster operational decisions\nPeak retail events generate an extraordinary volume of operational data. The priority is identifying the signals that explain what’s happening across the business while there’s still time to respond. Performance metrics become far more meaningful when they’re viewed in the context of business operations.\nThat broader context helps teams distinguish between routine fluctuations and issues that require immediate attention. It also provides a clearer understanding of how systems perform under sustained demand, giving technology leaders practical insights they can apply before the next shopping season.\nHow ready is your retail operation?\nBlack Friday and Cyber Monday may span only a few days, yet they provide one of the clearest measures of operational readiness. By the time holiday traffic begins to surge, most of the important work has already been done. Readiness is reflected in the reliability of the technology ecosystem and the confidence teams have in the information guiding their decisions.\nIn our work with clients, these priorities extend well beyond the holiday shopping season. They reflect the capabilities organizations are investing in to modernize at a sustainable pace while continuing to rely on proven core systems. That means extending the value of proven core technologies while integrating new capabilities that improve agility without disrupting the systems the business depends on.\nSee how Rocket Software helped a U.S.-based POS provider deliver more efficient, secure retail payment experiences.",
+      "content_html": "<html>\n  <body><h2>The holiday shopping season puts inventory, fulfillment, and transaction systems to the test. Here’s where technology leaders should focus.</h2><img src=\"https://www.cio.com/wp-content/uploads/2026/09/4220907-0-08049100-1789069364-shutterstock_2558563237.jpg?quality=50&amp;strip=all&amp;w=1024\"/>\t\t\t\t\t<p>Peak retail events, from Amazon Prime Day and Labor Day promotions to Black Friday and Cyber Monday, compress months of retail activity into a matter of days. The margin for error is small: Rocket Software research found that 55% of consumers would switch brands after one or two failed transactions, including 12% who would leave immediately.</p><p>That makes the holiday shopping season a valuable test of a retailer’s technology foundation. Systems need to keep pace as demand accelerates because performance shapes both revenue and customer confidence. In the same survey, 84% of consumers said knowing a company uses modern, secure technology would make them more confident doing business with it.</p><p>Many clients are taking an incremental approach to modernization, strengthening existing systems while building on the technology investments already supporting core operations. Peak shopping events provide an opportunity to evaluate whether those modernization efforts are delivering the operational outcomes the business expects.</p><p>What should retailers prioritize to prepare backend technology for peak shopping events?</p><p>1. Strengthen inventory visibility and data accuracy</p><p>Inventory is often one of the first places where cracks begin to show when demand accelerates. A distribution center may mark an item as sold while the ecommerce site still shows it in stock, creating problems that extend well beyond a missed sale. Teams shift their attention from serving customers to reconciling data, and decisions become harder when every minute counts. What seems like a minor discrepancy during a typical week can quickly become an operational issue when inventory is moving across channels at a much faster pace.</p><p>We encourage clients to think about inventory confidence as a business capability, especially as demand shifts throughout the day. Maintaining a trusted view of inventory across the retail ecosystem gives teams the information they need to act decisively, rather than spending valuable time determining which system has the correct answer.</p><p>2. Improve backend resilience across retail systems</p><p>High-volume shopping periods test how well systems work together under pressure. For many, that means coordinating modern digital experiences with core transaction systems that have processed the business for decades. Delays that begin in one part of the technology ecosystem can ripple outward, affecting business operations long before anyone identifies the source.</p><p>Many clients are extending existing platforms while introducing new applications alongside them. That makes visibility across both legacy and modern environments increasingly important, especially as data and transactions move between them. Understanding those dependencies before traffic begins to climb gives technology teams a clearer picture of where friction is most likely to emerge.</p><p>Critical business processes have to continue even while teams isolate the issue and restore normal performance. The retailers we work with are focused on understanding how their technology landscape behaves under sustained demand so they can respond with greater confidence while keeping the customer experience uninterrupted.</p><p>3. Maintain reliable transaction processing</p><p>Checkout often receives the most attention during the holiday shopping season, but the transaction itself is only one point in a much longer chain of business processes.</p><p>During peak demand, retailers rely on coordinated performance across:</p><ul><li>Pricing</li><li>Payment processing</li><li>Fraud detection</li><li>Order management</li><li>Inventory systems</li></ul><p>When one part of that flow slows, the effects are felt well beyond checkout, influencing everything from conversion to fulfillment.</p><p>Once transactions begin to slow, recovery becomes increasingly difficult. Dependencies that normally operate in the background can quickly become bottlenecks, making it harder for teams to keep orders moving as demand continues to build. An end-to-end view of transaction performance reveals where dependencies create friction, giving technology teams a better opportunity to resolve issues before customers notice them.</p><p>4. Increase end-to-end supply chain visibility</p><p>The work doesn’t stop at checkout. It continues through the fulfillment process, where changing conditions can affect delivery timelines long after a purchase is complete. A delay in one area can quickly affect decisions elsewhere, especially when inventory and orders move at a much faster pace.</p><p>Supply chain visibility gives teams the context they need to respond as conditions evolve. Visibility creates time to act, so when teams can see where operations are beginning to slow, they can make adjustments before disruptions become customer-facing. During peak retail events, that level of visibility supports steadier execution across the business.</p><p>5. Turn observability into faster operational decisions</p><p>Peak retail events generate an extraordinary volume of operational data. The priority is identifying the signals that explain what’s happening across the business while there’s still time to respond. Performance metrics become far more meaningful when they’re viewed in the context of business operations.</p><p>That broader context helps teams distinguish between routine fluctuations and issues that require immediate attention. It also provides a clearer understanding of how systems perform under sustained demand, giving technology leaders practical insights they can apply before the next shopping season.</p><p>How ready is your retail operation?</p><p>Black Friday and Cyber Monday may span only a few days, yet they provide one of the clearest measures of operational readiness. By the time holiday traffic begins to surge, most of the important work has already been done. Readiness is reflected in the reliability of the technology ecosystem and the confidence teams have in the information guiding their decisions.</p><p>In our work with clients, these priorities extend well beyond the holiday shopping season. They reflect the capabilities organizations are investing in to modernize at a sustainable pace while continuing to rely on proven core systems. That means extending the value of proven core technologies while integrating new capabilities that improve agility without disrupting the systems the business depends on.</p><p>See how Rocket Software helped a U.S.-based POS provider deliver more efficient, secure retail payment experiences.</p></body>\n</html>",
+      "word_count": 957,
+      "char_count": 6536,
+      "lead_image": "https://www.cio.com/wp-content/uploads/2026/09/4220907-0-08049100-1789069364-shutterstock_2558563237.jpg?quality=50&strip=all&w=1024",
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2026/09/4220907-0-08049100-1789069364-shutterstock_2558563237.jpg?quality=50&strip=all&w=1024",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-11T02:46:54Z"
+    },
+    {
       "id": "6ef6875f921fbc88",
       "title": "Melissa Alston Selected as Craven County Information Technology Director",
       "header": "Craven County Government (.gov)",
@@ -546,6 +674,40 @@
       "first_seen_at": "2026-09-10T21:21:49Z"
     },
     {
+      "id": "053b6678740ca7fd",
+      "title": "Technology Revolution in Agriculture Needs Investment in Humans as Well as Machines",
+      "header": "UC Merced",
+      "published_at": "2026-09-10T18:31:29Z",
+      "published_raw": "Thu, 10 Sep 2026 18:31:29 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjRLTVcwTFFSRFhfZ1RCdUdwU2taRDVUT3NDSEc2ajZzZ2VucEptVk9lMzh2TS1odzYwM25GcF9tenQtX0Q0VjhQQ2V0RmRNa2hXbklKY2VhT211Z2dHbFM1Z25XUUluN2M3QnN6ME1UTExvanZFQi1PYVVhWl9JSEp2SGNqWnk5YVJ5OWctUUFNT1pVeGRvbnZNUXRlZHpSRGRCU1p1TVhsRnc?oc=5",
+      "description": "Technology Revolution in Agriculture Needs Investment in Humans as Well as Machines UC Merced",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjRLTVcwTFFSRFhfZ1RCdUdwU2taRDVUT3NDSEc2ajZzZ2VucEptVk9lMzh2TS1odzYwM25GcF9tenQtX0Q0VjhQQ2V0RmRNa2hXbklKY2VhT211Z2dHbFM1Z25XUUluN2M3QnN6ME1UTExvanZFQi1PYVVhWl9JSEp2SGNqWnk5YVJ5OWctUUFNT1pVeGRvbnZNUXRlZHpSRGRCU1p1TVhsRnc?oc=5\" target=\"_blank\">Technology Revolution in Agriculture Needs Investment in Humans as Well as Machines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UC Merced</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjRLTVcwTFFSRFhfZ1RCdUdwU2taRDVUT3NDSEc2ajZzZ2VucEptVk9lMzh2TS1odzYwM25GcF9tenQtX0Q0VjhQQ2V0RmRNa2hXbklKY2VhT211Z2dHbFM1Z25XUUluN2M3QnN6ME1UTExvanZFQi1PYVVhWl9JSEp2SGNqWnk5YVJ5OWctUUFNT1pVeGRvbnZNUXRlZHpSRGRCU1p1TVhsRnc?oc=5"
+      ],
+      "scraped_at": "2026-09-11T02:46:54Z",
+      "url": "https://news.ucmerced.edu/news/2026/technology-revolution-agriculture-needs-investment-humans-well-machines",
+      "final_url": "https://news.ucmerced.edu/news/2026/technology-revolution-agriculture-needs-investment-humans-well-machines",
+      "source": "UC Merced",
+      "article_title": "",
+      "heading": "Technology Revolution in Agriculture Needs Investment in Humans as Well as Machines",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Technology Revolution in Agriculture Needs Investment in Humans as Well as Machines UC Merced",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-10T18:01:33Z"
+    },
+    {
       "id": "14204554762d0642",
       "title": "Valley National Bank launches new technology platform",
       "header": "Long Island Business News",
@@ -557,7 +719,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiigFBVV95cUxORGY4VVRYcnBDaWJHc0M3dThDZ2c0RkFfNkFFeGVhS05zOWRXb0RpQnJDSWFoVkRoTkFxUWpQZ3dzUEE2U2lRSXFsX0lQYktwbEIxZ0psWm9qeTY3UlBnMFc4LXJlR1VuXzhld3M0WmVFbGFDUmVvSndralZ5SGhoWk5rOHdYd1F6OHc?oc=5"
       ],
-      "scraped_at": "2026-09-10T21:21:49Z",
+      "scraped_at": "2026-09-11T02:46:54Z",
       "url": "https://libn.com/2026/09/10/valley-national-bank-launches-valley-foundry-platform/",
       "final_url": "https://libn.com/2026/09/10/valley-national-bank-launches-valley-foundry-platform/",
       "source": "Long Island Business News",
@@ -580,38 +742,106 @@
       "first_seen_at": "2026-09-10T21:21:49Z"
     },
     {
-      "id": "053b6678740ca7fd",
-      "title": "Technology Revolution in Agriculture Needs Investment in Humans as Well as Machines",
-      "header": "UC Merced",
-      "published_at": "2026-09-10T17:56:46Z",
-      "published_raw": "Thu, 10 Sep 2026 17:56:46 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjRLTVcwTFFSRFhfZ1RCdUdwU2taRDVUT3NDSEc2ajZzZ2VucEptVk9lMzh2TS1odzYwM25GcF9tenQtX0Q0VjhQQ2V0RmRNa2hXbklKY2VhT211Z2dHbFM1Z25XUUluN2M3QnN6ME1UTExvanZFQi1PYVVhWl9JSEp2SGNqWnk5YVJ5OWctUUFNT1pVeGRvbnZNUXRlZHpSRGRCU1p1TVhsRnc?oc=5",
-      "description": "Technology Revolution in Agriculture Needs Investment in Humans as Well as Machines UC Merced",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjRLTVcwTFFSRFhfZ1RCdUdwU2taRDVUT3NDSEc2ajZzZ2VucEptVk9lMzh2TS1odzYwM25GcF9tenQtX0Q0VjhQQ2V0RmRNa2hXbklKY2VhT211Z2dHbFM1Z25XUUluN2M3QnN6ME1UTExvanZFQi1PYVVhWl9JSEp2SGNqWnk5YVJ5OWctUUFNT1pVeGRvbnZNUXRlZHpSRGRCU1p1TVhsRnc?oc=5\" target=\"_blank\">Technology Revolution in Agriculture Needs Investment in Humans as Well as Machines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UC Merced</font>",
+      "id": "4acc61a67869aaab",
+      "title": "China’s Huawei branded a criminal enterprise as tech firm’s US trial opens",
+      "header": "The Guardian",
+      "published_at": "2026-09-10T18:02:00Z",
+      "published_raw": "Thu, 10 Sep 2026 18:02:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYUmFSc3RoVDN3LWhWZVZXN2JnV1JlSG1BRGdSMHBkTlZrSGVwQXJfYlBzb0xtYWZEdU9pNGtNZnlSSnlQWGlnWU8wU1ZLVnkybzdvRWFEdzFoQ0pJMzlpNWp4bEl2OXBHQnRLYUIwbVFsRTFaTE4zbXlBZVg?oc=5",
+      "description": "China’s Huawei branded a criminal enterprise as tech firm’s US trial opens The Guardian",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBYUmFSc3RoVDN3LWhWZVZXN2JnV1JlSG1BRGdSMHBkTlZrSGVwQXJfYlBzb0xtYWZEdU9pNGtNZnlSSnlQWGlnWU8wU1ZLVnkybzdvRWFEdzFoQ0pJMzlpNWp4bEl2OXBHQnRLYUIwbVFsRTFaTE4zbXlBZVg?oc=5\" target=\"_blank\">China’s Huawei branded a criminal enterprise as tech firm’s US trial opens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
       "description_links": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjRLTVcwTFFSRFhfZ1RCdUdwU2taRDVUT3NDSEc2ajZzZ2VucEptVk9lMzh2TS1odzYwM25GcF9tenQtX0Q0VjhQQ2V0RmRNa2hXbklKY2VhT211Z2dHbFM1Z25XUUluN2M3QnN6ME1UTExvanZFQi1PYVVhWl9JSEp2SGNqWnk5YVJ5OWctUUFNT1pVeGRvbnZNUXRlZHpSRGRCU1p1TVhsRnc?oc=5"
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYUmFSc3RoVDN3LWhWZVZXN2JnV1JlSG1BRGdSMHBkTlZrSGVwQXJfYlBzb0xtYWZEdU9pNGtNZnlSSnlQWGlnWU8wU1ZLVnkybzdvRWFEdzFoQ0pJMzlpNWp4bEl2OXBHQnRLYUIwbVFsRTFaTE4zbXlBZVg?oc=5"
       ],
-      "scraped_at": "2026-09-10T23:40:03Z",
-      "url": "https://news.ucmerced.edu/news/2026/technology-revolution-agriculture-needs-investment-humans-well-machines",
-      "final_url": "https://news.ucmerced.edu/news/2026/technology-revolution-agriculture-needs-investment-humans-well-machines",
-      "source": "UC Merced",
-      "article_title": "",
-      "heading": "Technology Revolution in Agriculture Needs Investment in Humans as Well as Machines",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Technology Revolution in Agriculture Needs Investment in Humans as Well as Machines UC Merced",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-10T18:01:33Z"
+      "scraped_at": "2026-09-11T02:46:53Z",
+      "url": "https://www.theguardian.com/technology/2026/sep/10/china-huawei-trial-us",
+      "final_url": "https://www.theguardian.com/technology/2026/sep/10/china-huawei-trial-us",
+      "source": "the Guardian",
+      "article_title": "China’s Huawei branded a criminal enterprise as tech firm’s US trial opens",
+      "heading": "China’s Huawei branded a criminal enterprise as tech firm’s US trial opens",
+      "authors": [
+        "Reuters"
+      ],
+      "article_published_at": "2026-09-10T17:41:19.000Z",
+      "article_modified_at": "2026-09-10T18:02:56.000Z",
+      "summary": "The defense says: ‘It’s about competition, not conspiracy’",
+      "content": "A US prosecutor described China’s Huawei as a criminal enterprise that stole from US companies to build its telecommunications empire, as the trial against the tech company kicked off in Brooklyn federal court on Wednesday.\n“Theft, lies, cover-up,” Taylor Stout, a trial attorney from the US Department of Justice, said in the government’s opening statement. “For 20 years, that’s how Huawei, a massive Chinese telecommunications company, victimized American companies and abused the American financial system, all in an effort to dominate the telecommunications industry around the world.”\nHuawei conspired to steal trade secrets from five US companies, including operating system source code for internet routers from Cisco Systems and a robotic arm to test phones from T-Mobile, to gain an unfair competitive advantage and grow its business, the prosecutor told jurors.\n“We’ll hear from people who caught Huawei red-handed trying to steal American tech,” Stout said, adding there was video of an employee stealing the robotic arm.\nThe defense painted a very different picture of the company and its success in court.\n“It’s about competition, not conspiracy. Innovation, not theft. Ordinary business dealings, not criminal conduct,” Brian Heberlig, one of a team of lawyers representing Huawei, said in his opening. “Huawei earned its success ... There was no blueprint for crime.”\nHuawei is known for its telecommunications equipment, mobile phones and, in recent years, AI chips. It does business globally but its networking gear is restricted in the US and suppliers are banned from exporting US goods and technology to the company without approval from the Department of Commerce.\nOn Thursday, a Chinese foreign ministry spokesperson said “the Chinese government firmly opposes the US side’s suppression and containment of Chinese enterprises,” when asked about the case and the US prosecutor’s “criminal enterprise” description.\nChina “firmly supports Chinese enterprises in safeguarding their legitimate rights and interests”, the spokesperson said at a regular press conference.\nThe case against Huawei began in 2018 with an indictment charging the company and its chief financial officer with bank fraud and sanctions violations for allegedly misrepresenting its business in Iran to get around US sanctions and move millions of dollars through the US financial system.\nIn the ensuing years, it grew into a sprawling indictment that includes racketeering, a pattern of illegal activity conducted by an enterprise to generate profit.\nHeberlig, defending Huawei, told jurors that prosecutors will describe routine activities by global tech companies “but will twist those ordinary activities to try to make them look criminal”.\nHe said the incidents involving Cisco and T-mobile were “actions by individual employees” and that management worked to make things right after learning of them.\nThe prosecutor also accused the company of keeping the nature of its work in Iran secret so it could launder US dollars through the financial system and could help the Iranian government spy on its own citizens. The defense said there was no evidence Huawei knew the dollar-clearing would violate US sanctions law.\nIn 2018, Huawei’s chief financial officer, Meng Wanzhou, was detained in Vancouver after being picked up on a US warrant as a part of the original indictment. She fought extradition for nearly three years before being freed to return to China in a diplomatic agreement between the US, China and Canada.\nThe charges against her were dismissed in 2022 as part of a deferred prosecution agreement but admissions she made are set to be introduced as evidence at the trial, which is expected to last three months.",
+      "content_html": "<html>\n  <body>\n    <p>A US prosecutor described China’s Huawei as a criminal enterprise that stole from US companies to build its telecommunications empire, as ⁠the trial against the tech company kicked off in Brooklyn federal court on Wednesday.</p>\n    <p>“Theft, lies, cover-up,” Taylor Stout, a trial attorney from the US Department of Justice, said in the government’s opening statement. “For 20 years, that’s how Huawei, a massive Chinese telecommunications company, victimized American companies ⁠and abused the American financial system, all ⁠in an effort to dominate the telecommunications ​industry around the world.”</p>\n    <p>Huawei conspired to steal trade secrets from five US companies, including operating system source code for internet routers from Cisco Systems and a robotic arm to test phones from T-Mobile, to gain an unfair competitive advantage and grow its business, ⁠the prosecutor told jurors.</p>\n    <p>“We’ll hear from people who caught Huawei red-handed trying to steal American tech,” Stout said, adding there was video of an employee stealing the robotic arm.</p>\n    <p>The defense painted a very different picture of the company and its success in court.</p>\n    <p>“It’s about competition, not conspiracy. Innovation, ⁠not theft. Ordinary business dealings, not criminal conduct,” Brian Heberlig, one of a team of lawyers representing Huawei, said in his opening. “Huawei earned its success ... There was no blueprint for crime.”</p>\n    <p>Huawei is known ​for its telecommunications equipment, mobile phones and, in recent years, AI chips. It does ‌business globally but its networking gear is restricted in ‌the US and suppliers are banned from exporting US goods and technology to the company without approval from the Department of Commerce.</p>\n    <p>On Thursday, a Chinese foreign ministry spokesperson said “the Chinese ‌government firmly opposes the US side’s suppression and containment of Chinese enterprises,” when asked about the case and the US prosecutor’s “criminal enterprise” description.</p>\n    <p>China “firmly supports Chinese enterprises in safeguarding their legitimate rights and interests”, the spokesperson said at a regular press conference.</p>\n    <p>The case against Huawei began in 2018 with an indictment charging the company and its chief financial officer with bank fraud and sanctions violations for allegedly misrepresenting its business in Iran to get around US sanctions and move millions of dollars through the US financial system.</p>\n    <p>In the ensuing years, it grew into a sprawling indictment that includes racketeering, a pattern of illegal activity conducted by an enterprise to generate profit.</p>\n    <p>Heberlig, defending Huawei, told jurors that prosecutors will describe routine activities ‌by global tech companies “but will twist those ordinary activities to try to make them look criminal”.</p>\n    <p>after newsletter promotion</p>\n    <p>He said the incidents involving Cisco and T-mobile were “actions by individual employees” and that ​management worked to make things right after learning of them.</p>\n    <p>The prosecutor also accused the company of keeping the nature of its work in Iran secret so it could launder US dollars through the financial system and could help the Iranian government spy on its own citizens. The defense said there was no evidence Huawei knew the dollar-clearing would violate US sanctions law.</p>\n    <p>In 2018, Huawei’s chief financial officer, ​Meng Wanzhou, was detained in Vancouver after being picked up on ​a US warrant as a part of the original indictment. She fought extradition for nearly three years before being freed to return to China ​in a diplomatic agreement between the US, China ‌and Canada.</p>\n    <p>The charges against her ​were dismissed in 2022 as part ​of a deferred prosecution agreement but admissions she made are set to be introduced as evidence at the trial, which is expected to last three months.</p>\n  </body>\n</html>",
+      "word_count": 577,
+      "char_count": 3720,
+      "lead_image": "https://i.guim.co.uk/img/media/1c0ebe6cd755ca7247566fffc54b1df729dd3658/93_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eca12b6e4c1cc8d6329589cdbf8184ab",
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1c0ebe6cd755ca7247566fffc54b1df729dd3658/93_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eca12b6e4c1cc8d6329589cdbf8184ab",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/1c0ebe6cd755ca7247566fffc54b1df729dd3658/93_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=54b3f417a815324d73e9067b251baf80",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/1c0ebe6cd755ca7247566fffc54b1df729dd3658/93_0_2813_2250/master/2813.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=8c2eb3671bc34c8a6d9d2243e883ce1f",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/1c0ebe6cd755ca7247566fffc54b1df729dd3658/93_0_2813_2250/master/2813.jpg?width=465&dpr=1&s=none&crop=none",
+          "alt": "a courtroom sketch of a lawyer speaking in front of people",
+          "caption": "Taylor Stout, a lawyer for the Department of Justice, makes opening statements at the start of the bank fraud trial against China's Huawei Technologies as judge Ann Donnelly presides in federal court in Brooklyn, New York, on Wednesday in this courtroom sketch. Photograph: Jane Rosenberg/Reuters",
+          "role": "body"
+        }
+      ],
+      "image_count": 4,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-11T02:46:53Z"
+    },
+    {
+      "id": "46ac3ceed517afee",
+      "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+      "header": "NVIDIA Blog",
+      "published_at": "2026-09-10T18:00:06Z",
+      "published_raw": "Thu, 10 Sep 2026 18:00:06 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PS0dRS1VTd2tEclNkZUFfLUVGejRNTWF1MWxwZkNIcDc2cE5CRWFzTVphdmNpSVRSLXNCcjl2MUN0b0NyUjh4WFpGbEtFY1FpTlVQNE84aFIxNDJIUlBQMkZ0emhJZWdxU1dKZTVhSll5ZXlZT18xMkRWM1A?oc=5",
+      "description": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies NVIDIA Blog",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1PS0dRS1VTd2tEclNkZUFfLUVGejRNTWF1MWxwZkNIcDc2cE5CRWFzTVphdmNpSVRSLXNCcjl2MUN0b0NyUjh4WFpGbEtFY1FpTlVQNE84aFIxNDJIUlBQMkZ0emhJZWdxU1dKZTVhSll5ZXlZT18xMkRWM1A?oc=5\" target=\"_blank\">Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PS0dRS1VTd2tEclNkZUFfLUVGejRNTWF1MWxwZkNIcDc2cE5CRWFzTVphdmNpSVRSLXNCcjl2MUN0b0NyUjh4WFpGbEtFY1FpTlVQNE84aFIxNDJIUlBQMkZ0emhJZWdxU1dKZTVhSll5ZXlZT18xMkRWM1A?oc=5"
+      ],
+      "scraped_at": "2026-09-11T02:46:53Z",
+      "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
+      "final_url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
+      "source": "NVIDIA Blog",
+      "article_title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+      "heading": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+      "authors": [
+        "Ali Kani"
+      ],
+      "article_published_at": "2026-09-10T16:00:04+00:00",
+      "article_modified_at": "2026-09-10T18:24:28+00:00",
+      "summary": "NVIDIA’s modular, full-stack robotaxi pipeline — a three-computer solution spanning AI training, simulation and in-vehicle computing — is being adopted across the robotaxi ecosystem.",
+      "content": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people through some of the world’s busiest and most complex streets.\nDeploying a driverless vehicle is one challenge. Scaling a fleet is a next-level computing challenge; it means delivering the same safe, reliable performance across thousands of vehicles.\nMeeting those demands requires enormous amounts of compute across the robotaxi development lifecycle, from preparing and training AI models to simulating and validating driving behavior, as well as real-time processing in the vehicle.\nNVIDIA provides an open platform for AI training, simulation and safety validation, with libraries, software development kits, workflows and models that developers can use alongside their own technology stacks.\nEvery major robotaxi program operating at commercial scale today is running on NVIDIA’s modular stack, spanning AI training, simulation, in-vehicle computing — or a combination of the three — to develop and deploy fleets at scale.\nWhat Is a Robotaxi Technology Stack?\nA robotaxi technology stack is the end-to-end set of technologies used to develop, validate and deploy autonomous vehicles (AVs) — from data and AI model training to simulation, safety validation and real-time in-vehicle computing.\nNVIDIA’s robotaxi and AV platform brings these capabilities together in a three-computer solution: the model training computer, simulation and validation computer, and in-vehicle computer.\n1. Training Computer: NVIDIA DGX\nRobotaxi intelligence advances as programs turn growing volumes of fleet data into increasingly capable models. Driving models can be trained on NVIDIA DGX systems.\nThe NVIDIA Alpamayo portfolio of open reasoning vision language action (VLA) models, simulation frameworks and physical AI datasets gives developers building blocks they can adapt to their own data, requirements and technology stacks. Its reasoning models help address long-tail AV challenges by breaking complex driving situations into smaller steps, reasoning through each one and selecting the safest trajectory.\nNVIDIA also provides physical AI datasets, reinforcement learning blueprints and recipes for post-training and distillation, helping developers optimize models for their target vehicles.\n2. Simulation and Validation Computer: NVIDIA Omniverse and Cosmos on NVIDIA RTX PRO\nRobotaxi programs can’t rely on physical miles alone to capture rare, long-tail driving scenarios. NVIDIA Omniverse NuRec models reconstruct real-world driving scenarios from sensor data, while NVIDIA Cosmos world foundation models generate physically based variations of them, enabling developers to turn thousands of real-world corner cases into millions of combinations of driving behavior, traffic, weather, lighting and sensor conditions.\nRunning on NVIDIA RTX PRO Servers, NVIDIA Omniverse and Cosmos support closed-loop simulation and validation. The NVIDIA AlpaSim simulation framework extends the workflow for training and evaluating reasoning-based autonomous-driving models, helping developers identify weaknesses before deployment.\n3. In-Vehicle Computer and Sensor Architecture: NVIDIA DRIVE Hyperion With DRIVE AGX\nNVIDIA DRIVE Hyperion is NVIDIA’s modular in-vehicle compute and sensor reference architecture for level-4-ready robotaxis. DRIVE Hyperion 10 pairs dual NVIDIA DRIVE AGX Thor systems-on-a-chip, built on the NVIDIA Blackwell platform, with 14 high-definition cameras, nine radars, three lidars and 12 ultrasonics for real-time, 360-degree sensor fusion. Its redundant compute and sensing design supports fail-operational driving if a sensor or compute component fails.\nThe dual DRIVE AGX Thor is designed to run modern AI workloads — including VLA models — for perception, reasoning, path planning and driving actions.\nNVIDIA Halos provides a production-ready safety foundation through Halos OS, and a broader validation and certification framework spanning independent inspection, system validation, large-scale simulation and continuous testing from cloud to car.\nRobotaxi Leaders Adopting NVIDIA’s Robotaxi Technology Stack\nNVIDIA’s robotaxi ecosystem spans every region where commercial robotaxi services are emerging today: Asia, Europe, the Middle East and North America. Across these markets, mobility providers, AV developers and automakers are adopting NVIDIA’s three-computer architecture to train AI models, simulate and validate driving behavior, and deploy autonomous vehicles at scale.\nScaling Robotaxi Services Globally\n- Uber is scaling its fleet of NVIDIA DRIVE Hyperion, with plans to reach 28 cities by 2028. Uber and NVIDIA are also building a robotaxi AI data factory on NVIDIA Cosmos to curate fleet driving data for rare scenarios. Together, Uber and NVIDIA are collaborating with Autobrains, Avride, Lucid, May Mobility, Mercedes-Benz, Momenta, Nissan, Nuro, Pony.ai, Stellantis, Waabi, Wayve, WeRide and Zoox to bring NVIDIA-powered robotaxi services to the Uber platform.\n- May Mobility is planning to operate autonomous ride-hailing services through Uber’s network, while developing its software stack on the NVIDIA DRIVE platform.\n- Bolt uses NVIDIA technologies to develop and scale AVs across Europe.\n- Lyft plans to use NVIDIA DRIVE Hyperion as a reference architecture for future autonomous fleets. May Mobility vehicles are also currently operating on Lyft’s network in Atlanta, powered by NVIDIA DRIVE.\n- Through its partnership with Grab, WeRide plans to bring its DRIVE Hyperion- and DRIVE AGX Thor-based GXR to key markets across Southeast Asia.\n- Waymo partners with NVIDIA to help build its autonomous computing system.\nBuilding Robotaxi Intelligence\nBehind these services, AV developers are using NVIDIA accelerated computing, simulation and in-vehicle platforms to build the intelligence that operators and automakers deploy.\n- Wayve, Nissan and Uber are developing a global robotaxi program using a prototype vehicle that combines Nissan’s vehicle engineering, Wayve’s embodied AI and the NVIDIA DRIVE Hyperion platform.\n- Autobrains is developing robotaxi programs with Uber in Munich and VinFast in Southeast Asia, built on NVIDIA DRIVE Hyperion and enabled by Autobrains’ Agentic AI technology.\n- Zoox uses NVIDIA DRIVE for in-vehicle computing and cloud-based training and simulation.\n- Momenta is developing its software stack based on NVIDIA DRIVE AGX running on DriveOS.\n- Pony.ai developed its new-generation autonomous-driving domain controller with NVIDIA DRIVE Hyperion and DRIVE AGX Thor.\n- Tensor is developing its level 4 Robocar with eight NVIDIA DRIVE AGX Thor systems-on-a-chip in its in-vehicle supercomputer.\n- Waabi expands into the robotaxi market through a deployment collaboration with Uber; its Waabi Driver platform is built on NVIDIA DRIVE AGX Thor.\n- TIER IV and Isuzu are deploying level 4 autonomous buses built on NVIDIA DRIVE Hyperion and DRIVE AGX Thor.\n- Lenovo is supplying its NVIDIA DRIVE AGX Thor-based AD1 level 4 domain controller for a next-generation robotaxi program with SWM.\n- DeepRoute.ai is developing a new generation of robotaxis built on the NVIDIA DRIVE Hyperion platform with DRIVE AGX Thor.\nBringing Robotaxis Into Production\nAs these systems move from development into production, automakers are integrating NVIDIA technology into autonomous and robotaxi-ready vehicle programs.\n- Tesla trains its autonomous-driving neural networks on NVIDIA supercomputers.\n- Mercedes-Benz and NVIDIA are collaborating with Uber to develop a robotaxi ecosystem based on the new S-Class, built on the NVIDIA DRIVE Hyperion architecture, full-stack NVIDIA DRIVE AV L4 software, and NVIDIA Alpamayo open AI models, simulation tools and datasets to support reasoning-based, safety-first autonomy.\n- Stellantis, Wayve and Uber are collaborating to develop and deploy L4 driverless mobility services, leveraging NVIDIA DRIVE Hyperion and AI computing technologies.\n- Lucid, Nuro and Uber are developing a global robotaxi service using NVIDIA DRIVE AGX Thor, part of the DRIVE Hyperion platform.\n- Hyundai Motor and Kia are expanding their collaboration with NVIDIA to develop data-driven autonomous-driving systems built on NVIDIA DRIVE Hyperion. NVIDIA will also explore expanded collaboration with Hyundai Motor Group’s joint venture, Motional, to advance level 4 robotaxi services.\n- Geely, alongside its ecosystem partners, plans to develop and commercialize robotaxis using DRIVE Hyperion.\n- Zeekr, a Geely Auto Group brand, has adopted DRIVE AGX Thor for a centralized domain controller.\nFrom cloud to car, nearly every layer of the robotaxi platform is being developed on NVIDIA accelerated computing.\nExplore NVIDIA’s complete platform for robotaxi development.",
+      "content_html": "<html>\n  <body>\n    <p>The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people through some of the world’s busiest and most complex streets.</p>\n    <p>Deploying a driverless vehicle is one challenge. Scaling a fleet is a next-level computing challenge; it means delivering the same safe, reliable performance across thousands of vehicles.</p>\n    <p>Meeting those demands requires enormous amounts of compute across the robotaxi development lifecycle, from preparing and training AI models to simulating and validating driving behavior, as well as real-time processing in the vehicle.</p>\n    <p>NVIDIA provides an open platform for AI training, simulation and safety validation, with libraries, software development kits, workflows and models that developers can use alongside their own technology stacks.</p>\n    <p>Every major robotaxi program operating at commercial scale today is running on NVIDIA’s modular stack, spanning AI training, simulation, in-vehicle computing — or a combination of the three — to develop and deploy fleets at scale.</p>\n    <h2>What Is a Robotaxi Technology Stack?</h2>\n    <p>A robotaxi technology stack is the end-to-end set of technologies used to develop, validate and deploy autonomous vehicles (AVs) — from data and AI model training to simulation, safety validation and real-time in-vehicle computing.</p>\n    <p>NVIDIA’s robotaxi and AV platform brings these capabilities together in a three-computer solution: the model training computer, simulation and validation computer, and in-vehicle computer.</p>\n    <h3>1. Training Computer: NVIDIA DGX</h3>\n    <p>Robotaxi intelligence advances as programs turn growing volumes of fleet data into increasingly capable models. Driving models can be trained on NVIDIA DGX systems.</p>\n    <p>The NVIDIA Alpamayo portfolio of open reasoning vision language action (VLA) models, simulation frameworks and physical AI datasets gives developers building blocks they can adapt to their own data, requirements and technology stacks. Its reasoning models help address long-tail AV challenges by breaking complex driving situations into smaller steps, reasoning through each one and selecting the safest trajectory.</p>\n    <p>NVIDIA also provides physical AI datasets, reinforcement learning blueprints and recipes for post-training and distillation, helping developers optimize models for their target vehicles.</p>\n    <img src=\"https://blogs.nvidia.com/wp-content/uploads/2026/09/robotaxi-momentum-vla-chart-1680x945.jpeg\"/>\n    <h3>2. Simulation and Validation Computer: NVIDIA Omniverse and Cosmos on NVIDIA RTX PRO</h3>\n    <p>Robotaxi programs can’t rely on physical miles alone to capture rare, long-tail driving scenarios. NVIDIA Omniverse NuRec models reconstruct real-world driving scenarios from sensor data, while NVIDIA Cosmos world foundation models generate physically based variations of them, enabling developers to turn thousands of real-world corner cases into millions of combinations of driving behavior, traffic, weather, lighting and sensor conditions.</p>\n    <img src=\"https://blogs.nvidia.com/wp-content/uploads/2026/09/robotaxi-momentum-synthetic-data-chart-1680x945.jpeg\"/>\n    <p>Running on NVIDIA RTX PRO Servers, NVIDIA Omniverse and Cosmos support closed-loop simulation and validation. The NVIDIA AlpaSim simulation framework extends the workflow for training and evaluating reasoning-based autonomous-driving models, helping developers identify weaknesses before deployment.</p>\n    <h3>3. In-Vehicle Computer and Sensor Architecture: NVIDIA DRIVE Hyperion With DRIVE AGX</h3>\n    <p>NVIDIA DRIVE Hyperion is NVIDIA’s modular in-vehicle compute and sensor reference architecture for level-4-ready robotaxis. DRIVE Hyperion 10 pairs dual NVIDIA DRIVE AGX Thor systems-on-a-chip, built on the NVIDIA Blackwell platform, with 14 high-definition cameras, nine radars, three lidars and 12 ultrasonics for real-time, 360-degree sensor fusion. Its redundant compute and sensing design supports fail-operational driving if a sensor or compute component fails.</p>\n    <p>The dual DRIVE AGX Thor is designed to run modern AI workloads — including VLA models — for perception, reasoning, path planning and driving actions.</p>\n    <p>\n      <img src=\"https://blogs.nvidia.com/wp-content/uploads/2026/09/auto-robotaxi-hyperion-stack-blog-1920x1080-1.jpg\"/>\n    </p>\n    <p>NVIDIA Halos provides a production-ready safety foundation through Halos OS, and a broader validation and certification framework spanning independent inspection, system validation, large-scale simulation and continuous testing from cloud to car.</p>\n    <p>\n      <img src=\"https://blogs.nvidia.com/wp-content/uploads/2026/09/halos-av-robotaxi.png\"/>\n    </p>\n    <h2>Robotaxi Leaders Adopting NVIDIA’s Robotaxi Technology Stack</h2>\n    <p>NVIDIA’s robotaxi ecosystem spans every region where commercial robotaxi services are emerging today: Asia, Europe, the Middle East and North America. Across these markets, mobility providers, AV developers and automakers are adopting NVIDIA’s three-computer architecture to train AI models, simulate and validate driving behavior, and deploy autonomous vehicles at scale.</p>\n    <h3>Scaling Robotaxi Services Globally</h3>\n    <ul>\n      <li>Uber is scaling its fleet of NVIDIA DRIVE Hyperion, with plans to reach 28 cities by 2028. Uber and NVIDIA are also building a robotaxi AI data factory on NVIDIA Cosmos to curate fleet driving data for rare scenarios. Together, Uber and NVIDIA are collaborating with Autobrains, Avride, Lucid, May Mobility, Mercedes-Benz, Momenta, Nissan, Nuro, Pony.ai, Stellantis, Waabi, Wayve, WeRide and Zoox to bring NVIDIA-powered robotaxi services to the Uber platform.</li>\n      <li>May Mobility is planning to operate autonomous ride-hailing services through Uber’s network, while developing its software stack on the NVIDIA DRIVE platform.</li>\n      <li>Bolt uses NVIDIA technologies to develop and scale AVs across Europe.</li>\n      <li>Lyft plans to use NVIDIA DRIVE Hyperion as a reference architecture for future autonomous fleets. May Mobility vehicles are also currently operating on Lyft’s network in Atlanta, powered by NVIDIA DRIVE.</li>\n      <li>Through its partnership with Grab, WeRide plans to bring its DRIVE Hyperion- and DRIVE AGX Thor-based GXR to key markets across Southeast Asia.</li>\n      <li>Waymo partners with NVIDIA to help build its autonomous computing system.</li>\n    </ul>\n    <h3>Building Robotaxi Intelligence</h3>\n    <p>Behind these services, AV developers are using NVIDIA accelerated computing, simulation and in-vehicle platforms to build the intelligence that operators and automakers deploy.</p>\n    <ul>\n      <li>Wayve, Nissan and Uber are developing a global robotaxi program using a prototype vehicle that combines Nissan’s vehicle engineering, Wayve’s embodied AI and the NVIDIA DRIVE Hyperion platform.</li>\n      <li>Autobrains is developing robotaxi programs with Uber in Munich and VinFast in Southeast Asia, built on NVIDIA DRIVE Hyperion and enabled by Autobrains’ Agentic AI technology.</li>\n      <li>Zoox uses NVIDIA DRIVE for in-vehicle computing and cloud-based training and simulation.</li>\n      <li>Momenta is developing its software stack based on NVIDIA DRIVE AGX running on DriveOS.</li>\n      <li>Pony.ai developed its new-generation autonomous-driving domain controller with NVIDIA DRIVE Hyperion and DRIVE AGX Thor.</li>\n      <li>Tensor is developing its level 4 Robocar with eight NVIDIA DRIVE AGX Thor systems-on-a-chip in its in-vehicle supercomputer.</li>\n      <li>Waabi expands into the robotaxi market through a deployment collaboration with Uber; its Waabi Driver platform is built on NVIDIA DRIVE AGX Thor.</li>\n      <li>TIER IV and Isuzu are deploying level 4 autonomous buses built on NVIDIA DRIVE Hyperion and DRIVE AGX Thor.</li>\n      <li>Lenovo is supplying its NVIDIA DRIVE AGX Thor-based AD1 level 4 domain controller for a next-generation robotaxi program with SWM.</li>\n      <li>DeepRoute.ai is developing a new generation of robotaxis built on the NVIDIA DRIVE Hyperion platform with DRIVE AGX Thor.</li>\n    </ul>\n    <h3>Bringing Robotaxis Into Production</h3>\n    <p>As these systems move from development into production, automakers are integrating NVIDIA technology into autonomous and robotaxi-ready vehicle programs.</p>\n    <ul>\n      <li>Tesla trains its autonomous-driving neural networks on NVIDIA supercomputers.</li>\n      <li>Mercedes-Benz and NVIDIA are collaborating with Uber to develop a robotaxi ecosystem based on the new S-Class, built on the NVIDIA DRIVE Hyperion architecture, full-stack NVIDIA DRIVE AV L4 software, and NVIDIA Alpamayo open AI models, simulation tools and datasets to support reasoning-based, safety-first autonomy.</li>\n      <li>Stellantis, Wayve and Uber are collaborating to develop and deploy L4 driverless mobility services, leveraging NVIDIA DRIVE Hyperion and AI computing technologies.</li>\n      <li>Lucid, Nuro and Uber are developing a global robotaxi service using NVIDIA DRIVE AGX Thor, part of the DRIVE Hyperion platform.</li>\n      <li>Hyundai Motor and Kia are expanding their collaboration with NVIDIA to develop data-driven autonomous-driving systems built on NVIDIA DRIVE Hyperion. NVIDIA will also explore expanded collaboration with Hyundai Motor Group’s joint venture, Motional, to advance level 4 robotaxi services.</li>\n      <li>Geely, alongside its ecosystem partners, plans to develop and commercialize robotaxis using DRIVE Hyperion.</li>\n      <li>Zeekr, a Geely Auto Group brand, has adopted DRIVE AGX Thor for a centralized domain controller.</li>\n    </ul>\n    <p>From cloud to car, nearly every layer of the robotaxi platform is being developed on NVIDIA accelerated computing.</p>\n    <p>Explore NVIDIA’s complete platform for robotaxi development.</p>\n  </body>\n</html>",
+      "word_count": 1269,
+      "char_count": 8861,
+      "lead_image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/auto-robotaxi-hero-kv-blog-r7-1920x1080-1.jpg",
+      "images": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/09/auto-robotaxi-hero-kv-blog-r7-1920x1080-1.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-11T02:46:53Z"
     },
     {
       "id": "a0f85b79506eea1b",
@@ -779,7 +1009,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY180bTJ0WldVcktJRE05R1BNUUJGdWJEaGl2NEVhMUpCMjVqSWxRaVpoU0ZndFJuQTk1Mk9peW5xdDNrOFhIYjdyc3NHdUExdjZuZTQ5VnZobFIyZFpyeW5wa1BDSzlMNGRYREs0NTMxUnVOVU1jaElZNWJvMWNKUUVSaTZNZWtRTm5QN3MxcklpMklm?oc=5"
       ],
-      "scraped_at": "2026-09-10T23:40:01Z",
+      "scraped_at": "2026-09-11T02:46:53Z",
       "url": "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html",
       "final_url": "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html",
       "source": "The New York Times",
@@ -1013,7 +1243,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanR3SlM2c3E1V2NUQVpxSWxzMnJQLUZFUXhaNG5WNWZSRjhqR3FaNzV5VjZZZE9NVXJNNVZ3aklaVHhGb2hITVFVYTlpMWVFVFU5ZnpIN2FvbnVYb3d3dkVwcmVsY0dPX3FpdXZSZTQydDZaSHFCUmpZRmtoS09peTU2TE12cGllMDVGUHNodDRpSmYteTh6R0Y0eHV1R1BLcV8xWGplU0U1MkFRbG1BMHp3ODNNQjE0YlpTYUtB?oc=5"
       ],
-      "scraped_at": "2026-09-10T23:40:01Z",
+      "scraped_at": "2026-09-11T02:46:53Z",
       "url": "https://www.washingtonpost.com/technology/2026/09/10/years-they-warned-ai-could-kill-all-humans-now-people-are-listening/",
       "final_url": "https://www.washingtonpost.com/technology/2026/09/10/years-they-warned-ai-could-kill-all-humans-now-people-are-listening/",
       "source": "The Washington Post",
@@ -25556,208 +25786,6 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-03T02:44:47Z"
-    },
-    {
-      "id": "bdd96246cf51eeef",
-      "title": "Google defeats US justice department bid to force ad tech sale",
-      "header": "The Guardian",
-      "published_at": "2026-09-02T20:03:00Z",
-      "published_raw": "Wed, 02 Sep 2026 20:03:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3lXTE1xNjgybllsYU50cTM5U3dZdk5RandVMzZYRGlWYmFibEVBLUtKWW4tZE96X2doV1NpbEJaMnM2WmRqRnVHMVcteGthWHAyYWdodUlxbThPMHVPeTQzUDlqZnJhRFN5YzlMbi1jVlFUMGJEeG14UXlqMjBpQ1BHNTFJZnVnOVpqM0xObVVod3NVQW9jRlhpejNuaWVCRTN3?oc=5",
-      "description": "Google defeats US justice department bid to force ad tech sale The Guardian",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3lXTE1xNjgybllsYU50cTM5U3dZdk5RandVMzZYRGlWYmFibEVBLUtKWW4tZE96X2doV1NpbEJaMnM2WmRqRnVHMVcteGthWHAyYWdodUlxbThPMHVPeTQzUDlqZnJhRFN5YzlMbi1jVlFUMGJEeG14UXlqMjBpQ1BHNTFJZnVnOVpqM0xObVVod3NVQW9jRlhpejNuaWVCRTN3?oc=5\" target=\"_blank\">Google defeats US justice department bid to force ad tech sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3lXTE1xNjgybllsYU50cTM5U3dZdk5RandVMzZYRGlWYmFibEVBLUtKWW4tZE96X2doV1NpbEJaMnM2WmRqRnVHMVcteGthWHAyYWdodUlxbThPMHVPeTQzUDlqZnJhRFN5YzlMbi1jVlFUMGJEeG14UXlqMjBpQ1BHNTFJZnVnOVpqM0xObVVod3NVQW9jRlhpejNuaWVCRTN3?oc=5"
-      ],
-      "scraped_at": "2026-09-02T23:48:56Z",
-      "url": "https://www.theguardian.com/technology/2026/sep/02/google-defeats-justice-department-bid-ad-tech-sale",
-      "final_url": "https://www.theguardian.com/technology/2026/sep/02/google-defeats-justice-department-bid-ad-tech-sale",
-      "source": "the Guardian",
-      "article_title": "Google defeats US justice department bid to force ad tech sale",
-      "heading": "Google defeats US justice department bid to force ad tech sale",
-      "authors": [
-        "Reuters"
-      ],
-      "article_published_at": "2026-09-02T18:37:20.000Z",
-      "article_modified_at": "2026-09-02T20:03:40.000Z",
-      "summary": "Judge declines to make Google sell AdX in win for firm against US antitrust enforcers’ attempts to break up big tech",
-      "content": "Alphabet’s Google escaped a breakup of its advertising technology business on Wednesday, when a judge in Virginia rejected US antitrust enforcers’ attempt to force a sale of Google’s online advertising exchange.\nWhile the ad exchange is a small part of Google’s business, the ruling is the second powerful symbolic victory against the US Department of Justice in its efforts to force Google to sell assets to address illegal monopolies.\nUS judge Leonie Brinkema in Alexandria, Virginia, declined to make Google sell AdX, where publishers pay Google a 20% fee to sell ads in auctions that happen instantly when users load websites. She accepted most of the parties’ proposed behavioral remedies.\nThe justice department and a broad coalition of states sued Google in 2023 over its dominance in markets for advertising technology used by online publishers and websites.\nIn April 2025, Brinkema ruled that Google holds illegal monopolies on servers that host publisher ads and ad exchanges which sit between buyers and sellers. Google unlawfully locked publishers on its ad server into using its AdX, the judge found.\nThe tech company’s anticompetitive conduct “substantially harmed Google’s publisher customers, the competitive process, and, ultimately, consumers of information on the open web”, Brinkema said at the time.\nAt a trial last year on remedies in the case, the justice department argued that Google cannot be trusted to run AdX, given its past behavior.\nGoogle argued that a forced sale would be technically difficult and result in a long and painful transition that would hurt customers. The company also sought to show the justice department’s demand was different from Google’s own previous offer to sell AdX to end an EU antitrust investigation, which Reuters reported in 2024.\nAd Manager represented 4.1% of Google’s overall revenue and 1.5% of operating profit in 2020, according to Wedbush research and analysis of court documents. More recent figures were redacted from court documents.\nThe ruling is the third time in a row that a judge has rejected a bid by US antitrust enforcers to break up big tech in a crackdown that started during Donald Trump’s first term. It is likely to fuel questions about whether courts are up to the task of checking the industry’s unprecedented power over the US economy.\nA federal judge in Washington last year rejected the Federal Trade Commission’s attempt to make Meta Platforms sell off Instagram and WhatsApp, saying the agency failed to prove that Meta holds a monopoly in a social media landscape that has shifted drastically since the case was brought in 2020.\nLikewise, another judge in Washington, who previously ruled that Google holds an illegal monopoly in online search, rejected the justice department’s attempt to make the company sell its Chrome browser, citing rising competition from generative artificial intelligence companies such as OpenAI’s ChatGPT.\nUS antitrust cases against Amazon and Apple, which involve big smartphone and online retail markets, will not go to trial until 2027 at the earliest.",
-      "content_html": "<html>\n  <body>\n    <p>Alphabet’s Google escaped a breakup of its advertising technology business on Wednesday, when a judge in Virginia ⁠rejected US antitrust enforcers’ attempt to force a sale of Google’s online advertising exchange.</p>\n    <p>While the ad exchange is a small part of Google’s business, the ruling is the second powerful ⁠symbolic victory against the US Department ⁠of Justice in ​its efforts to force Google to sell assets to address illegal monopolies.</p>\n    <p>US judge Leonie Brinkema in Alexandria, Virginia, declined to make Google sell AdX, where publishers pay Google a ⁠20% fee to sell ads in auctions that happen instantly when users load websites. She accepted most of the parties’ proposed behavioral remedies.</p>\n    <p>The justice department and a broad coalition of states sued Google in 2023 over ⁠its dominance in markets for advertising technology used by online publishers and websites.</p>\n    <p>In April 2025, Brinkema ruled that Google holds ​illegal monopolies on servers that host publisher ads and ad ‌exchanges which sit between buyers and ‌sellers. Google unlawfully locked publishers on its ad server into using its AdX, the judge found.</p>\n    <p>The tech company’s anticompetitive conduct “substantially harmed ‌Google’s publisher customers, the competitive process, and, ultimately, consumers of information on the open web”, Brinkema said at the time.</p>\n    <p>At a trial last year on remedies in the case, the justice department argued that Google cannot be trusted to run AdX, given its past behavior.</p>\n    <p>Google argued that a forced sale would be technically difficult and result in a long and painful transition that would hurt customers. The company also sought to show the justice department’s demand was different from Google’s own previous offer ‌to sell AdX to end an EU antitrust investigation, which Reuters reported in 2024.</p>\n    <p>Ad Manager represented 4.1% of Google’s overall revenue and 1.5% of operating profit in 2020, according to Wedbush research and analysis of ​court documents. More recent figures were redacted from court documents.</p>\n    <p>The ruling is the third time in a row that a judge has rejected a bid by US antitrust enforcers to break up big tech in a crackdown that started during Donald Trump’s first term. It is likely to fuel questions about whether courts are up to the task of checking ⁠the industry’s unprecedented power over the US economy.</p>\n    <p>after newsletter promotion</p>\n    <p>A federal judge in Washington last year rejected the ​Federal Trade Commission’s attempt to make Meta ​Platforms sell off Instagram and WhatsApp, saying the ​agency failed to prove that Meta holds a monopoly in a social media landscape that has shifted ​drastically since the case ‌was brought in 2020.</p>\n    <p>Likewise, ​another judge in Washington, ​who previously ruled that Google holds an illegal monopoly in online search, rejected the justice department’s attempt to make the company sell its Chrome browser, citing rising competition from generative artificial intelligence companies such as OpenAI’s ChatGPT.</p>\n    <p>US antitrust cases against Amazon and Apple, which involve big smartphone and online retail markets, will not go to trial until 2027 at the earliest.</p>\n  </body>\n</html>",
-      "word_count": 490,
-      "char_count": 3075,
-      "lead_image": "https://i.guim.co.uk/img/media/d9626a0a79a75b81819b461da606062afd9d0125/283_0_3017_2415/master/3017.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c1699359535f61695b687363ffa62fea",
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d9626a0a79a75b81819b461da606062afd9d0125/283_0_3017_2415/master/3017.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c1699359535f61695b687363ffa62fea",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/d9626a0a79a75b81819b461da606062afd9d0125/283_0_3017_2415/master/3017.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=77a089e6f026e3110ef56678b8c1fa97",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/d9626a0a79a75b81819b461da606062afd9d0125/283_0_3017_2415/master/3017.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=8cac97de64534be8bf448cb667ae7e49",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/d9626a0a79a75b81819b461da606062afd9d0125/283_0_3017_2415/master/3017.jpg?width=465&dpr=1&s=none&crop=none",
-          "alt": "a sign for Google on a building",
-          "caption": "Google’s office on 19 May 2025 in New York City. Photograph: Gary Hershorn/Corbis/Getty Images",
-          "role": "body"
-        }
-      ],
-      "image_count": 4,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-02T23:48:56Z"
-    },
-    {
-      "id": "a035d63e3c3bff71",
-      "title": "A nuclear reactor is being installed a mile underground in Kansas",
-      "header": "New Scientist",
-      "published_at": "2026-09-02T19:49:23Z",
-      "published_raw": "Wed, 02 Sep 2026 19:49:23 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1NpQ0ZucUZLaC1BMUp6cWRjQjhxXzlXS1JGNUY2OWlMSVgxS2lBNXVyaHFYaldGYS1kU01GelIyWEExMGFhcWNLUHNfemZ0Xy1IQ1liamVfc0VKZjZtRG1saG5oeHJBRTBvRmdHUnY0WXJWTmlvRnlOV3hpX0tudEtkWUs5WnNOemN3ZmJ6a1hXT1BSUlFBZFVSVDRZYk93UjFTZXg4YWlUY0hzSjJYeA?oc=5",
-      "description": "A nuclear reactor is being installed a mile underground in Kansas New Scientist",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1NpQ0ZucUZLaC1BMUp6cWRjQjhxXzlXS1JGNUY2OWlMSVgxS2lBNXVyaHFYaldGYS1kU01GelIyWEExMGFhcWNLUHNfemZ0Xy1IQ1liamVfc0VKZjZtRG1saG5oeHJBRTBvRmdHUnY0WXJWTmlvRnlOV3hpX0tudEtkWUs5WnNOemN3ZmJ6a1hXT1BSUlFBZFVSVDRZYk93UjFTZXg4YWlUY0hzSjJYeA?oc=5\" target=\"_blank\">A nuclear reactor is being installed a mile underground in Kansas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Scientist</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1NpQ0ZucUZLaC1BMUp6cWRjQjhxXzlXS1JGNUY2OWlMSVgxS2lBNXVyaHFYaldGYS1kU01GelIyWEExMGFhcWNLUHNfemZ0Xy1IQ1liamVfc0VKZjZtRG1saG5oeHJBRTBvRmdHUnY0WXJWTmlvRnlOV3hpX0tudEtkWUs5WnNOemN3ZmJ6a1hXT1BSUlFBZFVSVDRZYk93UjFTZXg4YWlUY0hzSjJYeA?oc=5"
-      ],
-      "scraped_at": "2026-09-03T07:42:52Z",
-      "url": "https://www.newscientist.com/article/2587049-a-nuclear-reactor-is-being-installed-a-mile-underground-in-kansas/",
-      "final_url": "https://www.newscientist.com/article/2587049-a-nuclear-reactor-is-being-installed-a-mile-underground-in-kansas/",
-      "source": "New Scientist",
-      "article_title": "",
-      "heading": "A nuclear reactor is being installed a mile underground in Kansas",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "A nuclear reactor is being installed a mile underground in Kansas New Scientist",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-03T07:42:52Z"
-    },
-    {
-      "id": "e7a8c27e0e2c5006",
-      "title": "Novel spatial technology may improve our understanding of cancer biology",
-      "header": "Medical Xpress",
-      "published_at": "2026-09-02T19:40:08Z",
-      "published_raw": "Wed, 02 Sep 2026 19:40:08 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNldRaHlZVmNOakFINW9LNEVNZ3VxRzFqeTl6MEFKR2sxWkppWGhMNVc0MlhCM2t5bDk4UDhrWmNhV2pyQmZGeDFkQUZHU0M2S0p6eHJsQ19obFBVUS1DSEpNbDBNVG80c1ZaNUowZ1NZQjNqZ2FBM3RjTnV3YlQyNzNBdw?oc=5",
-      "description": "Novel spatial technology may improve our understanding of cancer biology Medical Xpress",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNNldRaHlZVmNOakFINW9LNEVNZ3VxRzFqeTl6MEFKR2sxWkppWGhMNVc0MlhCM2t5bDk4UDhrWmNhV2pyQmZGeDFkQUZHU0M2S0p6eHJsQ19obFBVUS1DSEpNbDBNVG80c1ZaNUowZ1NZQjNqZ2FBM3RjTnV3YlQyNzNBdw?oc=5\" target=\"_blank\">Novel spatial technology may improve our understanding of cancer biology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medical Xpress</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNldRaHlZVmNOakFINW9LNEVNZ3VxRzFqeTl6MEFKR2sxWkppWGhMNVc0MlhCM2t5bDk4UDhrWmNhV2pyQmZGeDFkQUZHU0M2S0p6eHJsQ19obFBVUS1DSEpNbDBNVG80c1ZaNUowZ1NZQjNqZ2FBM3RjTnV3YlQyNzNBdw?oc=5"
-      ],
-      "scraped_at": "2026-09-03T02:44:47Z",
-      "url": "https://medicalxpress.com/news/2026-09-spatial-technology-cancer-biology.html",
-      "final_url": "https://medicalxpress.com/news/2026-09-spatial-technology-cancer-biology.html",
-      "source": "Medical Xpress",
-      "article_title": "",
-      "heading": "Novel spatial technology may improve our understanding of cancer biology",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Novel spatial technology may improve our understanding of cancer biology Medical Xpress",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-03T02:44:47Z"
-    },
-    {
-      "id": "50baf9e23759ba39",
-      "title": "NCMC opens new Martin Jahn Technology Center in Petoskey",
-      "header": "9and10News.com",
-      "published_at": "2026-09-02T19:35:48Z",
-      "published_raw": "Wed, 02 Sep 2026 19:35:48 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUkJrdS11X2FSZ3JHNF9KemhaZmNmNTJ6Ul9YLUJ5NnVFLS1QME1qbG5fQmhIZm5Ydjg1dFBidnA2NnlPTHB0MjJmVUdVZFd5cDFxYlBnYUFGVThYZENHbFJ5OW1LeFNBWGdvM3ctTm9uNDV5ME5ZQV9pQjhTYnFiOURJTEhkTGgwLVFPbVRFVXdkd1dWS1lYV2U4NA?oc=5",
-      "description": "NCMC opens new Martin Jahn Technology Center in Petoskey 9and10News.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQUkJrdS11X2FSZ3JHNF9KemhaZmNmNTJ6Ul9YLUJ5NnVFLS1QME1qbG5fQmhIZm5Ydjg1dFBidnA2NnlPTHB0MjJmVUdVZFd5cDFxYlBnYUFGVThYZENHbFJ5OW1LeFNBWGdvM3ctTm9uNDV5ME5ZQV9pQjhTYnFiOURJTEhkTGgwLVFPbVRFVXdkd1dWS1lYV2U4NA?oc=5\" target=\"_blank\">NCMC opens new Martin Jahn Technology Center in Petoskey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9and10News.com</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUkJrdS11X2FSZ3JHNF9KemhaZmNmNTJ6Ul9YLUJ5NnVFLS1QME1qbG5fQmhIZm5Ydjg1dFBidnA2NnlPTHB0MjJmVUdVZFd5cDFxYlBnYUFGVThYZENHbFJ5OW1LeFNBWGdvM3ctTm9uNDV5ME5ZQV9pQjhTYnFiOURJTEhkTGgwLVFPbVRFVXdkd1dWS1lYV2U4NA?oc=5"
-      ],
-      "scraped_at": "2026-09-03T02:44:46Z",
-      "url": "https://www.9and10news.com/2026/09/02/ncmc-opens-new-martin-jahn-technology-center-in-petoskey/",
-      "final_url": "https://www.9and10news.com/2026/09/02/ncmc-opens-new-martin-jahn-technology-center-in-petoskey/",
-      "source": "9and10News.com",
-      "article_title": "NCMC opens new Martin Jahn Technology Center in Petoskey",
-      "heading": "NCMC opens new Martin Jahn Technology Center in Petoskey",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "The 11,750-square-foot facility expands hands-on learning opportunities in advanced manufacturing, engineering technology and skilled trades.",
-      "content": "Classes are scheduled to begin in the new technology center later this fall semester. — PETOSKEY - North Central Michigan College hosted a ribbon-cutting ceremony Monday, to celebrate the opening of the new Martin Jahn Technology Center.\nThe 11,750-square-foot facility expands hands-on learning opportunities in advanced manufacturing, engineering technology and skilled trades.\nThe new building serves as the centerpiece of North Central’s $22 million Career and Technical Education Enhancement initiative, marking the college’s largest campus expansion in more than 50 years. As part of the initiative, the project also includes a 7,200-square-foot expansion of the Jack and Dorothy Harris Health Education and Science Center to support nursing and allied health programs.\nThe 11,750-square-foot center features dedicated space for hands-on instruction in several technical fields, including welding, CNC machining and HVACR.\nThe facility was funded through state and federal investments alongside private donations made through the NCMC Foundation. The center received its name following a lead gift from the Martin and Patricia Jahn Foundation.\nNorth Central Michigan College President David Roland Finley praised the community collaboration behind the new facility during the ceremony. “Today’s celebration represents the culmination of thoughtful planning, strong public-private partnerships and the unwavering support of our elected officials, donors, business leaders and community members,” Finley said. “Together, you’ve invested not only in this facility, but in our students, our workforce and the future of Northern Michigan.”\nClasses are scheduled to begin in the new technology center this fall.",
-      "content_html": "<html>\n  <body>\n    <p>Classes are scheduled to begin in the new technology center later this fall semester. — PETOSKEY - North Central Michigan College hosted a ribbon-cutting ceremony Monday, to celebrate the opening of the new Martin Jahn Technology Center.</p>\n    <img src=\"https://www.9and10news.com/pf/resources/icon-512-dev.png?d=315\" alt=\"910 News\"/>\n    <p>The 11,750-square-foot facility expands hands-on learning opportunities in advanced manufacturing, engineering technology and skilled trades.</p>\n    <p>The new building serves as the centerpiece of North Central’s $22 million Career and Technical Education Enhancement initiative, marking the college’s largest campus expansion in more than 50 years. As part of the initiative, the project also includes a 7,200-square-foot expansion of the Jack and Dorothy Harris Health Education and Science Center to support nursing and allied health programs.</p>\n    <p>The 11,750-square-foot center features dedicated space for hands-on instruction in several technical fields, including welding, CNC machining and HVACR.</p>\n    <p>The facility was funded through state and federal investments alongside private donations made through the NCMC Foundation. The center received its name following a lead gift from the Martin and Patricia Jahn Foundation.</p>\n    <p>North Central Michigan College President David Roland Finley praised the community collaboration behind the new facility during the ceremony. “Today’s celebration represents the culmination of thoughtful planning, strong public-private partnerships and the unwavering support of our elected officials, donors, business leaders and community members,” Finley said. “Together, you’ve invested not only in this facility, but in our students, our workforce and the future of Northern Michigan.”</p>\n    <p>Classes are scheduled to begin in the new technology center this fall.</p>\n  </body>\n</html>",
-      "word_count": 241,
-      "char_count": 1711,
-      "lead_image": "https://cloudfront-us-east-1.images.arcpublishing.com/910mediagroup/AKERQFKXFNHFTAWE6VNP6ZPGM4.jpg",
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/910mediagroup/AKERQFKXFNHFTAWE6VNP6ZPGM4.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-03T02:44:46Z"
-    },
-    {
-      "id": "723d310438894e34",
-      "title": "Humble exoskeletons work better than combat supersuits",
-      "header": "The Economist",
-      "published_at": "2026-09-02T18:59:45Z",
-      "published_raw": "Wed, 02 Sep 2026 18:59:45 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHlWNVRXQTNOS2R4UmNOSHF3VXdaeWY1dmJIdGRqVU50ZjcyXzQ4QVJEMVNLYWN4UGI5RzRoSTlxRVdOSk5JYmhDdTZFZzFMWkdjb1h5cGVwbVdpR21RbVJPYjlkZkJrQW5mZ0JFR2t3LUMxaDJOWnB5dDdNdmRzeXpnNlRoUGVGdVJpM3RZanNhaERJZ3JXNmpBVnBSdWRNWkNrb3Rua2dmZ2Q1MTFmUkJ4RjQ?oc=5",
-      "description": "Humble exoskeletons work better than combat supersuits The Economist",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHlWNVRXQTNOS2R4UmNOSHF3VXdaeWY1dmJIdGRqVU50ZjcyXzQ4QVJEMVNLYWN4UGI5RzRoSTlxRVdOSk5JYmhDdTZFZzFMWkdjb1h5cGVwbVdpR21RbVJPYjlkZkJrQW5mZ0JFR2t3LUMxaDJOWnB5dDdNdmRzeXpnNlRoUGVGdVJpM3RZanNhaERJZ3JXNmpBVnBSdWRNWkNrb3Rua2dmZ2Q1MTFmUkJ4RjQ?oc=5\" target=\"_blank\">Humble exoskeletons work better than combat supersuits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHlWNVRXQTNOS2R4UmNOSHF3VXdaeWY1dmJIdGRqVU50ZjcyXzQ4QVJEMVNLYWN4UGI5RzRoSTlxRVdOSk5JYmhDdTZFZzFMWkdjb1h5cGVwbVdpR21RbVJPYjlkZkJrQW5mZ0JFR2t3LUMxaDJOWnB5dDdNdmRzeXpnNlRoUGVGdVJpM3RZanNhaERJZ3JXNmpBVnBSdWRNWkNrb3Rua2dmZ2Q1MTFmUkJ4RjQ?oc=5"
-      ],
-      "scraped_at": "2026-09-03T07:42:52Z",
-      "url": "https://www.economist.com/science-and-technology/2026/09/02/humble-exoskeletons-work-better-than-combat-supersuits",
-      "final_url": "https://www.economist.com/science-and-technology/2026/09/02/humble-exoskeletons-work-better-than-combat-supersuits",
-      "source": "The Economist",
-      "article_title": "",
-      "heading": "Humble exoskeletons work better than combat supersuits",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Humble exoskeletons work better than combat supersuits The Economist",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-03T07:42:52Z"
     }
   ]
 }
