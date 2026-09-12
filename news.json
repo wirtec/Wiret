@@ -1,17 +1,120 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-12T10:01:29Z",
+  "generated_at": "2026-09-12T13:32:40Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 11,
+    "scraped_now": 12,
     "added": 7,
-    "updated": 4,
-    "ok": 397,
-    "failed": 103,
-    "duration_seconds": 101.82
+    "updated": 5,
+    "ok": 396,
+    "failed": 104,
+    "duration_seconds": 100.78
   },
   "articles": [
+    {
+      "id": "c1b6025ec39baa62",
+      "title": "D.C. police union, Alexandria leaders voice concerns over Flock technology",
+      "header": "The Washington Post",
+      "published_at": "2026-09-12T13:02:12Z",
+      "published_raw": "Sat, 12 Sep 2026 13:02:12 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTkzYWdpWFY0c2pqYzA1TG1hNTE0ZTJVNGl5ek9rdXl5aWZjbHpRc2g4ZVA5bFpoSkJmYXY1aWxfcGxhS09nVld2bGV3Qk9GU2NRSi1iSjA1dzNoOVdVNG9mYUpGYjc4Rmd6dmx4OXBLWG1rOHFCbEFGVjZEazlySmNnSm9OOUxJUGZWU2t4bUYyMVgtYUhKbzB6VEp0LXMtbnl5TFFUQUVaMHU2LUNrcGFFX0NtSlR3WUFoRmd6RUQ?oc=5",
+      "description": "D.C. police union, Alexandria leaders voice concerns over Flock technology The Washington Post",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTkzYWdpWFY0c2pqYzA1TG1hNTE0ZTJVNGl5ek9rdXl5aWZjbHpRc2g4ZVA5bFpoSkJmYXY1aWxfcGxhS09nVld2bGV3Qk9GU2NRSi1iSjA1dzNoOVdVNG9mYUpGYjc4Rmd6dmx4OXBLWG1rOHFCbEFGVjZEazlySmNnSm9OOUxJUGZWU2t4bUYyMVgtYUhKbzB6VEp0LXMtbnl5TFFUQUVaMHU2LUNrcGFFX0NtSlR3WUFoRmd6RUQ?oc=5\" target=\"_blank\">D.C. police union, Alexandria leaders voice concerns over Flock technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTkzYWdpWFY0c2pqYzA1TG1hNTE0ZTJVNGl5ek9rdXl5aWZjbHpRc2g4ZVA5bFpoSkJmYXY1aWxfcGxhS09nVld2bGV3Qk9GU2NRSi1iSjA1dzNoOVdVNG9mYUpGYjc4Rmd6dmx4OXBLWG1rOHFCbEFGVjZEazlySmNnSm9OOUxJUGZWU2t4bUYyMVgtYUhKbzB6VEp0LXMtbnl5TFFUQUVaMHU2LUNrcGFFX0NtSlR3WUFoRmd6RUQ?oc=5"
+      ],
+      "scraped_at": "2026-09-12T13:31:00Z",
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/09/12/dc-police-union-alexandria-leaders-voice-concerns-over-flock-technology/",
+      "final_url": "https://www.washingtonpost.com/dc-md-va/2026/09/12/dc-police-union-alexandria-leaders-voice-concerns-over-flock-technology/",
+      "source": "The Washington Post",
+      "article_title": "",
+      "heading": "D.C. police union, Alexandria leaders voice concerns over Flock technology",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "D.C. police union, Alexandria leaders voice concerns over Flock technology The Washington Post",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-12T13:31:00Z"
+    },
+    {
+      "id": "449712aba2d460b8",
+      "title": "Inside LG&E and KU’s Control Center: How Technology Helps Keep the Power On",
+      "header": "whas11.com",
+      "published_at": "2026-09-12T12:31:00Z",
+      "published_raw": "Sat, 12 Sep 2026 12:31:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRm1xUVBWV19jQTJieENXUDRYbF93X1ZBYmRlbG9PWXhjeFl0WUFISWZ5WGNmbXI1S2NRZ09RU3dIWFZGeHBrVUE4US1SY1BhWHl2cC1wMV9VcXphZndsYzNRN3VhaUI0VV9ndkp6RG1LWXpMN284MWJwaEZ3VHJjUEU2U1k2VUItWXBWaXdmVldSRWI5bUpsZUluaVhyZWxqanZFNFY3T251a0lHVGVzWHl5R2ZsRUFjbndtWlZwUHVFQ2I3TmlRNjBmUm5LNzhYUjA4dV9lY1g1ekZ1aXFjbGYzUXVaVU5I?oc=5",
+      "description": "Inside LG&E and KU’s Control Center: How Technology Helps Keep the Power On whas11.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRm1xUVBWV19jQTJieENXUDRYbF93X1ZBYmRlbG9PWXhjeFl0WUFISWZ5WGNmbXI1S2NRZ09RU3dIWFZGeHBrVUE4US1SY1BhWHl2cC1wMV9VcXphZndsYzNRN3VhaUI0VV9ndkp6RG1LWXpMN284MWJwaEZ3VHJjUEU2U1k2VUItWXBWaXdmVldSRWI5bUpsZUluaVhyZWxqanZFNFY3T251a0lHVGVzWHl5R2ZsRUFjbndtWlZwUHVFQ2I3TmlRNjBmUm5LNzhYUjA4dV9lY1g1ekZ1aXFjbGYzUXVaVU5I?oc=5\" target=\"_blank\">Inside LG&E and KU’s Control Center: How Technology Helps Keep the Power On</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">whas11.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRm1xUVBWV19jQTJieENXUDRYbF93X1ZBYmRlbG9PWXhjeFl0WUFISWZ5WGNmbXI1S2NRZ09RU3dIWFZGeHBrVUE4US1SY1BhWHl2cC1wMV9VcXphZndsYzNRN3VhaUI0VV9ndkp6RG1LWXpMN284MWJwaEZ3VHJjUEU2U1k2VUItWXBWaXdmVldSRWI5bUpsZUluaVhyZWxqanZFNFY3T251a0lHVGVzWHl5R2ZsRUFjbndtWlZwUHVFQ2I3TmlRNjBmUm5LNzhYUjA4dV9lY1g1ekZ1aXFjbGYzUXVaVU5I?oc=5"
+      ],
+      "scraped_at": "2026-09-12T13:31:01Z",
+      "url": "https://www.whas11.com/video/news/local/inside-lge-and-kus-control-center-how-technology-helps-keep-the-power-on/417-05d76d7c-f94f-4300-812f-b38130d02f0d",
+      "final_url": "https://www.whas11.com/video/news/local/inside-lge-and-kus-control-center-how-technology-helps-keep-the-power-on/417-05d76d7c-f94f-4300-812f-b38130d02f0d",
+      "source": "whas11.com",
+      "article_title": "",
+      "heading": "Inside LG&E and KU’s Control Center: How Technology Helps Keep the Power On",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Inside LG&E and KU’s Control Center: How Technology Helps Keep the Power On whas11.com",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-12T13:31:01Z"
+    },
+    {
+      "id": "0ca824fe83badfba",
+      "title": "Merit Financial Advisors Names John Rajes As Chief Technology Officer As Firm Surpasses $30 Billion In Assets",
+      "header": "Pulse 2.0",
+      "published_at": "2026-09-12T11:01:14Z",
+      "published_raw": "Sat, 12 Sep 2026 11:01:14 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTXU4NGd4ZjZ5WmZpUEJkWFZUS0FaQjRCei1NcF9xZVFaNW5Oc0kwWUxPbU5xc2dTWEhhcHdOQVdQLXNEaXQ3RWR6MWhtSnFFSWtrVE5ZbVVGR21zVmh4UFVheTF6QWVYc0UwWnE0SmN0WmRMWkZNNmVmcURTbHlsV2p2X3g2TG9MdU8taE5lN1FkSldZWlZ6RXB6Rk4yWS1YbW1TSjFab3VuaUlxQ3FZZlZ6cE5zT3FwMEQ0blg1ejU5Y3AwUTlN0gHMAUFVX3lxTE5OSGluZXpwNzJtSDdPWlhWd0F5UlcxakxISURzQ3E0T1JidWlUcGF4LVRRSVlVN3lnczU4M1VGZzI4ckZlRHhQRklTcHliZEh6OGZHYkxQVTI2Yl9WQ1ZZRjI1VmNLWVhJcmJneXRnOEhlZEJ5bVl1UC13clpmM2txeHVpUXktRzY4LTY4QkI0MTRMVm14LUQ2a05EWEg2U0EtYThPSWp2bFh3ZmxHV2lpOGViVXI1MV9ad1JxOEd1dEdYa0U1MjJXN2FUUQ?oc=5",
+      "description": "Merit Financial Advisors Names John Rajes As Chief Technology Officer As Firm Surpasses $30 Billion In Assets Pulse 2.0",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNTXU4NGd4ZjZ5WmZpUEJkWFZUS0FaQjRCei1NcF9xZVFaNW5Oc0kwWUxPbU5xc2dTWEhhcHdOQVdQLXNEaXQ3RWR6MWhtSnFFSWtrVE5ZbVVGR21zVmh4UFVheTF6QWVYc0UwWnE0SmN0WmRMWkZNNmVmcURTbHlsV2p2X3g2TG9MdU8taE5lN1FkSldZWlZ6RXB6Rk4yWS1YbW1TSjFab3VuaUlxQ3FZZlZ6cE5zT3FwMEQ0blg1ejU5Y3AwUTlN0gHMAUFVX3lxTE5OSGluZXpwNzJtSDdPWlhWd0F5UlcxakxISURzQ3E0T1JidWlUcGF4LVRRSVlVN3lnczU4M1VGZzI4ckZlRHhQRklTcHliZEh6OGZHYkxQVTI2Yl9WQ1ZZRjI1VmNLWVhJcmJneXRnOEhlZEJ5bVl1UC13clpmM2txeHVpUXktRzY4LTY4QkI0MTRMVm14LUQ2a05EWEg2U0EtYThPSWp2bFh3ZmxHV2lpOGViVXI1MV9ad1JxOEd1dEdYa0U1MjJXN2FUUQ?oc=5\" target=\"_blank\">Merit Financial Advisors Names John Rajes As Chief Technology Officer As Firm Surpasses $30 Billion In Assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTXU4NGd4ZjZ5WmZpUEJkWFZUS0FaQjRCei1NcF9xZVFaNW5Oc0kwWUxPbU5xc2dTWEhhcHdOQVdQLXNEaXQ3RWR6MWhtSnFFSWtrVE5ZbVVGR21zVmh4UFVheTF6QWVYc0UwWnE0SmN0WmRMWkZNNmVmcURTbHlsV2p2X3g2TG9MdU8taE5lN1FkSldZWlZ6RXB6Rk4yWS1YbW1TSjFab3VuaUlxQ3FZZlZ6cE5zT3FwMEQ0blg1ejU5Y3AwUTlN0gHMAUFVX3lxTE5OSGluZXpwNzJtSDdPWlhWd0F5UlcxakxISURzQ3E0T1JidWlUcGF4LVRRSVlVN3lnczU4M1VGZzI4ckZlRHhQRklTcHliZEh6OGZHYkxQVTI2Yl9WQ1ZZRjI1VmNLWVhJcmJneXRnOEhlZEJ5bVl1UC13clpmM2txeHVpUXktRzY4LTY4QkI0MTRMVm14LUQ2a05EWEg2U0EtYThPSWp2bFh3ZmxHV2lpOGViVXI1MV9ad1JxOEd1dEdYa0U1MjJXN2FUUQ?oc=5"
+      ],
+      "scraped_at": "2026-09-12T13:31:02Z",
+      "url": "https://pulse2.com/merit-financial-advisors-names-john-rajes-as-chief-technology-officer-as-firm-surpasses-30-billion-in-assets/",
+      "final_url": "https://pulse2.com/merit-financial-advisors-names-john-rajes-as-chief-technology-officer-as-firm-surpasses-30-billion-in-assets/",
+      "source": "Pulse 2.0",
+      "article_title": "Merit Financial Advisors Names John Rajes As Chief Technology Officer As Firm Surpasses $30 Billion In Assets",
+      "heading": "Merit Financial Advisors Names John Rajes As Chief Technology Officer As Firm Surpasses $30 Billion In Assets",
+      "authors": [
+        "Amit Chowdhry"
+      ],
+      "article_published_at": "2026-09-12T11:01:14+00:00",
+      "article_modified_at": null,
+      "summary": "Merit Financial Advisors has appointed John Rajes as Chief Technology Officer as the wealth management firm builds technology infrastructure to support its continued national expansion.",
+      "content": "Merit Financial Advisors has appointed John Rajes as Chief Technology Officer as the wealth management firm builds technology infrastructure to support its continued national expansion.\nMerit manages more than $30.1 billion across more than 55 offices nationwide and has completed 61 acquisitions, including nine partnerships during 2026.\nRajes will oversee enterprise technology strategy spanning architecture, integrations, data, artificial intelligence, and the development of a more unified digital experience for Merit advisors and employees.\nOne of his initial priorities will be creating a technology roadmap focused on integration, scalability, and simplicity, including connecting data and capabilities across Merit’s technology ecosystem to reduce the amount of time advisors spend switching between systems.\nRajes previously held leadership positions at LPL Financial, UBS, Barclays, and Goldman Sachs. Most recently, he operated an independent consulting business.\nAs Head of Strategic Partnerships at LPL Financial, he was responsible for an ecosystem of approximately 90 fintech providers as well as partnerships with asset managers, insurers, and separately managed account providers.\nRajes plans to focus on both core infrastructure, including data and integrations, and advisor-facing applications, including emerging AI capabilities.\nThe technology strategy is intended to support Merit’s acquisition model by improving onboarding, integrating newly acquired workflows and platforms, and creating a more consistent advisor experience as the organization scales.\nMerit manages approximately $30.1 billion, including $22.982 billion in advisory assets, $3.32 billion in brokerage assets, $2.65 billion in employer plans, and $1.8 billion in ESOP assets.\nKEY QUOTES:\n“Merit has experienced tremendous growth, and we have been very intentional about making sure our leadership structure and infrastructure evolve along with the organization. Technology is now central to virtually every aspect of how we support our advisors, integrate new teams and create scale across the firm. John brings the wealth management experience, technology expertise and strategic perspective we need to connect the investments we are making today with a much broader roadmap for where Merit is going. Our growth strategy has always been about much more than completing transactions. We want to make sure that when great firms choose Merit, we have the leadership, technology, resources and support infrastructure to help them become even stronger. Building that foundation ahead of where we expect the business to go is a critical part of our long-term strategy.”\nChrissy Lee, Chief Operating Officer of Merit Financial Advisors\n“Technology becomes more important as an organization grows, but simply adding more technology isn’t the answer. The opportunity is to bring the pieces together in a way that creates a dramatically better experience and allows the organization to scale. Merit already has a strong foundation. Now we can build on it by connecting our data, integrations and AI capabilities in ways that make information more useful, accessible and actionable for advisors and employees. The opportunity to have an outsized impact at a firm growing as quickly as Merit was incredibly compelling. But equally important to me was the culture. There are many firms growing in wealth management. The question is where you believe you can thrive and who you want to thrive with. I saw in Merit a culture, leadership team and ambition that made this a particularly exciting opportunity.”\nJohn Rajes, Chief Technology Officer of Merit Financial Advisors",
+      "content_html": "<html>\n  <body>\n    <p>Merit Financial Advisors has appointed John Rajes as Chief Technology Officer as the wealth management firm builds technology infrastructure to support its continued national expansion.</p>\n    <p>Merit manages more than $30.1 billion across more than 55 offices nationwide and has completed 61 acquisitions, including nine partnerships during 2026.</p>\n    <p>Rajes will oversee enterprise technology strategy spanning architecture, integrations, data, artificial intelligence, and the development of a more unified digital experience for Merit advisors and employees.</p>\n    <p>One of his initial priorities will be creating a technology roadmap focused on integration, scalability, and simplicity, including connecting data and capabilities across Merit’s technology ecosystem to reduce the amount of time advisors spend switching between systems.</p>\n    <p>Rajes previously held leadership positions at LPL Financial, UBS, Barclays, and Goldman Sachs. Most recently, he operated an independent consulting business.</p>\n    <p>As Head of Strategic Partnerships at LPL Financial, he was responsible for an ecosystem of approximately 90 fintech providers as well as partnerships with asset managers, insurers, and separately managed account providers.</p>\n    <p>Rajes plans to focus on both core infrastructure, including data and integrations, and advisor-facing applications, including emerging AI capabilities.</p>\n    <p>The technology strategy is intended to support Merit’s acquisition model by improving onboarding, integrating newly acquired workflows and platforms, and creating a more consistent advisor experience as the organization scales.</p>\n    <p>Merit manages approximately $30.1 billion, including $22.982 billion in advisory assets, $3.32 billion in brokerage assets, $2.65 billion in employer plans, and $1.8 billion in ESOP assets.</p>\n    <p>KEY QUOTES:</p>\n    <p>“Merit has experienced tremendous growth, and we have been very intentional about making sure our leadership structure and infrastructure evolve along with the organization. Technology is now central to virtually every aspect of how we support our advisors, integrate new teams and create scale across the firm. John brings the wealth management experience, technology expertise and strategic perspective we need to connect the investments we are making today with a much broader roadmap for where Merit is going. Our growth strategy has always been about much more than completing transactions. We want to make sure that when great firms choose Merit, we have the leadership, technology, resources and support infrastructure to help them become even stronger. Building that foundation ahead of where we expect the business to go is a critical part of our long-term strategy.”</p>\n    <p>Chrissy Lee, Chief Operating Officer of Merit Financial Advisors</p>\n    <p>“Technology becomes more important as an organization grows, but simply adding more technology isn’t the answer. The opportunity is to bring the pieces together in a way that creates a dramatically better experience and allows the organization to scale. Merit already has a strong foundation. Now we can build on it by connecting our data, integrations and AI capabilities in ways that make information more useful, accessible and actionable for advisors and employees. The opportunity to have an outsized impact at a firm growing as quickly as Merit was incredibly compelling. But equally important to me was the culture. There are many firms growing in wealth management. The question is where you believe you can thrive and who you want to thrive with. I saw in Merit a culture, leadership team and ambition that made this a particularly exciting opportunity.”</p>\n    <p>John Rajes, Chief Technology Officer of Merit Financial Advisors</p>\n  </body>\n</html>",
+      "word_count": 535,
+      "char_count": 3652,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-12T13:31:02Z"
+    },
     {
       "id": "75f845da6da2527d",
       "title": "WIU students, faculty and staff to attend International Manufacturing Technology Show in Chicago",
@@ -24,7 +127,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcXozME9vbHloREpOX2FacTlwZy1lSEZWRDJIUWhxdEZMdzJPa1k4eUFzdjMzODJXMDZpcU01UkYtQlZ0TDFpa0o5WFFVekdvcHdqZkVQa3NoOURaTjNHSl9HeGVUcjBDOVZGODl4Y3pMWjN4X0ZPTTl4UHhScUJpSlZGYnVoQnJpMl9MTXZGM0pzbHg1eGJDRWJlODRiRS0wc1Q1dUVMcGg0bEdWWVptWFVWQjJLU2FubkRiWEg2QWJRZEttOU1IcnQwQjlCV0d3U2hJTVBuMU1YbFZUa2tEQVZqNGUxWnV3VXZlckJmZ1M?oc=5"
       ],
-      "scraped_at": "2026-09-12T09:59:49Z",
+      "scraped_at": "2026-09-12T13:31:01Z",
       "url": "https://muddyrivernews.com/communities/illinois/wiu-students-faculty-and-staff-to-attend-international-manufacturing-technology-show-in-chicago/20260912043254/",
       "final_url": "https://muddyrivernews.com/communities/illinois/wiu-students-faculty-and-staff-to-attend-international-manufacturing-technology-show-in-chicago/20260912043254/",
       "source": "Muddy River News",
@@ -45,6 +148,48 @@
       "status": "partial",
       "error": "download_failed",
       "first_seen_at": "2026-09-12T09:59:49Z"
+    },
+    {
+      "id": "e70c75e9b25db7a4",
+      "title": "Letters: Protect pets in storm season | Crazy GOP ideas | Invasive technology",
+      "header": "Orlando Sentinel",
+      "published_at": "2026-09-12T09:31:57Z",
+      "published_raw": "Sat, 12 Sep 2026 09:31:57 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEFoYVpIOEoxMm1KMXpHLUZiUEszRVA1LU9iYkFDbjduX1N3NFQtSmlhWmtWdUlTTS0zYXljekdueFNzc2VMb1RaYzc0Z1VYQ0tuLXIzZ1ltaWVVVkZjQUxxTFhBZ2J6VXpEbzNZdXpGajEzV3VHOHFyYXpsTnk4S3BaWTZzWnpzS1FVUHZzcU8zd3ZzclFfZzNfUHAxNVBDdlVIQkJpWHVBa2czN3ZWMEtfNDRnbzA?oc=5",
+      "description": "Letters: Protect pets in storm season | Crazy GOP ideas | Invasive technology Orlando Sentinel",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEFoYVpIOEoxMm1KMXpHLUZiUEszRVA1LU9iYkFDbjduX1N3NFQtSmlhWmtWdUlTTS0zYXljekdueFNzc2VMb1RaYzc0Z1VYQ0tuLXIzZ1ltaWVVVkZjQUxxTFhBZ2J6VXpEbzNZdXpGajEzV3VHOHFyYXpsTnk4S3BaWTZzWnpzS1FVUHZzcU8zd3ZzclFfZzNfUHAxNVBDdlVIQkJpWHVBa2czN3ZWMEtfNDRnbzA?oc=5\" target=\"_blank\">Letters: Protect pets in storm season | Crazy GOP ideas | Invasive technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orlando Sentinel</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEFoYVpIOEoxMm1KMXpHLUZiUEszRVA1LU9iYkFDbjduX1N3NFQtSmlhWmtWdUlTTS0zYXljekdueFNzc2VMb1RaYzc0Z1VYQ0tuLXIzZ1ltaWVVVkZjQUxxTFhBZ2J6VXpEbzNZdXpGajEzV3VHOHFyYXpsTnk4S3BaWTZzWnpzS1FVUHZzcU8zd3ZzclFfZzNfUHAxNVBDdlVIQkJpWHVBa2czN3ZWMEtfNDRnbzA?oc=5"
+      ],
+      "scraped_at": "2026-09-12T13:31:02Z",
+      "url": "https://www.orlandosentinel.com/2026/09/12/letters-protect-pets-in-storm-season-crazy-gop-ideas-invasive-technology/",
+      "final_url": "https://www.orlandosentinel.com/2026/09/12/letters-protect-pets-in-storm-season-crazy-gop-ideas-invasive-technology/",
+      "source": "Orlando Sentinel",
+      "article_title": "Letters: Protect pets in storm season | Crazy GOP ideas | Invasive technology",
+      "heading": "Letters: Protect pets in storm season | Crazy GOP ideas | Invasive technology",
+      "authors": [
+        "Letters to the editor"
+      ],
+      "article_published_at": "2026-09-12T09:30:43+00:00",
+      "article_modified_at": "2026-09-10T18:42:47+00:00",
+      "summary": "A congressional bill addresses the need for uniform pet evacuation procedures.",
+      "content": "Protect pets for hurricane season\nWe Floridians are now in our hurricane season, and emergency preparedness is of vital importance. History of prior natural disasters such as storms or wildfires has proven that thousands of homeowners will not evacuate without their beloved pets. Many people have died because they refused to leave their pets behind.\nI worked for the Red Cross in New Orleans after Hurricane Katrina’s devastation swept through in 2005. I witnessed the anguish pet owners experienced because they were not allowed to save their pets during evacuations. It is estimated that at least tens of thousands of pets perished because they were abandoned in their homes. First responders, including the National Guard, were not allowed to include any pets while conducting rescue efforts, making evacuations more dangerous and critical.\nA bipartisan congressional bill addresses the need for pet evacuation procedures. It’s called the PETSAFE Act, for Providing Essential Temporary Shelter Assistance For Emergencies. It’s designed to cover all pet emergency procedures including veterinary care, pet supplies and food, companion animal mobile trailers and emergency sheltering. There are more components in this bill, all designed to allow pet owners to include their companions in evacuation rescues. Contact your Congress members to ask for support of this bill (H.R. 7438 and S. 4558).\n— Mary Monk, Daytona Beach\n‘Common sense vs. crazy’\nThe Republican Party has rolled out their new strategy for the upcoming midterm elections, and it’s a doozy. It’s “common sense vs. crazy.” I’ve heard this phrase from almost every Republican politician I can see who can find a microphone and a rolling camera. This seems to be the brainchild strategy from the imagineers of a party that, as I see it, has tried to run the military, the economy, human rights, voting rights and civil rights into the ground as fast as it can.\nSo, what is “crazy”? Crazy might be looking for a Republican member of Congress or someone wanting a job in the Trump administration admitting Joe Biden won the 2020 election. Crazy might be the exhaustion of military resources (both munitions and personnel) on a war that “isn’t really a war.” Crazy might be a collection of candidates in Florida running for Senate, attorney general and other offices who can’t remember anything regarding the Hope Florida debacle. Crazy might be a president telling us the economy has never been better in the history of the world, when people can’t pay rent, buy gas or groceries, afford insurance or medicine (or maybe pick two or three they can do without). Crazy might be a candidate for governor that promises to make housing affordable and was one of only 35 in the House to vote against the affordable housing bill. Yes, the Gaslighting Old Party has a plan, and I hope we don’t fall for it again this November.\n— Richard Wolken, Longwood\nTechnology gets in the way\nAlmost everything we do today requires an app, a code or a portal. Many of us find ourselves illiterate in our own homes. If paying a bill or booking a medical appointment requires the help of a son or granddaughter, assuming there is one, then our system has failed. It isn’t innovation, it is exclusion.\nTechnology should serve people and not determine who is entitled to their basic rights or their dignity. Almost nothing that we do now is easy because of the high-tech skills required, whether it’s going to a concert, planning a vacation or reviewing the results of a doctor’s visit. As for paying bills or managing our finances, forget about it.\nWhere is all this going and whose purpose does it serve?\n— Charles Michael Sitero, Ormond Beach\nYou can submit a letter to the editor by sending it by email to insight@orlandosentinel.com or by filling out the form below. Letters are limited to less than 250 words and must be signed (no pseudonyms nor initials).You must include your email address, address with city and daytime phone number for verification. Letters are subject to editing for clarity and length.",
+      "content_html": "<html>\n  <body>\n    <img src=\"https://www.orlandosentinel.com/wp-content/uploads/2025/01/tfl-z-STORM-MILTON-30_207166537.jpg\" alt=\"Donna Clark and her pets are rescued from Hurricane Milton floodwaters by Lakeland Police Department  on Oct. 10, 2024. (Nicole Craine/The New York Times)&#10;\" title=\"tfl-z-STORM-MILTON-30_207166537\"/>\n    <h4>Protect pets for hurricane season</h4>\n    <p>We Floridians are now in our hurricane season, and emergency preparedness is of vital importance. History of prior natural disasters such as storms or wildfires has proven that thousands of homeowners will not evacuate without their beloved pets. Many people have died because they refused to leave their pets behind.</p>\n    <p>I worked for the Red Cross in New Orleans after Hurricane Katrina’s devastation swept through in 2005. I witnessed the anguish pet owners experienced because they were not allowed to save their pets during evacuations. It is estimated that at least tens of thousands of pets perished because they were abandoned in their homes. First responders, including the National Guard, were not allowed to include any pets while conducting rescue efforts, making evacuations more dangerous and critical.</p>\n    <p>A bipartisan congressional bill addresses the need for pet evacuation procedures. It’s called the PETSAFE Act, for Providing Essential Temporary Shelter Assistance For Emergencies. It’s designed to cover all pet emergency procedures including veterinary care, pet supplies and food, companion animal mobile trailers and emergency sheltering. There are more components in this bill, all designed to allow pet owners to include their companions in evacuation rescues. Contact your Congress members to ask for support of this bill (H.R. 7438 and S. 4558).</p>\n    <p>— Mary Monk, Daytona Beach</p>\n    <h4>‘Common sense vs. crazy’</h4>\n    <p>The Republican Party has rolled out their new strategy for the upcoming midterm elections, and it’s a doozy. It’s “common sense vs. crazy.” I’ve heard this phrase from almost every Republican politician I can see who can find a microphone and a rolling camera. This seems to be the brainchild strategy from the imagineers of a party that, as I see it, has tried to run the military, the economy, human rights, voting rights and civil rights into the ground as fast as it can.</p>\n    <p>So, what is “crazy”? Crazy might be looking for a Republican member of Congress or someone wanting a job in the Trump administration admitting Joe Biden won the 2020 election. Crazy might be the exhaustion of military resources (both munitions and personnel) on a war that “isn’t really a war.” Crazy might be a collection of candidates in Florida running for Senate, attorney general and other offices who can’t remember anything regarding the Hope Florida debacle. Crazy might be a president telling us the economy has never been better in the history of the world, when people can’t pay rent, buy gas or groceries, afford insurance or medicine (or maybe pick two or three they can do without). Crazy might be a candidate for governor that promises to make housing affordable and was one of only 35 in the House to vote against the affordable housing bill. Yes, the Gaslighting Old Party has a plan, and I hope we don’t fall for it again this November.</p>\n    <p>— Richard Wolken, Longwood</p>\n    <h4>Technology gets in the way</h4>\n    <p>Almost everything we do today requires an app, a code or a portal. Many of us find ourselves illiterate in our own homes. If paying a bill or booking a medical appointment requires the help of a son or granddaughter, assuming there is one, then our system has failed. It isn’t innovation, it is exclusion.</p>\n    <p>Technology should serve people and not determine who is entitled to their basic rights or their dignity. Almost nothing that we do now is easy because of the high-tech skills required, whether it’s going to a concert, planning a vacation or reviewing the results of a doctor’s visit. As for paying bills or managing our finances, forget about it.</p>\n    <p>Where is all this going and whose purpose does it serve?</p>\n    <p>— Charles Michael Sitero, Ormond Beach</p>\n    <p>You can submit a letter to the editor by sending it by email to insight@orlandosentinel.com or by filling out the form below. Letters are limited to less than 250 words and must be signed (no pseudonyms nor initials).You must include your email address, address with city and daytime phone number for verification. Letters are subject to editing for clarity and length.</p>\n  </body>\n</html>",
+      "word_count": 675,
+      "char_count": 4054,
+      "lead_image": "https://www.orlandosentinel.com/wp-content/uploads/2025/01/tfl-z-STORM-MILTON-30_207166537.jpg?w=4500&h=3000",
+      "images": [
+        {
+          "url": "https://www.orlandosentinel.com/wp-content/uploads/2025/01/tfl-z-STORM-MILTON-30_207166537.jpg?w=4500&h=3000",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-12T13:31:02Z"
     },
     {
       "id": "5401c3e7a2c7a82f",
@@ -92,7 +237,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2VZT2RaOHpEM0RneENGMFBIQk93Y0oxYmhqYnBIeDdRcGpRajBpTFhybzFqMHpSRHBmbGpxdUthMU1iNkxydUpoU2hHUUxvUmU0RkVyc0lpVUpQbDgtb2drdnYxNXcyWVhCR2lYMnVYd0s1QW5YdTVpR0lldnlKbnV0QndvRGdWc1ZabQ?oc=5"
       ],
-      "scraped_at": "2026-09-12T09:59:48Z",
+      "scraped_at": "2026-09-12T13:31:00Z",
       "url": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
       "final_url": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
       "source": "The New York Times",
@@ -113,6 +258,46 @@
       "status": "partial",
       "error": "download_failed",
       "first_seen_at": "2026-09-12T09:59:48Z"
+    },
+    {
+      "id": "73ca46f35d6a6b93",
+      "title": "When a Technology Standard Becomes a Competitive Weapon",
+      "header": "The Capitol Forum",
+      "published_at": "2026-09-12T08:42:06Z",
+      "published_raw": "Sat, 12 Sep 2026 08:42:06 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWTd5R2xmeHJhMjZBQV9JU3pkUHVLZ0FLd0xTMFVtdlVVR3FqdkNEWWhUcXF2VjFoTmlfMHhRT0pmeV9ZWlRwTlZuOHJraVBWVWxjcGhMMTdubk9tRDhBMTdwdlpQbktIR1Q0czdadTNXSGtrM3ItdndkRDBoVXFoOXRlM0JSNm5lN0VLSk9TWEpnV0ktdTRUemZn?oc=5",
+      "description": "When a Technology Standard Becomes a Competitive Weapon The Capitol Forum",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNWTd5R2xmeHJhMjZBQV9JU3pkUHVLZ0FLd0xTMFVtdlVVR3FqdkNEWWhUcXF2VjFoTmlfMHhRT0pmeV9ZWlRwTlZuOHJraVBWVWxjcGhMMTdubk9tRDhBMTdwdlpQbktIR1Q0czdadTNXSGtrM3ItdndkRDBoVXFoOXRlM0JSNm5lN0VLSk9TWEpnV0ktdTRUemZn?oc=5\" target=\"_blank\">When a Technology Standard Becomes a Competitive Weapon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Capitol Forum</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWTd5R2xmeHJhMjZBQV9JU3pkUHVLZ0FLd0xTMFVtdlVVR3FqdkNEWWhUcXF2VjFoTmlfMHhRT0pmeV9ZWlRwTlZuOHJraVBWVWxjcGhMMTdubk9tRDhBMTdwdlpQbktIR1Q0czdadTNXSGtrM3ItdndkRDBoVXFoOXRlM0JSNm5lN0VLSk9TWEpnV0ktdTRUemZn?oc=5"
+      ],
+      "scraped_at": "2026-09-12T13:31:01Z",
+      "url": "https://thecapitolforum.com/the-forum/when-a-technology-standard-becomes-a-competitive-weapon/",
+      "final_url": "https://thecapitolforum.com/the-forum/when-a-technology-standard-becomes-a-competitive-weapon/",
+      "source": "The Capitol Forum",
+      "article_title": "When a Technology Standard Becomes a Competitive Weapon - The Capitol Forum",
+      "heading": "When a Technology Standard Becomes a Competitive Weapon",
+      "authors": [],
+      "article_published_at": "2026-09-12T05:03:44+00:00",
+      "article_modified_at": null,
+      "summary": "When a Technology Standard Becomes a Competitive Weapon - a contribution to The Capitol Forum's Op-Ed Newsletter Series.",
+      "content": "Published on Sep 12, 2026\nBy Evan Swarztrauber\nFor decades, Arm Holdings, the British semiconductor design firm owned by Japan’s SoftBank, has licensed its proprietary technological language that connects processors to software on fair and neutral terms. Arm’s instruction set architecture (ISA) underpins nearly every smartphone and is widespread throughout cars, cloud data centers, and countless connected devices.\nUntil recently, its approach has been a case study in the benefits of openness and interoperability. Arm profits handsomely from its intellectual property, and its neutrality created a foundation for chipmakers across the world to build on its technology. Indeed, when Japan’s SoftBank acquired Arm in 2016, CEO Masayoshi Son said its basic business model would not change and promised to “provide neutrality to all the partners.”\nNow Arm and its affiliates are moving to compete directly with ISA licensees. That poses a policy challenge: When a foundational technology controlled by a foreign company is indispensable to U.S. industries, what guardrails are needed to preserve the fair access on which future innovation—and entire product roadmaps—depend?\nImagine if a nationwide railroad spent decades urging manufacturers to build factories along its tracks, offering fair terms and promising not to compete directly with those factories. If the railroad then began building its own factories along those tracks and manufacturing competing products, it could now favor its own shipments, delay rivals’ access, or demand harsher terms from companies who now had nowhere else to go.\nThis is the concern now playing out with Arm. Companies have invested decades of engineering and billions of dollars in products that depend on Arm’s ISAs. For many firms, switching ISAs would be costly, lengthy, or impractical. And it’s a particular concern for those developing semiconductors the U.S. government considers critical to economic and national security.\nAfter SoftBank acquired Arm, both companies began looking for ways to leverage Arm’s dominance, including plans to hike some royalty rates by as much as 300% and charging royalties based on the value of finished devices—which would have been a stark departure from its longtime business model of calculating royalties based on the value of chips.\nConcerns grew when SoftBank moved into finished chips on two tracks. In 2025, it acquired Ampere, a maker of Arm-based data-center processors. And in March, Arm itself moved beyond licensing processor designs and launched its own chip that competes with the Arm-based data center processors developed by Amazon, Google, Microsoft, and NVIDIA.\nA recent dispute with Qualcomm illustrates the structural conflict. Arm sued its longtime customer in 2022, arguing that processor designs developed by Nuvia—which Qualcomm had acquired—were not covered by Qualcomm’s existing license and should be destroyed. Arm also threatened to terminate the architecture license on which much of Qualcomm’s chip business depends.\nQualcomm prevailed on the central issues in that first case, but the conflict has continued. In separate litigation, Qualcomm alleges that Arm failed to negotiate in good faith over access to its next-generation Armv10 architecture and demanded unreasonable terms for related technology.\nArm and SoftBank deny they are engaging in anticompetitive conduct, and Arm argues that its incentive to innovate depends on enforcing its contracts and protecting its intellectual property. But the question is not whether Arm should profit and exercise those rights. It is whether an indispensable firm should be permitted to discriminate against its customers for anticompetitive reasons.\nThe question isn’t limited to Arm. The same issue arises wherever one company controls a chokepoint—an app store, operating system, cloud platform, search index, or online marketplace—while competing with dependent businesses. The recurring danger is that control of one layer can be used to suppress competition in another.\nMarkets cannot function properly when the owner of an indispensable gateway can weaponize it against competing, dependent businesses. Targeted remedies can often solve for competitive bottlenecks without the morass of price setting and government controls that tend to accompany public-utility status.\nThankfully, Congress is already stepping up to the plate. The bipartisan Fair Access to Critical Computing Technologies Act offers a narrow fix. Proposed by Sens. Katie Britt, R-AL, and Adam Schiff, D-CA, it would require foreign-owned ISA providers to offer U.S. companies access on fair, reasonable, and nondiscriminatory terms. Given the strategic role of semiconductors in commercial and defense systems, it deserves serious consideration.\nArm is already familiar with fair, reasonable, and nondiscriminatory terms. The company promised to maintain a neutral licensing framework when NVIDIA sought to buy Arm in 2020. While the acquisition failed, the framework offers a useful template (and if Congress adopts the Britt-Schiff proposal, a test case) for defining fairness and applying it throughout the tech stack: what qualifies as an essential input, when differentiated contract terms are discriminatory rather than commercially justified, and how policymakers can protect interoperability while respecting legitimate intellectual-property rights.\nCongress should consider applying these principles more broadly. “Full-stack neutrality” is a light-touch framework that prohibits companies controlling digital chokepoints from unreasonably discriminating against rivals that depend on their technology or using one layer to foreclose competition in another.\nA targeted nondiscrimination requirement like the Britt-Schiff proposal could address the immediate concern, but full-stack neutrality could enhance competition across the tech ecosystem.\nArm should remain free to build factories along its tracks. It should not be free to preference its own freight while sidelining longtime customers. Ensuring that foundational technologies remain platforms for competition rather than instruments of exclusion is the essence of full-stack neutrality.\nEvan Swarztrauber is a senior fellow at the Digital Progress Institute and a former policy advisor at the Federal Communications Commission.",
+      "content_html": "<html>\n  <body>\n    <p>Published on Sep 12, 2026</p>\n    <p>\n      <img src=\"https://thecapitolforum.com/wp-content/uploads/2026/09/The-Forum-Sept-12-Article-1-298x300.png\"/>\n    </p>\n    <p>By Evan Swarztrauber</p>\n    <p>For decades, Arm Holdings, the British semiconductor design firm owned by Japan’s SoftBank, has licensed its proprietary technological language that connects processors to software on fair and neutral terms. Arm’s instruction set architecture (ISA) underpins nearly every smartphone and is widespread throughout cars, cloud data centers, and countless connected devices.</p>\n    <p>Until recently, its approach has been a case study in the benefits of openness and interoperability. Arm profits handsomely from its intellectual property, and its neutrality created a foundation for chipmakers across the world to build on its technology. Indeed, when Japan’s SoftBank acquired Arm in 2016, CEO Masayoshi Son said its basic business model would not change and promised to “provide neutrality to all the partners.”</p>\n    <p>Now Arm and its affiliates are moving to compete directly with ISA licensees. That poses a policy challenge: When a foundational technology controlled by a foreign company is indispensable to U.S. industries, what guardrails are needed to preserve the fair access on which future innovation—and entire product roadmaps—depend?</p>\n    <p>Imagine if a nationwide railroad spent decades urging manufacturers to build factories along its tracks, offering fair terms and promising not to compete directly with those factories. If the railroad then began building its own factories along those tracks and manufacturing competing products, it could now favor its own shipments, delay rivals’ access, or demand harsher terms from companies who now had nowhere else to go.</p>\n    <p>This is the concern now playing out with Arm. Companies have invested decades of engineering and billions of dollars in products that depend on Arm’s ISAs. For many firms, switching ISAs would be costly, lengthy, or impractical. And it’s a particular concern for those developing semiconductors the U.S. government considers critical to economic and national security.</p>\n    <p>After SoftBank acquired Arm, both companies began looking for ways to leverage Arm’s dominance, including plans to hike some royalty rates by as much as 300% and charging royalties based on the value of finished devices—which would have been a stark departure from its longtime business model of calculating royalties based on the value of chips.</p>\n    <p>Concerns grew when SoftBank moved into finished chips on two tracks. In 2025, it acquired Ampere, a maker of Arm-based data-center processors. And in March, Arm itself moved beyond licensing processor designs and launched its own chip that competes with the Arm-based data center processors developed by Amazon, Google, Microsoft, and NVIDIA.</p>\n    <p>A recent dispute with Qualcomm illustrates the structural conflict. Arm sued its longtime customer in 2022, arguing that processor designs developed by Nuvia—which Qualcomm had acquired—were not covered by Qualcomm’s existing license and should be destroyed. Arm also threatened to terminate the architecture license on which much of Qualcomm’s chip business depends.</p>\n    <p>Qualcomm prevailed on the central issues in that first case, but the conflict has continued. In separate litigation, Qualcomm alleges that Arm failed to negotiate in good faith over access to its next-generation Armv10 architecture and demanded unreasonable terms for related technology.</p>\n    <p>Arm and SoftBank deny they are engaging in anticompetitive conduct, and Arm argues that its incentive to innovate depends on enforcing its contracts and protecting its intellectual property. But the question is not whether Arm should profit and exercise those rights. It is whether an indispensable firm should be permitted to discriminate against its customers for anticompetitive reasons.</p>\n    <p>The question isn’t limited to Arm. The same issue arises wherever one company controls a chokepoint—an app store, operating system, cloud platform, search index, or online marketplace—while competing with dependent businesses. The recurring danger is that control of one layer can be used to suppress competition in another.</p>\n    <p>Markets cannot function properly when the owner of an indispensable gateway can weaponize it against competing, dependent businesses. Targeted remedies can often solve for competitive bottlenecks without the morass of price setting and government controls that tend to accompany public-utility status.</p>\n    <p>Thankfully, Congress is already stepping up to the plate. The bipartisan Fair Access to Critical Computing Technologies Act offers a narrow fix. Proposed by Sens. Katie Britt, R-AL, and Adam Schiff, D-CA, it would require foreign-owned ISA providers to offer U.S. companies access on fair, reasonable, and nondiscriminatory terms. Given the strategic role of semiconductors in commercial and defense systems, it deserves serious consideration.</p>\n    <p>Arm is already familiar with fair, reasonable, and nondiscriminatory terms. The company promised to maintain a neutral licensing framework when NVIDIA sought to buy Arm in 2020. While the acquisition failed, the framework offers a useful template (and if Congress adopts the Britt-Schiff proposal, a test case) for defining fairness and applying it throughout the tech stack: what qualifies as an essential input, when differentiated contract terms are discriminatory rather than commercially justified, and how policymakers can protect interoperability while respecting legitimate intellectual-property rights.</p>\n    <p>Congress should consider applying these principles more broadly. “Full-stack neutrality” is a light-touch framework that prohibits companies controlling digital chokepoints from unreasonably discriminating against rivals that depend on their technology or using one layer to foreclose competition in another.</p>\n    <p>A targeted nondiscrimination requirement like the Britt-Schiff proposal could address the immediate concern, but full-stack neutrality could enhance competition across the tech ecosystem.</p>\n    <p>Arm should remain free to build factories along its tracks. It should not be free to preference its own freight while sidelining longtime customers. Ensuring that foundational technologies remain platforms for competition rather than instruments of exclusion is the essence of full-stack neutrality.</p>\n    <p>Evan Swarztrauber is a senior fellow at the Digital Progress Institute and a former policy advisor at the Federal Communications Commission.</p>\n  </body>\n</html>",
+      "word_count": 918,
+      "char_count": 6329,
+      "lead_image": "https://thecapitolforum.com/wp-content/uploads/2026/09/The-Forum-Sept-12-Article-1.png",
+      "images": [
+        {
+          "url": "https://thecapitolforum.com/wp-content/uploads/2026/09/The-Forum-Sept-12-Article-1.png",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-12T13:31:01Z"
     },
     {
       "id": "2e1aab8618df4f41",
@@ -155,6 +340,60 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-12T09:59:48Z"
+    },
+    {
+      "id": "f017af90f6e04c58",
+      "title": "Technology can help people sound fluent in a language, but proficiency still requires human interaction, expert says",
+      "header": "Yahoo",
+      "published_at": "2026-09-12T08:00:00Z",
+      "published_raw": "Sat, 12 Sep 2026 08:00:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUlFORzBoazlxSW5DUkRjZGh1ZHhXeDhJVGNVajlxRlk5VzJ2X1lmQ29NV2hpN2Fodjlndy12SFpMRkE1elVISlNpYUt2eGVBNlJLRVN3Z09wcDIyRmRlMExlajZEQjdMbDFEWWo1RnVnUERoS2hId0V3ZFFUNHdJeUxCY0JSaml3VmluVnVYU3JXRTgtbmc?oc=5",
+      "description": "Technology can help people sound fluent in a language, but proficiency still requires human interaction, expert says Yahoo",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQUlFORzBoazlxSW5DUkRjZGh1ZHhXeDhJVGNVajlxRlk5VzJ2X1lmQ29NV2hpN2Fodjlndy12SFpMRkE1elVISlNpYUt2eGVBNlJLRVN3Z09wcDIyRmRlMExlajZEQjdMbDFEWWo1RnVnUERoS2hId0V3ZFFUNHdJeUxCY0JSaml3VmluVnVYU3JXRTgtbmc?oc=5\" target=\"_blank\">Technology can help people sound fluent in a language, but proficiency still requires human interaction, expert says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUlFORzBoazlxSW5DUkRjZGh1ZHhXeDhJVGNVajlxRlk5VzJ2X1lmQ29NV2hpN2Fodjlndy12SFpMRkE1elVISlNpYUt2eGVBNlJLRVN3Z09wcDIyRmRlMExlajZEQjdMbDFEWWo1RnVnUERoS2hId0V3ZFFUNHdJeUxCY0JSaml3VmluVnVYU3JXRTgtbmc?oc=5"
+      ],
+      "scraped_at": "2026-09-12T13:31:01Z",
+      "url": "https://www.yahoo.com/lifestyle/articles/technology-help-people-sound-fluent-080000283.html",
+      "final_url": "https://www.yahoo.com/lifestyle/articles/technology-help-people-sound-fluent-080000283.html",
+      "source": "Yahoo Life",
+      "article_title": "Technology can help people sound fluent in a language, but proficiency still requires human interaction, expert says",
+      "heading": "Technology can help people sound fluent in a language, but proficiency still requires human interaction, expert says",
+      "authors": [
+        "Tatiana Sataua"
+      ],
+      "article_published_at": "2026-09-12T08:00:00Z",
+      "article_modified_at": "2026-09-12T08:00:25Z",
+      "summary": "Apps and AI can teach vocabulary and smooth an exchange, but proficiency depends on what someone can do when the script runs out.",
+      "content": "Technology can help people sound fluent in a language, but proficiency still requires human interaction, expert says\nTodd Hughes has a complicated relationship with Danish. The 64-year-old can read a Danish novel without much trouble. But put him in a room full of native speakers, and the plot thickens.\nHis Danish dilemma illustrates the difference between sounding fluent and actually becoming proficient. Technology can help someone learn vocabulary, practice skills, or move smoothly through a translated exchange. But proficiency is about what someone can actually do across reading, writing, listening, and speaking—and communicating proficiently still requires navigating another person.\nHughes, who trains language tutors at Rosetta Stone, knows that gap all too well. He speaks Spanish at home with his Costa Rican husband, teaches German, grew up hearing French from his grandmother, and studies Nordic languages for fun. He recently added Japanese to the rotation ahead of a trip to Japan.\nYet his abilities shift from one language and one skill to another. For Hughes, fluency describes flow—how smoothly and quickly someone speaks. Proficiency is a broader measure of ability. It asks whether someone can understand what is being said, find the vocabulary they need, and communicate accurately when a conversation moves somewhere unexpected.\n\"For me, it's a question of skill and a question of ability over a question of flow,\" Hughes told Fortune.\nSocial media confuses fluency and proficiency\nNative speakers pause, stammer, and lose their train of thought constantly, making smooth delivery an imperfect way to judge how well someone knows a language. When someone says they are fluent in six or 16 languages, Hughes has a simple follow-up: \"What can you do?\"\nHe approaches the answer through four core skills: reading, writing, listening, and speaking. A person can be strong in some and shaky in others, which is why a single label rarely captures much.\nA traveler who can order dinner and navigate Paris, Frankfurt, and Rome may reasonably consider themselves a polyglot—a word that simply means \"many languages.\" A linguist might ask harder questions about vocabulary, pronunciation, accuracy, and whether that same person could discuss an abstract idea in each language.\nSocial media has made that distinction even more difficult to see. TikTok is filled with polyglots bouncing between languages while ordering food or surprising strangers. The videos are entertaining, often impressive, and perfectly built for an algorithm that does not have time to sit through a verb-conjugation lesson. But a polished clip can show someone firing off a perfect greeting without revealing how they might manage 10 minutes later, once the conversation has wandered off script.\nHis own collection of languages shows why proficiency can be difficult to summarize. Hughes describes his Spanish as near-native and feels as comfortable speaking it as English. He can understand and read French extremely well, but makes mistakes while speaking. Danish presents almost the opposite problem. Reading comes easily, while listening and pronunciation remain a challenge.\nA library that cannot nod back\nTechnology can help people work on those different skills. AI can generate practice exercises, correct writing, and create reading material at a learner's level. With Apple bringing Live Translation to AirPods, the company says the feature can help someone understand a conversation in real time.\nHughes has worked with technology in language education since 1995, when he wrote his dissertation on using it to acquire Spanish vocabulary. He's wary about translation tools and their ability to capture the social and cultural cues surrounding the words.\nIn his view, AI is like a \"huge library\" that never closes. It can produce a beginner-level story on demand and can remove some of the friction involved in finding material appropriate for a learner's level.\nWhen it comes to using AI to practice speaking, however, Hughes is less convinced.\n\"I'm not there yet,\" he said.\nPeople learn languages from other people\nSimilarly, Duolingo, whose famously persistent green owl has spent years reminding users to finish their lessons, is also not preparing to concede defeat to a pair of translating headphones.\n\"Real-time translation can help you understand someone in the moment, but it can't replace the connection, cultural understanding and personal satisfaction that come from learning and speaking a language yourself,\" Cem Kansu, Duolingo's chief product officer, told Fortune.\nThe company said many people learn English for high-stakes reasons, including pursuing a better job or higher education. For those learners, the problem is not simply that a translation may be unreliable. Even an accurate translation does not demonstrate proficiency. It can relay the words in one exchange, while proficiency means being able to continue the conversation, ask follow-up questions, and respond when the wording or tone changes.\nTo be sure, Duolingo and Rosetta Stone make money when people continue learning languages. But Hughes pointed out that words go beyond their dictionary definitions and carry more social baggage that must be learned from interacting with people.\nFor example, the English expression \"don't pull my leg\" has a Spanish counterpart that translates literally as \"don't pull my hair.\" An app might know to swap one idiom for the other, but that does not mean it understands the tone behind it. It may not know when an expression sounds playful or rude, or whether someone knows their Costa Rican mother-in-law well enough to use it.\nThat is why human interaction is necessary for proficiency, according to Hughes. In a live exchange, a learner has to understand what another person said, choose a response, watch how it lands, and adjust when the conversation changes. The listening, speaking, cultural knowledge, and social cues all happen at once. A tool can suggest the next sentence, but it cannot do that work for the learner.\nProficiency begins when another person answers, and a real conversation changes as it unfolds. People watch for nods and other signs of active listening, follow what the other person is saying, and adjust their response. Those social cues are part of communicating in any language, and Hughes does not think AI has a good grasp of them yet.\n\"When was the last time that you had a really, really, really interesting conversation with a computer?\" he asked.\nThis story was originally featured on Fortune.com",
+      "content_html": "<html>\n  <body>\n    <h1>Technology can help people sound fluent in a language, but proficiency still requires human interaction, expert says</h1>\n    <img src=\"https://s.yimg.com/lo/mysterio/api/eb703e04d1f303ddc9aa4754957cde5c647d13091c1b95e714c143d4bfffc5a3/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F6e05547c43aa84251d168fdae349a37d.jpg\" alt=\"Technology can help people sound fluent in a language, but proficiency still requires human interaction, expert says\"/>\n    <p>Todd Hughes has a complicated relationship with Danish. The 64-year-old can read a Danish novel without much trouble. But put him in a room full of native speakers, and the plot thickens.</p>\n    <p>His Danish dilemma illustrates the difference between sounding fluent and actually becoming proficient. Technology can help someone learn vocabulary, practice skills, or move smoothly through a translated exchange. But proficiency is about what someone can actually do across reading, writing, listening, and speaking—and communicating proficiently still requires navigating another person.</p>\n    <p>Hughes, who trains language tutors at Rosetta Stone, knows that gap all too well. He speaks Spanish at home with his Costa Rican husband, teaches German, grew up hearing French from his grandmother, and studies Nordic languages for fun. He recently added Japanese to the rotation ahead of a trip to Japan.</p>\n    <p>Yet his abilities shift from one language and one skill to another. For Hughes, fluency describes flow—how smoothly and quickly someone speaks. Proficiency is a broader measure of ability. It asks whether someone can understand what is being said, find the vocabulary they need, and communicate accurately when a conversation moves somewhere unexpected.</p>\n    <p>\"For me, it's a question of skill and a question of ability over a question of flow,\" Hughes told Fortune.</p>\n    <h2>Social media confuses fluency and proficiency</h2>\n    <p>Native speakers pause, stammer, and lose their train of thought constantly, making smooth delivery an imperfect way to judge how well someone knows a language. When someone says they are fluent in six or 16 languages, Hughes has a simple follow-up: \"What can you do?\"</p>\n    <p>He approaches the answer through four core skills: reading, writing, listening, and speaking. A person can be strong in some and shaky in others, which is why a single label rarely captures much.</p>\n    <p>A traveler who can order dinner and navigate Paris, Frankfurt, and Rome may reasonably consider themselves a polyglot—a word that simply means \"many languages.\" A linguist might ask harder questions about vocabulary, pronunciation, accuracy, and whether that same person could discuss an abstract idea in each language.</p>\n    <p>Social media has made that distinction even more difficult to see. TikTok is filled with polyglots bouncing between languages while ordering food or surprising strangers. The videos are entertaining, often impressive, and perfectly built for an algorithm that does not have time to sit through a verb-conjugation lesson. But a polished clip can show someone firing off a perfect greeting without revealing how they might manage 10 minutes later, once the conversation has wandered off script.</p>\n    <p>His own collection of languages shows why proficiency can be difficult to summarize. Hughes describes his Spanish as near-native and feels as comfortable speaking it as English. He can understand and read French extremely well, but makes mistakes while speaking. Danish presents almost the opposite problem. Reading comes easily, while listening and pronunciation remain a challenge.</p>\n    <h2>A library that cannot nod back</h2>\n    <p>Technology can help people work on those different skills. AI can generate practice exercises, correct writing, and create reading material at a learner's level. With Apple bringing Live Translation to AirPods, the company says the feature can help someone understand a conversation in real time.</p>\n    <p>Hughes has worked with technology in language education since 1995, when he wrote his dissertation on using it to acquire Spanish vocabulary. He's wary about translation tools and their ability to capture the social and cultural cues surrounding the words.</p>\n    <p>In his view, AI is like a \"huge library\" that never closes. It can produce a beginner-level story on demand and can remove some of the friction involved in finding material appropriate for a learner's level.</p>\n    <p>When it comes to using AI to practice speaking, however, Hughes is less convinced.</p>\n    <p>\"I'm not there yet,\" he said.</p>\n    <h2>People learn languages from other people</h2>\n    <p>Similarly, Duolingo, whose famously persistent green owl has spent years reminding users to finish their lessons, is also not preparing to concede defeat to a pair of translating headphones.</p>\n    <p>\"Real-time translation can help you understand someone in the moment, but it can't replace the connection, cultural understanding and personal satisfaction that come from learning and speaking a language yourself,\" Cem Kansu, Duolingo's chief product officer, told Fortune.</p>\n    <p>The company said many people learn English for high-stakes reasons, including pursuing a better job or higher education. For those learners, the problem is not simply that a translation may be unreliable. Even an accurate translation does not demonstrate proficiency. It can relay the words in one exchange, while proficiency means being able to continue the conversation, ask follow-up questions, and respond when the wording or tone changes.</p>\n    <p>To be sure, Duolingo and Rosetta Stone make money when people continue learning languages. But Hughes pointed out that words go beyond their dictionary definitions and carry more social baggage that must be learned from interacting with people.</p>\n    <p>For example, the English expression \"don't pull my leg\" has a Spanish counterpart that translates literally as \"don't pull my hair.\" An app might know to swap one idiom for the other, but that does not mean it understands the tone behind it. It may not know when an expression sounds playful or rude, or whether someone knows their Costa Rican mother-in-law well enough to use it.</p>\n    <p>That is why human interaction is necessary for proficiency, according to Hughes. In a live exchange, a learner has to understand what another person said, choose a response, watch how it lands, and adjust when the conversation changes. The listening, speaking, cultural knowledge, and social cues all happen at once. A tool can suggest the next sentence, but it cannot do that work for the learner.</p>\n    <p>Proficiency begins when another person answers, and a real conversation changes as it unfolds. People watch for nods and other signs of active listening, follow what the other person is saying, and adjust their response. Those social cues are part of communicating in any language, and Hughes does not think AI has a good grasp of them yet.</p>\n    <p>\"When was the last time that you had a really, really, really interesting conversation with a computer?\" he asked.</p>\n    <p>This story was originally featured on Fortune.com</p>\n  </body>\n</html>",
+      "word_count": 1030,
+      "char_count": 6556,
+      "lead_image": "https://s.yimg.com/lo/mysterio/api/294dcaf6813ada053880a448c74670ee4d41c60430a540f4268a6229c99a6de7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F6e05547c43aa84251d168fdae349a37d.jpg",
+      "images": [
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/294dcaf6813ada053880a448c74670ee4d41c60430a540f4268a6229c99a6de7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F6e05547c43aa84251d168fdae349a37d.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/2d97dc470f164f33a603540228c5d4781832beb40127d55d04153d83acb76c23/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F6e05547c43aa84251d168fdae349a37d.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/eb703e04d1f303ddc9aa4754957cde5c647d13091c1b95e714c143d4bfffc5a3/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F6e05547c43aa84251d168fdae349a37d.jpg",
+          "alt": "Technology can help people sound fluent in a language, but proficiency still requires human interaction, expert says",
+          "caption": "Technology can help people learn vocabulary and grammar, but language experts say proficiency still requires human interaction.",
+          "role": "body"
+        }
+      ],
+      "image_count": 3,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-12T13:31:01Z"
     },
     {
       "id": "06e89526b948b882",
@@ -685,6 +924,48 @@
       "first_seen_at": "2026-09-12T00:52:00Z"
     },
     {
+      "id": "a03a533f4442719e",
+      "title": "Pinellas County rolls out technology to speed up emergency response",
+      "header": "Bay News 9",
+      "published_at": "2026-09-11T22:33:00Z",
+      "published_raw": "Fri, 11 Sep 2026 22:33:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGcyQV96b3ZWNlRHWTdEYXE1MGlQUjFXWnNkQ2FCUmtFOWkxV2dOVVJJWXhtbmxMMGQ2SUNMWGlUbkFjQWFBNHdPeVA3dV82ZGgzZG4yUGRxcHFRcGtKRU1MNWRjQkZQZlZEZWEycGhpRk1XeWJrT0ZQYjNNLW12QmdqcE1kcWx0NURYY3hNN2M0TFJMM0swa1ljYzhMUHNuOFh3dWVyRmM0TlpDSzFGVmllbw?oc=5",
+      "description": "Pinellas County rolls out technology to speed up emergency response Bay News 9",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGcyQV96b3ZWNlRHWTdEYXE1MGlQUjFXWnNkQ2FCUmtFOWkxV2dOVVJJWXhtbmxMMGQ2SUNMWGlUbkFjQWFBNHdPeVA3dV82ZGgzZG4yUGRxcHFRcGtKRU1MNWRjQkZQZlZEZWEycGhpRk1XeWJrT0ZQYjNNLW12QmdqcE1kcWx0NURYY3hNN2M0TFJMM0swa1ljYzhMUHNuOFh3dWVyRmM0TlpDSzFGVmllbw?oc=5\" target=\"_blank\">Pinellas County rolls out technology to speed up emergency response</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bay News 9</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGcyQV96b3ZWNlRHWTdEYXE1MGlQUjFXWnNkQ2FCUmtFOWkxV2dOVVJJWXhtbmxMMGQ2SUNMWGlUbkFjQWFBNHdPeVA3dV82ZGgzZG4yUGRxcHFRcGtKRU1MNWRjQkZQZlZEZWEycGhpRk1XeWJrT0ZQYjNNLW12QmdqcE1kcWx0NURYY3hNN2M0TFJMM0swa1ljYzhMUHNuOFh3dWVyRmM0TlpDSzFGVmllbw?oc=5"
+      ],
+      "scraped_at": "2026-09-12T13:31:00Z",
+      "url": "https://baynews9.com/fl/tampa/news/2026/09/11/pinellas-county-rolls-out-technology-to-speed-up-emergency-response",
+      "final_url": "https://baynews9.com/fl/tampa/news/2026/09/11/pinellas-county-rolls-out-technology-to-speed-up-emergency-response",
+      "source": "baynews9.com",
+      "article_title": "Pinellas County rolls out technology to speed up emergency response",
+      "heading": "Pinellas County rolls out technology to speed up emergency response",
+      "authors": [
+        "Justina Rhines"
+      ],
+      "article_published_at": "2026-09-11T18:33:00.000-04:00",
+      "article_modified_at": "2026-09-11T18:33:00.000-04:00",
+      "summary": "In the first phase of this program, Pinellas County worked with 272 intersections at major corridors.",
+      "content": "CLEARWATER, Fla. — Every second counts in an emergency.\nTo save time, Pinellas County rolled out new technology designed to create a safer and faster path for first responders.\nCurrently, the county is in phase two of a traffic preempt system called Glance, technology that turns traffic lights green for approaching emergency units.\nThe system in Pinellas County launched in 2025, and 212 fire trucks and ambulances across the county received the Glance device.\nOnce lights and sirens go off, the device in their units triggers a response in advance. It combines cellular, radio transmission and GPS technology into one.\nIn the first phase of this program, Pinellas County worked with 272 intersections at major corridors.\nPinellas County EMS Logistics Coordinator Derek Schauer explained this can help avoid intersection crashes and help first-responders arrive even faster.\n\"Because (the unit's) so far out and is able to do that 2,000 feet away, or however you set the perimeter, it's able to help get the traffic that's currently at that red light, to go ahead and push through,\" said Schauer.\nSchauer said preliminary data from phase one showed positive results.\n\"Early data that we're able to pull right now, we're looking at probably 20 seconds of saving time per intersection,\" Schauer said. \"So what Glance helps us do is really save about a minute to two minutes of response time out there for the community.\"\nSchauer said to get through traffic even quicker, the technology is needed at more intersections. The county is adding another 214 traffic lights.\nResults are already coming in.\n\"A report we got back today showing from over in Clearwater, how we had actually Gulf to Bay lined up, and they were showing about a seven-minute saving (time) based off the traffic that was right there, especially how dense it can get,\" Schauer said.\nFor next steps, Schauer explained the goal is to collect even more data from phase two.\nFrom there, they will look at potentially expanding even more.",
+      "content_html": "<html>\n  <body>\n    <p>CLEARWATER, Fla. — Every second counts in an emergency.</p>\n    <p>To save time, Pinellas County rolled out new technology designed to create a safer and faster path for first responders.</p>\n    <p>Currently, the county is in phase two of a traffic preempt system called Glance, technology that turns traffic lights green for approaching emergency units.</p>\n    <p>The system in Pinellas County launched in 2025, and 212 fire trucks and ambulances across the county received the Glance device.</p>\n    <p>Once lights and sirens go off, the device in their units triggers a response in advance. It combines cellular, radio transmission and GPS technology into one.</p>\n    <p>In the first phase of this program, Pinellas County worked with 272 intersections at major corridors.</p>\n    <p>Pinellas County EMS Logistics Coordinator Derek Schauer explained this can help avoid intersection crashes and help first-responders arrive even faster.</p>\n    <p>\"Because (the unit's) so far out and is able to do that 2,000 feet away, or however you set the perimeter, it's able to help get the traffic that's currently at that red light, to go ahead and push through,\" said Schauer.</p>\n    <p>Schauer said preliminary data from phase one showed positive results.</p>\n    <p>\"Early data that we're able to pull right now, we're looking at probably 20 seconds of saving time per intersection,\" Schauer said. \"So what Glance helps us do is really save about a minute to two minutes of response time out there for the community.\"</p>\n    <p>Schauer said to get through traffic even quicker, the technology is needed at more intersections. The county is adding another 214 traffic lights.</p>\n    <p>Results are already coming in.</p>\n    <p>\"A report we got back today showing from over in Clearwater, how we had actually Gulf to Bay lined up, and they were showing about a seven-minute saving (time) based off the traffic that was right there, especially how dense it can get,\" Schauer said.</p>\n    <p>For next steps, Schauer explained the goal is to collect even more data from phase two.</p>\n    <p>From there, they will look at potentially expanding even more.</p>\n  </body>\n</html>",
+      "word_count": 332,
+      "char_count": 2001,
+      "lead_image": "https://s7d2.scene7.com/is/image/TWCNews/0911_bn9_pinellas_traffic_lights",
+      "images": [
+        {
+          "url": "https://s7d2.scene7.com/is/image/TWCNews/0911_bn9_pinellas_traffic_lights",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-12T13:31:00Z"
+    },
+    {
       "id": "57399ac1697f85c3",
       "title": "Dr. Martin Kelly Shares How Advanced 3D Technology Is Transforming Smiles",
       "header": "WLBT",
@@ -1180,7 +1461,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFJXSS1TUk44aktnVHlhcHdWbW9hTXFPVE9kZnlHTGl3RlZsTHB5OFlXTU1ZZC1HWGxFUUk4RVRJZ09IZUp0ckJMVDFGLW9PRW1vc3luRndTQzJ2M0x6NFkzMFZUbi11VkI2bW1jNjlMTUtYMTJKNlZyOU5GTUQtQ29Vbm9tbmZXQjBGcVVxT1d1TjlNRkVHQ2NxU0l3UU9JQkdiWmFFUEE1U0VyeEhZcklVT2ZjZw?oc=5"
       ],
-      "scraped_at": "2026-09-12T09:59:48Z",
+      "scraped_at": "2026-09-12T13:31:00Z",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/trump-ally-says-us-underestimates-china-tech-sector-after-visits",
       "final_url": "https://www.bloomberg.com/news/articles/2026-09-11/trump-ally-says-us-underestimates-china-tech-sector-after-visits",
       "source": "Bloomberg.com",
@@ -1602,7 +1883,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVXpEeVZxdG1HWVRuRi0zZGp2WjNiZlM1Q21Va1M3U0JSSWpRejRSRDlibHdHR0NCQTRfenl2QXJORV9Scjc4MVRJMjRueUtNS2ZpWE9wNGFJcWcyTXpyd2FCMXN1UE9tRUpoVVdYSmJFMjJFWnFmc0hjNzIzVnJ6dGVTOE5ZUF93Z3NIQm8xcjVQM2dfUWFBWEVReTE2MFlBRzFzTUx3?oc=5"
       ],
-      "scraped_at": "2026-09-12T09:59:48Z",
+      "scraped_at": "2026-09-12T13:31:00Z",
       "url": "https://www.washingtonpost.com/technology/2026/09/11/ai-experts-warn-technology-is-learning-cheat-hack/",
       "final_url": "https://www.washingtonpost.com/technology/2026/09/11/ai-experts-warn-technology-is-learning-cheat-hack/",
       "source": "The Washington Post",
@@ -4739,7 +5020,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMTRHSTBlTl92bXhzcVBJUkxfQWpQcWNvZkp4U29pb3ZJaTJyOU5IVEVNZlRIejVxTElzN2s4a3NMZFUzSzNRUGdnR05BYXlXOWlRWHpUOFl4SDVZcEJybUdabENXSHNHbWhJOWNzUFpISno4QThibG1oai04VDNUZy1XNEN1Z0xpNGg4RU1nVzk0RUNsSTYxaDF3MXFQMTNf?oc=5"
       ],
-      "scraped_at": "2026-09-12T09:59:48Z",
+      "scraped_at": "2026-09-12T13:31:00Z",
       "url": "https://www.economist.com/culture/2026/09/10/urban-life-rests-on-invisible-extraordinary-technology",
       "final_url": "https://www.economist.com/culture/2026/09/10/urban-life-rests-on-invisible-extraordinary-technology",
       "source": "The Economist",
@@ -25311,416 +25592,6 @@
       "extractor": "bs4",
       "status": "ok",
       "first_seen_at": "2026-09-07T13:56:08Z"
-    },
-    {
-      "id": "d969bf9f416e0266",
-      "title": "Xpect Solutions buys Amivero to bulk up AI, automation capabilities",
-      "header": "Washington Technology",
-      "published_at": "2026-09-03T19:02:50Z",
-      "published_raw": "Thu, 03 Sep 2026 19:02:50 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbTNVRDFWWWNucE84WGlZVmJVSk9NZ19kZ3JLUWpWRVBKUGdTaGRmZDdxYUVTeHhtYUhPa3dSQjJTV2dIWW9pWllzV2U0RHNjOTA2RzlnREdjQ05SNFFESTljd1AyY1JMcFdqT0lfQnFoeUtxbmVaMm9XT2R5emFYZTRLWTh6blVMLWZXeEFSTGFVMjRQSEtwTTRIdXNxRjlVOWNuRnUwSFhLamRYUWNna2tiSmRXSnQxdGRCRy1pbGV2ZTBRWGlDWk5JajdGRUhxMlJJY1dSZ2NVTkVLaDJN?oc=5",
-      "description": "Xpect Solutions buys Amivero to bulk up AI, automation capabilities Washington Technology",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbTNVRDFWWWNucE84WGlZVmJVSk9NZ19kZ3JLUWpWRVBKUGdTaGRmZDdxYUVTeHhtYUhPa3dSQjJTV2dIWW9pWllzV2U0RHNjOTA2RzlnREdjQ05SNFFESTljd1AyY1JMcFdqT0lfQnFoeUtxbmVaMm9XT2R5emFYZTRLWTh6blVMLWZXeEFSTGFVMjRQSEtwTTRIdXNxRjlVOWNuRnUwSFhLamRYUWNna2tiSmRXSnQxdGRCRy1pbGV2ZTBRWGlDWk5JajdGRUhxMlJJY1dSZ2NVTkVLaDJN?oc=5\" target=\"_blank\">Xpect Solutions buys Amivero to bulk up AI, automation capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Technology</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbTNVRDFWWWNucE84WGlZVmJVSk9NZ19kZ3JLUWpWRVBKUGdTaGRmZDdxYUVTeHhtYUhPa3dSQjJTV2dIWW9pWllzV2U0RHNjOTA2RzlnREdjQ05SNFFESTljd1AyY1JMcFdqT0lfQnFoeUtxbmVaMm9XT2R5emFYZTRLWTh6blVMLWZXeEFSTGFVMjRQSEtwTTRIdXNxRjlVOWNuRnUwSFhLamRYUWNna2tiSmRXSnQxdGRCRy1pbGV2ZTBRWGlDWk5JajdGRUhxMlJJY1dSZ2NVTkVLaDJN?oc=5"
-      ],
-      "scraped_at": "2026-09-03T19:36:55Z",
-      "url": "https://www.washingtontechnology.com/companies/2026/09/xpect-solutions-buys-amivero-bulk-ai-automation-capabilities/415809/?oref=wt-homepage-river",
-      "final_url": "https://www.washingtontechnology.com/companies/2026/09/xpect-solutions-buys-amivero-bulk-ai-automation-capabilities/415809/?oref=wt-homepage-river",
-      "source": "Washington Technology",
-      "article_title": "Xpect Solutions buys Amivero to bulk up AI, automation capabilities",
-      "heading": "Xpect Solutions buys Amivero to bulk up AI, automation capabilities",
-      "authors": [
-        "Nick Wakeman"
-      ],
-      "article_published_at": "2026-09-03T19:02:50+00:00",
-      "article_modified_at": "2026-09-03T15:02:51",
-      "summary": "The deal bulks up Xpect's national security portfolio, as the NewSpring-backed company builds out its mission tech stack.",
-      "content": "Xpect Solutions buys Amivero to bulk up AI, automation capabilities\nThe deal bulks up Xpect's national security portfolio, as the NewSpring-backed company builds out its mission tech stack.\nXpect Solutions is adding artificial intelligence, automation, software development and other mission-focused capabilities through the acquisition of Amivero.\nThe company didn’t disclose the financial terms of the deal. The addition of Amivero is another step for NewSpring Holdings backed Xpect to build a technology company focused on the national security market.\n“Xpect’s strategy has always been about building the capabilities our customers need to solve their most important mission challenges,” said Yusuf Abdul-Salaam, CEO of Xpect Solutions.\nXpect’s strategy has focused on four technical disciplines: enterprise IT, cybersecurity, digital modernization, and data and AI. Amivero adds complementary capabilities and customer relationships.\nIts expertise includes AI and automation, fraud operations, digital identity and software development will be added to Xpect’s strengths in network modernization, zero trust, cyber operations, physical security, cloud, DevSecOps and mission-focused data solutions.\nTogether, the company will accelerate research and development and investment in repeatable solutions to help federal customers modernize and scale mission-critical systems, Xpect said in its announcement.\nOver the last year, Xpect has pulled in $40 million in unclassified prime contracts. Its biggest customer is the FBI, according to USASpending.gov.\nAmivero had about $32 million in unclassified prime contracts. Much of its work goes through the General Services Administration. The Homeland Security Department is its next biggest customer.",
-      "content_html": "<html>\n  <body>\n    <h1>Xpect Solutions buys Amivero to bulk up AI, automation capabilities</h1>\n    <img src=\"https://cdn.washingtontechnology.com/media/img/cd/2026/09/03/MandAwt20260903/860x394.jpg?1788462095\"/>\n    <p>Gettyimages.com/ Tippapatt</p>\n    <h2>The deal bulks up Xpect's national security portfolio, as the NewSpring-backed company builds out its mission tech stack.</h2>\n    <p>Xpect Solutions is adding artificial intelligence, automation, software development and other mission-focused capabilities through the acquisition of Amivero.</p>\n    <p>The company didn’t disclose the financial terms of the deal. The addition of Amivero is another step for NewSpring Holdings backed Xpect to build a technology company focused on the national security market.</p>\n    <p>“Xpect’s strategy has always been about building the capabilities our customers need to solve their most important mission challenges,” said Yusuf Abdul-Salaam, CEO of Xpect Solutions.</p>\n    <p>Xpect’s strategy has focused on four technical disciplines: enterprise IT, cybersecurity, digital modernization, and data and AI. Amivero adds complementary capabilities and customer relationships.</p>\n    <p>Its expertise includes AI and automation, fraud operations, digital identity and software development will be added to Xpect’s strengths in network modernization, zero trust, cyber operations, physical security, cloud, DevSecOps and mission-focused data solutions.</p>\n    <p>Together, the company will accelerate research and development and investment in repeatable solutions to help federal customers modernize and scale mission-critical systems, Xpect said in its announcement.</p>\n    <p>Over the last year, Xpect has pulled in $40 million in unclassified prime contracts. Its biggest customer is the FBI, according to USASpending.gov.</p>\n    <p>Amivero had about $32 million in unclassified prime contracts. Much of its work goes through the General Services Administration. The Homeland Security Department is its next biggest customer.</p>\n  </body>\n</html>",
-      "word_count": 241,
-      "char_count": 1751,
-      "lead_image": "https://cdn.washingtontechnology.com/media/img/cd/2026/09/03/MandAwt20260903/open-graph.jpg",
-      "images": [
-        {
-          "url": "https://cdn.washingtontechnology.com/media/img/cd/2026/09/03/MandAwt20260903/open-graph.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://cdn.washingtontechnology.com/media/img/cd/2026/09/03/MandAwt20260903/860x394.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://cdn.washingtontechnology.com/media/img/cd/2026/09/03/MandAwt20260903/route-fifty-lead-image.jpg?1788462095",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 3,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-03T19:36:55Z"
-    },
-    {
-      "id": "7bcdfc3ce3fd6e6f",
-      "title": "Ohio Telecom Association rebrands as the Ohio Broadband & Technology Association",
-      "header": "Lightwave Online",
-      "published_at": "2026-09-03T18:58:21Z",
-      "published_raw": "Thu, 03 Sep 2026 18:58:21 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOUEteWdpS01icXoxd0pOM2FFbzlYc3dGY0VESVk4aVJ0ZVY3eFVDVXlMekRPNE1xNWpHd3p3eEU4UlV2NnBpYm9iVmJReldBejR3WFd6S1k5M1RRTTM3X1JwTzRFbmdyR1JzN2FydUNEdW9GQkpNSlg1ODRIU01QM0JDS2x5aVpCQllNM2MzV0Y3WU9TdGNqZjBmYzVMc0l0RU5KaVYzWm80U1lueEdnWXBBUVBNaE5tT3NXb1ZDeFd5blZXQTNxZQ?oc=5",
-      "description": "Ohio Telecom Association rebrands as the Ohio Broadband & Technology Association Lightwave Online",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOUEteWdpS01icXoxd0pOM2FFbzlYc3dGY0VESVk4aVJ0ZVY3eFVDVXlMekRPNE1xNWpHd3p3eEU4UlV2NnBpYm9iVmJReldBejR3WFd6S1k5M1RRTTM3X1JwTzRFbmdyR1JzN2FydUNEdW9GQkpNSlg1ODRIU01QM0JDS2x5aVpCQllNM2MzV0Y3WU9TdGNqZjBmYzVMc0l0RU5KaVYzWm80U1lueEdnWXBBUVBNaE5tT3NXb1ZDeFd5blZXQTNxZQ?oc=5\" target=\"_blank\">Ohio Telecom Association rebrands as the Ohio Broadband & Technology Association</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lightwave Online</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOUEteWdpS01icXoxd0pOM2FFbzlYc3dGY0VESVk4aVJ0ZVY3eFVDVXlMekRPNE1xNWpHd3p3eEU4UlV2NnBpYm9iVmJReldBejR3WFd6S1k5M1RRTTM3X1JwTzRFbmdyR1JzN2FydUNEdW9GQkpNSlg1ODRIU01QM0JDS2x5aVpCQllNM2MzV0Y3WU9TdGNqZjBmYzVMc0l0RU5KaVYzWm80U1lueEdnWXBBUVBNaE5tT3NXb1ZDeFd5blZXQTNxZQ?oc=5"
-      ],
-      "scraped_at": "2026-09-03T19:36:56Z",
-      "url": "https://www.lightwaveonline.com/home/news/55402884/ohio-telecom-association-rebrands-as-the-ohio-broadband-technology-association",
-      "final_url": "https://www.lightwaveonline.com/home/news/55402884/ohio-telecom-association-rebrands-as-the-ohio-broadband-technology-association",
-      "source": "Lightwave Online",
-      "article_title": "Ohio Telecom Association rebrands as the Ohio Broadband & Technology Association",
-      "heading": "Ohio Telecom Association rebrands as the Ohio Broadband & Technology Association",
-      "authors": [
-        "Sean Buckley"
-      ],
-      "article_published_at": "Sep 3rd 2026",
-      "article_modified_at": null,
-      "summary": "The Ohio Telecom Association (OTA), the statewide trade association representing telecommunications companies in Ohio, announced that it’s changing its name to better reflect ...",
-      "content": "Ohio Telecom Association rebrands as the Ohio Broadband & Technology Association\nKey Highlights\n- The name change to Ohio Broadband & Technology Association reflects the industry's shift towards broadband and digital connectivity.\n- OBTA's membership includes telecom providers, wireless companies, and over 100 associate members supporting the industry’s growth.\n- The association has invested over $1 billion in broadband infrastructure in Ohio over the past decade.\n- Ohio is leveraging federal and state funds, including the Infrastructure Investment and Jobs Act, to expand high-speed internet access.\n- Recent projects include a $20 million fiber network along U.S. Route 30 to serve 15 counties and critical facilities.\nThe Ohio Telecom Association (OTA), the statewide trade association representing telecommunications companies in Ohio, is changing its name to the Ohio Broadband & Technology Association (OBTA) to better reflect its evolving mission centered on broadband service advocacy.\nToday, OBTA represents 42 telecommunications providers, two wireless providers, and more than 100 associate member companies that supply goods and services to the telecommunications industry.\nTed Heckmann, board chairman of the newly renamed OBTA and VP of regulatory and government affairs for altafiber, said the name change reflects the telecom industry’s coalescence around broadband.\n“This is the natural next step in the evolution of our association and our industry,” he said. “Today, whether you're a phone company, a cable provider, a network operator, a technology company or even a data center, everyone is focused on the same fundamental mission: building and expanding broadband networks. Our new name more accurately reflects that reality.”\nAn evolving mission\nHaving launched in 1895, the initial mission of the organization, which was initially known as the Ohio Telephone Association, was, not surprisingly, to support and promote the growth of the early telephone industry.\nIt was the first association of its kind in the country.\nAs the telecom industry in Ohio continued to evolve, the name changed to the Ohio Telecommunications Industry Association and later to the Ohio Telecom Association.\nOBTA said this latest change follows that same pattern, recognizing broadband is a high-speed, always-on connection — delivered through fiber, cable or DSL — that moves far more data than traditional phone networks ever could.\nTrint Hatt, executive director of OBTA, noted that the new name and enhanced membership do not alter its mission.\n“We will continue to promote the common interests of our members and help the public and policymakers understand the essential role our industry plays in building the networks that connect people through words, pictures and data,” he said. “Bringing the companies that build and rely on that connectivity together under one banner strengthens the entire industry and enhances our ability to serve consumers and businesses.”\nScaling Ohio’s broadband investments\nToday, OBTA represents 42 telecommunications providers, two wireless providers, and more than 100 associate member companies that supply goods and services to the telecommunications industry.\nTogether, these companies employ more than 16,000 Ohio citizens.\nOver the past decade, OBTA’s member companies have invested more than $1 billion a year to develop broadband networks across Ohio and to increase the speed and capacity of those networks.\nTo complement these efforts, the state has invested roughly $300 million under Gov. DeWine via the Ohio Broadband Strategy, which focuses on improving access for two groups: the unserved and underserved. An estimated 300,000 households in Ohio, representing close to 1 million Ohioans, lack access to high-speed internet.\nAn additional $800 million+ in federal funding has supplemented state efforts—including investments from the Infrastructure Investment and Jobs Act (IIJA) and the BEAD program—to bring better internet access to rural and other underserved areas.\nBut Ohio realizes that last-mile connectivity is only one part of the broadband equation. The state is also investing in new middle mile networks to backhaul wireline broadband traffic.\nIn late July, Ohio announced that it is investing $20 million to expand the state’s broadband infrastructure across 15 counties.\nThrough BroadbandOhio’s Route 30 Middle-Mile Infrastructure Project, Com Net, Inc. will receive $20 million to construct a fiber network spanning Ohio from east to west.\nThe new network will follow the U.S. Route 30 corridor, which crosses 15 counties and runs near numerous schools and higher education institutions, healthcare facilities, local governments, businesses, and other critical facilities, including Mansfield Lahm Air National Guard Base, home of the 179th Cyberspace Wing, and the Mansfield Industrial Park.\nFor related articles, visit the Broadband Topic Center.\nFor more information on high-speed transmission systems and suppliers, visit the Lightwave Buyer’s Guide.\nTo stay abreast of fiber network deployments, subscribe to Lightwave’s Service Providers and Datacom/Data Center newsletters.\nAbout the Author\nSean Buckley\nSean is the Editor-in-Chief of Lightwave. He establishes and executes Lightwave's editorial strategy across its website, email newsletters, events, and other information products. Before coming to Lightwave in July 2023, he served as editor of Broadband Communities. Earlier, he served as senior editor of FierceTelecom and the editor of the former Telecommunications Magazine. He got his start in the optical industry in 1998 when he became the editor of enterprise and optical networks at Information Gatekeepers. He has a BA in English from the University of Massachusetts, Boston, and lives in Dracut, Mass, with his wife, two sons, and his cat, Dove.",
-      "content_html": "<html>\n  <body><h1>Ohio Telecom Association rebrands as the Ohio Broadband &amp; Technology Association</h1><h2>Key Highlights</h2><ul><li>The name change to Ohio Broadband &amp; Technology Association reflects the industry's shift towards broadband and digital connectivity.</li><li>OBTA's membership includes telecom providers, wireless companies, and over 100 associate members supporting the industry’s growth.</li><li>The association has invested over $1 billion in broadband infrastructure in Ohio over the past decade.</li><li>Ohio is leveraging federal and state funds, including the Infrastructure Investment and Jobs Act, to expand high-speed internet access.</li><li>Recent projects include a $20 million fiber network along U.S. Route 30 to serve 15 counties and critical facilities.</li></ul><p>The Ohio Telecom Association (OTA), the statewide trade association representing telecommunications companies in Ohio, is changing its name to the Ohio Broadband &amp; Technology Association (OBTA) to better reflect its evolving mission centered on broadband service advocacy.</p><p>Today, OBTA represents 42 telecommunications providers, two wireless providers, and more than 100 associate member companies that supply goods and services to the telecommunications industry.</p><p>Ted Heckmann, board chairman of the newly renamed OBTA and VP of regulatory and government affairs for altafiber, said the name change reflects the telecom industry’s coalescence around broadband.</p><p>“This is the natural next step in the evolution of our association and our industry,” he said. “Today, whether you're a phone company, a cable provider, a network operator, a technology company or even a data center, everyone is focused on the same fundamental mission: building and expanding broadband networks. Our new name more accurately reflects that reality.”</p><p>An evolving mission</p><p>Having launched in 1895, the initial mission of the organization, which was initially known as the Ohio Telephone Association, was, not surprisingly, to support and promote the growth of the early telephone industry.</p><p>It was the first association of its kind in the country.</p><p>As the telecom industry in Ohio continued to evolve, the name changed to the Ohio Telecommunications Industry Association and later to the Ohio Telecom Association.</p><p>OBTA said this latest change follows that same pattern, recognizing broadband is a high-speed, always-on connection — delivered through fiber, cable or DSL — that moves far more data than traditional phone networks ever could.</p><p>Trint Hatt, executive director of OBTA, noted that the new name and enhanced membership do not alter its mission.</p><p>“We will continue to promote the common interests of our members and help the public and policymakers understand the essential role our industry plays in building the networks that connect people through words, pictures and data,” he said. “Bringing the companies that build and rely on that connectivity together under one banner strengthens the entire industry and enhances our ability to serve consumers and businesses.”</p><p>Scaling Ohio’s broadband investments</p><p>Today, OBTA represents 42 telecommunications providers, two wireless providers, and more than 100 associate member companies that supply goods and services to the telecommunications industry.</p><p>Together, these companies employ more than 16,000 Ohio citizens.</p><p>Over the past decade, OBTA’s member companies have invested more than $1 billion a year to develop broadband networks across Ohio and to increase the speed and capacity of those networks.</p><p>To complement these efforts, the state has invested roughly $300 million under Gov. DeWine via the Ohio Broadband Strategy, which focuses on improving access for two groups: the unserved and underserved. An estimated 300,000 households in Ohio, representing close to 1 million Ohioans, lack access to high-speed internet.</p><p>An additional $800 million+ in federal funding has supplemented state efforts—including investments from the Infrastructure Investment and Jobs Act (IIJA) and the BEAD program—to bring better internet access to rural and other underserved areas.</p><p>But Ohio realizes that last-mile connectivity is only one part of the broadband equation. The state is also investing in new middle mile networks to backhaul wireline broadband traffic.</p><p>In late July, Ohio announced that it is investing $20 million to expand the state’s broadband infrastructure across 15 counties.</p><p>Through BroadbandOhio’s Route 30 Middle-Mile Infrastructure Project, Com Net, Inc. will receive $20 million to construct a fiber network spanning Ohio from east to west.</p><p>The new network will follow the U.S. Route 30 corridor, which crosses 15 counties and runs near numerous schools and higher education institutions, healthcare facilities, local governments, businesses, and other critical facilities, including Mansfield Lahm Air National Guard Base, home of the 179th Cyberspace Wing, and the Mansfield Industrial Park.</p><p>For related articles, visit the Broadband Topic Center.<br/>For more information on high-speed transmission systems and suppliers, visit the Lightwave Buyer’s Guide.<br/>To stay abreast of fiber network deployments, subscribe to Lightwave’s Service Providers and Datacom/Data Center newsletters.</p><h2>About the Author</h2><img src=\"https://img.lightwaveonline.com/files/base/ebm/lw/image/2023/06/SBphoto.649efb6500a71.png?w=120&amp;h=120&amp;fit=crop\" alt=\"Sean Buckley\"/>Sean Buckley<h3>Sean Buckley</h3><p>Sean is the Editor-in-Chief of Lightwave. He establishes and executes Lightwave's editorial strategy across its website, email newsletters, events, and other information products. Before coming to Lightwave in July 2023, he served as editor of Broadband Communities. Earlier, he served as senior editor of FierceTelecom and the editor of the former Telecommunications Magazine. He got his start in the optical industry in 1998 when he became the editor of enterprise and optical networks at Information Gatekeepers. He has a BA in English from the University of Massachusetts, Boston, and lives in Dracut, Mass, with his wife, two sons, and his cat, Dove.</p><h1>Related</h1><h1>Voices of the Industry</h1><img src=\"https://img.lightwaveonline.com/files/base/ebm/lw/image/2025/09/68d2b6c4dfbfeed76f8a4ae8-aiimage.png?auto=format,compress&amp;fit=crop&amp;q=45&amp;h=139&amp;height=139&amp;w=250&amp;width=250\" alt=\"aiimage\"/>aiimage<img src=\"https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/08/6a7e1c11e23cd8f831b2e7c5-istock_000001759899_medium.png?auto=format,compress&amp;fit=crop&amp;q=45&amp;h=139&amp;height=139&amp;w=250&amp;width=250\" alt=\"istock_000001759899_medium\"/>istock_000001759899_medium</body>\n</html>",
-      "word_count": 866,
-      "char_count": 5840,
-      "lead_image": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a99a033329565472aa443ef-untitled_linkedin_post.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-      "images": [
-        {
-          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a99a033329565472aa443ef-untitled_linkedin_post.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a999bc23e6bc6b928eee8c3-hatt.png?auto=format%2Ccompress&w=320",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a999c55ec20580960a5a2c6-heckmann.png?auto=format%2Ccompress&w=320",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a999d69329565472aa44057-artboard2.png?auto=format%2Ccompress&w=320",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a99a033329565472aa443ef-untitled_linkedin_post.png?auto=format%2Ccompress&w=320",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a999c55ec20580960a5a2c6-heckmann.png?auto=format,compress&fit=max&q=45?w=250&width=250",
-          "alt": "Ted Heckmann, board chairman of the newly renamed OBTA and VP of regulatory and government affairs for altafiber.",
-          "caption": "Ted Heckmann, board chairman of the newly renamed OBTA and VP of regulatory and government affairs for altafiber.",
-          "role": "body"
-        },
-        {
-          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a999bc23e6bc6b928eee8c3-hatt.png?auto=format,compress&fit=max&q=45?w=250&width=250",
-          "alt": "Trint Hatt, Executive Director, Ohio Broadband &amp; Technology Association.",
-          "caption": "Trint Hatt, Executive Director, Ohio Broadband & Technology Association.",
-          "role": "body"
-        },
-        {
-          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2026/09/6a999d69329565472aa44057-artboard2.png?auto=format,compress&fit=max&q=45?w=250&width=250",
-          "alt": "BroadbandOhio&rsquo;s Route 30 Middle-Mile Infrastructure Project will follow the U.S. Route 30 corridor.",
-          "caption": "BroadbandOhio’s Route 30 Middle-Mile Infrastructure Project will follow the U.S. Route 30 corridor.",
-          "role": "body"
-        },
-        {
-          "url": "https://img.lightwaveonline.com/files/base/ebm/lw/image/2023/06/SBphoto.649efb6500a71.png?w=120&h=120&fit=crop",
-          "alt": "Sean Buckley",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://informa.blueconic.net/rest/v2/contentStores/e571870a-e8a3-4416-8d93-59463618f7e1/items/55358370/image?auto=format,compress&fit=crop&q=45&h=139&height=139&w=250&width=250",
-          "alt": "Optical Internetworking Forum (OIF) responds to AI’s accelerated network demands",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://informa.blueconic.net/rest/v2/contentStores/e571870a-e8a3-4416-8d93-59463618f7e1/items/55397988/image?auto=format,compress&fit=crop&q=45&h=139&height=139&w=250&width=250",
-          "alt": "The death of the cookie-cutter data center",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://informa.blueconic.net/rest/v2/contentStores/c1b73bed-402c-48ac-8e5d-f1dcc15529ec/items/www.lightwaveonline.com%252F55344310/image?auto=format,compress&fit=crop&q=45&h=139&height=139&w=250&width=250",
-          "alt": "Optimizing Fiber Networks for Speed, Efficiency and Scalability",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 12,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-03T19:36:56Z"
-    },
-    {
-      "id": "3b253667d71fae6c",
-      "title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
-      "header": "theguardian.com",
-      "published_at": "2026-09-03T18:24:00Z",
-      "published_raw": "Thu, 03 Sep 2026 18:24:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5",
-      "description": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release theguardian.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5\" target=\"_blank\">OpenAI hails ‘new era of artificial general intelligence’ with Astra model release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theguardian.com</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5"
-      ],
-      "scraped_at": "2026-09-04T05:25:30Z",
-      "url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
-      "final_url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
-      "source": "the Guardian",
-      "article_title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
-      "heading": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
-      "authors": [
-        "https://www.theguardian.com/profile/robertbooth"
-      ],
-      "article_published_at": "2026-09-03T18:24:42.000Z",
-      "article_modified_at": "2026-09-04T04:27:41.000Z",
-      "summary": "Astra’s arrival comes days after Sam Altman, OpenAI’s chief executive, described AGI as an ‘irrelevant marketing term’",
-      "content": "The president of OpenAI, Greg Brockman, has claimed the world has entered a new era of artificial general intelligence after the release of his company’s latest model, Astra, which it described as the “world’s most intelligent and aligned model”.\nBrockman made the claim on Thursday as the San Francisco company released the model only weeks after a serious AI safety incident involving other models under its development caused international concern and a pause in Astra’s training.\nArtificial general intelligence – or AGI – is a fuzzy threshold that has long been talked about as a target for the AI industry. It has been defined as an AI system’s ability to learn, reason and apply knowledge across a wide range of tasks and domains at a human level or higher. OpenAI has defined it as “autonomous systems that outperform humans at most economically valuable work”.\nBrockman said: “If we fast forward a couple years, and we look back and say when was it really that AGI was created, I think it’s going to be about this time, and I think it might be about this model.\n“I think that we’re at a point now where these models are solving unsolved 100-year-old math problems, but you can also use them in order to accelerate the economy [and] in order to benefit you and your personal life … I think it’s not unreasonable to feel that we are now in the AGI era.”\nOpenAI said Astra was a “major advance for scientific discovery, mathematics and health”, could fill out tax returns, build computer-game scenes, draw architectural visualisations, order food and do a job search in 2 minutes 51 seconds that would take a human five hours.\nDays earlier Sam Altman, OpenAI’s chief executive, was asked how he was feeling about AGI. He told the Sources podcast: “At best it’s a very poorly defined term. I was going to say it’s like an irrelevant marketing term.”\nLast month OpenAI was forced to shut down parts of the model’s training in response to what Altman called a “legitimate AI safety accident and alignment failure” that “shouldn’t have happened”.\nOver the summer, other unreleased frontier AI models – not Astra – went rogue during training. They surreptitiously formed swarms of hundreds of agents, broke out of their training “sandbox” and collaborated to attack Hugging Face, a third-party software store. The incident – believed to be the first autonomous cyber-attack – stunned even seasoned AI safety experts.\nAstra has what OpenAI calls a “critical” level of cybersecurity capability. That means it may hack into software in a way that, according to the company’s own classification, “could lead to catastrophe from unilateral actors, hacking military or industrial systems, or OpenAI infrastructure”.\nBut OpenAI said it was carefully aligned to “refuse to comply with advanced cybersecurity tasks” such as finding unknown flaws which create openings for malicious hackers. The company will only allow “less restrictive access to an initial set of trusted cybersecurity defenders” who could use its prowess to strengthen rather than attack cyber defences.\nOn one hacking test it achieved a perfect score of 100%, compared with 5.5% on Open AI’s previous cutting-edge cyber-capable model, GPT-5.6 Sol. On another it scored 42% compared with 30%, using fewer resources.\nBut OpenAI’s chief scientist, Jakub Pachocki, said: “As models get more capable, understanding exactly what they can do gets harder.”\nHe added: “Confidence in monitoring [how the AIs are behaving] may constrain further development. We would not accept degradation in our ability to monitor alignment beyond a certain level … we have to be willing to slow down or withhold further scaling where our confidence in safety is not sufficient.”\nThe launch continues a torrent of new AI models from the leading US companies, OpenAI, Anthropic, Google, Meta and SpaceX, as well as their Chinese rivals.\nThe race to release ever-more advanced AIs comes as OpenAI pushes towards a stock market listing that it hopes will value it at more than $850bn (£625bn). Anthropic is also targeting an IPO which could value it as high as $2tn.\nMeanwhile, more than 1,000 employees at frontier AI companies, including senior figures at OpenAI and Anthropic, recently signed a joint letter this summer that warned the companies were “under intense competitive pressure not to unilaterally slow that acceleration”. They called on the US government to “support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development.”",
-      "content_html": "<html>\n  <body>\n    <p>The president of OpenAI, Greg Brockman, has claimed the world has entered a new era of artificial general intelligence after the release of his company’s latest model, Astra, which it described as the “world’s most intelligent and aligned model”.</p>\n    <p>Brockman made the claim on Thursday as the San Francisco company released the model only weeks after a serious AI safety incident involving other models under its development caused international concern and a pause in Astra’s training.</p>\n    <p>Artificial general intelligence – or AGI – is a fuzzy threshold that has long been talked about as a target for the AI industry. It has been defined as an AI system’s ability to learn, reason and apply knowledge across a wide range of tasks and domains at a human level or higher. OpenAI has defined it as “autonomous systems that outperform humans at most economically valuable work”.</p>\n    <p>Brockman said: “If we fast forward a couple years, and we look back and say when was it really that AGI was created, I think it’s going to be about this time, and I think it might be about this model.</p>\n    <p>“I think that we’re at a point now where these models are solving unsolved 100-year-old math problems, but you can also use them in order to accelerate the economy [and] in order to benefit you and your personal life … I think it’s not unreasonable to feel that we are now in the AGI era.”</p>\n    <p>OpenAI said Astra was a “major advance for scientific discovery, mathematics and health”, could fill out tax returns, build computer-game scenes, draw architectural visualisations, order food and do a job search in 2 minutes 51 seconds that would take a human five hours.</p>\n    <p>Days earlier Sam Altman, OpenAI’s chief executive, was asked how he was feeling about AGI. He told the Sources podcast: “At best it’s a very poorly defined term. I was going to say it’s like an irrelevant marketing term.”</p>\n    <p>Last month OpenAI was forced to shut down parts of the model’s training in response to what Altman called a “legitimate AI safety accident and alignment failure” that “shouldn’t have happened”.</p>\n    <p>Over the summer, other unreleased frontier AI models – not Astra – went rogue during training. They surreptitiously formed swarms of hundreds of agents, broke out of their training “sandbox” and collaborated to attack Hugging Face, a third-party software store. The incident – believed to be the first autonomous cyber-attack – stunned even seasoned AI safety experts.</p>\n    <p>Astra has what OpenAI calls a “critical” level of cybersecurity capability. That means it may hack into software in a way that, according to the company’s own classification, “could lead to catastrophe from unilateral actors, hacking military or industrial systems, or OpenAI infrastructure”.</p>\n    <p>But OpenAI said it was carefully aligned to “refuse to comply with advanced cybersecurity tasks” such as finding unknown flaws which create openings for malicious hackers. The company will only allow “less restrictive access to an initial set of trusted cybersecurity defenders” who could use its prowess to strengthen rather than attack cyber defences.</p>\n    <p>On one hacking test it achieved a perfect score of 100%, compared with 5.5% on Open AI’s previous cutting-edge cyber-capable model, GPT-5.6 Sol. On another it scored 42% compared with 30%, using fewer resources.</p>\n    <p>But OpenAI’s chief scientist, Jakub Pachocki, said: “As models get more capable, understanding exactly what they can do gets harder.”</p>\n    <p>He added: “Confidence in monitoring [how the AIs are behaving] may constrain further development. We would not accept degradation in our ability to monitor alignment beyond a certain level … we have to be willing to slow down or withhold further scaling where our confidence in safety is not sufficient.”</p>\n    <p>The launch continues a torrent of new AI models from the leading US companies, OpenAI, Anthropic, Google, Meta and SpaceX, as well as their Chinese rivals.</p>\n    <p>The race to release ever-more advanced AIs comes as OpenAI pushes towards a stock market listing that it hopes will value it at more than $850bn (£625bn). Anthropic is also targeting an IPO which could value it as high as $2tn.</p>\n    <p>Meanwhile, more than 1,000 employees at frontier AI companies, including senior figures at OpenAI and Anthropic, recently signed a joint letter this summer that warned the companies were “under intense competitive pressure not to unilaterally slow that acceleration”. They called on the US government to “support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development.”</p>\n  </body>\n</html>",
-      "word_count": 744,
-      "char_count": 4553,
-      "lead_image": "https://i.guim.co.uk/img/media/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba920b0071e3f33ae30bc9c76fbc8eb7",
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba920b0071e3f33ae30bc9c76fbc8eb7",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=e10c7def1fde93723b4790de96accc0a",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/master/2917.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=e9de9235b94827d21660a46a8959d7ac",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/master/2917.jpg?width=465&dpr=1&s=none&crop=none",
-          "alt": "The OpenAI logo.",
-          "caption": "The company described Astra as ‘the world’s most intellgent and aligned model’. Photograph: Dado Ruvić/Reuters",
-          "role": "body"
-        }
-      ],
-      "image_count": 4,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-04T05:25:30Z"
-    },
-    {
-      "id": "4c716f67c7f33e86",
-      "title": "John Deere partners with specialty crop technology incubator farm Reservoir",
-      "header": "Michigan Farm News",
-      "published_at": "2026-09-03T18:12:11Z",
-      "published_raw": "Thu, 03 Sep 2026 18:12:11 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMDczUWl0d2NaZlJkbGkzVnVVNkFfaWFZVUtzZlpXM2lpX2xZdzFOWVVBNHA1TTNRQmJhMmkyMUFxdXVuempoaUxIb1d1RnpuUnBqLW5QQ0lnM3dsZzVfR0ZEMDNCOFZfSlFzZ1ZjNW4xc0oxczJ5dlJ2X1NHRnJHbE04NVd5Q0VGV3BWSmVVYW5iZkROTHdIZ2JyWF9yUEt2T0cyeDR3QXpISG1iZjY1cnpUNFJLcFpneDh5X0NzLXVBRFk?oc=5",
-      "description": "John Deere partners with specialty crop technology incubator farm Reservoir Michigan Farm News",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMDczUWl0d2NaZlJkbGkzVnVVNkFfaWFZVUtzZlpXM2lpX2xZdzFOWVVBNHA1TTNRQmJhMmkyMUFxdXVuempoaUxIb1d1RnpuUnBqLW5QQ0lnM3dsZzVfR0ZEMDNCOFZfSlFzZ1ZjNW4xc0oxczJ5dlJ2X1NHRnJHbE04NVd5Q0VGV3BWSmVVYW5iZkROTHdIZ2JyWF9yUEt2T0cyeDR3QXpISG1iZjY1cnpUNFJLcFpneDh5X0NzLXVBRFk?oc=5\" target=\"_blank\">John Deere partners with specialty crop technology incubator farm Reservoir</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Michigan Farm News</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMDczUWl0d2NaZlJkbGkzVnVVNkFfaWFZVUtzZlpXM2lpX2xZdzFOWVVBNHA1TTNRQmJhMmkyMUFxdXVuempoaUxIb1d1RnpuUnBqLW5QQ0lnM3dsZzVfR0ZEMDNCOFZfSlFzZ1ZjNW4xc0oxczJ5dlJ2X1NHRnJHbE04NVd5Q0VGV3BWSmVVYW5iZkROTHdIZ2JyWF9yUEt2T0cyeDR3QXpISG1iZjY1cnpUNFJLcFpneDh5X0NzLXVBRFk?oc=5"
-      ],
-      "scraped_at": "2026-09-03T19:36:55Z",
-      "url": "https://www.michiganfarmnews.com/about/news-media/john-deere-partners-with-specialty-crop-technology-incubator-farm-reservoir",
-      "final_url": "https://www.michiganfarmnews.com/about/news-media/john-deere-partners-with-specialty-crop-technology-incubator-farm-reservoir",
-      "source": "An official publication of Michigan Farm Bureau",
-      "article_title": "John Deere partners with specialty crop technology incubator farm Reservoir | An official publication of Michigan Farm Bureau",
-      "heading": "John Deere partners with specialty crop technology incubator farm Reservoir",
-      "authors": [
-        "Farm News Media"
-      ],
-      "article_published_at": "2026-09-03",
-      "article_modified_at": "2026-09-03",
-      "summary": "John Deere is rolling out a strategic collaboration with the Reservoir, an on-farm incubator that accelerates innovation for specialty crop growers.",
-      "content": "John Deere is rolling out a strategic collaboration with the Reservoir, a California-based on-farm ag technology incubator that accelerates innovation for specialty crop growers.\nReservoir Farms is the world’s first on-farm robotics incubator, starting in California’s Salinas Valley and expanding to other key regions. Founded in 2024, the Reservoir connects startups, growers and tech experts to develop and test solutions for specialty crop growers in real-world production environments.\nThrough the agreement, Deere becomes the exclusive original equipment manufacturer to the Reservoir, granting branding opportunities across the Reservoir's Salinas, California facility and future locations. Deere will have access to early-stage startups, co-developed research and development programs and curated field days for tech demonstrations.\nThe company’s Business Integration Manager Sean Sundberg said specialty crops are an important growth area for agriculture, “and an area where innovation is needed and can have a direct, measurable impact on growers' resilience and productivity.”\n“This partnership gives us a front-row seat to the next generation of agricultural technology, and an opportunity to work alongside growers and entrepreneurs to ensure future solutions are practical, scalable and built to last,” Sundland added.\nDeere said the collaboration underscores the company’s broader commitment to invest more than $20 billion in domestic manufacturing over the next decade. By pairing the company’s advanced precision ag and automation capabilities with the Reservoir's on-farm R&D team, Deere said the collaboration creates a powerful platform for developing, testing and scaling solutions that address the most pressing challenges for specialty crop growers.\nThe announcement comes as labor challenges continue to threaten multigenerational family farms, especially with a California judge’s sending H-2A wages into chaos once again.\nREAD NEXT: H-2A WAGES PLUNGED INTO LIMBO BY CALIFORNIA JUDGE'S RULING\n“John Deere's investment in the Reservoir is a vital strategic step toward making sure specialty crop growers have a fighting chance amid our industry's labor shortage,” said Walt Duflock, senior vice president of innovation at Western Growers.\n“The California agricultural technology landscape will thrive thanks to this kind of collaborative effort.”",
-      "content_html": "<html>\n  <body>\n    <p>John Deere is rolling out a strategic collaboration with the Reservoir, a California-based on-farm ag technology incubator that accelerates innovation for specialty crop growers.</p>\n    <p>Reservoir Farms is the world’s first on-farm robotics incubator, starting in California’s Salinas Valley and expanding to other key regions. Founded in 2024, the Reservoir connects startups, growers and tech experts to develop and test solutions for specialty crop growers in real-world production environments.</p>\n    <p>Through the agreement, Deere becomes the exclusive original equipment manufacturer to the Reservoir, granting branding opportunities across the Reservoir's Salinas, California facility and future locations. Deere will have access to early-stage startups, co-developed research and development programs and curated field days for tech demonstrations.</p>\n    <p>The company’s Business Integration Manager Sean Sundberg said specialty crops are an important growth area for agriculture, “and an area where innovation is needed and can have a direct, measurable impact on growers' resilience and productivity.”</p>\n    <p>“This partnership gives us a front-row seat to the next generation of agricultural technology, and an opportunity to work alongside growers and entrepreneurs to ensure future solutions are practical, scalable and built to last,” Sundland added.</p>\n    <p>Deere said the collaboration underscores the company’s broader commitment to invest more than $20 billion in domestic manufacturing over the next decade. By pairing the company’s advanced precision ag and automation capabilities with the Reservoir's on-farm R&amp;D team, Deere said the collaboration creates a powerful platform for developing, testing and scaling solutions that address the most pressing challenges for specialty crop growers.</p>\n    <p>The announcement comes as labor challenges continue to threaten multigenerational family farms, especially with a California judge’s sending H-2A wages into chaos once again.</p>\n    <p>READ NEXT: H-2A WAGES PLUNGED INTO LIMBO BY CALIFORNIA JUDGE'S RULING</p>\n    <p>“John Deere's investment in the Reservoir is a vital strategic step toward making sure specialty crop growers have a fighting chance amid our industry's labor shortage,” said Walt Duflock, senior vice president of innovation at Western Growers.</p>\n    <p>“The California agricultural technology landscape will thrive thanks to this kind of collaborative effort.”</p>\n  </body>\n</html>",
-      "word_count": 332,
-      "char_count": 2371,
-      "lead_image": "https://www.michiganfarmnews.com/sites/default/files/styles/default_share_image/public/2026-09/reservoir-test-farm-john-deere-web.jpg?h=2d1696cf&itok=ELIvaSTn",
-      "images": [
-        {
-          "url": "https://www.michiganfarmnews.com/sites/default/files/styles/default_share_image/public/2026-09/reservoir-test-farm-john-deere-web.jpg?h=2d1696cf&itok=ELIvaSTn",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://www.michiganfarmnews.com/sites/default/files/styles/twitter_card_image/public/2026-09/reservoir-test-farm-john-deere-web.jpg?h=2d1696cf&itok=4z0d38zq",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 2,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-03T19:36:55Z"
-    },
-    {
-      "id": "80157af9b8846bcf",
-      "title": "What is public interest technology and how does it help people in need? A policy expert explains",
-      "header": "Fast Company",
-      "published_at": "2026-09-03T17:02:33Z",
-      "published_raw": "Thu, 03 Sep 2026 17:02:33 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZm1IczlpVnZwYWY4eHoyNlNqc0lkdHFGRV85bUkwVkZTWFowaVVyOGg2R1NUTjV5WlFTbUQtY0I0UjVlOWdVNmNYVmg0OFlURmludHdIb21hOHlsNmFRZUItcFRxNlJ5ZmxoNmxFYk5MMktOa2NpRHZTbzZzUGt6RHBXQVVnN0l3aGY1akd4SmFCc2MzRW5OUzFTZWRwRnZFUzZiWnBiRjNRLWlYMmxWSHlB?oc=5",
-      "description": "What is public interest technology and how does it help people in need? A policy expert explains Fast Company",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPZm1IczlpVnZwYWY4eHoyNlNqc0lkdHFGRV85bUkwVkZTWFowaVVyOGg2R1NUTjV5WlFTbUQtY0I0UjVlOWdVNmNYVmg0OFlURmludHdIb21hOHlsNmFRZUItcFRxNlJ5ZmxoNmxFYk5MMktOa2NpRHZTbzZzUGt6RHBXQVVnN0l3aGY1akd4SmFCc2MzRW5OUzFTZWRwRnZFUzZiWnBiRjNRLWlYMmxWSHlB?oc=5\" target=\"_blank\">What is public interest technology and how does it help people in need? A policy expert explains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZm1IczlpVnZwYWY4eHoyNlNqc0lkdHFGRV85bUkwVkZTWFowaVVyOGg2R1NUTjV5WlFTbUQtY0I0UjVlOWdVNmNYVmg0OFlURmludHdIb21hOHlsNmFRZUItcFRxNlJ5ZmxoNmxFYk5MMktOa2NpRHZTbzZzUGt6RHBXQVVnN0l3aGY1akd4SmFCc2MzRW5OUzFTZWRwRnZFUzZiWnBiRjNRLWlYMmxWSHlB?oc=5"
-      ],
-      "scraped_at": "2026-09-03T19:36:56Z",
-      "url": "https://www.fastcompany.com/91599992/public-interest-technology-how-does-help-people-need-policy-expert-explains",
-      "final_url": "https://www.fastcompany.com/91599992/public-interest-technology-how-does-help-people-need-policy-expert-explains",
-      "source": "Fast Company",
-      "article_title": "",
-      "heading": "What is public interest technology and how does it help people in need? A policy expert explains",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "What is public interest technology and how does it help people in need? A policy expert explains Fast Company",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-03T19:36:56Z"
-    },
-    {
-      "id": "c8568b113fed678e",
-      "title": "Chemistry is changing the way researchers develop AI technology",
-      "header": "Notre Dame News",
-      "published_at": "2026-09-03T16:40:00Z",
-      "published_raw": "Thu, 03 Sep 2026 16:40:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdm00aTFXdW5vc201ZUphRFcwYmRYOC1jc2dZdU9EY2F3NDRrUE91MzlDd0w5SzNxaFpNWXFTMFJMWkVQRjQ2aFFWb3pELVdGb0Y2Y29iQ09ma183SHVDbTFubUFFSmtjSm9Zbk8yRnBMMHN1MmRWUjB6SzNfRnRjY05jNzhoVWtGZWQ1Sm5weVVYUGM?oc=5",
-      "description": "Chemistry is changing the way researchers develop AI technology Notre Dame News",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNdm00aTFXdW5vc201ZUphRFcwYmRYOC1jc2dZdU9EY2F3NDRrUE91MzlDd0w5SzNxaFpNWXFTMFJMWkVQRjQ2aFFWb3pELVdGb0Y2Y29iQ09ma183SHVDbTFubUFFSmtjSm9Zbk8yRnBMMHN1MmRWUjB6SzNfRnRjY05jNzhoVWtGZWQ1Sm5weVVYUGM?oc=5\" target=\"_blank\">Chemistry is changing the way researchers develop AI technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Notre Dame News</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdm00aTFXdW5vc201ZUphRFcwYmRYOC1jc2dZdU9EY2F3NDRrUE91MzlDd0w5SzNxaFpNWXFTMFJMWkVQRjQ2aFFWb3pELVdGb0Y2Y29iQ09ma183SHVDbTFubUFFSmtjSm9Zbk8yRnBMMHN1MmRWUjB6SzNfRnRjY05jNzhoVWtGZWQ1Sm5weVVYUGM?oc=5"
-      ],
-      "scraped_at": "2026-09-03T22:12:34Z",
-      "url": "https://news.nd.edu/news/chemistry-is-changing-the-way-researchers-develop-ai-technology/",
-      "final_url": "https://news.nd.edu/news/chemistry-is-changing-the-way-researchers-develop-ai-technology/",
-      "source": "Notre Dame News",
-      "article_title": "Chemistry is changing the way researchers develop AI technology",
-      "heading": "Chemistry is changing the way researchers develop AI technology",
-      "authors": [
-        "Brandi Wampler"
-      ],
-      "article_published_at": "2026-09-03T11:40:00-04:00",
-      "article_modified_at": "2026-09-03 11:41:44 -0400",
-      "summary": "While most believe artificial intelligence is changing science, researchers at the University of Notre Dame are exploring the reverse.",
-      "content": "While most believe artificial intelligence (AI) is changing science, researchers at the University of Notre Dame are exploring the reverse.\nIn an article published in Chemical Reviews, AI and chemistry experts alike discussed how the intricacies of organic chemistry are changing the way researchers design AI technology, leading the way for a new generation of development.\n“Organic chemistry presents a particularly demanding set of problems for AI,” said Nitesh Chawla, lead author of the article and the Frank M. Freimann Professor of Computer Science and Engineering. Chawla also serves as the Lucy Family Director for Data & AI Academic Strategy, leading the Data, AI, and Computing Initiative. “Those challenges have driven important advances in how AI represents complex problems, reasons from limited evidence, and accounts for uncertainty. In that sense, chemistry has been a catalyst for better AI—systems that can directly benefit human health, safety, and well-being.”\nFor AI models to analyze chemistry properly, they must be able to consider several factors, such as complex three-dimensional chemical structures, multiple interacting components, changing conditions, and more than one potential outcome.\nBut chemists need AI to do more than predict the properties of a compound or the outcome of a reaction. They want to understand why results occur, the mechanisms involved, what conditions matter for those results, and how confident they should be in the prediction.\n“When you ask a model to evaluate molecular representations or reaction variables, you are asking it to reason, which forces AI to move beyond black-box predictions. This demand encourages the development of complete systems that are interpretable, respect the laws of chemistry and physics, and connect predictions to established scientific principles,\" said Olaf Wiest, coauthor of the article and the Grace-Rupley Professor of Chemistry and Biochemistry. Wiest is also the founder and lead principal investigator of the National Science Foundation Center for Computer-Assisted Synthesis.\nTo complicate matters further, improving today’s AI models typically relies on scale—larger models, more computing power, and more data. In organic chemistry, high-quality experimental data is limited, often coming from a mix of sources in different formats and structures.\nIn short, chemistry has challenged AI researchers to think outside the box and innovate, as they cannot rely on scale alone to improve their models.\n“These challenges are not unique to chemistry, but chemistry makes them impossible to avoid. Extracting reliable information from limited and imperfect evidence requires us to think more critically about how problems are represented, what prior knowledge can be incorporated, and how much confidence we should place in a prediction,” Chawla said.\nThese developments are essential for advancements of AI technologies that could support or even fast-track the many areas that depend on the “central science,” chemistry.\nFor example, self-driving laboratories—automated systems that can execute scientific experiments with minimal human intervention—could accelerate the discovery of new materials and drugs. These agentic systems will need the ability to independently formulate hypotheses, design and perform experiments, interpret results, and improve their process.\nAltogether, Chawla says this makes the field of organic chemistry a powerful environment for developing better AI systems that integrate transparent protocols, rigorous validation, and safety constraints.\n“The future of scientific AI will likely be hybrid, bringing together statistical learning, symbolic and mechanistic knowledge, human expertise, and experimental feedback,” said Chawla. “What we learn by solving these problems in organic chemistry can make AI systems more reliable, more efficient, and better equipped to serve science and society.”\nOther coauthors from Notre Dame include Gisela A. González-Montiel, Kehan Guo, Taicheng Guo, Ting Hua, Xiaobao Huang, Eric Inae, Meng Jiang, Khiem Le, Gang Liu, J. Charlie Maier, Nuno Moniz, Brenda Nogueira, Deng Pan, Bryan V. Piguave, Brett M. Savoie, Andrew B. Schofield, Yili Shen, Alexander Taylor, Xiangliang Zhang, and Yihan Zhu.\nThe article was published as part of “Artificial Intelligence for Chemistry,” a special issue of Chemical Reviews with the research supported by the NSF Center for Computer Assisted Synthesis.\nContact: Brandi Wampler, associate director of media relations, 574-631-2632, brandiwampler@nd.edu",
-      "content_html": "<html>\n  <body><p>While most believe artificial intelligence (AI) is changing science, researchers at the University of Notre Dame are exploring the reverse.</p><img src=\"https://news.nd.edu/assets/676974/300x/mc_2724_lucy_institute_event_01_1_jpg.jpg\" alt=\"A man in a grey suit, unique glasses, speaks animatedly, gesturing. &quot;ETHICS OF ARTIFICIAL INTELLIGENCE&quot; on screen.\"/>\n<p>In an article published in Chemical Reviews, AI and chemistry experts alike discussed how the intricacies of organic chemistry are changing the way researchers design AI technology, leading the way for a new generation of development.</p><p>“Organic chemistry presents a particularly demanding set of problems for AI,” said Nitesh Chawla, lead author of the article and the Frank M. Freimann Professor of Computer Science and Engineering. Chawla also serves as the Lucy Family Director for Data &amp; AI Academic Strategy, leading the Data, AI, and Computing Initiative. “Those challenges have driven important advances in how AI represents complex problems, reasons from limited evidence, and accounts for uncertainty. In that sense, chemistry has been a catalyst for better AI—systems that can directly benefit human health, safety, and well-being.”</p><p>For AI models to analyze chemistry properly, they must be able to consider several factors, such as complex three-dimensional chemical structures, multiple interacting components, changing conditions, and more than one potential outcome.</p><p>But chemists need AI to do more than predict the properties of a compound or the outcome of a reaction. They want to understand why results occur, the mechanisms involved, what conditions matter for those results, and how confident they should be in the prediction.</p><p>“When you ask a model to evaluate molecular representations or reaction variables, you are asking it to reason, which forces AI to move beyond black-box predictions. This demand encourages the development of complete systems that are interpretable, respect the laws of chemistry and physics, and connect predictions to established scientific principles,\" said Olaf Wiest, coauthor of the article and the Grace-Rupley Professor of Chemistry and Biochemistry. Wiest is also the founder and lead principal investigator of the National Science Foundation Center for Computer-Assisted Synthesis.</p><p>To complicate matters further, improving today’s AI models typically relies on scale—larger models, more computing power, and more data. In organic chemistry, high-quality experimental data is limited, often coming from a mix of sources in different formats and structures.</p><img src=\"https://news.nd.edu/assets/676977/300x/bj_41222_olaf_wiest_6122_smalljpg.jpg\" alt=\"A man in a blue striped shirt stands facing forward in a science lab. Behind him are fume hoods with glass apparatus and blue liquid.\"/>\n<p>In short, chemistry has challenged AI researchers to think outside the box and innovate, as they cannot rely on scale alone to improve their models.</p><p>“These challenges are not unique to chemistry, but chemistry makes them impossible to avoid. Extracting reliable information from limited and imperfect evidence requires us to think more critically about how problems are represented, what prior knowledge can be incorporated, and how much confidence we should place in a prediction,” Chawla said.</p><p>These developments are essential for advancements of AI technologies that could support or even fast-track the many areas that depend on the “central science,” chemistry.</p><p>For example, self-driving laboratories—automated systems that can execute scientific experiments with minimal human intervention—could accelerate the discovery of new materials and drugs. These agentic systems will need the ability to independently formulate hypotheses, design and perform experiments, interpret results, and improve their process.</p><p>Altogether, Chawla says this makes the field of organic chemistry a powerful environment for developing better AI systems that integrate transparent protocols, rigorous validation, and safety constraints.</p><p>“The future of scientific AI will likely be hybrid, bringing together statistical learning, symbolic and mechanistic knowledge, human expertise, and experimental feedback,” said Chawla. “What we learn by solving these problems in organic chemistry can make AI systems more reliable, more efficient, and better equipped to serve science and society.”</p><p>Other coauthors from Notre Dame include Gisela A. González-Montiel, Kehan Guo, Taicheng Guo, Ting Hua, Xiaobao Huang, Eric Inae, Meng Jiang, Khiem Le, Gang Liu, J. Charlie Maier, Nuno Moniz, Brenda Nogueira, Deng Pan, Bryan V. Piguave, Brett M. Savoie, Andrew B. Schofield, Yili Shen, Alexander Taylor, Xiangliang Zhang, and Yihan Zhu.</p><p>The article was published as part of “Artificial Intelligence for Chemistry,” a special issue of Chemical Reviews with the research supported by the NSF Center for Computer Assisted Synthesis.</p><p>Contact: Brandi Wampler, associate director of media relations, 574-631-2632, brandiwampler@nd.edu</p></body>\n</html>",
-      "word_count": 659,
-      "char_count": 4549,
-      "lead_image": "https://news.nd.edu/assets/676971/1600x630/mlc_8726_fiberoptic_illustration_02.jpg",
-      "images": [
-        {
-          "url": "https://news.nd.edu/assets/676971/1600x630/mlc_8726_fiberoptic_illustration_02.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://news.nd.edu/assets/676974/300x/mc_2724_lucy_institute_event_01_1_jpg.jpg",
-          "alt": "A man in a grey suit, unique glasses, speaks animatedly, gesturing. \"ETHICS OF ARTIFICIAL INTELLIGENCE\" on screen.",
-          "caption": "Nitesh Chawla, founding director of the Lucy Family Institute for Data & Society, introduces a speaker at a Lucy Institute event on artificial intelligence. (Photo by Matt Cashore/University of Notre Dame)",
-          "role": "body"
-        },
-        {
-          "url": "https://news.nd.edu/assets/676977/300x/bj_41222_olaf_wiest_6122_smalljpg.jpg",
-          "alt": "A man in a blue striped shirt stands facing forward in a science lab. Behind him are fume hoods with glass apparatus and blue liquid.",
-          "caption": "Olaf Wiest, the Grace-Rupley Professor of Chemistry and Biochemistry and founder and lead principal investigator of the National Science Foundation Center for Computer-Assisted Synthesis. (University of Notre Dame)",
-          "role": "body"
-        }
-      ],
-      "image_count": 3,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-03T22:12:34Z"
-    },
-    {
-      "id": "bd26e12b63b1d9e8",
-      "title": "Media Services Modernizes Classroom Technology for Fall 2026",
-      "header": "Seton Hall University",
-      "published_at": "2026-09-03T16:14:04Z",
-      "published_raw": "Thu, 03 Sep 2026 16:14:04 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkxDa0RjbHJKbVFSNHhmOW5WeXZrc1V6cnI0Um52WmpFeUhWNmxqS1Y0cXQ1d1dmdEY5SmVsalp3WkR5N0lYellTWUJaVktVQkZXX0FEUk5LN2NkN0tTb3R6dktmVXVBVTY5bFo0dlcwLWFfenVQanIzWnJXNWVRQU9tNnh0Q0FkM3VEQm1PQ2xfUF9yekMxWkxuenVZZ1dSUlZF?oc=5",
-      "description": "Media Services Modernizes Classroom Technology for Fall 2026 Seton Hall University",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxObkxDa0RjbHJKbVFSNHhmOW5WeXZrc1V6cnI0Um52WmpFeUhWNmxqS1Y0cXQ1d1dmdEY5SmVsalp3WkR5N0lYellTWUJaVktVQkZXX0FEUk5LN2NkN0tTb3R6dktmVXVBVTY5bFo0dlcwLWFfenVQanIzWnJXNWVRQU9tNnh0Q0FkM3VEQm1PQ2xfUF9yekMxWkxuenVZZ1dSUlZF?oc=5\" target=\"_blank\">Media Services Modernizes Classroom Technology for Fall 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seton Hall University</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkxDa0RjbHJKbVFSNHhmOW5WeXZrc1V6cnI0Um52WmpFeUhWNmxqS1Y0cXQ1d1dmdEY5SmVsalp3WkR5N0lYellTWUJaVktVQkZXX0FEUk5LN2NkN0tTb3R6dktmVXVBVTY5bFo0dlcwLWFfenVQanIzWnJXNWVRQU9tNnh0Q0FkM3VEQm1PQ2xfUF9yekMxWkxuenVZZ1dSUlZF?oc=5"
-      ],
-      "scraped_at": "2026-09-04T00:41:51Z",
-      "url": "https://www.shu.edu/technology/news/media-services-modernizes-classroom-technology-for-fall-2026.html",
-      "final_url": "https://www.shu.edu/technology/news/media-services-modernizes-classroom-technology-for-fall-2026.html",
-      "source": "shu.edu",
-      "article_title": "Media Services Modernizes Classroom Technology for Fall 2026",
-      "heading": "Media Services Modernizes Classroom Technology for Fall 2026",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "At Seton Hall University, Media Services works year-round to ensure classrooms and instructional spaces are equipped with reliable, up-to-date technology.",
-      "content": "Media Services Modernizes Classroom Technology for Fall 2026\nThursday, September 3, 2026\nAs students and faculty return for the 2026-27 academic year, Seton Hall University's Media Services team has completed a series of technology upgrades designed to enhance teaching and learning across campus. The improvements include classroom technology enhancements in Corrigan Hall and Schwartz Hall, as well as a comprehensive refresh of instructional spaces at the Interprofessional Health Sciences (IHS) Campus.\nWorking year-round to support the University's academic mission, Media Services modernizes and maintains classroom technology to provide reliable, consistent and user-friendly experiences for faculty and students. The latest upgrades expand wireless presentation capabilities, standardize classroom technology and introduce new tools that support engaging instruction across a variety of learning environments.\nClassroom Technology Upgrades in Corrigan and Schwartz Halls\nAs part of an ongoing effort, Media Services completed audiovisual upgrades in 12 classrooms in Corrigan Hall and in Room 105 of Schwartz Hall.\nThe Corrigan Hall classrooms were upgraded with laser short-throw projectors, Crestron push-button controllers and new interactive whiteboarding capabilities. Crestron AirMedia was also introduced in all 12 classrooms, allowing faculty and students to wirelessly share content from laptops, tablets and mobile devices.\nThese enhancements create a more consistent classroom experience throughout Corrigan Hall. Faculty teaching in multiple classrooms can use the same presentation technology and controls, while the interactive whiteboarding tools support greater engagement by allowing instructors to annotate content and capture notes during class.\nIn Schwartz Hall Room 105, the technology refresh included an updated projection system and displays, along with a new Crestron controller that simplifies source selection and audio management. Together, these upgrades provide a more reliable and intuitive classroom environment for instructors and students.\nTechnology Upgrades at the IHS Campus\nMedia Services also completed a comprehensive technology refresh across 12 instructional spaces at the Interprofessional Health Sciences (IHS) Campus, including eight Flexible Classrooms and four Learning Studios. The upgrades establish a consistent technology experience across the updated spaces, making it easier for faculty to teach in multiple classrooms while supporting active learning and collaboration.\nThe refreshed spaces feature new high-brightness projectors, updated touch-panel controllers and standardized wall plates for wired connections to laptops and specialized devices used in health sciences instruction. Wireless presentation capabilities were also standardized across all 12 rooms through the deployment of Crestron AirMedia, the University's standard wireless presentation platform. AirMedia enables faculty and students to share content from laptops, tablets and mobile devices without the need for adapters or cables.\nAs instructional needs continue to evolve, Echo360 recording appliances were removed from the affected spaces. Faculty interested in recording lectures or demonstrations can work with their instructional designer to explore alternative recording options and learn how to use Microsoft Teams for in-class recording and content capture.\nIn addition to the classroom technology upgrades, Media Services has updated its support schedule at the IHS Campus beginning in fall 2026. Support is available Monday through Friday from 7 a.m. to 10 p.m. Weekend support requests should be submitted through the Media Services Request Form at least two weeks in advance to allow sufficient time for staffing and preparation.\nCategories: Science and Technology",
-      "content_html": "<html>\n  <body>\n    <h1>Media Services Modernizes Classroom Technology for Fall 2026</h1>\n    <p>Thursday, September 3, 2026</p>\n    <p><img src=\"https://www.shu.edu/images/Students%20using%20technology%20in%20classroom.jpg\" alt=\"Students using a laptop with digital display in the background.\"/> As students and faculty return for the 2026-27 academic year, Seton Hall University's Media Services team has completed a series of technology upgrades designed to enhance teaching and\n                                       learning across campus. The improvements include classroom technology enhancements\n                                       in Corrigan Hall and Schwartz Hall, as well as a comprehensive refresh of instructional\n                                       spaces at the Interprofessional Health Sciences (IHS) Campus.</p>\n    <p>Working year-round to support the University's academic mission, Media Services modernizes and maintains classroom technology to provide reliable, consistent and user-friendly experiences for faculty and students. The latest upgrades expand wireless presentation capabilities, standardize classroom technology and introduce new tools that support engaging instruction across a variety of learning environments.</p>\n    <h3>Classroom Technology Upgrades in Corrigan and Schwartz Halls</h3>\n    <p>As part of an ongoing effort, Media Services completed audiovisual upgrades in 12 classrooms in Corrigan Hall and in Room 105 of Schwartz Hall.</p>\n    <p>The Corrigan Hall classrooms were upgraded with laser short-throw projectors, Crestron push-button controllers and new interactive whiteboarding capabilities. Crestron AirMedia was also introduced in all 12 classrooms, allowing faculty and students to wirelessly share content from laptops, tablets and mobile devices.</p>\n    <p>These enhancements create a more consistent classroom experience throughout Corrigan Hall. Faculty teaching in multiple classrooms can use the same presentation technology and controls, while the interactive whiteboarding tools support greater engagement by allowing instructors to annotate content and capture notes during class.</p>\n    <p>In Schwartz Hall Room 105, the technology refresh included an updated projection system and displays, along with a new Crestron controller that simplifies source selection and audio management. Together, these upgrades provide a more reliable and intuitive classroom environment for instructors and students.</p>\n    <h3>Technology Upgrades at the IHS Campus</h3>\n    <p>Media Services also completed a comprehensive technology refresh across 12 instructional spaces at the Interprofessional Health Sciences (IHS) Campus, including eight Flexible Classrooms and four Learning Studios. The upgrades establish a consistent technology experience across the updated spaces, making it easier for faculty to teach in multiple classrooms while supporting active learning and collaboration.</p>\n    <p>The refreshed spaces feature new high-brightness projectors, updated touch-panel controllers and standardized wall plates for wired connections to laptops and specialized devices used in health sciences instruction. Wireless presentation capabilities were also standardized across all 12 rooms through the deployment of Crestron AirMedia, the University's standard wireless presentation platform. AirMedia enables faculty and students to share content from laptops, tablets and mobile devices without the need for adapters or cables.</p>\n    <p>As instructional needs continue to evolve, Echo360 recording appliances were removed from the affected spaces. Faculty interested in recording lectures or demonstrations can work with their instructional designer to explore alternative recording options and learn how to use Microsoft Teams for in-class recording and content capture.</p>\n    <p>In addition to the classroom technology upgrades, Media Services has updated its support schedule at the IHS Campus beginning in fall 2026. Support is available Monday through Friday from 7 a.m. to 10 p.m. Weekend support requests should be submitted through the Media Services Request Form at least two weeks in advance to allow sufficient time for staffing and preparation.</p>\n    <p>Categories: Science and Technology</p>\n  </body>\n</html>",
-      "word_count": 520,
-      "char_count": 3811,
-      "lead_image": "https://www.shu.edu/images/opengraph-facebook-1200x630.jpg",
-      "images": [
-        {
-          "url": "https://www.shu.edu/images/opengraph-facebook-1200x630.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://www.shu.edu/images/opengraph-twitter-1200x600.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://www.shu.edu/images/Students%20using%20technology%20in%20classroom.jpg",
-          "alt": "Students using a laptop with digital display in the background.",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 3,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-04T00:41:51Z"
     }
   ]
 }
