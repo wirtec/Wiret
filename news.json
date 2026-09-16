@@ -1,17 +1,332 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-15T22:42:49Z",
+  "generated_at": "2026-09-16T01:03:19Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 16,
-    "added": 10,
-    "updated": 6,
-    "ok": 389,
-    "failed": 111,
-    "duration_seconds": 102.37
+    "scraped_now": 11,
+    "added": 4,
+    "updated": 7,
+    "ok": 388,
+    "failed": 112,
+    "duration_seconds": 101.7
   },
   "articles": [
+    {
+      "id": "3e9578749d502d38",
+      "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
+      "header": "The New York Times",
+      "published_at": "2026-09-16T00:19:23Z",
+      "published_raw": "Wed, 16 Sep 2026 00:19:23 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDdJR2JuaHlmNmNBV3BFUDN1WVh6amQzM0VnWUcwLUl5MVFzaUJDMlBSQkNEeUhSSG1ZcjIya21VSWh5TXQ4dll4X0pHRE1BeUl3V3dydTctWEtRU0ZYQmE4V3BkcVM4VHV6MzdKVy1mNWE0WUtidXRubkFLZmxIRVFKblBEZ3NwczBLQ1habw?oc=5",
+      "description": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown The New York Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDdJR2JuaHlmNmNBV3BFUDN1WVh6amQzM0VnWUcwLUl5MVFzaUJDMlBSQkNEeUhSSG1ZcjIya21VSWh5TXQ4dll4X0pHRE1BeUl3V3dydTctWEtRU0ZYQmE4V3BkcVM4VHV6MzdKVy1mNWE0WUtidXRubkFLZmxIRVFKblBEZ3NwczBLQ1habw?oc=5\" target=\"_blank\">Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDdJR2JuaHlmNmNBV3BFUDN1WVh6amQzM0VnWUcwLUl5MVFzaUJDMlBSQkNEeUhSSG1ZcjIya21VSWh5TXQ4dll4X0pHRE1BeUl3V3dydTctWEtRU0ZYQmE4V3BkcVM4VHV6MzdKVy1mNWE0WUtidXRubkFLZmxIRVFKblBEZ3NwczBLQ1habw?oc=5"
+      ],
+      "scraped_at": "2026-09-16T01:01:37Z",
+      "url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
+      "final_url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
+      "source": "The New York Times",
+      "article_title": "",
+      "heading": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown The New York Times",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-16T01:01:37Z"
+    },
+    {
+      "id": "9e1ac4a6b3aac8af",
+      "title": "Poll: More than a quarter of workers fear losing jobs to technology",
+      "header": "upi.com",
+      "published_at": "2026-09-15T23:38:30Z",
+      "published_raw": "Tue, 15 Sep 2026 23:38:30 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVIxekNBdTJCNDNPNDU2MkQzSHlqSHNtRU5TNGROR1ZWUVZjUU0wY01Ka3FBUUZLSE9hS0dYQWJjUl92YjUtLVR1TUFQd25FQ0Nqc3BLUDJ2RFd1ZkxmWC1sVWdIVkp5TVQ5SlNjajExVXdDeDhEVERDUy1Va2xoX2Z4b0JyU2FtcE9DX3piZ1IzZmJiSDdZZG5zQU1JMm9xMXNlWElCZTNrVDhkUnFzSmozSFBtQdIBuwFBVV95cUxNTzdJLWRpamltWU9OMWdCeFh1c0VadzR0NkM1N0g2RmRQTkMzT3o0ZFdac29OVUdQY2duSnY4S2xWR3JlZUxUVVBFd3NDUTZwdWp0WHZXanUtc01NNWcxb3pDMWlVNVN5TkxkOVZ1UzFfVE53LTBqQnplT0xSS0FFYmt5QTBCWlNOd2xFSkVFWVh3WFB2SE5QajZVa2w2bWwtUUtpUHRab1NmQWhKOE91ak9aNlhraG85czZj?oc=5",
+      "description": "Poll: More than a quarter of workers fear losing jobs to technology upi.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVIxekNBdTJCNDNPNDU2MkQzSHlqSHNtRU5TNGROR1ZWUVZjUU0wY01Ka3FBUUZLSE9hS0dYQWJjUl92YjUtLVR1TUFQd25FQ0Nqc3BLUDJ2RFd1ZkxmWC1sVWdIVkp5TVQ5SlNjajExVXdDeDhEVERDUy1Va2xoX2Z4b0JyU2FtcE9DX3piZ1IzZmJiSDdZZG5zQU1JMm9xMXNlWElCZTNrVDhkUnFzSmozSFBtQdIBuwFBVV95cUxNTzdJLWRpamltWU9OMWdCeFh1c0VadzR0NkM1N0g2RmRQTkMzT3o0ZFdac29OVUdQY2duSnY4S2xWR3JlZUxUVVBFd3NDUTZwdWp0WHZXanUtc01NNWcxb3pDMWlVNVN5TkxkOVZ1UzFfVE53LTBqQnplT0xSS0FFYmt5QTBCWlNOd2xFSkVFWVh3WFB2SE5QajZVa2w2bWwtUUtpUHRab1NmQWhKOE91ak9aNlhraG85czZj?oc=5\" target=\"_blank\">Poll: More than a quarter of workers fear losing jobs to technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">upi.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVIxekNBdTJCNDNPNDU2MkQzSHlqSHNtRU5TNGROR1ZWUVZjUU0wY01Ka3FBUUZLSE9hS0dYQWJjUl92YjUtLVR1TUFQd25FQ0Nqc3BLUDJ2RFd1ZkxmWC1sVWdIVkp5TVQ5SlNjajExVXdDeDhEVERDUy1Va2xoX2Z4b0JyU2FtcE9DX3piZ1IzZmJiSDdZZG5zQU1JMm9xMXNlWElCZTNrVDhkUnFzSmozSFBtQdIBuwFBVV95cUxNTzdJLWRpamltWU9OMWdCeFh1c0VadzR0NkM1N0g2RmRQTkMzT3o0ZFdac29OVUdQY2duSnY4S2xWR3JlZUxUVVBFd3NDUTZwdWp0WHZXanUtc01NNWcxb3pDMWlVNVN5TkxkOVZ1UzFfVE53LTBqQnplT0xSS0FFYmt5QTBCWlNOd2xFSkVFWVh3WFB2SE5QajZVa2w2bWwtUUtpUHRab1NmQWhKOE91ak9aNlhraG85czZj?oc=5"
+      ],
+      "scraped_at": "2026-09-16T01:01:39Z",
+      "url": "https://www.upi.com/Top_News/US/2026/09/15/gallup-poll-workers-concerned-about-tech-related-job-loss/9461789514715/",
+      "final_url": "https://www.upi.com/Top_News/US/2026/09/15/gallup-poll-workers-concerned-about-tech-related-job-loss/9461789514715/",
+      "source": "UPI",
+      "article_title": "Poll: More than a quarter of workers fear losing jobs to technology - UPI.com",
+      "heading": "Poll: More than a quarter of workers fear losing jobs to technology",
+      "authors": [],
+      "article_published_at": "2026-09-15T19:38:30-04:00",
+      "article_modified_at": null,
+      "summary": "A greater number of U.S. workers fear that their job could be eliminated because of technology, a new Gallup poll released Tuesday said.",
+      "content": "Sept. 15 (UPI) -- A greater number of U.S. workers fear that their job could be eliminated because of technology, a new Gallup poll released Tuesday said.\nTwenty-seven percent of workers said they worry about this, a new high since the question was first asked in 2017, Gallup said. This marks an increase of seven percentage points since last year and is more than double the 13% who expressed this worry in 2017.\nIn contrast, worker concerns about \"more traditional threats to employment and income,\" such as layoffs and wage cuts, largely remained the same from last year.\n\"Although far from pervasive, workers' concern about technology making their jobs obsolete continues to rise, now surpassing several traditional job worries that typically shift with the economy,\" Gallup said. \"The increase is especially notable among younger and college-educated workers,suggesting that anxiety about technological disruption is reaching groups that may have previously felt more insulated from workplace upheaval.\"\nThe worries about tech displacement applied to both those and without college degrees, and the percentage difference remained small. Twenty-five percent of those with college degrees -- a six percentage-point increase -- and 29% of those without -- an eight percentage-point increase -- expressed these concerns.\nAt one point, college graduates were far less likely to worry about tech displacement than those who had not graduated from college, Gallup said. However, graduate worries about the matter soared from 8% in 2021 to 20% in 2023 as artificial intelligence tools were introduced.\nThe poll also noted two different age groups in comparison for their technology-related job concerns -- those 18 to 44 and those 45 and older. The older group's rate of concern for tech displacement has remained largely steady since the poll started in 2017. That year, it was noted at 16%, compared to 19% in 2026.\nHowever, tech displacement worries among younger workers have climbed from 10% in 2017 to 34% in 2026. This includes an increase from 26% in 2025.\nMore traditional job worries were led by concerns about benefit reductions at 33% of workers, followed by concerns about layoffs at 24% and reduced wages and hours at 21% each.\nYounger workers were more likely than those in the older category to worry about all the noted job threats, except for benefit reductions, Gallup said.\nGallup surveyed 1,200 adults between Aug. 3-24 with a 3% margin of error.",
+      "content_html": "<html>\n  <body>\n    <p>Sept. 15 (UPI) -- A greater number of U.S. workers fear that their job could be eliminated because of technology, a new Gallup poll released Tuesday said.</p>\n    <p>Twenty-seven percent of workers said they worry about this, a new high since the question was first asked in 2017, Gallup said. This marks an increase of seven percentage points since last year and is more than double the 13% who expressed this worry in 2017.</p>\n    <p>In contrast, worker concerns about \"more traditional threats to employment and income,\" such as layoffs and wage cuts, largely remained the same from last year.</p>\n    <p>\"Although far from pervasive, workers' concern about technology making their jobs obsolete continues to rise, now surpassing several traditional job worries that typically shift with the economy,\" Gallup said. \"The increase is especially notable among younger and college-educated workers,suggesting that anxiety about technological disruption is reaching groups that may have previously felt more insulated from workplace upheaval.\"</p>\n    <p>The worries about tech displacement applied to both those and without college degrees, and the percentage difference remained small. Twenty-five percent of those with college degrees -- a six percentage-point increase -- and 29% of those without -- an eight percentage-point increase -- expressed these concerns.</p>\n    <p>At one point, college graduates were far less likely to worry about tech displacement than those who had not graduated from college, Gallup said. However, graduate worries about the matter soared from 8% in 2021 to 20% in 2023 as artificial intelligence tools were introduced.</p>\n    <p>The poll also noted two different age groups in comparison for their technology-related job concerns -- those 18 to 44 and those 45 and older. The older group's rate of concern for tech displacement has remained largely steady since the poll started in 2017. That year, it was noted at 16%, compared to 19% in 2026.</p>\n    <p>However, tech displacement worries among younger workers have climbed from 10% in 2017 to 34% in 2026. This includes an increase from 26% in 2025.</p>\n    <p>More traditional job worries were led by concerns about benefit reductions at 33% of workers, followed by concerns about layoffs at 24% and reduced wages and hours at 21% each.</p>\n    <p>Younger workers were more likely than those in the older category to worry about all the noted job threats, except for benefit reductions, Gallup said.</p>\n    <p>Gallup surveyed 1,200 adults between Aug. 3-24 with a 3% margin of error.</p>\n  </body>\n</html>",
+      "word_count": 395,
+      "char_count": 2465,
+      "lead_image": "https://cdnph.upi.com/sv/ph/og/upi_com/9461789514715/2026/1/766309ad8bad8ea1b65220e313607cc5/v1.5/Poll-More-than-a-quarter-of-workers-fear-losing-jobs-to-technology.jpg",
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/9461789514715/2026/1/766309ad8bad8ea1b65220e313607cc5/v1.5/Poll-More-than-a-quarter-of-workers-fear-losing-jobs-to-technology.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://cdnph.upi.com/ph/st/th/9461789514715/2026/upi_com/766309ad8bad8ea1b65220e313607cc5/v2.1/Poll-More-than-a-quarter-of-workers-fear-losing-jobs-to-technology.jpg?lg=4",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://cdnph.upi.com/ph/st/th/9461789514715/2026/upi_com/766309ad8bad8ea1b65220e313607cc5/v1.2/Poll-More-than-a-quarter-of-workers-fear-losing-jobs-to-technology.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://cdnph.upi.com/ph/st/th/9461789514715/2026/upi_com/766309ad8bad8ea1b65220e313607cc5/v2.1/Poll-More-than-a-quarter-of-workers-fear-losing-jobs-to-technology.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://cdnph.upi.com/ph/st/th/9461789514715/2026/upi_com/766309ad8bad8ea1b65220e313607cc5/v1.5/Poll-More-than-a-quarter-of-workers-fear-losing-jobs-to-technology.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 5,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-16T01:01:39Z"
+    },
+    {
+      "id": "7d5b810264496a0c",
+      "title": "First lady Melania Trump visits North Carolina school to see AI technology in action",
+      "header": "WBFF",
+      "published_at": "2026-09-15T23:21:23Z",
+      "published_raw": "Tue, 15 Sep 2026 23:21:23 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOVTFrTkRrYmtxVnVOV1hiVTctYXd0Y0Zrd3BFUHAyc1RGbDNNSHV0a3RTOWdHNXhFZGNWelVIZmhPZ0xSak1jTU5MdGpjclZUQUJ0OUM3YnJjQUJFak9mNUVOUDd0UUFDdjRkLXc0aFM5SXJZTm5XOXQ4LWFMeWxuNk1yeWVQcDJqZnlydW5SNVA1ci1nVThnaHhXbDg3NG85ZVpGTkZwbXhENVBXY25aYXA5bnZueHNGQmpSZ2lESEJaU21RNGF4XzYyYXhzX3o0UHN0aHFNd2k2cXJXbkwyZ3RIZ0gtSUxGbi0tdGlHaDF1bVRTM3BGXzQ1V3Vaakl1ZnNqbXE0X0FsdkhPbVpYeU5hR083VnRvRExpaGh2T1ZySlh0ZGl4dVZScXc4V0E4RnZhbmtsNnRZY0xVQkxFdDZMOHJfLWYzdlBJeUtaRzZmbHJQQWF3ZWlKY092YWV6QWpabnNscnc2a3JMeHZ5dkJvdEdaeHc5RlZn?oc=5",
+      "description": "First lady Melania Trump visits North Carolina school to see AI technology in action WBFF",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi-wJBVV95cUxOVTFrTkRrYmtxVnVOV1hiVTctYXd0Y0Zrd3BFUHAyc1RGbDNNSHV0a3RTOWdHNXhFZGNWelVIZmhPZ0xSak1jTU5MdGpjclZUQUJ0OUM3YnJjQUJFak9mNUVOUDd0UUFDdjRkLXc0aFM5SXJZTm5XOXQ4LWFMeWxuNk1yeWVQcDJqZnlydW5SNVA1ci1nVThnaHhXbDg3NG85ZVpGTkZwbXhENVBXY25aYXA5bnZueHNGQmpSZ2lESEJaU21RNGF4XzYyYXhzX3o0UHN0aHFNd2k2cXJXbkwyZ3RIZ0gtSUxGbi0tdGlHaDF1bVRTM3BGXzQ1V3Vaakl1ZnNqbXE0X0FsdkhPbVpYeU5hR083VnRvRExpaGh2T1ZySlh0ZGl4dVZScXc4V0E4RnZhbmtsNnRZY0xVQkxFdDZMOHJfLWYzdlBJeUtaRzZmbHJQQWF3ZWlKY092YWV6QWpabnNscnc2a3JMeHZ5dkJvdEdaeHc5RlZn?oc=5\" target=\"_blank\">First lady Melania Trump visits North Carolina school to see AI technology in action</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBFF</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOVTFrTkRrYmtxVnVOV1hiVTctYXd0Y0Zrd3BFUHAyc1RGbDNNSHV0a3RTOWdHNXhFZGNWelVIZmhPZ0xSak1jTU5MdGpjclZUQUJ0OUM3YnJjQUJFak9mNUVOUDd0UUFDdjRkLXc0aFM5SXJZTm5XOXQ4LWFMeWxuNk1yeWVQcDJqZnlydW5SNVA1ci1nVThnaHhXbDg3NG85ZVpGTkZwbXhENVBXY25aYXA5bnZueHNGQmpSZ2lESEJaU21RNGF4XzYyYXhzX3o0UHN0aHFNd2k2cXJXbkwyZ3RIZ0gtSUxGbi0tdGlHaDF1bVRTM3BGXzQ1V3Vaakl1ZnNqbXE0X0FsdkhPbVpYeU5hR083VnRvRExpaGh2T1ZySlh0ZGl4dVZScXc4V0E4RnZhbmtsNnRZY0xVQkxFdDZMOHJfLWYzdlBJeUtaRzZmbHJQQWF3ZWlKY092YWV6QWpabnNscnc2a3JMeHZ5dkJvdEdaeHc5RlZn?oc=5"
+      ],
+      "scraped_at": "2026-09-16T01:01:37Z",
+      "url": "https://foxbaltimore.com/news/nation-world/gallery/first-lady-melania-trump-visits-north-carolina-school-to-see-ai-technology-in-action-ashe-county-mountain-view-elementary-nvidia-be-best-fostering-the-future-studyfetch-jetson-nano-developer-kits-hurricane-helene",
+      "final_url": "https://foxbaltimore.com/news/nation-world/gallery/first-lady-melania-trump-visits-north-carolina-school-to-see-ai-technology-in-action-ashe-county-mountain-view-elementary-nvidia-be-best-fostering-the-future-studyfetch-jetson-nano-developer-kits-hurricane-helene",
+      "source": "WBFF",
+      "article_title": "First lady Melania Trump visits North Carolina school to see AI technology in action",
+      "heading": "First lady Melania Trump visits North Carolina school to see AI technology in action",
+      "authors": [
+        "CAITLYN FROLO | The National News Desk"
+      ],
+      "article_published_at": "2026-09-15T13:08:11.000-04:00",
+      "article_modified_at": "2026-09-15T13:43:36.000-04:00",
+      "summary": "WBFF Fox45 provides local news, weather forecasts, traffic updates, notices of events and items of interest in the community, sports and entertainment programming for Baltimore and nearby towns and communities in Maryland, including Annapolis, Crofton, Glen Burnie, Linthicum, Pasadena, Severn, Cockeysville, Dundalk, Essex, Parkville, Owings Mills, Towson, White Marsh, Woodlawn, Hampstead, Sykesville, Taneytown, Westminster, Elkton, Perryville, Pt. Deposit, Rising Sun, Aberdeen, Abingdon, Bel Air, Edgewood, Fallston, Havre De Grace, Columbia, Elkridge, Ellicott City, Fulton, and Ocean City.",
+      "content": "First lady Melania Trump visits North Carolina school to see AI technology in action\nNORTH JEFFERSON, NORTH CAROLINA - SEPTEMBER 15: U.S. First Lady Melania Trump embraces a student at Mountain View Elementary School on September 15, 2026 in North Jefferson, North Carolina. The First Lady is at the school to see how they’re using technology in the classroom. (Photo by Kent Nishmura-Pool/Getty Images)",
+      "content_html": "<html>\n  <body><p>1/32</p><h1>First lady Melania Trump visits North Carolina school to see AI technology in action</h1>NORTH JEFFERSON, NORTH CAROLINA - SEPTEMBER 15: U.S. First Lady Melania Trump embraces a student at Mountain View Elementary School on September 15, 2026 in North Jefferson, North Carolina. The First Lady is at the school to see how they’re using technology in the classroom. (Photo by Kent Nishmura-Pool/Getty Images)<p>SHARE</p></body>\n</html>",
+      "word_count": 64,
+      "char_count": 403,
+      "lead_image": "https://foxbaltimore.com/resources/media2/16x9/7517/1320/0x101/90/599b2c95-fedf-4707-b20b-e70c840a46d8-GettyImages2294928456.jpg",
+      "images": [
+        {
+          "url": "https://foxbaltimore.com/resources/media2/16x9/7517/1320/0x101/90/599b2c95-fedf-4707-b20b-e70c840a46d8-GettyImages2294928456.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://foxbaltimore.com/resources/media/599b2c95-fedf-4707-b20b-e70c840a46d8-GettyImages2294928456.jpg",
+          "alt": "NORTH JEFFERSON, NORTH CAROLINA - SEPTEMBER 15: U.S. First Lady Melania Trump embraces a student at Mountain View Elementary School on September 15, 2026 in North Jefferson, North Carolina. The First Lady is at the school to see how they’re using technology in the classroom. (Photo by Kent Nishmura-Pool/Getty Images)",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://foxbaltimore.com/resources/media/49db18a0-3d88-4fef-8832-61dd29c29918-GettyImages2294928445.jpg",
+          "alt": "NORTH JEFFERSON, NORTH CAROLINA - SEPTEMBER 15: U.S. First Lady Melania Trump arrives to speak to students at Mountain View Elementary School on September 15, 2026 in North Jefferson, North Carolina. The First Lady is at the school to see how they’re using technology in the classroom. (Photo by Kent Nishmura-Pool/Getty Images)",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://foxbaltimore.com/resources/media/df277129-b27f-4dcf-bacc-dfd86d6a4d2f-GettyImages2294928909.jpg",
+          "alt": "NORTH JEFFERSON, NORTH CAROLINA - SEPTEMBER 15: U.S. First Lady Melania Trump meets with students at Mountain View Elementary School on September 15, 2026 in North Jefferson, North Carolina. The First Lady is at the school to see how they’re using technology in the classroom. (Photo by Kent Nishmura-Pool/Getty Images)",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://foxbaltimore.com/resources/media/0315f549-30f3-4fbc-988a-8da3b3be31e3-GettyImages2294928804.jpg",
+          "alt": "NORTH JEFFERSON, NORTH CAROLINA - SEPTEMBER 15: U.S. First Lady Melania Trump meets with students at Mountain View Elementary School on September 15, 2026 in North Jefferson, North Carolina. The First Lady is at the school to see how they’re using technology in the classroom. (Photo by Kent Nishmura-Pool/Getty Images)",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://foxbaltimore.com/resources/media/dfb365a1-2f19-4d2e-bde6-d73668537537-GettyImages2294927009.jpg",
+          "alt": "NORTH JEFFERSON, NORTH CAROLINA - SEPTEMBER 15: U.S. First Lady Melania Trump speaks to students at Mountain View Elementary School on September 15, 2026 in North Jefferson, North Carolina. The First Lady is at the school to see how they’re using technology in the classroom. (Photo by Kent Nishmura-Pool/Getty Images)",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://foxbaltimore.com/resources/media/ce3c935c-2427-43ab-b357-fff61a218ec1-GettyImages2294926725.jpg",
+          "alt": "NORTH JEFFERSON, NORTH CAROLINA - SEPTEMBER 15: U.S. First Lady Melania Trump speaks to students at Mountain View Elementary School on September 15, 2026 in North Jefferson, North Carolina. The First Lady is at the school to see how they’re using technology in the classroom. (Photo by Kent Nishmura-Pool/Getty Images)",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://foxbaltimore.com/resources/media/70cb7e22-96c9-4f3e-afbd-3b63df289c20-GettyImages2294928673.jpg",
+          "alt": "NORTH JEFFERSON, NORTH CAROLINA - SEPTEMBER 15: U.S. First Lady Melania Trump meets with students at Mountain View Elementary School on September 15, 2026 in North Jefferson, North Carolina. The First Lady is at the school to see how they’re using technology in the classroom. (Photo by Kent Nishmura-Pool/Getty Images)",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://foxbaltimore.com/resources/media/981a109f-dd37-4624-a13f-85c508309b93-GettyImages2294928568.jpg",
+          "alt": "NORTH JEFFERSON, NORTH CAROLINA - SEPTEMBER 15: U.S. First Lady Melania Trump embraces a student at Mountain View Elementary School on September 15, 2026 in North Jefferson, North Carolina. The First Lady is at the school to see how they’re using technology in the classroom. (Photo by Kent Nishmura-Pool/Getty Images)",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://foxbaltimore.com/resources/media/a5135eb2-6349-4426-9f35-2432bed02c44-GettyImages2294928911.jpg",
+          "alt": "NORTH JEFFERSON, NORTH CAROLINA - SEPTEMBER 15: U.S. First Lady Melania Trump meets with students at Mountain View Elementary School on September 15, 2026 in North Jefferson, North Carolina. The First Lady is at the school to see how they’re using technology in the classroom. (Photo by Kent Nishmura-Pool/Getty Images)",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://foxbaltimore.com/resources/media/274e2548-4464-4e3b-a250-21c481aaf4f6-GettyImages2294928442.jpg",
+          "alt": "NORTH JEFFERSON, NORTH CAROLINA - SEPTEMBER 15: U.S. First Lady Melania Trump meets with students at Mountain View Elementary School on September 15, 2026 in North Jefferson, North Carolina. The First Lady is at the school to see how they’re using technology in the classroom. (Photo by Kent Nishmura-Pool/Getty Images)",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://foxbaltimore.com/resources/media/13c45acf-23bb-47a3-8b99-ae91725cd194-GettyImages2294928781.jpg",
+          "alt": "NORTH JEFFERSON, NORTH CAROLINA - SEPTEMBER 15: U.S. First Lady Melania Trump embraces a student at Mountain View Elementary School on September 15, 2026 in North Jefferson, North Carolina. The First Lady is at the school to see how they’re using technology in the classroom. (Photo by Kent Nishmura-Pool/Getty Images)",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 12,
+      "extractor": "trafilatura",
+      "status": "partial",
+      "error": "short_text",
+      "first_seen_at": "2026-09-16T01:01:37Z"
+    },
+    {
+      "id": "2f35bc40ecaaa92a",
+      "title": "First lady Melania Trump visits North Carolina school to see AI technology in action",
+      "header": "KOMO",
+      "published_at": "2026-09-15T23:03:45Z",
+      "published_raw": "Tue, 15 Sep 2026 23:03:45 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOeFljR1FsOERPbVdOSThzbHNZLU1feU9TeE1jelh5NzVzY2p5V2E1clFwbmV1U0hVY1Vqa3JZdG1Hd245bEZlWEFPNE14ZnJyVm9LakY5bWFWSkI0cjY3Y3g2bEZNZWhSRDlvcVVNQUN6Um9jcVBlSUdPMmVSN3NGRGdIZlczQ211TmU1VnhSaHhUdTZQODZXYXhleVdFbVg2OGJ0NHJXeUtBb3hWbzBRMEFfdFBlbVczYWpCMXFZcHZqZm5NZlItWnBLd080SmJWdjRNQ1pzVEo2WFNDQ0NVcmp6cDhsTkVOR0VNaHpVSWN4cVhrYkUweU5lMmRQcW5HNUNKM3BiN25ZdTU1LVBRaGZPTC1rd3pnWEpiZGU2dF9mODJSQjhhN0plbmNYNUxTMDF5WkF0TjNlemhDemE3V0F1dEJRRmlKdGlQdExudllhNi1mTGRsTGxFLU5nVUg5MnhBaW5Fc1gxNEk?oc=5",
+      "description": "First lady Melania Trump visits North Carolina school to see AI technology in action KOMO",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi6wJBVV95cUxOeFljR1FsOERPbVdOSThzbHNZLU1feU9TeE1jelh5NzVzY2p5V2E1clFwbmV1U0hVY1Vqa3JZdG1Hd245bEZlWEFPNE14ZnJyVm9LakY5bWFWSkI0cjY3Y3g2bEZNZWhSRDlvcVVNQUN6Um9jcVBlSUdPMmVSN3NGRGdIZlczQ211TmU1VnhSaHhUdTZQODZXYXhleVdFbVg2OGJ0NHJXeUtBb3hWbzBRMEFfdFBlbVczYWpCMXFZcHZqZm5NZlItWnBLd080SmJWdjRNQ1pzVEo2WFNDQ0NVcmp6cDhsTkVOR0VNaHpVSWN4cVhrYkUweU5lMmRQcW5HNUNKM3BiN25ZdTU1LVBRaGZPTC1rd3pnWEpiZGU2dF9mODJSQjhhN0plbmNYNUxTMDF5WkF0TjNlemhDemE3V0F1dEJRRmlKdGlQdExudllhNi1mTGRsTGxFLU5nVUg5MnhBaW5Fc1gxNEk?oc=5\" target=\"_blank\">First lady Melania Trump visits North Carolina school to see AI technology in action</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOMO</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOeFljR1FsOERPbVdOSThzbHNZLU1feU9TeE1jelh5NzVzY2p5V2E1clFwbmV1U0hVY1Vqa3JZdG1Hd245bEZlWEFPNE14ZnJyVm9LakY5bWFWSkI0cjY3Y3g2bEZNZWhSRDlvcVVNQUN6Um9jcVBlSUdPMmVSN3NGRGdIZlczQ211TmU1VnhSaHhUdTZQODZXYXhleVdFbVg2OGJ0NHJXeUtBb3hWbzBRMEFfdFBlbVczYWpCMXFZcHZqZm5NZlItWnBLd080SmJWdjRNQ1pzVEo2WFNDQ0NVcmp6cDhsTkVOR0VNaHpVSWN4cVhrYkUweU5lMmRQcW5HNUNKM3BiN25ZdTU1LVBRaGZPTC1rd3pnWEpiZGU2dF9mODJSQjhhN0plbmNYNUxTMDF5WkF0TjNlemhDemE3V0F1dEJRRmlKdGlQdExudllhNi1mTGRsTGxFLU5nVUg5MnhBaW5Fc1gxNEk?oc=5"
+      ],
+      "scraped_at": "2026-09-16T01:01:37Z",
+      "url": "https://komonews.com/news/nation-world/first-lady-melania-trump-visits-north-carolina-school-to-see-ai-technology-in-action-ashe-county-mountain-view-elementary-nvidia-be-best-fostering-the-future-studyfetch-jetson-nano-developer-kits-hurricane-helene",
+      "final_url": "https://komonews.com/news/nation-world/first-lady-melania-trump-visits-north-carolina-school-to-see-ai-technology-in-action-ashe-county-mountain-view-elementary-nvidia-be-best-fostering-the-future-studyfetch-jetson-nano-developer-kits-hurricane-helene",
+      "source": "KOMO",
+      "article_title": "First lady Melania Trump visits North Carolina school to see AI technology in action",
+      "heading": "First lady Melania Trump visits North Carolina school to see AI technology in action",
+      "authors": [
+        "CAITLYN FROLO | The National News Desk"
+      ],
+      "article_published_at": "2026-09-15T17:08:11.000Z",
+      "article_modified_at": "2026-09-15T17:43:36.000Z",
+      "summary": "The visit came as policymakers and technology leaders continue to debate how artificial intelligence should be governed and used, including in schools.",
+      "content": "First lady Melania Trump visits North Carolina school to see AI technology in action\nASHE COUNTY, N.C. (TNND) — First lady Melania Trump visited an elementary school in northwestern North Carolina on Tuesday, highlighting the use of artificial intelligence, robotics and engineering in the classroom.\nTrump toured Mountain View Elementary School in Jefferson, a rural Ashe County school that has embraced technology-focused learning. The visit came as policymakers and technology leaders continue to debate how artificial intelligence should be governed and used, including in schools.\nShe began by recognizing the community’s recovery from Hurricane Helene, which closed schools for more than 30 days. The school became a distribution center after flooding affected the surrounding neighborhood.\n“North Carolina is the definition of resilience,” Trump told students and administrators, praising the community’s response to the disaster.\nTrump announced that her Be Best initiative and Nvidia will provide 1,500 Ashe County students with subscriptions to StudyFetch, an AI-based learning platform. Mountain View Elementary and other district schools will also receive 100 Jetson Nano Developer Kits, small computers designed to run AI applications.\n“Maybe one of you will create the next great robot,” she told students, inviting them to bring it to the White House if they do.\nTechnology in education has become one of the first lady’s primary policy interests, alongside her work supporting foster youth and her advocacy for the Take It Down Act, which criminalized the distribution of nonconsensual intimate images.\nTrump has previously urged caution as artificial intelligence expands in classrooms. At a White House education event last year, she said the technology should be developed with \"watchful guidance.\"\nThe stop marked her fourth trip to North Carolina since 2025. Her visit also comes one day before President Donald Trump is scheduled to hold a rally in Gastonia for Republican Senate candidate Michael Whatley, who is running against former Democratic Gov. Roy Cooper in the November midterm election.\n____________\nThe Associated Press contributed to this report.",
+      "content_html": "<html>\n  <body>\n    <h1>First lady Melania Trump visits North Carolina school to see AI technology in action</h1>\n    <img src=\"https://komonews.com/resources/media2/16x9/7517/800/0x101/80/599b2c95-fedf-4707-b20b-e70c840a46d8-GettyImages2294928456.jpg\" alt=\"GettyImages-2294928456.jpg\"/>\n    <img src=\"https://komonews.com/resources/media2/16x9/8256/400/0x430/80/49db18a0-3d88-4fef-8832-61dd29c29918-GettyImages2294928445.jpg\" alt=\"GettyImages-2294928445.jpg\"/>\n    <img src=\"https://komonews.com/resources/media2/16x9/8256/400/0x430/80/df277129-b27f-4dcf-bacc-dfd86d6a4d2f-GettyImages2294928909.jpg\" alt=\"GettyImages-2294928909.jpg\"/>\n    <img src=\"https://komonews.com/resources/media2/16x9/8256/400/0x430/80/0315f549-30f3-4fbc-988a-8da3b3be31e3-GettyImages2294928804.jpg\" alt=\"GettyImages-2294928804.jpg\"/>\n    <p>ASHE COUNTY, N.C. (TNND) — First lady Melania Trump visited an elementary school in northwestern North Carolina on Tuesday, highlighting the use of artificial intelligence, robotics and engineering in the classroom.</p>\n    <p>Trump toured Mountain View Elementary School in Jefferson, a rural Ashe County school that has embraced technology-focused learning. The visit came as policymakers and technology leaders continue to debate how artificial intelligence should be governed and used, including in schools.</p>\n    <p>She began by recognizing the community’s recovery from Hurricane Helene, which closed schools for more than 30 days. The school became a distribution center after flooding affected the surrounding neighborhood.</p>\n    <p>“North Carolina is the definition of resilience,” Trump told students and administrators, praising the community’s response to the disaster.</p>\n    <p>Trump announced that her Be Best initiative and Nvidia will provide 1,500 Ashe County students with subscriptions to StudyFetch, an AI-based learning platform. Mountain View Elementary and other district schools will also receive 100 Jetson Nano Developer Kits, small computers designed to run AI applications.</p>\n    <p>“Maybe one of you will create the next great robot,” she told students, inviting them to bring it to the White House if they do.</p>\n    <p>Technology in education has become one of the first lady’s primary policy interests, alongside her work supporting foster youth and her advocacy for the Take It Down Act, which criminalized the distribution of nonconsensual intimate images.</p>\n    <p>Trump has previously urged caution as artificial intelligence expands in classrooms. At a White House education event last year, she said the technology should be developed with \"watchful guidance.\"</p>\n    <p>The stop marked her fourth trip to North Carolina since 2025. Her visit also comes one day before President Donald Trump is scheduled to hold a rally in Gastonia for Republican Senate candidate Michael Whatley, who is running against former Democratic Gov. Roy Cooper in the November midterm election.</p>\n    <p>____________</p>\n    <p>The Associated Press contributed to this report.</p>\n  </body>\n</html>",
+      "word_count": 326,
+      "char_count": 2181,
+      "lead_image": "https://komonews.com/resources/media2/16x9/7517/1320/0x101/90/599b2c95-fedf-4707-b20b-e70c840a46d8-GettyImages2294928456.jpg",
+      "images": [
+        {
+          "url": "https://komonews.com/resources/media2/16x9/7517/1320/0x101/90/599b2c95-fedf-4707-b20b-e70c840a46d8-GettyImages2294928456.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://komonews.com/resources/media2/16x9/6048/1320/0x315/90/ab1cf04d-9d88-4786-97f9-f6402e974214-GettyImages2294926719.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://komonews.com/resources/media2/16x9/8052/1320/0x420/90/dfb365a1-2f19-4d2e-bde6-d73668537537-GettyImages2294927009.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://komonews.com/resources/media2/16x9/8256/1320/0x430/90/082840e1-6cfb-466b-be33-34442b6698d6-GettyImages2294926871.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://komonews.com/resources/media2/16x9/2203/1320/0x1033/90/525d2072-67f8-4243-bdcf-1f1f654bd360-GettyImages2294927042.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://komonews.com/resources/media2/16x9/4282/1320/0x224/90/4b187d4f-8632-453d-821e-f44b48a791cc-GettyImages2294927134.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://komonews.com/resources/media2/16x9/7752/1320/0x404/90/fb1a4ea7-56ae-4154-b7d9-c95bc9c12e07-GettyImages2294928828.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://komonews.com/resources/media2/16x9/8256/1320/0x430/90/981a109f-dd37-4624-a13f-85c508309b93-GettyImages2294928568.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://komonews.com/resources/media2/16x9/6048/1320/0x315/90/c8b70291-7583-4aa4-afa2-5c599d9a2491-GettyImages2294926865.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://komonews.com/resources/media2/16x9/8256/1320/0x430/90/e1abfe0c-83b2-4834-ba57-b7ed3c4cebb9-GettyImages2294926753.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://komonews.com/resources/media2/16x9/8190/1320/0x427/90/196b15e9-18c0-4f78-9244-d072321b4335-GettyImages2294928614.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://komonews.com/resources/media2/16x9/6936/1320/0x362/90/a5135eb2-6349-4426-9f35-2432bed02c44-GettyImages2294928911.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 12,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-16T01:01:37Z"
+    },
     {
       "id": "112ed481d7052033",
       "title": "Anthropic’s CEO calls for AI slowdown as Nvidia’s urges acceleration",
@@ -258,7 +573,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdE83dG9TYW1DNzhHU0loYndpblFma3lqdkYxa01qeXpuS1IwNFdVNzB5bXRmLXA1dmNIb1MwQ0Q4R3VSckh2NXNGUEgwUVQzMDA5aE10MFY1cU50TmtfMDVXNTI3UE9PM1ZSM2Jrenl0REhCd2Itb25jUHRPbGh4S2lDR3BzZ3BTWTViN2VHbVFTclBPR1YxZE1Zak9fQl83d3dXZVd5SVhBSHpSbEduZ1hkdmstSXVzaGc?oc=5"
       ],
-      "scraped_at": "2026-09-15T22:41:08Z",
+      "scraped_at": "2026-09-16T01:01:38Z",
       "url": "https://www.bloomberg.com/news/articles/2026-09-15/fink-warns-ai-pushback-will-make-the-technology-a-large-firm-domain",
       "final_url": "https://www.bloomberg.com/news/articles/2026-09-15/fink-warns-ai-pushback-will-make-the-technology-a-large-firm-domain",
       "source": "Bloomberg.com",
@@ -360,7 +675,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0wzb1RmNmZPeVB4QjdSZTVmcmxMVUwyT2pSYVliQVQwZ25mUFpoWlFXdGFpWnNJLVdmMncwc0twU2pxSmplU2k0WGFuRWlIT1BFQ1FzWVlCbWc2MWpzamF0LU51NVBSNURBeWhUN0VxYlA1VjMzUk16eHlBQlJ2R3F2TXAzaW9SczJId2hn?oc=5"
       ],
-      "scraped_at": "2026-09-15T22:41:09Z",
+      "scraped_at": "2026-09-16T01:01:38Z",
       "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech",
       "final_url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech",
       "source": "McKinsey & Company",
@@ -787,7 +1102,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGtxWmNCTUlURlRxSEh5eERHQ0lVd0FldDV0XzVmV0JVTDhETnV6NWVtdlFQVHdPRUF4TEdwWmFZcnJfWm50R25ickZMVXd4RGc1WHRsME1hUWJoN1dyUGI0TFZJV09RUjZSUkp0MkR4dEhLQXdmNTllM0FrLVBvc2pINXJQaU1QVEc1cDVOa3dXc0RLa2RQV2Y3eTdxRFBPOXc?oc=5"
       ],
-      "scraped_at": "2026-09-15T22:41:09Z",
+      "scraped_at": "2026-09-16T01:01:39Z",
       "url": "https://www.unc.edu/posts/2026/09/15/lineberger-building-technology-base-for-better-cancer-vaccines/",
       "final_url": "https://www.unc.edu/posts/2026/09/15/lineberger-building-technology-base-for-better-cancer-vaccines/",
       "source": "The University of North Carolina at Chapel Hill",
@@ -893,7 +1208,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXd3d3ktOGFFSjZxdVRhMWpIdEVrQ2VZYlBHaFhQQXNoOW5UaWVBbHBhRExQeGF2bGFWbU9rUFRNcms1X0d5WGxnMW81cjhtNjZNOUZxQWV6dzRmWWlLS3BwOFI4dTdxMUUwblpxekxpcFVZdHI2dDc1bmNNMjliOFMtWDlOLU9CT2xRMHlCRlBoTzFuMTFTa3lEanFfTUV6OW5RM1M5bFNOUkF4UkpkZlhkOW4?oc=5"
       ],
-      "scraped_at": "2026-09-15T22:41:09Z",
+      "scraped_at": "2026-09-16T01:01:39Z",
       "url": "https://vermontbiz.com/news/2026/september/15/vip-announces-acquisition-encompass-advance-food-beverage-technology",
       "final_url": "https://vermontbiz.com/news/2026/september/15/vip-announces-acquisition-encompass-advance-food-beverage-technology",
       "source": "Vermont Business Magazine",
@@ -1051,7 +1366,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcVRZVF9GTnM1cUw4UXU3OTNncDdkamtadllPWTBuT0w4M0hYZ3pHc1JCWTdWOE54c001TVBHYzRwSnk2YVhtV21lLUFFd2xjNGsyM0MzRS1MUmYtNHp1R0lUZndJcVBYS0FWZThaSzZhWVNveUpmYTIwcGJpZVY0dUs1X3h0RnVlVV9QOEk2ak5WN3NMaHc4elROUlVxcjVoNG50cUh3QWhYME85MEI3emhxdExFTm5EYWVXdHJDc2djMlZnYlN3cGFUYlZxaHBPMDdaRw?oc=5"
       ],
-      "scraped_at": "2026-09-15T22:41:07Z",
+      "scraped_at": "2026-09-16T01:01:37Z",
       "url": "https://www.inc.com/moses-jeanfrancois/bill-gates-warns-future-technology-will-favor-those-who-can-pay-pledging-1-billion-dollars/91405510",
       "final_url": "https://www.inc.com/moses-jeanfrancois/bill-gates-warns-future-technology-will-favor-those-who-can-pay-pledging-1-billion-dollars/91405510",
       "source": "inc.com",
@@ -2071,7 +2386,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVlcUMzUkQ4NXk1QVkxeFc0NTBCenZSWTExWDJkeS1CaE1hamtXNHZmbmZHc2tKVXZSUGhOSGdCUnVTSGdxMTJPWm1vcmVRazl3Vm1fR2RPSU1heVFtRjBtUm4zWTkxYk1tM1J3ZmpyRW5RRXFIT1BJU1djQzBUeExSeTRZNEhnck84ek1zYTVOb2l5R2JzVmhvU20tMXVROWpuRmFDYjhyWDVkbThtQXlfQW4yZWhGa1lOUkJXV0VlcVNvTXl0Xw?oc=5"
       ],
-      "scraped_at": "2026-09-15T22:41:08Z",
+      "scraped_at": "2026-09-16T01:01:37Z",
       "url": "https://www.reuters.com/business/media-telecom/mediatek-launches-new-mobile-chip-using-tsmcs-most-advanced-technology-2026-09-15/",
       "final_url": "https://www.reuters.com/business/media-telecom/mediatek-launches-new-mobile-chip-using-tsmcs-most-advanced-technology-2026-09-15/",
       "source": "Reuters",
@@ -2752,7 +3067,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVpPbGp0OTNTRkMwLTlWYnB3YmV0OFZRZTZLOHZlYjlDbm0tREdPWTQxb0d3TnFDOEc4bFI3NVRiOWpVdGhtN01EdzV4R1pxYjliRTlJY19Db3h3Q0wzMlpXYkFMSEhYc2VHeldTX3gtbnpNUGNEMWxyTXF4YjBYRC1hclFBM3JhX2Z5Uk9xVTV2UzVxeGpHNEY2Y1FVVWpyNEM3LWFhdTgxemZuRmJSN2hNV3lVenc?oc=5"
       ],
-      "scraped_at": "2026-09-15T22:41:07Z",
+      "scraped_at": "2026-09-16T01:01:37Z",
       "url": "https://www.pbs.org/newshour/show/trump-pushes-back-as-ai-leaders-fuel-calls-to-rein-in-rapidly-advancing-technology",
       "final_url": "https://www.pbs.org/newshour/show/trump-pushes-back-as-ai-leaders-fuel-calls-to-rein-in-rapidly-advancing-technology",
       "source": "pbs.org",
@@ -24827,171 +25142,6 @@
       "images": [
         {
           "url": "https://i0.wp.com/milwaukeenns.org/wp-content/uploads/2025/08/54699276497_540cba6fd5_k.jpg?fit=2048%2C1365&ssl=1",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-07T23:56:16Z"
-    },
-    {
-      "id": "fae186e87728bde3",
-      "title": "Visualizing Nathaniel Lowe's swing using bat tracking technology",
-      "header": "MLB.com",
-      "published_at": "2026-09-07T20:54:14Z",
-      "published_raw": "Mon, 07 Sep 2026 20:54:14 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVE5bDF5eXowUlhhRUJWM3FyZ3ZHNXdYQ2tWZmg5Mk5Oc3NXcG1LMjAxZGpBdW14bE9LWlNoUklSYmNnUHFEbE1SSGVORlFYaFRMUFZRYlk2YjgwX2ZKWFYzMzFRSk1ZcHQzMTltenRoblJKazRaZVBueTFONE9Oc1hVR0U5ZDRjWGJGSzhhd0RwMmphR092OQ?oc=5",
-      "description": "Visualizing Nathaniel Lowe's swing using bat tracking technology MLB.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVE5bDF5eXowUlhhRUJWM3FyZ3ZHNXdYQ2tWZmg5Mk5Oc3NXcG1LMjAxZGpBdW14bE9LWlNoUklSYmNnUHFEbE1SSGVORlFYaFRMUFZRYlk2YjgwX2ZKWFYzMzFRSk1ZcHQzMTltenRoblJKazRaZVBueTFONE9Oc1hVR0U5ZDRjWGJGSzhhd0RwMmphR092OQ?oc=5\" target=\"_blank\">Visualizing Nathaniel Lowe's swing using bat tracking technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLB.com</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVE5bDF5eXowUlhhRUJWM3FyZ3ZHNXdYQ2tWZmg5Mk5Oc3NXcG1LMjAxZGpBdW14bE9LWlNoUklSYmNnUHFEbE1SSGVORlFYaFRMUFZRYlk2YjgwX2ZKWFYzMzFRSk1ZcHQzMTltenRoblJKazRaZVBueTFONE9Oc1hVR0U5ZDRjWGJGSzhhd0RwMmphR092OQ?oc=5"
-      ],
-      "scraped_at": "2026-09-08T03:10:31Z",
-      "url": "https://www.mlb.com/guardians/video/nathaniel-lowe-s-home-run-through-bat-tracking-data-x0539",
-      "final_url": "https://www.mlb.com/guardians/video/nathaniel-lowe-s-home-run-through-bat-tracking-data-x0539",
-      "source": "MLB.com",
-      "article_title": "Visualizing Nathaniel Lowe's swing using bat tracking technology | 09/07/2026",
-      "heading": "Visualizing Nathaniel Lowe's swing using bat tracking technology",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "The data behind Nathaniel Lowe's swing",
-      "content": "Tickets\nPromotions and Events\n10th Teammate Memberships (Season Tickets)\nSingle Game Tickets\nBallpark Pass\nSix Packs\nFlex Voucher Plans\nSpecial Ticket Packages\nTicket Offers & Fan Values\nGroup Tickets\nPremium Experiences\nMy Tickets Account\nMobile Ticketing\nTicket Policies\nSeating Maps and Ballpark Information\nSeatGeek\n3D Seat Viewer\nSchedule\nRegular Season Schedule\nPromotional Schedule\nPrintable Schedules\nSortable Schedule\nDownloadable Schedule\n2027 Regular Season Schedule\n2027 Spring Training Schedule\nCLEGuardians.TV\nMLB Ballpark App\nMLBFallBall.com\nRadio Affiliates\nMLB Events\nScores\nStats\nTeam Stats\nTop Prospect Stats\nTop Rookies Stats\nRoster\n40-Man Roster\nDepth Chart\nCoaches\nMiLB Players of the Year\nTop 30 Prospects\nTransactions\nInjury Updates\nDraft Results\nFront Office\nBroadcasters\nPlayer Search\nMinor League Affiliates\nHall of Fame\nVideo\nMost Popular\nGuardians Cut4\nGuardians Reviews\nGuardians Game Recap\nGuardians Curtain Calls\nGuardians Podcasts\nMLB Network\nNews\nProbable Pitchers\nOfficial Releases\nThe Guards Post\nGuardians Pipeline\nGuardians History\nGuardians History Feature Stories\nMLB News\nProgressive Field\nKnow Before You Go\nProgressive Field Information\nGuards Wallet\nExplore the Ballpark\nProgressive Field Team Store\nDirections & Parking\nEvents at Progressive Field\nProgressive Field Tours\nGoodyear Ballpark\nADA information\nScoreboard Messages\nWalk-Up Music Playlist\nConcourse Map\nCommunity\nCleveland Guardians Charities\nPlayer Programs\nYouth Baseball and Softball\nGuardians Charites Golf Classic\nGuards For All\nFeller Act of Valor Award\nSlider\nMLB Together\nTraining Center\nFans\nGuardians Gift Guide\nGuardians Email Newsletters\nGuardians Texts\nJunior Guards\nSponsor Offers\nFirst Game Certificate\nGuardians Kids\nSlider: Guardians Mascot\n2026 Guardians Yearbook\nStandings\nCLEGUARDIANS.TV\nBuy CleGuardians.TV\nHow to Watch Guardians Games\nAuthenticate\nHelp Center\nShop\nJerseys\nCaps\nMens\nWomens\nKids\nBig & Tall\nTrading Cards\nHome & Office\nClearance\nEuropean Shop\nGift Certificates\nGuardians Auctions - Bid or Buy\nMLB Auctions - Bid or Buy\nMLB Authentication\nTeam Store Locations\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nEspañol\nLog in\nChannels\nReels\nVisualizing Nathaniel Lowe's swing using bat tracking technology\nGuardians @ Orioles\nSeptember 7, 2026 | 00:00:11\nReels\nShare\nThe data behind Nathaniel Lowe's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nNathaniel Lowe\nCleveland Guardians",
-      "content_html": "<html>\n  <body>\n    <p>Tickets\nPromotions and Events\n10th Teammate Memberships (Season Tickets)\nSingle Game Tickets\nBallpark Pass\nSix Packs\nFlex Voucher Plans\nSpecial Ticket Packages\nTicket Offers &amp; Fan Values\nGroup Tickets\nPremium Experiences\nMy Tickets Account\nMobile Ticketing\nTicket Policies\nSeating Maps and Ballpark Information\nSeatGeek\n3D Seat Viewer\nSchedule\nRegular Season Schedule\nPromotional Schedule\nPrintable Schedules\nSortable Schedule\nDownloadable Schedule\n2027 Regular Season Schedule\n2027 Spring Training Schedule\nCLEGuardians.TV\nMLB Ballpark App\nMLBFallBall.com\nRadio Affiliates\nMLB Events\nScores\nStats\nTeam Stats\nTop Prospect Stats\nTop Rookies Stats\nRoster\n40-Man Roster\nDepth Chart\nCoaches\nMiLB Players of the Year\nTop 30 Prospects\nTransactions\nInjury Updates\nDraft Results\nFront Office\nBroadcasters\nPlayer Search\nMinor League Affiliates\nHall of Fame\nVideo\nMost Popular\nGuardians Cut4\nGuardians Reviews\nGuardians Game Recap\nGuardians Curtain Calls\nGuardians Podcasts\nMLB Network\nNews\nProbable Pitchers\nOfficial Releases\nThe Guards Post\nGuardians Pipeline\nGuardians History\nGuardians History Feature Stories\nMLB News\nProgressive Field\nKnow Before You Go\nProgressive Field Information\nGuards Wallet\nExplore the Ballpark\nProgressive Field Team Store\nDirections &amp; Parking\nEvents at Progressive Field\nProgressive Field Tours\nGoodyear Ballpark\nADA information\nScoreboard Messages\nWalk-Up Music Playlist\nConcourse Map\nCommunity\nCleveland Guardians Charities\nPlayer Programs\nYouth Baseball and Softball\nGuardians Charites Golf Classic\nGuards For All\nFeller Act of Valor Award\nSlider\nMLB Together\nTraining Center\nFans\nGuardians Gift Guide\nGuardians Email Newsletters\nGuardians Texts\nJunior Guards\nSponsor Offers\nFirst Game Certificate\nGuardians Kids\nSlider: Guardians Mascot\n2026 Guardians Yearbook\nStandings\nCLEGUARDIANS.TV\nBuy CleGuardians.TV\nHow to Watch Guardians Games\nAuthenticate\nHelp Center\nShop\nJerseys\nCaps\nMens\nWomens\nKids\nBig &amp; Tall\nTrading Cards\nHome &amp; Office\nClearance\nEuropean Shop\nGift Certificates\nGuardians Auctions - Bid or Buy\nMLB Auctions - Bid or Buy\nMLB Authentication\nTeam Store Locations\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nEspañol\nLog in\nChannels\nReels\nVisualizing Nathaniel Lowe's swing using bat tracking technology\nGuardians @ Orioles\nSeptember 7, 2026 | 00:00:11\nReels\nShare\nThe data behind Nathaniel Lowe's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nNathaniel Lowe\nCleveland Guardians</p>\n  </body>\n</html>",
-      "word_count": 457,
-      "char_count": 3261,
-      "lead_image": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/lvkc2lrrt2fcsyuzok0z",
-      "images": [
-        {
-          "url": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/lvkc2lrrt2fcsyuzok0z",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-08T03:10:31Z"
-    },
-    {
-      "id": "c9692dd48fa0ba55",
-      "title": "Should You Buy Marvell Technology Stock Before Oct. 6?",
-      "header": "The Motley Fool",
-      "published_at": "2026-09-07T18:54:00Z",
-      "published_raw": "Mon, 07 Sep 2026 18:54:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQk4wUXlQRERLU0YyVXdoNEVwT0hoaV9qRmF6S1BrUHlHWlFaOVlJLVBqR1Y3SUhPM2pBVEtHODB2bWxjOUx4MmZrVW92ZmM0dDB0OERuTDdMNWRwV1lhNW1WQnc4VzRpa0VTZWdZV1NnVHY2WWhESnBYV21zS0NONHhscFU5VnptOGhmTHVMcTgtc3psWnRYZTdkQQ?oc=5",
-      "description": "Should You Buy Marvell Technology Stock Before Oct. 6? The Motley Fool",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOQk4wUXlQRERLU0YyVXdoNEVwT0hoaV9qRmF6S1BrUHlHWlFaOVlJLVBqR1Y3SUhPM2pBVEtHODB2bWxjOUx4MmZrVW92ZmM0dDB0OERuTDdMNWRwV1lhNW1WQnc4VzRpa0VTZWdZV1NnVHY2WWhESnBYV21zS0NONHhscFU5VnptOGhmTHVMcTgtc3psWnRYZTdkQQ?oc=5\" target=\"_blank\">Should You Buy Marvell Technology Stock Before Oct. 6?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQk4wUXlQRERLU0YyVXdoNEVwT0hoaV9qRmF6S1BrUHlHWlFaOVlJLVBqR1Y3SUhPM2pBVEtHODB2bWxjOUx4MmZrVW92ZmM0dDB0OERuTDdMNWRwV1lhNW1WQnc4VzRpa0VTZWdZV1NnVHY2WWhESnBYV21zS0NONHhscFU5VnptOGhmTHVMcTgtc3psWnRYZTdkQQ?oc=5"
-      ],
-      "scraped_at": "2026-09-07T23:56:16Z",
-      "url": "https://www.fool.com/investing/2026/09/07/should-you-buy-marvell-technology-stock-before-oct-6/",
-      "final_url": "https://www.fool.com/investing/2026/09/07/should-you-buy-marvell-technology-stock-before-oct-6/",
-      "source": "The Motley Fool",
-      "article_title": "Should You Buy Marvell Technology Stock Before Oct. 6? | The Motley Fool",
-      "heading": "Should You Buy Marvell Technology Stock Before Oct. 6?",
-      "authors": [
-        "David Jagielski",
-        "CPA"
-      ],
-      "article_published_at": "2026-09-07T17:54:21Z",
-      "article_modified_at": "2026-09-07T17:54:21Z",
-      "summary": "The company's Investor Day event is coming up next month, which may feature some big announcements.",
-      "content": "Shares of chipmaker Marvell Technology (MRVL +7.05%) have soared more than 160% this year, with its market cap now at $200 billion. The company has been experiencing a surge in demand due to artificial intelligence (AI), providing customers with an alternative to chips from both Nvidia and Broadcom.\nMarvell has a lot of potential upside, with Nvidia's own CEO Jensen Huang saying earlier this year that it could be the next trillion-dollar company. While that encouraging forecast did give the stock a boost, it's still nowhere near joining the trillion-dollar club.\nWhat may, however, give the stock a further bump up in value is its upcoming Investor Day, which takes place on Oct. 6, as that could result in more positive news and developments for the company's investors to rally around. Is the tech stock worth buying before then?\nImage source: Getty Images.\nWhy Oct. 6 could be a big day for Marvell's stock\nWhen a company holds an Investor Day, it can be a positive catalyst for the underlying stock, as it highlights what the business is working on and its long-term growth drivers.\nMarvell reported its earnings last month and raised its guidance, as it continues to see exceptionally strong demand for its products. In the second quarter of fiscal 2027, which ended on Aug. 1, the company's net revenue rose by 37%, totaling $2.7 billion. Operating income of $460 million also increased by 35% year over year.\n\"We are seeing broad-based strength across our data center portfolio, including strong demand in connectivity and a significant acceleration in our custom business beginning in the second half of fiscal 2027,\" the company stated in the press release announcing the results. It also said it would \"showcase\" its growth drivers at its upcoming Investor Day event.\nNASDAQ: MRVL\nKey Data Points\nMarvell's stock has a lot of upside, but expectations are also high\nMarvell has a long way to go in catching up to the top chipmakers in the world, but at the same time, it's also not a terribly cheap stock to own given its level of earnings. It's trading at around 70 times its trailing profits and about 50 times its expected future earnings (according to analyst projections). Heading into Investor Day, expectations will be high, so there's no guarantee the stock will rise after the event.\nFor long-term investors, however, Marvell could be worth buying now, given the need for alternative chip options as companies continue to invest heavily in AI. But investors should also be wary of the risks of doing so, as Marvell's high valuation does mean there will be some risk with this investment.",
-      "content_html": "<html>\n  <body><p>Shares of chipmaker Marvell Technology (MRVL +7.05%) have soared more than 160% this year, with its market cap now at $200 billion. The company has been experiencing a surge in demand due to artificial intelligence (AI), providing customers with an alternative to chips from both Nvidia and Broadcom.</p><p>Marvell has a lot of potential upside, with Nvidia's own CEO Jensen Huang saying earlier this year that it could be the next trillion-dollar company. While that encouraging forecast did give the stock a boost, it's still nowhere near joining the trillion-dollar club.</p><p>What may, however, give the stock a further bump up in value is its upcoming Investor Day, which takes place on Oct. 6, as that could result in more positive news and developments for the company's investors to rally around. Is the tech stock worth buying before then?</p><img src=\"https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fd70d0f1b146a065c1b44a23e8882d56d3f74b02d-2000x1125.jpg%3Fw%3D2000%26h%3D1125%26q%3D75%26auto%3Dformat&amp;w=3840&amp;op=resize\" alt=\"AI microchip on a glowing blue and pink circuit board\"/>\n<p>Image source: Getty Images.</p><h2>Why Oct. 6 could be a big day for Marvell's stock</h2><p>When a company holds an Investor Day, it can be a positive catalyst for the underlying stock, as it highlights what the business is working on and its long-term growth drivers.</p><p>Marvell reported its earnings last month and raised its guidance, as it continues to see exceptionally strong demand for its products. In the second quarter of fiscal 2027, which ended on Aug. 1, the company's net revenue rose by 37%, totaling $2.7 billion. Operating income of $460 million also increased by 35% year over year.</p><p>\"We are seeing broad-based strength across our data center portfolio, including strong demand in connectivity and a significant acceleration in our custom business beginning in the second half of fiscal 2027,\" the company stated in the press release announcing the results. It also said it would \"showcase\" its growth drivers at its upcoming Investor Day event.</p><img src=\"https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fart%2Fcompanylogos%2Fmark%2FMRVL.png&amp;w=128&amp;op=resize\" alt=\"Marvell Technology Stock Quote\"/><h2>NASDAQ: MRVL</h2><h3>Key Data Points</h3><h2>Marvell's stock has a lot of upside, but expectations are also high</h2><p>Marvell has a long way to go in catching up to the top chipmakers in the world, but at the same time, it's also not a terribly cheap stock to own given its level of earnings. It's trading at around 70 times its trailing profits and about 50 times its expected future earnings (according to analyst projections). Heading into Investor Day, expectations will be high, so there's no guarantee the stock will rise after the event.</p><p>For long-term investors, however, Marvell could be worth buying now, given the need for alternative chip options as companies continue to invest heavily in AI. But investors should also be wary of the risks of doing so, as Marvell's high valuation does mean there will be some risk with this investment.</p></body>\n</html>",
-      "word_count": 440,
-      "char_count": 2611,
-      "lead_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fd7985a127805d607d89a7b3b8ba4adb6afde1a9b-2000x1125.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fd7985a127805d607d89a7b3b8ba4adb6afde1a9b-2000x1125.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/d7985a127805d607d89a7b3b8ba4adb6afde1a9b-2000x1125.jpg?w=800&q=75&fit=max&auto=format",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 2,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-07T23:56:16Z"
-    },
-    {
-      "id": "cc255ed4fd914fd6",
-      "title": "UK’s defence industry ‘heavily reliant’ on China for drone technology",
-      "header": "The Times",
-      "published_at": "2026-09-07T18:50:20Z",
-      "published_raw": "Mon, 07 Sep 2026 18:50:20 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjhxbnVRdDhnWmVoOVc2RlNvRXdWUVJoRXJEcHlPRVd5Y0Y3MUtORF83bG1qZHI1TF9odEZqelZIWHQ0YXdEZXlPanMtQWFXVnZtVmRTWGUwLTJXU0t5aEhQR2lxU09mU1ZJTXBDV2w4eGxINDdaX2RwbC1EVXlNUWt6ejJXWkIxd09qNVlPWQ?oc=5",
-      "description": "UK’s defence industry ‘heavily reliant’ on China for drone technology The Times",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjhxbnVRdDhnWmVoOVc2RlNvRXdWUVJoRXJEcHlPRVd5Y0Y3MUtORF83bG1qZHI1TF9odEZqelZIWHQ0YXdEZXlPanMtQWFXVnZtVmRTWGUwLTJXU0t5aEhQR2lxU09mU1ZJTXBDV2w4eGxINDdaX2RwbC1EVXlNUWt6ejJXWkIxd09qNVlPWQ?oc=5\" target=\"_blank\">UK’s defence industry ‘heavily reliant’ on China for drone technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjhxbnVRdDhnWmVoOVc2RlNvRXdWUVJoRXJEcHlPRVd5Y0Y3MUtORF83bG1qZHI1TF9odEZqelZIWHQ0YXdEZXlPanMtQWFXVnZtVmRTWGUwLTJXU0t5aEhQR2lxU09mU1ZJTXBDV2w4eGxINDdaX2RwbC1EVXlNUWt6ejJXWkIxd09qNVlPWQ?oc=5"
-      ],
-      "scraped_at": "2026-09-08T08:32:41Z",
-      "url": "https://www.thetimes.com/uk/defence/article/uk-defence-industry-drones-china-8dcb8nfjw",
-      "final_url": "https://www.thetimes.com/uk/defence/article/uk-defence-industry-drones-china-8dcb8nfjw",
-      "source": "thetimes.com",
-      "article_title": "Verifying Device",
-      "heading": "Verifying Device",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "UK’s defence industry ‘heavily reliant’ on China for drone technology The Times",
-      "content": "Verifying your device, please wait\nVerification failed. Please try again.\nTry Again\nVerification failed. Please try again.",
-      "content_html": "<html>\n  <body>\n    <p>Verifying your device, please wait\nVerification failed. Please try again.\nTry Again\nVerification failed. Please try again.</p>\n  </body>\n</html>",
-      "word_count": 17,
-      "char_count": 122,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "trafilatura",
-      "status": "partial",
-      "error": "short_text",
-      "first_seen_at": "2026-09-08T08:32:41Z"
-    },
-    {
-      "id": "957569a7814673c4",
-      "title": "AI in healthcare: How local hospitals and national programs are using the technology",
-      "header": "ky3.com",
-      "published_at": "2026-09-07T18:48:00Z",
-      "published_raw": "Mon, 07 Sep 2026 18:48:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPekY0MkF6ZWFkUnAyVGRlVEtxOFp1RldZTG9xQWFJVlZ6QXM0YkQ3UERDSTJlajFuX05SdFhDWWZzSllqLS1Vb3hFRzN2V3NLd29Pem01SnhYQzR6b2pvb1NsV3c1WnNZbDJnUmh1cm9nSkRYdDE5UG50aUhlbF9RSDhGTlJVWjJTNTVvWU51Y0pSQjB2TE1CZ1JnZ1BHaGNSa0dnbkc0a9IBuwFBVV95cUxQZzdXdHMzOU9IdXQ2am5DT2gtdHpaNVo4X3FWeHdOUDhHaWR0RmlaNDFJTXk2QVJrSW9zSHhPU1lnUENkSXlNYTZnZjNTWmJyVnFLOEVvd2hPWVEwTVotN2pYczlXWXhELVpYMm56OVFiZlFLeHU4WndvXzBhOVA2SzFEUU4xaWZtNlFfNW1GRGVPZllNaXBOdUtSVEVlZEtEdDE1RkQ1LTBWeUNqd3hIY3lqM2prY1pkWTJr?oc=5",
-      "description": "AI in healthcare: How local hospitals and national programs are using the technology ky3.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPekY0MkF6ZWFkUnAyVGRlVEtxOFp1RldZTG9xQWFJVlZ6QXM0YkQ3UERDSTJlajFuX05SdFhDWWZzSllqLS1Vb3hFRzN2V3NLd29Pem01SnhYQzR6b2pvb1NsV3c1WnNZbDJnUmh1cm9nSkRYdDE5UG50aUhlbF9RSDhGTlJVWjJTNTVvWU51Y0pSQjB2TE1CZ1JnZ1BHaGNSa0dnbkc0a9IBuwFBVV95cUxQZzdXdHMzOU9IdXQ2am5DT2gtdHpaNVo4X3FWeHdOUDhHaWR0RmlaNDFJTXk2QVJrSW9zSHhPU1lnUENkSXlNYTZnZjNTWmJyVnFLOEVvd2hPWVEwTVotN2pYczlXWXhELVpYMm56OVFiZlFLeHU4WndvXzBhOVA2SzFEUU4xaWZtNlFfNW1GRGVPZllNaXBOdUtSVEVlZEtEdDE1RkQ1LTBWeUNqd3hIY3lqM2prY1pkWTJr?oc=5\" target=\"_blank\">AI in healthcare: How local hospitals and national programs are using the technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ky3.com</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPekY0MkF6ZWFkUnAyVGRlVEtxOFp1RldZTG9xQWFJVlZ6QXM0YkQ3UERDSTJlajFuX05SdFhDWWZzSllqLS1Vb3hFRzN2V3NLd29Pem01SnhYQzR6b2pvb1NsV3c1WnNZbDJnUmh1cm9nSkRYdDE5UG50aUhlbF9RSDhGTlJVWjJTNTVvWU51Y0pSQjB2TE1CZ1JnZ1BHaGNSa0dnbkc0a9IBuwFBVV95cUxQZzdXdHMzOU9IdXQ2am5DT2gtdHpaNVo4X3FWeHdOUDhHaWR0RmlaNDFJTXk2QVJrSW9zSHhPU1lnUENkSXlNYTZnZjNTWmJyVnFLOEVvd2hPWVEwTVotN2pYczlXWXhELVpYMm56OVFiZlFLeHU4WndvXzBhOVA2SzFEUU4xaWZtNlFfNW1GRGVPZllNaXBOdUtSVEVlZEtEdDE1RkQ1LTBWeUNqd3hIY3lqM2prY1pkWTJr?oc=5"
-      ],
-      "scraped_at": "2026-09-07T23:56:16Z",
-      "url": "https://www.ky3.com/2026/09/07/ai-healthcare-how-local-hospitals-national-programs-are-using-technology/",
-      "final_url": "https://www.ky3.com/2026/09/07/ai-healthcare-how-local-hospitals-national-programs-are-using-technology/",
-      "source": "https://www.ky3.com",
-      "article_title": "AI in healthcare: How local hospitals and national programs are using the technology",
-      "heading": "AI in healthcare: How local hospitals and national programs are using the technology",
-      "authors": [
-        "Jazlyn Summers"
-      ],
-      "article_published_at": "2026-09-07T18:48:26.511Z",
-      "article_modified_at": "2026-09-07T18:48:26.511Z",
-      "summary": "All About AI airs every Friday at 7:30 p.m. on KY3 Streaming.",
-      "content": "AI in healthcare: How local hospitals and national programs are using the technology\nMercy Hospital uses Aidoc to help doctors prioritize cases, while AI is also being used for prescription refills, fertility treatment and medical note-taking nationwide\nSPRINGFIELD, Mo. (KY3) - Mercy Hospital in Springfield is using a program called Aidoc to help doctors evaluate patient needs and determine what should be addressed first, according to Dr. John Mohart, Mercy’s executive vice president and chief operating officer.\nHow AI is changing diagnosis at Mercy\nMohart said AI has become an asset for diagnosing and treating patients by allowing Mercy to prioritize clinical cases. He said that in the past, when a patient came into the emergency room and received imaging such as a CT scan, the images went into a waiting queue. Now, AI reads the images instantaneously and can escalate care to the top of the list if the case is urgent.\n“So it’s absolutely impacting time to treatment and quality outcomes, as well as finding incidental findings and other findings on the images,” Mohart said.\nMohart said that when images such as X-rays, CT scans and ultrasounds are taken, they are stored and placed in a queue for a radiologist, and some can sit for a few days, but AI reads the image in less than a minute after it is uploaded and can flag high-risk cases.\n“You could find lung clots and things that you weren’t expecting. It’ll flag that instantaneously and bring it up for the radiologist with a flag saying ‘read me now’,” Mohart said.\nIncidental findings\nMohart said Mercy has scaled Aidoc to every location where imaging is performed, including emergency rooms and outpatient facilities. He said the AI system identifies “incidental findings,” or additional issues found on an image beyond what a scan was originally ordered for.\nMohart said Mercy found more than 50,000 additional incidental findings over five months. He said those findings can include lung nodules that need follow-up, or coronary calcium that indicates heart disease, even when a scan was ordered for an unrelated reason.\n“So we’re able to report on those and navigate patients to the next best treatment,” Mohart said. “So they’re followed up on and not lost in a file.”\nPrivacy and HIPAA compliance\nMohart said protecting patient privacy is a priority at Mercy, saying all AI algorithms go through extensive privacy and security review before installation, the same process used for any other attachment to Mercy’s electronic system.\n“It’s private and does not get shipped out or sold to anyone data. It’s the patient’s record and we have great respect for that,” Mohart said.\nAddressing doctor shortages\nMohart said AI has improved efficiency for radiologists, a field he said has a limited workforce. He said the technology allows lower-level reads, such as basic chest X-rays, to be reviewed by other physicians with an AI over-read, freeing radiologists to handle higher-level images.\n“If this can make you more efficient, take care of mundane tasks that you can focus on the more important, higher level task and communication with patients, then it works for both,” Mohart said.\nMohart said physicians and providers will not be replaced by AI. He said Mercy evaluates every AI deployment by asking how it helps the patient and how it helps the provider.\nBenefits and challenges\nMohart said reduced turnaround time and improved efficiency allow providers to spend more time with patients.\n“We’ve shown that by reducing turnaround time and improving efficiencies, you actually can spend more time with patients, which is why we all went into medicine,” Mohart said.\nHe said AI can also help automate administrative work and documentation.\n“It also can help with faster decisions that improve outcomes and quality, and then getting rid of some of the mundane administrative work and documentation and the care coordination,” Mohart said. “It makes the provider’s lives so much better, but also then the patient’s experience better and more reliable.”\nMohart said one of the biggest challenges is getting acceptance from providers that the technology improves workflow without compromising quality or patient safety.\n“I think the biggest challenges are you have to get acceptance from the providers that this doesn’t compromise quality or patient safety,” Mohart said.\nTo report a correction or typo, please email digitalnews@ky3.com. Please include the article info in the subject line of the email.\nCopyright 2026 KY3. All rights reserved.",
-      "content_html": "<html>\n  <body>\n    <h1>AI in healthcare: How local hospitals and national programs are using the technology</h1>\n    <h5>Mercy Hospital uses Aidoc to help doctors prioritize cases, while AI is also being used for prescription refills, fertility treatment and medical note-taking nationwide</h5>\n    <p>SPRINGFIELD, Mo. (KY3) - Mercy Hospital in Springfield is using a program called Aidoc to help doctors evaluate patient needs and determine what should be addressed first, according to Dr. John Mohart, Mercy’s executive vice president and chief operating officer.</p>\n    <h2>How AI is changing diagnosis at Mercy</h2>\n    <p>Mohart said AI has become an asset for diagnosing and treating patients by allowing Mercy to prioritize clinical cases. He said that in the past, when a patient came into the emergency room and received imaging such as a CT scan, the images went into a waiting queue. Now, AI reads the images instantaneously and can escalate care to the top of the list if the case is urgent.</p>\n    <p>“So it’s absolutely impacting time to treatment and quality outcomes, as well as finding incidental findings and other findings on the images,” Mohart said.</p>\n    <p>Mohart said that when images such as X-rays, CT scans and ultrasounds are taken, they are stored and placed in a queue for a radiologist, and some can sit for a few days, but AI reads the image in less than a minute after it is uploaded and can flag high-risk cases.</p>\n    <p>“You could find lung clots and things that you weren’t expecting. It’ll flag that instantaneously and bring it up for the radiologist with a flag saying ‘read me now’,” Mohart said.</p>\n    <h2>Incidental findings</h2>\n    <p>Mohart said Mercy has scaled Aidoc to every location where imaging is performed, including emergency rooms and outpatient facilities. He said the AI system identifies “incidental findings,” or additional issues found on an image beyond what a scan was originally ordered for.</p>\n    <p>Mohart said Mercy found more than 50,000 additional incidental findings over five months. He said those findings can include lung nodules that need follow-up, or coronary calcium that indicates heart disease, even when a scan was ordered for an unrelated reason.</p>\n    <p>“So we’re able to report on those and navigate patients to the next best treatment,” Mohart said. “So they’re followed up on and not lost in a file.”</p>\n    <h2>Privacy and HIPAA compliance</h2>\n    <p>Mohart said protecting patient privacy is a priority at Mercy, saying all AI algorithms go through extensive privacy and security review before installation, the same process used for any other attachment to Mercy’s electronic system.</p>\n    <p>“It’s private and does not get shipped out or sold to anyone data. It’s the patient’s record and we have great respect for that,” Mohart said.</p>\n    <h2>Addressing doctor shortages</h2>\n    <p>Mohart said AI has improved efficiency for radiologists, a field he said has a limited workforce. He said the technology allows lower-level reads, such as basic chest X-rays, to be reviewed by other physicians with an AI over-read, freeing radiologists to handle higher-level images.</p>\n    <p>“If this can make you more efficient, take care of mundane tasks that you can focus on the more important, higher level task and communication with patients, then it works for both,” Mohart said.</p>\n    <p>Mohart said physicians and providers will not be replaced by AI. He said Mercy evaluates every AI deployment by asking how it helps the patient and how it helps the provider.</p>\n    <h2>Benefits and challenges</h2>\n    <p>Mohart said reduced turnaround time and improved efficiency allow providers to spend more time with patients.</p>\n    <p>“We’ve shown that by reducing turnaround time and improving efficiencies, you actually can spend more time with patients, which is why we all went into medicine,” Mohart said.</p>\n    <p>He said AI can also help automate administrative work and documentation.</p>\n    <p>“It also can help with faster decisions that improve outcomes and quality, and then getting rid of some of the mundane administrative work and documentation and the care coordination,” Mohart said. “It makes the provider’s lives so much better, but also then the patient’s experience better and more reliable.”</p>\n    <p>Mohart said one of the biggest challenges is getting acceptance from providers that the technology improves workflow without compromising quality or patient safety.</p>\n    <p>“I think the biggest challenges are you have to get acceptance from the providers that this doesn’t compromise quality or patient safety,” Mohart said.</p>\n    <p>To report a correction or typo, please email digitalnews@ky3.com. Please include the article info in the subject line of the email.</p>\n    <p>Copyright 2026 KY3. All rights reserved.</p>\n  </body>\n</html>",
-      "word_count": 731,
-      "char_count": 4521,
-      "lead_image": "https://gray-ky3-prod.gtv-cdn.com/resizer/v2/5CKJ6L3YOFBZTIEUUOKFYWLI24.jpeg?auth=717df882c47645d16fb353bcae60b1553e83abbf0af6b6dfb443ac97cacacea3&width=1200&height=600&smart=true",
-      "images": [
-        {
-          "url": "https://gray-ky3-prod.gtv-cdn.com/resizer/v2/5CKJ6L3YOFBZTIEUUOKFYWLI24.jpeg?auth=717df882c47645d16fb353bcae60b1553e83abbf0af6b6dfb443ac97cacacea3&width=1200&height=600&smart=true",
           "alt": "",
           "caption": "",
           "role": "lead"
