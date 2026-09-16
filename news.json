@@ -1,17 +1,255 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-16T20:52:05Z",
+  "generated_at": "2026-09-16T23:30:13Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 17,
-    "added": 10,
-    "updated": 7,
-    "ok": 376,
-    "failed": 124,
-    "duration_seconds": 103.25
+    "scraped_now": 13,
+    "added": 7,
+    "updated": 6,
+    "ok": 378,
+    "failed": 122,
+    "duration_seconds": 4.41
   },
   "articles": [
+    {
+      "id": "debfdf3b88cddb7e",
+      "title": "Gov. Pillen talks ethanol, ag technology, and workforce culture at Husker Harvest Days",
+      "header": "KSNB",
+      "published_at": "2026-09-16T23:15:00Z",
+      "published_raw": "Wed, 16 Sep 2026 23:15:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDdSZGlaS2p5QTVqUXhpOVpaWDlZc1Nyazk3LXVPZDBudGpkMFh2dVBjTTAwU0Y5UG5GN1BWcVIyR2p5Z1hpd2trSFZMUmdGV0xaUHZyNmliYkZmUFZNYmJWTlQzSk1raDhubG1mOUlQdnZmczhJOVVsdEZHTjc0ZThYelNjSkVrVXdKSWdIUkk3Mnh1eG1IMm1UZW82M2tBRWNMblFPc0hkYnZqZUtIWF9nTzhtZ9IBygFBVV95cUxNUkh3Mnozb19ZUF9JV3Yxb3dJRWFtY2NwRnVRTURjbzUwR2RkMGc5V1Y3ZEhuZG53TTBhV1RSYk5aVnZteWpMM2JGU295a1NUOFg3LXczQU12WUFLUXBaQzJmNFJpT1JJNWZjMjVIRmhXVE5WMHY4WFYwaFRmQ09WZWVycFIwOFN1a28zWUY1UWJHWThvVjJXTS1KWWhRTkdTQzFCN1JBXzhWYUhueDJfMkxXZmowUU8zREtrRzlhX3RtOEpHVndNNThR?oc=5",
+      "description": "Gov. Pillen talks ethanol, ag technology, and workforce culture at Husker Harvest Days KSNB",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDdSZGlaS2p5QTVqUXhpOVpaWDlZc1Nyazk3LXVPZDBudGpkMFh2dVBjTTAwU0Y5UG5GN1BWcVIyR2p5Z1hpd2trSFZMUmdGV0xaUHZyNmliYkZmUFZNYmJWTlQzSk1raDhubG1mOUlQdnZmczhJOVVsdEZHTjc0ZThYelNjSkVrVXdKSWdIUkk3Mnh1eG1IMm1UZW82M2tBRWNMblFPc0hkYnZqZUtIWF9nTzhtZ9IBygFBVV95cUxNUkh3Mnozb19ZUF9JV3Yxb3dJRWFtY2NwRnVRTURjbzUwR2RkMGc5V1Y3ZEhuZG53TTBhV1RSYk5aVnZteWpMM2JGU295a1NUOFg3LXczQU12WUFLUXBaQzJmNFJpT1JJNWZjMjVIRmhXVE5WMHY4WFYwaFRmQ09WZWVycFIwOFN1a28zWUY1UWJHWThvVjJXTS1KWWhRTkdTQzFCN1JBXzhWYUhueDJfMkxXZmowUU8zREtrRzlhX3RtOEpHVndNNThR?oc=5\" target=\"_blank\">Gov. Pillen talks ethanol, ag technology, and workforce culture at Husker Harvest Days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSNB</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDdSZGlaS2p5QTVqUXhpOVpaWDlZc1Nyazk3LXVPZDBudGpkMFh2dVBjTTAwU0Y5UG5GN1BWcVIyR2p5Z1hpd2trSFZMUmdGV0xaUHZyNmliYkZmUFZNYmJWTlQzSk1raDhubG1mOUlQdnZmczhJOVVsdEZHTjc0ZThYelNjSkVrVXdKSWdIUkk3Mnh1eG1IMm1UZW82M2tBRWNMblFPc0hkYnZqZUtIWF9nTzhtZ9IBygFBVV95cUxNUkh3Mnozb19ZUF9JV3Yxb3dJRWFtY2NwRnVRTURjbzUwR2RkMGc5V1Y3ZEhuZG53TTBhV1RSYk5aVnZteWpMM2JGU295a1NUOFg3LXczQU12WUFLUXBaQzJmNFJpT1JJNWZjMjVIRmhXVE5WMHY4WFYwaFRmQ09WZWVycFIwOFN1a28zWUY1UWJHWThvVjJXTS1KWWhRTkdTQzFCN1JBXzhWYUhueDJfMkxXZmowUU8zREtrRzlhX3RtOEpHVndNNThR?oc=5"
+      ],
+      "scraped_at": "2026-09-16T23:30:10Z",
+      "url": "https://www.ksnblocal4.com/2026/09/16/gov-pillen-talks-ethanol-ag-technology-workforce-culture-husker-harvest-days/",
+      "final_url": "https://www.ksnblocal4.com/2026/09/16/gov-pillen-talks-ethanol-ag-technology-workforce-culture-husker-harvest-days/",
+      "source": "https://www.ksnblocal4.com",
+      "article_title": "Gov. Pillen talks ethanol, ag technology, and workforce culture at Husker Harvest Days",
+      "heading": "Gov. Pillen talks ethanol, ag technology, and workforce culture at Husker Harvest Days",
+      "authors": [
+        "KSNB Local4"
+      ],
+      "article_published_at": "2026-09-16T23:15:05.712Z",
+      "article_modified_at": "2026-09-16T23:15:05.712Z",
+      "summary": "Nebraska Gov. Jim Pillen joined state ag leaders and FFA officers at Husker Harvest Days to discuss the future of agriculture.",
+      "content": "Gov. Pillen talks ethanol, ag technology, and workforce culture at Husker Harvest Days\nGRAND ISLAND, Neb. (KSNB) - Addressing crowds at the 2026 Husker Harvest Days, Nebraska Gov. Jim Pillen emphasized that the state’s agricultural future depends as much on workplace culture and relationships as it does on technological innovation and biofuel expansion.\nPillen took the stage at noon inside the Hospitality Tent on Wednesday, joining state FFA officers for a wide-ranging discussion on the opportunities and hurdles facing Nebraska producers.\nThe Value-Added Ethanol Advantage\nWhen asked about the future of ethanol and biofuels, Pillen pointed to Nebraska’s ability to maximize every component of the corn crop while lowering its carbon footprint through carbon capture.\n“If you think of it, a kernel of corn. A third of it goes to ethanol, a third of it goes to byproducts for livestock, a third of it goes to CO2 which we are now capturing and we’ll be able to make money from that, but now it gives us the lowest carbon score,” Pillen said. “Those are the things that create unmatched value. No other state can do it, politics got in the way, we didn’t let that happen, we did what was right. It’s creating unmatched opportunities.”\nCulture Over Raw Technology\nWhile Husker Harvest Days showcases cutting-edge advancements in field equipment, precision data, and automation, Pillen cautioned against relying solely on technology to sustain farm and ranch businesses.\nSpeaking to FFA officers and young agricultural leaders in the audience, the governor stressed that strong communication, organizational culture, and local community ties remain foundational to long-term survival.\n“I think that those of us that continue to work very hard on relationships within our community and within our business can have a great culture,” Pillen said. “If we don’t have a great culture and you’re technologically brilliant, I think you’re still going to go broke.”\nThe noon forum was part of a full slate of stage programming organized by Farm Progress by Informa during the three-day show in Grand Island. A full replay of the governor’s panel is available on the Local4 Streaming app across Roku, Apple, and Android devices.\nClick here to subscribe to our KSNB Local4 daily digest and breaking news alerts delivered straight to your email inbox.\nCopyright 2026 KSNB. All rights reserved.",
+      "content_html": "<html>\n  <body>\n    <h1>Gov. Pillen talks ethanol, ag technology, and workforce culture at Husker Harvest Days</h1>\n    <p>GRAND ISLAND, Neb. (KSNB) - Addressing crowds at the 2026 Husker Harvest Days, Nebraska Gov. Jim Pillen emphasized that the state’s agricultural future depends as much on workplace culture and relationships as it does on technological innovation and biofuel expansion.</p>\n    <p>Pillen took the stage at noon inside the Hospitality Tent on Wednesday, joining state FFA officers for a wide-ranging discussion on the opportunities and hurdles facing Nebraska producers.</p>\n    <h3>The Value-Added Ethanol Advantage</h3>\n    <p>When asked about the future of ethanol and biofuels, Pillen pointed to Nebraska’s ability to maximize every component of the corn crop while lowering its carbon footprint through carbon capture.</p>\n    <p>“If you think of it, a kernel of corn. A third of it goes to ethanol, a third of it goes to byproducts for livestock, a third of it goes to CO2 which we are now capturing and we’ll be able to make money from that, but now it gives us the lowest carbon score,” Pillen said. “Those are the things that create unmatched value. No other state can do it, politics got in the way, we didn’t let that happen, we did what was right. It’s creating unmatched opportunities.”</p>\n    <h3>Culture Over Raw Technology</h3>\n    <p>While Husker Harvest Days showcases cutting-edge advancements in field equipment, precision data, and automation, Pillen cautioned against relying solely on technology to sustain farm and ranch businesses.</p>\n    <p>Speaking to FFA officers and young agricultural leaders in the audience, the governor stressed that strong communication, organizational culture, and local community ties remain foundational to long-term survival.</p>\n    <p>“I think that those of us that continue to work very hard on relationships within our community and within our business can have a great culture,” Pillen said. “If we don’t have a great culture and you’re technologically brilliant, I think you’re still going to go broke.”</p>\n    <p>The noon forum was part of a full slate of stage programming organized by Farm Progress by Informa during the three-day show in Grand Island. A full replay of the governor’s panel is available on the Local4 Streaming app across Roku, Apple, and Android devices.</p>\n    <p>Click here to subscribe to our KSNB Local4 daily digest and breaking news alerts delivered straight to your email inbox.</p>\n    <p>Copyright 2026 KSNB. All rights reserved.</p>\n  </body>\n</html>",
+      "word_count": 382,
+      "char_count": 2384,
+      "lead_image": "https://gray-ksnb-prod.gtv-cdn.com/resizer/v2/ZSARGYUJVNBSFMSAY67WI37424.png?auth=86d23a17de3054658b79f09bbfb7ac9b636a7640ee0ff7980f82744903e210fa&width=1200&height=600&smart=true",
+      "images": [
+        {
+          "url": "https://gray-ksnb-prod.gtv-cdn.com/resizer/v2/ZSARGYUJVNBSFMSAY67WI37424.png?auth=86d23a17de3054658b79f09bbfb7ac9b636a7640ee0ff7980f82744903e210fa&width=1200&height=600&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-16T23:30:10Z"
+    },
+    {
+      "id": "699c0c5608d0254c",
+      "title": "Advancing the Technology to Print Electronics on 3D Surfaces | Newswise",
+      "header": "newswise.com",
+      "published_at": "2026-09-16T22:30:00Z",
+      "published_raw": "Wed, 16 Sep 2026 22:30:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVnNyUVl5bHlUS2QzNkxITV9SN0wxSDU1OURHWmVwUkxlT2puaWRPYWtnaTRmZE9WN0FKMUdpVnZaN1NScEdienNOckJMVVVZdEx2NzZCdVVBQ2gtLXA1X054RDN6T3UwYmVYX0JndVFjcUxISXNNR2VFeUdGR3BwcGRMZnFpX29Xa1gtTDg0U3RUYzFJeEZUS1Jn0gGaAUFVX3lxTE5Wc3JRWXlseVRLZDM2TEhNX1I3TDFINTU5REdaZXBSTGVPam5pZE9ha2dpNGZkT1Y3QUoxR2lWdlo3U1JwR2J6c05yQkxVVVl0THY3NkJ1VUFDaC0tcDVfTnhEM3pPdTBiZVhfQmd1UWNxTEhJc01HZUV5R0ZHcHBwZExmcWlfb1drWC1MODRTdFRjMUl4RlRLUmc?oc=5",
+      "description": "Advancing the Technology to Print Electronics on 3D Surfaces | Newswise newswise.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOVnNyUVl5bHlUS2QzNkxITV9SN0wxSDU1OURHWmVwUkxlT2puaWRPYWtnaTRmZE9WN0FKMUdpVnZaN1NScEdienNOckJMVVVZdEx2NzZCdVVBQ2gtLXA1X054RDN6T3UwYmVYX0JndVFjcUxISXNNR2VFeUdGR3BwcGRMZnFpX29Xa1gtTDg0U3RUYzFJeEZUS1Jn0gGaAUFVX3lxTE5Wc3JRWXlseVRLZDM2TEhNX1I3TDFINTU5REdaZXBSTGVPam5pZE9ha2dpNGZkT1Y3QUoxR2lWdlo3U1JwR2J6c05yQkxVVVl0THY3NkJ1VUFDaC0tcDVfTnhEM3pPdTBiZVhfQmd1UWNxTEhJc01HZUV5R0ZHcHBwZExmcWlfb1drWC1MODRTdFRjMUl4RlRLUmc?oc=5\" target=\"_blank\">Advancing the Technology to Print Electronics on 3D Surfaces | Newswise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newswise.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVnNyUVl5bHlUS2QzNkxITV9SN0wxSDU1OURHWmVwUkxlT2puaWRPYWtnaTRmZE9WN0FKMUdpVnZaN1NScEdienNOckJMVVVZdEx2NzZCdVVBQ2gtLXA1X054RDN6T3UwYmVYX0JndVFjcUxISXNNR2VFeUdGR3BwcGRMZnFpX29Xa1gtTDg0U3RUYzFJeEZUS1Jn0gGaAUFVX3lxTE5Wc3JRWXlseVRLZDM2TEhNX1I3TDFINTU5REdaZXBSTGVPam5pZE9ha2dpNGZkT1Y3QUoxR2lWdlo3U1JwR2J6c05yQkxVVVl0THY3NkJ1VUFDaC0tcDVfTnhEM3pPdTBiZVhfQmd1UWNxTEhJc01HZUV5R0ZHcHBwZExmcWlfb1drWC1MODRTdFRjMUl4RlRLUmc?oc=5"
+      ],
+      "scraped_at": "2026-09-16T23:30:10Z",
+      "url": "https://www.newswise.com/articles/advancing-the-technology-to-print-electronics-on-3d-surfaces",
+      "final_url": "https://www.newswise.com/articles/advancing-the-technology-to-print-electronics-on-3d-surfaces",
+      "source": "newswise.com",
+      "article_title": "Advancing the Technology to Print Electronics on 3D Surfaces | Newswise",
+      "heading": "Advancing the Technology to Print Electronics on 3D Surfaces",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Iowa State University's Ethan Secor is developing technologies and techniques to print electronics on curved and 3D surfaces.",
+      "content": "Newswise — AMES, Iowa – The name of Ethan Secor’s startup company – “Contour Circuits” – is a great description of the technology he and his research group are developing.\nThey’re learning to print precise and complex electronic circuits on curved and 3D surfaces.\nStep one of the process is understanding the mechanics and physics of a technology called aerosol jet printing, which, similar to an office inkjet printer, deposits droplets of ink to create a pattern defined by software.\nStep two is monitoring and controlling the printing process in real time, as ink is atomized into a fine mist that’s carried by a gas flow and squeezed through a nozzle for printing at a resolution of just 10 to 100 millionths of a meter.\nStep three is building custom printers and the software that controls them. One such printer is mounted to an articulated robotic arm, allowing the printer nozzle to work over a curved surface. That “introduces greater complexity for motion planning and alignment,” according to a summary of the technology.\n“Right now, the work that’s getting me excited is the conformal printing,” said Secor, an Iowa State University associate professor of mechanical engineering. “For the next two to three years, that’s going to be a big effort. We’ll be pushing to develop applications for the technology.”\nThose applications could include electronics for use by the energy, healthcare, manufacturing, aerospace, communications and security industries.\nIn recognition of that research program and other accomplishments – including early career awards from the U.S. National Science Foundation, the Defense Advanced Research Projects Agency and the Office of Naval Research – Secor is being honored this fall with an Iowa State University Award for Early Achievement in Research.\n‘The breadth of the work’\nSecor describes his introduction to aerosol jet printing as an accident.\n“In graduate school (at Northwestern University in Evanston, Illinois), I wanted to work on energy,” he said. “But the professor I wanted to work with (Mark C. Hersam) had a project involving printed electronics.”\nSecor started by designing graphene inks for various printing technologies. That led to developing applications for graphene inks in flexible electronics, liquid metal electronics, microsupercapacitors and lithium-ion batteries. Those inks were promising enough to be distributed by Sigma-Aldrich Inc., and they’re still sold today.\nWhy not switch back to an energy project?\n“What kept me there was the breadth of the work,” he said.\nWorking with printed electronics can mean pulling in collaborators from all over a university, including electrical engineers, mechanical engineers, materials scientists and chemists.\n“There are a lot of different perspectives needed,” he said. “And that has kept me engaged and learning.”\nOne Iowa State collaborator is Adarsh Krishnamurthy, a professor of mechanical engineering and an associate director of the university’s Translational AI Center.\n“In our work together, we have had to bring together expertise in materials, hardware, robotics, geometric modeling and computational methods to make aerosol jet printing work reliably on complex 3D curved surfaces,” he said. “Ethan is very good at envisioning how all of those pieces fit together.”\nAnd, Krishnamurthy said, Secor knows how to work with a research team.\n“He is also an excellent collaborator who is open to ideas from other disciplines, rigorous about technical details and focused on turning fundamental research into capabilities that can actually be demonstrated and used.”\nPursuing the practical\nAs an engineer, Secor is motivated to apply scientific research for practical benefits.\n“Researchers have developed many creative and impressive demonstrations of printed hybrid electronics,” he said. “But to move those beyond a laboratory environment, reliability is key.”\nSecor said there are two sides to that reliability: consistency of the manufacturing process itself, and stability of the printed devices. Secor’s lab is working on both.\nAcross five projects over the past six years, Secor’s team developed a sensor to monitor the printing process and automatically make corrections. His group has since installed these systems at several industry, government and academic sites from New York to California.\nOn the other side of reliability, a recent grant from the U.S. National Science Foundation has Secor studying new ink materials for printed electronics that hold up in the extreme environments of space, including high and low temperatures.\nThe challenge isn’t necessarily with the silicon-based chips that are essential to today’s electronics. The failures often occur at the interface between those semiconductors and larger circuits, Secor said.\nSolve that problem, and we all could benefit:\n“Electronic systems that can function in extreme environments are highly relevant for energy, infrastructure, aerospace, and space applications,” the researchers wrote in a project summary.\nNASA is also interested in potential benefits for space electronics and has awarded the startup established by Secor and his former graduate student, Jeremy Rurup, with a $150,000 contract from the federal government’s Small Business Technology Transfer program that supports technology development and commercialization.\nAs the company incubates in its small space at the Roy J. Carver Co-Laboratory on the north side of campus, Secor is also looking ahead to future research ideas.\nOne idea that needs development is using aerosol jet printing to blend different materials during deposition, in a sense shifting from printing in black and white to gray scale, he said.\nSo yes, he’s confident there’s more to keep him engaged in the challenges of printed electronics.\nHe is, after all, the kind of engineer who’s ready to dive into a technology so he can advance a project.\nAs a post-doctoral researcher at the U.S. Department of Energy’s Sandia National Laboratories in New Mexico, “I learned how to build a printer and that opened up a lot of research directions,” Secor said. “Now we build and customize our own hardware. So, while other research groups are playing with a black box, we can open it up, understand how it works and improve on it.”\n– 30 –\nMEDIA CONTACT\nRegister for reporter access to contact details\nCITATIONS\nNSF 2429683\nMethod of research: Experimental study",
+      "content_html": "<html>\n  <body><p>Newswise — AMES, Iowa – The name of Ethan Secor’s startup company – “Contour Circuits” – is a great description of the technology he and his research group are developing.</p><p>They’re learning to print precise and complex electronic circuits on curved and 3D surfaces.</p><p>Step one of the process is understanding the mechanics and physics of a technology called aerosol jet printing, which, similar to an office inkjet printer, deposits droplets of ink to create a pattern defined by software.</p><p>Step two is monitoring and controlling the printing process in real time, as ink is atomized into a fine mist that’s carried by a gas flow and squeezed through a nozzle for printing at a resolution of just 10 to 100 millionths of a meter.</p><p>Step three is building custom printers and the software that controls them. One such printer is mounted to an articulated robotic arm, allowing the printer nozzle to work over a curved surface. That “introduces greater complexity for motion planning and alignment,” according to a summary of the technology.</p><p>“Right now, the work that’s getting me excited is the conformal printing,” said Secor, an Iowa State University associate professor of mechanical engineering. “For the next two to three years, that’s going to be a big effort. We’ll be pushing to develop applications for the technology.”</p><p>Those applications could include electronics for use by the energy, healthcare, manufacturing, aerospace, communications and security industries.</p><p>In recognition of that research program and other accomplishments – including early career awards from the U.S. National Science Foundation, the Defense Advanced Research Projects Agency and the Office of Naval Research – Secor is being honored this fall with an Iowa State University Award for Early Achievement in Research.</p><p>‘The breadth of the work’</p><p>Secor describes his introduction to aerosol jet printing as an accident.</p><p>“In graduate school (at Northwestern University in Evanston, Illinois), I wanted to work on energy,” he said. “But the professor I wanted to work with (Mark C. Hersam) had a project involving printed electronics.”</p><p>Secor started by designing graphene inks for various printing technologies. That led to developing applications for graphene inks in flexible electronics, liquid metal electronics, microsupercapacitors and lithium-ion batteries. Those inks were promising enough to be distributed by Sigma-Aldrich Inc., and they’re still sold today.</p><p>Why not switch back to an energy project?</p><p>“What kept me there was the breadth of the work,” he said.</p><p>Working with printed electronics can mean pulling in collaborators from all over a university, including electrical engineers, mechanical engineers, materials scientists and chemists.</p><p>“There are a lot of different perspectives needed,” he said. “And that has kept me engaged and learning.”</p><p>One Iowa State collaborator is Adarsh Krishnamurthy, a professor of mechanical engineering and an associate director of the university’s Translational AI Center.</p><p>“In our work together, we have had to bring together expertise in materials, hardware, robotics, geometric modeling and computational methods to make aerosol jet printing work reliably on complex 3D curved surfaces,” he said. “Ethan is very good at envisioning how all of those pieces fit together.”</p><p>And, Krishnamurthy said, Secor knows how to work with a research team.</p><p>“He is also an excellent collaborator who is open to ideas from other disciplines, rigorous about technical details and focused on turning fundamental research into capabilities that can actually be demonstrated and used.”</p><p>Pursuing the practical</p><p>As an engineer, Secor is motivated to apply scientific research for practical benefits.</p><p>“Researchers have developed many creative and impressive demonstrations of printed hybrid electronics,” he said. “But to move those beyond a laboratory environment, reliability is key.”</p><p>Secor said there are two sides to that reliability: consistency of the manufacturing process itself, and stability of the printed devices. Secor’s lab is working on both.</p><p>Across five projects over the past six years, Secor’s team developed a sensor to monitor the printing process and automatically make corrections. His group has since installed these systems at several industry, government and academic sites from New York to California.</p><p>On the other side of reliability, a recent grant from the U.S. National Science Foundation has Secor studying new ink materials for printed electronics that hold up in the extreme environments of space, including high and low temperatures.</p><p>The challenge isn’t necessarily with the silicon-based chips that are essential to today’s electronics. The failures often occur at the interface between those semiconductors and larger circuits, Secor said.</p><p>Solve that problem, and we all could benefit:</p><p>“Electronic systems that can function in extreme environments are highly relevant for energy, infrastructure, aerospace, and space applications,” the researchers wrote in a project summary.</p><p>NASA is also interested in potential benefits for space electronics and has awarded the startup established by Secor and his former graduate student, Jeremy Rurup, with a $150,000 contract from the federal government’s Small Business Technology Transfer program that supports technology development and commercialization.</p><p>As the company incubates in its small space at the Roy J. Carver Co-Laboratory on the north side of campus, Secor is also looking ahead to future research ideas.</p><p>One idea that needs development is using aerosol jet printing to blend different materials during deposition, in a sense shifting from printing in black and white to gray scale, he said.</p><p>So yes, he’s confident there’s more to keep him engaged in the challenges of printed electronics.</p><p>He is, after all, the kind of engineer who’s ready to dive into a technology so he can advance a project.</p><p>As a post-doctoral researcher at the U.S. Department of Energy’s Sandia National Laboratories in New Mexico, “I learned how to build a printer and that opened up a lot of research directions,” Secor said. “Now we build and customize our own hardware. So, while other research groups are playing with a black box, we can open it up, understand how it works and improve on it.”</p><p>– 30 –</p><h5>MEDIA CONTACT</h5>Register for reporter access to contact details<h5>CITATIONS</h5><p>NSF 2429683<br/>Method of research: Experimental study</p></body>\n</html>",
+      "word_count": 991,
+      "char_count": 6389,
+      "lead_image": "https://www.newswise.com/images/uploads/2026/09/16/6aaac870a4c16_ImpactSecorEthanFeatureLg.jpg",
+      "images": [
+        {
+          "url": "https://www.newswise.com/images/uploads/2026/09/16/6aaac870a4c16_ImpactSecorEthanFeatureLg.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-16T23:30:10Z"
+    },
+    {
+      "id": "17a9b37a3c90dc75",
+      "title": "Companies look to technology to boost Georgia's healthcare workforce",
+      "header": "CBS News",
+      "published_at": "2026-09-16T22:12:00Z",
+      "published_raw": "Wed, 16 Sep 2026 22:12:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalo0TERtLUp1NnhMOFl6dFI3V0laWGNSNVQ5d3NXenpTSUFEeHF0OFVFYkZsNHB0aFRDRnZIT3FpcVpjcjhPVmVpMFdjUHJnUTBteEhqQVV0SzRMMzhrZUVhakhKT3J2OXZEbHJVVWFoVzR0RjBPSkIzN3g2UndyMERfVFRwUFpaSTMzdnFIOG5nSGlKcmtoZGlrcWhPci1fSTFXSXByQm10QQ?oc=5",
+      "description": "Companies look to technology to boost Georgia's healthcare workforce CBS News",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalo0TERtLUp1NnhMOFl6dFI3V0laWGNSNVQ5d3NXenpTSUFEeHF0OFVFYkZsNHB0aFRDRnZIT3FpcVpjcjhPVmVpMFdjUHJnUTBteEhqQVV0SzRMMzhrZUVhakhKT3J2OXZEbHJVVWFoVzR0RjBPSkIzN3g2UndyMERfVFRwUFpaSTMzdnFIOG5nSGlKcmtoZGlrcWhPci1fSTFXSXByQm10QQ?oc=5\" target=\"_blank\">Companies look to technology to boost Georgia's healthcare workforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalo0TERtLUp1NnhMOFl6dFI3V0laWGNSNVQ5d3NXenpTSUFEeHF0OFVFYkZsNHB0aFRDRnZIT3FpcVpjcjhPVmVpMFdjUHJnUTBteEhqQVV0SzRMMzhrZUVhakhKT3J2OXZEbHJVVWFoVzR0RjBPSkIzN3g2UndyMERfVFRwUFpaSTMzdnFIOG5nSGlKcmtoZGlrcWhPci1fSTFXSXByQm10QQ?oc=5"
+      ],
+      "scraped_at": "2026-09-16T23:30:09Z",
+      "url": "https://www.cbsnews.com/atlanta/video/companies-look-to-technology-to-boost-georgias-healthcare-workforce/",
+      "final_url": "https://www.cbsnews.com/atlanta/video/companies-look-to-technology-to-boost-georgias-healthcare-workforce/",
+      "source": "CBS News",
+      "article_title": "Companies look to technology to boost Georgia's healthcare workforce",
+      "heading": "Companies look to technology to boost Georgia's healthcare workforce",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Georgia is looking for ways to keep its future healthcare workforce here at home. Experts say one solution could be expanding what we think of as a career in medicine.",
+      "content": "Latest\nU.S.\nIran War\nMilitary Damage\nWorld\nPolitics\nEntertainment\nHealthWatch\nMoneyWatch\nCrime\nSpace\nSports\nBrand Studio\nThe Free Press\nLocal News\nAtlanta\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\nLive\nCBS News 24/7\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\n48 Hours\n60 Minutes\nShows\n48 Hours\n60 Minutes\nCBS Evening News\nCBS Mornings\nCBS Morning News\nCBS Reports\nCBS Saturday Morning\nThe Daily Report\nThe Dish\nFace the Nation\nSunday Morning\nThe Takeout\nThings That Matter\nThe Uplift\nCBS News Investigates\nCBS News Confirmed\nPodcasts\nNewsletters\nDownload Our App\nCBS News Team\nExecutive Team\nBrand Studio\nParamount+\nJoin Our Talent Community\nRSS Feeds\nAtlanta\n|\nNews\nWeather\nMeet Our Team\nNews Tips\nContact Us\nDownload with Damez\nDownload Our App\nAdvertise\nMemorials\nWatch CBS News\nCompanies look to technology to boost Georgia's healthcare workforce\nGeorgia is looking for ways to keep its future healthcare workforce here at home. Experts say one solution could be expanding what we think of as a career in medicine.\nView CBS News In\nCBS News App\nOpen\nChrome\nSafari\nContinue",
+      "content_html": "<html>\n  <body>\n    <p>Latest\nU.S.\nIran War\nMilitary Damage\nWorld\nPolitics\nEntertainment\nHealthWatch\nMoneyWatch\nCrime\nSpace\nSports\nBrand Studio\nThe Free Press\nLocal News\nAtlanta\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\nLive\nCBS News 24/7\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\n48 Hours\n60 Minutes\nShows\n48 Hours\n60 Minutes\nCBS Evening News\nCBS Mornings\nCBS Morning News\nCBS Reports\nCBS Saturday Morning\nThe Daily Report\nThe Dish\nFace the Nation\nSunday Morning\nThe Takeout\nThings That Matter\nThe Uplift\nCBS News Investigates\nCBS News Confirmed\nPodcasts\nNewsletters\nDownload Our App\nCBS News Team\nExecutive Team\nBrand Studio\nParamount+\nJoin Our Talent Community\nRSS Feeds\nAtlanta\n|\nNews\nWeather\nMeet Our Team\nNews Tips\nContact Us\nDownload with Damez\nDownload Our App\nAdvertise\nMemorials\nWatch CBS News\nCompanies look to technology to boost Georgia's healthcare workforce\nGeorgia is looking for ways to keep its future healthcare workforce here at home. Experts say one solution could be expanding what we think of as a career in medicine.\nView CBS News In\nCBS News App\nOpen\nChrome\nSafari\nContinue</p>\n  </body>\n</html>",
+      "word_count": 196,
+      "char_count": 1249,
+      "lead_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/16/5d31ff40-451c-476a-9528-e3565ab4fbbf/thumbnail/1200x630/2279478b9e889b42bb0a6803e89c8ec7/6dbfabc73477a21bd8b103e7d46a4294.jpg",
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/16/5d31ff40-451c-476a-9528-e3565ab4fbbf/thumbnail/1200x630/2279478b9e889b42bb0a6803e89c8ec7/6dbfabc73477a21bd8b103e7d46a4294.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-16T23:30:09Z"
+    },
+    {
+      "id": "4519e69541ca75bb",
+      "title": "Arlington County ends use of Flock cameras and related technology",
+      "header": "WTOP News",
+      "published_at": "2026-09-16T21:30:29Z",
+      "published_raw": "Wed, 16 Sep 2026 21:30:29 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWExLSVRaUVYzN2NWSS1FYXBmczFUZUVwa1BVUHc5M1JNUWJXd0pyT1RhOG9TcEU2ckxubG1IUXdsUlJnd3BlT2hzNVJNSDQ3OFJmMmhmQzJ0SkM3Z1RkendsbUlydmtwa3RidTJhUXJrR2htaDdnNlNHVTBUOGRPaXVubnJyMk45OFRoT3hZVFIybjV3R1NURmQzOFlaMUR2WFE?oc=5",
+      "description": "Arlington County ends use of Flock cameras and related technology WTOP News",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQWExLSVRaUVYzN2NWSS1FYXBmczFUZUVwa1BVUHc5M1JNUWJXd0pyT1RhOG9TcEU2ckxubG1IUXdsUlJnd3BlT2hzNVJNSDQ3OFJmMmhmQzJ0SkM3Z1RkendsbUlydmtwa3RidTJhUXJrR2htaDdnNlNHVTBUOGRPaXVubnJyMk45OFRoT3hZVFIybjV3R1NURmQzOFlaMUR2WFE?oc=5\" target=\"_blank\">Arlington County ends use of Flock cameras and related technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOP News</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWExLSVRaUVYzN2NWSS1FYXBmczFUZUVwa1BVUHc5M1JNUWJXd0pyT1RhOG9TcEU2ckxubG1IUXdsUlJnd3BlT2hzNVJNSDQ3OFJmMmhmQzJ0SkM3Z1RkendsbUlydmtwa3RidTJhUXJrR2htaDdnNlNHVTBUOGRPaXVubnJyMk45OFRoT3hZVFIybjV3R1NURmQzOFlaMUR2WFE?oc=5"
+      ],
+      "scraped_at": "2026-09-16T23:30:10Z",
+      "url": "https://wtop.com/virginia/2026/09/arlington-county-ends-use-of-flock-cameras-and-related-technology/",
+      "final_url": "https://wtop.com/virginia/2026/09/arlington-county-ends-use-of-flock-cameras-and-related-technology/",
+      "source": "WTOP News",
+      "article_title": "Arlington County ends use of Flock cameras and related technology – WTOP News",
+      "heading": "Arlington County ends use of Flock cameras and related technology",
+      "authors": [],
+      "article_published_at": "2026-09-16T17:30:29-04:00",
+      "article_modified_at": "2026-09-16T19:00:00-04:00",
+      "summary": "The Arlington County board in Virginia has discontinued the use of county-leased Flock Safety technology after a public meeting Tuesday.",
+      "content": "The Arlington County board in Virginia has discontinued the use of county-leased Flock Safety technology after a public meeting Tuesday.\nThe board directed the county manager to begin removing all of the equipment the county uses that is related to Flock. Board members also directed that all data “not required for active criminal investigations” to be “deleted in accordance with applicable contractual, legal, and operational requirements.”\nIn total, Arlington County has 41 Flock Safety cameras, 26 Falcon license plate readers and 15 Condor point-tilt-zoom cameras.\nRelated stories\n- DC police union raises questions about Flock cameras\n- Dumfries pumps the brakes on Flock cameras rollout\n- Va. governor says calls to ban Flock license reader cameras ‘overly simplistic’\nBoard Member Julius Spain told the “Tech Rundown Podcast” that the cameras would come down within the next 14 days.\n“Effectively, immediately, our contract has ended with Flock. And the time when they’re going to come down, it may be Friday, it may be next week, but we were giving ourselves about a 14-day cushion,” Spain told podcast host Anna-Lysa Gayle.\nThe change comes as Flock cameras have been under scrutiny in the D.C. region and nationwide for the amount of information they collect without warning from people passing by.\nD.C. Council member Brooke Pinto is seeking answers from the District’s police department about its use of Flock license plate reader technology, asking the D.C. police department 10 questions about the automated license plate reader system and requesting a response by the end of the business day Thursday.\nLast week, Alexandria’s mayor said she wants the city to move away from using Flock Safety license plate readers amid growing concerns over privacy and how the cameras can be used to track people’s movements.\n“This decision reflects concerns raised by Arlington residents regarding the use of Flock technology,” said Arlington County Board Chair Matt de Ferranti.\nSpain said the board expects to share more with the public about where the cameras were located and what their purpose was during their meeting on Sept. 22.\n“While Arlington has maintained strong safeguards to prevent the abuse of this technology throughout its use by the county, and there has been no report of misuse to date, the County Board takes seriously our obligation to maintain our community’s trust,” de Ferranti said in a news release. “The Board, the Manager, and our Public Safety staff will continue to evaluate the tools and technologies we use to ensure they align with the values and expectations of Arlington’s residents.”\nSpain said that this type of technology has been helpful in solving crimes and locating missing persons and the county’s police department supports its use, but “we also respect the thoughts and concerns of our community and our constituents, who are really anxious right now about what’s going on with this level of technology.”\nFlock cameras installed on private property are not impacted by the removal request because they are “not subject to county oversight,” the board said.\nGet breaking news and daily headlines delivered to your email inbox by signing up here.\n© 2026 WTOP. All Rights Reserved. This website is not intended for users located within the European Economic Area.",
+      "content_html": "<html>\n  <body>\n    <p>The Arlington County board in Virginia has discontinued the use of county-leased Flock Safety technology after a public meeting Tuesday.</p>\n    <p>The board directed the county manager to begin removing all of the equipment the county uses that is related to Flock. Board members also directed that all data “not required for active criminal investigations” to be “deleted in accordance with applicable contractual, legal, and operational requirements.”</p>\n    <p>In total, Arlington County has 41 Flock Safety cameras, 26 Falcon license plate readers and 15 Condor point-tilt-zoom cameras.</p>\n    <h4>Related stories</h4>\n    <ul>\n      <li>DC police union raises questions about Flock cameras</li>\n      <li>Dumfries pumps the brakes on Flock cameras rollout</li>\n      <li>Va. governor says calls to ban Flock license reader cameras ‘overly simplistic’</li>\n    </ul>\n    <p>Board Member Julius Spain told the “Tech Rundown Podcast” that the cameras would come down within the next 14 days.</p>\n    <p>“Effectively, immediately, our contract has ended with Flock. And the time when they’re going to come down, it may be Friday, it may be next week, but we were giving ourselves about a 14-day cushion,” Spain told podcast host Anna-Lysa Gayle.</p>\n    <p>The change comes as Flock cameras have been under scrutiny in the D.C. region and nationwide for the amount of information they collect without warning from people passing by.</p>\n    <p>D.C. Council member Brooke Pinto is seeking answers from the District’s police department about its use of Flock license plate reader technology, asking the D.C. police department 10 questions about the automated license plate reader system and requesting a response by the end of the business day Thursday.</p>\n    <p>Last week, Alexandria’s mayor said she wants the city to move away from using Flock Safety license plate readers amid growing concerns over privacy and how the cameras can be used to track people’s movements.</p>\n    <p>“This decision reflects concerns raised by Arlington residents regarding the use of Flock technology,” said Arlington County Board Chair Matt de Ferranti.</p>\n    <p>Spain said the board expects to share more with the public about where the cameras were located and what their purpose was during their meeting on Sept. 22.</p>\n    <p>“While Arlington has maintained strong safeguards to prevent the abuse of this technology throughout its use by the county, and there has been no report of misuse to date, the County Board takes seriously our obligation to maintain our community’s trust,” de Ferranti said in a news release. “The Board, the Manager, and our Public Safety staff will continue to evaluate the tools and technologies we use to ensure they align with the values and expectations of Arlington’s residents.”</p>\n    <p>Spain said that this type of technology has been helpful in solving crimes and locating missing persons and the county’s police department supports its use, but “we also respect the thoughts and concerns of our community and our constituents, who are really anxious right now about what’s going on with this level of technology.”</p>\n    <p>Flock cameras installed on private property are not impacted by the removal request because they are “not subject to county oversight,” the board said.</p>\n    <p>Get breaking news and daily headlines delivered to your email inbox by signing up here.</p>\n    <p>© 2026 WTOP. All Rights Reserved. This website is not intended for users located within the European Economic Area.</p>\n  </body>\n</html>",
+      "word_count": 532,
+      "char_count": 3311,
+      "lead_image": "https://wtop.com/wp-content/uploads/2026/09/flock.jpg",
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2026/09/flock.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-16T23:30:10Z"
+    },
+    {
+      "id": "b7923bd8c96c4e4a",
+      "title": "Apple Weighs Return to Server Market with NVIDIA Networking Technology",
+      "header": "TechPowerUp",
+      "published_at": "2026-09-16T21:04:47Z",
+      "published_raw": "Wed, 16 Sep 2026 21:04:47 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGRCbWc2Z1dQLTRBWkhRT1Zvb3BveEJFRU5uNlo2Q3NWNEZIZWUwdTlrWmplMGNDTWpuczNCeWNvZzVNbFdWcXlpMlFkeUQxaWk1QUdvOVA5dzBMQmRmdGJKNjlOVTV3aERLLTh5b3JvdVB6NGxTc2FNdmcxaklTT0owMUdmNjFhV0lobEsxd2VjVFc4T184QzdxSWtlbW5yUHJZbDh6WlXSAa4BQVVfeXFMUFZhWnY5ZFVhRzBCT3hTaUxCTTdKYkFxMnRrQkxwa1NldmEzOTNNZ0k5UDlQUFBjaWgxbzZCZkdWNTNybEhzRlRraTl4TnU2M2ZLTm4wZjdQNFlPd1AzUmRDY2hvOGZxWFJTQ19TUUNZSTUxdjRsdlZsVmw4SkpiYjdDRmRQVHlreU9hdTlKdEZWejI5Qk8yd2tnbTlLVy1CVENGakR0VGl6Yy1FckV3?oc=5",
+      "description": "Apple Weighs Return to Server Market with NVIDIA Networking Technology TechPowerUp",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGRCbWc2Z1dQLTRBWkhRT1Zvb3BveEJFRU5uNlo2Q3NWNEZIZWUwdTlrWmplMGNDTWpuczNCeWNvZzVNbFdWcXlpMlFkeUQxaWk1QUdvOVA5dzBMQmRmdGJKNjlOVTV3aERLLTh5b3JvdVB6NGxTc2FNdmcxaklTT0owMUdmNjFhV0lobEsxd2VjVFc4T184QzdxSWtlbW5yUHJZbDh6WlXSAa4BQVVfeXFMUFZhWnY5ZFVhRzBCT3hTaUxCTTdKYkFxMnRrQkxwa1NldmEzOTNNZ0k5UDlQUFBjaWgxbzZCZkdWNTNybEhzRlRraTl4TnU2M2ZLTm4wZjdQNFlPd1AzUmRDY2hvOGZxWFJTQ19TUUNZSTUxdjRsdlZsVmw4SkpiYjdDRmRQVHlreU9hdTlKdEZWejI5Qk8yd2tnbTlLVy1CVENGakR0VGl6Yy1FckV3?oc=5\" target=\"_blank\">Apple Weighs Return to Server Market with NVIDIA Networking Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGRCbWc2Z1dQLTRBWkhRT1Zvb3BveEJFRU5uNlo2Q3NWNEZIZWUwdTlrWmplMGNDTWpuczNCeWNvZzVNbFdWcXlpMlFkeUQxaWk1QUdvOVA5dzBMQmRmdGJKNjlOVTV3aERLLTh5b3JvdVB6NGxTc2FNdmcxaklTT0owMUdmNjFhV0lobEsxd2VjVFc4T184QzdxSWtlbW5yUHJZbDh6WlXSAa4BQVVfeXFMUFZhWnY5ZFVhRzBCT3hTaUxCTTdKYkFxMnRrQkxwa1NldmEzOTNNZ0k5UDlQUFBjaWgxbzZCZkdWNTNybEhzRlRraTl4TnU2M2ZLTm4wZjdQNFlPd1AzUmRDY2hvOGZxWFJTQ19TUUNZSTUxdjRsdlZsVmw4SkpiYjdDRmRQVHlreU9hdTlKdEZWejI5Qk8yd2tnbTlLVy1CVENGakR0VGl6Yy1FckV3?oc=5"
+      ],
+      "scraped_at": "2026-09-16T23:30:09Z",
+      "url": "https://www.techpowerup.com/352766/apple-weighs-return-to-server-market-with-nvidia-networking-technology",
+      "final_url": "https://www.techpowerup.com/352766/apple-weighs-return-to-server-market-with-nvidia-networking-technology",
+      "source": "TechPowerUp",
+      "article_title": "Apple Weighs Return to Server Market with NVIDIA Networking Technology",
+      "heading": "Apple Weighs Return to Server Market with NVIDIA Networking Technology",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Apple is reportedly considering a return to the server market, where the company was once active with its Xserve rack technology. According to The Information, Apple is developing AI-focused M-series chips, which could incorporate several NVIDIA components, including the NVLink Fusion portfolio...",
+      "content": "Wednesday, September 16th 2026\n\n\n\n\n\nApple Weighs Return to Server Market with NVIDIA Networking Technology\nApple is reportedly considering a return to the server market, where the company was once active with its Xserve rack technology. According to The Information, Apple is developing AI-focused M-series chips, which could incorporate several NVIDIA components, including the NVLink Fusion portfolio of technologies and IP. This includes the possibility of interconnecting two or four Apple M8 Ultra chips using NVIDIA NVLink for socket-to-socket communication, while NVIDIA NVLink-C2C manages die-to-die interconnection. Currently planned for launch in 2029, this product would mark Apple's first entry into the server space since debuting Xserve in 2002 and discontinuing it in 2011. Nearly two decades later, Apple's server offering might be making a comeback, building on the success that the Mac mini and Mac Studio are experiencing among AI developers.\nFor instance, Apple's Mac lineup achieved a record $10.4 billion in sales last quarter, with strong demand from the AI community. Enterprises are even constructing custom racks, mounting multiple Mac Studios to set up local AI inferencing efforts. For the new server design, Apple would delegate every interconnect question to NVIDIA NVLink Fusion, while it focuses on the actual system-on-chip as before. The new rack design would target enterprises and governments, who may already be running Mac clusters locally.Readers might recall that Apple is already working on a custom AI inference accelerator with Broadcom, codenamed \"Baltra.\" It reportedly uses TSMC's 3 nm N3E or N3P nodes and is scheduled for late 2026 or early 2027. Perhaps Apple, which also develops Apple Foundation Models (AFM), will use the \"Baltra\" AI accelerator to run large-scale inference and serve its massive customer base with its models using that chip, and later offer its M8 Ultra chips as standalone racks. However, for a company as secretive as Apple, schedules might change, and we could see more information in the future. With the new CEO John Ternus at the helm, hardware offerings might expand significantly.\n\nSource:\nThe Information\n\n\n\n\n\n\n\nFor instance, Apple's Mac lineup achieved a record $10.4 billion in sales last quarter, with strong demand from the AI community. Enterprises are even constructing custom racks, mounting multiple Mac Studios to set up local AI inferencing efforts. For the new server design, Apple would delegate every interconnect question to NVIDIA NVLink Fusion, while it focuses on the actual system-on-chip as before. The new rack design would target enterprises and governments, who may already be running Mac clusters locally.Readers might recall that Apple is already working on a custom AI inference accelerator with Broadcom, codenamed \"Baltra.\" It reportedly uses TSMC's 3 nm N3E or N3P nodes and is scheduled for late 2026 or early 2027. Perhaps Apple, which also develops Apple Foundation Models (AFM), will use the \"Baltra\" AI accelerator to run large-scale inference and serve its massive customer base with its models using that chip, and later offer its M8 Ultra chips as standalone racks. However, for a company as secretive as Apple, schedules might change, and we could see more information in the future. With the new CEO John Ternus at the helm, hardware offerings might expand significantly.",
+      "content_html": "<html>\n  <body><p>Wednesday, September 16th 2026</p>\n\n\t\n\t\t\t\t\t\t\t\t\t<img src=\"https://tpucdn.com/images/news/apple-v1789463105.png\" title=\"Apple\"/>\n\t\n\t\n\t<h1>Apple Weighs Return to Server Market with NVIDIA Networking Technology</h1><p>Apple is reportedly considering a return to the server market, where the company was once active with its Xserve rack technology. According to The Information, Apple is developing AI-focused M-series chips, which could incorporate several NVIDIA components, including the NVLink Fusion portfolio of technologies and IP. This includes the possibility of interconnecting two or four Apple M8 Ultra chips using NVIDIA NVLink for socket-to-socket communication, while NVIDIA NVLink-C2C manages die-to-die interconnection. Currently planned for launch in 2029, this product would mark Apple's first entry into the server space since debuting Xserve in 2002 and discontinuing it in 2011. Nearly two decades later, Apple's server offering might be making a comeback, building on the success that the Mac mini and Mac Studio are experiencing among AI developers.<br/>\n<br/>For instance, Apple's Mac lineup achieved a record $10.4 billion in sales last quarter, with strong demand from the AI community. Enterprises are even constructing custom racks, mounting multiple Mac Studios to set up local AI inferencing efforts. For the new server design, Apple would delegate every interconnect question to NVIDIA NVLink Fusion, while it focuses on the actual system-on-chip as before. The new rack design would target enterprises and governments, who may already be running Mac clusters locally.<img src=\"https://tpucdn.com/img/jF0pYdBXdDl4vvON_thm.jpg\" width=\"229\" height=\"130\" alt=\"\"/> Readers might recall that Apple is already working on a custom AI inference accelerator with Broadcom, codenamed \"Baltra.\" It reportedly uses TSMC's 3 nm N3E or N3P nodes and is scheduled for late 2026 or early 2027. Perhaps Apple, which also develops Apple Foundation Models (AFM), will use the \"Baltra\" AI accelerator to run large-scale inference and serve its massive customer base with its models using that chip, and later offer its M8 Ultra chips as standalone racks. However, for a company as secretive as Apple, schedules might change, and we could see more information in the future. With the new CEO John Ternus at the helm, hardware offerings might expand significantly.</p>\n\n\t\t\n\t\tSource:\n\t\t\t\tThe Information\t\t\t\n\t\n\t\n\t\n\n\t\t\n\t\n\t\t\n\t<p>For instance, Apple's Mac lineup achieved a record $10.4 billion in sales last quarter, with strong demand from the AI community. Enterprises are even constructing custom racks, mounting multiple Mac Studios to set up local AI inferencing efforts. For the new server design, Apple would delegate every interconnect question to NVIDIA NVLink Fusion, while it focuses on the actual system-on-chip as before. The new rack design would target enterprises and governments, who may already be running Mac clusters locally.</p><img src=\"https://tpucdn.com/img/jF0pYdBXdDl4vvON_thm.jpg\"/> </body>\n</html>",
+      "word_count": 523,
+      "char_count": 3389,
+      "lead_image": "https://www.techpowerup.com/img/jF0pYdBXdDl4vvON.jpg",
+      "images": [
+        {
+          "url": "https://www.techpowerup.com/img/jF0pYdBXdDl4vvON.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://www.techpowerup.com/reviyuu/b784/_19cff2f1.png",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://www.techpowerup.com/reviyuu/b784/_7258aa45.png",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://tpucdn.com/images/news/apple@2x-v1789463105.png",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://tpucdn.com/img/jF0pYdBXdDl4vvON_thm.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://www.techpowerup.com/reviyuu/b784/_a78908d1.png",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://www.techpowerup.com/reviyuu/b784/_6e734f60.png",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 7,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-16T23:30:09Z"
+    },
     {
       "id": "77a34e61b6547f8f",
       "title": "“Technology is the equalizer”",
@@ -213,6 +451,48 @@
       "first_seen_at": "2026-09-16T20:50:25Z"
     },
     {
+      "id": "d6d45d802400d7f4",
+      "title": "Health Break: Bluffton rehabilitation hospital uses game-like technology for regaining mobility",
+      "header": "WTOC",
+      "published_at": "2026-09-16T19:02:30Z",
+      "published_raw": "Wed, 16 Sep 2026 19:02:30 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUXdPTkJzbFFDMlJuR0stRlVIWjJTYnVJOUlvZ3NSSjlPQk9KSnJEV3ZYQXF1WEZZQWRQblF3dXNlNVRxcm1qQTVRdW9zcFhSdTg1STFrbllwUlpJYV9xc3I4d0RoeDlPQklGUEVvZ1VSd04xeG56TjZIT3ZZczdVaGNqQVBTaDNWeVdEeGVfRVV1ZXRuanR3dVVacXhmWXBRZlpYUTdtMzg1UVB5enVTMUV1cVhfUEFCRExCSjFlTnHSAdQBQVVfeXFMT1RjR0l0azRaVWxxR3lzTWR0RXBTVnJ3N2paazhCai1WQm9oWm5jc1pCcHpEOW9KajN2aFFNWkpMR3I4ZS1GZVg5d3Eta3dKMW5TaHlpYVR2Um14bm1tWjIwRUpxOTNrX3lpNF9ybjZuQjNEY19VRTdrbExZWTRRTWY1ODBrYUZiTW16Um0wTmtGaHktWGJHMWRWaUJaSF92Y1YzZ0twZ3VzcHBuRFFkQXlKaHc2OGJDY1VHb2MyZmlWNGVka0JYeWFFVEUzSk1vdi1DYzg?oc=5",
+      "description": "Health Break: Bluffton rehabilitation hospital uses game-like technology for regaining mobility WTOC",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUXdPTkJzbFFDMlJuR0stRlVIWjJTYnVJOUlvZ3NSSjlPQk9KSnJEV3ZYQXF1WEZZQWRQblF3dXNlNVRxcm1qQTVRdW9zcFhSdTg1STFrbllwUlpJYV9xc3I4d0RoeDlPQklGUEVvZ1VSd04xeG56TjZIT3ZZczdVaGNqQVBTaDNWeVdEeGVfRVV1ZXRuanR3dVVacXhmWXBRZlpYUTdtMzg1UVB5enVTMUV1cVhfUEFCRExCSjFlTnHSAdQBQVVfeXFMT1RjR0l0azRaVWxxR3lzTWR0RXBTVnJ3N2paazhCai1WQm9oWm5jc1pCcHpEOW9KajN2aFFNWkpMR3I4ZS1GZVg5d3Eta3dKMW5TaHlpYVR2Um14bm1tWjIwRUpxOTNrX3lpNF9ybjZuQjNEY19VRTdrbExZWTRRTWY1ODBrYUZiTW16Um0wTmtGaHktWGJHMWRWaUJaSF92Y1YzZ0twZ3VzcHBuRFFkQXlKaHc2OGJDY1VHb2MyZmlWNGVka0JYeWFFVEUzSk1vdi1DYzg?oc=5\" target=\"_blank\">Health Break: Bluffton rehabilitation hospital uses game-like technology for regaining mobility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUXdPTkJzbFFDMlJuR0stRlVIWjJTYnVJOUlvZ3NSSjlPQk9KSnJEV3ZYQXF1WEZZQWRQblF3dXNlNVRxcm1qQTVRdW9zcFhSdTg1STFrbllwUlpJYV9xc3I4d0RoeDlPQklGUEVvZ1VSd04xeG56TjZIT3ZZczdVaGNqQVBTaDNWeVdEeGVfRVV1ZXRuanR3dVVacXhmWXBRZlpYUTdtMzg1UVB5enVTMUV1cVhfUEFCRExCSjFlTnHSAdQBQVVfeXFMT1RjR0l0azRaVWxxR3lzTWR0RXBTVnJ3N2paazhCai1WQm9oWm5jc1pCcHpEOW9KajN2aFFNWkpMR3I4ZS1GZVg5d3Eta3dKMW5TaHlpYVR2Um14bm1tWjIwRUpxOTNrX3lpNF9ybjZuQjNEY19VRTdrbExZWTRRTWY1ODBrYUZiTW16Um0wTmtGaHktWGJHMWRWaUJaSF92Y1YzZ0twZ3VzcHBuRFFkQXlKaHc2OGJDY1VHb2MyZmlWNGVka0JYeWFFVEUzSk1vdi1DYzg?oc=5"
+      ],
+      "scraped_at": "2026-09-16T23:30:10Z",
+      "url": "https://www.wtoc.com/2026/09/16/health-break-bluffton-rehabilitation-hospital-uses-game-like-technology-regaining-mobility/",
+      "final_url": "https://www.wtoc.com/2026/09/16/health-break-bluffton-rehabilitation-hospital-uses-game-like-technology-regaining-mobility/",
+      "source": "https://www.wtoc.com",
+      "article_title": "Health Break: Bluffton rehabilitation hospital uses game-like technology for regaining mobility",
+      "heading": "Health Break: Bluffton rehabilitation hospital uses game-like technology for regaining mobility",
+      "authors": [
+        "Camille  Syed"
+      ],
+      "article_published_at": "2026-09-16T20:45:24.77Z",
+      "article_modified_at": "2026-09-16T18:45:00Z",
+      "summary": "For National Rehabilitation Week, we learned about technology offered at Encompass Health Rehabilitation Hospital of Bluffton.",
+      "content": "Health Break: Bluffton rehabilitation hospital uses game-like technology for regaining mobility\nBLUFFTON, Sc. (WTOC) - For National Rehabilitation Awareness Week, Encompass Health Rehabilitation Hospital of Bluffton showed Morning Break advance technology to help patients regain their independence.\nDirector of Therapy Operations Meg Foster showed Morning Break Host Camille Syed how to use a touch screen device helping stroke patient track visual progress. Foster also demonstrated the B.U.R.T. robotic machine, which was made to help stroke patients build their mobility. See how they work with the video above.\n“We’re actually certified in three programs, Parkinson’s, stroke, and hip fracture,” Foster said. “So when patients come here, they get three hours of therapy a day.”\nMedical Director Dr. Vincent Somaio says providing inpatient therapy allows their staff to prepare patients for the return to daily activities after a tragic incident or diagnosis.\n“They need medical management and they also improve in function. We stay here between seven days and 21 days depending on their diagnosis. Our average length of stay is about 12 days,” Dr. Somaio said. “And they get good medical coverage. They have physicians that see them just about every day. Very different than a subacute facility where physicians are rarely there. And we have 24-7 nursing coverage. And the therapy is very intensive, 15 hours a week of therapy.”\nFor information about support groups and services, visit www.encompasshealth.com/locations/bluffton-rehab.\nCopyright 2026 WTOC. All rights reserved.",
+      "content_html": "<html>\n  <body>\n    <h1>Health Break: Bluffton rehabilitation hospital uses game-like technology for regaining mobility</h1>\n    <p>BLUFFTON, Sc. (WTOC) - For National Rehabilitation Awareness Week, Encompass Health Rehabilitation Hospital of Bluffton showed Morning Break advance technology to help patients regain their independence.</p>\n    <p>Director of Therapy Operations Meg Foster showed Morning Break Host Camille Syed how to use a touch screen device helping stroke patient track visual progress. Foster also demonstrated the B.U.R.T. robotic machine, which was made to help stroke patients build their mobility. See how they work with the video above.</p>\n    <p>“We’re actually certified in three programs, Parkinson’s, stroke, and hip fracture,” Foster said. “So when patients come here, they get three hours of therapy a day.”</p>\n    <p>Medical Director Dr. Vincent Somaio says providing inpatient therapy allows their staff to prepare patients for the return to daily activities after a tragic incident or diagnosis.</p>\n    <p>“They need medical management and they also improve in function. We stay here between seven days and 21 days depending on their diagnosis. Our average length of stay is about 12 days,” Dr. Somaio said. “And they get good medical coverage. They have physicians that see them just about every day. Very different than a subacute facility where physicians are rarely there. And we have 24-7 nursing coverage. And the therapy is very intensive, 15 hours a week of therapy.”</p>\n    <p>For information about support groups and services, visit www.encompasshealth.com/locations/bluffton-rehab.</p>\n    <p>Copyright 2026 WTOC. All rights reserved.</p>\n  </body>\n</html>",
+      "word_count": 235,
+      "char_count": 1582,
+      "lead_image": "https://gray-wtoc-prod.gtv-cdn.com/resizer/v2/ZYAMUUR5GBH6BLJ7FA7O3235OM.jpg?auth=5040ac6298eefbf970897e396d33a1218a47a28cc029210ad93d1af4834dacbb&width=1200&height=600&smart=true",
+      "images": [
+        {
+          "url": "https://gray-wtoc-prod.gtv-cdn.com/resizer/v2/ZYAMUUR5GBH6BLJ7FA7O3235OM.jpg?auth=5040ac6298eefbf970897e396d33a1218a47a28cc029210ad93d1af4834dacbb&width=1200&height=600&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-16T23:30:10Z"
+    },
+    {
       "id": "304545b3a9f5b905",
       "title": "USA Skeleton and Carpenter Technology Renew Partnership for 2026-2027 Season",
       "header": "USA Bobsled-Skeleton",
@@ -304,6 +584,40 @@
       "first_seen_at": "2026-09-16T20:50:24Z"
     },
     {
+      "id": "3e9578749d502d38",
+      "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
+      "header": "The New York Times",
+      "published_at": "2026-09-16T17:22:00Z",
+      "published_raw": "Wed, 16 Sep 2026 17:22:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDdJR2JuaHlmNmNBV3BFUDN1WVh6amQzM0VnWUcwLUl5MVFzaUJDMlBSQkNEeUhSSG1ZcjIya21VSWh5TXQ4dll4X0pHRE1BeUl3V3dydTctWEtRU0ZYQmE4V3BkcVM4VHV6MzdKVy1mNWE0WUtidXRubkFLZmxIRVFKblBEZ3NwczBLQ1habw?oc=5",
+      "description": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown The New York Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDdJR2JuaHlmNmNBV3BFUDN1WVh6amQzM0VnWUcwLUl5MVFzaUJDMlBSQkNEeUhSSG1ZcjIya21VSWh5TXQ4dll4X0pHRE1BeUl3V3dydTctWEtRU0ZYQmE4V3BkcVM4VHV6MzdKVy1mNWE0WUtidXRubkFLZmxIRVFKblBEZ3NwczBLQ1habw?oc=5\" target=\"_blank\">Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDdJR2JuaHlmNmNBV3BFUDN1WVh6amQzM0VnWUcwLUl5MVFzaUJDMlBSQkNEeUhSSG1ZcjIya21VSWh5TXQ4dll4X0pHRE1BeUl3V3dydTctWEtRU0ZYQmE4V3BkcVM4VHV6MzdKVy1mNWE0WUtidXRubkFLZmxIRVFKblBEZ3NwczBLQ1habw?oc=5"
+      ],
+      "scraped_at": "2026-09-16T23:30:09Z",
+      "url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
+      "final_url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
+      "source": "The New York Times",
+      "article_title": "",
+      "heading": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown The New York Times",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-16T01:01:37Z"
+    },
+    {
       "id": "44ee80f176760cfd",
       "title": "Delivering Technology Leadership for the AI Era",
       "header": "Broadcom",
@@ -315,7 +629,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVU0OVJHRTZLdjM0bzZUbjlmMi1VeDNqSXplSzZ6Nk9vQ3RJU0VOME85bUV4MzIyX1VFQXZ4bHJPZEV0UEc4M0Nzb2N2RHUtRDFpVUtucW9iTncwLTdzVlppRlhnWlVPVVBKUjN4dFNLVFFBbmZ0Q19pWllHcV80SE41d3RWeHRwcWtHOEFiUG1hZ3RyM2RoTTJhSXVYSlhYRXAyRFF2WTI1SGpm?oc=5"
       ],
-      "scraped_at": "2026-09-16T20:50:25Z",
+      "scraped_at": "2026-09-16T23:30:11Z",
       "url": "https://www.broadcom.com/company/news/articles/enterprise-ai/delivering-technology-leadership-for-the-ai-era",
       "final_url": "https://www.broadcom.com/company/news/articles/enterprise-ai/delivering-technology-leadership-for-the-ai-era",
       "source": "broadcom.com",
@@ -945,6 +1259,58 @@
       "first_seen_at": "2026-09-16T17:55:36Z"
     },
     {
+      "id": "ba2e6e859a15fca1",
+      "title": "Scalise: America Can Embrace New Technology the Right Way",
+      "header": "Congressman Steve Scalise (.gov)",
+      "published_at": "2026-09-16T14:45:15Z",
+      "published_raw": "Wed, 16 Sep 2026 14:45:15 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcXh4R0Fpcnpfc0t3azBsaWtGR1VkOUQtdGR1NGRaMHZFNVhFb0RiTzRlRVVVUnUtelZ0NEtTcTN3V0FCT2dyZ2c5akdxNGFIaG8zTDVvb1lpYkdONUhGSzFwWFRrdXI0aWlfMXJ4SmZmaEVZVVlkbnEzY3liVjZjQ19qa3FjV0VqbHlJMEpMQXBnM3BOa043Z1M1akdyZw?oc=5",
+      "description": "Scalise: America Can Embrace New Technology the Right Way Congressman Steve Scalise (.gov)",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPcXh4R0Fpcnpfc0t3azBsaWtGR1VkOUQtdGR1NGRaMHZFNVhFb0RiTzRlRVVVUnUtelZ0NEtTcTN3V0FCT2dyZ2c5akdxNGFIaG8zTDVvb1lpYkdONUhGSzFwWFRrdXI0aWlfMXJ4SmZmaEVZVVlkbnEzY3liVjZjQ19qa3FjV0VqbHlJMEpMQXBnM3BOa043Z1M1akdyZw?oc=5\" target=\"_blank\">Scalise: America Can Embrace New Technology the Right Way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Congressman Steve Scalise (.gov)</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxPcXh4R0Fpcnpfc0t3azBsaWtGR1VkOUQtdGR1NGRaMHZFNVhFb0RiTzRlRVVVUnUtelZ0NEtTcTN3V0FCT2dyZ2c5akdxNGFIaG8zTDVvb1lpYkdONUhGSzFwWFRrdXI0aWlfMXJ4SmZmaEVZVVlkbnEzY3liVjZjQ19qa3FjV0VqbHlJMEpMQXBnM3BOa043Z1M1akdyZw?oc=5"
+      ],
+      "scraped_at": "2026-09-16T23:30:11Z",
+      "url": "https://scalise.house.gov/press-releases/scalise-america-can-embrace-new-technology-the-right-way",
+      "final_url": "https://scalise.house.gov/press-releases/scalise-america-can-embrace-new-technology-the-right-way",
+      "source": "Congressman Steve Scalise",
+      "article_title": "Scalise: America Can Embrace New Technology the Right Way",
+      "heading": "Scalise: America Can Embrace New Technology the Right Way",
+      "authors": [],
+      "article_published_at": "2026-09-16T10:45:15-04:00",
+      "article_modified_at": "2026-09-16T11:55:50-04:00",
+      "summary": "WASHINGTON, D.C.— Yesterday, House Majority Leader Steve Scalise (R-La.) spoke on the House floor about the Ratepayer Protection Act and the importance of local communities, not the federal government, deciding whether to embrace data centers. Leader Scalise highlighted examples in Louisiana and Virginia where AI infrastructure has generated significant economic benefit to the community.",
+      "content": "Scalise: America Can Embrace New Technology the Right Way\nWASHINGTON, D.C.— Yesterday, House Majority Leader Steve Scalise (R-La.) spoke on the House floor about the Ratepayer Protection Act and the importance of local communities, not the federal government, deciding whether to embrace data centers. Leader Scalise highlighted examples in Louisiana and Virginia where AI infrastructure has generated significant economic benefit to the community.\nClick here or the image above to view Leader Scalise's full remarks.\nHighlights from Leader Scalise’s remarks:\nOn data centers being a local decision:\n“As we're advancing in technology, we've got to do it the right way, Mr. Speaker. In a smart and thoughtful way. And if you look at communities that have embraced data centers, some communities said, it's not for me. And that's a choice communities make. The federal government is not the one making that decision.”\nOn ensuring data centers aren’t increasing electricity costs:\n“What we've always said, and what President Trump took the leadership in doing, is meeting with all of the big tech companies that are building these massive data centers and said, just make sure as you're making these big investments in communities, you won't add to the cost of a local community's ratepayer electricity rates. So the president got a commitment to do that. We're not fully codifying that. It's in essence a step in that direction what this bill is doing. But as the president did that, you saw companies going and making massive multibillion-dollar investments in some of our communities and helping those communities along the way.”\nOn positive effect data centers have on communities:\n\n“In fact, if you go to little Richland Parish, a rural part of north Louisiana that not a lot of people live in, not a lot of opportunities for wealth in that parish, Mr. Speaker. But then Meta decided to build a data center, and that data center grew and grew as the community embraced it. They worked with the community. They're building their own natural gas facilities. So it's actually going to help the grid in that community because they're going to be paying their own way, and anything extra they have is going to be offloaded to the grid. So the neighbors in that community will actually get lower utility rates…\n\n“As they're building that data center, because of all of the increased sales tax collections to Richland Parish, they were able to give a bonus. I'm not talking about the base salary of their school teachers. They gave a bonus to every school teacher in Richland Parish because of the building of that data center. And Mr. Speaker, do you know how much every schoolteacher in Richland Parish just got a few months ago because of the data center? $50,000 per teacher bonus because of the data center...\n“Loudoun County in Virginia got the benefits of their data centers to the tune of a 30% reduction in property taxes for every homeowner in Loudoun County, Virginia. They're benefiting from that still to this day, as well as the jobs that come along with it and the investment, the buildings that come along, the small business growth that we're seeing.\"\n\nOn importance of beating China in AI race:\n“There's a revolution happening. China's competing and America's competing. We surely do not want China to win this war. America's staying at the forefront. I want us to stay at the forefront. Let locals make the choice and let consumers reap the benefits. That's what's happening right now. And this bill by my friend Congressman Evans ensures that we continue to see that growth continue.\"",
+      "content_html": "<html>\n  <body>\n    <h1>Scalise: America Can Embrace New Technology the Right Way</h1>\n    <p>WASHINGTON, D.C.— Yesterday, House Majority Leader Steve Scalise (R-La.) spoke on the House floor about the Ratepayer Protection Act and the importance of local communities, not the federal government, deciding whether to embrace data centers. Leader Scalise highlighted examples in Louisiana and Virginia where AI infrastructure has generated significant economic benefit to the community.</p>\n    <img src=\"https://scalise.house.gov/sites/evo-subsites/scalise-evo.house.gov/files/styles/evo_image_portrait_480/public/evo-media-image/scalise-america-can-embrace-new-technology-the-right-way.png?itok=WftsH1R7\" alt=\"Scalise: America Can Embrace New Technology the Right Way\"/>\n    <p>Click here or the image above to view Leader Scalise's full remarks.</p>\n    <p>Highlights from Leader Scalise’s remarks:<br/>On data centers being a local decision: <br/>“As we're advancing in technology, we've got to do it the right way, Mr. Speaker. In a smart and thoughtful way. And if you look at communities that have embraced data centers, some communities said, it's not for me. And that's a choice communities make. The federal government is not the one making that decision.”<br/>On ensuring data centers aren’t increasing electricity costs:<br/>“What we've always said, and what President Trump took the leadership in doing, is meeting with all of the big tech companies that are building these massive data centers and said, just make sure as you're making these big investments in communities, you won't add to the cost of a local community's ratepayer electricity rates. So the president got a commitment to do that. We're not fully codifying that. It's in essence a step in that direction what this bill is doing. But as the president did that, you saw companies going and making massive multibillion-dollar investments in some of our communities and helping those communities along the way.”<br/>On positive effect data centers have on communities:<br/> <br/>“In fact, if you go to little Richland Parish, a rural part of north Louisiana that not a lot of people live in, not a lot of opportunities for wealth in that parish, Mr. Speaker. But then Meta decided to build a data center, and that data center grew and grew as the community embraced it. They worked with the community. They're building their own natural gas facilities. So it's actually going to help the grid in that community because they're going to be paying their own way, and anything extra they have is going to be offloaded to the grid. So the neighbors in that community will actually get lower utility rates…<br/> <br/>“As they're building that data center, because of all of the increased sales tax collections to Richland Parish, they were able to give a bonus. I'm not talking about the base salary of their school teachers. They gave a bonus to every school teacher in Richland Parish because of the building of that data center. And Mr. Speaker, do you know how much every schoolteacher in Richland Parish just got a few months ago because of the data center? $50,000 per teacher bonus because of the data center...<br/>“Loudoun County in Virginia got the benefits of their data centers to the tune of a 30% reduction in property taxes for every homeowner in Loudoun County, Virginia. They're benefiting from that still to this day, as well as the jobs that come along with it and the investment, the buildings that come along, the small business growth that we're seeing.\"<br/> <br/>On importance of beating China in AI race:<br/>“There's a revolution happening. China's competing and America's competing. We surely do not want China to win this war. America's staying at the forefront. I want us to stay at the forefront. Let locals make the choice and let consumers reap the benefits. That's what's happening right now. And this bill by my friend Congressman Evans ensures that we continue to see that growth continue.\"</p>\n  </body>\n</html>",
+      "word_count": 602,
+      "char_count": 3599,
+      "lead_image": "http://scalise.house.gov/sites/evo-subsites/scalise-evo.house.gov/files/evo-media-image/scalise-america-can-embrace-new-technology-the-right-way.png",
+      "images": [
+        {
+          "url": "http://scalise.house.gov/sites/evo-subsites/scalise-evo.house.gov/files/evo-media-image/scalise-america-can-embrace-new-technology-the-right-way.png",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://scalise.house.gov/profiles/evo/assets/images/Seal_of_the_United_States_House_of_Representatives.png",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://scalise.house.gov/sites/evo-subsites/scalise-evo.house.gov/files/styles/evo_image_portrait_480/public/evo-media-image/scalise-america-can-embrace-new-technology-the-right-way.png?itok=WftsH1R7",
+          "alt": "Scalise: America Can Embrace New Technology the Right Way",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 3,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-16T23:30:11Z"
+    },
+    {
       "id": "b8e9b1ddea1bf7e9",
       "title": "Apple weighs Nvidia technology for potential server market return, The Information reports",
       "header": "Reuters",
@@ -956,7 +1322,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUItV2dPTnNzdl9Fd0RxZlFSWm5fTGwwMmpYc3hBYThTellLMWhESUprY3UyME5SdWtVNVBmWmpJbllMRkYyOGc4d3liVlYxdlgyX2JWYnRRWUluUWd0Tm1fY2ptd2w0MHNYNkZKS2FOR3ktSkxuc0FBUnYxc01sdGVXN1RfRVZ2Z1h1bzBPa0htT2tsYVRfVzV0a0F1Vnpua3RRT2FadUwwdnotaG5RcHItNlZadw?oc=5"
       ],
-      "scraped_at": "2026-09-16T20:50:23Z",
+      "scraped_at": "2026-09-16T23:30:09Z",
       "url": "https://www.reuters.com/technology/apple-considers-nvidia-tech-return-server-market-information-reports-2026-09-16/",
       "final_url": "https://www.reuters.com/technology/apple-considers-nvidia-tech-return-server-market-information-reports-2026-09-16/",
       "source": "Reuters",
@@ -1092,7 +1458,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMigAFBVV95cUxNazVObnJzUldUVk5aLVUzU3dCQVE4NGgzb2NFbm5MVXExdlJ4T24tTDk1VkxEX2Q5OVhmU0ZkcmdQSThZdnU1Q2cxd0w3TWhPS0I4QWVwUWF4bFo0WGxXOGk2NWFBang4d0tVSmgtTGFEVDJOSmo3ci1sb3FCa1NGcg?oc=5"
       ],
-      "scraped_at": "2026-09-16T20:50:24Z",
+      "scraped_at": "2026-09-16T23:30:11Z",
       "url": "https://www.drovers.com/news/how-technology-quietly-reshaping-beef-business",
       "final_url": "https://www.drovers.com/news/how-technology-quietly-reshaping-beef-business",
       "source": "drovers.com",
@@ -1450,6 +1816,40 @@
       "first_seen_at": "2026-09-16T17:55:33Z"
     },
     {
+      "id": "c711db562126b3c9",
+      "title": "Global Technology Pioneers Emerald AI, Google, and NVIDIA Launch the AI Energy Management Alliance to Advance Flexible AI Data Centers",
+      "header": "Business Wire",
+      "published_at": "2026-09-16T13:06:09Z",
+      "published_raw": "Wed, 16 Sep 2026 13:06:09 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZEhFWmEtbEE4Sm5tZ1hlVnMzVzFXdURUaExTYjQzMXRUTl9GeFR0RjItaEk3THgxMy1Qc2V2ak93SHdIZDdXbzFGQUZ5Q0wzUEQwcGFGaEZUR3pWUG9zUF9pVVRtUWMxMElhbU1Dd24zWDc0dUpJZlpKbThydUEyZ3lQeE5kbHNxLV94MnlRbTZ0cjlOTkprci02WkJhS2NtUkpFb0Vza0lzY29DYVY2TThoa3hkXzBGR1plaWYxbnIwTWZHNFdOdWxUemlQTjlPWkcwYTVQeFNFX3RVSHNneE8xcmJpMnJSQ1h6c2NXb3d4SlhZNFVNMzZ3WXJLTWMzc2pGZm5FOU5zRVRrdFZNT2xGWHowREtX?oc=5",
+      "description": "Global Technology Pioneers Emerald AI, Google, and NVIDIA Launch the AI Energy Management Alliance to Advance Flexible AI Data Centers Business Wire",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNZEhFWmEtbEE4Sm5tZ1hlVnMzVzFXdURUaExTYjQzMXRUTl9GeFR0RjItaEk3THgxMy1Qc2V2ak93SHdIZDdXbzFGQUZ5Q0wzUEQwcGFGaEZUR3pWUG9zUF9pVVRtUWMxMElhbU1Dd24zWDc0dUpJZlpKbThydUEyZ3lQeE5kbHNxLV94MnlRbTZ0cjlOTkprci02WkJhS2NtUkpFb0Vza0lzY29DYVY2TThoa3hkXzBGR1plaWYxbnIwTWZHNFdOdWxUemlQTjlPWkcwYTVQeFNFX3RVSHNneE8xcmJpMnJSQ1h6c2NXb3d4SlhZNFVNMzZ3WXJLTWMzc2pGZm5FOU5zRVRrdFZNT2xGWHowREtX?oc=5\" target=\"_blank\">Global Technology Pioneers Emerald AI, Google, and NVIDIA Launch the AI Energy Management Alliance to Advance Flexible AI Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZEhFWmEtbEE4Sm5tZ1hlVnMzVzFXdURUaExTYjQzMXRUTl9GeFR0RjItaEk3THgxMy1Qc2V2ak93SHdIZDdXbzFGQUZ5Q0wzUEQwcGFGaEZUR3pWUG9zUF9pVVRtUWMxMElhbU1Dd24zWDc0dUpJZlpKbThydUEyZ3lQeE5kbHNxLV94MnlRbTZ0cjlOTkprci02WkJhS2NtUkpFb0Vza0lzY29DYVY2TThoa3hkXzBGR1plaWYxbnIwTWZHNFdOdWxUemlQTjlPWkcwYTVQeFNFX3RVSHNneE8xcmJpMnJSQ1h6c2NXb3d4SlhZNFVNMzZ3WXJLTWMzc2pGZm5FOU5zRVRrdFZNT2xGWHowREtX?oc=5"
+      ],
+      "scraped_at": "2026-09-16T23:30:09Z",
+      "url": "https://www.businesswire.com/news/home/20260916992694/en/Global-Technology-Pioneers-Emerald-AI-Google-and-NVIDIA-Launch-the-AI-Energy-Management-Alliance-to-Advance-Flexible-AI-Data-Centers",
+      "final_url": "https://www.businesswire.com/news/home/20260916992694/en/Global-Technology-Pioneers-Emerald-AI-Google-and-NVIDIA-Launch-the-AI-Energy-Management-Alliance-to-Advance-Flexible-AI-Data-Centers",
+      "source": "Business Wire",
+      "article_title": "",
+      "heading": "Global Technology Pioneers Emerald AI, Google, and NVIDIA Launch the AI Energy Management Alliance to Advance Flexible AI Data Centers",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Global Technology Pioneers Emerald AI, Google, and NVIDIA Launch the AI Energy Management Alliance to Advance Flexible AI Data Centers Business Wire",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-16T17:55:36Z"
+    },
+    {
       "id": "70e258c9b268eb0f",
       "title": "A 16-minute train delay shows how a solar storm disrupted Victorian technology",
       "header": "Phys.org",
@@ -1566,40 +1966,6 @@
       "image_count": 1,
       "extractor": "trafilatura",
       "status": "ok",
-      "first_seen_at": "2026-09-16T17:55:36Z"
-    },
-    {
-      "id": "c711db562126b3c9",
-      "title": "Global Technology Pioneers Emerald AI, Google, and NVIDIA Launch the AI Energy Management Alliance to Advance Flexible AI Data Centers",
-      "header": "Business Wire",
-      "published_at": "2026-09-16T13:00:00Z",
-      "published_raw": "Wed, 16 Sep 2026 13:00:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZEhFWmEtbEE4Sm5tZ1hlVnMzVzFXdURUaExTYjQzMXRUTl9GeFR0RjItaEk3THgxMy1Qc2V2ak93SHdIZDdXbzFGQUZ5Q0wzUEQwcGFGaEZUR3pWUG9zUF9pVVRtUWMxMElhbU1Dd24zWDc0dUpJZlpKbThydUEyZ3lQeE5kbHNxLV94MnlRbTZ0cjlOTkprci02WkJhS2NtUkpFb0Vza0lzY29DYVY2TThoa3hkXzBGR1plaWYxbnIwTWZHNFdOdWxUemlQTjlPWkcwYTVQeFNFX3RVSHNneE8xcmJpMnJSQ1h6c2NXb3d4SlhZNFVNMzZ3WXJLTWMzc2pGZm5FOU5zRVRrdFZNT2xGWHowREtX?oc=5",
-      "description": "Global Technology Pioneers Emerald AI, Google, and NVIDIA Launch the AI Energy Management Alliance to Advance Flexible AI Data Centers Business Wire",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNZEhFWmEtbEE4Sm5tZ1hlVnMzVzFXdURUaExTYjQzMXRUTl9GeFR0RjItaEk3THgxMy1Qc2V2ak93SHdIZDdXbzFGQUZ5Q0wzUEQwcGFGaEZUR3pWUG9zUF9pVVRtUWMxMElhbU1Dd24zWDc0dUpJZlpKbThydUEyZ3lQeE5kbHNxLV94MnlRbTZ0cjlOTkprci02WkJhS2NtUkpFb0Vza0lzY29DYVY2TThoa3hkXzBGR1plaWYxbnIwTWZHNFdOdWxUemlQTjlPWkcwYTVQeFNFX3RVSHNneE8xcmJpMnJSQ1h6c2NXb3d4SlhZNFVNMzZ3WXJLTWMzc2pGZm5FOU5zRVRrdFZNT2xGWHowREtX?oc=5\" target=\"_blank\">Global Technology Pioneers Emerald AI, Google, and NVIDIA Launch the AI Energy Management Alliance to Advance Flexible AI Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZEhFWmEtbEE4Sm5tZ1hlVnMzVzFXdURUaExTYjQzMXRUTl9GeFR0RjItaEk3THgxMy1Qc2V2ak93SHdIZDdXbzFGQUZ5Q0wzUEQwcGFGaEZUR3pWUG9zUF9pVVRtUWMxMElhbU1Dd24zWDc0dUpJZlpKbThydUEyZ3lQeE5kbHNxLV94MnlRbTZ0cjlOTkprci02WkJhS2NtUkpFb0Vza0lzY29DYVY2TThoa3hkXzBGR1plaWYxbnIwTWZHNFdOdWxUemlQTjlPWkcwYTVQeFNFX3RVSHNneE8xcmJpMnJSQ1h6c2NXb3d4SlhZNFVNMzZ3WXJLTWMzc2pGZm5FOU5zRVRrdFZNT2xGWHowREtX?oc=5"
-      ],
-      "scraped_at": "2026-09-16T17:55:36Z",
-      "url": "https://www.businesswire.com/news/home/20260916992694/en/Global-Technology-Pioneers-Emerald-AI-Google-and-NVIDIA-Launch-the-AI-Energy-Management-Alliance-to-Advance-Flexible-AI-Data-Centers",
-      "final_url": "https://www.businesswire.com/news/home/20260916992694/en/Global-Technology-Pioneers-Emerald-AI-Google-and-NVIDIA-Launch-the-AI-Energy-Management-Alliance-to-Advance-Flexible-AI-Data-Centers",
-      "source": "Business Wire",
-      "article_title": "",
-      "heading": "Global Technology Pioneers Emerald AI, Google, and NVIDIA Launch the AI Energy Management Alliance to Advance Flexible AI Data Centers",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Global Technology Pioneers Emerald AI, Google, and NVIDIA Launch the AI Energy Management Alliance to Advance Flexible AI Data Centers Business Wire",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
       "first_seen_at": "2026-09-16T17:55:36Z"
     },
     {
@@ -2211,40 +2577,6 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-16T07:08:35Z"
-    },
-    {
-      "id": "3e9578749d502d38",
-      "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
-      "header": "nytimes.com",
-      "published_at": "2026-09-16T00:26:57Z",
-      "published_raw": "Wed, 16 Sep 2026 00:26:57 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDdJR2JuaHlmNmNBV3BFUDN1WVh6amQzM0VnWUcwLUl5MVFzaUJDMlBSQkNEeUhSSG1ZcjIya21VSWh5TXQ4dll4X0pHRE1BeUl3V3dydTctWEtRU0ZYQmE4V3BkcVM4VHV6MzdKVy1mNWE0WUtidXRubkFLZmxIRVFKblBEZ3NwczBLQ1habw?oc=5",
-      "description": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown nytimes.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDdJR2JuaHlmNmNBV3BFUDN1WVh6amQzM0VnWUcwLUl5MVFzaUJDMlBSQkNEeUhSSG1ZcjIya21VSWh5TXQ4dll4X0pHRE1BeUl3V3dydTctWEtRU0ZYQmE4V3BkcVM4VHV6MzdKVy1mNWE0WUtidXRubkFLZmxIRVFKblBEZ3NwczBLQ1habw?oc=5\" target=\"_blank\">Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDdJR2JuaHlmNmNBV3BFUDN1WVh6amQzM0VnWUcwLUl5MVFzaUJDMlBSQkNEeUhSSG1ZcjIya21VSWh5TXQ4dll4X0pHRE1BeUl3V3dydTctWEtRU0ZYQmE4V3BkcVM4VHV6MzdKVy1mNWE0WUtidXRubkFLZmxIRVFKblBEZ3NwczBLQ1habw?oc=5"
-      ],
-      "scraped_at": "2026-09-16T20:50:23Z",
-      "url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
-      "final_url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
-      "source": "nytimes.com",
-      "article_title": "",
-      "heading": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown nytimes.com",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-16T01:01:37Z"
     },
     {
       "id": "57ff83e36cae1c10",
@@ -3725,7 +4057,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcVRZVF9GTnM1cUw4UXU3OTNncDdkamtadllPWTBuT0w4M0hYZ3pHc1JCWTdWOE54c001TVBHYzRwSnk2YVhtV21lLUFFd2xjNGsyM0MzRS1MUmYtNHp1R0lUZndJcVBYS0FWZThaSzZhWVNveUpmYTIwcGJpZVY0dUs1X3h0RnVlVV9QOEk2ak5WN3NMaHc4elROUlVxcjVoNG50cUh3QWhYME85MEI3emhxdExFTm5EYWVXdHJDc2djMlZnYlN3cGFUYlZxaHBPMDdaRw?oc=5"
       ],
-      "scraped_at": "2026-09-16T20:50:23Z",
+      "scraped_at": "2026-09-16T23:30:09Z",
       "url": "https://www.inc.com/moses-jeanfrancois/bill-gates-warns-future-technology-will-favor-those-who-can-pay-pledging-1-billion-dollars/91405510",
       "final_url": "https://www.inc.com/moses-jeanfrancois/bill-gates-warns-future-technology-will-favor-those-who-can-pay-pledging-1-billion-dollars/91405510",
       "source": "inc.com",
@@ -24595,290 +24927,6 @@
       "extractor": "trafilatura",
       "status": "partial",
       "error": "short_text",
-      "first_seen_at": "2026-09-08T17:43:07Z"
-    },
-    {
-      "id": "6f9e2e7f72f31995",
-      "title": "Andrea Fletcher tapped to lead Virginia’s government technology overhaul",
-      "header": "Virginia Mercury",
-      "published_at": "2026-09-08T16:16:18Z",
-      "published_raw": "Tue, 08 Sep 2026 16:16:18 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3hJM19lWVZOTnJRRjZURVpnUFdFaTNjMHlnX3B1MVppaFNrbElnaGdjNnd2MTc1NFhjVkNPZmppem9VRHUwTm9wTEljZXlpWWlXZExlaVdNRHBpY2tCQ0ZlMDdnazZFSk9ZVlRIb19UNjZsWE44OVcyWFZNM2tvRmpUQm9ZVVM5dm9qTW1TVXloYXVRTGFjNjNQZWE3OWRFUjYtUkR0MDZEZkN0UXkzZw?oc=5",
-      "description": "Andrea Fletcher tapped to lead Virginia’s government technology overhaul Virginia Mercury",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3hJM19lWVZOTnJRRjZURVpnUFdFaTNjMHlnX3B1MVppaFNrbElnaGdjNnd2MTc1NFhjVkNPZmppem9VRHUwTm9wTEljZXlpWWlXZExlaVdNRHBpY2tCQ0ZlMDdnazZFSk9ZVlRIb19UNjZsWE44OVcyWFZNM2tvRmpUQm9ZVVM5dm9qTW1TVXloYXVRTGFjNjNQZWE3OWRFUjYtUkR0MDZEZkN0UXkzZw?oc=5\" target=\"_blank\">Andrea Fletcher tapped to lead Virginia’s government technology overhaul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Virginia Mercury</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3hJM19lWVZOTnJRRjZURVpnUFdFaTNjMHlnX3B1MVppaFNrbElnaGdjNnd2MTc1NFhjVkNPZmppem9VRHUwTm9wTEljZXlpWWlXZExlaVdNRHBpY2tCQ0ZlMDdnazZFSk9ZVlRIb19UNjZsWE44OVcyWFZNM2tvRmpUQm9ZVVM5dm9qTW1TVXloYXVRTGFjNjNQZWE3OWRFUjYtUkR0MDZEZkN0UXkzZw?oc=5"
-      ],
-      "scraped_at": "2026-09-08T20:38:48Z",
-      "url": "https://virginiamercury.com/2026/09/08/andrea-fletcher-tapped-to-lead-virginias-government-technology-overhaul/",
-      "final_url": "https://virginiamercury.com/2026/09/08/andrea-fletcher-tapped-to-lead-virginias-government-technology-overhaul/",
-      "source": "Virginia Mercury",
-      "article_title": "Andrea Fletcher tapped to lead Virginia’s government technology overhaul • Virginia Mercury",
-      "heading": "Andrea Fletcher tapped to lead Virginia’s government technology overhaul",
-      "authors": [
-        "Markus Schmidt"
-      ],
-      "article_published_at": "2026-09-08T15:58:28+00:00",
-      "article_modified_at": "2026-09-08T19:45:38+00:00",
-      "summary": "Virginia is creating a team of technology specialists to improve state websites and computer systems while guarding against costly technology contracts and wasted taxpayer dollars. Gov. Abigail Spanberger on Tuesday named Andrea Fletcher director of the new Virginia Digital Service, which will bring together engineers, designers and other technical experts to modernize state government operations and make public services easier to use.",
-      "content": "Andrea Fletcher tapped to lead Virginia’s government technology overhaul\nNew Digital Service agency will focus on modernizing state systems, simplifying access to public services and scrutinizing technology programs.\nAndrea Fletcher will lead the new Virginia Digital Service, a team charged with modernizing state websites and computer systems and improving how the state purchases technology. (Courtesy of Virginia Governor’s Office)\nVirginia is creating a team of technology specialists to improve state websites and computer systems while guarding against costly technology contracts and wasted taxpayer dollars.\nGov. Abigail Spanberger on Tuesday named Andrea Fletcher director of the new Virginia Digital Service, which will bring together engineers, designers and other technical experts to modernize state government operations and make public services easier to use.\nThe team will also review how Virginia buys and uses technology, with an eye toward identifying problems before the state commits taxpayer money to poorly designed systems or contracts.\n“State government should work for the people it serves — and that means making sure Virginians can access the services they need quickly, easily, and reliably,” Spanberger said in a statement.\nSpanberger proposed establishing the Digital Service through an amendment to Virginia’s biennial budget after her administration said it discovered the state had lost $52 million on a failed IT project under former Gov. Glenn Youngkin’s administration.\nThe project involved a two-year effort by the Virginia Department of Social Services to modernize APECS, the state’s decades-old child support enforcement computer system. The department had hired CGI Technologies and Solutions for the project, known as vCHAMPS, but abandoned the overhaul after what an internal report described as “significant issues.”\nUnder Fletcher’s leadership, the team will work with agencies across state government computer systems, improve websites and speed up delivery of programs used by Virginia families, according to the governor’s office.\n“We also have a responsibility to make sure every taxpayer dollar is used as effectively and efficiently as possible,” Spanberger said. “At a time of unprecedented uncertainty and disruption out of Washington, Virginia can — and should — be a model of how we make smart, sound investments in technology.”\nFletcher previously served as the first chief digital officer at the federal Centers for Medicare and Medicaid Services, where she led the agency’s Digital Service team. She also established what the governor’s office called the federal government’s first Open Source Program Office.\nShe began her tenure with the federal government through the U.S. Digital Service in 2021 after working in federal healthcare information technology policy, artificial intelligence governance and global health systems. Her work included projects in more than 20 countries and support for digital health systems responding to COVID-19, Ebola and HIV.\nFletcher received a Service to the Citizen Award in 2025 and was nominated in 2024 for the Samuel J. Heyman award for emerging government leaders.\n“Virginians should have an expectation that government services be intuitive and easy to use,” Fletcher said in a statement. “I’m excited to help deliver on that goal for the people of the commonwealth and demonstrate that government can build great technology.”\nDavid Wilkinson, Virginia’s chief transformation officer, said residents should be able to navigate state systems easily whether they are applying for a driver’s license, opening a business or seeking essential services.\n“In launching the Virginia Digital Service, the governor is bringing a proven approach to Virginia,” Wilkinson said. “Andrea Fletcher is a nationally respected digital leader with a track record of delivering results that save time and money.”\nOriginally from western Pennsylvania’s Appalachian region, Fletcher earned a bachelor’s degree from Washington & Jefferson College and a master’s degree in public health from Emory University. She lives in Alexandria with her husband and daughter.\nOne of the new team’s early assignments will be helping state agencies respond to federal funding and eligibility changes under H.R. 1, the tax and spending reconciliation bill Congress passed last summer at the behest of President Donald Trump.\nThe administration said the Digital Service will support efforts to maintain access to healthcare coverage and Supplemental Nutrition Access Program.\nThe move follows a separate legislative effort to modernize Virginia’s benefits system. House Bill 66, sponsored by Del. Michael Feggans, D-Virginia Beach, would have directed the departments of Social Services and Medical Assistance Services to develop a plan for updating technology used to administer federal medical and other benefit programs. The measure was continued to the 2027 session.\nLast month, Spanberger launched the “Keep Virginia Covered” policy directing executive agencies as they implement the federal law and seek to limit its effect on Virginians.\nVirginia is not the first state to create a government-run technology team. Similar programs elsewhere have been used to review contracts, simply applications for public benefits and rebuild government websites.\nIn Colorado, the state’s digital team helped negotiate a grant-management system covering 17 programs and more than $60 million in annual grants before money was committed to the system.\nPennsylvania used its team to haul over the process for appealing denied insurance claims, replacing what Spanberger’s administration described as a confusing form with a simpler system.\nMeanwhile, Maryland consolidated applications for Medicaid, SNAP, Temporary Assistance for Needy Families, the Special Supplemental Assistance Program for Women, Infants and Children, and energy assistance into a single process. More than 220,000 applications were completed through the new system in six months, according to the state’s Gov. Wes Moore.\nMaryland also redesigned its unemployment insurance website around a five-step process for claimants. The changes reduced the number of pages on the site by 40% and increased its completion rate by 15%.",
-      "content_html": "<html>\n  <body><h1>Andrea Fletcher tapped to lead Virginia’s government technology overhaul</h1><p>New Digital Service agency will focus on modernizing state systems, simplifying access to public services and scrutinizing technology programs.</p><img src=\"https://virginiamercury.com/wp-content/uploads/2026/09/AndreaFletcher6575_2-1536x1229.jpg\"/> <p>Andrea Fletcher will lead the new Virginia Digital Service, a team charged with modernizing state websites and computer systems and improving how the state purchases technology. (Courtesy of Virginia Governor’s Office)</p><p>Virginia is creating a team of technology specialists to improve state websites and computer systems while guarding against costly technology contracts and wasted taxpayer dollars.</p><p>Gov. Abigail Spanberger on Tuesday named Andrea Fletcher director of the new Virginia Digital Service, which will bring together engineers, designers and other technical experts to modernize state government operations and make public services easier to use.</p><p>The team will also review how Virginia buys and uses technology, with an eye toward identifying problems before the state commits taxpayer money to poorly designed systems or contracts.</p><p>“State government should work for the people it serves — and that means making sure Virginians can access the services they need quickly, easily, and reliably,” Spanberger said in a statement.</p><p>Spanberger proposed establishing the Digital Service through an amendment to Virginia’s biennial budget after her administration said it discovered the state had lost $52 million on a failed IT project under former Gov. Glenn Youngkin’s administration.</p><p>The project involved a two-year effort by the Virginia Department of Social Services to modernize APECS, the state’s decades-old child support enforcement computer system. The department had hired CGI Technologies and Solutions for the project, known as vCHAMPS, but abandoned the overhaul after what an internal report described as “significant issues.”</p><p>Under Fletcher’s leadership, the team will work with agencies across state government computer systems, improve websites and speed up delivery of programs used by Virginia families, according to the governor’s office.</p><p>“We also have a responsibility to make sure every taxpayer dollar is used as effectively and efficiently as possible,” Spanberger said. “At a time of unprecedented uncertainty and disruption out of Washington, Virginia can — and should — be a model of how we make smart, sound investments in technology.”</p><p>Fletcher previously served as the first chief digital officer at the federal Centers for Medicare and Medicaid Services, where she led the agency’s Digital Service team. She also established what the governor’s office called the federal government’s first Open Source Program Office.</p><p>She began her tenure with the federal government through the U.S. Digital Service in 2021 after working in federal healthcare information technology policy, artificial intelligence governance and global health systems. Her work included projects in more than 20 countries and support for digital health systems responding to COVID-19, Ebola and HIV.</p><p>Fletcher received a Service to the Citizen Award in 2025 and was nominated in 2024 for the Samuel J. Heyman award for emerging government leaders.</p><p>“Virginians should have an expectation that government services be intuitive and easy to use,” Fletcher said in a statement. “I’m excited to help deliver on that goal for the people of the commonwealth and demonstrate that government can build great technology.”</p><p>David Wilkinson, Virginia’s chief transformation officer, said residents should be able to navigate state systems easily whether they are applying for a driver’s license, opening a business or seeking essential services.</p><p>“In launching the Virginia Digital Service, the governor is bringing a proven approach to Virginia,” Wilkinson said. “Andrea Fletcher is a nationally respected digital leader with a track record of delivering results that save time and money.”</p><p>Originally from western Pennsylvania’s Appalachian region, Fletcher earned a bachelor’s degree from Washington &amp; Jefferson College and a master’s degree in public health from Emory University. She lives in Alexandria with her husband and daughter.</p><p>One of the new team’s early assignments will be helping state agencies respond to federal funding and eligibility changes under H.R. 1, the tax and spending reconciliation bill Congress passed last summer at the behest of President Donald Trump.</p><p>The administration said the Digital Service will support efforts to maintain access to healthcare coverage and Supplemental Nutrition Access Program.</p><p>The move follows a separate legislative effort to modernize Virginia’s benefits system. House Bill 66, sponsored by Del. Michael Feggans, D-Virginia Beach, would have directed the departments of Social Services and Medical Assistance Services to develop a plan for updating technology used to administer federal medical and other benefit programs. The measure was continued to the 2027 session.</p><p>Last month, Spanberger launched the “Keep Virginia Covered” policy directing executive agencies as they implement the federal law and seek to limit its effect on Virginians.</p><p>Virginia is not the first state to create a government-run technology team. Similar programs elsewhere have been used to review contracts, simply applications for public benefits and rebuild government websites.</p><p>In Colorado, the state’s digital team helped negotiate a grant-management system covering 17 programs and more than $60 million in annual grants before money was committed to the system.</p><p>Pennsylvania used its team to haul over the process for appealing denied insurance claims, replacing what Spanberger’s administration described as a confusing form with a simpler system.</p><p>Meanwhile, Maryland consolidated applications for Medicaid, SNAP, Temporary Assistance for Needy Families, the Special Supplemental Assistance Program for Women, Infants and Children, and energy assistance into a single process. More than 220,000 applications were completed through the new system in six months, according to the state’s Gov. Wes Moore.</p><p>Maryland also redesigned its unemployment insurance website around a five-step process for claimants. The changes reduced the number of pages on the site by 40% and increased its completion rate by 15%.</p><p/></body>\n</html>",
-      "word_count": 921,
-      "char_count": 6250,
-      "lead_image": "https://virginiamercury.com/wp-content/uploads/2026/09/AndreaFletcher6575_2-2048x1639.jpg",
-      "images": [
-        {
-          "url": "https://virginiamercury.com/wp-content/uploads/2026/09/AndreaFletcher6575_2-2048x1639.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-08T20:38:48Z"
-    },
-    {
-      "id": "8c9a5dee396aa2e0",
-      "title": "New Cancer Care Technology at Intermountain Health St. Mary’s Improves Precision and Comfort for Western Colorado Patients",
-      "header": "Intermountain Health Newsroom",
-      "published_at": "2026-09-08T16:11:00Z",
-      "published_raw": "Tue, 08 Sep 2026 16:11:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmlnNklKZ2ZaYU1lcXlhYTh0bVFQZWktOW9TVmtVZFN1U1IxQWRobE1KdXY2MVU0bUFwQVhIdGw2T2NTaHZDTFdGTUVQdzhOc3RmbHR6cU9iVmE3Y1RMVnVMMkVZdm92QkQyOEU3M1JFUUtWLTRCQ2gtbFE1bi0wdHU3RlFnRUpLVDMtQ2ZGQVgxZ3h2bU51VG5MUHgyZm9EREhRVk5QTjd6Vk9NbVJsOXFDTm5zZjI1X2VhQTJhYlh5ZWhUcXQ3Mjd6LUlCeVBIZzYzbFczZDNmTloya1BsdFlEUVU4WkhEbG91dGhrWQ?oc=5",
-      "description": "New Cancer Care Technology at Intermountain Health St. Mary’s Improves Precision and Comfort for Western Colorado Patients Intermountain Health Newsroom",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmlnNklKZ2ZaYU1lcXlhYTh0bVFQZWktOW9TVmtVZFN1U1IxQWRobE1KdXY2MVU0bUFwQVhIdGw2T2NTaHZDTFdGTUVQdzhOc3RmbHR6cU9iVmE3Y1RMVnVMMkVZdm92QkQyOEU3M1JFUUtWLTRCQ2gtbFE1bi0wdHU3RlFnRUpLVDMtQ2ZGQVgxZ3h2bU51VG5MUHgyZm9EREhRVk5QTjd6Vk9NbVJsOXFDTm5zZjI1X2VhQTJhYlh5ZWhUcXQ3Mjd6LUlCeVBIZzYzbFczZDNmTloya1BsdFlEUVU4WkhEbG91dGhrWQ?oc=5\" target=\"_blank\">New Cancer Care Technology at Intermountain Health St. Mary’s Improves Precision and Comfort for Western Colorado Patients</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intermountain Health Newsroom</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmlnNklKZ2ZaYU1lcXlhYTh0bVFQZWktOW9TVmtVZFN1U1IxQWRobE1KdXY2MVU0bUFwQVhIdGw2T2NTaHZDTFdGTUVQdzhOc3RmbHR6cU9iVmE3Y1RMVnVMMkVZdm92QkQyOEU3M1JFUUtWLTRCQ2gtbFE1bi0wdHU3RlFnRUpLVDMtQ2ZGQVgxZ3h2bU51VG5MUHgyZm9EREhRVk5QTjd6Vk9NbVJsOXFDTm5zZjI1X2VhQTJhYlh5ZWhUcXQ3Mjd6LUlCeVBIZzYzbFczZDNmTloya1BsdFlEUVU4WkhEbG91dGhrWQ?oc=5"
-      ],
-      "scraped_at": "2026-09-08T17:43:05Z",
-      "url": "https://news.intermountainhealth.org/new-cancer-care-technology-at-intermountain-health-st-marys-improves-precision-and-comfort-for-western-colorado-patients/",
-      "final_url": "https://news.intermountainhealth.org/new-cancer-care-technology-at-intermountain-health-st-marys-improves-precision-and-comfort-for-western-colorado-patients/",
-      "source": "New Cancer Care Technology at Intermountain Health St. Mary’s Improves Precision and Comfort for Western Colorado Patients",
-      "article_title": "New Cancer Care Technology at Intermountain Health St. Mary’s Improves Precision and Comfort for Western Colorado Patients",
-      "heading": "New Cancer Care Technology at Intermountain Health St. Mary’s Improves Precision and Comfort for Western Colorado Patients",
-      "authors": [
-        "Intermountain Health"
-      ],
-      "article_published_at": "2026-09-08T18:11:00+02:00",
-      "article_modified_at": "2026-09-03T17:12:25+02:00",
-      "summary": "Intermountain Health St. Mary’s Regional Hospital has invested more than $2 million for new equipment and technology to improve quality of care and comfort of their patients receiving cancer care in the Grand Junction area.St. Mary’s Cancer Centers of Colorado purchased a new a new computed tomography (CT) scanner that offers several enhance...",
-      "content": "New Cancer Care Technology at Intermountain Health St. Mary’s Improves Precision and Comfort for Western Colorado Patients\nIntermountain Health St. Mary’s Regional Hospital has invested more than $2 million for new equipment and technology to improve quality of care and comfort of their patients receiving cancer care in the Grand Junction area.\nSt. Mary’s Cancer Centers of Colorado purchased a new a new computed tomography (CT) scanner that offers several enhancements over the center’s existing scanner. The new model, a Siemens SOMATOM go.SIM CT Simulator, has access to the latest tools.\nPhysicians rely on having clear images of a patient’s cancerous tumor, so the dosimetrist can create plans of how radiation can target that tumor. Intermountain Health manager of oncology services and radiation oncology April Grumley said that it is important to be as precise as possible when delivering radiation so only the tumor is impacted and surrounding tissue and organs are protected.\nOne of the new tools provides the ability to do a CT scan with contrast. This is a standard imaging procedure in which a dye is injected into the body, and it allows the dosimetrist to better see critical anatomy and certain tumors. This helps the dosimetrist be more precise and develop better treatment plans for patients.\nThe new CT machine also removes metal artifacts such as a pacemaker, dental implants, or the hardware in a shoulder, hip or knee replacement from the images it produces. When those artifacts are removed from the scan, the physicians and dosimetrists can see structures more clearly and create more accurate treatment plans. Previously, patients went to the hospital to have a CT scan with contrast.\nThe cancer center has also expanded the technology that improves how radiation treatments are delivered. Vision RT Surface Guided Radiation Therapy allows the radiation therapist to continually monitor the position of patients throughout treatment. The technology detects even the slightest movement of the patient in real time and can stop the treatment until the patient is positioned correctly. The cancer center has used this type of technology since 2015. Now, with the latest version added to the linear accelerator, they can serve more patients who have a wider range of cancer diagnoses.\n“Perhaps most important for patients is the ability to now wear an open-face mask during treatment,” Grumley said. Previously, patients wore a full-face mask that attaches to the patient's board and keeps them from moving throughout the treatment, which often lasts as long as 15 minutes.\nThe final piece of equipment the cancer center acquired literally makes a small degree of change with the patient but has a big impact on the precision of their treatment, Grumley said. The 6 Degrees of Freedom Treatment Couch can tilt in six directions enabling greater precision in placing the patient, improved treatment accuracy for difficult treatment sites, and better alignment between the daily imaging and treatment delivery.\n“This new equipment and technology is a major advancement for our patients in Western Colorado and shows our commitment to bringing the most advanced capabilities to the Grand Valley,” Grumley said.\nThe new technology will benefit patients diagnosed with several types of cancer including head and neck, brain, and lung.\nCancer Centers of Colorado, St. Mary’s Regional Hospital at 750 Wellington Ave., in Grand Junction offers medical and radiation oncology, genetic counseling, palliative care, clinical trials, support groups and survivorship care. St. Mary’s is accredited by American Society for Radiation Oncology’s Accreditation Program for Excellence, the Commission on Cancer, and the National Accreditation Program for Breast Centers. For more information, visit Intermountain Health St. Mary’s Regional Hospital Cancer.",
-      "content_html": "<html>\n  <body><img src=\"https://content.presspage.com/assets/c906b835ed22c673617c547f72dda4720311a387/images/x-post-flat.png\" alt=\"Post this release on X\" title=\"You can't share via social media in preview mode.\"/>\n                                \n                            <h1>New Cancer Care Technology at Intermountain Health St. Mary’s Improves Precision and Comfort for Western Colorado Patients</h1><img src=\"https://content.presspage.com/uploads/2804/99e6655e-1c0e-4593-b924-8b9d9eb07abf/1920_smrh_closedandopenmasks.jpg?16007\" alt=\"SMRH_closed and open masks\" title=\"SMRH_closed and open masks\"/>   \n             <p>Intermountain Health St. Mary’s Regional Hospital has invested more than $2 million for new equipment and technology to improve quality of care and comfort of their patients receiving cancer care in the Grand Junction area.</p><p>St. Mary’s Cancer Centers of Colorado purchased a new a new computed tomography (CT) scanner that offers several enhancements over the center’s existing scanner. The new model, a Siemens SOMATOM go.SIM CT Simulator, has access to the latest tools.</p><p>Physicians rely on having clear images of a patient’s cancerous tumor, so the dosimetrist can create plans of how radiation can target that tumor. Intermountain Health manager of oncology services and radiation oncology April Grumley said that it is important to be as precise as possible when delivering radiation so only the tumor is impacted and surrounding tissue and organs are protected.</p><p>One of the new tools provides the ability to do a CT scan with contrast. This is a standard imaging procedure in which a dye is injected into the body, and it allows the dosimetrist to better see critical anatomy and certain tumors. This helps the dosimetrist be more precise and develop better treatment plans for patients.</p><p>The new CT machine also removes metal artifacts such as a pacemaker, dental implants, or the hardware in a shoulder, hip or knee replacement from the images it produces. When those artifacts are removed from the scan, the physicians and dosimetrists can see structures more clearly and create more accurate treatment plans. Previously, patients went to the hospital to have a CT scan with contrast.</p><p>The cancer center has also expanded the technology that improves how radiation treatments are delivered. Vision RT Surface Guided Radiation Therapy allows the radiation therapist to continually monitor the position of patients throughout treatment. The technology detects even the slightest movement of the patient in real time and can stop the treatment until the patient is positioned correctly. The cancer center has used this type of technology since 2015. Now, with the latest version added to the linear accelerator, they can serve more patients who have a wider range of cancer diagnoses.</p><p>“Perhaps most important for patients is the ability to now wear an open-face mask during treatment,” Grumley said. Previously, patients wore a full-face mask that attaches to the patient's board and keeps them from moving throughout the treatment, which often lasts as long as 15 minutes.</p><p>The final piece of equipment the cancer center acquired literally makes a small degree of change with the patient but has a big impact on the precision of their treatment, Grumley said. The 6 Degrees of Freedom Treatment Couch can tilt in six directions enabling greater precision in placing the patient, improved treatment accuracy for difficult treatment sites, and better alignment between the daily imaging and treatment delivery.</p><p>“This new equipment and technology is a major advancement for our patients in Western Colorado and shows our commitment to bringing the most advanced capabilities to the Grand Valley,” Grumley said.</p><p>The new technology will benefit patients diagnosed with several types of cancer including head and neck, brain, and lung.</p><p>Cancer Centers of Colorado, St. Mary’s Regional Hospital at 750 Wellington Ave., in Grand Junction offers medical and radiation oncology, genetic counseling, palliative care, clinical trials, support groups and survivorship care. St. Mary’s is accredited by American Society for Radiation Oncology’s Accreditation Program for Excellence, the Commission on Cancer, and the National Accreditation Program for Breast Centers. For more information, visit Intermountain Health St. Mary’s Regional Hospital Cancer.</p></body>\n</html>",
-      "word_count": 599,
-      "char_count": 3862,
-      "lead_image": "https://content.presspage.com/uploads/2804/99e6655e-1c0e-4593-b924-8b9d9eb07abf/cf1920_smrh_closedandopenmasks.jpg?16007",
-      "images": [
-        {
-          "url": "https://content.presspage.com/uploads/2804/99e6655e-1c0e-4593-b924-8b9d9eb07abf/cf1920_smrh_closedandopenmasks.jpg?16007",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://content.presspage.com/uploads/2804/99e6655e-1c0e-4593-b924-8b9d9eb07abf/1920_smrh_closedandopenmasks.jpg?16007",
-          "alt": "SMRH_closed and open masks",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 2,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-08T17:43:05Z"
-    },
-    {
-      "id": "0402c2c1754de906",
-      "title": "Andrea Fletcher tapped to lead Virginia’s government technology overhaul",
-      "header": "News From The States",
-      "published_at": "2026-09-08T15:58:28Z",
-      "published_raw": "Tue, 08 Sep 2026 15:58:28 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWMweGdLcU94bmFHWVQ4VXVPcFg2Qjd3R21VM3FaSF9VSTRsaVRRcFRNeV96WDc0X09uakNsTlZuQTlkYXN6SWY5dE5rWEdMQmVOMnVjalY4V1lhV0gzTFQtSG9pMjk5OGYwTTl1SmMySjhFYUlqaURwcEFlaGpWbTNwZ0JGLXl1bDhIeWU5eE50OWY5NzVkdUFQaXV4NWlxSkdlMW1WY2IwVVU1NHQ4?oc=5",
-      "description": "Andrea Fletcher tapped to lead Virginia’s government technology overhaul News From The States",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWMweGdLcU94bmFHWVQ4VXVPcFg2Qjd3R21VM3FaSF9VSTRsaVRRcFRNeV96WDc0X09uakNsTlZuQTlkYXN6SWY5dE5rWEdMQmVOMnVjalY4V1lhV0gzTFQtSG9pMjk5OGYwTTl1SmMySjhFYUlqaURwcEFlaGpWbTNwZ0JGLXl1bDhIeWU5eE50OWY5NzVkdUFQaXV4NWlxSkdlMW1WY2IwVVU1NHQ4?oc=5\" target=\"_blank\">Andrea Fletcher tapped to lead Virginia’s government technology overhaul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News From The States</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWMweGdLcU94bmFHWVQ4VXVPcFg2Qjd3R21VM3FaSF9VSTRsaVRRcFRNeV96WDc0X09uakNsTlZuQTlkYXN6SWY5dE5rWEdMQmVOMnVjalY4V1lhV0gzTFQtSG9pMjk5OGYwTTl1SmMySjhFYUlqaURwcEFlaGpWbTNwZ0JGLXl1bDhIeWU5eE50OWY5NzVkdUFQaXV4NWlxSkdlMW1WY2IwVVU1NHQ4?oc=5"
-      ],
-      "scraped_at": "2026-09-08T17:43:05Z",
-      "url": "https://www.newsfromthestates.com/article/andrea-fletcher-tapped-lead-virginias-government-technology-overhaul",
-      "final_url": "https://www.newsfromthestates.com/article/andrea-fletcher-tapped-lead-virginias-government-technology-overhaul",
-      "source": "News From The States",
-      "article_title": "",
-      "heading": "Andrea Fletcher tapped to lead Virginia’s government technology overhaul",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Andrea Fletcher tapped to lead Virginia’s government technology overhaul News From The States",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-08T17:43:05Z"
-    },
-    {
-      "id": "e210059e2f108bb2",
-      "title": "Cincinnati Bengals add one of region’s largest companies as major corporate partner",
-      "header": "The Business Journals",
-      "published_at": "2026-09-08T15:51:00Z",
-      "published_raw": "Tue, 08 Sep 2026 15:51:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYXBzNkppRGtvNk1YV0txX3plVzJVbEctc1lVQk5tUExLYjlOZDhwN3B4TmJJSF94OUZEN0lqaXp2NEU4a29jWklPcEdEVFZvc0d2Z0hOTkM3QS04akVRMVRLVGp1QUxoLXJIWENia0FZOERNQjBTd2JWR2oxczZYZTA3eVNQN3BHeE4wS29FekFqY3VKSFdwOXFzUHRfV09HTkZ2RklDVUNYY0g1?oc=5",
-      "description": "Cincinnati Bengals add one of region’s largest companies as major corporate partner The Business Journals",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOYXBzNkppRGtvNk1YV0txX3plVzJVbEctc1lVQk5tUExLYjlOZDhwN3B4TmJJSF94OUZEN0lqaXp2NEU4a29jWklPcEdEVFZvc0d2Z0hOTkM3QS04akVRMVRLVGp1QUxoLXJIWENia0FZOERNQjBTd2JWR2oxczZYZTA3eVNQN3BHeE4wS29FekFqY3VKSFdwOXFzUHRfV09HTkZ2RklDVUNYY0g1?oc=5\" target=\"_blank\">Cincinnati Bengals add one of region’s largest companies as major corporate partner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYXBzNkppRGtvNk1YV0txX3plVzJVbEctc1lVQk5tUExLYjlOZDhwN3B4TmJJSF94OUZEN0lqaXp2NEU4a29jWklPcEdEVFZvc0d2Z0hOTkM3QS04akVRMVRLVGp1QUxoLXJIWENia0FZOERNQjBTd2JWR2oxczZYZTA3eVNQN3BHeE4wS29FekFqY3VKSFdwOXFzUHRfV09HTkZ2RklDVUNYY0g1?oc=5"
-      ],
-      "scraped_at": "2026-09-08T23:08:58Z",
-      "url": "https://www.bizjournals.com/cincinnati/news/2026/09/08/bengals-add-cbts-corporate-partner-tech-provider.html",
-      "final_url": "https://www.bizjournals.com/cincinnati/news/2026/09/08/bengals-add-cbts-corporate-partner-tech-provider.html",
-      "source": "The Business Journals",
-      "article_title": "",
-      "heading": "Cincinnati Bengals add one of region’s largest companies as major corporate partner",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Cincinnati Bengals add one of region’s largest companies as major corporate partner The Business Journals",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-08T23:08:58Z"
-    },
-    {
-      "id": "ca92c457f0cf0f7a",
-      "title": "Trinity Health plans to lay off 500 information technology-related roles",
-      "header": "CBS News",
-      "published_at": "2026-09-08T15:19:01Z",
-      "published_raw": "Tue, 08 Sep 2026 15:19:01 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMm93TkV3dDBybDA1SU1OZXNzYzM0YkNIU1ppQ3ZZSHRIREY0dmFNdVFoQ1dyN0w3OHl2T2xJYzk3TFliZzRmajVldTBmSXJpWkg0M0VzNGNjY3llc0hTeW5mREtQN2hBQ0RCNnB0d3FfaEU4dG1VajZGaHN6WnlyNm5ZZEdUVUkxekVrT3JwQTRHb1VnT1pUZ1R0OER4WHc?oc=5",
-      "description": "Trinity Health plans to lay off 500 information technology-related roles CBS News",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOMm93TkV3dDBybDA1SU1OZXNzYzM0YkNIU1ppQ3ZZSHRIREY0dmFNdVFoQ1dyN0w3OHl2T2xJYzk3TFliZzRmajVldTBmSXJpWkg0M0VzNGNjY3llc0hTeW5mREtQN2hBQ0RCNnB0d3FfaEU4dG1VajZGaHN6WnlyNm5ZZEdUVUkxekVrT3JwQTRHb1VnT1pUZ1R0OER4WHc?oc=5\" target=\"_blank\">Trinity Health plans to lay off 500 information technology-related roles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMm93TkV3dDBybDA1SU1OZXNzYzM0YkNIU1ppQ3ZZSHRIREY0dmFNdVFoQ1dyN0w3OHl2T2xJYzk3TFliZzRmajVldTBmSXJpWkg0M0VzNGNjY3llc0hTeW5mREtQN2hBQ0RCNnB0d3FfaEU4dG1VajZGaHN6WnlyNm5ZZEdUVUkxekVrT3JwQTRHb1VnT1pUZ1R0OER4WHc?oc=5"
-      ],
-      "scraped_at": "2026-09-08T17:43:05Z",
-      "url": "https://www.cbsnews.com/detroit/news/trinity-health-plans-to-lay-off-information-technology-roles/",
-      "final_url": "https://www.cbsnews.com/detroit/news/trinity-health-plans-to-lay-off-information-technology-roles/",
-      "source": "CBS News",
-      "article_title": "Trinity Health plans to lay off 500 information technology-related roles",
-      "heading": "Trinity Health plans to lay off 500 information technology-related roles",
-      "authors": [
-        "Paula  Wethington"
-      ],
-      "article_published_at": "2026-09-08T11:19:01-0400",
-      "article_modified_at": "2026-09-08T11:19:01-0400",
-      "summary": "Trinity Health Corp. expects to permanently lay off 557 workers in Wayne County as part of a restructuring effort.",
-      "content": "Trinity Health plans to lay off 500 information technology-related roles\nTrinity Health Corp. expects to permanently lay off 557 workers in Wayne County, Michigan, as part of a restructuring effort.\nThe details of the layoffs were related in a WARN Act notice filed with the Michigan Department of Labor and Economic Opportunity.\nThe Worker Adjustment and Retraining Notification Act, also known as the WARN Act, requires companies undergoing mass layoffs and/or site closures to issue advance public notice to the state's labor department if certain size or employment thresholds are met.\nThe layoffs from its site on Victor Parkway in Livonia will take effect between October 25 and November 19, the notice said. The affected positions include service desk support, systems administrators, data engineers and information technology roles.\nTrinity Health, which is based in Livonia, is one of the country's largest faith-based health care systems. Its network includes hospitals, surgery centers and senior care facilities. The corporation had about 133,000 employees during its June 2025 year-end report.\nA quarterly report issued for the time frame ending on March 31, 2026, said \"to address ongoing industry pressure and evolving legislative impacts,\" the corporation would \"redesign and reposition\" some of its services.\nThe company also announced in June that it would move some of its in-house technology and information services roles to an outside partner. \"This change affects TIS roles that involve internal technology support services, including the service desk and applications support. It does not affect clinical, patient-facing roles,\" the announcement said.",
-      "content_html": "<html>\n  <body>\n    <h1>Trinity Health plans to lay off 500 information technology-related roles</h1>\n    <p>Trinity Health Corp. expects to permanently lay off 557 workers in Wayne County, Michigan, as part of a restructuring effort.</p>\n    <p>The details of the layoffs were related in a WARN Act notice filed with the Michigan Department of Labor and Economic Opportunity.</p>\n    <p>The Worker Adjustment and Retraining Notification Act, also known as the WARN Act, requires companies undergoing mass layoffs and/or site closures to issue advance public notice to the state's labor department if certain size or employment thresholds are met.</p>\n    <p>The layoffs from its site on Victor Parkway in Livonia will take effect between October 25 and November 19, the notice said. The affected positions include service desk support, systems administrators, data engineers and information technology roles.</p>\n    <p>Trinity Health, which is based in Livonia, is one of the country's largest faith-based health care systems. Its network includes hospitals, surgery centers and senior care facilities. The corporation had about 133,000 employees during its June 2025 year-end report.</p>\n    <p>A quarterly report issued for the time frame ending on March 31, 2026, said \"to address ongoing industry pressure and evolving legislative impacts,\" the corporation would \"redesign and reposition\" some of its services.</p>\n    <p>The company also announced in June that it would move some of its in-house technology and information services roles to an outside partner. \"This change affects TIS roles that involve internal technology support services, including the service desk and applications support. It does not affect clinical, patient-facing roles,\" the announcement said.</p>\n  </body>\n</html>",
-      "word_count": 251,
-      "char_count": 1675,
-      "lead_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/08/ce460d9e-0322-4912-8691-82f2bf41ccf9/thumbnail/1200x630/714e8963232e5470627bd68a82b03280/trinity-health-slider.jpg",
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/08/ce460d9e-0322-4912-8691-82f2bf41ccf9/thumbnail/1200x630/714e8963232e5470627bd68a82b03280/trinity-health-slider.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-08T17:43:05Z"
-    },
-    {
-      "id": "f4def263ee9ed8cf",
-      "title": "Spanberger is creating a new state technology team",
-      "header": "Virginia Scope",
-      "published_at": "2026-09-08T15:10:17Z",
-      "published_raw": "Tue, 08 Sep 2026 15:10:17 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPckdQb29uTklxblJTY05RMFZJX1gzUENLdGMtUXA5NjNfdldCYi1WR2VfX3BOb3MwS3dEREtMNzRSajgxQ245TjNCaFhwRHJjSTlmcDVDVHBGMlI1c09xX1BTRjRIVFVPMVpncFZvTW54VTRSejVLVUR6OTVYRDNaZjhsYmc4VC1h?oc=5",
-      "description": "Spanberger is creating a new state technology team Virginia Scope",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPckdQb29uTklxblJTY05RMFZJX1gzUENLdGMtUXA5NjNfdldCYi1WR2VfX3BOb3MwS3dEREtMNzRSajgxQ245TjNCaFhwRHJjSTlmcDVDVHBGMlI1c09xX1BTRjRIVFVPMVpncFZvTW54VTRSejVLVUR6OTVYRDNaZjhsYmc4VC1h?oc=5\" target=\"_blank\">Spanberger is creating a new state technology team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Virginia Scope</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPckdQb29uTklxblJTY05RMFZJX1gzUENLdGMtUXA5NjNfdldCYi1WR2VfX3BOb3MwS3dEREtMNzRSajgxQ245TjNCaFhwRHJjSTlmcDVDVHBGMlI1c09xX1BTRjRIVFVPMVpncFZvTW54VTRSejVLVUR6OTVYRDNaZjhsYmc4VC1h?oc=5"
-      ],
-      "scraped_at": "2026-09-08T17:43:03Z",
-      "url": "https://www.virginiascope.com/spanberger-is-creating-a-new-state-technology-team/",
-      "final_url": "https://www.virginiascope.com/spanberger-is-creating-a-new-state-technology-team/",
-      "source": "Virginia Scope",
-      "article_title": "Spanberger is creating a new state technology team",
-      "heading": "Spanberger is creating a new state technology team",
-      "authors": [
-        "vascope"
-      ],
-      "article_published_at": "2026-09-08T15:06:35+00:00",
-      "article_modified_at": "2026-09-08T15:06:38+00:00",
-      "summary": "Gov. Abigail Spanberger is creating a new state technology team after her administration says it uncovered $52 million that was lost on a failed effort to replace Virginia’s child support enforcement system under the previous administration.",
-      "content": "Gov. Abigail Spanberger is creating a new state technology team after her administration says it uncovered $52 million that was lost on a failed effort to replace Virginia’s child support enforcement system under the previous administration.\nSpanberger on Tuesday announced that Andrea Fletcher, a former federal digital services official, will lead the Virginia Digital Service, which is intended to bring engineers, designers and other technology experts into state government to improve websites, modernize outdated systems and scrutinize technology contracts.\nVirginia’s recently approved two-year budget included the new office after Spanberger proposed startup funding. The administration says the goal is not simply to make state websites easier to use, but to prevent the kind of costly technology failures that have plagued government agencies.\nSpanberger has criticized her predecessor, Republican Gov. Glenn Youngkin, over the $52 million loss, saying the state paid millions for technology that did not work as intended.\n“My predecessor might have thought it was okay to just write off losses like this one, but I don’t,” Spanberger said last month.\nThe state budget now requires the Department of Social Services to provide quarterly reports on spending and implementation of a new child support technology system.\n“State government should work for the people it serves — and that means making sure Virginians can access the services they need quickly, easily, and reliably,” Spanberger said in a statement announcing Fletcher’s appointment.\nFletcher comes to Virginia after working in the federal government, where she served as the first chief digital strategy officer at the Centers for Medicare and Medicaid Services. She previously led the CMS Digital Service team and established an open-source program office.\nShe entered government through the U.S. Digital Service in 2021. Her career has also included work on federal health IT policy, artificial intelligence governance and digital health systems in more than 20 countries.\n“Virginians should have an expectation that government services be intuitive and easy to use,” Fletcher said.\nThe new team is also expected to work on issues created by changes in federal policy. Spanberger’s administration says the Digital Service will help agencies respond to federal cuts affecting programs such as health care coverage and SNAP.\nSpanberger’s announcement pointed to digital service teams in other states as examples of what Virginia hopes to accomplish.\nColorado’s team helped the state evaluate a proposed grant management system covering 17 programs and more than $60 million in annual grants before the state committed to the system, according to Spanberger’s office.\nIn Maryland, a digital services team created a single application for Medicaid, SNAP, TANF, WIC and energy assistance. The state says more than 220,000 applications were completed in less than six months.\nMaryland also redesigned its unemployment insurance website, reducing the number of pages by 40% and increasing the completion rate by 15%, according to Spanberger.\nThe Virginia Digital Service will operate alongside the Virginia Information Technologies Agency, the state’s existing central technology agency, which oversees information technology infrastructure and major technology investments.",
-      "content_html": "<html>\n  <body>\n    <p>Gov. Abigail Spanberger is creating a new state technology team after her administration says it uncovered $52 million that was lost on a failed effort to replace Virginia’s child support enforcement system under the previous administration.</p>\n    <p>Spanberger on Tuesday announced that Andrea Fletcher, a former federal digital services official, will lead the Virginia Digital Service, which is intended to bring engineers, designers and other technology experts into state government to improve websites, modernize outdated systems and scrutinize technology contracts.</p>\n    <p>Virginia’s recently approved two-year budget included the new office after Spanberger proposed startup funding. The administration says the goal is not simply to make state websites easier to use, but to prevent the kind of costly technology failures that have plagued government agencies.</p>\n    <p>Spanberger has criticized her predecessor, Republican Gov. Glenn Youngkin, over the $52 million loss, saying the state paid millions for technology that did not work as intended.</p>\n    <p>“My predecessor might have thought it was okay to just write off losses like this one, but I don’t,” Spanberger said last month.</p>\n    <p>The state budget now requires the Department of Social Services to provide quarterly reports on spending and implementation of a new child support technology system.</p>\n    <p>“State government should work for the people it serves — and that means making sure Virginians can access the services they need quickly, easily, and reliably,” Spanberger said in a statement announcing Fletcher’s appointment.</p>\n    <p>Fletcher comes to Virginia after working in the federal government, where she served as the first chief digital strategy officer at the Centers for Medicare and Medicaid Services. She previously led the CMS Digital Service team and established an open-source program office.</p>\n    <p>She entered government through the U.S. Digital Service in 2021. Her career has also included work on federal health IT policy, artificial intelligence governance and digital health systems in more than 20 countries.</p>\n    <p>“Virginians should have an expectation that government services be intuitive and easy to use,” Fletcher said.</p>\n    <p>The new team is also expected to work on issues created by changes in federal policy. Spanberger’s administration says the Digital Service will help agencies respond to federal cuts affecting programs such as health care coverage and SNAP.</p>\n    <p>Spanberger’s announcement pointed to digital service teams in other states as examples of what Virginia hopes to accomplish.</p>\n    <p>Colorado’s team helped the state evaluate a proposed grant management system covering 17 programs and more than $60 million in annual grants before the state committed to the system, according to Spanberger’s office.</p>\n    <p>In Maryland, a digital services team created a single application for Medicaid, SNAP, TANF, WIC and energy assistance. The state says more than 220,000 applications were completed in less than six months.</p>\n    <p>Maryland also redesigned its unemployment insurance website, reducing the number of pages by 40% and increasing the completion rate by 15%, according to Spanberger.</p>\n    <p>The Virginia Digital Service will operate alongside the Virginia Information Technologies Agency, the state’s existing central technology agency, which oversees information technology infrastructure and major technology investments.</p>\n  </body>\n</html>",
-      "word_count": 494,
-      "char_count": 3341,
-      "lead_image": "https://www.virginiascope.com/wp-content/uploads/2026/05/Abigail-Spanberger-monday-1-scaled.jpeg",
-      "images": [
-        {
-          "url": "https://www.virginiascope.com/wp-content/uploads/2026/05/Abigail-Spanberger-monday-1-scaled.jpeg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-08T17:43:03Z"
-    },
-    {
-      "id": "3af25592e0eb48e5",
-      "title": "SiriusXM Names Sean Gibbons Chief Product and Technology Officer",
-      "header": "PR Newswire",
-      "published_at": "2026-09-08T15:00:00Z",
-      "published_raw": "Tue, 08 Sep 2026 15:00:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLXJWZHRlYTUxenJLNkh1UDNTdDJaUnNUUjNuM3NOYnhrajV5SmtHS3o1ZWptU1NKcl9qelJOcG9Fb01oZEN5QW5waDhsQXlyQXdCd19YT3JlYXhyZGg1RWZiVVVRVlc1QWRzQjJ2Y0lFT0VlcmN6VnhMa3JDQjJ1Y3E3eXBOWHRtZ1ZGbTZmTk9YTEpiNTNpdEtYZTBSek0tQmctRGxLYnBLOHdpZ2xTUEw2UVNNQ2U3TmxFZg?oc=5",
-      "description": "SiriusXM Names Sean Gibbons Chief Product and Technology Officer PR Newswire",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQLXJWZHRlYTUxenJLNkh1UDNTdDJaUnNUUjNuM3NOYnhrajV5SmtHS3o1ZWptU1NKcl9qelJOcG9Fb01oZEN5QW5waDhsQXlyQXdCd19YT3JlYXhyZGg1RWZiVVVRVlc1QWRzQjJ2Y0lFT0VlcmN6VnhMa3JDQjJ1Y3E3eXBOWHRtZ1ZGbTZmTk9YTEpiNTNpdEtYZTBSek0tQmctRGxLYnBLOHdpZ2xTUEw2UVNNQ2U3TmxFZg?oc=5\" target=\"_blank\">SiriusXM Names Sean Gibbons Chief Product and Technology Officer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLXJWZHRlYTUxenJLNkh1UDNTdDJaUnNUUjNuM3NOYnhrajV5SmtHS3o1ZWptU1NKcl9qelJOcG9Fb01oZEN5QW5waDhsQXlyQXdCd19YT3JlYXhyZGg1RWZiVVVRVlc1QWRzQjJ2Y0lFT0VlcmN6VnhMa3JDQjJ1Y3E3eXBOWHRtZ1ZGbTZmTk9YTEpiNTNpdEtYZTBSek0tQmctRGxLYnBLOHdpZ2xTUEw2UVNNQ2U3TmxFZg?oc=5"
-      ],
-      "scraped_at": "2026-09-08T17:43:07Z",
-      "url": "https://www.prnewswire.com/news-releases/siriusxm-names-sean-gibbons-chief-product-and-technology-officer-302872401.html",
-      "final_url": "https://www.prnewswire.com/news-releases/siriusxm-names-sean-gibbons-chief-product-and-technology-officer-302872401.html",
-      "source": "prnewswire.com",
-      "article_title": "SiriusXM Names Sean Gibbons Chief Product and Technology Officer",
-      "heading": "SiriusXM Names Sean Gibbons Chief Product and Technology Officer",
-      "authors": [
-        "Sirius XM Holdings Inc."
-      ],
-      "article_published_at": "2026-09-08T11:00:00-04:00",
-      "article_modified_at": "2026-09-08T11:00:00-04:00",
-      "summary": "/PRNewswire/ -- SiriusXM (NASDAQ: SIRI) today announced that Sean Gibbons has been promoted to Senior Vice President, Chief Product and Technology Officer,...",
-      "content": "Longtime SiriusXM leader will advance the Company's product experiences and technology strategy\nNEW YORK, Sept. 8, 2026 /PRNewswire/ -- SiriusXM (NASDAQ: SIRI) today announced that Sean Gibbons has been promoted to Senior Vice President, Chief Product and Technology Officer, reporting to Chief Executive Officer Jennifer Witz and joining the Company's Executive Leadership Team. In this role, Gibbons will lead product and technology across SiriusXM and Pandora, with responsibility for product strategy and development, technology platforms and engineering, automotive and streaming distribution partnerships, and advertising technology.\n\"Sean has helped shape SiriusXM through some of our most important product and technology transformations, including the development and successful rollout of SiriusXM with 360L,\" said Jennifer Witz, Chief Executive Officer, SiriusXM. \"He brings more than two decades of experience, deep knowledge of our business and a strong track record of bringing together teams, technology and partnerships to deliver for consumers. Sean is a highly respected leader and the right person to help us accelerate innovation, improve the customer experience and advance the products, platforms and partnerships that will support our growth.\"\nGibbons' key priorities will include advancing SiriusXM with 360L and the Company's next generation of in-car experiences; shaping the long-term technology roadmap supporting SiriusXM's satellite, broadcast and streaming platforms; applying AI to improve personalization, discovery and customer service; and creating more dynamic, connected and participatory experiences across SiriusXM's in-vehicle and streaming platforms.\n\"SiriusXM has a unique set of assets and a tremendous opportunity to make them work together even more powerfully for listeners,\" said Gibbons. \"We can pair the reach and reliability of satellite with the flexibility of streaming and the intelligence of AI to make it easier for people to discover what they love, stay connected wherever they listen and participate more deeply in the content and moments that matter to them. I'm excited to take on this role and help shape the next generation of the SiriusXM experience.\"\nGibbons joined Sirius in 2000, before the company's first satellite launch, and has held leadership roles spanning product management, engineering, automotive, streaming, content technology and strategic partnerships. During his tenure, he established SiriusXM's first formal Product Management organization and later founded and led its first Streaming organization, expanding the SiriusXM experience across mobile, web and connected-home platforms.\nMost recently, Gibbons led SiriusXM's Automotive organization, bringing together product, user experience, engineering and automotive partnerships to advance the company's in-vehicle experiences and relationships with leading automakers. Across more than two decades at SiriusXM, he has played a central role in many of the Company's most significant product and technology transformations, including its evolution toward connected, software-defined vehicle experiences and hybrid satellite-and-IP services.\nAbout Sirius XM Holdings Inc.\nSiriusXM is the leading audio entertainment company in North America, with a portfolio of audio businesses including its flagship subscription entertainment service SiriusXM; the ad-supported and premium music streaming services of Pandora; an expansive podcast network; and a complete ecosystem of advertising solutions through SiriusXM Media and AdsWizz. SiriusXM offers live, on-demand, and human-curated programming across music, talk, news, sports, and podcasts, and the company reaches approximately 255 million monthly listeners across its platforms. With deep automotive manufacturer relationships and unique spectrum assets, SiriusXM is built to reach listeners wherever they are. The company connects fans to the voices, creators, and moments they love - creating communities where listeners engage, participate, and belong. For more about SiriusXM, please go to: https://www.siriusxm.com/\nSource: SiriusXM\nInvestor Contact:\n[email protected]\nMedia Contact:\nZak Paget\n[email protected]\nSOURCE Sirius XM Holdings Inc.",
-      "content_html": "<html>\n  <body><img src=\"https://www.prnewswire.com/content/dam/amplify-logo.png\"/><h1>SiriusXM Names Sean Gibbons Chief Product and Technology Officer</h1><p>Longtime SiriusXM leader will advance the Company's product experiences and technology strategy</p><p>NEW YORK, Sept. 8, 2026 /PRNewswire/ -- SiriusXM (NASDAQ: SIRI) today announced that Sean Gibbons has been promoted to Senior Vice President, Chief Product and Technology Officer, reporting to Chief Executive Officer Jennifer Witz and joining the Company's Executive Leadership Team. In this role, Gibbons will lead product and technology across SiriusXM and Pandora, with responsibility for product strategy and development, technology platforms and engineering, automotive and streaming distribution partnerships, and advertising technology.</p><p>\"Sean has helped shape SiriusXM through some of our most important product and technology transformations, including the development and successful rollout of SiriusXM with 360L,\" said Jennifer Witz, Chief Executive Officer, SiriusXM. \"He brings more than two decades of experience, deep knowledge of our business and a strong track record of bringing together teams, technology and partnerships to deliver for consumers. Sean is a highly respected leader and the right person to help us accelerate innovation, improve the customer experience and advance the products, platforms and partnerships that will support our growth.\"</p><p>Gibbons' key priorities will include advancing SiriusXM with 360L and the Company's next generation of in-car experiences; shaping the long-term technology roadmap supporting SiriusXM's satellite, broadcast and streaming platforms; applying AI to improve personalization, discovery and customer service; and creating more dynamic, connected and participatory experiences across SiriusXM's in-vehicle and streaming platforms.</p><p>\"SiriusXM has a unique set of assets and a tremendous opportunity to make them work together even more powerfully for listeners,\" said Gibbons. \"We can pair the reach and reliability of satellite with the flexibility of streaming and the intelligence of AI to make it easier for people to discover what they love, stay connected wherever they listen and participate more deeply in the content and moments that matter to them. I'm excited to take on this role and help shape the next generation of the SiriusXM experience.\"</p><p>Gibbons joined Sirius in 2000, before the company's first satellite launch, and has held leadership roles spanning product management, engineering, automotive, streaming, content technology and strategic partnerships. During his tenure, he established SiriusXM's first formal Product Management organization and later founded and led its first Streaming organization, expanding the SiriusXM experience across mobile, web and connected-home platforms.</p><p>Most recently, Gibbons led SiriusXM's Automotive organization, bringing together product, user experience, engineering and automotive partnerships to advance the company's in-vehicle experiences and relationships with leading automakers. Across more than two decades at SiriusXM, he has played a central role in many of the Company's most significant product and technology transformations, including its evolution toward connected, software-defined vehicle experiences and hybrid satellite-and-IP services.</p><p>About Sirius XM Holdings Inc.<br/>SiriusXM is the leading audio entertainment company in North America, with a portfolio of audio businesses including its flagship subscription entertainment service SiriusXM; the ad-supported and premium music streaming services of Pandora; an expansive podcast network; and a complete ecosystem of advertising solutions through SiriusXM Media and AdsWizz. SiriusXM offers live, on-demand, and human-curated programming across music, talk, news, sports, and podcasts, and the company reaches approximately 255 million monthly listeners across its platforms. With deep automotive manufacturer relationships and unique spectrum assets, SiriusXM is built to reach listeners wherever they are. The company connects fans to the voices, creators, and moments they love - creating communities where listeners engage, participate, and belong. For more about SiriusXM, please go to: https://www.siriusxm.com/</p><p>Source: SiriusXM</p><p>Investor Contact:<br/>[email protected]</p><p>Media Contact: <br/>Zak Paget<br/>[email protected]</p><p>SOURCE Sirius XM Holdings Inc.</p><img src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY42062&amp;Transmission_Id=202609081100PR_NEWS_USPR_____NY42062&amp;DateId=20260908\"/>\n          \n        <img src=\"https://www.prnewswire.com/content/dam/newWidget-desktop.png\"/>\n               <h2>21%</h2><img src=\"https://www.prnewswire.com/content/dam/amplify-logo.png\"/></body>\n</html>",
-      "word_count": 580,
-      "char_count": 4230,
-      "lead_image": "https://rt.prnewswire.com/rt.gif?NewsItemId=NY42062&Transmission_Id=202609081100PR_NEWS_USPR_____NY42062&DateId=20260908",
-      "images": [
-        {
-          "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=NY42062&Transmission_Id=202609081100PR_NEWS_USPR_____NY42062&DateId=20260908",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
       "first_seen_at": "2026-09-08T17:43:07Z"
     }
   ]
