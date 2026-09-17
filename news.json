@@ -1,17 +1,148 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-17T21:54:47Z",
+  "generated_at": "2026-09-17T23:52:39Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 16,
-    "added": 10,
+    "scraped_now": 10,
+    "added": 4,
     "updated": 6,
-    "ok": 375,
-    "failed": 125,
-    "duration_seconds": 102.86
+    "ok": 372,
+    "failed": 128,
+    "duration_seconds": 4.78
   },
   "articles": [
+    {
+      "id": "10ada13868705c48",
+      "title": "The barrier stalling digital transformation isn’t legacy technology",
+      "header": "beckersoncology.com",
+      "published_at": "2026-09-17T23:04:52Z",
+      "published_raw": "Thu, 17 Sep 2026 23:04:52 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMTdES1ZROEJGOGVVd2RhVUZ6T09UdWw1ZWUyVUhWclU0V1FGbVlWSEtzUkZqbGV4TmtDTW5zeVdjNTR0enRGMjNzR3l6cUJ3RnBGWW8yODVYa1NyUXRaXzFxWlJFTFRYUXo3X3Zzbm03OVkybk1CWUF2S0pLY01oRUpVV1pJY2dOcGFWX0dwQWZmWFFXTENJUjhXLVRoV001cnc5TXJiVzhZcUFlSEJjcXZjdUhvckJ5TXRrQWd3NVJoakd2LVlRY0RJcGU4bExsLUtj?oc=5",
+      "description": "The barrier stalling digital transformation isn’t legacy technology beckersoncology.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMTdES1ZROEJGOGVVd2RhVUZ6T09UdWw1ZWUyVUhWclU0V1FGbVlWSEtzUkZqbGV4TmtDTW5zeVdjNTR0enRGMjNzR3l6cUJ3RnBGWW8yODVYa1NyUXRaXzFxWlJFTFRYUXo3X3Zzbm03OVkybk1CWUF2S0pLY01oRUpVV1pJY2dOcGFWX0dwQWZmWFFXTENJUjhXLVRoV001cnc5TXJiVzhZcUFlSEJjcXZjdUhvckJ5TXRrQWd3NVJoakd2LVlRY0RJcGU4bExsLUtj?oc=5\" target=\"_blank\">The barrier stalling digital transformation isn’t legacy technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">beckersoncology.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMTdES1ZROEJGOGVVd2RhVUZ6T09UdWw1ZWUyVUhWclU0V1FGbVlWSEtzUkZqbGV4TmtDTW5zeVdjNTR0enRGMjNzR3l6cUJ3RnBGWW8yODVYa1NyUXRaXzFxWlJFTFRYUXo3X3Zzbm03OVkybk1CWUF2S0pLY01oRUpVV1pJY2dOcGFWX0dwQWZmWFFXTENJUjhXLVRoV001cnc5TXJiVzhZcUFlSEJjcXZjdUhvckJ5TXRrQWd3NVJoakd2LVlRY0RJcGU4bExsLUtj?oc=5"
+      ],
+      "scraped_at": "2026-09-17T23:52:36Z",
+      "url": "https://www.beckersoncology.com/whitepapers/the-barrier-stalling-digital-transformation-isnt-legacy-technology/?utm_content=homepagetitle",
+      "final_url": "https://www.beckersoncology.com/whitepapers/the-barrier-stalling-digital-transformation-isnt-legacy-technology/?utm_content=homepagetitle",
+      "source": "beckersoncology.com",
+      "article_title": "",
+      "heading": "The barrier stalling digital transformation isn’t legacy technology",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "The barrier stalling digital transformation isn’t legacy technology beckersoncology.com",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-17T23:52:36Z"
+    },
+    {
+      "id": "081aa6266ac7319a",
+      "title": "City of Raleigh Uses Drones, AI Technology to Create Digital Twin",
+      "header": "Dronelife",
+      "published_at": "2026-09-17T22:48:19Z",
+      "published_raw": "Thu, 17 Sep 2026 22:48:19 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjgzMURUVzYyWms3VmU5b2VvZEYtcEhOYktLenByZmlSUFpaZlRoazkxTkF2a3RPMGpKQ3JobkZPSUcxckFPdmVUQWJNZXlBVmlGYzdtT2tkRnpNd2JBVG12ZnpVRnR5LXVVSEJBaFVzdmR5RHVlZ1hRVEV5UnFOUlBoUGdFOThPc05lZW54UzJrdkNZLV9uMVpUVW9iSnM?oc=5",
+      "description": "City of Raleigh Uses Drones, AI Technology to Create Digital Twin Dronelife",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjgzMURUVzYyWms3VmU5b2VvZEYtcEhOYktLenByZmlSUFpaZlRoazkxTkF2a3RPMGpKQ3JobkZPSUcxckFPdmVUQWJNZXlBVmlGYzdtT2tkRnpNd2JBVG12ZnpVRnR5LXVVSEJBaFVzdmR5RHVlZ1hRVEV5UnFOUlBoUGdFOThPc05lZW54UzJrdkNZLV9uMVpUVW9iSnM?oc=5\" target=\"_blank\">City of Raleigh Uses Drones, AI Technology to Create Digital Twin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjgzMURUVzYyWms3VmU5b2VvZEYtcEhOYktLenByZmlSUFpaZlRoazkxTkF2a3RPMGpKQ3JobkZPSUcxckFPdmVUQWJNZXlBVmlGYzdtT2tkRnpNd2JBVG12ZnpVRnR5LXVVSEJBaFVzdmR5RHVlZ1hRVEV5UnFOUlBoUGdFOThPc05lZW54UzJrdkNZLV9uMVpUVW9iSnM?oc=5"
+      ],
+      "scraped_at": "2026-09-17T23:52:37Z",
+      "url": "https://dronelife.com/2026/09/17/city-of-raleigh-uses-drones-ai-technology-to-create-digital-twin/",
+      "final_url": "https://dronelife.com/2026/09/17/city-of-raleigh-uses-drones-ai-technology-to-create-digital-twin/",
+      "source": "DRONELIFE",
+      "article_title": "City of Raleigh Uses Drones, AI Technology to Create Digital Twin",
+      "heading": "City of Raleigh Uses Drones, AI Technology to Create Digital Twin",
+      "authors": [
+        "Jim Magill"
+      ],
+      "article_published_at": "2026-09-17T22:24:12+00:00",
+      "article_modified_at": null,
+      "summary": "Raleigh deploys drones and AI to build a city digital twin for traffic planning, tree preservation, and community storytelling.",
+      "content": "The city of Raleigh, North Carolina is deploying drones and artificial-intelligence (AI)-enabled tools to create a virtual version of itself to meet the urban challenges of today and to help chart the future of the fast-growing metropolis.\nLong recognized as the hub of the state’s high-tech Research Triangle region, Raleigh has worked with tech industry partners Esri, NVIDIA and Microsoft to create a digital twin of the city, to help deal with challenges such as traffic management and urban development planning.\n“We do a citizen survey every two years and ask citizens all sorts of questions about their priorities and concerns. Development and traffic come up as the top two pretty regularly,” Jim Alberque, the city’s geographic information system (GIS) and emerging technology manager, said in an interview.\n“I think the benefit of the digital twin, what it’s given the city in our ability to communicate with our community, is that we don’t have to tell you the story, we can show you the story of the city,” Alberque said.\nDrone Data Powers Planning for Parks, Events, and Tree Preservation\nOne of the city’s most recent uses of the drone-captured data was to aid in the development of Gipson Play Plaza, an 18.5-acre major recreational and community gathering destination located within the 300-acre Dorothea Dix Park.\n“We did flights of that to be able to get generate 3D mesh and (orthographic images), to be able to show what that park was like, to be able to communicate that and tell that story,” said Jeff Dawson, the city’s technology and analytics manager.\nHe added that city officials are exploring how to leverage the digital-twin technology for use in event planning, to ensure that the physical space selected at a given site is adequate to accommodate the event’s needs without having to rely on estimates or saying “we probably have space for a tent there.”\nAnother application of the technology helps the city’s facility planners to site the construction of future buildings in such a way that the greatest number of stately trees are preserved. “Trees are very big in Raleigh; the ‘City of Oaks,'” Dawson said.\nWorking on the cutting edge of technology, Raleigh is also starting to incorporate other types of data-collection devices that it currently employs, to contribute to the construction of a virtual clone of the entire city. “We’re to take some of our traditional (Internet of Things) devices, so sensors that we have out in the community — whether that be cameras or things that are in motion, so scooters or vehicles — and starting to incorporate those into this digital twin to get a much more high-fidelity view,” he said.\nEarly Adopter of Drones\nThe city of Raleigh was an early adopter of drone technology, with the Parks Department starting its first drone program in 2018. The information technology (IT) department began its own drone program about two years ago.\nDawson said the city has taken a decentralized approach in its drone usage.\n“We have drones in IT, in Raleigh Parks and Raleigh Water, and then the police department has a large fleet of drones,” he said. “They’re more on their own, because of the law enforcement nature of it, it’s a little bit different from how the rest of us are operating.”\nTo create the digital twin project, the city basically relies on four drones, three U.S.-made Freefly Astros and one Mavic product. Dawson said that about two years ago, faced with the possibility of federal bans on the use of Chinese-made drones, Raleigh officials made the decision to gradually replace its existing drone fleet with NDAA-compliant products such as the Astro.\n“It was an end-of-life thing. We were looking for something that was Blue Listed and that’s when we came across the Astro and started heading down that route, and then adopted them across the board,” he said.\nNovel Use of AI Technology\nAlberque said the city, with its roots in the tech-savvy Research Triangle, also was among the first communities in the country to fully embrace the use of AI technology.\n“We use standard operations to capture imagery. We then take that imagery and use Esri technology to create derivative products,” he said. Those derivative products might be orthophotos or 3D meshes. “So, obviously there’s a bunch of AI on board.”\nWhen the city first launched the digital-twin project, city leaders decided that, as one of the fastest-growing cities in the country, the earliest use of the technology should be centered around modeling the future urban form of the city.\n“What does the city look like today? What is it going to look like tomorrow? And what might it look like in a year?” Alberque asked.\nAs the digital twin project evolved, city leaders found additional uses for the technology, such as micro-weather modeling. “We’re working with a firm around doing some micro-weather modeling that takes into effect climate data, wind patterns, those sorts of things, but also using the urban-built environment to model ventilation corridors and wind patterns,” he said.\nBut perhaps the most innovative use to which the city has put the technology is in using the digital twin to help illustrate the story of Raleigh.\n“We found that it’s a really valuable tool to do storytelling,” Alberque said. “We’re leveraging GIS as a platform for our digital twin. We can then incorporate other data and use that as a platform for storytelling, whether that be around some environmental-modeling things or some operational things related to our transit service.”\nRead More\n-\nSkyDrive and Verty Target Commercial eVTOL Operations in South Korea by 2028\n-\nSkyeBrowse Moves to Per-Model Pricing, Lowering the Barrier to 3D Drone Mapping\n-\nFrom Maps to Operational Intelligence: How Defense Is Changing the Mapping Workflow\nJim Magill is a Houston-based writer with almost a quarter-century of experience covering technical and economic developments in the oil and gas industry. After retiring in December 2019 as a senior editor with S&P Global Platts, Jim began writing about emerging technologies, such as artificial intelligence, robots and drones, and the ways in which they’re contributing to our society. In addition to DroneLife, Jim is a contributor to Forbes.com and his work has appeared in the Houston Chronicle, U.S. News & World Report, and Unmanned Systems, a publication of the Association for Unmanned Vehicle Systems International",
+      "content_html": "<html>\n  <body>\n    <p>The city of Raleigh, North Carolina is deploying drones and artificial-intelligence (AI)-enabled tools to create a virtual version of itself to meet the urban challenges of today and to help chart the future of the fast-growing metropolis.</p>\n    <p>Long recognized as the hub of the state’s high-tech Research Triangle region, Raleigh has worked with tech industry partners Esri, NVIDIA and Microsoft to create a digital twin of the city, to help deal with challenges such as traffic management and urban development planning.</p>\n    <p>“We do a citizen survey every two years and ask citizens all sorts of questions about their priorities and concerns. Development and traffic come up as the top two pretty regularly,” Jim Alberque, the city’s geographic information system (GIS) and emerging technology manager, said in an interview.</p>\n    <p>“I think the benefit of the digital twin, what it’s given the city in our ability to communicate with our community, is that we don’t have to tell you the story, we can show you the story of the city,” Alberque said.</p>\n    <h2>Drone Data Powers Planning for Parks, Events, and Tree Preservation</h2>\n    <p>One of the city’s most recent uses of the drone-captured data was to aid in the development of Gipson Play Plaza, an 18.5-acre major recreational and community gathering destination located within the 300-acre Dorothea Dix Park.</p>\n    <p>“We did flights of that to be able to get generate 3D mesh and (orthographic images), to be able to show what that park was like, to be able to communicate that and tell that story,” said Jeff Dawson, the city’s technology and analytics manager.</p>\n    <p>He added that city officials are exploring how to leverage the digital-twin technology for use in event planning, to ensure that the physical space selected at a given site is adequate to accommodate the event’s needs without having to rely on estimates or saying “we probably have space for a tent there.”</p>\n    <p>Another application of the technology helps the city’s facility planners to site the construction of future buildings in such a way that the greatest number of stately trees are preserved. “Trees are very big in Raleigh; the ‘City of Oaks,'” Dawson said.</p>\n    <p>Working on the cutting edge of technology, Raleigh is also starting to incorporate other types of data-collection devices that it currently employs, to contribute to the construction of a virtual clone of the entire city. “We’re to take some of our traditional (Internet of Things) devices, so sensors that we have out in the community — whether that be cameras or things that are in motion, so scooters or vehicles — and starting to incorporate those into this digital twin to get a much more high-fidelity view,” he said.</p>\n    <h2>Early Adopter of Drones</h2>\n    <p>The city of Raleigh was an early adopter of drone technology, with the Parks Department starting its first drone program in 2018. The information technology (IT) department began its own drone program about two years ago.</p>\n    <p>Dawson said the city has taken a decentralized approach in its drone usage.</p>\n    <p>“We have drones in IT, in Raleigh Parks and Raleigh Water, and then the police department has a large fleet of drones,” he said. “They’re more on their own, because of the law enforcement nature of it, it’s a little bit different from how the rest of us are operating.”</p>\n    <p>To create the digital twin project, the city basically relies on four drones, three U.S.-made Freefly Astros and one Mavic product. Dawson said that about two years ago, faced with the possibility of federal bans on the use of Chinese-made drones, Raleigh officials made the decision to gradually replace its existing drone fleet with NDAA-compliant products such as the Astro.</p>\n    <p>“It was an end-of-life thing. We were looking for something that was Blue Listed and that’s when we came across the Astro and started heading down that route, and then adopted them across the board,” he said.</p>\n    <h2>Novel Use of AI Technology</h2>\n    <p>Alberque said the city, with its roots in the tech-savvy Research Triangle, also was among the first communities in the country to fully embrace the use of AI technology.</p>\n    <p>“We use standard operations to capture imagery. We then take that imagery and use Esri technology to create derivative products,” he said. Those derivative products might be orthophotos or 3D meshes. “So, obviously there’s a bunch of AI on board.”</p>\n    <p>When the city first launched the digital-twin project, city leaders decided that, as one of the fastest-growing cities in the country, the earliest use of the technology should be centered around modeling the future urban form of the city.</p>\n    <p>“What does the city look like today? What is it going to look like tomorrow? And what might it look like in a year?” Alberque asked.</p>\n    <p>As the digital twin project evolved, city leaders found additional uses for the technology, such as micro-weather modeling. “We’re working with a firm around doing some micro-weather modeling that takes into effect climate data, wind patterns, those sorts of things, but also using the urban-built environment to model ventilation corridors and wind patterns,” he said.</p>\n    <p>But perhaps the most innovative use to which the city has put the technology is in using the digital twin to help illustrate the story of Raleigh.</p>\n    <p>“We found that it’s a really valuable tool to do storytelling,” Alberque said. “We’re leveraging GIS as a platform for our digital twin. We can then incorporate other data and use that as a platform for storytelling, whether that be around some environmental-modeling things or some operational things related to our transit service.”</p>\n    <h2>Read More</h2>\n    <ul>\n      <li>\n<p>SkyDrive and Verty Target Commercial eVTOL Operations in South Korea by 2028</p></li>\n      <li>\n<p>SkyeBrowse Moves to Per-Model Pricing, Lowering the Barrier to 3D Drone Mapping</p></li>\n      <li>\n<p>From Maps to Operational Intelligence: How Defense Is Changing the Mapping Workflow</p></li>\n    </ul>\n    <img src=\"https://dronelife.com/wp-content/uploads/2026/06/jimmcgill.jpg\"/>\n    <p>Jim Magill is a Houston-based writer with almost a quarter-century of experience covering technical and economic developments in the oil and gas industry. After retiring in December 2019 as a senior editor with S&amp;P Global Platts, Jim began writing about emerging technologies, such as artificial intelligence, robots and drones, and the ways in which they’re contributing to our society. In addition to DroneLife, Jim is a contributor to Forbes.com and his work has appeared in the Houston Chronicle, U.S. News &amp; World Report, and Unmanned Systems, a publication of the Association for Unmanned Vehicle Systems International</p>\n  </body>\n</html>",
+      "word_count": 1055,
+      "char_count": 6394,
+      "lead_image": "https://dronelife.com/wp-content/uploads/2026/09/48450938111_d094b1b49d_b-e1789683806617.jpg",
+      "images": [
+        {
+          "url": "https://dronelife.com/wp-content/uploads/2026/09/48450938111_d094b1b49d_b-e1789683806617.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-17T23:52:37Z"
+    },
+    {
+      "id": "0efae39b4f2b2520",
+      "title": "TPA upgrades parking garage technology",
+      "header": "Yahoo",
+      "published_at": "2026-09-17T21:39:34Z",
+      "published_raw": "Thu, 17 Sep 2026 21:39:34 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1JHeWxuVDdBRGNMdExpdDhiNXdOU0h1TE53cmc3M2ZrVDdQWEV2MFhNR2g4bU13Qmx1b2QwaWRMS0tFS2VEZkZnbFRMWFJUMmM5elI4dURjQ3JVX0ozcGZuZS1qNGxGbjRIR2VuWThJY3NieFoxY29lVjlBV0tObmltU2ZOM0FXV1I3eW1GLTk?oc=5",
+      "description": "TPA upgrades parking garage technology Yahoo",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1JHeWxuVDdBRGNMdExpdDhiNXdOU0h1TE53cmc3M2ZrVDdQWEV2MFhNR2g4bU13Qmx1b2QwaWRMS0tFS2VEZkZnbFRMWFJUMmM5elI4dURjQ3JVX0ozcGZuZS1qNGxGbjRIR2VuWThJY3NieFoxY29lVjlBV0tObmltU2ZOM0FXV1I3eW1GLTk?oc=5\" target=\"_blank\">TPA upgrades parking garage technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1JHeWxuVDdBRGNMdExpdDhiNXdOU0h1TE53cmc3M2ZrVDdQWEV2MFhNR2g4bU13Qmx1b2QwaWRMS0tFS2VEZkZnbFRMWFJUMmM5elI4dURjQ3JVX0ozcGZuZS1qNGxGbjRIR2VuWThJY3NieFoxY29lVjlBV0tObmltU2ZOM0FXV1I3eW1GLTk?oc=5"
+      ],
+      "scraped_at": "2026-09-17T23:52:35Z",
+      "url": "https://www.yahoo.com/news/videos/tpa-upgrades-parking-garage-technology-213934898.html",
+      "final_url": "https://www.yahoo.com/news/videos/tpa-upgrades-parking-garage-technology-213934898.html",
+      "source": "Yahoo News",
+      "article_title": "TPA upgrades parking garage technology",
+      "heading": "TPA upgrades parking garage technology",
+      "authors": [
+        "WTVT"
+      ],
+      "article_published_at": "2026-09-17T21:39:34Z",
+      "article_modified_at": "2026-09-17T21:39:58Z",
+      "summary": "Tampa International Airport is upgrading payment systems in its parking garages. FOX 13's Kylie Jones reports.",
+      "content": "FollowTPA upgrades parking garage technologyWTVTUpdated Thu, September 17, 2026 at 9:39 PM UTCAdd Yahoo as a preferred source to see more of our stories on Google.Tampa International Airport is upgrading payment systems in its parking garages. FOX 13's Kylie Jones reports.",
+      "content_html": "<html>\n  <body>\n    <p>FollowTPA upgrades parking garage technologyWTVTUpdated Thu, September 17, 2026 at 9:39 PM UTCAdd Yahoo as a preferred source to see more of our stories on Google.Tampa International Airport is upgrading payment systems in its parking garages. FOX 13's Kylie Jones reports.</p>\n  </body>\n</html>",
+      "word_count": 41,
+      "char_count": 273,
+      "lead_image": "https://s.yimg.com/lo/mysterio/api/c8bbe005796111714e13ed3cd15707bd4bdac41f5f2462c85ac38a61e813a894/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwtvt_fox_local_videos_372%2F2d494013b4d0e9c2b538c237134b81db.jpg",
+      "images": [
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/c8bbe005796111714e13ed3cd15707bd4bdac41f5f2462c85ac38a61e813a894/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwtvt_fox_local_videos_372%2F2d494013b4d0e9c2b538c237134b81db.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/7c8830ae1ba6c71b8e329c2b6bef8a5637c81354e60076735b7c52fb51b74e7c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwtvt_fox_local_videos_372%2F2d494013b4d0e9c2b538c237134b81db.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/65940cba2272a9b383a603ab8babec16ff967183de09020ea24616265f942a14/lightyear_networkapi/resizefill_w640%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwtvt_fox_local_videos_372%2F2d494013b4d0e9c2b538c237134b81db.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 3,
+      "extractor": "trafilatura",
+      "status": "partial",
+      "error": "short_text",
+      "first_seen_at": "2026-09-17T23:52:35Z"
+    },
     {
       "id": "e067ae10aa0bae2f",
       "title": "Amex GBT Names Esquibel as Chief Technology Officer",
@@ -24,7 +155,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMingFBVV95cUxQMV9LV19VbWQ1bmpiZnZFRFREaklwS1U3SDhfVlZ1a2Q3QjNFbU9RWDJ5UHJ1eHBiaG5Da2lSSDF1N05zMGtaX2tuZmlCdnhSUzFwNmpsMjh5T2hsRHhxMWFrd1NtQnFNX2ZCaURPMXc2YVhQdGphVUEwa2N4U3R4dnEzZnIxdVlQZ0EzZHN6NVlwYksybWtSNmJpd3ZkUQ?oc=5"
       ],
-      "scraped_at": "2026-09-17T21:53:07Z",
+      "scraped_at": "2026-09-17T23:52:37Z",
       "url": "https://www.businesstravelnews.com/Management/Amex-GBT-Names-Esquibel-as-Chief-Technology-Officer",
       "final_url": "https://www.businesstravelnews.com/Management/Amex-GBT-Names-Esquibel-as-Chief-Technology-Officer",
       "source": "BTN Business Travel News",
@@ -45,6 +176,47 @@
       "status": "partial",
       "error": "download_failed",
       "first_seen_at": "2026-09-17T21:53:07Z"
+    },
+    {
+      "id": "0b7c6eb6eefb5786",
+      "title": "Detroit Fire Department testing technology to turn traffic lights green for fire trucks",
+      "header": "ClickOnDetroit | WDIV Local 4",
+      "published_at": "2026-09-17T21:29:06Z",
+      "published_raw": "Thu, 17 Sep 2026 21:29:06 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZk1IUlVPVWRrMU9yNUxmY0dFMW0xY1d4UWpYUU9nZmVsYm9mYTd5V19pdFV6TE4yUUg0Q1ZaTDQ0dHd6QlZISWpPOFZad0x3NmVmY2NlNXZVd2cxSHpRSTQza21OelBCSzJHNWlNa2NhdmhwSlFCUlo0MmM1bG9VNU5mdXBSNDd5eVlPVVFydlRLMW5NUnZGZG93eDlMMGJ0UUN0UVZjMzRzRFNvLXFXTEpWdHU3UzI4OFhta25aUEEzNWJoZlVDc0pZR0g4d29UUXhlWmJ5dTM?oc=5",
+      "description": "Detroit Fire Department testing technology to turn traffic lights green for fire trucks ClickOnDetroit | WDIV Local 4",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZk1IUlVPVWRrMU9yNUxmY0dFMW0xY1d4UWpYUU9nZmVsYm9mYTd5V19pdFV6TE4yUUg0Q1ZaTDQ0dHd6QlZISWpPOFZad0x3NmVmY2NlNXZVd2cxSHpRSTQza21OelBCSzJHNWlNa2NhdmhwSlFCUlo0MmM1bG9VNU5mdXBSNDd5eVlPVVFydlRLMW5NUnZGZG93eDlMMGJ0UUN0UVZjMzRzRFNvLXFXTEpWdHU3UzI4OFhta25aUEEzNWJoZlVDc0pZR0g4d29UUXhlWmJ5dTM?oc=5\" target=\"_blank\">Detroit Fire Department testing technology to turn traffic lights green for fire trucks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ClickOnDetroit | WDIV Local 4</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZk1IUlVPVWRrMU9yNUxmY0dFMW0xY1d4UWpYUU9nZmVsYm9mYTd5V19pdFV6TE4yUUg0Q1ZaTDQ0dHd6QlZISWpPOFZad0x3NmVmY2NlNXZVd2cxSHpRSTQza21OelBCSzJHNWlNa2NhdmhwSlFCUlo0MmM1bG9VNU5mdXBSNDd5eVlPVVFydlRLMW5NUnZGZG93eDlMMGJ0UUN0UVZjMzRzRFNvLXFXTEpWdHU3UzI4OFhta25aUEEzNWJoZlVDc0pZR0g4d29UUXhlWmJ5dTM?oc=5"
+      ],
+      "scraped_at": "2026-09-17T23:52:35Z",
+      "url": "https://www.clickondetroit.com/video/news/2026/09/17/detroit-fire-department-testing-technology-to-turn-traffic-lights-green-for-fire-trucks/",
+      "final_url": "https://www.clickondetroit.com/video/news/2026/09/17/detroit-fire-department-testing-technology-to-turn-traffic-lights-green-for-fire-trucks/",
+      "source": "WDIV",
+      "article_title": "Detroit Fire Department testing technology to turn traffic lights green for fire trucks",
+      "heading": "Go to the WDIV homepage",
+      "authors": [],
+      "article_published_at": "2026-09-17T21:08:08.000Z",
+      "article_modified_at": "2026-09-17T21:29:06.000Z",
+      "summary": "Fire trucks race through intersections every day to put out fires or help get someone to a hospital. The Detroit Fire Department is now testing technology that will trigger green lights to switch on when a truck comes through an intersection.\n\n\nRead: https://www.clickondetroit.com/news/local/2026/09/17/detroit-fire-department-testing-technology-to-turn-traffic-lights-green-for-fire-trucks/",
+      "content": "NEWS\nDetroit Fire Department testing technology to turn traffic lights green for fire trucks\nFire trucks race through intersections every day to put out fires or help get someone to a hospital. The Detroit Fire Department is now testing technology that will trigger green lights to switch on when a truck comes through an intersection. Read: https://www.clickondetroit.com/news/local/2026/09/17/detroit-fire-department-testing-technology-to-turn-traffic-lights-green-for-fire-trucks/",
+      "content_html": "<html>\n  <body>\n    <h3>NEWS</h3>\n    <h1>Detroit Fire Department testing technology to turn traffic lights green for fire trucks</h1>\n    <p>Fire trucks race through intersections every day to put out fires or help get someone to a hospital. The Detroit Fire Department is now testing technology that will trigger green lights to switch on when a truck comes through an intersection. Read: https://www.clickondetroit.com/news/local/2026/09/17/detroit-fire-department-testing-technology-to-turn-traffic-lights-green-for-fire-trucks/</p>\n  </body>\n</html>",
+      "word_count": 57,
+      "char_count": 483,
+      "lead_image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/wdiv/32e4c907-6fe8-4ef4-b5d4-fa3e03a4137f/image.jpg?api_key=clickondetroit_06f87fefb2123598",
+      "images": [
+        {
+          "url": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/wdiv/32e4c907-6fe8-4ef4-b5d4-fa3e03a4137f/image.jpg?api_key=clickondetroit_06f87fefb2123598",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "partial",
+      "error": "short_text",
+      "first_seen_at": "2026-09-17T23:52:35Z"
     },
     {
       "id": "2282bcfbf4fe0897",
@@ -147,15 +319,15 @@
       "id": "571fd67a5c199946",
       "title": "The Next Gene-Editing Technology May Also Be the Oldest",
       "header": "The New York Times",
-      "published_at": "2026-09-17T20:29:24Z",
-      "published_raw": "Thu, 17 Sep 2026 20:29:24 GMT",
+      "published_at": "2026-09-17T20:29:25Z",
+      "published_raw": "Thu, 17 Sep 2026 20:29:25 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSktwSHdKR0RzVUZCXy1LRU5yZTZ4S1dURnhUZkxiVzJmSVdhejBzVktDb0dUeXp3bVhkT2U0SHdiZlk3ZUx6YlFxWF9OZlhneEZsX3g5YVBIc29LeXBKcTBIN003YnB5dUk3aExqME9sSkNjUFVWYlp3dEU?oc=5",
       "description": "The Next Gene-Editing Technology May Also Be the Oldest The New York Times",
       "description_html": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSktwSHdKR0RzVUZCXy1LRU5yZTZ4S1dURnhUZkxiVzJmSVdhejBzVktDb0dUeXp3bVhkT2U0SHdiZlk3ZUx6YlFxWF9OZlhneEZsX3g5YVBIc29LeXBKcTBIN003YnB5dUk3aExqME9sSkNjUFVWYlp3dEU?oc=5\" target=\"_blank\">The Next Gene-Editing Technology May Also Be the Oldest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSktwSHdKR0RzVUZCXy1LRU5yZTZ4S1dURnhUZkxiVzJmSVdhejBzVktDb0dUeXp3bVhkT2U0SHdiZlk3ZUx6YlFxWF9OZlhneEZsX3g5YVBIc29LeXBKcTBIN003YnB5dUk3aExqME9sSkNjUFVWYlp3dEU?oc=5"
       ],
-      "scraped_at": "2026-09-17T21:53:06Z",
+      "scraped_at": "2026-09-17T23:52:35Z",
       "url": "https://www.nytimes.com/2026/09/17/science/crispr-gene-editing-vipr.html",
       "final_url": "https://www.nytimes.com/2026/09/17/science/crispr-gene-editing-vipr.html",
       "source": "The New York Times",
@@ -1211,7 +1383,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTVKWmJ2XzZwdlRaMl9GSkZidHVhZUVXNlJTdk9NWWNGSkkzdC1mNjJjSUs0aU0tMll2a1U1Y05nYldQVm1QWk1ONnVhekV4WDZwS0tzUlVqdkJKUjlBYlM4VHJSUzZzOHFLZHg2bEpoSnhUUF9ubmFCWUxrODdoQ0tvV21rTFRFN21xY3p5QVpmTVl1MGVyLVV2WC0?oc=5"
       ],
-      "scraped_at": "2026-09-17T21:53:06Z",
+      "scraped_at": "2026-09-17T23:52:37Z",
       "url": "https://www.nti.org/risky-business/nti-at-25-fostering-innovation-through-technology-governance/",
       "final_url": "https://www.nti.org/risky-business/nti-at-25-fostering-innovation-through-technology-governance/",
       "source": "The Nuclear Threat Initiative",
@@ -1270,25 +1442,25 @@
     {
       "id": "1a8e03c806364a99",
       "title": "King Charles warns AI leaders of existential risks if technology falls into wrong hands",
-      "header": "Reuters",
+      "header": "reuters.com",
       "published_at": "2026-09-17T12:24:44Z",
       "published_raw": "Thu, 17 Sep 2026 12:24:44 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3VtbUd4TWFBZFhmZHZMYXZuV0E3NUZoZzZ2LUtOWE00UHpmVkVObEhmOENPS2IzN0J6dkZYZlYxYXFQcExiTEZSSXd1WkUtV3lvX2xQaDZFYzUxQS1aeERURmtaT2RpTE42U1RKYlc2ZndZSHFNU0IzZUwwd3ZRTk9wQy1xTmQtcXlDUDBJUS05RHBwUk8wakpkX19tUkpjSklDcldBMktQM29sUFZjS2hPSFdxQnRLU0FpaDd2SC1pZC1sQ0dfaG5aY3NEcHQwYjM0?oc=5",
-      "description": "King Charles warns AI leaders of existential risks if technology falls into wrong hands Reuters",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3VtbUd4TWFBZFhmZHZMYXZuV0E3NUZoZzZ2LUtOWE00UHpmVkVObEhmOENPS2IzN0J6dkZYZlYxYXFQcExiTEZSSXd1WkUtV3lvX2xQaDZFYzUxQS1aeERURmtaT2RpTE42U1RKYlc2ZndZSHFNU0IzZUwwd3ZRTk9wQy1xTmQtcXlDUDBJUS05RHBwUk8wakpkX19tUkpjSklDcldBMktQM29sUFZjS2hPSFdxQnRLU0FpaDd2SC1pZC1sQ0dfaG5aY3NEcHQwYjM0?oc=5\" target=\"_blank\">King Charles warns AI leaders of existential risks if technology falls into wrong hands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "description": "King Charles warns AI leaders of existential risks if technology falls into wrong hands reuters.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3VtbUd4TWFBZFhmZHZMYXZuV0E3NUZoZzZ2LUtOWE00UHpmVkVObEhmOENPS2IzN0J6dkZYZlYxYXFQcExiTEZSSXd1WkUtV3lvX2xQaDZFYzUxQS1aeERURmtaT2RpTE42U1RKYlc2ZndZSHFNU0IzZUwwd3ZRTk9wQy1xTmQtcXlDUDBJUS05RHBwUk8wakpkX19tUkpjSklDcldBMktQM29sUFZjS2hPSFdxQnRLU0FpaDd2SC1pZC1sQ0dfaG5aY3NEcHQwYjM0?oc=5\" target=\"_blank\">King Charles warns AI leaders of existential risks if technology falls into wrong hands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3VtbUd4TWFBZFhmZHZMYXZuV0E3NUZoZzZ2LUtOWE00UHpmVkVObEhmOENPS2IzN0J6dkZYZlYxYXFQcExiTEZSSXd1WkUtV3lvX2xQaDZFYzUxQS1aeERURmtaT2RpTE42U1RKYlc2ZndZSHFNU0IzZUwwd3ZRTk9wQy1xTmQtcXlDUDBJUS05RHBwUk8wakpkX19tUkpjSklDcldBMktQM29sUFZjS2hPSFdxQnRLU0FpaDd2SC1pZC1sQ0dfaG5aY3NEcHQwYjM0?oc=5"
       ],
-      "scraped_at": "2026-09-17T21:53:05Z",
+      "scraped_at": "2026-09-17T23:52:35Z",
       "url": "https://www.reuters.com/business/media-telecom/king-charles-warns-ai-leaders-existential-risks-if-technology-falls-into-wrong-2026-09-17/",
       "final_url": "https://www.reuters.com/business/media-telecom/king-charles-warns-ai-leaders-existential-risks-if-technology-falls-into-wrong-2026-09-17/",
-      "source": "Reuters",
+      "source": "reuters.com",
       "article_title": "",
       "heading": "King Charles warns AI leaders of existential risks if technology falls into wrong hands",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
-      "summary": "King Charles warns AI leaders of existential risks if technology falls into wrong hands Reuters",
+      "summary": "King Charles warns AI leaders of existential risks if technology falls into wrong hands reuters.com",
       "content": "",
       "content_html": "",
       "word_count": 0,
@@ -2048,7 +2220,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5"
       ],
-      "scraped_at": "2026-09-17T21:53:05Z",
+      "scraped_at": "2026-09-17T23:52:35Z",
       "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
       "final_url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
       "source": "The New York Times",
@@ -4167,7 +4339,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZEhFWmEtbEE4Sm5tZ1hlVnMzVzFXdURUaExTYjQzMXRUTl9GeFR0RjItaEk3THgxMy1Qc2V2ak93SHdIZDdXbzFGQUZ5Q0wzUEQwcGFGaEZUR3pWUG9zUF9pVVRtUWMxMElhbU1Dd24zWDc0dUpJZlpKbThydUEyZ3lQeE5kbHNxLV94MnlRbTZ0cjlOTkprci02WkJhS2NtUkpFb0Vza0lzY29DYVY2TThoa3hkXzBGR1plaWYxbnIwTWZHNFdOdWxUemlQTjlPWkcwYTVQeFNFX3RVSHNneE8xcmJpMnJSQ1h6c2NXb3d4SlhZNFVNMzZ3WXJLTWMzc2pGZm5FOU5zRVRrdFZNT2xGWHowREtX?oc=5"
       ],
-      "scraped_at": "2026-09-17T21:53:05Z",
+      "scraped_at": "2026-09-17T23:52:35Z",
       "url": "https://www.businesswire.com/news/home/20260916992694/en/Global-Technology-Pioneers-Emerald-AI-Google-and-NVIDIA-Launch-the-AI-Energy-Management-Alliance-to-Advance-Flexible-AI-Data-Centers",
       "final_url": "https://www.businesswire.com/news/home/20260916992694/en/Global-Technology-Pioneers-Emerald-AI-Google-and-NVIDIA-Launch-the-AI-Energy-Management-Alliance-to-Advance-Flexible-AI-Data-Centers",
       "source": "Business Wire",
@@ -24473,210 +24645,6 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-09T16:59:57Z"
-    },
-    {
-      "id": "b2bb6b5fa8a65b4a",
-      "title": "Prime Video introduces new lip-sync technology on ‘Maxton Hall’",
-      "header": "About Amazon",
-      "published_at": "2026-09-09T13:07:09Z",
-      "published_raw": "Wed, 09 Sep 2026 13:07:09 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTNOblYzREpqazhlNEFxWnlvVGduTXlKelY5RVAwUGlqbDhJMk81TnhqanRmZkdmMTljbE0yVWp0V1Q3RXNhU1lVSTNQSXU2cDhZU01hRy1pNWU1RTdMOW02S2k1RmpiMHJtU0JHakhqZ0RYMFdMdVNFeEtyUnlnNjFKYUE?oc=5",
-      "description": "Prime Video introduces new lip-sync technology on ‘Maxton Hall’ About Amazon",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTNOblYzREpqazhlNEFxWnlvVGduTXlKelY5RVAwUGlqbDhJMk81TnhqanRmZkdmMTljbE0yVWp0V1Q3RXNhU1lVSTNQSXU2cDhZU01hRy1pNWU1RTdMOW02S2k1RmpiMHJtU0JHakhqZ0RYMFdMdVNFeEtyUnlnNjFKYUE?oc=5\" target=\"_blank\">Prime Video introduces new lip-sync technology on ‘Maxton Hall’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTNOblYzREpqazhlNEFxWnlvVGduTXlKelY5RVAwUGlqbDhJMk81TnhqanRmZkdmMTljbE0yVWp0V1Q3RXNhU1lVSTNQSXU2cDhZU01hRy1pNWU1RTdMOW02S2k1RmpiMHJtU0JHakhqZ0RYMFdMdVNFeEtyUnlnNjFKYUE?oc=5"
-      ],
-      "scraped_at": "2026-09-09T16:59:57Z",
-      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-lip-sync-technology",
-      "final_url": "https://www.aboutamazon.com/news/entertainment/prime-video-lip-sync-technology",
-      "source": "Amazon News",
-      "article_title": "Prime Video introduces new lip-sync technology on ‘Maxton Hall’",
-      "heading": "Prime Video introduces new lip-sync technology on ‘Maxton Hall’",
-      "authors": [
-        "Amazon Staff"
-      ],
-      "article_published_at": "2026-09-09T12:55:35.031Z",
-      "article_modified_at": "2026-09-09T12:55:35.031Z",
-      "summary": "Visual dubbing using AI and VFX technologies enhances the viewing experience for global customers.",
-      "content": "Key takeaways\n- Prime Video’s lip-sync technology delivers a more accessible viewing experience.\n- Syncing mouth movements to audio, it eliminates the disconnect that can occur with traditional dubbing.\n- The feature debuts on Maxton Hall S1-2 and will be available when Season 3 premieres on December 9.\nHave you ever watched a dubbed movie only to notice the actors' mouths continuing to move after the dialogue has ended, taking you completely out of the story?\n\nPrime Video is addressing this issue with a feature designed to create a more enjoyable and accessible viewing experience for our global customers.\nPrime Video is addressing this issue with a feature designed to create a more enjoyable and accessible viewing experience for our global customers.\nThe technology synchronizes actors' lip movements with human-dubbed audio, creating a seamless viewing experience that allows audiences to remain fully immersed in the story. AI and VFX technologies power the process behind the scenes, responsibly applied to deliver a better customer experience.\n\nThe feature will be available on Prime Video’s most-watched International Original series ever, Maxton Hall. Lip-sync dubs are available from today on Maxton Hall Seasons 1 and 2 globally in English and will also be included when the third and final season releases exclusively on Prime Video on December 9. The upcoming Season 3 is based on the 2018 novel Save Me by Mona Kasten.\nThe feature will be available on Prime Video’s most-watched International Original series ever, Maxton Hall. Lip-sync dubs are available from today on Maxton Hall Seasons 1 and 2 globally in English and will also be included when the third and final season releases exclusively on Prime Video on December 9. The upcoming Season 3 is based on the 2018 novel Save Me by Mona Kasten.\nLooking ahead, Prime Video plans to expand the technology to additional titles, bringing this enhanced viewing experience to even more customers and content.\n\"At Prime Video, we're constantly innovating with new tools that enhance the viewing experience for our customers,\" said Raf Soltanovich, vice president of technology at Prime Video and Amazon MGM Studios. \"With lip-syncing, we're creating a more seamless and immersive way for customers to enjoy global content. And for creators, we're making it easier for their stories to reach an even broader and global audience, all done under creative oversight to ensure the integrity of their artistic vision is preserved.\"\nPrime Video continues to explore practical and useful applications of AI that help enhance the viewing experience, always with the customer at the center and creators in the driver's seat.\nNext, find out more about how Amazon’s custom AI-powered Prime Insights take fans inside Thursday Night Football.\nTrending news and stories\n- Ring introduces TAKE, setting a new industry standard for default encryption and control\n- Amazon expands Career Choice employee benefit with new programs in high-demand industries\n- Millions of students can now get access to a free year of Kiro from AWS\n- AWS now offers 5 AI certifications to help you stand out in a competitive job market",
-      "content_html": "<html>\n  <body>\n    <h2>Key takeaways</h2>\n    <ul>\n      <li>Prime Video’s lip-sync technology delivers a more accessible viewing experience.</li>\n      <li>Syncing mouth movements to audio, it eliminates the disconnect that can occur with traditional dubbing.</li>\n      <li>The feature debuts on Maxton Hall S1-2 and will be available when Season 3 premieres on December 9.</li>\n    </ul>\n    <p>Have you ever watched a dubbed movie only to notice the actors' mouths continuing to move after the dialogue has ended, taking you completely out of the story? <br/>  <br/>Prime Video is addressing this issue with a feature designed to create a more enjoyable and accessible viewing experience for our global customers.</p>\n    <p>Prime Video is addressing this issue with a feature designed to create a more enjoyable and accessible viewing experience for our global customers.</p>\n    <p>The technology synchronizes actors' lip movements with human-dubbed audio, creating a seamless viewing experience that allows audiences to remain fully immersed in the story. AI and VFX technologies power the process behind the scenes, responsibly applied to deliver a better customer experience. <br/>  <br/>The feature will be available on Prime Video’s most-watched International Original series ever, Maxton Hall. Lip-sync dubs are available from today on Maxton Hall Seasons 1 and 2 globally in English and will also be included when the third and final season releases exclusively on Prime Video on December 9. The upcoming Season 3 is based on the 2018 novel Save Me by Mona Kasten.</p>\n    <p>The feature will be available on Prime Video’s most-watched International Original series ever, Maxton Hall. Lip-sync dubs are available from today on Maxton Hall Seasons 1 and 2 globally in English and will also be included when the third and final season releases exclusively on Prime Video on December 9. The upcoming Season 3 is based on the 2018 novel Save Me by Mona Kasten.</p>\n    <img src=\"https://assets.aboutamazon.com/dims4/default/b11f4a3/2147483647/strip/true/crop/2000x1125+0+0/resize/1320x743!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F36%2F8b%2F41e140814af89ab4589a8122ed0a%2Fmaxton-hall-s3-prime-video-amazon-news-nb-083126.jpg\" alt=\"Prime Original 'Maxton Hall' final season promo, premiering December 9\"/>\n    <p>Looking ahead, Prime Video plans to expand the technology to additional titles, bringing this enhanced viewing experience to even more customers and content.</p>\n    <p>\"At Prime Video, we're constantly innovating with new tools that enhance the viewing experience for our customers,\" said Raf Soltanovich, vice president of technology at Prime Video and Amazon MGM Studios. \"With lip-syncing, we're creating a more seamless and immersive way for customers to enjoy global content. And for creators, we're making it easier for their stories to reach an even broader and global audience, all done under creative oversight to ensure the integrity of their artistic vision is preserved.\"</p>\n    <p>Prime Video continues to explore practical and useful applications of AI that help enhance the viewing experience, always with the customer at the center and creators in the driver's seat.</p>\n    <p>Next, find out more about how Amazon’s custom AI-powered Prime Insights take fans inside Thursday Night Football.</p>\n    <p>Trending news and stories</p>\n    <ul>\n      <li>Ring introduces TAKE, setting a new industry standard for default encryption and control</li>\n      <li>Amazon expands Career Choice employee benefit with new programs in high-demand industries</li>\n      <li>Millions of students can now get access to a free year of Kiro from AWS</li>\n      <li>AWS now offers 5 AI certifications to help you stand out in a competitive job market</li>\n    </ul>\n  </body>\n</html>",
-      "word_count": 508,
-      "char_count": 3168,
-      "lead_image": "https://assets.aboutamazon.com/dims4/default/078e52f/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fc5%2Fbf%2Faea045954d1fbfe3dbca9786ed10%2Fabout-amazon-hero-maxton-hall-staffel-3-first-look-c-prime-video-stephan-rabold-2.jpg",
-      "images": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/078e52f/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fc5%2Fbf%2Faea045954d1fbfe3dbca9786ed10%2Fabout-amazon-hero-maxton-hall-staffel-3-first-look-c-prime-video-stephan-rabold-2.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/3f9e258/2147483647/strip/false/crop/2000x1125+0+0/resize/1486x836!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fc5%2Fbf%2Faea045954d1fbfe3dbca9786ed10%2Fabout-amazon-hero-maxton-hall-staffel-3-first-look-c-prime-video-stephan-rabold-2.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/c3c4885/2147483647/strip/false/crop/2000x1125+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fc5%2Fbf%2Faea045954d1fbfe3dbca9786ed10%2Fabout-amazon-hero-maxton-hall-staffel-3-first-look-c-prime-video-stephan-rabold-2.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/b11f4a3/2147483647/strip/true/crop/2000x1125+0+0/resize/1320x743!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F36%2F8b%2F41e140814af89ab4589a8122ed0a%2Fmaxton-hall-s3-prime-video-amazon-news-nb-083126.jpg",
-          "alt": "Prime Original 'Maxton Hall' final season promo, premiering December 9",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 4,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-09T16:59:57Z"
-    },
-    {
-      "id": "839ed622345dcf59",
-      "title": "The Download: OpenAI’s turning point for math and a battery record",
-      "header": "MIT Technology Review",
-      "published_at": "2026-09-09T12:10:00Z",
-      "published_raw": "Wed, 09 Sep 2026 12:10:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWJBT1NhaDRiZ1ZlV2pabTRjaGpfTXhHSlhYRUpkaHd4bFBGamhNYi1jQ1k5Zm05ZFd5eU9IVlJDbnU1QjQ3QVJ4NTFhd3BKM0Fqc2U2NFJZZE9HeXpUZWhwSzc1SWp2ZnNNQ2doSlZnRnp2U1Y4QUF0WGxFNzZadk0ybTRnX1ppeEJHSUhLVm5VYkNLM3AwdHcwbS1EN3VK0gGmAUFVX3lxTFAzVng3UDBaUEpSYm1HVFdPU1ctdHVmSWk3dWkzM09xQ1Z0emFtSWxjaHowRG1mNk9laFNjd0MxTGl3NmxHSE1fTFhOUkdPVlBLY3U0ZUlyVWU1c0xDQ1VKV05Qd3p6SEFFZDZ2SlZvajlHVVd0dE1XU3NvT29oVkFYaWhQenEzb3RKYjlGOVJfNWU3bVkzR1ZrVndVRHlEVUFNaVJscHc?oc=5",
-      "description": "The Download: OpenAI’s turning point for math and a battery record MIT Technology Review",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWJBT1NhaDRiZ1ZlV2pabTRjaGpfTXhHSlhYRUpkaHd4bFBGamhNYi1jQ1k5Zm05ZFd5eU9IVlJDbnU1QjQ3QVJ4NTFhd3BKM0Fqc2U2NFJZZE9HeXpUZWhwSzc1SWp2ZnNNQ2doSlZnRnp2U1Y4QUF0WGxFNzZadk0ybTRnX1ppeEJHSUhLVm5VYkNLM3AwdHcwbS1EN3VK0gGmAUFVX3lxTFAzVng3UDBaUEpSYm1HVFdPU1ctdHVmSWk3dWkzM09xQ1Z0emFtSWxjaHowRG1mNk9laFNjd0MxTGl3NmxHSE1fTFhOUkdPVlBLY3U0ZUlyVWU1c0xDQ1VKV05Qd3p6SEFFZDZ2SlZvajlHVVd0dE1XU3NvT29oVkFYaWhQenEzb3RKYjlGOVJfNWU3bVkzR1ZrVndVRHlEVUFNaVJscHc?oc=5\" target=\"_blank\">The Download: OpenAI’s turning point for math and a battery record</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWJBT1NhaDRiZ1ZlV2pabTRjaGpfTXhHSlhYRUpkaHd4bFBGamhNYi1jQ1k5Zm05ZFd5eU9IVlJDbnU1QjQ3QVJ4NTFhd3BKM0Fqc2U2NFJZZE9HeXpUZWhwSzc1SWp2ZnNNQ2doSlZnRnp2U1Y4QUF0WGxFNzZadk0ybTRnX1ppeEJHSUhLVm5VYkNLM3AwdHcwbS1EN3VK0gGmAUFVX3lxTFAzVng3UDBaUEpSYm1HVFdPU1ctdHVmSWk3dWkzM09xQ1Z0emFtSWxjaHowRG1mNk9laFNjd0MxTGl3NmxHSE1fTFhOUkdPVlBLY3U0ZUlyVWU1c0xDQ1VKV05Qd3p6SEFFZDZ2SlZvajlHVVd0dE1XU3NvT29oVkFYaWhQenEzb3RKYjlGOVJfNWU3bVkzR1ZrVndVRHlEVUFNaVJscHc?oc=5"
-      ],
-      "scraped_at": "2026-09-09T12:41:28Z",
-      "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
-      "final_url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
-      "source": "MIT Technology Review",
-      "article_title": "The Download: OpenAI’s turning point for math and a battery record",
-      "heading": "The Download: OpenAI’s turning point for math and a battery record",
-      "authors": [
-        "Thomas Macaulay"
-      ],
-      "article_published_at": "2026-09-09T08:10:00-04:00",
-      "article_modified_at": "2026-09-09T08:07:47-04:00",
-      "summary": "Plus: The US has accused six Chinese AI firms of “industrial-scale” theft.",
-      "content": "The Download: OpenAI’s turning point for math and a battery record\nPlus: The US has accused six Chinese AI firms of “industrial-scale” theft.\nThis is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.\nWhat OpenAI’s latest controversy tells us about the future of math\nOpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would be a huge milestone. But the announcement has been overshadowed by accusations that OpenAI failed to credit researchers whose AI-assisted work influenced its solution.\nWhether those accusations are true or not, the episode may mark a turning point in the history of mathematics. AI models now seem essential for making progress on the field’s most important problems, but solving them may demand resources available only to a couple of frontier AI companies.\nIf that’s the future we are headed for, it is unclear how human mathematicians will fit into it.\nRead on to see how AI could reshape mathematics.\n—Grace Huckins\nBatteries just broke another record in the US\nBattery installations hit a new record in the US in the second quarter of 2026, with 20.2 gigawatt-hours of new capacity coming online. That’s enough to supply the daily electricity needs of 600,000 homes.\nThe surge puts the country on track for another record year, driven by cheaper batteries and an urgent need for more energy storage as renewables are added to the grid. But the boom looks different for grid-scale and residential batteries.\nTake a closer look at the forces reshaping the US battery market.\n—Casey Crownhart\nThis entrepreneur is developing agents that can plan ahead\nDanijar Hafner’s office in San Francisco’s SoMa district sits mostly empty, but what it lacks in decor, it makes up for in robots. Humanoids of various shapes and sizes hang like marionettes from racks that run down the center of the wide-open space.\nHafner won’t say too much about his new venture just yet, but describes it as a continuation of his longtime work to enable AI to navigate environments it has not encountered in training.\nOver the years, the 31-year-old has honed his approach by pitting agents trained within his world models against popular video games. More recently, he’s begun migrating his agents out of the virtual world and into physical reality.\nLearn more about Hafner’s work teaching AI about our world.\n—Mat Honan\nDanijar Hafner is one of the artificial intelligence honorees on our 35 Innovators Under 35 list for 2026. Meet the rest of them here, or explore the full list across the biotechnology, AI, computing and robotics, and climate and energy categories.\nMIT Technology Review Narrated: data from drones in Ukraine is fueling a new Wild West marketplace\nBattlefields in Ukraine are littered with the remnants of drones. But behind all that wreckage, there’s a new gold mine for the defense sector: the data those drones generate.\nUkraine has begun making millions of data points gathered during tens of thousands of drone flights available to military contractors and commercial companies. It’s a quick way to attract funding and partnerships, but it turns the front line into a model training site, using the chaos of war to create conditions that AI companies struggle to reproduce.\nAs this new industry takes shape, we need a regulatory system that ensures battlefield data isn’t treated like ordinary commercial material.\nThis is our latest article to become an MIT Technology Review Narrated podcast, which we publish each week on Spotify and Apple Podcasts. Just navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it’s released.\nThe must-reads\nI’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.\n1 OpenAI says it cracked a 90-year-old maths problem in 88 hours\nIt used 10,000 AI agents to tackle the Navier-Stokes equations. (CNBC)\n+ OpenAI claims it’s the first major math problem solved by AI. (Nature)\n+ But the breakthrough has been overshadowed by a credit controversy. (Axios)\n+ OpenAI spent millions to win the $1 million math contest. (Quanta)\n2 The US has accused six Chinese AI firms of “industrial-scale” theft\nThey include DeepSeek, Moonshot AI, Alibaba, and Z.AI. (CNN)\n+ Officials accuse them of stealing America’s AI trade secrets. (Reuters $)\n+ They allegedly used model distillation to train their systems. (WSJ $)\n+ Targeting Claude, ChatGPT, Gemini, and Grok, among others. (NBC News)\n3 The Pentagon asked OpenAI for an AI model that rarely says no\nThe military wanted it to have “minimal refusal rates.” (Intercept)\n+ The Pentagon says US allies can’t keep pace on AI. (Guardian)\n+ AI firms may soon train on classified military data. (MIT Technology Review)\n4 Apple is expected to unveil a $2,000 folding smartphone today\nIt would be the iPhone’s biggest design change since its 2007 launch. (Guardian)\n+ And the first big test for new CEO John Ternus. (NYT $)\n+ Xiaomi and Huawei launched their own new foldables before the event. (CNBC)\n5 Meta’s new AI agent can access apps to send emails and make payments\nMuse autonomously uses apps and websites on people’s behalf. (CNBC)\n+ Internal tests found it could expose sensitive personal data. (Reuters $)\n+ AI agents are not your “coworkers.” (MIT Technology Review)\n6 Google says it’s “degrading” search in Europe to comply with EU rules\nNew results will give more prominence to comparison sites. (Reuters $)\n+ The changes follow a €460 million EU antitrust fine. (Quartz)\n7 Meta ads pushed AI apps that nudified real teens\nResearchers found 332 ads containing CSAM this year. (BBC)\n+ They identified several AI-manipulated photos of real children (Ars Technica)\n+ Apple and Google have missed the UK’s deadline to block child nudity. (Wired $)\n8 Border Patrol is using financial data to target Americans for stops\nThe predictive-policing program feeds intelligence to local police. (404 Media)\n9 New paints could cool buildings on the cheap without electricity\nThey reflect sunlight and radiate heat back into space. (Economist $)\n10 The creepy first trailer for the Sam Altman biopic just dropped\nLuca Guadagnino’s Artificial will be released in the US on December 25. (Variety)\n+ Amazon had dropped the film after investing in OpenAI. (Guardian)\nQuote of the day\n“This is a Deep Blue–Kasparov moment. The community needs to have serious and unhurried discussion about where to go from here.”\n—NYU mathematician Tristan Buckmaster issues a statement comparing OpenAI’s math breakthrough to an IBM supercomputer defeating chess champion Garry Kasparov in 1997, a landmark moment for machine intelligence.\nOne more thing\nThe shock of seeing your body used in deepfake porn\nWhen Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see whether it would pull up the porn videos she’d made more than a decade earlier. It did, but it also surfaced something she’d never seen before: one of her old videos, now featuring someone else’s face on her body.\nConversations about sexualized deepfakes usually focus on the people whose faces are inserted into explicit content without consent. But another group often gets ignored: the people whose bodies those faces are attached to.\nAdult content creators say AI systems are training on their work, cloning their likenesses, and generating explicit content they never agreed to make, all with little legal protection or control. Read the full story on the threat to their rights, livelihoods, and ownership of their own bodies.\n—Jessica Klein\nWe can still have nice things\nA place for comfort, fun, and distraction to brighten up your day. (Got any ideas? Drop me a line.)\n+ Cherish the workers dodging (and sabotaging) their employer’s AI mandates.\n+ Artist Ali Hill stitches extraordinarily intricate buildings and cityscapes into fabric.\n+ Here’s a fascinating look at the remarkable anatomy that may let elephants hear the Earth itself.\n+ Check out the breathtaking winning images from the 2026 International Aerial Photographer of the Year competition.\nDeep Dive\nThe Download\nThe Download: Claude’s inner workings and OpenAI’s “super app”\nPlus: OpenAI has unveiled its long-awaited \"super app.\"\nThe Download: Claude’s inner workings, and the future of world models\nPlus: New York has become the first state to enact a data center moratorium.\nThe Download: AI’s self-improvement problem, and what’s driving the heat\nPlus: OpenAI has paused some model work over safety concerns.\nThe Download: Google’s AI shake-up and Meta’s rogue model\nPlus: Meta has become the latest firm to say its AI hacked another company.\nStay connected\nGet the latest updates from\nMIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
-      "content_html": "<html>\n  <body><h1>The Download: OpenAI’s turning point for math and a battery record</h1><p>Plus: The US has accused six Chinese AI firms of “industrial-scale” theft.</p><p>This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.</p><h3>What OpenAI’s latest controversy tells us about the future of math</h3><p>OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would be a huge milestone. But the announcement has been overshadowed by accusations that OpenAI failed to credit researchers whose AI-assisted work influenced its solution.</p><p>Whether those accusations are true or not, the episode may mark a turning point in the history of mathematics. AI models now seem essential for making progress on the field’s most important problems, but solving them may demand resources available only to a couple of frontier AI companies.</p><p>If that’s the future we are headed for, it is unclear how human mathematicians will fit into it.</p><p>Read on to see how AI could reshape mathematics.</p><p>—Grace Huckins</p><h3>Batteries just broke another record in the US</h3><p>Battery installations hit a new record in the US in the second quarter of 2026, with 20.2 gigawatt-hours of new capacity coming online. That’s enough to supply the daily electricity needs of 600,000 homes.</p><p>The surge puts the country on track for another record year, driven by cheaper batteries and an urgent need for more energy storage as renewables are added to the grid. But the boom looks different for grid-scale and residential batteries.</p><p>Take a closer look at the forces reshaping the US battery market.</p><p>—Casey Crownhart</p><h3>This entrepreneur is developing agents that can plan ahead</h3><p>Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty, but what it lacks in decor, it makes up for in robots. Humanoids of various shapes and sizes hang like marionettes from racks that run down the center of the wide-open space.</p><p>Hafner won’t say too much about his new venture just yet, but describes it as a continuation of his longtime work to enable AI to navigate environments it has not encountered in training.</p><p>Over the years, the 31-year-old has honed his approach by pitting agents trained within his world models against popular video games. More recently, he’s begun migrating his agents out of the virtual world and into physical reality.</p><p>Learn more about Hafner’s work teaching AI about our world.</p><p>—Mat Honan</p><p>Danijar Hafner is one of the artificial intelligence honorees on our 35 Innovators Under 35 list for 2026. Meet the rest of them here, or explore the full list across the biotechnology, AI, computing and robotics, and climate and energy categories.</p><h3>MIT Technology Review Narrated: data from drones in Ukraine is fueling a new Wild West marketplace</h3><p>Battlefields in Ukraine are littered with the remnants of drones. But behind all that wreckage, there’s a new gold mine for the defense sector: the data those drones generate.</p><p>Ukraine has begun making millions of data points gathered during tens of thousands of drone flights available to military contractors and commercial companies. It’s a quick way to attract funding and partnerships, but it turns the front line into a model training site, using the chaos of war to create conditions that AI companies struggle to reproduce.</p><p>As this new industry takes shape, we need a regulatory system that ensures battlefield data isn’t treated like ordinary commercial material.</p><p><br/>This is our latest article to become an MIT Technology Review Narrated podcast, which we publish each week on Spotify and Apple Podcasts. Just navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it’s released.</p><p>The must-reads</p><p>I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.</p><p>1 OpenAI says it cracked a 90-year-old maths problem in 88 hours<br/>It used 10,000 AI agents to tackle the Navier-Stokes equations. (CNBC)<br/>+ OpenAI claims it’s the first major math problem solved by AI. (Nature)<br/>+ But the breakthrough has been overshadowed by a credit controversy. (Axios)<br/>+ OpenAI spent millions to win the $1 million math contest. (Quanta)</p><p>2 The US has accused six Chinese AI firms of “industrial-scale” theft<br/>They include DeepSeek, Moonshot AI, Alibaba, and Z.AI. (CNN)<br/>+ Officials accuse them of stealing America’s AI trade secrets. (Reuters $)<br/>+ They allegedly used model distillation to train their systems. (WSJ $)<br/>+ Targeting Claude, ChatGPT, Gemini, and Grok, among others. (NBC News)</p><p>3 The Pentagon asked OpenAI for an AI model that rarely says no<br/>The military wanted it to have “minimal refusal rates.” (Intercept)<br/>+ The Pentagon says US allies can’t keep pace on AI. (Guardian)<br/>+ AI firms may soon train on classified military data. (MIT Technology Review)</p><p>4 Apple is expected to unveil a $2,000 folding smartphone today<br/>It would be the iPhone’s biggest design change since its 2007 launch. (Guardian)<br/>+ And the first big test for new CEO John Ternus. (NYT $)<br/>+ Xiaomi and Huawei launched their own new foldables before the event. (CNBC)</p><p>5 Meta’s new AI agent can access apps to send emails and make payments<br/>Muse autonomously uses apps and websites on people’s behalf. (CNBC)<br/>+ Internal tests found it could expose sensitive personal data. (Reuters $)<br/>+ AI agents are not your “coworkers.” (MIT Technology Review)</p><p>6 Google says it’s “degrading” search in Europe to comply with EU rules<br/>New results will give more prominence to comparison sites. (Reuters $)<br/>+ The changes follow a €460 million EU antitrust fine. (Quartz)</p><p>7 Meta ads pushed AI apps that nudified real teens<br/>Researchers found 332 ads containing CSAM this year. (BBC)<br/>+ They identified several AI-manipulated photos of real children (Ars Technica)<br/>+ Apple and Google have missed the UK’s deadline to block child nudity. (Wired $)</p><p>8 Border Patrol is using financial data to target Americans for stops<br/>The predictive-policing program feeds intelligence to local police. (404 Media)</p><p>9 New paints could cool buildings on the cheap without electricity<br/>They reflect sunlight and radiate heat back into space. (Economist $)</p><p>10 The creepy first trailer for the Sam Altman biopic just dropped <br/>Luca Guadagnino’s Artificial will be released in the US on December 25. (Variety)<br/>+ Amazon had dropped the film after investing in OpenAI. (Guardian)</p><p>Quote of the day</p><h2>“This is a Deep Blue–Kasparov moment. The community needs to have serious and unhurried discussion about where to go from here.”</h2><p>—NYU mathematician Tristan Buckmaster issues a statement comparing OpenAI’s math breakthrough to an IBM supercomputer defeating chess champion Garry Kasparov in 1997, a landmark moment for machine intelligence.</p><p>One more thing</p><img src=\"https://wp.technologyreview.com/wp-content/uploads/2026/05/Hoeckele-deepfake-01-top.jpg?fit=2880,1920\"/><h4><br/>The shock of seeing your body used in deepfake porn</h4>  <p>When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see whether it would pull up the porn videos she’d made more than a decade earlier. It did, but it also surfaced something she’d never seen before: one of her old videos, now featuring someone else’s face on her body.</p><p>Conversations about sexualized deepfakes usually focus on the people whose faces are inserted into explicit content without consent. But another group often gets ignored: the people whose bodies those faces are attached to.</p><p>Adult content creators say AI systems are training on their work, cloning their likenesses, and generating explicit content they never agreed to make, all with little legal protection or control. Read the full story on the threat to their rights, livelihoods, and ownership of their own bodies.</p><p>—Jessica Klein</p><p>We can still have nice things</p><p>A place for comfort, fun, and distraction to brighten up your day. (Got any ideas? Drop me a line.)</p><p>+ Cherish the workers dodging (and sabotaging) their employer’s AI mandates.<br/>+ Artist Ali Hill stitches extraordinarily intricate buildings and cityscapes into fabric.<br/>+ Here’s a fascinating look at the remarkable anatomy that may let elephants hear the Earth itself.<br/>+ Check out the breathtaking winning images from the 2026 International Aerial Photographer of the Year competition.</p><p/><h3>Deep Dive</h3><h3>The Download</h3><h3>The Download: Claude’s inner workings and OpenAI’s “super app”</h3><p>Plus: OpenAI has unveiled its long-awaited \"super app.\"</p><h3>The Download: Claude’s inner workings, and the future of world models</h3><p>Plus: New York has become the first state to enact a data center moratorium.</p><h3>The Download: AI’s self-improvement problem, and what’s driving the heat</h3><p>Plus: OpenAI has paused some model work over safety concerns.</p><h3>The Download: Google’s AI shake-up and Meta’s rogue model</h3><p>Plus: Meta has become the latest firm to say its AI hacked another company.</p><h3>Stay connected</h3><h2>Get the latest updates from<br/>MIT Technology Review</h2><p>Discover special offers, top stories, upcoming events, and more.</p></body>\n</html>",
-      "word_count": 1453,
-      "char_count": 8916,
-      "lead_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/math-2c.jpg?resize=1200,600",
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/math-2c.jpg?resize=1200,600",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Hoeckele-deepfake-01-top.jpg?fit=2880,1920",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 2,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-09T12:41:28Z"
-    },
-    {
-      "id": "3efbd96c5b180df3",
-      "title": "Making Adjustments: Students React To Technology Changes",
-      "header": "The Villanovan",
-      "published_at": "2026-09-09T12:08:14Z",
-      "published_raw": "Wed, 09 Sep 2026 12:08:14 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGIteHJnUGN0RkdwQUdjSERSQlBZY2RzSHV1aHQ0OGpwTExtRE1LVTdJcVZreWEyQ0E5X3hlQl9YR2szdGpwNUpzWWhXSzh2WVZ4SXR4dXJ4TWs3ZC1pWk9DaUwxUFNza3FTUHJJTVpyQmhaVWRDVkx6UVNxeHJzRXVidWFxTEVVR3Z3a3NkZUpweDJ4?oc=5",
-      "description": "Making Adjustments: Students React To Technology Changes The Villanovan",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGIteHJnUGN0RkdwQUdjSERSQlBZY2RzSHV1aHQ0OGpwTExtRE1LVTdJcVZreWEyQ0E5X3hlQl9YR2szdGpwNUpzWWhXSzh2WVZ4SXR4dXJ4TWs3ZC1pWk9DaUwxUFNza3FTUHJJTVpyQmhaVWRDVkx6UVNxeHJzRXVidWFxTEVVR3Z3a3NkZUpweDJ4?oc=5\" target=\"_blank\">Making Adjustments: Students React To Technology Changes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Villanovan</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGIteHJnUGN0RkdwQUdjSERSQlBZY2RzSHV1aHQ0OGpwTExtRE1LVTdJcVZreWEyQ0E5X3hlQl9YR2szdGpwNUpzWWhXSzh2WVZ4SXR4dXJ4TWs3ZC1pWk9DaUwxUFNza3FTUHJJTVpyQmhaVWRDVkx6UVNxeHJzRXVidWFxTEVVR3Z3a3NkZUpweDJ4?oc=5"
-      ],
-      "scraped_at": "2026-09-09T12:41:29Z",
-      "url": "https://villanovan.com/34721/news/making-adjustments-students-react-to-technology-changes/",
-      "final_url": "https://villanovan.com/34721/news/making-adjustments-students-react-to-technology-changes/",
-      "source": "The Villanovan",
-      "article_title": "Making Adjustments: Students React To Technology Changes",
-      "heading": "The Villanovan",
-      "authors": [
-        "Caroline Etter"
-      ],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "A new school year brings changes. This includes a new Cabrini Campus, Falvey Library at Vic Maggitti Hall opening soon and changes to technology services. Starting this past summer, Villanova transitioned to D2L Brightspace, a modernized Learning Management System. Provost Patrick Maggitti chose the platform after receiving feedback from an LMS Steering Committee, which includes...",
-      "content": "A new school year brings changes. This includes a new Cabrini Campus, Falvey Library at Vic Maggitti Hall opening soon and changes to technology services.\nStarting this past summer, Villanova transitioned to D2L Brightspace, a modernized Learning Management System.\nProvost Patrick Maggitti chose the platform after receiving feedback from an LMS Steering Committee, which includes members of the faculty, the offices of the Provost and Online Programs, Technology Services and other administrators.\nThe LMS Steering Committee was selected to provide feedback for the three LMS finalists: Anthology Ultra, D2L Brightspace and Instructure Canvas. While Canvas was favored by the majority of the committee, D2L Brightspace was selected for its modern and innovative features.\n“I can navigate Brightspace fine, and I think the software is more modern than Blackboard was,” sophomore Hattie Philips said.\nVillanova was previously using Blackboard Learn, an older version of the vendor’s LMS.\nThe platform was not popular among students and professors, and many thought it was not user-friendly and difficult to navigate.\n“Brightspace feels cleaner and more organized, and I especially like having easy access through the mobile app,” junior Elizabeth Howard said.\nThe positive reactions to Brightspace have their limits, though. It has taken professors some time to get used to, which can make it difficult for students to use it effectively.\n“The only trouble I have is that some of my professors still don’t know how to use it, which makes it more difficult for me,” Philips added.\nAlong with Brightspace, the implementation of Microsoft Authenticator in place of Duo Mobile has been a change students are getting used to.\nWhen signing into a Villanova account, the Authenticator sends a notification to a user’s phone, which then opens the app. From there, the user is asked to enter a number, an extra step, when compared to Duo Mobile.\n“I find it to be faster than Duo, but more annoying when I need to type the number in,” Philips said.\nAlthough the new authenticator may be redundant, the decision to implement it was made with the students’ and university’s interests in mind.\nThe transition is part of the University’s “Rooted. Restless.” 10-year strategic plan, Tech Nova 2026, an initiative carried out by the University Technology Services.\nWith the changes, the university has made a noticeable commitment to helping students and professors understand how to use the new platforms.\n“I think Brightspace will be easier in the long term, even if there is a slight learning curve in the short term, as there is with any major transition,” Howard said. “It has been great to see how intentionally the rollout was planned with students in mind, including pilot users, training, student guides and workshops.”\nLuckily, the 2026-2027 academic year is young, giving students and faculty plenty of time to iron out any issues that may pop up. University Technology Services will be hosting faculty office hours over Zoom to offer staff personalized support.\nWith support from students and Technology Services, Brightspace and Microsoft Authenticator will be positive changes that make learning and accessing materials easier for all.",
-      "content_html": "<html>\n  <body>\n    <p>A new school year brings changes. This includes a new Cabrini Campus, Falvey Library at Vic Maggitti Hall opening soon and changes to technology services.</p>\n    <p>Starting this past summer, Villanova transitioned to D2L Brightspace, a modernized Learning Management System.</p>\n    <p>Provost Patrick Maggitti chose the platform after receiving feedback from an LMS Steering Committee, which includes members of the faculty, the offices of the Provost and Online Programs, Technology Services and other administrators.</p>\n    <p>The LMS Steering Committee was selected to provide feedback for the three LMS finalists: Anthology Ultra, D2L Brightspace and Instructure Canvas. While Canvas was favored by the majority of the committee, D2L Brightspace was selected for its modern and innovative features.</p>\n    <p>“I can navigate Brightspace fine, and I think the software is more modern than Blackboard was,” sophomore Hattie Philips said.</p>\n    <p>Villanova was previously using Blackboard Learn, an older version of the vendor’s LMS.</p>\n    <p>The platform was not popular among students and professors, and many thought it was not user-friendly and difficult to navigate.</p>\n    <p>“Brightspace feels cleaner and more organized, and I especially like having easy access through the mobile app,” junior Elizabeth Howard said.</p>\n    <p>The positive reactions to Brightspace have their limits, though. It has taken professors some time to get used to, which can make it difficult for students to use it effectively.</p>\n    <p>“The only trouble I have is that some of my professors still don’t know how to use it, which makes it more difficult for me,” Philips added.</p>\n    <p>Along with Brightspace, the implementation of Microsoft Authenticator in place of Duo Mobile has been a change students are getting used to.</p>\n    <p>When signing into a Villanova account, the Authenticator sends a notification to a user’s phone, which then opens the app. From there, the user is asked to enter a number, an extra step, when compared to Duo Mobile.</p>\n    <p>“I find it to be faster than Duo, but more annoying when I need to type the number in,” Philips said.</p>\n    <p>Although the new authenticator may be redundant, the decision to implement it was made with the students’ and university’s interests in mind.</p>\n    <p>The transition is part of the University’s “Rooted. Restless.” 10-year strategic plan, Tech Nova 2026, an initiative carried out by the University Technology Services.</p>\n    <p>With the changes, the university has made a noticeable commitment to helping students and professors understand how to use the new platforms.</p>\n    <p>“I think Brightspace will be easier in the long term, even if there is a slight learning curve in the short term, as there is with any major transition,” Howard said. “It has been great to see how intentionally the rollout was planned with students in mind, including pilot users, training, student guides and workshops.”</p>\n    <p>Luckily, the 2026-2027 academic year is young, giving students and faculty plenty of time to iron out any issues that may pop up. University Technology Services will be hosting faculty office hours over Zoom to offer staff personalized support.</p>\n    <p>With support from students and Technology Services, Brightspace and Microsoft Authenticator will be positive changes that make learning and accessing materials easier for all.</p>\n  </body>\n</html>",
-      "word_count": 511,
-      "char_count": 3233,
-      "lead_image": "https://villanovan.com/wp-content/uploads/2026/04/scheudle-builder.jpg",
-      "images": [
-        {
-          "url": "https://villanovan.com/wp-content/uploads/2026/04/scheudle-builder.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-09T12:41:29Z"
-    },
-    {
-      "id": "b97e509b13a0f4ae",
-      "title": "Qualcomm's big bet on 6G technology",
-      "header": "Yahoo Finance",
-      "published_at": "2026-09-09T11:00:00Z",
-      "published_raw": "Wed, 09 Sep 2026 11:00:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc0FWNEtsYnZWRzdmYnlRdG05a2lzZ2JQcGxoV1JqdGZNRmdMb0F0dWthOW96NTdRY05ubGNrMVpjSTk5c3RUUDBxSDlabVA3QXQweFpLZERNN19zaFc2NENmV1VOWmdBWUkwcU5zblZVSUQ0Nkd4ekpGN2JFQWJMdDhITWY3aGM5?oc=5",
-      "description": "Qualcomm's big bet on 6G technology Yahoo Finance",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc0FWNEtsYnZWRzdmYnlRdG05a2lzZ2JQcGxoV1JqdGZNRmdMb0F0dWthOW96NTdRY05ubGNrMVpjSTk5c3RUUDBxSDlabVA3QXQweFpLZERNN19zaFc2NENmV1VOWmdBWUkwcU5zblZVSUQ0Nkd4ekpGN2JFQWJMdDhITWY3aGM5?oc=5\" target=\"_blank\">Qualcomm's big bet on 6G technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc0FWNEtsYnZWRzdmYnlRdG05a2lzZ2JQcGxoV1JqdGZNRmdMb0F0dWthOW96NTdRY05ubGNrMVpjSTk5c3RUUDBxSDlabVA3QXQweFpLZERNN19zaFc2NENmV1VOWmdBWUkwcU5zblZVSUQ0Nkd4ekpGN2JFQWJMdDhITWY3aGM5?oc=5"
-      ],
-      "scraped_at": "2026-09-09T12:41:28Z",
-      "url": "https://finance.yahoo.com/video/qualcomms-big-bet-on-6g-technology-110000678.html",
-      "final_url": "https://finance.yahoo.com/video/qualcomms-big-bet-on-6g-technology-110000678.html",
-      "source": "Yahoo Finance",
-      "article_title": "Qualcomm's big bet on 6G technology",
-      "heading": "Yahoo Finance",
-      "authors": [
-        "Yahoo Finance Video"
-      ],
-      "article_published_at": "2026-09-09T11:00:00Z",
-      "article_modified_at": "2026-09-09T11:00:00Z",
-      "summary": "Qualcomm CEO Cristiano Amon unpacks how 6G technology will transform the industry–and how Qualcomm's radio-frequency expertise shapes his vision for the company's future.",
-      "content": "Qualcomm CEO Cristiano Amon unpacks how 6G technology will transform the industry–and how Qualcomm's radio-frequency expertise shapes his vision for the company's future.\n6G is going to be a big change in the industry because in addition of communications, in addition of of the connectivity, I think for the age of AI, in addition of enabling all of us to be walking cameras with glasses that see what I see, sending high definition video to the cloud. The other thing is\nevery radio connection, there's something in 6G called an ISAC, an integrated sensing and connectivity. So every radio connection works as a radar. And you can see, it can be used for many things including drone detection.\nthe network can see everything that moves, everything that flies.\nI this is this is pretty, I mean, seeing it in person, I'm speechless.\nYeah. This is inside.\n6G will be able to be a very important, I think, a part of uh, globally national security, the ability to detect drones. You're going to have to have AI models\nYeah. they are going to be trained on the propagation aspects of radio frequency. This is not a language.\nIt's something different. It's called physical AI. And you guys to run those models at the radio base stations. So, there's a lot of R&D that is happening right now for 6G that's coming in by 2029.\nOne thing I can say about the company, uh, in all humility, we'll come understand radio communication, and I think we're going to do a good job at this.",
-      "content_html": "<html>\n  <body>\n    <h1>Qualcomm's big bet on 6G technology</h1>\n    <p>Qualcomm CEO Cristiano Amon unpacks how 6G technology will transform the industry–and how Qualcomm's radio-frequency expertise shapes his vision for the company's future.</p>\n    <p>6G is going to be a big change in the industry because in addition of communications, in addition of of the connectivity, I think for the age of AI, in addition of enabling all of us to be walking cameras with glasses that see what I see, sending high definition video to the cloud. The other thing is</p>\n    <p>every radio connection, there's something in 6G called an ISAC, an integrated sensing and connectivity. So every radio connection works as a radar. And you can see, it can be used for many things including drone detection.</p>\n    <p>the network can see everything that moves, everything that flies.</p>\n    <p>I this is this is pretty, I mean, seeing it in person, I'm speechless.</p>\n    <p>Yeah. This is inside.</p>\n    <p>6G will be able to be a very important, I think, a part of uh, globally national security, the ability to detect drones. You're going to have to have AI models</p>\n    <p>Yeah. they are going to be trained on the propagation aspects of radio frequency. This is not a language.</p>\n    <p>It's something different. It's called physical AI. And you guys to run those models at the radio base stations. So, there's a lot of R&amp;D that is happening right now for 6G that's coming in by 2029.</p>\n    <p>One thing I can say about the company, uh, in all humility, we'll come understand radio communication, and I think we're going to do a good job at this.</p>\n  </body>\n</html>",
-      "word_count": 262,
-      "char_count": 1471,
-      "lead_image": "https://s.yimg.com/lo/mysterio/api/c751ade789ed439bdc7f15e881a77a28919d2cc84c6b76dac5ead83097bcdb74/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fhtr-thumbnail-christianoamon3-0908-1_6946.png",
-      "images": [
-        {
-          "url": "https://s.yimg.com/lo/mysterio/api/c751ade789ed439bdc7f15e881a77a28919d2cc84c6b76dac5ead83097bcdb74/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fhtr-thumbnail-christianoamon3-0908-1_6946.png",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/htr-thumbnail-christianoamon3-0908-1_6946.png",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://s.yimg.com/lo/mysterio/api/fdb03dc0745fd4fca3bcf9e1433fbd3657d584a77efa39052e37c0eca469bd1f/lightyear_networkapi/resizefill_h48%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F02246f50-3412-11eb-bfdd-de89f8b3b8b8",
-          "alt": "Yahoo Finance Video",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 3,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-09T12:41:28Z"
     }
   ]
 }
