@@ -1,17 +1,51 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-18T22:59:02Z",
+  "generated_at": "2026-09-19T01:03:44Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 13,
-    "added": 7,
-    "updated": 6,
+    "scraped_now": 7,
+    "added": 2,
+    "updated": 5,
     "ok": 372,
     "failed": 128,
-    "duration_seconds": 10.04
+    "duration_seconds": 9.7
   },
   "articles": [
+    {
+      "id": "d909d5bd1765bc99",
+      "title": "Google Says Its A.I. Hacked Three Companies in Testing Breakout",
+      "header": "The New York Times",
+      "published_at": "2026-09-19T00:04:48Z",
+      "published_raw": "Sat, 19 Sep 2026 00:04:48 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5",
+      "description": "Google Says Its A.I. Hacked Three Companies in Testing Breakout The New York Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5\" target=\"_blank\">Google Says Its A.I. Hacked Three Companies in Testing Breakout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5"
+      ],
+      "scraped_at": "2026-09-19T01:03:36Z",
+      "url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
+      "final_url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
+      "source": "The New York Times",
+      "article_title": "",
+      "heading": "Google Says Its A.I. Hacked Three Companies in Testing Breakout",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Google Says Its A.I. Hacked Three Companies in Testing Breakout The New York Times",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-19T01:03:36Z"
+    },
     {
       "id": "0aadbebc23e350ed",
       "title": "UNMC demonstrates telehealth, VR technology to help close rural care gaps",
@@ -66,7 +100,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY25lb0paZU96UjNTd2pnci1SMEJqNk1WQUM1Q3VWeWlMbTJvUEdVNEJwSGNHVTU1NmF2MUdyak9WSzNzbzFFZ0dPUWtjQ2U2czhiYzlHb0VaaWd2MDhkalJZbVJvckRiMks5Z1RDdGh5cHc2QkN5S3RwbG9JYzN3V2U4OVNRUTN2WVBRSTRUY1FCeEJUUFhNQmpqZnotVldrNWNrNnEtNjNJMm1ZVFp2V09fbW1lNVHSAb8BQVVfeXFMTnFWRUQ1emxBY1VzZTJSaUxSYTlfcGRnM3BJT2NyQ0p0b05KXzA3LUZiSTh2MkNYUXc4X05CdzBqTDRpU3hzUkxxQ1lEOFpBS05PNGh2b3JfLVNieW5fSENqWlI0Y1FoVm5zb1RDbEY2ME9lazVNRzRiM2RzTy1WMVhGQ1JGdHpUN19CeG1CRElfX2c3bTRORHlMRUY3bG5vU3NwbGQ0Qk05U1A2VElic3JkLXRDbDEwN0lCWE12RVE?oc=5"
       ],
-      "scraped_at": "2026-09-18T22:58:55Z",
+      "scraped_at": "2026-09-19T01:03:37Z",
       "url": "https://www.nbcmiami.com/video/nbc-6-news/teachers-surveyed-about-concerns-with-technology-in-the-classroom/3861529/",
       "final_url": "https://www.nbcmiami.com/video/nbc-6-news/teachers-surveyed-about-concerns-with-technology-in-the-classroom/3861529/",
       "source": "NBC 6 South Florida",
@@ -152,6 +186,52 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-18T22:58:55Z"
+    },
+    {
+      "id": "77f38567bc8aa7c5",
+      "title": "Man sentenced for raping college student in the Bronx in 2001 thanks to DNA technology advancements",
+      "header": "ABC7 New York",
+      "published_at": "2026-09-18T20:38:52Z",
+      "published_raw": "Fri, 18 Sep 2026 20:38:52 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmkxc0hmWXhCU1pHYUFfQldhX0xWeWc4ZlpaQm5ndlAyWVRneWtIVW9FSlZ6Mk1vS0E3SWZSVGZqbnJIaHk3ejNnNk5NVVptSU11R1ZaSVlYZnRmLXhQY3owU3drY1lqNlZ6cUZYcnAwcWlJTHA0OGZMSVJqcnQ1c0wyUVUzdlAzSFlkTVM1RHphNFJqalNNR1cwOWVsVWtPX21SMWtyM3liYWNSd2l2YmtTTVVjcWfSAbwBQVVfeXFMTUhTajNUZ19vdlhGUnc5SExjTGdFa3U5NUl1MUt3UXUzekJ5bk90czRYTW5abVF5aGpQVW1pak9LS3Z4bjNIQ3E2UEpBRFpGUEFfN2s0ZnVpNG56enJpMERrckxsQ2wwU2otQ25UUkNZeXVTMkVJUEtKTUJ4RFViSUdqUENkdmtxc3JZOWFjREViTm1WQTZmbGFmZGVvb25IM01nR1hLOXg4cTI4eDBvVHRzVk5jQ0dLQjlBamo?oc=5",
+      "description": "Man sentenced for raping college student in the Bronx in 2001 thanks to DNA technology advancements ABC7 New York",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmkxc0hmWXhCU1pHYUFfQldhX0xWeWc4ZlpaQm5ndlAyWVRneWtIVW9FSlZ6Mk1vS0E3SWZSVGZqbnJIaHk3ejNnNk5NVVptSU11R1ZaSVlYZnRmLXhQY3owU3drY1lqNlZ6cUZYcnAwcWlJTHA0OGZMSVJqcnQ1c0wyUVUzdlAzSFlkTVM1RHphNFJqalNNR1cwOWVsVWtPX21SMWtyM3liYWNSd2l2YmtTTVVjcWfSAbwBQVVfeXFMTUhTajNUZ19vdlhGUnc5SExjTGdFa3U5NUl1MUt3UXUzekJ5bk90czRYTW5abVF5aGpQVW1pak9LS3Z4bjNIQ3E2UEpBRFpGUEFfN2s0ZnVpNG56enJpMERrckxsQ2wwU2otQ25UUkNZeXVTMkVJUEtKTUJ4RFViSUdqUENkdmtxc3JZOWFjREViTm1WQTZmbGFmZGVvb25IM01nR1hLOXg4cTI4eDBvVHRzVk5jQ0dLQjlBamo?oc=5\" target=\"_blank\">Man sentenced for raping college student in the Bronx in 2001 thanks to DNA technology advancements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 New York</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmkxc0hmWXhCU1pHYUFfQldhX0xWeWc4ZlpaQm5ndlAyWVRneWtIVW9FSlZ6Mk1vS0E3SWZSVGZqbnJIaHk3ejNnNk5NVVptSU11R1ZaSVlYZnRmLXhQY3owU3drY1lqNlZ6cUZYcnAwcWlJTHA0OGZMSVJqcnQ1c0wyUVUzdlAzSFlkTVM1RHphNFJqalNNR1cwOWVsVWtPX21SMWtyM3liYWNSd2l2YmtTTVVjcWfSAbwBQVVfeXFMTUhTajNUZ19vdlhGUnc5SExjTGdFa3U5NUl1MUt3UXUzekJ5bk90czRYTW5abVF5aGpQVW1pak9LS3Z4bjNIQ3E2UEpBRFpGUEFfN2s0ZnVpNG56enJpMERrckxsQ2wwU2otQ25UUkNZeXVTMkVJUEtKTUJ4RFViSUdqUENkdmtxc3JZOWFjREViTm1WQTZmbGFmZGVvb25IM01nR1hLOXg4cTI4eDBvVHRzVk5jQ0dLQjlBamo?oc=5"
+      ],
+      "scraped_at": "2026-09-19T01:03:36Z",
+      "url": "https://abc7ny.com/post/man-sentenced-raping-college-student-bronx-2001-thanks-dna-technology-advancements/19847306/",
+      "final_url": "https://abc7ny.com/post/man-sentenced-raping-college-student-bronx-2001-thanks-dna-technology-advancements/19847306/",
+      "source": "ABC7 New York",
+      "article_title": "Man sentenced for raping college student in 2001 thanks to DNA technology advancements",
+      "heading": "Man sentenced for raping college student in 2001 thanks to DNA technology advancements",
+      "authors": [],
+      "article_published_at": "2026-09-18T20:32:35Z",
+      "article_modified_at": "2026-09-18T20:32:36Z",
+      "summary": "The suspect was tied to both the 2001 rape of a 21-year-old woman in the Bronx and a May 2000 rape of a 27-year-old woman in Manhattan by the cutting edge technology.",
+      "content": "Friday, September 18, 2026 8:32PM\nMELROSE, Bronx (WABC) -- Jancys Santiago was sentenced to 25 years behind bars for raping a college student in 2001, in the state's first rape case to be indicted based on genealogy from DNA database.\nHe will also serve five years post-release supervision and will be required to register as a sex offender.\nSantiago was tied to both the 2001 rape of a 21-year-old woman in the Bronx and a May 2000 rape of a 27-year-old woman in Manhattan by the cutting edge technology. He was convicted in the Bronx case in June.\n\"This decision was more than 20 years in the making,\" Bronx District Attorney Darcel Clark said.\nHe was living in Groveland, Florida, when he was arrested, and extradited to New York to face charges in both cases.\nIn the Bronx case, Santiago allegedly broke into a 21-year-old neighbor's apartment while she was sleeping in Dec. 2001. He covered his victim's face, bound her with a wire hanger, and raped her.\n\"She survived and she is here with us today,\" Clark said.\nKaty Vicchitto faced Santiago in court on Friday.\n\"My experience as a survivor of a sexual assault affects every aspect of my life,\" she said. \"It is like a filter that every new physical and social experience goes through.\"\nInvestigators had no way of knowing that they were looking for the victim's neighbor in her rape.\nThe victim's rape kit generated a donor profile that eventually matched the donor profile from Santiago's Manhattan rape case, entered in 2005 and logged into the system as \"John Doe.\"\n\"Unfortunately, at the time the DNA profile could not be linked to a specifical individual and the identity of the assailant remained unknown for many decades. Over time, technology advanced,\" Clark said.\nIn 2022, the Bronx District Attorney's Office received a three-year $500,000 grant from the Justice Department's Bureau of Justice Assistance to reexamine this and other cold cases.\n\"This process led investigators to only one man. Jancys Santiago,\" Clark said.\nSantiago was sentenced last December to 20 years in prison, then five years of post-release supervision, in the Manhattan case.\nVicchitto met the victim of that case, Sarah Clark, for the first time.\n\"This process has been very difficult, but today's sentence validates forensic science and the power of reporting and advocacy,\" Vicchitto said.\nThe two survivors, tied together by trauma, were united finally by justice and closure.\n\"I hope this is only the beginning. One down. Hopefully thousands more to go,\" Clark said.\n----------\n* Download the abc7NY app for breaking news alerts\n* Download our connected TV app\nHave a breaking news tip or an idea for a story we should cover? Send it to Eyewitness News using the form below. If attaching a video or photo, terms of use apply.\nCopyright © 2026 WABC-TV. All Rights Reserved.",
+      "content_html": "<html>\n  <body>\n    <p>MELROSE, Bronx (WABC) -- Jancys Santiago was sentenced to 25 years behind bars for raping a college student in 2001, in the state's first rape case to be indicted based on genealogy from DNA database.</p>\n    <p>He will also serve five years post-release supervision and will be required to register as a sex offender.</p>\n    <p>Santiago was tied to both the 2001 rape of a 21-year-old woman in the Bronx and a May 2000 rape of a 27-year-old woman in Manhattan by the cutting edge technology. He was convicted in the Bronx case in June.</p>\n    <p>\"This decision was more than 20 years in the making,\" Bronx District Attorney Darcel Clark said.</p>\n    <p>He was living in Groveland, Florida, when he was arrested, and extradited to New York to face charges in both cases.</p>\n    <p>In the Bronx case, Santiago allegedly broke into a 21-year-old neighbor's apartment while she was sleeping in Dec. 2001. He covered his victim's face, bound her with a wire hanger, and raped her.</p>\n    <p>\"She survived and she is here with us today,\" Clark said.</p>\n    <p>Katy Vicchitto faced Santiago in court on Friday.</p>\n    <p>\"My experience as a survivor of a sexual assault affects every aspect of my life,\" she said. \"It is like a filter that every new physical and social experience goes through.\"</p>\n    <p>Investigators had no way of knowing that they were looking for the victim's neighbor in her rape.</p>\n    <p>The victim's rape kit generated a donor profile that eventually matched the donor profile from Santiago's Manhattan rape case, entered in 2005 and logged into the system as \"John Doe.\"</p>\n    <p>\"Unfortunately, at the time the DNA profile could not be linked to a specifical individual and the identity of the assailant remained unknown for many decades. Over time, technology advanced,\" Clark said.</p>\n    <p>In 2022, the Bronx District Attorney's Office received a three-year $500,000 grant from the Justice Department's Bureau of Justice Assistance to reexamine this and other cold cases.</p>\n    <p>\"This process led investigators to only one man. Jancys Santiago,\" Clark said.</p>\n    <p>Santiago was sentenced last December to 20 years in prison, then five years of post-release supervision, in the Manhattan case.</p>\n    <p>Vicchitto met the victim of that case, Sarah Clark, for the first time.</p>\n    <p>\"This process has been very difficult, but today's sentence validates forensic science and the power of reporting and advocacy,\" Vicchitto said.</p>\n    <p>The two survivors, tied together by trauma, were united finally by justice and closure.</p>\n    <p>\"I hope this is only the beginning. One down. Hopefully thousands more to go,\" Clark said.</p>\n    <p>----------</p>\n    <p>* Download the abc7NY app for breaking news alerts</p>\n    <p>* Download our connected TV app</p>\n    <p/>\n    <p>Have a breaking news tip or an idea for a story we should cover? Send it to Eyewitness News using the form below. If attaching a video or photo, terms of use apply.</p>\n  </body>\n</html>",
+      "word_count": 476,
+      "char_count": 2821,
+      "lead_image": "https://cdn.abcotvs.com/dip/images/19847659_091826-wabc-bronx-cold-case-img.jpg?w=1600",
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/19847659_091826-wabc-bronx-cold-case-img.jpg?w=1600",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://cdn.abcotvs.net/abcotv/static/common/origins/origin-wabc.png",
+          "alt": "WABC logo",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-19T01:03:36Z"
     },
     {
       "id": "62ed92ad22fc0363",
@@ -641,40 +721,6 @@
       "first_seen_at": "2026-09-18T22:58:55Z"
     },
     {
-      "id": "a4cf779e9a2a93c8",
-      "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
-      "header": "Reuters",
-      "published_at": "2026-09-18T17:18:30Z",
-      "published_raw": "Fri, 18 Sep 2026 17:18:30 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
-      "description": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program Reuters",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5\" target=\"_blank\">EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5"
-      ],
-      "scraped_at": "2026-09-18T22:58:53Z",
-      "url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
-      "final_url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
-      "source": "Reuters",
-      "article_title": "",
-      "heading": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program Reuters",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-18T13:20:41Z"
-    },
-    {
       "id": "ebfc313cb8d8497a",
       "title": "Hugging Face Hack Shows Humans Can Keep AI In Check",
       "header": "Bloomberg.com",
@@ -801,25 +847,25 @@
     {
       "id": "cb5e71f3bf454077",
       "title": "Disney Names AI Executive as First-Ever Chief Technology Officer",
-      "header": "Bloomberg.com",
+      "header": "Bloomberg",
       "published_at": "2026-09-18T16:47:07Z",
       "published_raw": "Fri, 18 Sep 2026 16:47:07 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5",
-      "description": "Disney Names AI Executive as First-Ever Chief Technology Officer Bloomberg.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5\" target=\"_blank\">Disney Names AI Executive as First-Ever Chief Technology Officer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "description": "Disney Names AI Executive as First-Ever Chief Technology Officer Bloomberg",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5\" target=\"_blank\">Disney Names AI Executive as First-Ever Chief Technology Officer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5"
       ],
-      "scraped_at": "2026-09-18T22:58:53Z",
+      "scraped_at": "2026-09-19T01:03:36Z",
       "url": "https://www.bloomberg.com/news/articles/2026-09-18/disney-names-ai-executive-as-first-ever-chief-technology-officer",
       "final_url": "https://www.bloomberg.com/news/articles/2026-09-18/disney-names-ai-executive-as-first-ever-chief-technology-officer",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "article_title": "",
       "heading": "Disney Names AI Executive as First-Ever Chief Technology Officer",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
-      "summary": "Disney Names AI Executive as First-Ever Chief Technology Officer Bloomberg.com",
+      "summary": "Disney Names AI Executive as First-Ever Chief Technology Officer Bloomberg",
       "content": "",
       "content_html": "",
       "word_count": 0,
@@ -1046,7 +1092,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQXBfSlp3aEU3eGRJX0pYaVBtV19rdmxjamZiVFBQcERjbTVtWlU4bHNFd1BBMlBFVXcyeE9YS0pUUDBCTndaaDBBUTdLLTlnOFZrVjk0S3VoOV9jN0h5VlEyRHI1NkZobWtCektodnpQQ19BazFMc0ZsMHhnU2MweGxZNnBONExTTUtqSHctc083QjZjNEE?oc=5"
       ],
-      "scraped_at": "2026-09-18T22:58:53Z",
+      "scraped_at": "2026-09-19T01:03:36Z",
       "url": "https://www.nytimes.com/2026/09/18/business/media/disney-ai-technology-karandeep-anand.html",
       "final_url": "https://www.nytimes.com/2026/09/18/business/media/disney-ai-technology-karandeep-anand.html",
       "source": "The New York Times",
@@ -1264,7 +1310,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUG9ucEhoYmc0aHM5WDExblA0ZlV1Q0V4QzdHbkI3dFFySG5NMS1XcXc3NE1vcno1TGhtN18wVFB2TEYzWmxXRGZvNUdGbkJaVkxROTR3alduYm5fU09OdmhFT1BCTlRwbjlzd1htODJaSGRsb0ZudklRVXFMcXdsenN2bDFmeWM?oc=5"
       ],
-      "scraped_at": "2026-09-18T22:58:53Z",
+      "scraped_at": "2026-09-19T01:03:36Z",
       "url": "https://www.wsj.com/opinion/no-helmet-technology-can-make-football-safe-0f00cd72",
       "final_url": "https://www.wsj.com/opinion/no-helmet-technology-can-make-football-safe-0f00cd72",
       "source": "WSJ",
@@ -1996,6 +2042,40 @@
       "status": "partial",
       "error": "download_failed",
       "first_seen_at": "2026-09-18T13:20:45Z"
+    },
+    {
+      "id": "a4cf779e9a2a93c8",
+      "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
+      "header": "Reuters",
+      "published_at": "2026-09-18T10:02:00Z",
+      "published_raw": "Fri, 18 Sep 2026 10:02:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
+      "description": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program Reuters",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5\" target=\"_blank\">EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5"
+      ],
+      "scraped_at": "2026-09-19T01:03:36Z",
+      "url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
+      "final_url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
+      "source": "Reuters",
+      "article_title": "",
+      "heading": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program Reuters",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-18T13:20:41Z"
     },
     {
       "id": "a029b926be6af027",
@@ -24572,75 +24652,6 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-10T14:46:02Z"
-    },
-    {
-      "id": "8fffad6b0aef0544",
-      "title": "Four Ways Technology Can Ease the MAR Compliance Process",
-      "header": "FTI Consulting",
-      "published_at": "2026-09-10T13:29:39Z",
-      "published_raw": "Thu, 10 Sep 2026 13:29:39 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHhoNlhUYTl0MnBfOXkyYnBpbWk0Q0Vxa0NOcWR1Q3hIR0l3MzdtMTFxVlh6bTYtNEVtZ0NjTGNpNmxtekJlbUQzblhrVTVCRUZ4NVljOUdNOVktenRDTWEzTVNYLWZPY1ZHRWk4RzZXal9vUkRuNzBldWxxMTA5VUEzV1g4bUNhN294TEdHRUNzclp2OVNveGRRQmEtUFZlTkE?oc=5",
-      "description": "Four Ways Technology Can Ease the MAR Compliance Process FTI Consulting",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHhoNlhUYTl0MnBfOXkyYnBpbWk0Q0Vxa0NOcWR1Q3hIR0l3MzdtMTFxVlh6bTYtNEVtZ0NjTGNpNmxtekJlbUQzblhrVTVCRUZ4NVljOUdNOVktenRDTWEzTVNYLWZPY1ZHRWk4RzZXal9vUkRuNzBldWxxMTA5VUEzV1g4bUNhN294TEdHRUNzclp2OVNveGRRQmEtUFZlTkE?oc=5\" target=\"_blank\">Four Ways Technology Can Ease the MAR Compliance Process</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTI Consulting</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHhoNlhUYTl0MnBfOXkyYnBpbWk0Q0Vxa0NOcWR1Q3hIR0l3MzdtMTFxVlh6bTYtNEVtZ0NjTGNpNmxtekJlbUQzblhrVTVCRUZ4NVljOUdNOVktenRDTWEzTVNYLWZPY1ZHRWk4RzZXal9vUkRuNzBldWxxMTA5VUEzV1g4bUNhN294TEdHRUNzclp2OVNveGRRQmEtUFZlTkE?oc=5"
-      ],
-      "scraped_at": "2026-09-10T14:46:04Z",
-      "url": "https://www.fticonsulting.com/insights/articles/four-ways-technology-can-ease-mar-compliance-process",
-      "final_url": "https://www.fticonsulting.com/insights/articles/four-ways-technology-can-ease-mar-compliance-process",
-      "source": "fticonsulting.com",
-      "article_title": "Four Ways Technology Can Ease MAR Compliance Process | FTI",
-      "heading": "Four Ways Technology Can Ease the MAR Compliance Process",
-      "authors": [
-        "FTI Consulting"
-      ],
-      "article_published_at": "2026-09-10",
-      "article_modified_at": "2026-09-10",
-      "summary": "For insurers struggling with Model Audit Rule “MAR” compliance, integrated Governance, Risk and Compliance systems can help in four distinct ways.",
-      "content": "Four Ways Technology Can Ease the MAR Compliance Process\n-\nSeptember 10, 2026\n-\n\nMost insurers struggle with Model Audit Rule (“MAR”) certification – not because of its complexity, but because they rely on traditional approaches that are no longer effective.\nCrossing the $500 million premium threshold triggers MAR requirements that mandate stronger controls, formal accountability, and executive certification.1 Many organizations layer new requirements onto existing manual processes such as spreadsheets, emails, and disconnected control frameworks.\nThis approach leads to inefficiency, fragmented data, duplicated effort, and uncertainty about control effectiveness. MAR compliance becomes a resource-intensive process focused on tracking, validation and reconciliation, rather than reliable governance.\nWhile MAR is a compliance hurdle, insurers quickly learn that it’s also an operational test, revealing an organization’s ability to administratively manage such a project across functions and at scale.\nTechnology can ease compliance burdens, but its value goes beyond increased efficiency. For organizations struggling with compliance structure and traceability, integrated Governance, Risk and Compliance (“GRC”) systems can be a game-changer.\nThe Accountability Test Behind MAR Certification\nMAR certification requires management to answer four questions:\n- Who owns the control?\n- How do we know it was performed?\n- What happened when it failed?\n- What evidence supports management’s assertion?\nWithout visibility, ownership, evidence, and traceability, management cannot confidently answer these questions. While these questions center on accountability, technology is needed to answer them at scale.\nHow Technology Eases MAR Compliance\nMAR compliance is more complex without the proper resources or technology the program truly requires. For many insurers, responsibility falls to internal audit or MAR compliance teams that are already stretched across multiple priorities. Even with the right expertise, managing the program and testing requirements can be difficult without dedicated technology.\nThe real value of a GRC platform is its ability to create a single source of truth across a platform that unites risks, controls, testing activities, deficiencies, and certifications. Many insurers already use GRC solutions to support existing programs, including Enterprise Risk Management and Cybersecurity Risk Management. By leveraging a shared data model across functions, organizations can improve visibility, reduce duplication of effort, and create stronger linkages between risk, controls, testing, and compliance activities.\nSince MAR compliance involves finance, internal audit, compliance, IT, underwriting, claims, and executive leadership, organizations need a centralized platform to connect control ownership, testing, remediation, and certification activities across the enterprise.\nHere are four key challenges with MAR readiness and how GRC platforms can help:\nOne: Accountability Begins With Evidence\nWithout a GRC platform, teams rely on email and manual follow-up to gather testing evidence from multiple stakeholders. As controls and stakeholders increase, these processes become more resource-intensive and harder to monitor, leading to delays, inconsistent documentation, and accountability gaps.\nHow GRC helps: MAR readiness evaluates an organization’s ability to consistently demonstrate control effectiveness. Technology supports this by centralizing evidence, strengthening accountability, and creating a defensible record of control performance. Additionally, finance departments could have their own controls that support both MAR and operational objectives. A GRC platform provides a consolidated view of controls, test results, and policies and procedures, enabling organizations to leverage existing compliance investments and minimize duplication.\nTwo: Accountability Requires a Single Source of Truth\nWhen risks are maintained across spreadsheets and e-mails, no one has a complete picture of the organization’s risk profile or real-time visibility into MAR activities. This prevents the company from identifying interconnected risks, potentially creating compliance risk blind spots. Without ownership, accountability remains fragmented and compliance reactive. Teams spend more time gathering or reconciling information than managing risk.\nHow GRC helps: The platform centralizes risks, controls, processes, and systems into a single inventory, linking related documentation and evidence. More importantly, updates can be centralized to single point where updates are linked and automatically flow through to risk and control matrices, process narratives, flowcharts, and other documentation. This can reduce evidence duplication, inconsistency, and compliance resource efforts. MAR teams can focus on tasks that remain outstanding instead of chasing down control owners for updates on testing activities.\nThree: Limited Risk Visibility Delays Remediation and Increases Risk\nControl failures are inevitable, but the ability to respond effectively is what matters. Without a GRC system, organizations commonly rely on manual processes to log issues, assign accountability, manage remediation plans, monitor progress, and chase updates. This makes timely resolution difficult and onerous.\nHow GRC helps: Effective remediation requires visibility, accountability and timely escalation. A GRC platform can provide real-time insight into issue status, remediation progress, and ownership. By addressing deficiencies early, organizations can proactively manage risk.\nFour: Executive Accountability Requires Defensible Evidence\nMAR requires executive management, typically the CEO and CFO, to acknowledge their responsibility for establishing, maintaining, and designing effective internal controls over financial reporting (“ICFR”). This attestation must be supported by detailed documentation that is readily available upon a regulatory examination. Management must document how they evaluated ICFR effectiveness and disclose any unremediated weaknesses. CEOs and CFOs are held accountable when they sign the management reports. False or misleading statements could result in regulatory actions, civil actions, and penalties.\nHow GRC helps: Executive certifications are only as reliable as the evidence supporting them. A GRC platform creates structured certification workflows, captures sub-certifications from control and process owners, maintains supporting evidence, and provides executives with a defensible audit trail for management’s attestation.\nThe fundamental challenge of MAR extends beyond controls design, testing methodology, and documentation: it is accountability. Regulators expect organizations to demonstrate who was responsible, what was tested, what exceptions were identified, how those exceptions were resolved, and what evidence supports management’s conclusions. Organizations that rely on manual processes often struggle to answer these questions consistently. Integrated GRC platforms create the transparency and accountability needed to support executive certification.\nFootnotes:\n1: “NAIC Model Laws, Regulations, Guidelines, and other Resources: Annual Financial Reporting Model Regulation” NAIC Accounting, MO-205-16 (Q3 2015).\nRelated Insights\nRelated Information\nPublished\nSeptember 10, 2026\nKey Contacts\nSenior Managing Director\nManaging Director\nSenior Director",
-      "content_html": "<html>\n  <body><h1>Four Ways Technology Can Ease the MAR Compliance Process</h1><ul><li>\n                    <p>September 10, 2026</p></li><li>\n                    \n<img src=\"/Content/Project/Global/images/assets/back-to-top.svg\" alt=\"Back to top\"/>\n                    </li></ul><p>Most insurers struggle with Model Audit Rule (“MAR”) certification – not because of its complexity, but because they rely on traditional approaches that are no longer effective.</p><p>Crossing the $500 million premium threshold triggers MAR requirements that mandate stronger controls, formal accountability, and executive certification.1 Many organizations layer new requirements onto existing manual processes such as spreadsheets, emails, and disconnected control frameworks.</p><p>This approach leads to inefficiency, fragmented data, duplicated effort, and uncertainty about control effectiveness. MAR compliance becomes a resource-intensive process focused on tracking, validation and reconciliation, rather than reliable governance.</p><p>While MAR is a compliance hurdle, insurers quickly learn that it’s also an operational test, revealing an organization’s ability to administratively manage such a project across functions and at scale.</p><p>Technology can ease compliance burdens, but its value goes beyond increased efficiency. For organizations struggling with compliance structure and traceability, integrated Governance, Risk and Compliance (“GRC”) systems can be a game-changer.</p><h3>The Accountability Test Behind MAR Certification</h3><p>MAR certification requires management to answer four questions:</p><ul><li>Who owns the control?</li><li>How do we know it was performed?</li><li>What happened when it failed?</li><li>What evidence supports management’s assertion?</li></ul><p>Without visibility, ownership, evidence, and traceability, management cannot confidently answer these questions. While these questions center on accountability, technology is needed to answer them at scale.</p><h3>How Technology Eases MAR Compliance</h3><p>MAR compliance is more complex without the proper resources or technology the program truly requires. For many insurers, responsibility falls to internal audit or MAR compliance teams that are already stretched across multiple priorities. Even with the right expertise, managing the program and testing requirements can be difficult without dedicated technology.</p><p>The real value of a GRC platform is its ability to create a single source of truth across a platform that unites risks, controls, testing activities, deficiencies, and certifications. Many insurers already use GRC solutions to support existing programs, including Enterprise Risk Management and Cybersecurity Risk Management. By leveraging a shared data model across functions, organizations can improve visibility, reduce duplication of effort, and create stronger linkages between risk, controls, testing, and compliance activities.</p><p>Since MAR compliance involves finance, internal audit, compliance, IT, underwriting, claims, and executive leadership, organizations need a centralized platform to connect control ownership, testing, remediation, and certification activities across the enterprise.</p><p>Here are four key challenges with MAR readiness and how GRC platforms can help:</p><h3>One: Accountability Begins With Evidence</h3><p>Without a GRC platform, teams rely on email and manual follow-up to gather testing evidence from multiple stakeholders. As controls and stakeholders increase, these processes become more resource-intensive and harder to monitor, leading to delays, inconsistent documentation, and accountability gaps.</p><p>How GRC helps: MAR readiness evaluates an organization’s ability to consistently demonstrate control effectiveness. Technology supports this by centralizing evidence, strengthening accountability, and creating a defensible record of control performance. Additionally, finance departments could have their own controls that support both MAR and operational objectives. A GRC platform provides a consolidated view of controls, test results, and policies and procedures, enabling organizations to leverage existing compliance investments and minimize duplication.</p><h3>Two: Accountability Requires a Single Source of Truth</h3><p>When risks are maintained across spreadsheets and e-mails, no one has a complete picture of the organization’s risk profile or real-time visibility into MAR activities. This prevents the company from identifying interconnected risks, potentially creating compliance risk blind spots. Without ownership, accountability remains fragmented and compliance reactive. Teams spend more time gathering or reconciling information than managing risk.</p><p>How GRC helps: The platform centralizes risks, controls, processes, and systems into a single inventory, linking related documentation and evidence. More importantly, updates can be centralized to single point where updates are linked and automatically flow through to risk and control matrices, process narratives, flowcharts, and other documentation. This can reduce evidence duplication, inconsistency, and compliance resource efforts. MAR teams can focus on tasks that remain outstanding instead of chasing down control owners for updates on testing activities.</p><h3>Three: Limited Risk Visibility Delays Remediation and Increases Risk</h3><p>Control failures are inevitable, but the ability to respond effectively is what matters. Without a GRC system, organizations commonly rely on manual processes to log issues, assign accountability, manage remediation plans, monitor progress, and chase updates. This makes timely resolution difficult and onerous.</p><p>How GRC helps: Effective remediation requires visibility, accountability and timely escalation. A GRC platform can provide real-time insight into issue status, remediation progress, and ownership. By addressing deficiencies early, organizations can proactively manage risk.</p><h3>Four: Executive Accountability Requires Defensible Evidence</h3><p>MAR requires executive management, typically the CEO and CFO, to acknowledge their responsibility for establishing, maintaining, and designing effective internal controls over financial reporting (“ICFR”). This attestation must be supported by detailed documentation that is readily available upon a regulatory examination. Management must document how they evaluated ICFR effectiveness and disclose any unremediated weaknesses. CEOs and CFOs are held accountable when they sign the management reports. False or misleading statements could result in regulatory actions, civil actions, and penalties.</p><p>How GRC helps: Executive certifications are only as reliable as the evidence supporting them. A GRC platform creates structured certification workflows, captures sub-certifications from control and process owners, maintains supporting evidence, and provides executives with a defensible audit trail for management’s attestation.</p><p>The fundamental challenge of MAR extends beyond controls design, testing methodology, and documentation: it is accountability. Regulators expect organizations to demonstrate who was responsible, what was tested, what exceptions were identified, how those exceptions were resolved, and what evidence supports management’s conclusions. Organizations that rely on manual processes often struggle to answer these questions consistently. Integrated GRC platforms create the transparency and accountability needed to support executive certification.</p><p>Footnotes:</p><p>1: “NAIC Model Laws, Regulations, Guidelines, and other Resources: Annual Financial Reporting Model Regulation” NAIC Accounting, MO-205-16 (Q3 2015).</p><h2>Related Insights</h2><h2>Related Information</h2><h3>Published</h3><p>September 10, 2026</p><h3>\n                        <img class=\"insights-rail__contact-icon\" src=\"/Content/Project/Global/images/assets/icon-contact.svg\" alt=\"temp\" loading=\"lazy\"/>\n                        Key Contacts\n                    </h3>\n\n                            <p>Senior Managing Director</p><p>Managing Director</p><p>Senior Director</p></body>\n</html>",
-      "word_count": 984,
-      "char_count": 7443,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-10T14:46:04Z"
-    },
-    {
-      "id": "867eea1dcce6f4eb",
-      "title": "Proven: Actions Technology’s End-to-End Audio Architecture Tames Sound’s “Black Magic”",
-      "header": "EE Times",
-      "published_at": "2026-09-10T13:00:46Z",
-      "published_raw": "Thu, 10 Sep 2026 13:00:46 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVFM1OG12Z1lhc1hwemJLU3FsQ3ZJMHRONHY0R2pEclZjbFZaRkFJeGh1RVNhelV4Nm9Vcl9rN1Z5Yl9QQnRZQzlmRmxHc2I4U2ItTG1IX1hWUDFQYTRjTUlhdjJlRnoxWmZZRDE3cWV5M3E3enlBQ0ZrY3VfNlRzcHA1XzU0cWo2RDNzZThIVWZxbE5qTWNPVFpLdlBVNmk2R2F3SnM1WE01QQ?oc=5",
-      "description": "Proven: Actions Technology’s End-to-End Audio Architecture Tames Sound’s “Black Magic” EE Times",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVFM1OG12Z1lhc1hwemJLU3FsQ3ZJMHRONHY0R2pEclZjbFZaRkFJeGh1RVNhelV4Nm9Vcl9rN1Z5Yl9QQnRZQzlmRmxHc2I4U2ItTG1IX1hWUDFQYTRjTUlhdjJlRnoxWmZZRDE3cWV5M3E3enlBQ0ZrY3VfNlRzcHA1XzU0cWo2RDNzZThIVWZxbE5qTWNPVFpLdlBVNmk2R2F3SnM1WE01QQ?oc=5\" target=\"_blank\">Proven: Actions Technology’s End-to-End Audio Architecture Tames Sound’s “Black Magic”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EE Times</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVFM1OG12Z1lhc1hwemJLU3FsQ3ZJMHRONHY0R2pEclZjbFZaRkFJeGh1RVNhelV4Nm9Vcl9rN1Z5Yl9QQnRZQzlmRmxHc2I4U2ItTG1IX1hWUDFQYTRjTUlhdjJlRnoxWmZZRDE3cWV5M3E3enlBQ0ZrY3VfNlRzcHA1XzU0cWo2RDNzZThIVWZxbE5qTWNPVFpLdlBVNmk2R2F3SnM1WE01QQ?oc=5"
-      ],
-      "scraped_at": "2026-09-10T14:46:05Z",
-      "url": "https://www.eetimes.com/proven-actions-technologys-end-to-end-audio-architecture-tames-sounds-black-magic/",
-      "final_url": "https://www.eetimes.com/proven-actions-technologys-end-to-end-audio-architecture-tames-sounds-black-magic/",
-      "source": "EE Times",
-      "article_title": "",
-      "heading": "Proven: Actions Technology’s End-to-End Audio Architecture Tames Sound’s “Black Magic”",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Proven: Actions Technology’s End-to-End Audio Architecture Tames Sound’s “Black Magic” EE Times",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-10T14:46:05Z"
     }
   ]
 }
