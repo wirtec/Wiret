@@ -1,17 +1,59 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-20T20:16:19Z",
+  "generated_at": "2026-09-20T22:57:19Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 12,
-    "added": 5,
-    "updated": 7,
-    "ok": 367,
-    "failed": 133,
-    "duration_seconds": 102.56
+    "scraped_now": 8,
+    "added": 3,
+    "updated": 5,
+    "ok": 368,
+    "failed": 132,
+    "duration_seconds": 102.39
   },
   "articles": [
+    {
+      "id": "e9e08f91d1a674b3",
+      "title": "Lawsuit says Anthropic, OpenAI, more made illegal agreement on AI slowdown",
+      "header": "spectrumlocalnews.com",
+      "published_at": "2026-09-20T20:51:00Z",
+      "published_raw": "Sun, 20 Sep 2026 20:51:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMkFOenZNM1Fpek9Vb3lMQ2I3b3NvX3haUzlpRFRnaTlJZ0x6UVVnSGU0UDJXZ1FuREUtbzlHUEEtT0NQMDFad1ZpWGZseFJQajVLbGVlR2pVS2phanRXX055UWRVVjdhQnAxWlFwSW9lWlF4dC1heGdveEV3TTJtdlg1R2ZteU5ialBzb0Z1SENzcC1ZbmxMdDJlQm5kUEx2QjVNcG94Ujd4M2hjVEZ5REQ0bXFuSFQxV3htd3VCUTRxcHIyY25oeDBRUzkyNkxRRGdBbU9KblQ5cGJnN0h6Wkg4R2dPY1Vi?oc=5",
+      "description": "Lawsuit says Anthropic, OpenAI, more made illegal agreement on AI slowdown spectrumlocalnews.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMkFOenZNM1Fpek9Vb3lMQ2I3b3NvX3haUzlpRFRnaTlJZ0x6UVVnSGU0UDJXZ1FuREUtbzlHUEEtT0NQMDFad1ZpWGZseFJQajVLbGVlR2pVS2phanRXX055UWRVVjdhQnAxWlFwSW9lWlF4dC1heGdveEV3TTJtdlg1R2ZteU5ialBzb0Z1SENzcC1ZbmxMdDJlQm5kUEx2QjVNcG94Ujd4M2hjVEZ5REQ0bXFuSFQxV3htd3VCUTRxcHIyY25oeDBRUzkyNkxRRGdBbU9KblQ5cGJnN0h6Wkg4R2dPY1Vi?oc=5\" target=\"_blank\">Lawsuit says Anthropic, OpenAI, more made illegal agreement on AI slowdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spectrumlocalnews.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMkFOenZNM1Fpek9Vb3lMQ2I3b3NvX3haUzlpRFRnaTlJZ0x6UVVnSGU0UDJXZ1FuREUtbzlHUEEtT0NQMDFad1ZpWGZseFJQajVLbGVlR2pVS2phanRXX055UWRVVjdhQnAxWlFwSW9lWlF4dC1heGdveEV3TTJtdlg1R2ZteU5ialBzb0Z1SENzcC1ZbmxMdDJlQm5kUEx2QjVNcG94Ujd4M2hjVEZ5REQ0bXFuSFQxV3htd3VCUTRxcHIyY25oeDBRUzkyNkxRRGdBbU9KblQ5cGJnN0h6Wkg4R2dPY1Vi?oc=5"
+      ],
+      "scraped_at": "2026-09-20T22:55:39Z",
+      "url": "https://spectrumlocalnews.com/ca/california/business/2026/09/20/lawsuit-says-anthropic--openai--spacexai-and-google-made-illegal-agreement-on-ai-slowdown",
+      "final_url": "https://spectrumlocalnews.com/ca/california/business/2026/09/20/lawsuit-says-anthropic--openai--spacexai-and-google-made-illegal-agreement-on-ai-slowdown",
+      "source": "spectrumlocalnews.com",
+      "article_title": "Lawsuit says Anthropic, OpenAI, more made illegal agreement on AI slowdown",
+      "heading": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+      "authors": [
+        "Associated Press"
+      ],
+      "article_published_at": "2026-09-20T13:51:00.000-07:00",
+      "article_modified_at": "2026-09-20T13:51:00.000-07:00",
+      "summary": "The coordination largely took place on Sept. 12, the lawsuit argues",
+      "content": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development.\nThe lawsuit, which was filed Friday in the U.S. District Court for the Northern District of California, argues that the leading AI companies violated antitrust laws when they agreed to coordinate slowdown efforts, and that doing so would reduce the value consumers get for paid AI subscriptions.\nThe coordination largely took place on Sept. 12, the lawsuit argues, when Anthropic CEO Dario Amodei published an essay urging for industrywide cooperation on decelerating advancements in favor of enhanced safety measures. That same day, OpenAI CEO Sam Altman, SpaceXAI CEO Elon Musk and Google DeepMind's co-founder and chair Demis Hassabis each publicly responded to Amodei's proposals in agreement.\nBut the lawsuit also alleges that the coordination began to take shape months earlier. It points to a statement from July 2026 that high-ranking employees from several of the leading AI labs signed that acknowledged the \"intense competitive pressure not to unilaterally slow” development. That statement called on the government to support a global effort to slow automated AI development.\nIt is clear that an agreement among the chief rivals in AI that their progress “should be slower than competition would otherwise produce has an anticompetitive effect on consumers,” the plaintiffs argue.\nLawyers representing four named plaintiffs, who pay for subscriptions to ChatGPT, Claude, Grok or Gemini, are bringing the lawsuit on behalf of a proposed nationwide class of other paid subscribers to those services.\nThe plaintiffs don't object to the companies individually deciding to slow their own progress in favor of safety. They instead argue in the complaint that antitrust laws forbid them from taking the “shortcut” of agreeing to “substitute collective restraint for individual accountability.” A competitive market allows for responsibility and genuine progress, the lawsuit argues.\n“AI will quickly spin out of human control and could kill us all if we allow AI safety and protocol ... to be controlled by private self-serving agreements between the world’s most powerful ‘for profit’ technology companies,” said Nick Rowley, the lead attorney for the plaintiffs.\nRepresentatives for Anthropic, OpenAI, Google and SpaceXAI did not immediately respond to a request for comment Saturday.\nIn his initial essay proposing the slowdown, Amodei acknowledged potential antitrust challenges, writing that it would be helpful for the U.S. government to mediate “or at least enable” these cross-lab discussions. The government wouldn't need to participate, he wrote, but it would need to “issue a narrow waiver for certain kinds of safety conversations.”\nIn response, Altman said on social media that OpenAI welcomes the idea of a “federal framework that sets consistent safety requirements,” but said “we do not believe we need to wait for an antitrust exemption or legislation to begin the work of providing this confidence.”\nWhile the recent conversations about pacing development were spurred by increasing concerns about AI evading human control, several leaders in the AI space have long talked about developing a shared set of standards or otherwise coordinating to ensure safety efforts remain paramount.\nThe plaintiffs in the lawsuit contend they are not against the AI companies asking Congress, the White House or any other agency to develop AI regulation, nor are they against the companies asking for an antitrust exemption.\nBut achieving that kind of collaboration with the federal government could be an uphill battle.\nPresident Donald Trump rejected the calls for regulation on social media. He has claimed that any efforts to limit the technology are part of a “conspiracy.\" He called into question why the industry leaders would be calling for regulation that, he says, “if strongly implemented, will drive them into oblivion and bankruptcy.” Trump said Saturday on social media that he is forming an AI task force and will appoint an “AI czar,” but he provided scant detail.\nThe Trump administration has been vocal about wanting American AI labs to outpace and excel against Chinese competition. While several Democratic leaders and candidates have called for sweeping action on AI regulation, Republicans have largely mirrored Trump's position.\nSen. Josh Hawley, a Republican from Missouri, said in a recent Senate hearing that “there is no world” in which he would agree to give “the most powerful companies in the history of the world” an exemption from antitrust laws to collaborate, arguing that they could collude together and stifle competition.",
+      "content_html": "<html>\n  <body>\n    <p>A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development.</p>\n    <p>The lawsuit, which was filed Friday in the U.S. District Court for the Northern District of California, argues that the leading AI companies violated antitrust laws when they agreed to coordinate slowdown efforts, and that doing so would reduce the value consumers get for paid AI subscriptions.</p>\n    <p>The coordination largely took place on Sept. 12, the lawsuit argues, when Anthropic CEO Dario Amodei published an essay urging for industrywide cooperation on decelerating advancements in favor of enhanced safety measures. That same day, OpenAI CEO Sam Altman, SpaceXAI CEO Elon Musk and Google DeepMind's co-founder and chair Demis Hassabis each publicly responded to Amodei's proposals in agreement.</p>\n    <p>But the lawsuit also alleges that the coordination began to take shape months earlier. It points to a statement from July 2026 that high-ranking employees from several of the leading AI labs signed that acknowledged the \"intense competitive pressure not to unilaterally slow” development. That statement called on the government to support a global effort to slow automated AI development.</p>\n    <p>It is clear that an agreement among the chief rivals in AI that their progress “should be slower than competition would otherwise produce has an anticompetitive effect on consumers,” the plaintiffs argue.</p>\n    <p>Lawyers representing four named plaintiffs, who pay for subscriptions to ChatGPT, Claude, Grok or Gemini, are bringing the lawsuit on behalf of a proposed nationwide class of other paid subscribers to those services.</p>\n    <p>The plaintiffs don't object to the companies individually deciding to slow their own progress in favor of safety. They instead argue in the complaint that antitrust laws forbid them from taking the “shortcut” of agreeing to “substitute collective restraint for individual accountability.” A competitive market allows for responsibility and genuine progress, the lawsuit argues.</p>\n    <p>“AI will quickly spin out of human control and could kill us all if we allow AI safety and protocol ... to be controlled by private self-serving agreements between the world’s most powerful ‘for profit’ technology companies,” said Nick Rowley, the lead attorney for the plaintiffs.</p>\n    <p>Representatives for Anthropic, OpenAI, Google and SpaceXAI did not immediately respond to a request for comment Saturday.</p>\n    <p>In his initial essay proposing the slowdown, Amodei acknowledged potential antitrust challenges, writing that it would be helpful for the U.S. government to mediate “or at least enable” these cross-lab discussions. The government wouldn't need to participate, he wrote, but it would need to “issue a narrow waiver for certain kinds of safety conversations.”</p>\n    <p>In response, Altman said on social media that OpenAI welcomes the idea of a “federal framework that sets consistent safety requirements,” but said “we do not believe we need to wait for an antitrust exemption or legislation to begin the work of providing this confidence.”</p>\n    <p>While the recent conversations about pacing development were spurred by increasing concerns about AI evading human control, several leaders in the AI space have long talked about developing a shared set of standards or otherwise coordinating to ensure safety efforts remain paramount.</p>\n    <p>The plaintiffs in the lawsuit contend they are not against the AI companies asking Congress, the White House or any other agency to develop AI regulation, nor are they against the companies asking for an antitrust exemption.</p>\n    <p>But achieving that kind of collaboration with the federal government could be an uphill battle.</p>\n    <p>President Donald Trump rejected the calls for regulation on social media. He has claimed that any efforts to limit the technology are part of a “conspiracy.\" He called into question why the industry leaders would be calling for regulation that, he says, “if strongly implemented, will drive them into oblivion and bankruptcy.” Trump said Saturday on social media that he is forming an AI task force and will appoint an “AI czar,” but he provided scant detail.</p>\n    <p>The Trump administration has been vocal about wanting American AI labs to outpace and excel against Chinese competition. While several Democratic leaders and candidates have called for sweeping action on AI regulation, Republicans have largely mirrored Trump's position.</p>\n    <p>Sen. Josh Hawley, a Republican from Missouri, said in a recent Senate hearing that “there is no world” in which he would agree to give “the most powerful companies in the history of the world” an exemption from antitrust laws to collaborate, arguing that they could collude together and stifle competition.</p>\n  </body>\n</html>",
+      "word_count": 729,
+      "char_count": 4700,
+      "lead_image": "https://s7d2.scene7.com/is/image/TWCNews/AP_Anthropic_CEO_file",
+      "images": [
+        {
+          "url": "https://s7d2.scene7.com/is/image/TWCNews/AP_Anthropic_CEO_file",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-20T22:55:39Z"
+    },
     {
       "id": "b27e92f481ae59c7",
       "title": "The Lash Lounge will be featuring some new technology",
@@ -24,7 +66,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSzYzcl9UY0tDYm9nOGdTaGg1bzNpa3Y3SHBOR0FrWHdqck1od29tell2aklYSEJNTlpobXp1S3U4S2t1VmItWlhCX2Y3UTZjYW85OFcyOVYxVEQ0Wk1tSlZEZkJDM2dzOE1sVlQ3ZE01cmtieGVicHhfR01KeTF0VUtkbGE5MzhtSmhnVFlCUE8yakpqWFZTOGdkbjBmR1dqSW9rOQ?oc=5"
       ],
-      "scraped_at": "2026-09-20T20:14:37Z",
+      "scraped_at": "2026-09-20T22:55:38Z",
       "url": "https://www.cbsnews.com/gooddaysacramento/video/the-lash-lounge-will-be-featuring-some-new-technology/",
       "final_url": "https://www.cbsnews.com/gooddaysacramento/video/the-lash-lounge-will-be-featuring-some-new-technology/",
       "source": "CBS News",
@@ -322,7 +364,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM19yZG9CWkxLRGFEaVVfeGNTMFRZY3h3eW5uQTQ1VThHbmF5TFZSMTBNSWhIRG1ialpDTlVDWW5zZjgwQzNaRkxIZTVTQ2Y5blFWcGpfd3I5dUN5dElTbGt4dEZiQU04aG1fQm9yUi1qTUlOWXA1enBnUmhCdjFhNmJMYjR5NGhUMHBWZm1IQVRKUjI3NkRkdHQtWHBibmhYY1p5T1hVeXBaQllRNUx4WWdhN295d2M?oc=5"
       ],
-      "scraped_at": "2026-09-20T20:14:37Z",
+      "scraped_at": "2026-09-20T22:55:38Z",
       "url": "https://www.washingtonpost.com/technology/2026/09/20/breach-chatgpt-maker-openai-highlights-risks-ai-getting-hacked/",
       "final_url": "https://www.washingtonpost.com/technology/2026/09/20/breach-chatgpt-maker-openai-highlights-risks-ai-getting-hacked/",
       "source": "The Washington Post",
@@ -389,25 +431,25 @@
     {
       "id": "d900a506e82f4cb3",
       "title": "Gemini Joins the Hacker Club",
-      "header": "WSJ",
+      "header": "wsj.com",
       "published_at": "2026-09-20T14:55:00Z",
       "published_raw": "Sun, 20 Sep 2026 14:55:00 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrSVZ2WVo2cG5oQkRnZHc3bGZ0c3gydkFyQllmNkcxbUJkMk1YSzJ0TElncm5VQ24xZGJqYVA5T0h2XzhUV0tuSWp2dHhVcUtzWUJSRzVIV3FEQlRWUmV3dWdjQjFXTGRMRjdta3oyRW5kRWs?oc=5",
-      "description": "Gemini Joins the Hacker Club WSJ",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBrSVZ2WVo2cG5oQkRnZHc3bGZ0c3gydkFyQllmNkcxbUJkMk1YSzJ0TElncm5VQ24xZGJqYVA5T0h2XzhUV0tuSWp2dHhVcUtzWUJSRzVIV3FEQlRWUmV3dWdjQjFXTGRMRjdta3oyRW5kRWs?oc=5\" target=\"_blank\">Gemini Joins the Hacker Club</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "description": "Gemini Joins the Hacker Club wsj.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBrSVZ2WVo2cG5oQkRnZHc3bGZ0c3gydkFyQllmNkcxbUJkMk1YSzJ0TElncm5VQ24xZGJqYVA5T0h2XzhUV0tuSWp2dHhVcUtzWUJSRzVIV3FEQlRWUmV3dWdjQjFXTGRMRjdta3oyRW5kRWs?oc=5\" target=\"_blank\">Gemini Joins the Hacker Club</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsj.com</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrSVZ2WVo2cG5oQkRnZHc3bGZ0c3gydkFyQllmNkcxbUJkMk1YSzJ0TElncm5VQ24xZGJqYVA5T0h2XzhUV0tuSWp2dHhVcUtzWUJSRzVIV3FEQlRWUmV3dWdjQjFXTGRMRjdta3oyRW5kRWs?oc=5"
       ],
-      "scraped_at": "2026-09-20T20:14:37Z",
+      "scraped_at": "2026-09-20T22:55:38Z",
       "url": "https://www.wsj.com/tech/ai/gemini-joins-the-hacker-club-d4338198",
       "final_url": "https://www.wsj.com/tech/ai/gemini-joins-the-hacker-club-d4338198",
-      "source": "WSJ",
+      "source": "wsj.com",
       "article_title": "",
       "heading": "Gemini Joins the Hacker Club",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
-      "summary": "Gemini Joins the Hacker Club WSJ",
+      "summary": "Gemini Joins the Hacker Club wsj.com",
       "content": "",
       "content_html": "",
       "word_count": 0,
@@ -559,6 +601,54 @@
       "status": "partial",
       "error": "short_text",
       "first_seen_at": "2026-09-20T17:15:36Z"
+    },
+    {
+      "id": "0943905d6a2b3198",
+      "title": "The AI app that Silicon Valley thinks is actually useful",
+      "header": "SMH.com.au",
+      "published_at": "2026-09-20T09:30:00Z",
+      "published_raw": "Sun, 20 Sep 2026 09:30:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM01EZzVHLXMyOHVqWUE4emQwaFc5MW5qMTZacmlqVXh1VnJjb2ZDX2JqbTM2X1lPV3hkUWV3aTVDNmtMeUJtWWxBWWdqZXl4UXpfMlgxc2lidTk3Tlp0Z3BlUmpGTVJyWG92cFI2eTJzakJMd0llWkFRYml6VUhBZmRhbXJHMW41ZXFXYmZPaGJxRGg3eElFTlBtUFBTTHp5c1BmdlEzZzFxd0d6NUVzTw?oc=5",
+      "description": "The AI app that Silicon Valley thinks is actually useful SMH.com.au",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOM01EZzVHLXMyOHVqWUE4emQwaFc5MW5qMTZacmlqVXh1VnJjb2ZDX2JqbTM2X1lPV3hkUWV3aTVDNmtMeUJtWWxBWWdqZXl4UXpfMlgxc2lidTk3Tlp0Z3BlUmpGTVJyWG92cFI2eTJzakJMd0llWkFRYml6VUhBZmRhbXJHMW41ZXFXYmZPaGJxRGg3eElFTlBtUFBTTHp5c1BmdlEzZzFxd0d6NUVzTw?oc=5\" target=\"_blank\">The AI app that Silicon Valley thinks is actually useful</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SMH.com.au</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM01EZzVHLXMyOHVqWUE4emQwaFc5MW5qMTZacmlqVXh1VnJjb2ZDX2JqbTM2X1lPV3hkUWV3aTVDNmtMeUJtWWxBWWdqZXl4UXpfMlgxc2lidTk3Tlp0Z3BlUmpGTVJyWG92cFI2eTJzakJMd0llWkFRYml6VUhBZmRhbXJHMW41ZXFXYmZPaGJxRGg3eElFTlBtUFBTTHp5c1BmdlEzZzFxd0d6NUVzTw?oc=5"
+      ],
+      "scraped_at": "2026-09-20T22:55:38Z",
+      "url": "https://www.smh.com.au/technology/the-ai-app-that-silicon-valley-thinks-is-actually-useful-20260920-p60yh1.html",
+      "final_url": "https://www.smh.com.au/technology/the-ai-app-that-silicon-valley-thinks-is-actually-useful-20260920-p60yh1.html",
+      "source": "The Sydney Morning Herald",
+      "article_title": "The AI app that Silicon Valley thinks is actually useful",
+      "heading": "The AI app that Silicon Valley thinks is actually useful",
+      "authors": [
+        "Nick Bonyhady"
+      ],
+      "article_published_at": "2026-09-20T09:30:00.000+00:00",
+      "article_modified_at": "2026-09-20T09:30:00.000+00:00",
+      "summary": "Bots like ChatGPT and Claude have proved adept at coding and generating bad fiction. But Instinct AI is proving it can get life administration done fast.",
+      "content": "The AI app that Silicon Valley thinks is actually useful\nLast year, Open AI chief executive Sam Altman declared he used the technology pioneered by his company in “boring ways”. The uses he named, though, weren’t just boring but narrow: organising emails and summarising documents. For many customers, ChatGPT turned out to be better at writing bad fiction than life administration.\nOne can only imagine Altman’s anger then, that a different AI company, Instinct, has stolen a march and introduced a bot that can complete basic life tasks.\nOne Australian technology investor showed this masthead screenshots showing how the bot repeatedly followed up a manchester company for a missing refund from a linen set he had returned. “We chase,” the bot told the investor, and it did.\nIn another example circulating online, Instinct emailed a hotel in Canada on behalf of a user, had the concierge locate a missing Apple device, organised shipping and paid for the transaction with the user’s card.\nOn Sunday, this masthead used Instinct to find and buy a t-shirt from Everwear Denim, a small store in Victoria’s Mornington Peninsula, when a different store was out of stock of a similar model tee.\nAside from the generally questionable decision to spend $88, plus shipping, on a t-shirt, the transaction shows the pleasures and perils of Instinct.\nIt was a seamless process. Instinct does not require an app to work; users simply text or WhatsApp a phone number. The bot replies with emojis to let a user known it is working on a task, and then follows up with brief messages, rather than the walls of meaningless text generated by Gemini or ChatGPT. It gave an indicative price when it first found the shirt, but only proceeded with the purchase when it had double-checked shipping and received a firm instruction to go ahead. Other AI tools can do this, but Instinct, as Apple co-founder Steve Jobs once said, “just works”.\nYet to get the full benefit out of Instinct, the user has to be willing to let the tool act as their doppelgänger. That means granting full access to all emails, contacts, calendar appointments and a credit card. It’s even more powerful if you hand over logins for other online services, like an airline loyalty account or restaurant booking site.\nIn other words, all it needs is your entire digital life. What could go wrong? For the most part, nothing. But the Atlantic magazine has reported several cases of users reporting charges for restaurants they never agreed to book. In a demonstration of its capacity for strange behaviour, after Instinct bought the t-shirt for this masthead, it followed up with the non-sequitur “Anything you’ve been meaning to be more consistent about?”\n“That was a hard left turn after buying a t-shirt,” it admitted when questioned. “Ignore me.”\nThe company users are trusting with such extensive personal information has a short history. It was founded in San Francisco by 23-year-old Noah Shinn last year, started testing its bot privately in February, raised $US250 million from investors at a $US2.5 billion valuation in August and, according to technology news site The Information, is now in talks to raise a further $US1 billion. That would make the less-than-two-year-old company worth $US10 billion.\nFor now, the company is using some of those funds to subsidise its users because Instinct is available for free. Its website, which was so spartan until last week that it could’ve been built in 1996 and is still bare bones, advises curious visitors that signing up only requires a referral from an existing user. In time, Instinct will have to start charging.\nWhatever happens to its commercial fortunes, Instinct has made two major contributions to the conversation about AI.\nFirst, there has been discussion for the last few years about when the first one-man, billion-dollar company would emerge. Shinn has staff, so Instinct is not quite in that category, but it is such a young company that it must be close. It’s already too close to comfort for tech giants such as Mark Zuckerberg’s Meta and Elon Musk’s SpaceX that have launched the personal assistant tools Muse and Grok Bot respectively, and had their fanfare snatched away.\nSecond, after a year of panic that big software companies were vulnerable to artificial intelligence creating knock-off versions for cheap, the markets calmed down in the last couple of months. In part, they concluded that the big software companies could incorporate AI into their products faster than their clients could put general purpose AI bots to work replicating their pricey IT tools. That calm now looks like it could be the eye of the storm.\nThe Business Briefing newsletter delivers major stories, exclusive coverage and expert opinion. Sign up to get it every weekday morning.",
+      "content_html": "<html>\n  <body>\n    <h1>The AI app that Silicon Valley thinks is actually useful</h1>\n    <p>Last year, Open AI chief executive Sam Altman declared he used the technology pioneered by his company in “boring ways”. The uses he named, though, weren’t just boring but narrow: organising emails and summarising documents. For many customers, ChatGPT turned out to be better at writing bad fiction than life administration.</p>\n    <p>One can only imagine Altman’s anger then, that a different AI company, Instinct, has stolen a march and introduced a bot that can complete basic life tasks.</p>\n    <p>One Australian technology investor showed this masthead screenshots showing how the bot repeatedly followed up a manchester company for a missing refund from a linen set he had returned. “We chase,” the bot told the investor, and it did.</p>\n    <p>In another example circulating online, Instinct emailed a hotel in Canada on behalf of a user, had the concierge locate a missing Apple device, organised shipping and paid for the transaction with the user’s card.</p>\n    <p>On Sunday, this masthead used Instinct to find and buy a t-shirt from Everwear Denim, a small store in Victoria’s Mornington Peninsula, when a different store was out of stock of a similar model tee.</p>\n    <p>Aside from the generally questionable decision to spend $88, plus shipping, on a t-shirt, the transaction shows the pleasures and perils of Instinct.</p>\n    <p>It was a seamless process. Instinct does not require an app to work; users simply text or WhatsApp a phone number. The bot replies with emojis to let a user known it is working on a task, and then follows up with brief messages, rather than the walls of meaningless text generated by Gemini or ChatGPT. It gave an indicative price when it first found the shirt, but only proceeded with the purchase when it had double-checked shipping and received a firm instruction to go ahead. Other AI tools can do this, but Instinct, as Apple co-founder Steve Jobs once said, “just works”.</p>\n    <p>Yet to get the full benefit out of Instinct, the user has to be willing to let the tool act as their doppelgänger. That means granting full access to all emails, contacts, calendar appointments and a credit card. It’s even more powerful if you hand over logins for other online services, like an airline loyalty account or restaurant booking site.</p>\n    <p>In other words, all it needs is your entire digital life. What could go wrong? For the most part, nothing. But the Atlantic magazine has reported several cases of users reporting charges for restaurants they never agreed to book. In a demonstration of its capacity for strange behaviour, after Instinct bought the t-shirt for this masthead, it followed up with the non-sequitur “Anything you’ve been meaning to be more consistent about?”</p>\n    <p>“That was a hard left turn after buying a t-shirt,” it admitted when questioned. “Ignore me.”</p>\n    <p>The company users are trusting with such extensive personal information has a short history. It was founded in San Francisco by 23-year-old Noah Shinn last year, started testing its bot privately in February, raised $US250 million from investors at a $US2.5 billion valuation in August and, according to technology news site The Information, is now in talks to raise a further $US1 billion. That would make the less-than-two-year-old company worth $US10 billion.</p>\n    <p>For now, the company is using some of those funds to subsidise its users because Instinct is available for free. Its website, which was so spartan until last week that it could’ve been built in 1996 and is still bare bones, advises curious visitors that signing up only requires a referral from an existing user. In time, Instinct will have to start charging.</p>\n    <p>Whatever happens to its commercial fortunes, Instinct has made two major contributions to the conversation about AI.</p>\n    <p>First, there has been discussion for the last few years about when the first one-man, billion-dollar company would emerge. Shinn has staff, so Instinct is not quite in that category, but it is such a young company that it must be close. It’s already too close to comfort for tech giants such as Mark Zuckerberg’s Meta and Elon Musk’s SpaceX that have launched the personal assistant tools Muse and Grok Bot respectively, and had their fanfare snatched away.</p>\n    <p>Second, after a year of panic that big software companies were vulnerable to artificial intelligence creating knock-off versions for cheap, the markets calmed down in the last couple of months. In part, they concluded that the big software companies could incorporate AI into their products faster than their clients could put general purpose AI bots to work replicating their pricey IT tools. That calm now looks like it could be the eye of the storm.</p>\n    <p>The Business Briefing newsletter delivers major stories, exclusive coverage and expert opinion. Sign up to get it every weekday morning.</p>\n  </body>\n</html>",
+      "word_count": 795,
+      "char_count": 4787,
+      "lead_image": "https://static.ffx.io/images/$zoom_4.9028%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_299/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/bd9378fe07c20d6878b655455bdd3b886df98fdb6d1c92d211adee551ac29a57",
+      "images": [
+        {
+          "url": "https://static.ffx.io/images/$zoom_4.9028%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_299/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/bd9378fe07c20d6878b655455bdd3b886df98fdb6d1c92d211adee551ac29a57",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://static.ffx.io/images/$zoom_4.9028%2C$multiply_0.7025%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_299/t_crop_custom/q_86%2Cf_auto/bd9378fe07c20d6878b655455bdd3b886df98fdb6d1c92d211adee551ac29a57",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-20T22:55:38Z"
     },
     {
       "id": "1aeac7add66dad35",
@@ -2050,6 +2140,54 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-19T21:14:52Z"
+    },
+    {
+      "id": "b2ebcebb937445d9",
+      "title": "Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development",
+      "header": "CNN",
+      "published_at": "2026-09-19T17:52:06Z",
+      "published_raw": "Sat, 19 Sep 2026 17:52:06 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPUGN2UGZhYk85S0g0WUlURExtd2tzVWZZeGpIMUZRdjl3ODFxQ0JTLU1XUWlWS2YzbklkUHNxZnVjTFRtelViRkJmT25SUWhwb3JfN3dESE9ZTjh0bFZ6T25pWlRBaFRnZVdzQ0Q5Z0NCQQ?oc=5",
+      "description": "Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development CNN",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBPUGN2UGZhYk85S0g0WUlURExtd2tzVWZZeGpIMUZRdjl3ODFxQ0JTLU1XUWlWS2YzbklkUHNxZnVjTFRtelViRkJmT25SUWhwb3JfN3dESE9ZTjh0bFZ6T25pWlRBaFRnZVdzQ0Q5Z0NCQQ?oc=5\" target=\"_blank\">Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMickFVX3lxTFBPUGN2UGZhYk85S0g0WUlURExtd2tzVWZZeGpIMUZRdjl3ODFxQ0JTLU1XUWlWS2YzbklkUHNxZnVjTFRtelViRkJmT25SUWhwb3JfN3dESE9ZTjh0bFZ6T25pWlRBaFRnZVdzQ0Q5Z0NCQQ?oc=5"
+      ],
+      "scraped_at": "2026-09-20T22:55:38Z",
+      "url": "https://www.cnn.com/2026/09/19/politics/trump-ai-task-force-czar",
+      "final_url": "https://www.cnn.com/2026/09/19/politics/trump-ai-task-force-czar",
+      "source": "CNN",
+      "article_title": "Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development | CNN Politics",
+      "heading": "Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development",
+      "authors": [
+        "Logan Schiciano"
+      ],
+      "article_published_at": "2026-09-19T17:52:06.083Z",
+      "article_modified_at": "2026-09-19T19:15:25.096Z",
+      "summary": "President Donald Trump said Saturday he plans to create an “AI Force” and name an AI czar as the government faces growing calls to impose guardrails on the rapid development of artificial intelligence.",
+      "content": "President Donald Trump said Saturday he plans to create an “AI Force” and name an AI czar as the government faces growing calls to impose guardrails on the rapid development of artificial intelligence.\nThe president, writing on Truth Social, repeated his assessment that fears over AI amount to a hoax and also seemed to acknowledge some of the risks the technology presents, saying, “we will also be looking for BAD, and we can do that, very easily, with our already existing Criminal and Civil Justice System.”\n“For this purpose, I am forming the AI Force, much like I did Space Force, which has been a tremendous SUCCESS, in my First Term. To that end, I will be announcing, in the near future, the AI ‘Czar’ — Only High I.Q. individuals need apply!” Trump said in the post.\nCNN has reached out to the White House for more details on the AI czar’s duties, whether the president has anyone in mind for the role, and whether the “AI Force” will be a branch of the military, like the Space Force. Trump’s creation of the Space Force in 2019 marked the first new US military service since 1947.\nTrump’s announcement comes as the White House and Congress have faced pressure in recent weeks to enact AI safeguards. The president has downplayed concerns, claiming that a “SICK conspiracy” was afoot to undermine AI.\n“We will not in any way hinder or stifle the Growth of this incredible Industry,” Trump said in his post Saturday. “We are leading China, and the rest of the World, and I intend to keep it that way!”\nTrump has made clear that he considers outpacing China and preserving AI-driven economic gains a higher priority than addressing growing public concerns. The issue has quickly come to dominate political debate in the United States, after industry leaders called for a global slowdown in development.\nAI’s meteoric growth has led to major stock market gains and buoyed the manufacturing sector through the construction of data centers — which Trump calls “the golden goose.” Yet fears about the technology’s potential to eliminate jobs and AI data centers’ impact on communities have led to a souring in public sentiment.\nDemocrats have been more vocal in their calls to slow AI development, with former President Barack Obama urging potential Democratic presidential candidates to put AI at the center of their agendas in 2028.\n“My view this week has been it is good that some of the leading companies have said we need to slow this down, and we should encourage that,” Obama said Friday during a fireside chat at Colgate University, according to excerpts of his speech obtained by CNN. “There have been some on the left who’ve said we shouldn’t allow them to make that decision. I agree that that can’t be a long-term solution. Government has to be regulating this.”\nVenture capitalist David Sacks served as Trump’s AI and cryptocurrency czar until March, when he stepped down after reaching his time limit as a special government employee. He now chairs the President’s Council of Advisors on Science and Technology.\nMeanwhile, conversations surrounding AI regulation are expected to play a key part in multiple diplomatic gatherings next week.\nThe Trump administration will convene a high-level event on AI on the sidelines of the UN General Assembly on Wednesday, multiple sources familiar with the matter previously told CNN.\nA day later, several technology executives — including OpenAI’s Sam Altman, Nvidia’s Jensen Huang and Google’s Sundar Pichai — will attend a state dinner at the White House as part of Chinese leader Xi Jinping’s visit to Washington, according to a White House official.\nCNN previously reported that Trump officials were contemplating a meeting with major technology and AI chiefs on the sidelines of the high-stakes summit, though nothing has been finalized.\nA White House official also said that AI safety would be “on the agenda” when Trump meets with Xi.\nThis story has been updated with additional developments.\nCNN’s Edward-Isaac Dovere contributed to this report.",
+      "content_html": "<html>\n  <body>\n    <p>President Donald Trump said Saturday he plans to create an “AI Force” and name an AI czar as the government faces growing calls to impose guardrails on the rapid development of artificial intelligence.</p>\n    <p>The president, writing on Truth Social, repeated his assessment that fears over AI amount to a hoax and also seemed to acknowledge some of the risks the technology presents, saying, “we will also be looking for BAD, and we can do that, very easily, with our already existing Criminal and Civil Justice System.”</p>\n    <p>“For this purpose, I am forming the AI Force, much like I did Space Force, which has been a tremendous SUCCESS, in my First Term. To that end, I will be announcing, in the near future, the AI ‘Czar’ — Only High I.Q. individuals need apply!” Trump said in the post.</p>\n    <p>CNN has reached out to the White House for more details on the AI czar’s duties, whether the president has anyone in mind for the role, and whether the “AI Force” will be a branch of the military, like the Space Force. Trump’s creation of the Space Force in 2019 marked the first new US military service since 1947.</p>\n    <p>Trump’s announcement comes as the White House and Congress have faced pressure in recent weeks to enact AI safeguards. The president has downplayed concerns, claiming that a “SICK conspiracy” was afoot to undermine AI.</p>\n    <p>“We will not in any way hinder or stifle the Growth of this incredible Industry,” Trump said in his post Saturday. “We are leading China, and the rest of the World, and I intend to keep it that way!”</p>\n    <p>Trump has made clear that he considers outpacing China and preserving AI-driven economic gains a higher priority than addressing growing public concerns. The issue has quickly come to dominate political debate in the United States, after industry leaders called for a global slowdown in development.</p>\n    <p>AI’s meteoric growth has led to major stock market gains and buoyed the manufacturing sector through the construction of data centers — which Trump calls “the golden goose.” Yet fears about the technology’s potential to eliminate jobs and AI data centers’ impact on communities have led to a souring in public sentiment.</p>\n    <p>Democrats have been more vocal in their calls to slow AI development, with former President Barack Obama urging potential Democratic presidential candidates to put AI at the center of their agendas in 2028.</p>\n    <p>“My view this week has been it is good that some of the leading companies have said we need to slow this down, and we should encourage that,” Obama said Friday during a fireside chat at Colgate University, according to excerpts of his speech obtained by CNN. “There have been some on the left who’ve said we shouldn’t allow them to make that decision. I agree that that can’t be a long-term solution. Government has to be regulating this.”</p>\n    <p>Venture capitalist David Sacks served as Trump’s AI and cryptocurrency czar until March, when he stepped down after reaching his time limit as a special government employee. He now chairs the President’s Council of Advisors on Science and Technology.</p>\n    <p>Meanwhile, conversations surrounding AI regulation are expected to play a key part in multiple diplomatic gatherings next week.</p>\n    <p>The Trump administration will convene a high-level event on AI on the sidelines of the UN General Assembly on Wednesday, multiple sources familiar with the matter previously told CNN.</p>\n    <p>A day later, several technology executives — including OpenAI’s Sam Altman, Nvidia’s Jensen Huang and Google’s Sundar Pichai — will attend a state dinner at the White House as part of Chinese leader Xi Jinping’s visit to Washington, according to a White House official.</p>\n    <p>CNN previously reported that Trump officials were contemplating a meeting with major technology and AI chiefs on the sidelines of the high-stakes summit, though nothing has been finalized.</p>\n    <p>A White House official also said that AI safety would be “on the agenda” when Trump meets with Xi.</p>\n    <p>This story has been updated with additional developments.</p>\n    <p>CNN’s Edward-Isaac Dovere contributed to this report.</p>\n  </body>\n</html>",
+      "word_count": 670,
+      "char_count": 4013,
+      "lead_image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2294613002.jpg?c=16x9&q=w_800,c_fill",
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2294613002.jpg?c=16x9&q=w_800,c_fill",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2294613002.jpg?c=original&q=w_860,c_fill",
+          "alt": "President Donald Trump speaks to members of the media before boarding Air Force One to leave from Shannon Airport in Ireland on September 13.",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-20T22:55:38Z"
     },
     {
       "id": "9fb6abddafc96264",
@@ -7095,25 +7233,25 @@
     {
       "id": "571fd67a5c199946",
       "title": "The Next Gene-Editing Technology May Also Be the Oldest",
-      "header": "The New York Times",
+      "header": "nytimes.com",
       "published_at": "2026-09-17T18:00:08Z",
       "published_raw": "Thu, 17 Sep 2026 18:00:08 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSktwSHdKR0RzVUZCXy1LRU5yZTZ4S1dURnhUZkxiVzJmSVdhejBzVktDb0dUeXp3bVhkT2U0SHdiZlk3ZUx6YlFxWF9OZlhneEZsX3g5YVBIc29LeXBKcTBIN003YnB5dUk3aExqME9sSkNjUFVWYlp3dEU?oc=5",
-      "description": "The Next Gene-Editing Technology May Also Be the Oldest The New York Times",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSktwSHdKR0RzVUZCXy1LRU5yZTZ4S1dURnhUZkxiVzJmSVdhejBzVktDb0dUeXp3bVhkT2U0SHdiZlk3ZUx6YlFxWF9OZlhneEZsX3g5YVBIc29LeXBKcTBIN003YnB5dUk3aExqME9sSkNjUFVWYlp3dEU?oc=5\" target=\"_blank\">The Next Gene-Editing Technology May Also Be the Oldest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description": "The Next Gene-Editing Technology May Also Be the Oldest nytimes.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSktwSHdKR0RzVUZCXy1LRU5yZTZ4S1dURnhUZkxiVzJmSVdhejBzVktDb0dUeXp3bVhkT2U0SHdiZlk3ZUx6YlFxWF9OZlhneEZsX3g5YVBIc29LeXBKcTBIN003YnB5dUk3aExqME9sSkNjUFVWYlp3dEU?oc=5\" target=\"_blank\">The Next Gene-Editing Technology May Also Be the Oldest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSktwSHdKR0RzVUZCXy1LRU5yZTZ4S1dURnhUZkxiVzJmSVdhejBzVktDb0dUeXp3bVhkT2U0SHdiZlk3ZUx6YlFxWF9OZlhneEZsX3g5YVBIc29LeXBKcTBIN003YnB5dUk3aExqME9sSkNjUFVWYlp3dEU?oc=5"
       ],
-      "scraped_at": "2026-09-20T20:14:37Z",
+      "scraped_at": "2026-09-20T22:55:38Z",
       "url": "https://www.nytimes.com/2026/09/17/science/crispr-gene-editing-vipr.html",
       "final_url": "https://www.nytimes.com/2026/09/17/science/crispr-gene-editing-vipr.html",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "article_title": "",
       "heading": "The Next Gene-Editing Technology May Also Be the Oldest",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
-      "summary": "The Next Gene-Editing Technology May Also Be the Oldest The New York Times",
+      "summary": "The Next Gene-Editing Technology May Also Be the Oldest nytimes.com",
       "content": "",
       "content_html": "",
       "word_count": 0,
@@ -14590,7 +14728,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0wzb1RmNmZPeVB4QjdSZTVmcmxMVUwyT2pSYVliQVQwZ25mUFpoWlFXdGFpWnNJLVdmMncwc0twU2pxSmplU2k0WGFuRWlIT1BFQ1FzWVlCbWc2MWpzamF0LU51NVBSNURBeWhUN0VxYlA1VjMzUk16eHlBQlJ2R3F2TXAzaW9SczJId2hn?oc=5"
       ],
-      "scraped_at": "2026-09-20T20:14:39Z",
+      "scraped_at": "2026-09-20T22:55:39Z",
       "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech",
       "final_url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech",
       "source": "McKinsey & Company",
@@ -24683,117 +24821,6 @@
       "extractor": "",
       "status": "partial",
       "error": "download_failed",
-      "first_seen_at": "2026-09-11T16:52:06Z"
-    },
-    {
-      "id": "67e6e423cbcc00c6",
-      "title": "Here’s why it’s so hard to keep AI agents from going rogue",
-      "header": "The Washington Post",
-      "published_at": "2026-09-11T16:00:00Z",
-      "published_raw": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVXpEeVZxdG1HWVRuRi0zZGp2WjNiZlM1Q21Va1M3U0JSSWpRejRSRDlibHdHR0NCQTRfenl2QXJORV9Scjc4MVRJMjRueUtNS2ZpWE9wNGFJcWcyTXpyd2FCMXN1UE9tRUpoVVdYSmJFMjJFWnFmc0hjNzIzVnJ6dGVTOE5ZUF93Z3NIQm8xcjVQM2dfUWFBWEVReTE2MFlBRzFzTUx3?oc=5",
-      "description": "Here’s why it’s so hard to keep AI agents from going rogue The Washington Post",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQVXpEeVZxdG1HWVRuRi0zZGp2WjNiZlM1Q21Va1M3U0JSSWpRejRSRDlibHdHR0NCQTRfenl2QXJORV9Scjc4MVRJMjRueUtNS2ZpWE9wNGFJcWcyTXpyd2FCMXN1UE9tRUpoVVdYSmJFMjJFWnFmc0hjNzIzVnJ6dGVTOE5ZUF93Z3NIQm8xcjVQM2dfUWFBWEVReTE2MFlBRzFzTUx3?oc=5\" target=\"_blank\">Here’s why it’s so hard to keep AI agents from going rogue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVXpEeVZxdG1HWVRuRi0zZGp2WjNiZlM1Q21Va1M3U0JSSWpRejRSRDlibHdHR0NCQTRfenl2QXJORV9Scjc4MVRJMjRueUtNS2ZpWE9wNGFJcWcyTXpyd2FCMXN1UE9tRUpoVVdYSmJFMjJFWnFmc0hjNzIzVnJ6dGVTOE5ZUF93Z3NIQm8xcjVQM2dfUWFBWEVReTE2MFlBRzFzTUx3?oc=5"
-      ],
-      "scraped_at": "2026-09-12T18:54:51Z",
-      "url": "https://www.washingtonpost.com/technology/2026/09/11/ai-experts-warn-technology-is-learning-cheat-hack/",
-      "final_url": "https://www.washingtonpost.com/technology/2026/09/11/ai-experts-warn-technology-is-learning-cheat-hack/",
-      "source": "The Washington Post",
-      "article_title": "",
-      "heading": "Here’s why it’s so hard to keep AI agents from going rogue",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Here’s why it’s so hard to keep AI agents from going rogue The Washington Post",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-11T12:32:39Z"
-    },
-    {
-      "id": "9946d0a44b2b5fbe",
-      "title": "AMY GRUPO adopts i4F technology",
-      "header": "Floor Covering News",
-      "published_at": "2026-09-11T15:45:08Z",
-      "published_raw": "Fri, 11 Sep 2026 15:45:08 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJODNuLU51TW1aczl2aEttOTNKSXV1RUlMUmhrdEtSd2FnbXExNDdDcGVDbmxfYmh0SHVtQW5hQUo3aElwRmtuMDZFN2NCckVINUxPWDJ0STlhbWp2X0JBMzZHYzViYkRuWFFHaEszWlc?oc=5",
-      "description": "AMY GRUPO adopts i4F technology Floor Covering News",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBJODNuLU51TW1aczl2aEttOTNKSXV1RUlMUmhrdEtSd2FnbXExNDdDcGVDbmxfYmh0SHVtQW5hQUo3aElwRmtuMDZFN2NCckVINUxPWDJ0STlhbWp2X0JBMzZHYzViYkRuWFFHaEszWlc?oc=5\" target=\"_blank\">AMY GRUPO adopts i4F technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Floor Covering News</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJODNuLU51TW1aczl2aEttOTNKSXV1RUlMUmhrdEtSd2FnbXExNDdDcGVDbmxfYmh0SHVtQW5hQUo3aElwRmtuMDZFN2NCckVINUxPWDJ0STlhbWp2X0JBMzZHYzViYkRuWFFHaEszWlc?oc=5"
-      ],
-      "scraped_at": "2026-09-11T16:52:07Z",
-      "url": "https://www.fcnews.net/2026/09/amy-grupo-adopts-i4f-technology/",
-      "final_url": "https://www.fcnews.net/2026/09/amy-grupo-adopts-i4f-technology/",
-      "source": "Floor Covering News",
-      "article_title": "AMY GRUPO adopts i4F technology - Floor Covering News",
-      "heading": "AMY GRUPO adopts i4F technology",
-      "authors": [
-        "FCNews Staff"
-      ],
-      "article_published_at": "2026-09-11T15:45:08+00:00",
-      "article_modified_at": "2026-09-11T11:45:08-04:00",
-      "summary": "AMY GRUPO signs an i4F Optibevel licensing agreement, adding laser bevel technology to new SPC, LSPC and WPC flooring collections.",
-      "content": "Turnhout, Belgium—AMY GRUPO has signed a new license agreement for i4F’s Optibevel technology. The manufacturer plans to use the technology across most of its new flooring products.\nThe agreement expands AMY GRUPO’s existing relationship with i4F. The manufacturer already licenses i4F drop-lock, CeraGrout and WPC technologies.\nAMY GRUPO plans to apply Optibevel to its new SPC, LSPC and WPC lines. The technology uses a high-precision laser to create decorative bevels directly in the profiling line.\nAMY GRUPO is one of Vietnam’s largest manufacturers of ceramic tile and vinyl flooring materials. The company has focused its growth strategy on product development and innovation.\n“Innovation is about making a real difference to the products we offer and the experience we deliver to our customers,” said Dinh Quoc Tuan, CEO of AMY GRUPO. “Optibevel is a great example of that as it gives us more freedom to create floors with the natural beauty without compromising on quality or performance. Our relationship with i4F continues to bring valuable technologies into our portfolio, helping us turn new ideas into products that combine beautiful design, lasting quality and ease of use, while delivering greater value and satisfaction for our customers.”\nLaser technology expands design options\nOptibevel’s in-line laser process addresses limitations associated with traditional cut, painted and pressed bevel technologies. The system matches bevel gloss, design and texture with the flooring surface.\nThe technology also gives manufacturers greater sizing flexibility and can improve production efficiency. It accommodates formats ranging from small herringbone planks to large wall panels. Optibevel works with SPC, WPC, LVT and other thermoplastic-based flooring.\n“AMY GRUPO has been a valued i4F partner for many years and this latest agreement further strengthens our long-standing relationship,” said John Rietveldt, CEO of i4F. “Their commitment to product quality, design and manufacturing excellence makes Optibevel a natural fit for their flooring portfolio. We believe Optibevel is the industry’s most advanced enhanced bevel technology, giving manufacturers a smarter, more efficient way to achieve premium aesthetics while responding to growing demand for more authentic, natural-looking floors.”",
-      "content_html": "<html>\n  <body>\n    <p><img src=\"https://www.fcnews.net/wp-content/webpc-passthru.php?src=https://www.fcnews.net/wp-content/uploads/2026/09/Screenshot-2026-09-10-at-1.02.45-PM-300x166.png&amp;nocache=1\"/>Turnhout, Belgium—AMY GRUPO has signed a new license agreement for i4F’s Optibevel technology. The manufacturer plans to use the technology across most of its new flooring products.</p>\n    <p>The agreement expands AMY GRUPO’s existing relationship with i4F. The manufacturer already licenses i4F drop-lock, CeraGrout and WPC technologies.</p>\n    <p>AMY GRUPO plans to apply Optibevel to its new SPC, LSPC and WPC lines. The technology uses a high-precision laser to create decorative bevels directly in the profiling line.</p>\n    <p>AMY GRUPO is one of Vietnam’s largest manufacturers of ceramic tile and vinyl flooring materials. The company has focused its growth strategy on product development and innovation.</p>\n    <p>“Innovation is about making a real difference to the products we offer and the experience we deliver to our customers,” said Dinh Quoc Tuan, CEO of AMY GRUPO. “Optibevel is a great example of that as it gives us more freedom to create floors with the natural beauty without compromising on quality or performance. Our relationship with i4F continues to bring valuable technologies into our portfolio, helping us turn new ideas into products that combine beautiful design, lasting quality and ease of use, while delivering greater value and satisfaction for our customers.”</p>\n    <h4>Laser technology expands design options</h4>\n    <p>Optibevel’s in-line laser process addresses limitations associated with traditional cut, painted and pressed bevel technologies. The system matches bevel gloss, design and texture with the flooring surface.</p>\n    <p>The technology also gives manufacturers greater sizing flexibility and can improve production efficiency. It accommodates formats ranging from small herringbone planks to large wall panels. Optibevel works with SPC, WPC, LVT and other thermoplastic-based flooring.</p>\n    <p>“AMY GRUPO has been a valued i4F partner for many years and this latest agreement further strengthens our long-standing relationship,” said John Rietveldt, CEO of i4F. “Their commitment to product quality, design and manufacturing excellence makes Optibevel a natural fit for their flooring portfolio. We believe Optibevel is the industry’s most advanced enhanced bevel technology, giving manufacturers a smarter, more efficient way to achieve premium aesthetics while responding to growing demand for more authentic, natural-looking floors.”</p>\n  </body>\n</html>",
-      "word_count": 337,
-      "char_count": 2311,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-11T16:52:07Z"
-    },
-    {
-      "id": "f3c4f0c9444eb483",
-      "title": "Archbishop, Technology Scholars Advocate Respect for Human Dignity in AI Revolution",
-      "header": "The Hoya",
-      "published_at": "2026-09-11T15:42:11Z",
-      "published_raw": "Fri, 11 Sep 2026 15:42:11 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFNPWE80Z0lVeXJwXzk1UWowbTUyZGJxREFMTUYyZlVOVktJblNzSTNjYzlacTR1VkQwcWo5ZmE3ZkNveGNjb2JiMmRjTFROUmFXVlZwempmLTZlSDFZd0RPazl5LWZkM3JRVlUySmVpZWFqSDJmaV85RXdackc0SnJJYjFaZzZmMGo0MDhxQ3FvUDFNZUM0bUV4RDVqVTVvMkJrTmJxMVlTeG5h?oc=5",
-      "description": "Archbishop, Technology Scholars Advocate Respect for Human Dignity in AI Revolution The Hoya",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFNPWE80Z0lVeXJwXzk1UWowbTUyZGJxREFMTUYyZlVOVktJblNzSTNjYzlacTR1VkQwcWo5ZmE3ZkNveGNjb2JiMmRjTFROUmFXVlZwempmLTZlSDFZd0RPazl5LWZkM3JRVlUySmVpZWFqSDJmaV85RXdackc0SnJJYjFaZzZmMGo0MDhxQ3FvUDFNZUM0bUV4RDVqVTVvMkJrTmJxMVlTeG5h?oc=5\" target=\"_blank\">Archbishop, Technology Scholars Advocate Respect for Human Dignity in AI Revolution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hoya</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFNPWE80Z0lVeXJwXzk1UWowbTUyZGJxREFMTUYyZlVOVktJblNzSTNjYzlacTR1VkQwcWo5ZmE3ZkNveGNjb2JiMmRjTFROUmFXVlZwempmLTZlSDFZd0RPazl5LWZkM3JRVlUySmVpZWFqSDJmaV85RXdackc0SnJJYjFaZzZmMGo0MDhxQ3FvUDFNZUM0bUV4RDVqVTVvMkJrTmJxMVlTeG5h?oc=5"
-      ],
-      "scraped_at": "2026-09-11T16:52:06Z",
-      "url": "https://thehoya.com/news/archbishop-technology-scholars-advocate-respect-for-human-dignity-in-ai-revolution/",
-      "final_url": "https://thehoya.com/news/archbishop-technology-scholars-advocate-respect-for-human-dignity-in-ai-revolution/",
-      "source": "The Hoya",
-      "article_title": "Archbishop, Technology Scholars Advocate Respect for Human Dignity in AI Revolution",
-      "heading": "The Hoya",
-      "authors": [
-        "Andrew Jiang"
-      ],
-      "article_published_at": "2026-09-11T15:40:10+00:00",
-      "article_modified_at": "2026-09-11T15:40:10+00:00",
-      "summary": "A Catholic archbishop and a panel of artificial intelligence (AI) experts argued that expanding technology should not supersede human dignity at a Sept. 9 Georgetown University event.",
-      "content": "A Catholic archbishop and a panel of artificial intelligence (AI) experts argued that expanding technology should not supersede human dignity at a Sept. 9 Georgetown University event.\nArchbishop Gabriele Caccia, the Apostolic Nuncio of the Holy See to the United States, urged Catholics to foster public debate over AI’s impacts on job security and individuality. The panelists, who joined Caccia in Gaston Hall, also warned attendees about the dangers of commercializing human intelligence.\nThe speakers largely drew from arguments made in Pope Leo VI’s May encyclical “Magnifica Humanitas” (“Magnificent Humanity”), which argues that technological innovation should respect the dignity of all people rather than benefitting the few.\nCaccia said the pope’s AI stipulations come from the belief that individual souls are sacred.\n“All these guidance are based on a central point that each human being in our vision is created in the image of God,” Caccia said at the event. “He has something more than human in His humanity, and these should be always recognized. It’s the foundation stone on which to build any future. If we don’t respect that, we become like objects.”\n“Each one is unique,” Caccia added. “Each one is called life by somebody bigger than us. Each one has a purpose.”\nDespite the attention it received, “Magnifica Humanitas” does not recommend any specific policy solutions toward AI usage.\nUniversity President Eduardo Peñalver said Georgetown is answering Pope Leo’s call to action by encouraging community involvement and accessibility to AI.\n“In his encyclical, Pope Leo posed a specific challenge to universities and, by implication, Catholic universities in particular, to lead the way in advancing understanding of this new and rapidly evolving technology, and in crafting responses to it that emphasize the importance of subordinating AI for human purposes, human dignity and the common good,” Peñalver said at the event.\nPeñalver announced a plan Sept. 3 that will set a university-wide framework for AI use, following multiple AI initiatives launched in August. The College of Arts & Sciences also inaugurated an AI ethics and application certificate this semester, and in February, the university announced plans to give students premium access to Gemini, Google’s AI assistant.\nAnna Rowlands, a professor of Catholic Social Thought and Practice at Durham University, said the role of the church is not to offer solutions, but to foster discussion.\n“One of the things that’s most misunderstood about the encyclical is people who react by saying, ‘Well, it’s kind of useless because it’s really generic, and it needs to be a blueprint that just lists on solutions,’” Rowlands said at the event.\n“The task of the church is not to offer solutions — which doesn’t mean solutions can’t be found, Rowlands added. “But that’s what the process of us learning how to think through and reason through and reflecting these questions together is meant to produce.”\nThe “Magnifica Humanitas” reaffirmed the church’s commitment to social justice, faith and the gospel in an AI economy. Its release comes amid growing concerns of entry-level job security, AI-based data leaks and resignations from tech engineers over AI capabilities.\nCaccia said the key to establishing AI consensus is cooperation between opposing groups.\n“There is not one answer. It is not just a political answer, but it’s not just the technical answer or the economic answer,” Caccia said. “You have to put all the stakeholders around the table and find a common way in which everyone has his own role to play.”\nJasmine Sun, a journalist who covers technological innovation in Silicon Valley, said the views of many tech industrialists contrast greatly from those of the general public.\n“Silicon Valley leaders are not trusted messengers of what an ideal AI future ought to look like,” Sun said at the event.\n“They will articulate a vision, a utopia that may be utopia to them, involving immortality or a world where nobody has to work anymore,” Sun added.\nMolly Kinder — the CEO of the Breakwater Initiative, an AI-focused policy organization, and a former senior fellow at the Brookings Institution on AI policy — said she worries the commercialization of AI could harm job security.\n“I have a deep fear when I think about the seven generations question of, ‘Is AI going to commoditize cognition?’” Kinder said at the event. “What would that mean for the kinds of jobs that so many of us gain so much satisfaction from? I think there’s a lot of really hard questions ahead.”\n“We’re moving toward a world where AI is getting dangerously good at potentially surpassing humans at work,” Kinder added. “How do you reconcile that? How do you reconcile an economy that’s used up to have profit motives to replace humans at work? And these are really, really hard questions. They’re not easy policy answers.”\nYoung adults are growing increasingly concerned about AI use and threats to job opportunities, polls show.\nLukas Pitman (SFS ’27), who attended the event, said the panelists’ conversation offered an example of positive leadership amid ongoing political conflicts.\n“I would definitely say it gave me hope,” Pitman told The Hoya. “I think one of the questions that was addressed tonight was more leadership, that in a time where across the entire world politicians and other traditional leaders have basically been discredited, there’s never been a time, I think, at least right now, that there is as little trust in political leaders as we are living in.”\n“People feel alone, hopeless, and with the encyclical, I think the pope not only is calling out there is a path forward,” Pitman added. “We can address these issues, getting to the heart of it, that we are human beings first and not just machines to be utilized for an economy based on AI.”\nCaccia said the pope’s encyclical and subsequent discussion may help find answers to the questions AI poses to society.\n“Global answers mean everyone also should say something and understand the other, and this is the methodology that the pope wanted to implement,” Caccia said.\n“We don’t pretend to have the answer,” Caccia added. “We try to put some questions that can help us to find common answer, and to work together for the future of every one of us.”\nCaccia said he hopes that the church’s commitment to public discourse can produce solutions to ease growing anxiety as AI continues to develop.\n“I am confident, as I said, that together we can face this situation and find a way,” Caccia said.\n“If you want to go fast, go alone,” Caccia added. “If you want to go far, go together, and I think we have to go very far, and that’s why we have to go together.”",
-      "content_html": "<html>\n  <body>\n    <p>A Catholic archbishop and a panel of artificial intelligence (AI) experts argued that expanding technology should not supersede human dignity at a Sept. 9 Georgetown University event.</p>\n    <p>Archbishop Gabriele Caccia, the Apostolic Nuncio of the Holy See to the United States, urged Catholics to foster public debate over AI’s impacts on job security and individuality. The panelists, who joined Caccia in Gaston Hall, also warned attendees about the dangers of commercializing human intelligence.</p>\n    <p>The speakers largely drew from arguments made in Pope Leo VI’s May encyclical “Magnifica Humanitas” (“Magnificent Humanity”), which argues that technological innovation should respect the dignity of all people rather than benefitting the few.</p>\n    <p>Caccia said the pope’s AI stipulations come from the belief that individual souls are sacred.</p>\n    <p>“All these guidance are based on a central point that each human being in our vision is created in the image of God,” Caccia said at the event. “He has something more than human in His humanity, and these should be always recognized. It’s the foundation stone on which to build any future. If we don’t respect that, we become like objects.”</p>\n    <p>“Each one is unique,” Caccia added. “Each one is called life by somebody bigger than us. Each one has a purpose.”</p>\n    <p>Despite the attention it received, “Magnifica Humanitas” does not recommend any specific policy solutions toward AI usage.</p>\n    <p>University President Eduardo Peñalver said Georgetown is answering Pope Leo’s call to action by encouraging community involvement and accessibility to AI.</p>\n    <p>“In his encyclical, Pope Leo posed a specific challenge to universities and, by implication, Catholic universities in particular, to lead the way in advancing understanding of this new and rapidly evolving technology, and in crafting responses to it that emphasize the importance of subordinating AI for human purposes, human dignity and the common good,” Peñalver said at the event.</p>\n    <p>Peñalver announced a plan Sept. 3 that will set a university-wide framework for AI use, following multiple AI initiatives launched in August. The College of Arts &amp; Sciences also inaugurated an AI ethics and application certificate this semester, and in February, the university announced plans to give students premium access to Gemini, Google’s AI assistant.</p>\n    <p>Anna Rowlands, a professor of Catholic Social Thought and Practice at Durham University, said the role of the church is not to offer solutions, but to foster discussion.</p>\n    <p>“One of the things that’s most misunderstood about the encyclical is people who react by saying, ‘Well, it’s kind of useless because it’s really generic, and it needs to be a blueprint that just lists on solutions,’” Rowlands said at the event.</p>\n    <p>“The task of the church is not to offer solutions — which doesn’t mean solutions can’t be found, Rowlands added. “But that’s what the process of us learning how to think through and reason through and reflecting these questions together is meant to produce.”</p>\n    <p>The “Magnifica Humanitas” reaffirmed the church’s commitment to social justice, faith and the gospel in an AI economy. Its release comes amid growing concerns of entry-level job security, AI-based data leaks and resignations from tech engineers over AI capabilities.</p>\n    <p>Caccia said the key to establishing AI consensus is cooperation between opposing groups.</p>\n    <p>“There is not one answer. It is not just a political answer, but it’s not just the technical answer or the economic answer,” Caccia said. “You have to put all the stakeholders around the table and find a common way in which everyone has his own role to play.”</p>\n    <p>Jasmine Sun, a journalist who covers technological innovation in Silicon Valley, said the views of many tech industrialists contrast greatly from those of the general public.</p>\n    <p>“Silicon Valley leaders are not trusted messengers of what an ideal AI future ought to look like,” Sun said at the event.</p>\n    <p>“They will articulate a vision, a utopia that may be utopia to them, involving immortality or a world where nobody has to work anymore,” Sun added.</p>\n    <p>Molly Kinder — the CEO of the Breakwater Initiative, an AI-focused policy organization, and a former senior fellow at the Brookings Institution on AI policy — said she worries the commercialization of AI could harm job security.</p>\n    <p>“I have a deep fear when I think about the seven generations question of, ‘Is AI going to commoditize cognition?’” Kinder said at the event. “What would that mean for the kinds of jobs that so many of us gain so much satisfaction from? I think there’s a lot of really hard questions ahead.”</p>\n    <p>“We’re moving toward a world where AI is getting dangerously good at potentially surpassing humans at work,” Kinder added. “How do you reconcile that? How do you reconcile an economy that’s used up to have profit motives to replace humans at work? And these are really, really hard questions. They’re not easy policy answers.”</p>\n    <p>Young adults are growing increasingly concerned about AI use and threats to job opportunities, polls show.</p>\n    <p>Lukas Pitman (SFS ’27), who attended the event, said the panelists’ conversation offered an example of positive leadership amid ongoing political conflicts.</p>\n    <p>“I would definitely say it gave me hope,” Pitman told The Hoya. “I think one of the questions that was addressed tonight was more leadership, that in a time where across the entire world politicians and other traditional leaders have basically been discredited, there’s never been a time, I think, at least right now, that there is as little trust in political leaders as we are living in.”</p>\n    <p>“People feel alone, hopeless, and with the encyclical, I think the pope not only is calling out there is a path forward,” Pitman added. “We can address these issues, getting to the heart of it, that we are human beings first and not just machines to be utilized for an economy based on AI.”</p>\n    <p>Caccia said the pope’s encyclical and subsequent discussion may help find answers to the questions AI poses to society.</p>\n    <p>“Global answers mean everyone also should say something and understand the other, and this is the methodology that the pope wanted to implement,” Caccia said.</p>\n    <p>“We don’t pretend to have the answer,” Caccia added. “We try to put some questions that can help us to find common answer, and to work together for the future of every one of us.”</p>\n    <p>Caccia said he hopes that the church’s commitment to public discourse can produce solutions to ease growing anxiety as AI continues to develop.</p>\n    <p>“I am confident, as I said, that together we can face this situation and find a way,” Caccia said.</p>\n    <p>“If you want to go fast, go alone,” Caccia added. “If you want to go far, go together, and I think we have to go very far, and that’s why we have to go together.”</p>\n  </body>\n</html>",
-      "word_count": 1107,
-      "char_count": 6698,
-      "lead_image": "https://thehoya.com/wp-content/uploads/2026/09/IMG_9090-2-3.jpg",
-      "images": [
-        {
-          "url": "https://thehoya.com/wp-content/uploads/2026/09/IMG_9090-2-3.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
       "first_seen_at": "2026-09-11T16:52:06Z"
     }
   ]
