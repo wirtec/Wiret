@@ -1,17 +1,58 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-19T23:51:43Z",
+  "generated_at": "2026-09-20T03:09:10Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 14,
-    "added": 9,
-    "updated": 5,
-    "ok": 375,
-    "failed": 125,
-    "duration_seconds": 8.78
+    "scraped_now": 10,
+    "added": 6,
+    "updated": 4,
+    "ok": 371,
+    "failed": 129,
+    "duration_seconds": 6.75
   },
   "articles": [
+    {
+      "id": "9e0cf553a6a6f748",
+      "title": "Mike Schumacher | Vice President, Technology & Analytics | Portland Trail Blazers",
+      "header": "NBA.com",
+      "published_at": "2026-09-20T01:29:39Z",
+      "published_raw": "Sun, 20 Sep 2026 01:29:39 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZNE5JZXlEVERaQTVNU19iR29ZVW41ZUhQUk4ydjZudmxYS2xNVG9wQWRHcTlfSlpobzhSVTZaNFFCcnMtSm9NbWEwb2NlTzhhX1FKT0V3?oc=5",
+      "description": "Mike Schumacher | Vice President, Technology & Analytics | Portland Trail Blazers NBA.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZNE5JZXlEVERaQTVNU19iR29ZVW41ZUhQUk4ydjZudmxYS2xNVG9wQWRHcTlfSlpobzhSVTZaNFFCcnMtSm9NbWEwb2NlTzhhX1FKT0V3?oc=5\" target=\"_blank\">Mike Schumacher | Vice President, Technology & Analytics | Portland Trail Blazers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBA.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZNE5JZXlEVERaQTVNU19iR29ZVW41ZUhQUk4ydjZudmxYS2xNVG9wQWRHcTlfSlpobzhSVTZaNFFCcnMtSm9NbWEwb2NlTzhhX1FKT0V3?oc=5"
+      ],
+      "scraped_at": "2026-09-20T03:09:05Z",
+      "url": "https://www.nba.com/blazers/mike-schumacher",
+      "final_url": "https://www.nba.com/blazers/mike-schumacher",
+      "source": "nba.com",
+      "article_title": "Mike Schumacher | Vice President, Technology & Analytics | Portland Trail Blazers",
+      "heading": "Mike Schumacher | Vice President, Technology & Analytics | Portland Trail Blazers",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Mike Schumacher | Vice President, Technology & Analytics | Portland Trail Blazers NBA.com",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": "https://cdn.nba.com/teams/uploads/sites/1610612757/2021/09/tb_primary_rgb.png",
+      "images": [
+        {
+          "url": "https://cdn.nba.com/teams/uploads/sites/1610612757/2021/09/tb_primary_rgb.png",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "",
+      "status": "partial",
+      "error": "empty_text",
+      "first_seen_at": "2026-09-20T03:09:05Z"
+    },
     {
       "id": "b299ffe18f8da72f",
       "title": "UK installs AI facial scanning technology at residence halls",
@@ -348,6 +389,219 @@
       "first_seen_at": "2026-09-19T23:51:37Z"
     },
     {
+      "id": "97346262ee71ddca",
+      "title": "UK installs AI facial scanning technology at residence halls",
+      "header": "WBAY",
+      "published_at": "2026-09-19T23:15:00Z",
+      "published_raw": "Sat, 19 Sep 2026 23:15:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONlh1TlN2Z1Nqck53Rm9yZE5zS2R6WVdUZkx3NlZoTm9CVGhNaFgxdXJkOFZ0aWIxeUZTdlZXNUxFSDFSd0ZYWGVTQVdfc0p6Y3VqSl9sRkh6Y1I0R29QeVlORDU4NV81WW9jdVpzNjhPYUQzT3p0Sk1XLVpUeWw3YWhwWGRhVUJXMFdISndBTnh2clRVT0xfcU9qNzg?oc=5",
+      "description": "UK installs AI facial scanning technology at residence halls WBAY",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxONlh1TlN2Z1Nqck53Rm9yZE5zS2R6WVdUZkx3NlZoTm9CVGhNaFgxdXJkOFZ0aWIxeUZTdlZXNUxFSDFSd0ZYWGVTQVdfc0p6Y3VqSl9sRkh6Y1I0R29QeVlORDU4NV81WW9jdVpzNjhPYUQzT3p0Sk1XLVpUeWw3YWhwWGRhVUJXMFdISndBTnh2clRVT0xfcU9qNzg?oc=5\" target=\"_blank\">UK installs AI facial scanning technology at residence halls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBAY</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxONlh1TlN2Z1Nqck53Rm9yZE5zS2R6WVdUZkx3NlZoTm9CVGhNaFgxdXJkOFZ0aWIxeUZTdlZXNUxFSDFSd0ZYWGVTQVdfc0p6Y3VqSl9sRkh6Y1I0R29QeVlORDU4NV81WW9jdVpzNjhPYUQzT3p0Sk1XLVpUeWw3YWhwWGRhVUJXMFdISndBTnh2clRVT0xfcU9qNzg?oc=5"
+      ],
+      "scraped_at": "2026-09-20T03:09:06Z",
+      "url": "https://www.wbay.com/video/2026/09/20/uk-installs-ai-facial-scanning-technology-residence-halls/",
+      "final_url": "https://www.wbay.com/video/2026/09/20/uk-installs-ai-facial-scanning-technology-residence-halls/",
+      "source": "https://www.wbay.com",
+      "article_title": "UK installs AI facial scanning technology at residence halls",
+      "heading": "UK installs AI facial scanning technology at residence halls",
+      "authors": [],
+      "article_published_at": "2026-09-19T23:15:09Z",
+      "article_modified_at": "2026-09-20T03:00:00Z",
+      "summary": "UK installs AI facial scanning technology at residence halls",
+      "content": "Shared Video\n\nTop Stories: WKYT News at 6:00 PM (9/19/2026)\n\nShared Video\n\n‘I’ll just have to go further’: Patients brace for longer commutes as Geneva Cancer Center closes\n\nShared Video\n\nHVAC companies slammed as heat hangs on\n\nShared Video\n\nTwo in custody after high-speed chase ends in crash\n\nShared Video\n\nCommunity volunteers tackle trash along Pearl River",
+      "content_html": "<body><div class=\"fusion-app\" id=\"fusion-app\"><div class=\"includes-right-rail page-layout\" id=\"article-right-rail-layout\"><a class=\"skip-link visually-hidden visually-hidden-focusable px-3 text-body\" href=\"#main\">Skip to content</a><section class=\"leaderboard | w-100\"><div class=\"arc-ad | d-flex flex-column ad-type-flex-leaderboard ad-flex-leaderboard include-disclaimer justify-content-center text-center\"><div class=\"arc-ad-wrapper |\"><div class=\"wbay/web/news arcad py-2 mt-3 mb-3\" id=\"ad-xAt5i3Cifa2AHjegR3XufJsij74OMR1YMkEWTRFXvfRRn19lS3\"></div></div></div></section><div class=\"container-xl\"><div class=\"row\"><section class=\"top-wrapped | col-12\"><div class=\"row mb-3\"><div class=\"headlines |\"><h1 class=\"headline | fw-bold col\"><span>UK installs AI facial scanning technology at residence halls</span></h1></div><div class=\"date-time | col-12\"><span class=\"date-time published-date-time fst-italic d-inline-block\">Published<!-- -->: <!-- -->Sep. 19, 2026 at 6:15 PM CDT</span><span class=\"px-2 d-inline\">|</span><span class=\"date-time updated-date-time fst-italic d-inline-block\">Updated<!-- -->: <!-- -->8 minutes ago</span></div><div class=\"action-bar row align-items-stretch text-center mb-3 pt-1\"><div class=\"action col col-md-auto d-flex justify-content-start align-items-center justify-content-center\"><div class=\"d-flex position-relative\"></div></div><div class=\"action col col-md-auto d-flex justify-content-start align-items-center justify-content-center\"><a class=\"google-source-button text-body btn btn-link p-0 text-decoration-none\" href=\"https://google.com/preferences/source?q=https://www.wbay.com\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"d-flex align-items-center\"><div class=\"google-icon flex-shrink-0\"></div><div class=\"c2a ms-2 text-md-start\"><span class=\"d-md-none\">Add Us On Google</span><span class=\"d-none d-md-block\">Add as a preferred source on Google</span></div></div></a></div></div></div></section><div class=\"col-12 d-flex flex-column flex-lg-row w-100\"><div class=\"article-content-container | flex-lg-fill me-lg-3\"><article class=\"w-100\"><section class=\"body | w-100\"></section></article><section class=\"recommendations | w-100\"><div class=\"flex-feature-feed | mb-0\" data-tb-region=\"flex-feature-feed-0fvy6ew1nri\"><div class=\"card-deck mx-n2 mb-0\"><div class=\"flex-feature | card mx-2 mb-3 align-items-start border image-right position-relative w-100 is-video\" data-tb-region-item=\"\"><div class=\"card-body w-100 px-2 py-2 image_headline_byline_deck\"><div class=\"image-container position-relative mb-0 pt-0 w-33 float-end ms-2\"><a class=\"link | text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/top-stories-wkyt-news-600-pm-9192026/\" rel=\"\" target=\"_self\"><div class=\"overlay | position-absolute overflow-hidden flex-row align-items-start d-hover h-100 w-100\"><div class=\"label | overflow-auto h-100\" style=\"position:Top Left;background:linear-gradient(90deg,rgb(150,150,150) 0%,rgb(150,150,150) 5px,rgba(0,0,0,0.8) 5px,rgba(0,0,0,0.6) 80%,rgba(0,0,0,0) 100%);width:auto;color:white\"><div class=\"h-100 p-2 d-flex flex-column flex-row align-items-start\"><p class=\"overline | pe-2 small fw-bold text-uppercase fw-normal isText d-block mb-0\" data-tb-category=\"\">Shared Video</p></div></div></div></a><figure class=\"media-item | figure media-item-image mb-0 constrained image-ratio-16x9\"><div class=\"figure-wrapper img-wrapper figure-img mb-0\"><a class=\"link | text-reset d-block h-100 w-100\" data-tb-link=\"\" href=\"/video/2026/09/20/top-stories-wkyt-news-600-pm-9192026/\" rel=\"\" target=\"_self\"><img alt=\"Top Stories: WKYT News at 6:00 PM (9/19/2026)\" class=\"img-fluid\" data-tb-thumbnail=\"\" fetchpriority=\"low\" height=\"450\" loading=\"lazy\" src=\"https://gray-wbay-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_962ff08bc84a4f2e8318b6255b75508b_name_file_1280x720_2000_v3_1_.jpg?auth=f5b8f09dbff73bdbc3b393a52a1555edc031025fc693d4ef188f58b9a3f28e6b&amp;width=800&amp;height=450&amp;smart=true\" width=\"800\"/></a></div></figure></div><div class=\"headlines | card-title mb-1\"><h4 class=\"headline | mb-0 fw-bold\"><a class=\"text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/top-stories-wkyt-news-600-pm-9192026/\" rel=\"\" target=\"_self\"><span data-tb-title=\"\">Top Stories: WKYT News at 6:00 PM (9/19/2026)</span></a></h4></div><div class=\"bylines | d-block small fw-normal\"><div class=\"date-time | d-inline-block small fw-normal\"><span class=\"date-time updated-date-time\" data-tb-date=\"\">Updated<!-- -->: <!-- -->8 minutes ago</span></div></div><div class=\"deck | normal fw-normal fw-normal isText d-block\"><div class=\"w-100\" data-tb-description=\"\">Top Stories: WKYT News at 6:00 PM (9/19/2026)</div></div></div></div><div class=\"feed-divider | w-100 d-none d-sm-block d-md-block d-lg-block d-xl-block\"></div><div class=\"flex-feature | card mx-2 mb-3 align-items-start border image-right position-relative w-100 is-video\" data-tb-region-item=\"\"><div class=\"card-body w-100 px-2 py-2 image_headline_byline_deck\"><div class=\"image-container position-relative mb-0 pt-0 w-33 float-end ms-2\"><a class=\"link | text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/ill-just-have-go-further-patients-brace-longer-commutes-geneva-cancer-center-closes/\" rel=\"\" target=\"_self\"><div class=\"overlay | position-absolute overflow-hidden flex-row align-items-start d-hover h-100 w-100\"><div class=\"label | overflow-auto h-100\" style=\"position:Top Left;background:linear-gradient(90deg,rgb(150,150,150) 0%,rgb(150,150,150) 5px,rgba(0,0,0,0.8) 5px,rgba(0,0,0,0.6) 80%,rgba(0,0,0,0) 100%);width:auto;color:white\"><div class=\"h-100 p-2 d-flex flex-column flex-row align-items-start\"><p class=\"overline | pe-2 small fw-bold text-uppercase fw-normal isText d-block mb-0\" data-tb-category=\"\">Shared Video</p></div></div></div></a><figure class=\"media-item | figure media-item-image mb-0 constrained image-ratio-16x9\"><div class=\"figure-wrapper img-wrapper figure-img mb-0\"><a class=\"link | text-reset d-block h-100 w-100\" data-tb-link=\"\" href=\"/video/2026/09/20/ill-just-have-go-further-patients-brace-longer-commutes-geneva-cancer-center-closes/\" rel=\"\" target=\"_self\"><img class=\"img-fluid\" data-tb-thumbnail=\"\" fetchpriority=\"low\" height=\"450\" loading=\"lazy\" src=\"https://gray-wbay-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-20-2026%2Ft_ed52e0c61aa84bde822e525b9ac643c6_name_file_1280x720_2000_v3_1_.jpg?auth=0aa04b47380cc3782c3661c91168389e3719bdbdda07c4065db37e3b6e6da61d&amp;width=800&amp;height=450&amp;smart=true\" width=\"800\"/></a></div></figure></div><div class=\"headlines | card-title mb-1\"><h4 class=\"headline | mb-0 fw-bold\"><a class=\"text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/ill-just-have-go-further-patients-brace-longer-commutes-geneva-cancer-center-closes/\" rel=\"\" target=\"_self\"><span data-tb-title=\"\">‘I’ll just have to go further’: Patients brace for longer commutes as Geneva Cancer Center closes</span></a></h4></div><div class=\"bylines | d-block small fw-normal\"><div class=\"date-time | d-inline-block small fw-normal\"><span class=\"date-time updated-date-time\" data-tb-date=\"\">Updated<!-- -->: <!-- -->38 minutes ago</span></div></div></div></div><div class=\"feed-divider | w-100 d-none d-sm-block d-md-block d-lg-block d-xl-block\"></div><div class=\"flex-feature | card mx-2 mb-3 align-items-start border image-right position-relative w-100 is-video\" data-tb-region-item=\"\"><div class=\"card-body w-100 px-2 py-2 image_headline_byline_deck\"><div class=\"image-container position-relative mb-0 pt-0 w-33 float-end ms-2\"><a class=\"link | text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/hvac-companies-slammed-heat-hangs/\" rel=\"\" target=\"_self\"><div class=\"overlay | position-absolute overflow-hidden flex-row align-items-start d-hover h-100 w-100\"><div class=\"label | overflow-auto h-100\" style=\"position:Top Left;background:linear-gradient(90deg,rgb(150,150,150) 0%,rgb(150,150,150) 5px,rgba(0,0,0,0.8) 5px,rgba(0,0,0,0.6) 80%,rgba(0,0,0,0) 100%);width:auto;color:white\"><div class=\"h-100 p-2 d-flex flex-column flex-row align-items-start\"><p class=\"overline | pe-2 small fw-bold text-uppercase fw-normal isText d-block mb-0\" data-tb-category=\"\">Shared Video</p></div></div></div></a><figure class=\"media-item | figure media-item-image mb-0 constrained image-ratio-16x9\"><div class=\"figure-wrapper img-wrapper figure-img mb-0\"><a class=\"link | text-reset d-block h-100 w-100\" data-tb-link=\"\" href=\"/video/2026/09/20/hvac-companies-slammed-heat-hangs/\" rel=\"\" target=\"_self\"><img alt=\"Average temperatures in Nashville were in the low 80s in July, which is typical for the summer...\" class=\"img-fluid\" data-tb-thumbnail=\"\" fetchpriority=\"low\" height=\"450\" loading=\"lazy\" src=\"https://gray-wbay-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-20-2026%2Ft_d1da40ce873443a7956cbfd18ffac587_name_file_1280x720_2000_v3_1_.jpg?auth=fe75c5377a7573e7e0e7b104b78a9544ba00d9662b00943adba62f2c28038175&amp;width=800&amp;height=450&amp;smart=true\" width=\"800\"/></a></div></figure></div><div class=\"headlines | card-title mb-1\"><h4 class=\"headline | mb-0 fw-bold\"><a class=\"text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/hvac-companies-slammed-heat-hangs/\" rel=\"\" target=\"_self\"><span data-tb-title=\"\">HVAC companies slammed as heat hangs on</span></a></h4></div><div class=\"bylines | d-block small fw-normal\"><div class=\"date-time | d-inline-block small fw-normal\"><span class=\"date-time updated-date-time\" data-tb-date=\"\">Updated<!-- -->: <!-- -->51 minutes ago</span></div><span class=\"mx-2\">|</span></div><div class=\"deck | normal fw-normal fw-normal isText d-block\"><div class=\"w-100\" data-tb-description=\"\">Average temperatures in Nashville were in the low 80s in July, which is typical for the summer season. During that time, heat indexes climbed into the triple digits.</div></div></div></div><div class=\"feed-divider | w-100 d-none d-sm-block d-md-block d-lg-block d-xl-block\"></div><div class=\"flex-feature | card mx-2 mb-3 align-items-start border image-right position-relative w-100 is-video\" data-tb-region-item=\"\"><div class=\"card-body w-100 px-2 py-2 image_headline_byline_deck\"><div class=\"image-container position-relative mb-0 pt-0 w-33 float-end ms-2\"><a class=\"link | text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/two-custody-after-high-speed-chase-ends-crash/\" rel=\"\" target=\"_self\"><div class=\"overlay | position-absolute overflow-hidden flex-row align-items-start d-hover h-100 w-100\"><div class=\"label | overflow-auto h-100\" style=\"position:Top Left;background:linear-gradient(90deg,rgb(150,150,150) 0%,rgb(150,150,150) 5px,rgba(0,0,0,0.8) 5px,rgba(0,0,0,0.6) 80%,rgba(0,0,0,0) 100%);width:auto;color:white\"><div class=\"h-100 p-2 d-flex flex-column flex-row align-items-start\"><p class=\"overline | pe-2 small fw-bold text-uppercase fw-normal isText d-block mb-0\" data-tb-category=\"\">Shared Video</p></div></div></div></a><figure class=\"media-item | figure media-item-image mb-0 constrained image-ratio-16x9\"><div class=\"figure-wrapper img-wrapper figure-img mb-0\"><a class=\"link | text-reset d-block h-100 w-100\" data-tb-link=\"\" href=\"/video/2026/09/20/two-custody-after-high-speed-chase-ends-crash/\" rel=\"\" target=\"_self\"><img class=\"img-fluid\" data-tb-thumbnail=\"\" fetchpriority=\"low\" height=\"450\" loading=\"lazy\" src=\"https://gray-wbay-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_dc880aef9bbb4aa8a80b38759905b05b_name_file_1280x720_2000_v3_1_.jpg?auth=9e5e9fb6ab66bf91c28b31d61c39263b6ccc0f2fa674209952dd1ebf1482524f&amp;width=800&amp;height=450&amp;smart=true\" width=\"800\"/></a></div></figure></div><div class=\"headlines | card-title mb-1\"><h4 class=\"headline | mb-0 fw-bold\"><a class=\"text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/two-custody-after-high-speed-chase-ends-crash/\" rel=\"\" target=\"_self\"><span data-tb-title=\"\">Two in custody after high-speed chase ends in crash</span></a></h4></div><div class=\"bylines | d-block small fw-normal\"><div class=\"date-time | d-inline-block small fw-normal\"><span class=\"date-time updated-date-time\" data-tb-date=\"\">Updated<!-- -->: <!-- -->1 hour ago</span></div></div></div></div><div class=\"feed-divider | w-100 d-none d-sm-block d-md-block d-lg-block d-xl-block\"></div><div class=\"flex-feature | card mx-2 mb-3 align-items-start border image-right position-relative w-100 is-video\" data-tb-region-item=\"\"><div class=\"card-body w-100 px-2 py-2 image_headline_byline_deck\"><div class=\"image-container position-relative mb-0 pt-0 w-33 float-end ms-2\"><a class=\"link | text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/community-volunteers-tackle-trash-along-pearl-river/\" rel=\"\" target=\"_self\"><div class=\"overlay | position-absolute overflow-hidden flex-row align-items-start d-hover h-100 w-100\"><div class=\"label | overflow-auto h-100\" style=\"position:Top Left;background:linear-gradient(90deg,rgb(150,150,150) 0%,rgb(150,150,150) 5px,rgba(0,0,0,0.8) 5px,rgba(0,0,0,0.6) 80%,rgba(0,0,0,0) 100%);width:auto;color:white\"><div class=\"h-100 p-2 d-flex flex-column flex-row align-items-start\"><p class=\"overline | pe-2 small fw-bold text-uppercase fw-normal isText d-block mb-0\" data-tb-category=\"\">Shared Video</p></div></div></div></a><figure class=\"media-item | figure media-item-image mb-0 constrained image-ratio-16x9\"><div class=\"figure-wrapper img-wrapper figure-img mb-0\"><a class=\"link | text-reset d-block h-100 w-100\" data-tb-link=\"\" href=\"/video/2026/09/20/community-volunteers-tackle-trash-along-pearl-river/\" rel=\"\" target=\"_self\"><img class=\"img-fluid\" data-tb-thumbnail=\"\" fetchpriority=\"low\" height=\"450\" loading=\"lazy\" src=\"https://gray-wbay-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_0c74d5e66b6f462ebcbcafebca242a5c_name_file_1280x720_2000_v3_1_.jpg?auth=045782edbbf2f525c74fcd23ecb58423662bbdcf8f9aa5c09978179c5a5c46d3&amp;width=800&amp;height=450&amp;smart=true\" width=\"800\"/></a></div></figure></div><div class=\"headlines | card-title mb-1\"><h4 class=\"headline | mb-0 fw-bold\"><a class=\"text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/community-volunteers-tackle-trash-along-pearl-river/\" rel=\"\" target=\"_self\"><span data-tb-title=\"\">Community volunteers tackle trash along Pearl River</span></a></h4></div><div class=\"bylines | d-block small fw-normal\"><div class=\"date-time | d-inline-block small fw-normal\"><span class=\"date-time updated-date-time\" data-tb-date=\"\">Updated<!-- -->: <!-- -->1 hour ago</span></div></div></div></div><div class=\"feed-divider | w-100 d-none d-sm-block d-md-block d-lg-block d-xl-block\"></div></div></div><div data-fusion-component=\"taboola-widget-f0fukCQmn0v61KW\" id=\"fusion-static-enter:taboola-widget-f0fukCQmn0v61KW\" style=\"display:none\"></div><div class=\"taboola-feed | w-100 mb-3\"><div id=\"taboola-below-video-thumbnails\"></div></div><div data-fusion-component=\"taboola-widget-f0fukCQmn0v61KW\" id=\"fusion-static-exit:taboola-widget-f0fukCQmn0v61KW\" style=\"display:none\"></div></section></div><section class=\"right-rail | rail ms-lg-3 d-flex flex-column flex-lg-fill\"><div class=\"w-100\" style=\"height:600px\"></div></section></div><section class=\"bottom-wrapped | col-12\"></section></div></div></div></div><div data-fusion-component=\"taboola-body-reference\" id=\"fusion-static-enter:taboola-body-reference\" style=\"display:none\"></div><div data-fusion-component=\"taboola-body-reference\" id=\"fusion-static-exit:taboola-body-reference\" style=\"display:none\"></div></body>",
+      "word_count": 57,
+      "char_count": 361,
+      "lead_image": "https://gray-wbay-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_c202b4dafa1244b5b774010c38ce6ebd_name_file_1280x720_2000_v3_1_.jpg?auth=e6c6035c0b239e3ad6b3e2afb3f14f2b0c7c664362521f1678699cf03f73e77a&width=1200&height=600&smart=true",
+      "images": [
+        {
+          "url": "https://gray-wbay-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_c202b4dafa1244b5b774010c38ce6ebd_name_file_1280x720_2000_v3_1_.jpg?auth=e6c6035c0b239e3ad6b3e2afb3f14f2b0c7c664362521f1678699cf03f73e77a&width=1200&height=600&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://gray-wbay-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_962ff08bc84a4f2e8318b6255b75508b_name_file_1280x720_2000_v3_1_.jpg?auth=f5b8f09dbff73bdbc3b393a52a1555edc031025fc693d4ef188f58b9a3f28e6b&width=800&height=450&smart=true",
+          "alt": "Top Stories: WKYT News at 6:00 PM (9/19/2026)",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-wbay-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-20-2026%2Ft_ed52e0c61aa84bde822e525b9ac643c6_name_file_1280x720_2000_v3_1_.jpg?auth=0aa04b47380cc3782c3661c91168389e3719bdbdda07c4065db37e3b6e6da61d&width=800&height=450&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-wbay-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-20-2026%2Ft_d1da40ce873443a7956cbfd18ffac587_name_file_1280x720_2000_v3_1_.jpg?auth=fe75c5377a7573e7e0e7b104b78a9544ba00d9662b00943adba62f2c28038175&width=800&height=450&smart=true",
+          "alt": "Average temperatures in Nashville were in the low 80s in July, which is typical for the summer...",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-wbay-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_dc880aef9bbb4aa8a80b38759905b05b_name_file_1280x720_2000_v3_1_.jpg?auth=9e5e9fb6ab66bf91c28b31d61c39263b6ccc0f2fa674209952dd1ebf1482524f&width=800&height=450&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-wbay-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_0c74d5e66b6f462ebcbcafebca242a5c_name_file_1280x720_2000_v3_1_.jpg?auth=045782edbbf2f525c74fcd23ecb58423662bbdcf8f9aa5c09978179c5a5c46d3&width=800&height=450&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 6,
+      "extractor": "bs4",
+      "status": "partial",
+      "error": "short_text",
+      "first_seen_at": "2026-09-20T03:09:06Z"
+    },
+    {
+      "id": "725353f5fda18117",
+      "title": "UK installs AI facial scanning technology at residence halls",
+      "header": "KFVS12",
+      "published_at": "2026-09-19T23:15:00Z",
+      "published_raw": "Sat, 19 Sep 2026 23:15:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYXBnMXRKdGh5cU5GQmdIOVhJSVJhamRYOEdZa0dvVnEzRUF1eUtEYm5UZExxOGRRRWVlek1vRldFekJPbVRicGxJYXBzTl9oQTBtZ09jUkhfcldadC1Rd2hlSWNxUG5pcVVHOU0tV2VESmJIS2dSSlpzZVdHelF4enlLZlc1YXJ3NVdTdlJrYzNPVUkyNUFLLVNfUlpKNW8?oc=5",
+      "description": "UK installs AI facial scanning technology at residence halls KFVS12",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNYXBnMXRKdGh5cU5GQmdIOVhJSVJhamRYOEdZa0dvVnEzRUF1eUtEYm5UZExxOGRRRWVlek1vRldFekJPbVRicGxJYXBzTl9oQTBtZ09jUkhfcldadC1Rd2hlSWNxUG5pcVVHOU0tV2VESmJIS2dSSlpzZVdHelF4enlLZlc1YXJ3NVdTdlJrYzNPVUkyNUFLLVNfUlpKNW8?oc=5\" target=\"_blank\">UK installs AI facial scanning technology at residence halls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFVS12</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYXBnMXRKdGh5cU5GQmdIOVhJSVJhamRYOEdZa0dvVnEzRUF1eUtEYm5UZExxOGRRRWVlek1vRldFekJPbVRicGxJYXBzTl9oQTBtZ09jUkhfcldadC1Rd2hlSWNxUG5pcVVHOU0tV2VESmJIS2dSSlpzZVdHelF4enlLZlc1YXJ3NVdTdlJrYzNPVUkyNUFLLVNfUlpKNW8?oc=5"
+      ],
+      "scraped_at": "2026-09-20T03:09:06Z",
+      "url": "https://www.kfvs12.com/video/2026/09/20/uk-installs-ai-facial-scanning-technology-residence-halls/",
+      "final_url": "https://www.kfvs12.com/video/2026/09/20/uk-installs-ai-facial-scanning-technology-residence-halls/",
+      "source": "https://www.kfvs12.com",
+      "article_title": "UK installs AI facial scanning technology at residence halls",
+      "heading": "UK installs AI facial scanning technology at residence halls",
+      "authors": [],
+      "article_published_at": "2026-09-19T23:15:09Z",
+      "article_modified_at": "2026-09-20T03:00:00Z",
+      "summary": "UK installs AI facial scanning technology at residence halls",
+      "content": "Shared Video\n\nTop Stories: WKYT News at 6:00 PM (9/19/2026)\n\nShared Video\n\n‘I’ll just have to go further’: Patients brace for longer commutes as Geneva Cancer Center closes\n\nShared Video\n\nHVAC companies slammed as heat hangs on\n\nShared Video\n\nTwo in custody after high-speed chase ends in crash\n\nShared Video\n\nCommunity volunteers tackle trash along Pearl River",
+      "content_html": "<body><div class=\"fusion-app\" id=\"fusion-app\"><div class=\"includes-right-rail page-layout\" id=\"article-right-rail-layout\"><a class=\"skip-link visually-hidden visually-hidden-focusable px-3 text-body\" href=\"#main\">Skip to content</a><section class=\"leaderboard | w-100\"><div class=\"arc-ad | d-flex flex-column ad-type-flex-leaderboard ad-flex-leaderboard include-disclaimer justify-content-center text-center\"><div class=\"arc-ad-wrapper |\"><div class=\"kfvs/web/news arcad py-2 mt-3 mb-3\" id=\"ad-0MSM-aR5e4TcOXammnBuMNRGoHPtt-YWeqDzCU2yZ_RMANOltg\"></div></div></div></section><div class=\"container-xl\"><div class=\"row\"><section class=\"top-wrapped | col-12\"><div class=\"row mb-3\"><div class=\"headlines |\"><h1 class=\"headline | fw-bold col\"><span>UK installs AI facial scanning technology at residence halls</span></h1></div><div class=\"date-time | col-12\"><span class=\"date-time published-date-time fst-italic d-inline-block\">Published<!-- -->: <!-- -->Sep. 19, 2026 at 6:15 PM CDT</span><span class=\"px-2 d-inline\">|</span><span class=\"date-time updated-date-time fst-italic d-inline-block\">Updated<!-- -->: <!-- -->moments ago</span></div><div class=\"action-bar row align-items-stretch text-center mb-3 pt-1\"><div class=\"action col col-md-auto d-flex justify-content-start align-items-center justify-content-center\"><div class=\"d-flex position-relative\"></div></div><div class=\"action col col-md-auto d-flex justify-content-start align-items-center justify-content-center\"><a class=\"google-source-button text-body btn btn-link p-0 text-decoration-none\" href=\"https://google.com/preferences/source?q=https://www.kfvs12.com\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"d-flex align-items-center\"><div class=\"google-icon flex-shrink-0\"></div><div class=\"c2a ms-2 text-md-start\"><span class=\"d-md-none\">Add Us On Google</span><span class=\"d-none d-md-block\">Add as a preferred source on Google</span></div></div></a></div></div></div></section><div class=\"col-12 d-flex flex-column flex-lg-row w-100\"><div class=\"article-content-container | flex-lg-fill me-lg-3\"><article class=\"w-100\"><section class=\"body | w-100\"></section></article><section class=\"recommendations | w-100\"><div class=\"flex-feature-feed | mb-0\" data-tb-region=\"flex-feature-feed-0fvy6ew1nri\"><div class=\"card-deck mx-n2 mb-0\"><div class=\"flex-feature | card mx-2 mb-3 align-items-start border image-right position-relative w-100 is-video\" data-tb-region-item=\"\"><div class=\"card-body w-100 px-2 py-2 image_headline_byline_deck\"><div class=\"image-container position-relative mb-0 pt-0 w-33 float-end ms-2\"><a class=\"link | text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/top-stories-wkyt-news-600-pm-9192026/\" rel=\"\" target=\"_self\"><div class=\"overlay | position-absolute overflow-hidden flex-row align-items-start d-hover h-100 w-100\"><div class=\"label | overflow-auto h-100\" style=\"position:Top Left;background:linear-gradient(90deg,rgb(150,150,150) 0%,rgb(150,150,150) 5px,rgba(0,0,0,0.8) 5px,rgba(0,0,0,0.6) 80%,rgba(0,0,0,0) 100%);width:auto;color:white\"><div class=\"h-100 p-2 d-flex flex-column flex-row align-items-start\"><p class=\"overline | pe-2 small fw-bold text-uppercase fw-normal isText d-block mb-0\" data-tb-category=\"\">Shared Video</p></div></div></div></a><figure class=\"media-item | figure media-item-image mb-0 constrained image-ratio-16x9\"><div class=\"figure-wrapper img-wrapper figure-img mb-0\"><a class=\"link | text-reset d-block h-100 w-100\" data-tb-link=\"\" href=\"/video/2026/09/20/top-stories-wkyt-news-600-pm-9192026/\" rel=\"\" target=\"_self\"><img alt=\"Top Stories: WKYT News at 6:00 PM (9/19/2026)\" class=\"img-fluid\" data-tb-thumbnail=\"\" fetchpriority=\"low\" height=\"450\" loading=\"lazy\" src=\"https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_962ff08bc84a4f2e8318b6255b75508b_name_file_1280x720_2000_v3_1_.jpg?auth=f5b8f09dbff73bdbc3b393a52a1555edc031025fc693d4ef188f58b9a3f28e6b&amp;width=800&amp;height=450&amp;smart=true\" width=\"800\"/></a></div></figure></div><div class=\"headlines | card-title mb-1\"><h4 class=\"headline | mb-0 fw-bold\"><a class=\"text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/top-stories-wkyt-news-600-pm-9192026/\" rel=\"\" target=\"_self\"><span data-tb-title=\"\">Top Stories: WKYT News at 6:00 PM (9/19/2026)</span></a></h4></div><div class=\"bylines | d-block small fw-normal\"><div class=\"date-time | d-inline-block small fw-normal\"><span class=\"date-time updated-date-time\" data-tb-date=\"\">Updated<!-- -->: <!-- -->moments ago</span></div></div><div class=\"deck | normal fw-normal fw-normal isText d-block\"><div class=\"w-100\" data-tb-description=\"\">Top Stories: WKYT News at 6:00 PM (9/19/2026)</div></div></div></div><div class=\"feed-divider | w-100 d-none d-sm-block d-md-block d-lg-block d-xl-block\"></div><div class=\"flex-feature | card mx-2 mb-3 align-items-start border image-right position-relative w-100 is-video\" data-tb-region-item=\"\"><div class=\"card-body w-100 px-2 py-2 image_headline_byline_deck\"><div class=\"image-container position-relative mb-0 pt-0 w-33 float-end ms-2\"><a class=\"link | text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/ill-just-have-go-further-patients-brace-longer-commutes-geneva-cancer-center-closes/\" rel=\"\" target=\"_self\"><div class=\"overlay | position-absolute overflow-hidden flex-row align-items-start d-hover h-100 w-100\"><div class=\"label | overflow-auto h-100\" style=\"position:Top Left;background:linear-gradient(90deg,rgb(150,150,150) 0%,rgb(150,150,150) 5px,rgba(0,0,0,0.8) 5px,rgba(0,0,0,0.6) 80%,rgba(0,0,0,0) 100%);width:auto;color:white\"><div class=\"h-100 p-2 d-flex flex-column flex-row align-items-start\"><p class=\"overline | pe-2 small fw-bold text-uppercase fw-normal isText d-block mb-0\" data-tb-category=\"\">Shared Video</p></div></div></div></a><figure class=\"media-item | figure media-item-image mb-0 constrained image-ratio-16x9\"><div class=\"figure-wrapper img-wrapper figure-img mb-0\"><a class=\"link | text-reset d-block h-100 w-100\" data-tb-link=\"\" href=\"/video/2026/09/20/ill-just-have-go-further-patients-brace-longer-commutes-geneva-cancer-center-closes/\" rel=\"\" target=\"_self\"><img class=\"img-fluid\" data-tb-thumbnail=\"\" fetchpriority=\"low\" height=\"450\" loading=\"lazy\" src=\"https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-20-2026%2Ft_ed52e0c61aa84bde822e525b9ac643c6_name_file_1280x720_2000_v3_1_.jpg?auth=0aa04b47380cc3782c3661c91168389e3719bdbdda07c4065db37e3b6e6da61d&amp;width=800&amp;height=450&amp;smart=true\" width=\"800\"/></a></div></figure></div><div class=\"headlines | card-title mb-1\"><h4 class=\"headline | mb-0 fw-bold\"><a class=\"text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/ill-just-have-go-further-patients-brace-longer-commutes-geneva-cancer-center-closes/\" rel=\"\" target=\"_self\"><span data-tb-title=\"\">‘I’ll just have to go further’: Patients brace for longer commutes as Geneva Cancer Center closes</span></a></h4></div><div class=\"bylines | d-block small fw-normal\"><div class=\"date-time | d-inline-block small fw-normal\"><span class=\"date-time updated-date-time\" data-tb-date=\"\">Updated<!-- -->: <!-- -->27 minutes ago</span></div></div></div></div><div class=\"feed-divider | w-100 d-none d-sm-block d-md-block d-lg-block d-xl-block\"></div><div class=\"flex-feature | card mx-2 mb-3 align-items-start border image-right position-relative w-100 is-video\" data-tb-region-item=\"\"><div class=\"card-body w-100 px-2 py-2 image_headline_byline_deck\"><div class=\"image-container position-relative mb-0 pt-0 w-33 float-end ms-2\"><a class=\"link | text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/hvac-companies-slammed-heat-hangs/\" rel=\"\" target=\"_self\"><div class=\"overlay | position-absolute overflow-hidden flex-row align-items-start d-hover h-100 w-100\"><div class=\"label | overflow-auto h-100\" style=\"position:Top Left;background:linear-gradient(90deg,rgb(150,150,150) 0%,rgb(150,150,150) 5px,rgba(0,0,0,0.8) 5px,rgba(0,0,0,0.6) 80%,rgba(0,0,0,0) 100%);width:auto;color:white\"><div class=\"h-100 p-2 d-flex flex-column flex-row align-items-start\"><p class=\"overline | pe-2 small fw-bold text-uppercase fw-normal isText d-block mb-0\" data-tb-category=\"\">Shared Video</p></div></div></div></a><figure class=\"media-item | figure media-item-image mb-0 constrained image-ratio-16x9\"><div class=\"figure-wrapper img-wrapper figure-img mb-0\"><a class=\"link | text-reset d-block h-100 w-100\" data-tb-link=\"\" href=\"/video/2026/09/20/hvac-companies-slammed-heat-hangs/\" rel=\"\" target=\"_self\"><img alt=\"Average temperatures in Nashville were in the low 80s in July, which is typical for the summer...\" class=\"img-fluid\" data-tb-thumbnail=\"\" fetchpriority=\"low\" height=\"450\" loading=\"lazy\" src=\"https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-20-2026%2Ft_d1da40ce873443a7956cbfd18ffac587_name_file_1280x720_2000_v3_1_.jpg?auth=fe75c5377a7573e7e0e7b104b78a9544ba00d9662b00943adba62f2c28038175&amp;width=800&amp;height=450&amp;smart=true\" width=\"800\"/></a></div></figure></div><div class=\"headlines | card-title mb-1\"><h4 class=\"headline | mb-0 fw-bold\"><a class=\"text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/hvac-companies-slammed-heat-hangs/\" rel=\"\" target=\"_self\"><span data-tb-title=\"\">HVAC companies slammed as heat hangs on</span></a></h4></div><div class=\"bylines | d-block small fw-normal\"><div class=\"date-time | d-inline-block small fw-normal\"><span class=\"date-time updated-date-time\" data-tb-date=\"\">Updated<!-- -->: <!-- -->40 minutes ago</span></div><span class=\"mx-2\">|</span></div><div class=\"deck | normal fw-normal fw-normal isText d-block\"><div class=\"w-100\" data-tb-description=\"\">Average temperatures in Nashville were in the low 80s in July, which is typical for the summer season. During that time, heat indexes climbed into the triple digits.</div></div></div></div><div class=\"feed-divider | w-100 d-none d-sm-block d-md-block d-lg-block d-xl-block\"></div><div class=\"flex-feature | card mx-2 mb-3 align-items-start border image-right position-relative w-100 is-video\" data-tb-region-item=\"\"><div class=\"card-body w-100 px-2 py-2 image_headline_byline_deck\"><div class=\"image-container position-relative mb-0 pt-0 w-33 float-end ms-2\"><a class=\"link | text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/two-custody-after-high-speed-chase-ends-crash/\" rel=\"\" target=\"_self\"><div class=\"overlay | position-absolute overflow-hidden flex-row align-items-start d-hover h-100 w-100\"><div class=\"label | overflow-auto h-100\" style=\"position:Top Left;background:linear-gradient(90deg,rgb(150,150,150) 0%,rgb(150,150,150) 5px,rgba(0,0,0,0.8) 5px,rgba(0,0,0,0.6) 80%,rgba(0,0,0,0) 100%);width:auto;color:white\"><div class=\"h-100 p-2 d-flex flex-column flex-row align-items-start\"><p class=\"overline | pe-2 small fw-bold text-uppercase fw-normal isText d-block mb-0\" data-tb-category=\"\">Shared Video</p></div></div></div></a><figure class=\"media-item | figure media-item-image mb-0 constrained image-ratio-16x9\"><div class=\"figure-wrapper img-wrapper figure-img mb-0\"><a class=\"link | text-reset d-block h-100 w-100\" data-tb-link=\"\" href=\"/video/2026/09/20/two-custody-after-high-speed-chase-ends-crash/\" rel=\"\" target=\"_self\"><img class=\"img-fluid\" data-tb-thumbnail=\"\" fetchpriority=\"low\" height=\"450\" loading=\"lazy\" src=\"https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_dc880aef9bbb4aa8a80b38759905b05b_name_file_1280x720_2000_v3_1_.jpg?auth=9e5e9fb6ab66bf91c28b31d61c39263b6ccc0f2fa674209952dd1ebf1482524f&amp;width=800&amp;height=450&amp;smart=true\" width=\"800\"/></a></div></figure></div><div class=\"headlines | card-title mb-1\"><h4 class=\"headline | mb-0 fw-bold\"><a class=\"text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/two-custody-after-high-speed-chase-ends-crash/\" rel=\"\" target=\"_self\"><span data-tb-title=\"\">Two in custody after high-speed chase ends in crash</span></a></h4></div><div class=\"bylines | d-block small fw-normal\"><div class=\"date-time | d-inline-block small fw-normal\"><span class=\"date-time updated-date-time\" data-tb-date=\"\">Updated<!-- -->: <!-- -->58 minutes ago</span></div></div></div></div><div class=\"feed-divider | w-100 d-none d-sm-block d-md-block d-lg-block d-xl-block\"></div><div class=\"flex-feature | card mx-2 mb-3 align-items-start border image-right position-relative w-100 is-video\" data-tb-region-item=\"\"><div class=\"card-body w-100 px-2 py-2 image_headline_byline_deck\"><div class=\"image-container position-relative mb-0 pt-0 w-33 float-end ms-2\"><a class=\"link | text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/community-volunteers-tackle-trash-along-pearl-river/\" rel=\"\" target=\"_self\"><div class=\"overlay | position-absolute overflow-hidden flex-row align-items-start d-hover h-100 w-100\"><div class=\"label | overflow-auto h-100\" style=\"position:Top Left;background:linear-gradient(90deg,rgb(150,150,150) 0%,rgb(150,150,150) 5px,rgba(0,0,0,0.8) 5px,rgba(0,0,0,0.6) 80%,rgba(0,0,0,0) 100%);width:auto;color:white\"><div class=\"h-100 p-2 d-flex flex-column flex-row align-items-start\"><p class=\"overline | pe-2 small fw-bold text-uppercase fw-normal isText d-block mb-0\" data-tb-category=\"\">Shared Video</p></div></div></div></a><figure class=\"media-item | figure media-item-image mb-0 constrained image-ratio-16x9\"><div class=\"figure-wrapper img-wrapper figure-img mb-0\"><a class=\"link | text-reset d-block h-100 w-100\" data-tb-link=\"\" href=\"/video/2026/09/20/community-volunteers-tackle-trash-along-pearl-river/\" rel=\"\" target=\"_self\"><img class=\"img-fluid\" data-tb-thumbnail=\"\" fetchpriority=\"low\" height=\"450\" loading=\"lazy\" src=\"https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_0c74d5e66b6f462ebcbcafebca242a5c_name_file_1280x720_2000_v3_1_.jpg?auth=045782edbbf2f525c74fcd23ecb58423662bbdcf8f9aa5c09978179c5a5c46d3&amp;width=800&amp;height=450&amp;smart=true\" width=\"800\"/></a></div></figure></div><div class=\"headlines | card-title mb-1\"><h4 class=\"headline | mb-0 fw-bold\"><a class=\"text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/community-volunteers-tackle-trash-along-pearl-river/\" rel=\"\" target=\"_self\"><span data-tb-title=\"\">Community volunteers tackle trash along Pearl River</span></a></h4></div><div class=\"bylines | d-block small fw-normal\"><div class=\"date-time | d-inline-block small fw-normal\"><span class=\"date-time updated-date-time\" data-tb-date=\"\">Updated<!-- -->: <!-- -->58 minutes ago</span></div></div></div></div><div class=\"feed-divider | w-100 d-none d-sm-block d-md-block d-lg-block d-xl-block\"></div></div></div><div data-fusion-component=\"taboola-widget-f0fukCQmn0v61KW\" id=\"fusion-static-enter:taboola-widget-f0fukCQmn0v61KW\" style=\"display:none\"></div><div class=\"taboola-feed | w-100 mb-3\"><div id=\"taboola-below-video-thumbnails\"></div></div><div data-fusion-component=\"taboola-widget-f0fukCQmn0v61KW\" id=\"fusion-static-exit:taboola-widget-f0fukCQmn0v61KW\" style=\"display:none\"></div></section></div><section class=\"right-rail | rail ms-lg-3 d-flex flex-column flex-lg-fill\"><div class=\"w-100\" style=\"height:600px\"></div></section></div><section class=\"bottom-wrapped | col-12\"></section></div></div></div></div><div data-fusion-component=\"taboola-body-reference\" id=\"fusion-static-enter:taboola-body-reference\" style=\"display:none\"></div><div data-fusion-component=\"taboola-body-reference\" id=\"fusion-static-exit:taboola-body-reference\" style=\"display:none\"></div></body>",
+      "word_count": 57,
+      "char_count": 361,
+      "lead_image": "https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_c202b4dafa1244b5b774010c38ce6ebd_name_file_1280x720_2000_v3_1_.jpg?auth=e6c6035c0b239e3ad6b3e2afb3f14f2b0c7c664362521f1678699cf03f73e77a&width=1200&height=600&smart=true",
+      "images": [
+        {
+          "url": "https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_c202b4dafa1244b5b774010c38ce6ebd_name_file_1280x720_2000_v3_1_.jpg?auth=e6c6035c0b239e3ad6b3e2afb3f14f2b0c7c664362521f1678699cf03f73e77a&width=1200&height=600&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_962ff08bc84a4f2e8318b6255b75508b_name_file_1280x720_2000_v3_1_.jpg?auth=f5b8f09dbff73bdbc3b393a52a1555edc031025fc693d4ef188f58b9a3f28e6b&width=800&height=450&smart=true",
+          "alt": "Top Stories: WKYT News at 6:00 PM (9/19/2026)",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-20-2026%2Ft_ed52e0c61aa84bde822e525b9ac643c6_name_file_1280x720_2000_v3_1_.jpg?auth=0aa04b47380cc3782c3661c91168389e3719bdbdda07c4065db37e3b6e6da61d&width=800&height=450&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-20-2026%2Ft_d1da40ce873443a7956cbfd18ffac587_name_file_1280x720_2000_v3_1_.jpg?auth=fe75c5377a7573e7e0e7b104b78a9544ba00d9662b00943adba62f2c28038175&width=800&height=450&smart=true",
+          "alt": "Average temperatures in Nashville were in the low 80s in July, which is typical for the summer...",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_dc880aef9bbb4aa8a80b38759905b05b_name_file_1280x720_2000_v3_1_.jpg?auth=9e5e9fb6ab66bf91c28b31d61c39263b6ccc0f2fa674209952dd1ebf1482524f&width=800&height=450&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_0c74d5e66b6f462ebcbcafebca242a5c_name_file_1280x720_2000_v3_1_.jpg?auth=045782edbbf2f525c74fcd23ecb58423662bbdcf8f9aa5c09978179c5a5c46d3&width=800&height=450&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 6,
+      "extractor": "bs4",
+      "status": "partial",
+      "error": "short_text",
+      "first_seen_at": "2026-09-20T03:09:06Z"
+    },
+    {
+      "id": "c3f189b83873d19a",
+      "title": "UK installs AI facial scanning technology at residence halls",
+      "header": "WAFF",
+      "published_at": "2026-09-19T23:15:00Z",
+      "published_raw": "Sat, 19 Sep 2026 23:15:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd3JCYmNJOC14clJzRlpLWXpnSlA2YnhWeWlNTFA2dzliSWhfRkdGU0MwTUZ2Z1libE9vcmRwOXVZQkpraGRXWjlsbWtzTzZKWFdWZlBsMkNLWlNrLW9SRmFYQ3VsS0w3c3RiWGFMQkJSNDY0UzU2Q0dRcFZDZnhWZmQ0dXVJaW9uWFFOY1hxbzBfMG03d25lNy01Slk?oc=5",
+      "description": "UK installs AI facial scanning technology at residence halls WAFF",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQd3JCYmNJOC14clJzRlpLWXpnSlA2YnhWeWlNTFA2dzliSWhfRkdGU0MwTUZ2Z1libE9vcmRwOXVZQkpraGRXWjlsbWtzTzZKWFdWZlBsMkNLWlNrLW9SRmFYQ3VsS0w3c3RiWGFMQkJSNDY0UzU2Q0dRcFZDZnhWZmQ0dXVJaW9uWFFOY1hxbzBfMG03d25lNy01Slk?oc=5\" target=\"_blank\">UK installs AI facial scanning technology at residence halls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAFF</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd3JCYmNJOC14clJzRlpLWXpnSlA2YnhWeWlNTFA2dzliSWhfRkdGU0MwTUZ2Z1libE9vcmRwOXVZQkpraGRXWjlsbWtzTzZKWFdWZlBsMkNLWlNrLW9SRmFYQ3VsS0w3c3RiWGFMQkJSNDY0UzU2Q0dRcFZDZnhWZmQ0dXVJaW9uWFFOY1hxbzBfMG03d25lNy01Slk?oc=5"
+      ],
+      "scraped_at": "2026-09-20T03:09:06Z",
+      "url": "https://www.waff.com/video/2026/09/20/uk-installs-ai-facial-scanning-technology-residence-halls/",
+      "final_url": "https://www.waff.com/video/2026/09/20/uk-installs-ai-facial-scanning-technology-residence-halls/",
+      "source": "https://www.waff.com",
+      "article_title": "UK installs AI facial scanning technology at residence halls",
+      "heading": "UK installs AI facial scanning technology at residence halls",
+      "authors": [],
+      "article_published_at": "2026-09-19T23:15:09Z",
+      "article_modified_at": "2026-09-20T03:00:00Z",
+      "summary": "UK installs AI facial scanning technology at residence halls",
+      "content": "Shared Video\n\nTop Stories: WKYT News at 6:00 PM (9/19/2026)\n\nShared Video\n\n‘I’ll just have to go further’: Patients brace for longer commutes as Geneva Cancer Center closes\n\nShared Video\n\nHVAC companies slammed as heat hangs on\n\nShared Video\n\nTwo in custody after high-speed chase ends in crash\n\nShared Video\n\nCommunity volunteers tackle trash along Pearl River",
+      "content_html": "<body><div class=\"fusion-app\" id=\"fusion-app\"><div class=\"includes-right-rail page-layout\" id=\"article-right-rail-layout\"><a class=\"skip-link visually-hidden visually-hidden-focusable px-3 text-body\" href=\"#main\">Skip to content</a><section class=\"leaderboard | w-100\"><div class=\"arc-ad | d-flex flex-column ad-type-flex-leaderboard ad-flex-leaderboard include-disclaimer justify-content-center text-center\"><div class=\"arc-ad-wrapper |\"><div class=\"waff/web/news arcad py-2 mt-3 mb-3\" id=\"ad-sfwHMC_4CWAht1FzmUB-F6dGsQIwaEMfyVihxcmQuX7gxXtE88\"></div></div></div></section><div class=\"container-xl\"><div class=\"row\"><section class=\"top-wrapped | col-12\"><div class=\"row mb-3\"><div class=\"headlines |\"><h1 class=\"headline | fw-bold col\"><span>UK installs AI facial scanning technology at residence halls</span></h1></div><div class=\"date-time | col-12\"><span class=\"date-time published-date-time fst-italic d-inline-block\">Published<!-- -->: <!-- -->Sep. 19, 2026 at 6:15 PM CDT</span><span class=\"px-2 d-inline\">|</span><span class=\"date-time updated-date-time fst-italic d-inline-block\">Updated<!-- -->: <!-- -->9 minutes ago</span></div><div class=\"action-bar row align-items-stretch text-center mb-3 pt-1\"><div class=\"action col col-md-auto d-flex justify-content-start align-items-center justify-content-center\"><div class=\"d-flex position-relative\"></div></div><div class=\"action col col-md-auto d-flex justify-content-start align-items-center justify-content-center\"><a class=\"google-source-button text-body btn btn-link p-0 text-decoration-none\" href=\"https://google.com/preferences/source?q=https://www.waff.com\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"d-flex align-items-center\"><div class=\"google-icon flex-shrink-0\"></div><div class=\"c2a ms-2 text-md-start\"><span class=\"d-md-none\">Add Us On Google</span><span class=\"d-none d-md-block\">Add as a preferred source on Google</span></div></div></a></div></div></div></section><div class=\"col-12 d-flex flex-column flex-lg-row w-100\"><div class=\"article-content-container | flex-lg-fill me-lg-3\"><article class=\"w-100\"><section class=\"body | w-100\"></section></article><section class=\"recommendations | w-100\"><div class=\"flex-feature-feed | mb-0\" data-tb-region=\"flex-feature-feed-0fvy6ew1nri\"><div class=\"card-deck mx-n2 mb-0\"><div class=\"flex-feature | card mx-2 mb-3 align-items-start border image-right position-relative w-100 is-video\" data-tb-region-item=\"\"><div class=\"card-body w-100 px-2 py-2 image_headline_byline_deck\"><div class=\"image-container position-relative mb-0 pt-0 w-33 float-end ms-2\"><a class=\"link | text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/top-stories-wkyt-news-600-pm-9192026/\" rel=\"\" target=\"_self\"><div class=\"overlay | position-absolute overflow-hidden flex-row align-items-start d-hover h-100 w-100\"><div class=\"label | overflow-auto h-100\" style=\"position:Top Left;background:linear-gradient(90deg,rgb(150,150,150) 0%,rgb(150,150,150) 5px,rgba(0,0,0,0.8) 5px,rgba(0,0,0,0.6) 80%,rgba(0,0,0,0) 100%);width:auto;color:white\"><div class=\"h-100 p-2 d-flex flex-column flex-row align-items-start\"><p class=\"overline | pe-2 small fw-bold text-uppercase fw-normal isText d-block mb-0\" data-tb-category=\"\">Shared Video</p></div></div></div></a><figure class=\"media-item | figure media-item-image mb-0 constrained image-ratio-16x9\"><div class=\"figure-wrapper img-wrapper figure-img mb-0\"><a class=\"link | text-reset d-block h-100 w-100\" data-tb-link=\"\" href=\"/video/2026/09/20/top-stories-wkyt-news-600-pm-9192026/\" rel=\"\" target=\"_self\"><img alt=\"Top Stories: WKYT News at 6:00 PM (9/19/2026)\" class=\"img-fluid\" data-tb-thumbnail=\"\" fetchpriority=\"low\" height=\"450\" loading=\"lazy\" src=\"https://gray-waff-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_962ff08bc84a4f2e8318b6255b75508b_name_file_1280x720_2000_v3_1_.jpg?auth=f5b8f09dbff73bdbc3b393a52a1555edc031025fc693d4ef188f58b9a3f28e6b&amp;width=800&amp;height=450&amp;smart=true\" width=\"800\"/></a></div></figure></div><div class=\"headlines | card-title mb-1\"><h4 class=\"headline | mb-0 fw-bold\"><a class=\"text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/top-stories-wkyt-news-600-pm-9192026/\" rel=\"\" target=\"_self\"><span data-tb-title=\"\">Top Stories: WKYT News at 6:00 PM (9/19/2026)</span></a></h4></div><div class=\"bylines | d-block small fw-normal\"><div class=\"date-time | d-inline-block small fw-normal\"><span class=\"date-time updated-date-time\" data-tb-date=\"\">Updated<!-- -->: <!-- -->9 minutes ago</span></div></div><div class=\"deck | normal fw-normal fw-normal isText d-block\"><div class=\"w-100\" data-tb-description=\"\">Top Stories: WKYT News at 6:00 PM (9/19/2026)</div></div></div></div><div class=\"feed-divider | w-100 d-none d-sm-block d-md-block d-lg-block d-xl-block\"></div><div class=\"flex-feature | card mx-2 mb-3 align-items-start border image-right position-relative w-100 is-video\" data-tb-region-item=\"\"><div class=\"card-body w-100 px-2 py-2 image_headline_byline_deck\"><div class=\"image-container position-relative mb-0 pt-0 w-33 float-end ms-2\"><a class=\"link | text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/ill-just-have-go-further-patients-brace-longer-commutes-geneva-cancer-center-closes/\" rel=\"\" target=\"_self\"><div class=\"overlay | position-absolute overflow-hidden flex-row align-items-start d-hover h-100 w-100\"><div class=\"label | overflow-auto h-100\" style=\"position:Top Left;background:linear-gradient(90deg,rgb(150,150,150) 0%,rgb(150,150,150) 5px,rgba(0,0,0,0.8) 5px,rgba(0,0,0,0.6) 80%,rgba(0,0,0,0) 100%);width:auto;color:white\"><div class=\"h-100 p-2 d-flex flex-column flex-row align-items-start\"><p class=\"overline | pe-2 small fw-bold text-uppercase fw-normal isText d-block mb-0\" data-tb-category=\"\">Shared Video</p></div></div></div></a><figure class=\"media-item | figure media-item-image mb-0 constrained image-ratio-16x9\"><div class=\"figure-wrapper img-wrapper figure-img mb-0\"><a class=\"link | text-reset d-block h-100 w-100\" data-tb-link=\"\" href=\"/video/2026/09/20/ill-just-have-go-further-patients-brace-longer-commutes-geneva-cancer-center-closes/\" rel=\"\" target=\"_self\"><img class=\"img-fluid\" data-tb-thumbnail=\"\" fetchpriority=\"low\" height=\"450\" loading=\"lazy\" src=\"https://gray-waff-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-20-2026%2Ft_ed52e0c61aa84bde822e525b9ac643c6_name_file_1280x720_2000_v3_1_.jpg?auth=0aa04b47380cc3782c3661c91168389e3719bdbdda07c4065db37e3b6e6da61d&amp;width=800&amp;height=450&amp;smart=true\" width=\"800\"/></a></div></figure></div><div class=\"headlines | card-title mb-1\"><h4 class=\"headline | mb-0 fw-bold\"><a class=\"text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/ill-just-have-go-further-patients-brace-longer-commutes-geneva-cancer-center-closes/\" rel=\"\" target=\"_self\"><span data-tb-title=\"\">‘I’ll just have to go further’: Patients brace for longer commutes as Geneva Cancer Center closes</span></a></h4></div><div class=\"bylines | d-block small fw-normal\"><div class=\"date-time | d-inline-block small fw-normal\"><span class=\"date-time updated-date-time\" data-tb-date=\"\">Updated<!-- -->: <!-- -->38 minutes ago</span></div></div></div></div><div class=\"feed-divider | w-100 d-none d-sm-block d-md-block d-lg-block d-xl-block\"></div><div class=\"flex-feature | card mx-2 mb-3 align-items-start border image-right position-relative w-100 is-video\" data-tb-region-item=\"\"><div class=\"card-body w-100 px-2 py-2 image_headline_byline_deck\"><div class=\"image-container position-relative mb-0 pt-0 w-33 float-end ms-2\"><a class=\"link | text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/hvac-companies-slammed-heat-hangs/\" rel=\"\" target=\"_self\"><div class=\"overlay | position-absolute overflow-hidden flex-row align-items-start d-hover h-100 w-100\"><div class=\"label | overflow-auto h-100\" style=\"position:Top Left;background:linear-gradient(90deg,rgb(150,150,150) 0%,rgb(150,150,150) 5px,rgba(0,0,0,0.8) 5px,rgba(0,0,0,0.6) 80%,rgba(0,0,0,0) 100%);width:auto;color:white\"><div class=\"h-100 p-2 d-flex flex-column flex-row align-items-start\"><p class=\"overline | pe-2 small fw-bold text-uppercase fw-normal isText d-block mb-0\" data-tb-category=\"\">Shared Video</p></div></div></div></a><figure class=\"media-item | figure media-item-image mb-0 constrained image-ratio-16x9\"><div class=\"figure-wrapper img-wrapper figure-img mb-0\"><a class=\"link | text-reset d-block h-100 w-100\" data-tb-link=\"\" href=\"/video/2026/09/20/hvac-companies-slammed-heat-hangs/\" rel=\"\" target=\"_self\"><img alt=\"Average temperatures in Nashville were in the low 80s in July, which is typical for the summer...\" class=\"img-fluid\" data-tb-thumbnail=\"\" fetchpriority=\"low\" height=\"450\" loading=\"lazy\" src=\"https://gray-waff-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-20-2026%2Ft_d1da40ce873443a7956cbfd18ffac587_name_file_1280x720_2000_v3_1_.jpg?auth=fe75c5377a7573e7e0e7b104b78a9544ba00d9662b00943adba62f2c28038175&amp;width=800&amp;height=450&amp;smart=true\" width=\"800\"/></a></div></figure></div><div class=\"headlines | card-title mb-1\"><h4 class=\"headline | mb-0 fw-bold\"><a class=\"text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/hvac-companies-slammed-heat-hangs/\" rel=\"\" target=\"_self\"><span data-tb-title=\"\">HVAC companies slammed as heat hangs on</span></a></h4></div><div class=\"bylines | d-block small fw-normal\"><div class=\"date-time | d-inline-block small fw-normal\"><span class=\"date-time updated-date-time\" data-tb-date=\"\">Updated<!-- -->: <!-- -->51 minutes ago</span></div><span class=\"mx-2\">|</span></div><div class=\"deck | normal fw-normal fw-normal isText d-block\"><div class=\"w-100\" data-tb-description=\"\">Average temperatures in Nashville were in the low 80s in July, which is typical for the summer season. During that time, heat indexes climbed into the triple digits.</div></div></div></div><div class=\"feed-divider | w-100 d-none d-sm-block d-md-block d-lg-block d-xl-block\"></div><div class=\"flex-feature | card mx-2 mb-3 align-items-start border image-right position-relative w-100 is-video\" data-tb-region-item=\"\"><div class=\"card-body w-100 px-2 py-2 image_headline_byline_deck\"><div class=\"image-container position-relative mb-0 pt-0 w-33 float-end ms-2\"><a class=\"link | text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/two-custody-after-high-speed-chase-ends-crash/\" rel=\"\" target=\"_self\"><div class=\"overlay | position-absolute overflow-hidden flex-row align-items-start d-hover h-100 w-100\"><div class=\"label | overflow-auto h-100\" style=\"position:Top Left;background:linear-gradient(90deg,rgb(150,150,150) 0%,rgb(150,150,150) 5px,rgba(0,0,0,0.8) 5px,rgba(0,0,0,0.6) 80%,rgba(0,0,0,0) 100%);width:auto;color:white\"><div class=\"h-100 p-2 d-flex flex-column flex-row align-items-start\"><p class=\"overline | pe-2 small fw-bold text-uppercase fw-normal isText d-block mb-0\" data-tb-category=\"\">Shared Video</p></div></div></div></a><figure class=\"media-item | figure media-item-image mb-0 constrained image-ratio-16x9\"><div class=\"figure-wrapper img-wrapper figure-img mb-0\"><a class=\"link | text-reset d-block h-100 w-100\" data-tb-link=\"\" href=\"/video/2026/09/20/two-custody-after-high-speed-chase-ends-crash/\" rel=\"\" target=\"_self\"><img class=\"img-fluid\" data-tb-thumbnail=\"\" fetchpriority=\"low\" height=\"450\" loading=\"lazy\" src=\"https://gray-waff-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_dc880aef9bbb4aa8a80b38759905b05b_name_file_1280x720_2000_v3_1_.jpg?auth=9e5e9fb6ab66bf91c28b31d61c39263b6ccc0f2fa674209952dd1ebf1482524f&amp;width=800&amp;height=450&amp;smart=true\" width=\"800\"/></a></div></figure></div><div class=\"headlines | card-title mb-1\"><h4 class=\"headline | mb-0 fw-bold\"><a class=\"text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/two-custody-after-high-speed-chase-ends-crash/\" rel=\"\" target=\"_self\"><span data-tb-title=\"\">Two in custody after high-speed chase ends in crash</span></a></h4></div><div class=\"bylines | d-block small fw-normal\"><div class=\"date-time | d-inline-block small fw-normal\"><span class=\"date-time updated-date-time\" data-tb-date=\"\">Updated<!-- -->: <!-- -->1 hour ago</span></div></div></div></div><div class=\"feed-divider | w-100 d-none d-sm-block d-md-block d-lg-block d-xl-block\"></div><div class=\"flex-feature | card mx-2 mb-3 align-items-start border image-right position-relative w-100 is-video\" data-tb-region-item=\"\"><div class=\"card-body w-100 px-2 py-2 image_headline_byline_deck\"><div class=\"image-container position-relative mb-0 pt-0 w-33 float-end ms-2\"><a class=\"link | text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/community-volunteers-tackle-trash-along-pearl-river/\" rel=\"\" target=\"_self\"><div class=\"overlay | position-absolute overflow-hidden flex-row align-items-start d-hover h-100 w-100\"><div class=\"label | overflow-auto h-100\" style=\"position:Top Left;background:linear-gradient(90deg,rgb(150,150,150) 0%,rgb(150,150,150) 5px,rgba(0,0,0,0.8) 5px,rgba(0,0,0,0.6) 80%,rgba(0,0,0,0) 100%);width:auto;color:white\"><div class=\"h-100 p-2 d-flex flex-column flex-row align-items-start\"><p class=\"overline | pe-2 small fw-bold text-uppercase fw-normal isText d-block mb-0\" data-tb-category=\"\">Shared Video</p></div></div></div></a><figure class=\"media-item | figure media-item-image mb-0 constrained image-ratio-16x9\"><div class=\"figure-wrapper img-wrapper figure-img mb-0\"><a class=\"link | text-reset d-block h-100 w-100\" data-tb-link=\"\" href=\"/video/2026/09/20/community-volunteers-tackle-trash-along-pearl-river/\" rel=\"\" target=\"_self\"><img class=\"img-fluid\" data-tb-thumbnail=\"\" fetchpriority=\"low\" height=\"450\" loading=\"lazy\" src=\"https://gray-waff-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_0c74d5e66b6f462ebcbcafebca242a5c_name_file_1280x720_2000_v3_1_.jpg?auth=045782edbbf2f525c74fcd23ecb58423662bbdcf8f9aa5c09978179c5a5c46d3&amp;width=800&amp;height=450&amp;smart=true\" width=\"800\"/></a></div></figure></div><div class=\"headlines | card-title mb-1\"><h4 class=\"headline | mb-0 fw-bold\"><a class=\"text-reset\" data-tb-link=\"\" href=\"/video/2026/09/20/community-volunteers-tackle-trash-along-pearl-river/\" rel=\"\" target=\"_self\"><span data-tb-title=\"\">Community volunteers tackle trash along Pearl River</span></a></h4></div><div class=\"bylines | d-block small fw-normal\"><div class=\"date-time | d-inline-block small fw-normal\"><span class=\"date-time updated-date-time\" data-tb-date=\"\">Updated<!-- -->: <!-- -->1 hour ago</span></div></div></div></div><div class=\"feed-divider | w-100 d-none d-sm-block d-md-block d-lg-block d-xl-block\"></div></div></div><div data-fusion-component=\"taboola-widget-f0fukCQmn0v61KW\" id=\"fusion-static-enter:taboola-widget-f0fukCQmn0v61KW\" style=\"display:none\"></div><div class=\"taboola-feed | w-100 mb-3\"><div id=\"taboola-below-video-thumbnails\"></div></div><div data-fusion-component=\"taboola-widget-f0fukCQmn0v61KW\" id=\"fusion-static-exit:taboola-widget-f0fukCQmn0v61KW\" style=\"display:none\"></div></section></div><section class=\"right-rail | rail ms-lg-3 d-flex flex-column flex-lg-fill\"><div class=\"w-100\" style=\"height:600px\"></div></section></div><section class=\"bottom-wrapped | col-12\"></section></div></div></div></div><div data-fusion-component=\"taboola-body-reference\" id=\"fusion-static-enter:taboola-body-reference\" style=\"display:none\"></div><div data-fusion-component=\"taboola-body-reference\" id=\"fusion-static-exit:taboola-body-reference\" style=\"display:none\"></div></body>",
+      "word_count": 57,
+      "char_count": 361,
+      "lead_image": "https://gray-waff-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_c202b4dafa1244b5b774010c38ce6ebd_name_file_1280x720_2000_v3_1_.jpg?auth=e6c6035c0b239e3ad6b3e2afb3f14f2b0c7c664362521f1678699cf03f73e77a&width=1200&height=600&smart=true",
+      "images": [
+        {
+          "url": "https://gray-waff-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_c202b4dafa1244b5b774010c38ce6ebd_name_file_1280x720_2000_v3_1_.jpg?auth=e6c6035c0b239e3ad6b3e2afb3f14f2b0c7c664362521f1678699cf03f73e77a&width=1200&height=600&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://gray-waff-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_962ff08bc84a4f2e8318b6255b75508b_name_file_1280x720_2000_v3_1_.jpg?auth=f5b8f09dbff73bdbc3b393a52a1555edc031025fc693d4ef188f58b9a3f28e6b&width=800&height=450&smart=true",
+          "alt": "Top Stories: WKYT News at 6:00 PM (9/19/2026)",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-waff-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-20-2026%2Ft_ed52e0c61aa84bde822e525b9ac643c6_name_file_1280x720_2000_v3_1_.jpg?auth=0aa04b47380cc3782c3661c91168389e3719bdbdda07c4065db37e3b6e6da61d&width=800&height=450&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-waff-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-20-2026%2Ft_d1da40ce873443a7956cbfd18ffac587_name_file_1280x720_2000_v3_1_.jpg?auth=fe75c5377a7573e7e0e7b104b78a9544ba00d9662b00943adba62f2c28038175&width=800&height=450&smart=true",
+          "alt": "Average temperatures in Nashville were in the low 80s in July, which is typical for the summer...",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-waff-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_dc880aef9bbb4aa8a80b38759905b05b_name_file_1280x720_2000_v3_1_.jpg?auth=9e5e9fb6ab66bf91c28b31d61c39263b6ccc0f2fa674209952dd1ebf1482524f&width=800&height=450&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://gray-waff-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-19-2026%2Ft_0c74d5e66b6f462ebcbcafebca242a5c_name_file_1280x720_2000_v3_1_.jpg?auth=045782edbbf2f525c74fcd23ecb58423662bbdcf8f9aa5c09978179c5a5c46d3&width=800&height=450&smart=true",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 6,
+      "extractor": "bs4",
+      "status": "partial",
+      "error": "short_text",
+      "first_seen_at": "2026-09-20T03:09:06Z"
+    },
+    {
       "id": "39d76f04222b0a91",
       "title": "Ann Arbor after-school program teaches kids cutting-edge technology",
       "header": "CBS News",
@@ -390,6 +644,54 @@
       "first_seen_at": "2026-09-19T23:51:37Z"
     },
     {
+      "id": "1caa424d6589dd8b",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "header": "BBC",
+      "published_at": "2026-09-19T21:01:56Z",
+      "published_raw": "Sat, 19 Sep 2026 21:01:56 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EY3VnMXl3UWxCSEdXd19kVUx1UDAzdS0xY2RrdFh6NWRINDRXb29xNjdPLW5CMDRQbE9TdHMtMXY4MC1yb01kcHpwSlNLQVI0TndKaVM1Q2xFWmM?oc=5",
+      "description": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar BBC",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EY3VnMXl3UWxCSEdXd19kVUx1UDAzdS0xY2RrdFh6NWRINDRXb29xNjdPLW5CMDRQbE9TdHMtMXY4MC1yb01kcHpwSlNLQVI0TndKaVM1Q2xFWmM?oc=5\" target=\"_blank\">Trump says US will form 'AI Force' and appoint an artificial intelligence tsar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EY3VnMXl3UWxCSEdXd19kVUx1UDAzdS0xY2RrdFh6NWRINDRXb29xNjdPLW5CMDRQbE9TdHMtMXY4MC1yb01kcHpwSlNLQVI0TndKaVM1Q2xFWmM?oc=5"
+      ],
+      "scraped_at": "2026-09-20T03:09:04Z",
+      "url": "https://www.bbc.com/news/articles/cqlykr2vrv04o",
+      "final_url": "https://www.bbc.com/news/articles/cqlykr2vrv04o",
+      "source": "bbc.com",
+      "article_title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "heading": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "authors": [
+        "Nardine Saad"
+      ],
+      "article_published_at": "2026-09-19T21:01:56.347Z",
+      "article_modified_at": "2026-09-19T21:01:56.347Z",
+      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "content": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar\nUS President Donald Trump has announced that he will form an \"AI Force\" and appoint an artificial intelligence tsar amid warnings about the emergent technology.\nIn a social media post on Saturday, he said his administration \"will not in any way hinder or stifle the growth\" of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place.\nHis post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology's development.\nTrump offered no details or a timeline for his plan.\n\"AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country's GDP,\" he said on social media, adding that he wants the US to continue leading China in AI.\nAI now sits at the heart of the US-China rivalry as the world's two largest economies seek to gain an edge in advanced tech, and it is expected to be discussed when Trump meets President Xi Jinping next week.\nMeanwhile, Trump said his administration would use the existing criminal and civil justice system to target any bad actors using the AI.\nHe also repeated comments that criticism and concerns around the potential dangers of AI are a \"hoax\".\nClaims by current and former researchers that the tech will endanger humanity - with one suggesting there is a greater than 10% chance of it \"killing all humans\" - have raised alarm bells in recent weeks.\nMajor AI companies have been racing to develop better systems, including creating what they call super intelligence - theoretical tech which is smarter than humans.\nAI titans Anthropic, OpenAI and Google - the tech companies behind Claude, ChatGPT and Gemini, respectively - have also disclosed instances of security breaches or incidents in which their chatbots were used for \"malicious activity\".\nAnthropic head Dario Amodei recently called for AI development to slow down and proposed industry-wide deceleration and regulation, as well as independent monitoring of AI model development.\nSam Altman of OpenAI and Elon Musk of xAI have both said they agree with his recommendations.\nJack Clark, co-founder of Anthropic, told BBC that a \"kill switch\" that can be checked by a third party may need to be mandatory for the industry.\nThe warnings have prompted US lawmakers to propose legislation around the technology but Altman suggested this week that Washington has struggled to keep pace with the new tech and how to regulate it. He said people should have more faith in AI firms to keep it safe.\n\"The world should trust that we are going to do the right thing because it's the right thing and we feel the magnitude of this,\" Altman told a conference in San Francisco.\nIn the UK, MPs across parties and peers have identified human rights risks posed by artificial intelligence and have argued that existing laws are ill-equipped to address the technology's rapid growth.\nThe Joint Committee on Human Rights (JCHR) has published a report calling for a new bill on AI to \"address the scale and seriousness\" of such threats.",
+      "content_html": "<html>\n  <body><h1>Trump says US will form 'AI Force' and appoint an artificial intelligence tsar</h1><img src=\"https://ichef.bbci.co.uk/news/480/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg.webp\" alt=\"AFP via Getty Images US President Donald Trump delivers remarks at the &quot;Winning the AI Race&quot; AI Summit at the Andrew W. Mellon Auditorium in Washington, DC, on July 23, 2025. \"/>AFP via Getty Images<p>US President Donald Trump has announced that he will form an \"AI Force\" and appoint an artificial intelligence tsar amid warnings about the emergent technology.</p><p>In a social media post on Saturday, he said his administration \"will not in any way hinder or stifle the growth\" of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place.</p><p>His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology's development.</p><p>Trump offered no details or a timeline for his plan.</p><p>\"AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country's GDP,\" he said on social media, adding that he wants the US to continue leading China in AI.</p><p>AI now sits at the heart of the US-China rivalry as the world's two largest economies seek to gain an edge in advanced tech, and it is expected to be discussed when Trump meets President Xi Jinping next week.</p><p>Meanwhile, Trump said his administration would use the existing criminal and civil justice system to target any bad actors using the AI.</p><p>He also repeated comments that criticism and concerns around the potential dangers of AI are a \"hoax\".</p><p>Claims by current and former researchers that the tech will endanger humanity - with one suggesting there is a greater than 10% chance of it \"killing all humans\" - have raised alarm bells in recent weeks.</p><p>Major AI companies have been racing to develop better systems, including creating what they call super intelligence - theoretical tech which is smarter than humans.</p><p>AI titans Anthropic, OpenAI and Google - the tech companies behind Claude, ChatGPT and Gemini, respectively - have also disclosed instances of security breaches or incidents in which their chatbots were used for \"malicious activity\".</p><p>Anthropic head Dario Amodei recently called for AI development to slow down and proposed industry-wide deceleration and regulation, as well as independent monitoring of AI model development.</p><p>Sam Altman of OpenAI and Elon Musk of xAI have both said they agree with his recommendations.</p><p>Jack Clark, co-founder of Anthropic, told BBC that a \"kill switch\" that can be checked by a third party may need to be mandatory for the industry.</p><p>The warnings have prompted US lawmakers to propose legislation around the technology but Altman suggested this week that Washington has struggled to keep pace with the new tech and how to regulate it. He said people should have more faith in AI firms to keep it safe.</p><p>\"The world should trust that we are going to do the right thing because it's the right thing and we feel the magnitude of this,\" Altman told a conference in San Francisco.</p><p>In the UK, MPs across parties and peers have identified human rights risks posed by artificial intelligence and have argued that existing laws are ill-equipped to address the technology's rapid growth.</p><p>The Joint Committee on Human Rights (JCHR) has published a report calling for a new bill on AI to \"address the scale and seriousness\" of such threats.</p></body>\n</html>",
+      "word_count": 539,
+      "char_count": 3181,
+      "lead_image": "https://ichef.bbci.co.uk/news/1024/branded_news/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg.webp",
+          "alt": "AFP via Getty Images US President Donald Trump delivers remarks at the \"Winning the AI Race\" AI Summit at the Andrew W. Mellon Auditorium in Washington, DC, on July 23, 2025.",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-20T03:09:04Z"
+    },
+    {
       "id": "e71e6cb95d37c07e",
       "title": "Tech industry scratches its head over Trump 'AI Force' proposal",
       "header": "Politico",
@@ -401,7 +703,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGNzdFlzMzc1dUViY1JfQnFkd3F3LWVaREtBNVdjajNVQmR1bENPNFhWaDE2cXctSHVldXhmMFZ1RjkyZmFjRnBZaENGUnRWNFVtd0JfSkRZeEF0RVZacFktZld4RmVNNm5taTBWMzdjTlREdm4yQ0lQWFU2YVF3NWNxTVFjOC1NRTdLMzdtNW5ReTZ5cnNj?oc=5"
       ],
-      "scraped_at": "2026-09-19T23:51:36Z",
+      "scraped_at": "2026-09-20T03:09:04Z",
       "url": "https://www.politico.com/news/2026/09/19/tech-industry-scratches-head-over-ai-force-01085319",
       "final_url": "https://www.politico.com/news/2026/09/19/tech-industry-scratches-head-over-ai-force-01085319",
       "source": "Politico",
@@ -1117,6 +1419,54 @@
       "status": "partial",
       "error": "short_text",
       "first_seen_at": "2026-09-19T18:22:31Z"
+    },
+    {
+      "id": "8d4eb3022025aa50",
+      "title": "The US Navy just told us what’s on its tech wish list for the next several years",
+      "header": "TechCrunch",
+      "published_at": "2026-09-19T17:00:00Z",
+      "published_raw": "Sat, 19 Sep 2026 17:00:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbWtlN09UQkI2b3JTeG50UFJ6TFdKZkRqZFlCdks0VDZ1UE5fM0VoWmhieVF5eW9uc2JTR0FJYlFTT3o1aHJjcTUxWERxSXhFNUZMd2JFUkEyd0VZLVB5NWswemJDX096aTNoMnkzQzk1eUVUTDRTUFZXX2NEOXpMV0Znd3V4Wk11UFNiRFdRYnBqRGUwdmVvQzZVdk94cnN4MU1oS2RjVHhySmNoc1ktZWhDekN0eTQ?oc=5",
+      "description": "The US Navy just told us what’s on its tech wish list for the next several years TechCrunch",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNbWtlN09UQkI2b3JTeG50UFJ6TFdKZkRqZFlCdks0VDZ1UE5fM0VoWmhieVF5eW9uc2JTR0FJYlFTT3o1aHJjcTUxWERxSXhFNUZMd2JFUkEyd0VZLVB5NWswemJDX096aTNoMnkzQzk1eUVUTDRTUFZXX2NEOXpMV0Znd3V4Wk11UFNiRFdRYnBqRGUwdmVvQzZVdk94cnN4MU1oS2RjVHhySmNoc1ktZWhDekN0eTQ?oc=5\" target=\"_blank\">The US Navy just told us what’s on its tech wish list for the next several years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbWtlN09UQkI2b3JTeG50UFJ6TFdKZkRqZFlCdks0VDZ1UE5fM0VoWmhieVF5eW9uc2JTR0FJYlFTT3o1aHJjcTUxWERxSXhFNUZMd2JFUkEyd0VZLVB5NWswemJDX096aTNoMnkzQzk1eUVUTDRTUFZXX2NEOXpMV0Znd3V4Wk11UFNiRFdRYnBqRGUwdmVvQzZVdk94cnN4MU1oS2RjVHhySmNoc1ktZWhDekN0eTQ?oc=5"
+      ],
+      "scraped_at": "2026-09-20T03:09:04Z",
+      "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "final_url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "source": "TechCrunch",
+      "article_title": "The US Navy just told us what's on its tech wish list for the next several years | TechCrunch",
+      "heading": "The US Navy just told us what’s on its tech wish list for the next several years",
+      "authors": [
+        "Connie Loizos"
+      ],
+      "article_published_at": "2026-09-19T17:00:00+00:00",
+      "article_modified_at": "2026-09-19T19:42:28+00:00",
+      "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
+      "content": "Justin Fanelli, the Department of Navy’s chief technology officer, has spent the last three and a half years trying to make the U.S. Navy easier to do business with. When we first talked to him last year, he described a shift away from what he called “your granddaddy’s government” — a “spaghetti chart” of entry points for startups — into something closer to a funnel, where companies that show strong results get pulled into the Navy’s technology base as enterprise services.\nThis week, we caught up with him again on a video call, and this time, he wasn’t just looking again to further streamline the procurement process, he was sprinting, literally, to catch a flight he’d just been ordered onto with no destination shared.\n“You have an hour and 15 minutes to get on a plane,” Fanelli said, recounting what he’d just been told, speaking into his phone as he walked, the sun shining behind him. “I’m like, ‘Where?’ Oh my God! And they were like, ‘We’ll figure [the logistics], we’ll tell you as you get there.’ And I’m like, ‘For more than overnight?’ And they were like, ‘Yes.’” As he was walking to his car, he was still unsure what he’d packed for or where he was headed. “I will figure that out in the next 20 minutes,” he said, sounding excited about the adventure ahead.\nFanelli reached out because the “demand signal” he sent to investors last year had only grown, and it was making an impact, he said. When the Navy first published its longer-term technology priorities, investors told him it changed how they thought about the Navy’s buying plans, which is part of why he’s doing it again — sharing a fresh list of what the Navy wants to buy in the next several years, this time vetted by a handful of (unnamed) venture investors before release.\nHow much money the Navy actually puts to work each year depends on what counts as spending, Fanelli said. “We spend in the $150 billion range every year,” he said, though he was careful to separate that number — total Navy purchasing — from something narrower, like direct equity investment.\nIndeed, while most of that spending still flows through traditional channels, Fanelli said the Navy is trying to inch further toward what he calls co-investment — putting money behind companies alongside private capital rather than writing a check to an established prime contractor. Taking an equity stake, he said, is the most aggressive version of that and remains rare. More often, co-investment means the Navy waits for companies to mature a product on their own before buying it, rather than funding early research itself.\nThe stage of company the Navy buys from has shifted, too. “We mostly buy Series D through F type companies,” Fanelli said, adding that the Navy used to fund its own early-stage research to cover the seed-through-Series-B gap. It’s trying to hand that job to commercial investors instead, which is part of why the priorities document exists at all. “The cost of that, or the responsibility, is for us, if we’re not going to do it ourselves, to cast a cleaner signal,” he said.\nAs for recent purchases, Fanelli — a former Air Force cadet whose career has spanned roles across defense, intelligence, DARPA, and open source initiatives — rattled off a handful. A contract worth $562 million was awarded this month for the MQ-25 Stingray, an autonomous refueling drone that extends the range of manned fighter jets flying off carriers.\nThe Navy has also been buying edge compute hardware from Armada, described loosely as shipping containers packed with servers meant for ship or remote deployment. It brought in Gecko Robotics to handle inspection work that used to be done manually and dangerously; Fanelli said the move drew little pushback because almost nobody wanted that job in the first place. Domino Data Lab is now running the Navy’s machine learning pipeline.\nAnd in a case Fanelli seemed to particularly enjoy sharing, the Navy swapped a defense contractor’s years-delayed shipboard camera system for commercial cameras paired with software from Applied Intuition, cutting roughly four years off the timeline and expanding to more ships than expected.\nGiven the Strait of Hormuz has been a flashpoint this year — tanker strikes, a seized vessel, ceasefires that have broken down over shipping-route disputes — it seemed worth asking whether any of that commercial technology is showing up there now. Fanelli was cautious. “I often don’t know what’s classified and unclassified because I’m normally talking to people with clearances,” he said, adding that he’d have to check. (We’ll let you know if he gets back to us.)\nInterestingly, not many people sign off on a purchase like that, according to Fanelli. Buying decisions run through what he called a source selection committee, a small group rather than the sprawling review process outsiders might picture. He described the goal as keeping the process merit-based rather than adding layers of approval.\nHe didn’t get into why technologies typically fail once they’re inside the Navy — he’d arrived at his car and needed to figure out next steps for travel. But when we talked last year, Fanelli explained that the most common reason promising technologies fail isn’t technical, but rather budgetary. The Navy runs on long planning cycles, and a new tool only sticks around if it replaces or “turns off” something the Navy is already paying for.\nEither way, before we parted ways, Fanelli shared an updated internal list of the technology areas the Navy is prioritizing, jointly issued by his office and the Portfolio Acquisition Executive for Mission Systems. It breaks down into five broad categories, for those of you either developing or funding defense tech.\nThe first is applied AI, covering machine learning and increasingly agentic software meant to turn raw data into decisions — sensor fusion, targeting support, autonomous behavior, and cyber operations built on software rather than hardware.\nQuantum information science comes second, focused less on owning quantum hardware and more on applying quantum or quantum-adjacent techniques to navigation, secure communication, and cryptography.\nAdvanced networking is third, aimed at moving data securely across environments where connections are degraded or intermittent, whether that’s a ship at sea or a coalition partner’s network.\nFourth is electromagnetic spectrum operations, technology that senses and manages the spectrum itself, built to adapt in contested conditions rather than rely on fixed configurations.\nThe fifth category, digital engineering and interoperability, covers the plumbing: open APIs, model-based systems engineering, and zero-trust architecture meant to let different Navy systems talk to each other without custom integration work every time.\nNone is a funding commitment, the memo notes, and none of it ranks individual programs. It also adds as a reminder that its priorities “will change based on emergent, near-term, and long-term needs.” In short, don’t take it as gospel. Instead, it’s meant to be read the way Fanelli talked about last year’s list — as a roadmap that companies and investors can plan around, so that decisions made now about where to put money have somewhere to go inside the Navy in a couple of years.",
+      "content_html": "<html>\n  <body>\n    <p>Justin Fanelli, the Department of Navy’s chief technology officer, has spent the last three and a half years trying to make the U.S. Navy easier to do business with. When we first talked to him last year, he described a shift away from what he called “your granddaddy’s government” — a “spaghetti chart” of entry points for startups — into something closer to a funnel, where companies that show strong results get pulled into the Navy’s technology base as enterprise services.</p>\n    <p>This week, we caught up with him again on a video call, and this time, he wasn’t just looking again to further streamline the procurement process, he was sprinting, literally, to catch a flight he’d just been ordered onto with no destination shared.</p>\n    <p>“You have an hour and 15 minutes to get on a plane,” Fanelli said, recounting what he’d just been told, speaking into his phone as he walked, the sun shining behind him. “I’m like, ‘Where?’ Oh my God! And they were like, ‘We’ll figure [the logistics], we’ll tell you as you get there.’ And I’m like, ‘For more than overnight?’ And they were like, ‘Yes.’” As he was walking to his car, he was still unsure what he’d packed for or where he was headed. “I will figure that out in the next 20 minutes,” he said, sounding excited about the adventure ahead.</p>\n    <p>Fanelli reached out because the “demand signal” he sent to investors last year had only grown, and it was making an impact, he said. When the Navy first published its longer-term technology priorities, investors told him it changed how they thought about the Navy’s buying plans, which is part of why he’s doing it again — sharing a fresh list of what the Navy wants to buy in the next several years, this time vetted by a handful of (unnamed) venture investors before release.</p>\n    <p>How much money the Navy actually puts to work each year depends on what counts as spending, Fanelli said. “We spend in the $150 billion range every year,” he said, though he was careful to separate that number — total Navy purchasing — from something narrower, like direct equity investment.</p>\n    <p>Indeed, while most of that spending still flows through traditional channels, Fanelli said the Navy is trying to inch further toward what he calls co-investment — putting money behind companies alongside private capital rather than writing a check to an established prime contractor. Taking an equity stake, he said, is the most aggressive version of that and remains rare. More often, co-investment means the Navy waits for companies to mature a product on their own before buying it, rather than funding early research itself.</p>\n    <p>The stage of company the Navy buys from has shifted, too. “We mostly buy Series D through F type companies,” Fanelli said, adding that the Navy used to fund its own early-stage research to cover the seed-through-Series-B gap. It’s trying to hand that job to commercial investors instead, which is part of why the priorities document exists at all. “The cost of that, or the responsibility, is for us, if we’re not going to do it ourselves, to cast a cleaner signal,” he said.</p>\n    <p>As for recent purchases, Fanelli — a former Air Force cadet whose career has spanned roles across defense, intelligence, DARPA, and open source initiatives — rattled off a handful. A contract worth $562 million was awarded this month for the MQ-25 Stingray, an autonomous refueling drone that extends the range of manned fighter jets flying off carriers.</p>\n    <p>The Navy has also been buying edge compute hardware from Armada, described loosely as shipping containers packed with servers meant for ship or remote deployment. It brought in Gecko Robotics to handle inspection work that used to be done manually and dangerously; Fanelli said the move drew little pushback because almost nobody wanted that job in the first place. Domino Data Lab is now running the Navy’s machine learning pipeline.</p>\n    <p>And in a case Fanelli seemed to particularly enjoy sharing, the Navy swapped a defense contractor’s years-delayed shipboard camera system for commercial cameras paired with software from Applied Intuition, cutting roughly four years off the timeline and expanding to more ships than expected.</p>\n    <p>Given the Strait of Hormuz has been a flashpoint this year — tanker strikes, a seized vessel, ceasefires that have broken down over shipping-route disputes — it seemed worth asking whether any of that commercial technology is showing up there now. Fanelli was cautious. “I often don’t know what’s classified and unclassified because I’m normally talking to people with clearances,” he said, adding that he’d have to check. (We’ll let you know if he gets back to us.)</p>\n    <p>Interestingly, not many people sign off on a purchase like that, according to Fanelli. Buying decisions run through what he called a source selection committee, a small group rather than the sprawling review process outsiders might picture. He described the goal as keeping the process merit-based rather than adding layers of approval.</p>\n    <p>He didn’t get into why technologies typically fail once they’re inside the Navy — he’d arrived at his car and needed to figure out next steps for travel. But when we talked last year, Fanelli explained that the most common reason promising technologies fail isn’t technical, but rather budgetary. The Navy runs on long planning cycles, and a new tool only sticks around if it replaces or “turns off” something the Navy is already paying for.</p>\n    <p>Either way, before we parted ways, Fanelli shared an updated internal list of the technology areas the Navy is prioritizing, jointly issued by his office and the Portfolio Acquisition Executive for Mission Systems. It breaks down into five broad categories, for those of you either developing or funding defense tech.</p>\n    <p>The first is applied AI, covering machine learning and increasingly agentic software meant to turn raw data into decisions — sensor fusion, targeting support, autonomous behavior, and cyber operations built on software rather than hardware.</p>\n    <p>Quantum information science comes second, focused less on owning quantum hardware and more on applying quantum or quantum-adjacent techniques to navigation, secure communication, and cryptography.</p>\n    <p>Advanced networking is third, aimed at moving data securely across environments where connections are degraded or intermittent, whether that’s a ship at sea or a coalition partner’s network.</p>\n    <p>Fourth is electromagnetic spectrum operations, technology that senses and manages the spectrum itself, built to adapt in contested conditions rather than rely on fixed configurations.</p>\n    <p>The fifth category, digital engineering and interoperability, covers the plumbing: open APIs, model-based systems engineering, and zero-trust architecture meant to let different Navy systems talk to each other without custom integration work every time.</p>\n    <p>None is a funding commitment, the memo notes, and none of it ranks individual programs. It also adds as a reminder that its priorities “will change based on emergent, near-term, and long-term needs.” In short, don’t take it as gospel. Instead, it’s meant to be read the way Fanelli talked about last year’s list — as a roadmap that companies and investors can plan around, so that decisions made now about where to put money have somewhere to go inside the Navy in a couple of years.</p>\n  </body>\n</html>",
+      "word_count": 1189,
+      "char_count": 7252,
+      "lead_image": "https://techcrunch.com/wp-content/uploads/2026/09/Navy-shopping-cart.png?resize=1200,800",
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2026/09/Navy-shopping-cart.png?resize=1200,800",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2025/01/Connie-Loizos-1.jpg?w=150",
+          "alt": "Connie Loizos",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-20T03:09:04Z"
     },
     {
       "id": "56dddb36359e5601",
@@ -2828,25 +3178,25 @@
     {
       "id": "cb5e71f3bf454077",
       "title": "Disney Names AI Executive as First-Ever Chief Technology Officer",
-      "header": "Bloomberg",
+      "header": "Bloomberg.com",
       "published_at": "2026-09-18T16:47:07Z",
       "published_raw": "Fri, 18 Sep 2026 16:47:07 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5",
-      "description": "Disney Names AI Executive as First-Ever Chief Technology Officer Bloomberg",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5\" target=\"_blank\">Disney Names AI Executive as First-Ever Chief Technology Officer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "description": "Disney Names AI Executive as First-Ever Chief Technology Officer Bloomberg.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5\" target=\"_blank\">Disney Names AI Executive as First-Ever Chief Technology Officer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5"
       ],
-      "scraped_at": "2026-09-19T23:51:36Z",
+      "scraped_at": "2026-09-20T03:09:04Z",
       "url": "https://www.bloomberg.com/news/articles/2026-09-18/disney-names-ai-executive-as-first-ever-chief-technology-officer",
       "final_url": "https://www.bloomberg.com/news/articles/2026-09-18/disney-names-ai-executive-as-first-ever-chief-technology-officer",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "article_title": "",
       "heading": "Disney Names AI Executive as First-Ever Chief Technology Officer",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
-      "summary": "Disney Names AI Executive as First-Ever Chief Technology Officer Bloomberg",
+      "summary": "Disney Names AI Executive as First-Ever Chief Technology Officer Bloomberg.com",
       "content": "",
       "content_html": "",
       "word_count": 0,
@@ -3143,7 +3493,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQXBfSlp3aEU3eGRJX0pYaVBtV19rdmxjamZiVFBQcERjbTVtWlU4bHNFd1BBMlBFVXcyeE9YS0pUUDBCTndaaDBBUTdLLTlnOFZrVjk0S3VoOV9jN0h5VlEyRHI1NkZobWtCektodnpQQ19BazFMc0ZsMHhnU2MweGxZNnBONExTTUtqSHctc083QjZjNEE?oc=5"
       ],
-      "scraped_at": "2026-09-19T23:51:36Z",
+      "scraped_at": "2026-09-20T03:09:04Z",
       "url": "https://www.nytimes.com/2026/09/18/business/media/disney-ai-technology-karandeep-anand.html",
       "final_url": "https://www.nytimes.com/2026/09/18/business/media/disney-ai-technology-karandeep-anand.html",
       "source": "The New York Times",
@@ -5475,40 +5825,6 @@
       "first_seen_at": "2026-09-17T21:53:05Z"
     },
     {
-      "id": "571fd67a5c199946",
-      "title": "The Next Gene-Editing Technology May Also Be the Oldest",
-      "header": "The New York Times",
-      "published_at": "2026-09-17T20:29:25Z",
-      "published_raw": "Thu, 17 Sep 2026 20:29:25 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSktwSHdKR0RzVUZCXy1LRU5yZTZ4S1dURnhUZkxiVzJmSVdhejBzVktDb0dUeXp3bVhkT2U0SHdiZlk3ZUx6YlFxWF9OZlhneEZsX3g5YVBIc29LeXBKcTBIN003YnB5dUk3aExqME9sSkNjUFVWYlp3dEU?oc=5",
-      "description": "The Next Gene-Editing Technology May Also Be the Oldest The New York Times",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSktwSHdKR0RzVUZCXy1LRU5yZTZ4S1dURnhUZkxiVzJmSVdhejBzVktDb0dUeXp3bVhkT2U0SHdiZlk3ZUx6YlFxWF9OZlhneEZsX3g5YVBIc29LeXBKcTBIN003YnB5dUk3aExqME9sSkNjUFVWYlp3dEU?oc=5\" target=\"_blank\">The Next Gene-Editing Technology May Also Be the Oldest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSktwSHdKR0RzVUZCXy1LRU5yZTZ4S1dURnhUZkxiVzJmSVdhejBzVktDb0dUeXp3bVhkT2U0SHdiZlk3ZUx6YlFxWF9OZlhneEZsX3g5YVBIc29LeXBKcTBIN003YnB5dUk3aExqME9sSkNjUFVWYlp3dEU?oc=5"
-      ],
-      "scraped_at": "2026-09-18T13:20:41Z",
-      "url": "https://www.nytimes.com/2026/09/17/science/crispr-gene-editing-vipr.html",
-      "final_url": "https://www.nytimes.com/2026/09/17/science/crispr-gene-editing-vipr.html",
-      "source": "The New York Times",
-      "article_title": "",
-      "heading": "The Next Gene-Editing Technology May Also Be the Oldest",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "The Next Gene-Editing Technology May Also Be the Oldest The New York Times",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-17T21:53:06Z"
-    },
-    {
       "id": "8a2fc8a1da39dc4f",
       "title": "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership in microelectronics",
       "header": "U.S. National Science Foundation (.gov)",
@@ -5684,6 +6000,40 @@
       "image_count": 1,
       "extractor": "trafilatura",
       "status": "ok",
+      "first_seen_at": "2026-09-17T21:53:06Z"
+    },
+    {
+      "id": "571fd67a5c199946",
+      "title": "The Next Gene-Editing Technology May Also Be the Oldest",
+      "header": "The New York Times",
+      "published_at": "2026-09-17T18:00:08Z",
+      "published_raw": "Thu, 17 Sep 2026 18:00:08 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSktwSHdKR0RzVUZCXy1LRU5yZTZ4S1dURnhUZkxiVzJmSVdhejBzVktDb0dUeXp3bVhkT2U0SHdiZlk3ZUx6YlFxWF9OZlhneEZsX3g5YVBIc29LeXBKcTBIN003YnB5dUk3aExqME9sSkNjUFVWYlp3dEU?oc=5",
+      "description": "The Next Gene-Editing Technology May Also Be the Oldest The New York Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSktwSHdKR0RzVUZCXy1LRU5yZTZ4S1dURnhUZkxiVzJmSVdhejBzVktDb0dUeXp3bVhkT2U0SHdiZlk3ZUx6YlFxWF9OZlhneEZsX3g5YVBIc29LeXBKcTBIN003YnB5dUk3aExqME9sSkNjUFVWYlp3dEU?oc=5\" target=\"_blank\">The Next Gene-Editing Technology May Also Be the Oldest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSktwSHdKR0RzVUZCXy1LRU5yZTZ4S1dURnhUZkxiVzJmSVdhejBzVktDb0dUeXp3bVhkT2U0SHdiZlk3ZUx6YlFxWF9OZlhneEZsX3g5YVBIc29LeXBKcTBIN003YnB5dUk3aExqME9sSkNjUFVWYlp3dEU?oc=5"
+      ],
+      "scraped_at": "2026-09-20T03:09:04Z",
+      "url": "https://www.nytimes.com/2026/09/17/science/crispr-gene-editing-vipr.html",
+      "final_url": "https://www.nytimes.com/2026/09/17/science/crispr-gene-editing-vipr.html",
+      "source": "The New York Times",
+      "article_title": "",
+      "heading": "The Next Gene-Editing Technology May Also Be the Oldest",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "The Next Gene-Editing Technology May Also Be the Oldest The New York Times",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
       "first_seen_at": "2026-09-17T21:53:06Z"
     },
     {
@@ -24603,270 +24953,6 @@
       "extractor": "bs4",
       "status": "ok",
       "first_seen_at": "2026-09-11T07:44:03Z"
-    },
-    {
-      "id": "647ee130a21c1b46",
-      "title": "'Dirt, Data, Decisions' connects Nebraska agriculture technology leaders",
-      "header": "Nebraska Today",
-      "published_at": "2026-09-11T05:34:18Z",
-      "published_raw": "Fri, 11 Sep 2026 05:34:18 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckUtcDIweHBQSEpSU192eU01QWJVUGJSa3U4SF9pREtYT3hlamRNMlFYVjZrX09zVTc4c3hzbDlEWTBDWUN0bUhJWjVyb1BvbnRuYlktRTVreExZQmxzT2lrb013M2xXSTBPLWQ0Z2pLQWMtejVlbW9ySl9fT1YwQjRBcmpuanNDQ0N3bVZ1dTd6VmZEd083bTBLejk5QQ?oc=5",
-      "description": "'Dirt, Data, Decisions' connects Nebraska agriculture technology leaders Nebraska Today",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNckUtcDIweHBQSEpSU192eU01QWJVUGJSa3U4SF9pREtYT3hlamRNMlFYVjZrX09zVTc4c3hzbDlEWTBDWUN0bUhJWjVyb1BvbnRuYlktRTVreExZQmxzT2lrb013M2xXSTBPLWQ0Z2pLQWMtejVlbW9ySl9fT1YwQjRBcmpuanNDQ0N3bVZ1dTd6VmZEd083bTBLejk5QQ?oc=5\" target=\"_blank\">'Dirt, Data, Decisions' connects Nebraska agriculture technology leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nebraska Today</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxNckUtcDIweHBQSEpSU192eU01QWJVUGJSa3U4SF9pREtYT3hlamRNMlFYVjZrX09zVTc4c3hzbDlEWTBDWUN0bUhJWjVyb1BvbnRuYlktRTVreExZQmxzT2lrb013M2xXSTBPLWQ0Z2pLQWMtejVlbW9ySl9fT1YwQjRBcmpuanNDQ0N3bVZ1dTd6VmZEd083bTBLejk5QQ?oc=5"
-      ],
-      "scraped_at": "2026-09-11T07:44:03Z",
-      "url": "https://news.unl.edu/article/dirt-data-decisions-connects-nebraska-agriculture-technology-leaders",
-      "final_url": "https://news.unl.edu/article/dirt-data-decisions-connects-nebraska-agriculture-technology-leaders",
-      "source": "Nebraska Today",
-      "article_title": "'Dirt, Data, Decisions' connects Nebraska agriculture technology leaders",
-      "heading": "'Dirt, Data, Decisions' connects Nebraska agriculture technology leaders",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "More than 110 producers, agricultural technology leaders, researchers and public-sector partners gathered Aug. 25 at Paulman Farms near Sutherland for “Dirt, Data, Decisions,” a producer-focused event designed to connect people working on solutions for nitrogen and irrigation management in Nebraska.",
-      "content": "More than 110 producers, agricultural technology leaders, researchers and public-sector partners gathered Aug. 25 at Paulman Farms near Sutherland for Dirt, Data, Decisions, a producer-focused event designed to connect people working on solutions for nitrogen and irrigation management in Nebraska.\nConceived and organized by Roric Paulman, producer and owner of Paulman Farms, the event combined 32 rapid-fire talks with informal conversations and networking. Speakers represented agricultural technology companies, startups, the University of Nebraska–Lincoln, state agencies and commodity organizations.\n“This day was about more than technology. It was about creating the network we need to solve challenges and build opportunities for Nebraska agriculture,” Paulman said.\nDiscussions throughout the day centered on five themes: water management, precision nitrogen management, using agricultural data in better decision-making, on-farm validation and technology adoption, and building a more connected agricultural innovation network.\nThe working-farm setting was central to the event. Paulman Farms serves as a site for testing and evaluating agricultural technologies, giving participants an opportunity to discuss not only what new tools can do, but also how they perform under real production conditions and whether they deliver value to producers.\nPaulman serves as the Nebraska ambassador with NASA Acres’ Farmer Innovation and Ambassador Team, supported through research collaboration with Guillermo Balboa, research assistant professor at the University of Nebraska–Lincoln Department of Agronomy and Horticulture. Paulman also serves as a long-time collaborator with the UNL Testing Ag Performance Solutions program — led by Chris Proctor, associate professor with Nebraska Extension — which brings producers, researchers, Nebraska Extension and industry together to test agricultural technologies and management strategies under real-world conditions.\nPresentations covered topics such as irrigation technologies, soil and crop sensing, precision nitrogen management, remote sensing, artificial intelligence, robotics, on-farm research, agricultural startups, biochar, ethanol and carbon intensity and water stewardship. Speakers repeatedly returned to the importance of field validation, economic value, reliable support and producer trust.\nUniversity speakers highlighted digital agriculture initiatives, Testing Ag Performance Solutions, precision nitrogen management, on-farm research, artificial intelligence, the Spurs, Nebraska Future Ag Research Management Systems, and biochar research.\nThe event also brought together leaders from Nebraska agriculture, government, the university, and private industry, creating opportunities for conversations across organizations. The university supported the event in cooperation with Paulman Farms and industry partners. University leadership, faculty, researchers and Extension personnel contributed presentations and helped with event logistics.",
-      "content_html": "<html>\n  <body><img src=\"https://news.unl.edu/sites/default/files/styles/wide/public/media/images/announce_file235989.png?itok=nAwZwge5\" alt=\"Attendees at the Dirt, Data, Decisions conference\"/>\n\n\n<p>More than 110 producers, agricultural technology leaders, researchers and public-sector partners gathered Aug. 25 at Paulman Farms near Sutherland for Dirt, Data, Decisions, a producer-focused event designed to connect people working on solutions for nitrogen and irrigation management in Nebraska.</p><p>Conceived and organized by Roric Paulman, producer and owner of Paulman Farms, the event combined 32 rapid-fire talks with informal conversations and networking. Speakers represented agricultural technology companies, startups, the University of Nebraska–Lincoln, state agencies and commodity organizations.<br/>“This day was about more than technology. It was about creating the network we need to solve challenges and build opportunities for Nebraska agriculture,” Paulman said.<br/>Discussions throughout the day centered on five themes: water management, precision nitrogen management, using agricultural data in better decision-making, on-farm validation and technology adoption, and building a more connected agricultural innovation network.<br/>The working-farm setting was central to the event. Paulman Farms serves as a site for testing and evaluating agricultural technologies, giving participants an opportunity to discuss not only what new tools can do, but also how they perform under real production conditions and whether they deliver value to producers. <br/>Paulman serves as the Nebraska ambassador with NASA Acres’ Farmer Innovation and Ambassador Team, supported through research collaboration with Guillermo Balboa, research assistant professor at the University of Nebraska–Lincoln Department of Agronomy and Horticulture. Paulman also serves as a long-time collaborator with the UNL Testing Ag Performance Solutions program — led by Chris Proctor, associate professor with Nebraska Extension  — which brings producers, researchers, Nebraska Extension and industry together to test agricultural technologies and management strategies under real-world conditions.<br/>Presentations covered topics such as irrigation technologies, soil and crop sensing, precision nitrogen management, remote sensing, artificial intelligence, robotics, on-farm research, agricultural startups, biochar, ethanol and carbon intensity and water stewardship. Speakers repeatedly returned to the importance of field validation, economic value, reliable support and producer trust. <br/>University speakers highlighted digital agriculture initiatives, Testing Ag Performance Solutions, precision nitrogen management, on-farm research, artificial intelligence, the Spurs, Nebraska Future Ag Research Management Systems, and biochar research. </p><p>The event also brought together leaders from Nebraska agriculture, government, the university, and private industry, creating opportunities for conversations across organizations. The university supported the event in cooperation with Paulman Farms and industry partners. University leadership, faculty, researchers and Extension personnel contributed presentations and helped with event logistics.</p></body>\n</html>",
-      "word_count": 387,
-      "char_count": 3008,
-      "lead_image": "https://news.unl.edu/sites/default/files/styles/lead_image_teaser/public/media/images/announce_file235989.png?itok=nusskNlp",
-      "images": [
-        {
-          "url": "https://news.unl.edu/sites/default/files/styles/lead_image_teaser/public/media/images/announce_file235989.png?itok=nusskNlp",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://news.unl.edu/sites/default/files/styles/wide/public/media/images/announce_file235989.png?itok=nAwZwge5",
-          "alt": "Attendees at the Dirt, Data, Decisions conference",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 2,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-11T07:44:03Z"
-    },
-    {
-      "id": "2878aa8a8a347c31",
-      "title": "U.S. Bank will have some new technology upgrades this season",
-      "header": "CBS News",
-      "published_at": "2026-09-11T04:09:04Z",
-      "published_raw": "Fri, 11 Sep 2026 04:09:04 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTl9MbVN4VkduTVpFMHdnOVdEVEhmRkRPQWQtbTZsanBHWG9XaGNpWExFczZCOVkxWHVpTVRUa2ZyUlU0RUZOTThLT21ONHA5T0xDWUUydXNKWDM1RXJ4R1VfOVNlRUxkV202MWJ0b25wVENidDNDVHcwaE9LSXdYUVJkdm43cEJ5OV9xYTZEQ0pmZw?oc=5",
-      "description": "U.S. Bank will have some new technology upgrades this season CBS News",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTl9MbVN4VkduTVpFMHdnOVdEVEhmRkRPQWQtbTZsanBHWG9XaGNpWExFczZCOVkxWHVpTVRUa2ZyUlU0RUZOTThLT21ONHA5T0xDWUUydXNKWDM1RXJ4R1VfOVNlRUxkV202MWJ0b25wVENidDNDVHcwaE9LSXdYUVJkdm43cEJ5OV9xYTZEQ0pmZw?oc=5\" target=\"_blank\">U.S. Bank will have some new technology upgrades this season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTl9MbVN4VkduTVpFMHdnOVdEVEhmRkRPQWQtbTZsanBHWG9XaGNpWExFczZCOVkxWHVpTVRUa2ZyUlU0RUZOTThLT21ONHA5T0xDWUUydXNKWDM1RXJ4R1VfOVNlRUxkV202MWJ0b25wVENidDNDVHcwaE9LSXdYUVJkdm43cEJ5OV9xYTZEQ0pmZw?oc=5"
-      ],
-      "scraped_at": "2026-09-11T12:32:39Z",
-      "url": "https://www.cbsnews.com/minnesota/news/u-s-bank-will-have-some-new-upgrades-this-season/",
-      "final_url": "https://www.cbsnews.com/minnesota/news/u-s-bank-will-have-some-new-upgrades-this-season/",
-      "source": "CBS News",
-      "article_title": "U.S. Bank will have some new technology upgrades this season",
-      "heading": "U.S. Bank will have some new technology upgrades this season",
-      "authors": [
-        "Ubah  Ali"
-      ],
-      "article_published_at": "2026-09-10T23:09:04-0500",
-      "article_modified_at": "2026-09-10T23:09:04-0500",
-      "summary": "Football is back, and just days before the Vikings and Packers face off in a border battle, U. S Bank Stadium is making major upgrades.",
-      "content": "U.S. Bank will have some new technology upgrades this season\nFootball is back, and just days before the Vikings and Packers face off in a border battle, U. S Bank Stadium is making major upgrades.\n\nThe stadium is adding technology designed to make the fan experience seamless from start to finish.\n\n\"We're going to have 66,000 super excited Vikings fans here on game day and what we want to do when they enter the building is we want to get them in quicker,\" said JP Paul, Vice President of Stadium Operations.\n\nNew OpenGate security screening is installed at every entrance. The contactless system allows fans to walk through security without emptying their pockets or having approved bags physically inspected.\n\nThen- in the ticketing area, Vikings Express Pass will also save you time if you're registered. It uses facial recognition technology to pull up your ticket without ever having to pull out your phone.\n\nThe team store on the main concourse is also getting a speed boost- one with RFID self-checkout technology.\n\nfans can shop and once done can place their items into a clear bag before placing it inside a checkout counter where the system will scan all items and will display the total.\n\nThe goal is simple, get fans through the doors, to ensure they never miss a minute of the Vikings experience.\n\n\"We don't want people to wait,\" Paul said. \"Let's get them in faster. Let's get them into enjoy the experience of Vikings.",
-      "content_html": "<html>\n  <body>\n    <h1>U.S. Bank will have some new technology upgrades this season</h1>\n    <p>Football is back, and just days before the Vikings and Packers face off in a border battle, U. S Bank Stadium is making major upgrades. <br/>  <br/> The stadium is adding technology designed to make the fan experience seamless from start to finish. <br/>  <br/> \"We're going to have 66,000 super excited Vikings fans here on game day and what we want to do when they enter the building is we want to get them in quicker,\" said JP Paul, Vice President of Stadium Operations. <br/>  <br/> New OpenGate security screening is installed at every entrance. The contactless system allows fans to walk through security without emptying their pockets or having approved bags physically inspected. <br/>  <br/> Then- in the ticketing area, Vikings Express Pass will also save you time if you're registered. It uses facial recognition technology to pull up your ticket without ever having to pull out your phone. <br/>  <br/> The team store on the main concourse is also getting a speed boost- one with RFID self-checkout technology. <br/>  <br/> fans can shop and once done can place their items into a clear bag before placing it inside a checkout counter where the system will scan all items and will display the total. <br/>  <br/> The goal is simple, get fans through the doors, to ensure they never miss a minute of the Vikings experience. <br/>  <br/> \"We don't want people to wait,\" Paul said. \"Let's get them in faster. Let's get them into enjoy the experience of Vikings.</p>\n  </body>\n</html>",
-      "word_count": 246,
-      "char_count": 1435,
-      "lead_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/11/687d307d-a2df-47aa-b8a4-ce92ec4a7e20/thumbnail/1200x630/546cf9008751c3d2196afc9a09a9acfb/10p-pkg-stadium-security-wccob95w.jpg",
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/11/687d307d-a2df-47aa-b8a4-ce92ec4a7e20/thumbnail/1200x630/546cf9008751c3d2196afc9a09a9acfb/10p-pkg-stadium-security-wccob95w.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-11T12:32:39Z"
-    },
-    {
-      "id": "5cf7b441d4984fc4",
-      "title": "U.S. Bank is getting some technology upgrades",
-      "header": "CBS News",
-      "published_at": "2026-09-11T03:58:00Z",
-      "published_raw": "Fri, 11 Sep 2026 03:58:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSkZEVldERUR5bnpMa2JCVDdialJ2ZEx2Mk8zN3dmTnB6Wm5GVlZVc2VNbjItZWNQdzBVZ3VyNlRJMlFnMGlTZGFqSUsya1dzY2p5UE5tTmszSGt0RmI2WHdIX2JiVmc4dkhMaTRYUFF0bU04QkxITHlqSEFmLUIxOTM0c2tmanVmLUdqM01R?oc=5",
-      "description": "U.S. Bank is getting some technology upgrades CBS News",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSkZEVldERUR5bnpMa2JCVDdialJ2ZEx2Mk8zN3dmTnB6Wm5GVlZVc2VNbjItZWNQdzBVZ3VyNlRJMlFnMGlTZGFqSUsya1dzY2p5UE5tTmszSGt0RmI2WHdIX2JiVmc4dkhMaTRYUFF0bU04QkxITHlqSEFmLUIxOTM0c2tmanVmLUdqM01R?oc=5\" target=\"_blank\">U.S. Bank is getting some technology upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSkZEVldERUR5bnpMa2JCVDdialJ2ZEx2Mk8zN3dmTnB6Wm5GVlZVc2VNbjItZWNQdzBVZ3VyNlRJMlFnMGlTZGFqSUsya1dzY2p5UE5tTmszSGt0RmI2WHdIX2JiVmc4dkhMaTRYUFF0bU04QkxITHlqSEFmLUIxOTM0c2tmanVmLUdqM01R?oc=5"
-      ],
-      "scraped_at": "2026-09-11T12:32:41Z",
-      "url": "https://www.cbsnews.com/minnesota/video/u-s-bank-is-getting-some-technology-upgrades/",
-      "final_url": "https://www.cbsnews.com/minnesota/video/u-s-bank-is-getting-some-technology-upgrades/",
-      "source": "CBS News",
-      "article_title": "U.S. Bank is getting some technology upgrades",
-      "heading": "U.S. Bank is getting some technology upgrades",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "The stadium is adding technology designed to make the fan experience seamless from start to finish.",
-      "content": "Latest\nU.S.\nIran War\n9/11\nWorld\nPolitics\nEntertainment\nHealthWatch\nMoneyWatch\nCrime\nSpace\nSports\nBrand Studio\nThe Free Press\nLocal News\nAtlanta\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\nLive\nCBS News 24/7\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\n48 Hours\n60 Minutes\nShows\n48 Hours\n60 Minutes\nCBS Evening News\nCBS Mornings\nCBS Morning News\nCBS Reports\nCBS Saturday Morning\nThe Daily Report\nThe Dish\nFace the Nation\nSunday Morning\nThe Takeout\nThings That Matter\nThe Uplift\nCBS News Investigates\nCBS News Confirmed\nPodcasts\nNewsletters\nDownload Our App\nCBS News Team\nExecutive Team\nBrand Studio\nParamount+\nJoin Our Talent Community\nRSS Feeds\nMinnesota\n|\nNews\nWeather\nSports\nVideo\nWCCO Shows & Specials\nAll News\nTwin Cities News\nGreater Minnesota News\nWisconsin News\nWCCO Investigates\nCommunity Journalism\nPolitics\nImmigration\nCrime\nHealth\nYour Money\nGood Question\nFinding Minnesota\nNEXT Weather\nLive Radar\nClosings & Delays\nWeather Watcher Network\nLatest Sports\nCBS Sports HQ\nVikings\nTwins\nTimberwolves\nLynx\nWild\nUnited FC\nAurora FC\nGophers\nHigh School Sports Rally\nState Fair\nGood Question\nFinding Minnesota\nWCCO Investigates\nMental Health Matters\nTalking Points\nOn the Edge\nVietnam 50 Years Later\nFootprint to Murder\nHome for the Holidays\nSavor Asia\nStation Info\nWCCO-TV News Team\nLinks & Numbers\nContests & Promotions\nGalleries\nWCCO-TV Jobs\nDownload WCCO's App\nAdvertise\nMemorials\nWatch CBS News\nU.S. Bank is getting some technology upgrades\nThe stadium is adding technology designed to make the fan experience seamless from start to finish.\nView CBS News In\nCBS News App\nOpen\nChrome\nSafari\nContinue",
-      "content_html": "<html>\n  <body>\n    <p>Latest\nU.S.\nIran War\n9/11\nWorld\nPolitics\nEntertainment\nHealthWatch\nMoneyWatch\nCrime\nSpace\nSports\nBrand Studio\nThe Free Press\nLocal News\nAtlanta\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\nLive\nCBS News 24/7\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\n48 Hours\n60 Minutes\nShows\n48 Hours\n60 Minutes\nCBS Evening News\nCBS Mornings\nCBS Morning News\nCBS Reports\nCBS Saturday Morning\nThe Daily Report\nThe Dish\nFace the Nation\nSunday Morning\nThe Takeout\nThings That Matter\nThe Uplift\nCBS News Investigates\nCBS News Confirmed\nPodcasts\nNewsletters\nDownload Our App\nCBS News Team\nExecutive Team\nBrand Studio\nParamount+\nJoin Our Talent Community\nRSS Feeds\nMinnesota\n|\nNews\nWeather\nSports\nVideo\nWCCO Shows &amp; Specials\nAll News\nTwin Cities News\nGreater Minnesota News\nWisconsin News\nWCCO Investigates\nCommunity Journalism\nPolitics\nImmigration\nCrime\nHealth\nYour Money\nGood Question\nFinding Minnesota\nNEXT Weather\nLive Radar\nClosings &amp; Delays\nWeather Watcher Network\nLatest Sports\nCBS Sports HQ\nVikings\nTwins\nTimberwolves\nLynx\nWild\nUnited FC\nAurora FC\nGophers\nHigh School Sports Rally\nState Fair\nGood Question\nFinding Minnesota\nWCCO Investigates\nMental Health Matters\nTalking Points\nOn the Edge\nVietnam 50 Years Later\nFootprint to Murder\nHome for the Holidays\nSavor Asia\nStation Info\nWCCO-TV News Team\nLinks &amp; Numbers\nContests &amp; Promotions\nGalleries\nWCCO-TV Jobs\nDownload WCCO's App\nAdvertise\nMemorials\nWatch CBS News\nU.S. Bank is getting some technology upgrades\nThe stadium is adding technology designed to make the fan experience seamless from start to finish.\nView CBS News In\nCBS News App\nOpen\nChrome\nSafari\nContinue</p>\n  </body>\n</html>",
-      "word_count": 271,
-      "char_count": 1774,
-      "lead_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/11/84efcad9-7599-4973-b817-42b39f0c4f0f/thumbnail/1200x630/7bd7b11941fbc4b5e1671f5e4e33260a/173f28e4359a2c1ce6c427a5a886e139-0-1789099132770.png",
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/11/84efcad9-7599-4973-b817-42b39f0c4f0f/thumbnail/1200x630/7bd7b11941fbc4b5e1671f5e4e33260a/173f28e4359a2c1ce6c427a5a886e139-0-1789099132770.png",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-11T12:32:41Z"
-    },
-    {
-      "id": "36547a55796230c4",
-      "title": "Charlotte neighbors react to former AI researcher’s concerns the technology could cause serious harm",
-      "header": "WBTV",
-      "published_at": "2026-09-11T03:05:00Z",
-      "published_raw": "Fri, 11 Sep 2026 03:05:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTURlNmVmMlBBTW1VTllwTmhJYkdvSjNYMy1ORTYzZmRhMUR3QXF0ejBkTThIRkY5THU2bmlJWW9Ud1Z4ZHI0b2xhc1RILUxtbGZlV2pDcGY2RzJ1alRNV0xEcE5qSEs5NGJTWG50bEs0MjVBdTluaUpkNUpRNk9qUXE2V0VaMF9aMnZUZmpzMHVzdENKX0pMekhHZDh6TnZPc252bmhpbGFjdzhaOFU3SFkwUEtwM2ZlYzhja3dzQVNwdDQ?oc=5",
-      "description": "Charlotte neighbors react to former AI researcher’s concerns the technology could cause serious harm WBTV",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTURlNmVmMlBBTW1VTllwTmhJYkdvSjNYMy1ORTYzZmRhMUR3QXF0ejBkTThIRkY5THU2bmlJWW9Ud1Z4ZHI0b2xhc1RILUxtbGZlV2pDcGY2RzJ1alRNV0xEcE5qSEs5NGJTWG50bEs0MjVBdTluaUpkNUpRNk9qUXE2V0VaMF9aMnZUZmpzMHVzdENKX0pMekhHZDh6TnZPc252bmhpbGFjdzhaOFU3SFkwUEtwM2ZlYzhja3dzQVNwdDQ?oc=5\" target=\"_blank\">Charlotte neighbors react to former AI researcher’s concerns the technology could cause serious harm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBTV</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTURlNmVmMlBBTW1VTllwTmhJYkdvSjNYMy1ORTYzZmRhMUR3QXF0ejBkTThIRkY5THU2bmlJWW9Ud1Z4ZHI0b2xhc1RILUxtbGZlV2pDcGY2RzJ1alRNV0xEcE5qSEs5NGJTWG50bEs0MjVBdTluaUpkNUpRNk9qUXE2V0VaMF9aMnZUZmpzMHVzdENKX0pMekhHZDh6TnZPc252bmhpbGFjdzhaOFU3SFkwUEtwM2ZlYzhja3dzQVNwdDQ?oc=5"
-      ],
-      "scraped_at": "2026-09-11T07:44:03Z",
-      "url": "https://www.wbtv.com/2026/09/11/charlotte-neighbors-react-former-ai-researchers-concerns-technology-could-cause-serious-harm/",
-      "final_url": "https://www.wbtv.com/2026/09/11/charlotte-neighbors-react-former-ai-researchers-concerns-technology-could-cause-serious-harm/",
-      "source": "https://www.wbtv.com",
-      "article_title": "Charlotte neighbors react to former AI researcher’s concerns the technology could cause serious harm",
-      "heading": "Charlotte neighbors react to former AI researcher’s concerns the technology could cause serious harm",
-      "authors": [
-        "Forrest Tucker"
-      ],
-      "article_published_at": "2026-09-11T03:05:39.374Z",
-      "article_modified_at": "2026-09-11T03:05:39.374Z",
-      "summary": "Jacob Coxon said on X that both OpenAI and Anthropic are “racing straight to self-improving superintelligence and gambling with our lives.\"",
-      "content": "Charlotte neighbors react to former AI researcher’s concerns the technology could cause serious harm\n‘The people building AI earnestly believe that it could kill us all by the end of the decade’\nCHARLOTTE, N.C. (WBTV) - Charlotteans we spoke to are feeling cautious about artificial intelligence’s capabilities after a former AI researcher posted a grave warning upon resigning from the company Anthropic.\nJacob Coxon said on X that both OpenAI and Anthropic are “racing straight to self-improving superintelligence and gambling with our lives. The people building AI earnestly believe that it could kill us all by the end of the decade.”\nDusten Pulido, who uses AI for work, thinks Coxon’s comments lean towards hyperbole. But, he is wary of what the former researcher is warning us about.\n“I don’t think safety is talked about enough. I think it’s going to be talked about more and more as all the hyperscale data centers continue to come online,” he said.\nJhaya Dilworth agrees.\n“I think even if [the post] was hyperbolic, it’s important for people to be aware. I think people overuse [AI], over consume it and give it too much power.” she said. “I think that people have to make it their personal mission to have autonomy over what they do and what they research.”\nConcerns of the people we spoke to are echoed by the people in charge of big AI companies like OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei.\n“We may have to pace the rate of AI development to give ourselves enough time for society to harden around some of these new capability levels,” said Altman.\n“If you think of the extent to which AI can make individualized propaganda, can break into any computer system in the world can you know, surveil everyone, everyone in a population, it’s really scary and we have to stop it,” said Amodei.\nCopyright 2026 WBTV. All rights reserved.",
-      "content_html": "<html>\n  <body>\n    <h1>Charlotte neighbors react to former AI researcher’s concerns the technology could cause serious harm</h1>\n    <h5>‘The people building AI earnestly believe that it could kill us all by the end of the decade’</h5>\n    <p>CHARLOTTE, N.C. (WBTV) - Charlotteans we spoke to are feeling cautious about artificial intelligence’s capabilities after a former AI researcher posted a grave warning upon resigning from the company Anthropic.</p>\n    <p>Jacob Coxon said on X that both OpenAI and Anthropic are “racing straight to self-improving superintelligence and gambling with our lives. The people building AI earnestly believe that it could kill us all by the end of the decade.”</p>\n    <p>Dusten Pulido, who uses AI for work, thinks Coxon’s comments lean towards hyperbole. But, he is wary of what the former researcher is warning us about.</p>\n    <p>“I don’t think safety is talked about enough. I think it’s going to be talked about more and more as all the hyperscale data centers continue to come online,” he said.</p>\n    <p>Jhaya Dilworth agrees.</p>\n    <p>“I think even if [the post] was hyperbolic, it’s important for people to be aware. I think people overuse [AI], over consume it and give it too much power.” she said. “I think that people have to make it their personal mission to have autonomy over what they do and what they research.”</p>\n    <p>Concerns of the people we spoke to are echoed by the people in charge of big AI companies like OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei.</p>\n    <p>“We may have to pace the rate of AI development to give ourselves enough time for society to harden around some of these new capability levels,” said Altman.</p>\n    <p>“If you think of the extent to which AI can make individualized propaganda, can break into any computer system in the world can you know, surveil everyone, everyone in a population, it’s really scary and we have to stop it,” said Amodei.</p>\n    <p>Copyright 2026 WBTV. All rights reserved.</p>\n  </body>\n</html>",
-      "word_count": 318,
-      "char_count": 1855,
-      "lead_image": "https://gray-wbtv-prod.gtv-cdn.com/resizer/v2/ISS5VUUMSRE7HPMS6LHZMOOON4.png?auth=bb1b99e256f80fb01525303d3175cdfb5204b7b047d928ff3995e81928b51116&width=1200&height=600&smart=true",
-      "images": [
-        {
-          "url": "https://gray-wbtv-prod.gtv-cdn.com/resizer/v2/ISS5VUUMSRE7HPMS6LHZMOOON4.png?auth=bb1b99e256f80fb01525303d3175cdfb5204b7b047d928ff3995e81928b51116&width=1200&height=600&smart=true",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-11T07:44:03Z"
-    },
-    {
-      "id": "9d8d873eb433ecbf",
-      "title": "Advances in cataract lens technology offers more options for vision correction",
-      "header": "ABC30 Fresno",
-      "published_at": "2026-09-11T01:30:19Z",
-      "published_raw": "Fri, 11 Sep 2026 01:30:19 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUpsakNTZEJ2bWV0UFdHMmJ0YVBhNUhjM1JESkFpczRhbHNDVUFKeHhES05Ha25fbzBBcjJEX09JVnpWRzVlcjl5Zmt4YzhXWmQ5SXc3czg4SlI4OFNld2ZUNDdXei03S2hQc0p0U3Q4dGdIX2xiS0lBa0VyTi1mUG95RnUzb2U3NHY0aDFzYjlpSzh1Z3VOQzBfaEF5WXlWX3NILWJaUdIBrAFBVV95cUxOUGhLVHBJOTUwVkdPcWkzUnhuRFJsd0xrTklDeFJ1M3daazNoTW1kU19KQU9QczFOSnF2TmM4bklxbG80Tkh3emNXdnZIZW9BaklxR05HbWoyMzhNYzZEdkhncGNqa1lLVjVMMlY2SURCVGZ4TlhxTUlTN0o5d1F3NWtLckREOUFYWXFNRl9lSWhtWE9sX1pKcFk1aWwwUUI1Z2lsczh5MnhsaDZf?oc=5",
-      "description": "Advances in cataract lens technology offers more options for vision correction ABC30 Fresno",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUpsakNTZEJ2bWV0UFdHMmJ0YVBhNUhjM1JESkFpczRhbHNDVUFKeHhES05Ha25fbzBBcjJEX09JVnpWRzVlcjl5Zmt4YzhXWmQ5SXc3czg4SlI4OFNld2ZUNDdXei03S2hQc0p0U3Q4dGdIX2xiS0lBa0VyTi1mUG95RnUzb2U3NHY0aDFzYjlpSzh1Z3VOQzBfaEF5WXlWX3NILWJaUdIBrAFBVV95cUxOUGhLVHBJOTUwVkdPcWkzUnhuRFJsd0xrTklDeFJ1M3daazNoTW1kU19KQU9QczFOSnF2TmM4bklxbG80Tkh3emNXdnZIZW9BaklxR05HbWoyMzhNYzZEdkhncGNqa1lLVjVMMlY2SURCVGZ4TlhxTUlTN0o5d1F3NWtLckREOUFYWXFNRl9lSWhtWE9sX1pKcFk1aWwwUUI1Z2lsczh5MnhsaDZf?oc=5\" target=\"_blank\">Advances in cataract lens technology offers more options for vision correction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC30 Fresno</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUpsakNTZEJ2bWV0UFdHMmJ0YVBhNUhjM1JESkFpczRhbHNDVUFKeHhES05Ha25fbzBBcjJEX09JVnpWRzVlcjl5Zmt4YzhXWmQ5SXc3czg4SlI4OFNld2ZUNDdXei03S2hQc0p0U3Q4dGdIX2xiS0lBa0VyTi1mUG95RnUzb2U3NHY0aDFzYjlpSzh1Z3VOQzBfaEF5WXlWX3NILWJaUdIBrAFBVV95cUxOUGhLVHBJOTUwVkdPcWkzUnhuRFJsd0xrTklDeFJ1M3daazNoTW1kU19KQU9QczFOSnF2TmM4bklxbG80Tkh3emNXdnZIZW9BaklxR05HbWoyMzhNYzZEdkhncGNqa1lLVjVMMlY2SURCVGZ4TlhxTUlTN0o5d1F3NWtLckREOUFYWXFNRl9lSWhtWE9sX1pKcFk1aWwwUUI1Z2lsczh5MnhsaDZf?oc=5"
-      ],
-      "scraped_at": "2026-09-11T02:46:54Z",
-      "url": "https://abc30.com/post/advances-cataract-lens-technology-offers-more-options-vision-correction/19816389/",
-      "final_url": "https://abc30.com/post/advances-cataract-lens-technology-offers-more-options-vision-correction/19816389/",
-      "source": "ABC30 Fresno",
-      "article_title": "Advances in cataract lens technology offers more options for vision correction",
-      "heading": "Advances in cataract lens technology offers more options for vision correction",
-      "authors": [
-        "Danyelle Burke North"
-      ],
-      "article_published_at": "2026-09-11T01:28:30Z",
-      "article_modified_at": "2026-09-11T01:28:31Z",
-      "summary": "As cataract treatment continues to evolve, patients now have more lens implant options than ever before.",
-      "content": "Friday, September 11, 2026 1:28AM\nMERCED, Calif. (KFSN) -- More than half of all Americans age 80 or older either have cataracts or have had surgery to remove them, according to the National Eye Institute.\nAs cataract treatment continues to evolve, patients now have more lens implant options than ever before.\nDr. Kelley Hawkins, an ophthalmologist with EYE-Q Vision Care, said cataracts develop when the eye's natural lens becomes cloudy with age.\n\"When we're born, the lens is kind of a clear jelly-like material,\" Dr. Hawkins said.\nAs people get older, the lens can become cloudier, denser or more brown in color. Dr. Hawkins said cataracts typically begin developing around age 60 and progress over time.\n\"For most people, it starts at the age of 60 and kind of progresses over time. The average age for cataract surgery is 65 to 75 years old,\" Dr. Hawkins said.\nCommon cataract symptoms include blurry, cloudy or foggy vision, glare around lights and colors appearing faded.\nDuring cataract surgery, doctors make a small incision through the cornea to remove the cloudy lens.\n\"Once inside, we actually use an ultrasound device to break the cataract into pieces and safely remove it from the eye. Once the cataracts out, the eye needs a lens to see. So we actually put an implant inside of the eye, and that's that intraocular lens,\" Dr. Hawkins said.\nDr. Hawkins said patients now have several choices when it comes to lens implants. One option is a monofocal lens, which is designed to provide clear vision at a single fixed distance.\n\"Most people want that to be far away, but some of my nearsighted folks choose up close with that lens. It's going to improve the vision, but you're still going to need glasses for either the distance or for up close,\" Dr. Hawkins said.\nAnother option is a multifocal lens, which can reduce a patient's dependence on glasses by providing vision at multiple distances.\n\"This lens implant gives distance vision, intermediate, and some near, kind of like our progressive glasses do,\" said Dr. Hawkins. \"What really excites me is kind of this newer technology that we have for cataract surgery, this light adjustable lens.\"\nDr. Hawkins said the light adjustable lens is implanted during cataract surgery like other intraocular lenses. After recovery, patients return about a month later for adjustments designed to further refine their vision.\n\"Essentially, to dial in the vision is as close to perfect as possible. It just makes it customizable to every patient. Once you find your happy place, we actually lock this lens in, and then it stays like that for hopefully as long as possible,\" Dr. Hawkins said.\nDr. Hawkins also highlighted what she described as the relatively easy recovery process following cataract surgery.\n\"On average, it takes a few days for the vision to recover, even up to a week, and that's normal. Most patients have some mild irritation in the eye after surgery. That's expected. Severe pain and things like that are very unlikely,\" Dr. Hawkins said.\nPatients considering cataract surgery should discuss the available lens options with their eye care provider to determine which choice best fits their vision needs and lifestyle goals.\nFor news updates, follow Danyelle Burke North on Instagram and TikTok.\nCopyright © 2026 KFSN-TV. All Rights Reserved.",
-      "content_html": "<html>\n  <body>\n    <p>MERCED, Calif. (KFSN) -- More than half of all Americans age 80 or older either have cataracts or have had surgery to remove them, according to the National Eye Institute.</p>\n    <p>As cataract treatment continues to evolve, patients now have more lens implant options than ever before.</p>\n    <p>Dr. Kelley Hawkins, an ophthalmologist with EYE-Q Vision Care, said cataracts develop when the eye's natural lens becomes cloudy with age.</p>\n    <p>\"When we're born, the lens is kind of a clear jelly-like material,\" Dr. Hawkins said.</p>\n    <p>As people get older, the lens can become cloudier, denser or more brown in color. Dr. Hawkins said cataracts typically begin developing around age 60 and progress over time.</p>\n    <p>\"For most people, it starts at the age of 60 and kind of progresses over time. The average age for cataract surgery is 65 to 75 years old,\" Dr. Hawkins said.</p>\n    <p>Common cataract symptoms include blurry, cloudy or foggy vision, glare around lights and colors appearing faded.</p>\n    <p>During cataract surgery, doctors make a small incision through the cornea to remove the cloudy lens.</p>\n    <p>\"Once inside, we actually use an ultrasound device to break the cataract into pieces and safely remove it from the eye. Once the cataracts out, the eye needs a lens to see. So we actually put an implant inside of the eye, and that's that intraocular lens,\" Dr. Hawkins said.</p>\n    <p>Dr. Hawkins said patients now have several choices when it comes to lens implants. One option is a monofocal lens, which is designed to provide clear vision at a single fixed distance.</p>\n    <p>\"Most people want that to be far away, but some of my nearsighted folks choose up close with that lens. It's going to improve the vision, but you're still going to need glasses for either the distance or for up close,\" Dr. Hawkins said.</p>\n    <p>Another option is a multifocal lens, which can reduce a patient's dependence on glasses by providing vision at multiple distances.</p>\n    <p>\"This lens implant gives distance vision, intermediate, and some near, kind of like our progressive glasses do,\" said Dr. Hawkins. \"What really excites me is kind of this newer technology that we have for cataract surgery, this light adjustable lens.\"</p>\n    <p>Dr. Hawkins said the light adjustable lens is implanted during cataract surgery like other intraocular lenses. After recovery, patients return about a month later for adjustments designed to further refine their vision.</p>\n    <p>\"Essentially, to dial in the vision is as close to perfect as possible. It just makes it customizable to every patient. Once you find your happy place, we actually lock this lens in, and then it stays like that for hopefully as long as possible,\" Dr. Hawkins said.</p>\n    <p>Dr. Hawkins also highlighted what she described as the relatively easy recovery process following cataract surgery.</p>\n    <p>\"On average, it takes a few days for the vision to recover, even up to a week, and that's normal. Most patients have some mild irritation in the eye after surgery. That's expected. Severe pain and things like that are very unlikely,\" Dr. Hawkins said.</p>\n    <p>Patients considering cataract surgery should discuss the available lens options with their eye care provider to determine which choice best fits their vision needs and lifestyle goals.</p>\n    <p>For news updates, follow Danyelle Burke North on Instagram and TikTok.</p>\n  </body>\n</html>",
-      "word_count": 551,
-      "char_count": 3317,
-      "lead_image": "https://cdn.abcotvs.com/dip/images/19817590_091026-kfsn-cataract-vision-tech.jpg?w=1600",
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/19817590_091026-kfsn-cataract-vision-tech.jpg?w=1600",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/18892743_041526-kfsn-danyelle-burke-north-bio-img.png",
-          "alt": "Danyelle Burke North Image",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://cdn.abcotvs.net/abcotv/static/common/origins/origin-kfsn.png",
-          "alt": "KFSN logo",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 3,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-11T02:46:54Z"
-    },
-    {
-      "id": "a751c86f800d3f83",
-      "title": "Visualizing Joc Pederson's swing using bat tracking technology",
-      "header": "MLB.com",
-      "published_at": "2026-09-10T23:20:27Z",
-      "published_raw": "Thu, 10 Sep 2026 23:20:27 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjZmRm1Bakt0MUNlM2w5RzRFUWpPamxPRkhORE1mcDZCbmlaT3p2SlR4cTY5QWd5ZWdrNmc2Q1Z5Ynp6LThfNVlCNmQ2TnRRSUQ5eTF2SFk0MjhWbE5zTmNpWklaZ1ZOTEJFN256bFVzNDJQWEZsUjNpcUIxemF1TWVxYkNmU3NZUEtUSnZEbmowNTFUakNUNnZn?oc=5",
-      "description": "Visualizing Joc Pederson's swing using bat tracking technology MLB.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjZmRm1Bakt0MUNlM2w5RzRFUWpPamxPRkhORE1mcDZCbmlaT3p2SlR4cTY5QWd5ZWdrNmc2Q1Z5Ynp6LThfNVlCNmQ2TnRRSUQ5eTF2SFk0MjhWbE5zTmNpWklaZ1ZOTEJFN256bFVzNDJQWEZsUjNpcUIxemF1TWVxYkNmU3NZUEtUSnZEbmowNTFUakNUNnZn?oc=5\" target=\"_blank\">Visualizing Joc Pederson's swing using bat tracking technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLB.com</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjZmRm1Bakt0MUNlM2w5RzRFUWpPamxPRkhORE1mcDZCbmlaT3p2SlR4cTY5QWd5ZWdrNmc2Q1Z5Ynp6LThfNVlCNmQ2TnRRSUQ5eTF2SFk0MjhWbE5zTmNpWklaZ1ZOTEJFN256bFVzNDJQWEZsUjNpcUIxemF1TWVxYkNmU3NZUEtUSnZEbmowNTFUakNUNnZn?oc=5"
-      ],
-      "scraped_at": "2026-09-10T23:40:01Z",
-      "url": "https://www.mlb.com/video/visualizing-joc-pederson-s-swing-using-bat-tracking-technology-x1391",
-      "final_url": "https://www.mlb.com/video/visualizing-joc-pederson-s-swing-using-bat-tracking-technology-x1391",
-      "source": "MLB.com",
-      "article_title": "Visualizing Joc Pederson's swing using bat tracking technology | 09/10/2026",
-      "heading": "Visualizing Joc Pederson's swing using bat tracking technology",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "The data behind Joc Pederson's swing",
-      "content": "News\nProbable Pitchers\nAwards\nStarting Lineups\nTransactions\nInjury Report\nWorld Baseball Classic\nMLB Draft\nAll-Star Game\nAUSL\nMLB Pipeline\nPostseason History\nPodcasts\nInternational\nWatch\nVideo\nSearch\nStatcast\nMLB Network\nMLB.TV\nBuy MLB.TV\nWatch & Listen\nHelp Center\nScores\nSchedule\n2026 Regular Season\n2026 Postseason\n2027 Spring Training\n2026 World Baseball Classic\n2025 Regular Season\nMLB Events\nTeam by Team Schedule\nSync Schedules\nStats\nStatcast Leaders\nBaseball Savant\nTop Prospect Stats\nStandings\nPlayers\nProspect Rankings\nDepth Charts\nMLB Players Association\nNegro Leagues\nMLB Play\nBeat the Streak\nImmaculate Grid\nTrivia\nSpinball\nPickle\nDaily Walkoff\nYouth\nPlay Ball\nYouth Baseball & Softball\nMiLB\nAUSL\nComplete coverage\nTheAUSL.com\nMLB.TV\nBuy MLB.TV\nLearn More\nAll Packages\nWatch & Listen\nHelp Center\nTickets\nSeason Tickets\nSingle Game Tickets\nGroup Tickets\nSpecial Ticket Offers\nMLB Students\nMLB Tourism\nVIP Ticket Packages\nTicket Terms & Conditions\nBuy on SeatGeek\nSell on SeatGeek\nShop\nMLB Online Shop\nAuction\nGift Cards\nMLB NYC Flagship Store\nEuropean Shop\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nLang\nEspañol\n日本語\n한국어\nLog in\nChannels\nReels\nVisualizing Joc Pederson's swing using bat tracking technology\nRangers @ Mariners\nSeptember 10, 2026 | 00:00:11\nReels\nShare\nThe data behind Joc Pederson's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nJoc Pederson\nTexas Rangers",
-      "content_html": "<html>\n  <body>\n    <p>News\nProbable Pitchers\nAwards\nStarting Lineups\nTransactions\nInjury Report\nWorld Baseball Classic\nMLB Draft\nAll-Star Game\nAUSL\nMLB Pipeline\nPostseason History\nPodcasts\nInternational\nWatch\nVideo\nSearch\nStatcast\nMLB Network\nMLB.TV\nBuy MLB.TV\nWatch &amp; Listen\nHelp Center\nScores\nSchedule\n2026 Regular Season\n2026 Postseason\n2027 Spring Training\n2026 World Baseball Classic\n2025 Regular Season\nMLB Events\nTeam by Team Schedule\nSync Schedules\nStats\nStatcast Leaders\nBaseball Savant\nTop Prospect Stats\nStandings\nPlayers\nProspect Rankings\nDepth Charts\nMLB Players Association\nNegro Leagues\nMLB Play\nBeat the Streak\nImmaculate Grid\nTrivia\nSpinball\nPickle\nDaily Walkoff\nYouth\nPlay Ball\nYouth Baseball &amp; Softball\nMiLB\nAUSL\nComplete coverage\nTheAUSL.com\nMLB.TV\nBuy MLB.TV\nLearn More\nAll Packages\nWatch &amp; Listen\nHelp Center\nTickets\nSeason Tickets\nSingle Game Tickets\nGroup Tickets\nSpecial Ticket Offers\nMLB Students\nMLB Tourism\nVIP Ticket Packages\nTicket Terms &amp; Conditions\nBuy on SeatGeek\nSell on SeatGeek\nShop\nMLB Online Shop\nAuction\nGift Cards\nMLB NYC Flagship Store\nEuropean Shop\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nLang\nEspañol\n日本語\n한국어\nLog in\nChannels\nReels\nVisualizing Joc Pederson's swing using bat tracking technology\nRangers @ Mariners\nSeptember 10, 2026 | 00:00:11\nReels\nShare\nThe data behind Joc Pederson's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nJoc Pederson\nTexas Rangers</p>\n  </body>\n</html>",
-      "word_count": 329,
-      "char_count": 2230,
-      "lead_image": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/nangw9rn1uvyrpci0vrb",
-      "images": [
-        {
-          "url": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/nangw9rn1uvyrpci0vrb",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-10T23:40:01Z"
     }
   ]
 }
