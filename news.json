@@ -1,17 +1,283 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-22T00:33:08Z",
+  "generated_at": "2026-09-22T05:48:22Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 11,
-    "added": 6,
-    "updated": 5,
+    "scraped_now": 14,
+    "added": 8,
+    "updated": 6,
     "ok": 362,
     "failed": 138,
-    "duration_seconds": 6.96
+    "duration_seconds": 3.89
   },
   "articles": [
+    {
+      "id": "231e86a575fee227",
+      "title": "Chattanooga police seek contract to allow police technology purchases",
+      "header": "Chattanooga Times Free Press",
+      "published_at": "2026-09-22T05:02:50Z",
+      "published_raw": "Tue, 22 Sep 2026 05:02:50 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPajR4dUt3amlwV3lkVTZfczFhdHVTRVN1Si1adXBnZjZlVUtteXZCTi05NW8xRnVQUWNJTU5rNDhQV21hVlJlalpCWjNsalBaMXJJLUhkRzJHLVhfeU9HOHdtSTBZNXQ3eE9UTVJtUUdZLWVyMHRuQVhCWWVuTnJwWUNNVWQwdUJYVFF5N0NsYmxtV2JSWnhKMk0wWGM?oc=5",
+      "description": "Chattanooga police seek contract to allow police technology purchases Chattanooga Times Free Press",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPajR4dUt3amlwV3lkVTZfczFhdHVTRVN1Si1adXBnZjZlVUtteXZCTi05NW8xRnVQUWNJTU5rNDhQV21hVlJlalpCWjNsalBaMXJJLUhkRzJHLVhfeU9HOHdtSTBZNXQ3eE9UTVJtUUdZLWVyMHRuQVhCWWVuTnJwWUNNVWQwdUJYVFF5N0NsYmxtV2JSWnhKMk0wWGM?oc=5\" target=\"_blank\">Chattanooga police seek contract to allow police technology purchases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chattanooga Times Free Press</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPajR4dUt3amlwV3lkVTZfczFhdHVTRVN1Si1adXBnZjZlVUtteXZCTi05NW8xRnVQUWNJTU5rNDhQV21hVlJlalpCWjNsalBaMXJJLUhkRzJHLVhfeU9HOHdtSTBZNXQ3eE9UTVJtUUdZLWVyMHRuQVhCWWVuTnJwWUNNVWQwdUJYVFF5N0NsYmxtV2JSWnhKMk0wWGM?oc=5"
+      ],
+      "scraped_at": "2026-09-22T05:48:21Z",
+      "url": "https://www.timesfreepress.com/news/2026/sep/21/chattanooga-police-seek-ai-enabled-camera-tools/",
+      "final_url": "https://www.timesfreepress.com/news/2026/sep/21/chattanooga-police-seek-ai-enabled-camera-tools/",
+      "source": "timesfreepress.com",
+      "article_title": "Chattanooga police seek contract to allow police technology purchases | Chattanooga Times Free Press",
+      "heading": "Chattanooga police seek contract to allow police technology purchases",
+      "authors": [
+        "John P. Boan"
+      ],
+      "article_published_at": "2026-09-21T19:30:02-0400",
+      "article_modified_at": "2026-09-21T22:33:00-0400",
+      "summary": "The Chattanooga Police Department is set to request approval from the City Council on a contract worth up to $15 million over five years for police technology. Exactly what technology the city plans to purchase under the contract is yet to be determined, officials said.",
+      "content": "The Chattanooga Police Department is set to request approval from the City Council on a contract worth up to $15 million over five years for police technology. Exactly what technology the city plans to purchase under the contract is yet to be determined, officials said.",
+      "content_html": "<html>\n  <body><p>The Chattanooga Police Department is set to request approval from the City Council on a contract worth up to $15 million over five years for police technology. Exactly what technology the city plans to purchase under the contract is yet to be determined, officials said.</p><p>\n    Already a subscriber? Log in\n  </p>\n  \n  <img src=\"https://braze-images.com/appboy/communication/assets/image_assets/images/6488a489a888240050a4b7e0/original.png?1686676616\" alt=\"Logo\"/>\n      <h1>Subscriber Exclusive</h1><p>This is subscriber-exclusive reporting from the Times Free Press. It's original coverage you can't get anywhere else.</p></body>\n</html>",
+      "word_count": 45,
+      "char_count": 270,
+      "lead_image": "https://wehco.media.clients.ellingtoncms.com/img/news/tease/2026/09/21/CPDdroneSimulation_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "images": [
+        {
+          "url": "https://wehco.media.clients.ellingtoncms.com/img/news/tease/2026/09/21/CPDdroneSimulation_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://wehco.media.clients.ellingtoncms.com/img/news/tease/2026/09/21/CPDdroneSimulation_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "partial",
+      "error": "short_text",
+      "first_seen_at": "2026-09-22T05:48:21Z"
+    },
+    {
+      "id": "4552b7781c67f81c",
+      "title": "All-women UT-student teams continue to develop technology from NASA competition winnings",
+      "header": "The Daily Texan",
+      "published_at": "2026-09-22T04:56:11Z",
+      "published_raw": "Tue, 22 Sep 2026 04:56:11 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObTJ1aS1HXzIxMGlrY0dxcUQxYkVuZmM0VjF2Tm9GSDVQVUd2OW80YXdrWS02cDhJQ2IxMm8weC03RkpNWC1weVJuVTk5ZHpOTDU1WnNHVV9uYzJXR2VfeW1makM3YXl1Z2RHMkN5VURabHFjcE80Yk4xekJOMERaWFJYLXpmTnRtc21IOWRIVzdEQ3FNRWY4NTBvaFF5ck5iOWo3SjBDWVlfZXBEMmVaUHYzeWFTWHNaRy1DVTlxNUlCaGhw?oc=5",
+      "description": "All-women UT-student teams continue to develop technology from NASA competition winnings The Daily Texan",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxObTJ1aS1HXzIxMGlrY0dxcUQxYkVuZmM0VjF2Tm9GSDVQVUd2OW80YXdrWS02cDhJQ2IxMm8weC03RkpNWC1weVJuVTk5ZHpOTDU1WnNHVV9uYzJXR2VfeW1makM3YXl1Z2RHMkN5VURabHFjcE80Yk4xekJOMERaWFJYLXpmTnRtc21IOWRIVzdEQ3FNRWY4NTBvaFF5ck5iOWo3SjBDWVlfZXBEMmVaUHYzeWFTWHNaRy1DVTlxNUlCaGhw?oc=5\" target=\"_blank\">All-women UT-student teams continue to develop technology from NASA competition winnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Texan</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxObTJ1aS1HXzIxMGlrY0dxcUQxYkVuZmM0VjF2Tm9GSDVQVUd2OW80YXdrWS02cDhJQ2IxMm8weC03RkpNWC1weVJuVTk5ZHpOTDU1WnNHVV9uYzJXR2VfeW1makM3YXl1Z2RHMkN5VURabHFjcE80Yk4xekJOMERaWFJYLXpmTnRtc21IOWRIVzdEQ3FNRWY4NTBvaFF5ck5iOWo3SjBDWVlfZXBEMmVaUHYzeWFTWHNaRy1DVTlxNUlCaGhw?oc=5"
+      ],
+      "scraped_at": "2026-09-22T05:48:21Z",
+      "url": "https://thedailytexan.com/2026/09/21/all-women-ut-student-teams-continue-to-develop-technology-from-nasa-competition-winnings/",
+      "final_url": "https://thedailytexan.com/2026/09/21/all-women-ut-student-teams-continue-to-develop-technology-from-nasa-competition-winnings/",
+      "source": "The Daily Texan",
+      "article_title": "All-women UT-student teams continue to develop technology from NASA competition winnings",
+      "heading": "The Daily Texan",
+      "authors": [
+        "Eleanor Burns"
+      ],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Two teams of all-women UT students won a total of more than $45,000 at a July NASA competition for developing a heart-monitoring device and lunar infrastructure designed to function in the Moon’s environment. The teams developed the technologies for NASA-ORBIT, a competition that challenges students to turn NASA patents into new technology that solves problems...",
+      "content": "Two teams of all-women UT students won a total of more than $45,000 at a July NASA competition for developing a heart-monitoring device and lunar infrastructure designed to function in the Moon’s environment.\nThe teams developed the technologies for NASA-ORBIT, a competition that challenges students to turn NASA patents into new technology that solves problems on Earth or in space. For the competition, the heart-monitoring project called HeartSense and a project called CRYO-MORPH focused on addressing current limitations in technology.\nNow, the HeartSense team, which won $30,000, are investing that money into making their device smaller and more accurate.\n“It’s a 3D-printed case with a full microcontroller, which is like (a) computer. It’s what has the code run through it to understand and interpret the signals coming from the heart,” said Piyali Bhattacharya, an electrical and computer engineering sophomore. “It’s very bulky… so one thing that we have wanted to do was make it into a smaller, condensed (device).”\nBhattacharya said they got the idea after they noticed that traditional stethoscopes and smartwatches often miss signs of heart irregularities.\nRamesh Yerraballi, a professor of instruction in the Department of Electrical and Computer Engineering who served as the group’s project advisor, said he cannot take credit for the independent work of the “self-driven” students.\n“There were around 15 or so (teams) that were selected from all over the country, and they were one of them, and they were freshmen,” Yerraballi said. “I thought that was pretty impressive that they proposed something that got that much traction.”\nBoth teams advanced to the finals, but the HeartSense project won additional awards from the competition. They placed in two categories: the Integration Bonus category, for creating a device that could solve issues both on Earth and in Space, and the People’s Choice category.\nAerospace engineering senior Quynh Nguyen worked on the CRYO MORPH project, which focused on designing infrastructure that can successfully operate in the lunar environment. She said they designed the technology to operate without gears or motors, due to the large amount of dust surrounding the moon.\n“It just made aerospace feel more real because I’m doing something hands-on, not just reading material off of the textbook,” Nguyen said. “It’s just a real problem that we’re trying to fix with NASA.\nBhattacharya said their team continues to stay close friends and talk about HeartSense every day between classes and other commitments.\n“One thing that has really stuck with me is that passion is something that’s an inherent motivator,” Bhattacharya said. “It will push you more than any other motivator will.”",
+      "content_html": "<html>\n  <body>\n    <p>Two teams of all-women UT students won a total of more than $45,000 at a July NASA competition for developing a heart-monitoring device and lunar infrastructure designed to function in the Moon’s environment.</p>\n    <p>The teams developed the technologies for NASA-ORBIT, a competition that challenges students to turn NASA patents into new technology that solves problems on Earth or in space. For the competition, the heart-monitoring project called HeartSense and a project called CRYO-MORPH focused on addressing current limitations in technology.</p>\n    <p>Now, the HeartSense team, which won $30,000, are investing that money into making their device smaller and more accurate.</p>\n    <p>“It’s a 3D-printed case with a full microcontroller, which is like (a) computer. It’s what has the code run through it to understand and interpret the signals coming from the heart,” said Piyali Bhattacharya, an electrical and computer engineering sophomore. “It’s very bulky… so one thing that we have wanted to do was make it into a smaller, condensed (device).”</p>\n    <p>Bhattacharya said they got the idea after they noticed that traditional stethoscopes and smartwatches often miss signs of heart irregularities.</p>\n    <p>Ramesh Yerraballi, a professor of instruction in the Department of Electrical and Computer Engineering who served as the group’s project advisor, said he cannot take credit for the independent work of the “self-driven” students.</p>\n    <p>“There were around 15 or so (teams) that were selected from all over the country, and they were one of them, and they were freshmen,” Yerraballi said. “I thought that was pretty impressive that they proposed something that got that much traction.”</p>\n    <p>Both teams advanced to the finals, but the HeartSense project won additional awards from the competition. They placed in two categories: the Integration Bonus category, for creating a device that could solve issues both on Earth and in Space, and the People’s Choice category.</p>\n    <p>Aerospace engineering senior Quynh Nguyen worked on the CRYO MORPH project, which focused on designing infrastructure that can successfully operate in the lunar environment. She said they designed the technology to operate without gears or motors, due to the large amount of dust surrounding the moon.</p>\n    <p>“It just made aerospace feel more real because I’m doing something hands-on, not just reading material off of the textbook,” Nguyen said. “It’s just a real problem that we’re trying to fix with NASA.</p>\n    <p>Bhattacharya said their team continues to stay close friends and talk about HeartSense every day between classes and other commitments.</p>\n    <p>“One thing that has really stuck with me is that passion is something that’s an inherent motivator,” Bhattacharya said. “It will push you more than any other motivator will.”</p>\n  </body>\n</html>",
+      "word_count": 428,
+      "char_count": 2739,
+      "lead_image": "https://thedailytexan.com/wp-content/uploads/2026/09/9-20-26_NASAOrbit_CharliePartheymuller.jpg",
+      "images": [
+        {
+          "url": "https://thedailytexan.com/wp-content/uploads/2026/09/9-20-26_NASAOrbit_CharliePartheymuller.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-22T05:48:21Z"
+    },
+    {
+      "id": "112395f8ebb47173",
+      "title": "20 countries propose global oversight body to manage AI dangers",
+      "header": "Al Jazeera",
+      "published_at": "2026-09-22T03:55:11Z",
+      "published_raw": "Tue, 22 Sep 2026 03:55:11 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnhhVFBIT21GTkdUdllHZmxsbUU5Z1o1a2xqZXJMbHZaUm5ZR2ZLeDFmQklESE9oSktuQ09DYWlvZnM0a2lzSXpYS3U1WWVVNjY0WnhKa1RzbVBXWEUzLWtOcVNJTHdJSTk2MFo5d3FjODZMMHJQQjhlM29oRFZRc1ZvNnNrVk45bnF4Z0trQUl2cGxjY0JJdmp4ZGN0alhKbzBVS0JjQ29SYkXSAbABQVVfeXFMUHdORl91TVY4UFFqZjVsZHdOZHFJdDdIcjhUSjF5WnBrQ2Z4QnBvZXltNlp6SFpXSzdsTHIzeU1lWXdSd09rSzFkQWVIdlc2b0Nvb0xqeGhPSnZtUjctV1VEVHJQZ0ZaRjNqWFM0VlE1QWsxc2psdTJhQTN5c1F4RG12UFVvYUF5dEtWOURtX2RrUk9Fbi1PTUZVeDRHeThKQ2RtSVlWeGtTY0ZicnZMMEk?oc=5",
+      "description": "20 countries propose global oversight body to manage AI dangers Al Jazeera",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnhhVFBIT21GTkdUdllHZmxsbUU5Z1o1a2xqZXJMbHZaUm5ZR2ZLeDFmQklESE9oSktuQ09DYWlvZnM0a2lzSXpYS3U1WWVVNjY0WnhKa1RzbVBXWEUzLWtOcVNJTHdJSTk2MFo5d3FjODZMMHJQQjhlM29oRFZRc1ZvNnNrVk45bnF4Z0trQUl2cGxjY0JJdmp4ZGN0alhKbzBVS0JjQ29SYkXSAbABQVVfeXFMUHdORl91TVY4UFFqZjVsZHdOZHFJdDdIcjhUSjF5WnBrQ2Z4QnBvZXltNlp6SFpXSzdsTHIzeU1lWXdSd09rSzFkQWVIdlc2b0Nvb0xqeGhPSnZtUjctV1VEVHJQZ0ZaRjNqWFM0VlE1QWsxc2psdTJhQTN5c1F4RG12UFVvYUF5dEtWOURtX2RrUk9Fbi1PTUZVeDRHeThKQ2RtSVlWeGtTY0ZicnZMMEk?oc=5\" target=\"_blank\">20 countries propose global oversight body to manage AI dangers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnhhVFBIT21GTkdUdllHZmxsbUU5Z1o1a2xqZXJMbHZaUm5ZR2ZLeDFmQklESE9oSktuQ09DYWlvZnM0a2lzSXpYS3U1WWVVNjY0WnhKa1RzbVBXWEUzLWtOcVNJTHdJSTk2MFo5d3FjODZMMHJQQjhlM29oRFZRc1ZvNnNrVk45bnF4Z0trQUl2cGxjY0JJdmp4ZGN0alhKbzBVS0JjQ29SYkXSAbABQVVfeXFMUHdORl91TVY4UFFqZjVsZHdOZHFJdDdIcjhUSjF5WnBrQ2Z4QnBvZXltNlp6SFpXSzdsTHIzeU1lWXdSd09rSzFkQWVIdlc2b0Nvb0xqeGhPSnZtUjctV1VEVHJQZ0ZaRjNqWFM0VlE1QWsxc2psdTJhQTN5c1F4RG12UFVvYUF5dEtWOURtX2RrUk9Fbi1PTUZVeDRHeThKQ2RtSVlWeGtTY0ZicnZMMEk?oc=5"
+      ],
+      "scraped_at": "2026-09-22T05:48:19Z",
+      "url": "https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers",
+      "final_url": "https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers",
+      "source": "Al Jazeera",
+      "article_title": "20 countries propose global oversight body to manage AI dangers",
+      "heading": "20 countries propose global oversight body to manage AI dangers",
+      "authors": [
+        "John Power"
+      ],
+      "article_published_at": "2026-09-22T03:42:02Z",
+      "article_modified_at": "2026-09-22T03:42:02Z",
+      "summary": "Countries including Germany, South Africa and Canada suggest international institution to set and enforce standards.",
+      "content": "20 countries propose global oversight body to manage AI dangers\nCountries including Germany, South Africa and Canada suggest international institution to set and enforce standards.\nTwenty countries and the European Union have issued a call for international cooperation to ensure AI remains under human control, including the potential creation of a global oversight body to set and enforce standards.\nThe countries, including Germany, South Africa, Canada, Australia, the United Arab Emirates and Singapore, issued the joint statement on Monday as global leaders prepare to discuss the risks posed by rapidly advancing AI at the annual gathering of the United Nations General Assembly.\nRecommended Stories\nlist of 4 items\n- list 1 of 4How thousands of migrants stranded in Ceuta are surviving\n- list 2 of 4Mali marks independence amid a worsening security crisis\n- list 3 of 4Morocco’s youth take Gen Z protest demands to the polls\n- list 4 of 4Typhoon Dujuan kills two in Japan, causes travel chaos near Tokyo\nThe declaration, released by the office of Finnish President Alexander Stubb, calls on governments and industry to act immediately to ensure that AI is developed in line with international law and remains under “human direction, oversight and control”.\n“To realise AI’s potential, industry, governments and society must act now,” the statement says.\n“We must address these risks and strengthen oversight – without widening the gap between countries in access to the benefits of AI.”\nThe declaration urges countries to develop and coordinate “common standards”, share reports of serious safety incidents, and explore the establishment of an international institution to “set standards, enable verification, and convene states when capability thresholds are crossed”.\nSignatories include German Chancellor Friedrich Merz, Norwegian Prime Minister Jonas Gahr Store, European Commission President Ursula von der Leyen, Kenyan President William Ruto, Kazakh President Kassym-Jomart Tokayev and Turkish Foreign Minister Hakan Fidan.\nThe United States and China, the world’s two leading AI powers, did not join the statement, which remains “open for endorsement” by other countries.\nUS President Donald Trump and Chinese President Xi Jinping are expected to discuss AI when they meet at the White House on Thursday for their third face-to-face summit in less than a year.\nWashington and Beijing, which are in a race to dominate cutting-edge technologies, have both rebuffed calls to slow down AI development to ensure greater safety.\nOther AI players not among the signatories include India, South Korea, Japan, the UK and France.\nThe declaration comes as the AI sector is engaged in a heated debate about safety following calls for a slowdown in development by top industry leaders.\nIn an essay earlier this month, Anthropic CEO Dario Amodei called on firms to “slow the pace” of development to mitigate risks, a proposal that was swiftly endorsed by rivals including OpenAI CEO Sam Altman and SpaceX and Tesla CEO Elon Musk.\nAmodei’s call followed a series of cases of AI models engaging in unsanctioned malign activity, including an incident in July in which AI agents being tested by OpenAI hacked the AI start-up Hugging Face.\nIn the latest intervention by industry on Monday, OpenAI said the US should lead an international effort to develop technical standards for advanced AI.\n“The United States is well positioned to lead because its AI industry is at the technical frontier, and it still stands in a privileged global network position in critical areas such as finance, trade, defense, technology, and information systems,” the San Francisco-based AI giant said in a blog post.\n“Leading now will determine whether the United States shapes the global AI framework or watches a fragmented, uneven, and conflict-ridden system take hold around it.”\nThe UN-backed Independent International Scientific Panel on AI, which examined the Hugging Face incident, on Monday also added its voice to calls for new guardrails, saying the cyberattack had exposed the “unravelling” of existing safeguards.",
+      "content_html": "<html>\n  <body><h1>20 countries propose global oversight body to manage AI dangers</h1><p>Countries including Germany, South Africa and Canada suggest international institution to set and enforce standards.</p><img src=\"https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T161851Z_11785766_RC2SNNA174UA_RTRMADP_3_UN-ASSEMBLY-SECURITY-1790035742.jpg?resize=770%2C513&amp;quality=80\" alt=\"Pedestrians on the pavement outside the UN headquarters building in New York\"/><p>Twenty countries and the European Union have issued a call for international cooperation to ensure AI remains under human control, including the potential creation of a global oversight body to set and enforce standards.</p><p>The countries, including Germany, South Africa, Canada, Australia, the United Arab Emirates and Singapore, issued the joint statement on Monday as global leaders prepare to discuss the risks posed by rapidly advancing AI at the annual gathering of the United Nations General Assembly.</p><h2>Recommended Stories</h2>list of 4 items<ul><li>list 1 of 4How thousands of migrants stranded in Ceuta are surviving</li><li>list 2 of 4Mali marks independence amid a worsening security crisis</li><li>list 3 of 4Morocco’s youth take Gen Z protest demands to the polls</li><li>list 4 of 4Typhoon Dujuan kills two in Japan, causes travel chaos near Tokyo</li></ul><p>The declaration, released by the office of Finnish President Alexander Stubb, calls on governments and industry to act immediately to ensure that AI is developed in line with international law and remains under “human direction, oversight and control”.</p><p>“To realise AI’s potential, industry, governments and society must act now,” the statement says.</p><p>“We must address these risks and strengthen oversight – without widening the gap between countries in access to the benefits of AI.”</p><p>The declaration urges countries to develop and coordinate “common standards”, share reports of serious safety incidents, and explore the establishment of an international institution to “set standards, enable verification, and convene states when capability thresholds are crossed”.</p><p>Signatories include German Chancellor Friedrich Merz, Norwegian Prime Minister Jonas Gahr Store, European Commission President Ursula von der Leyen, Kenyan President William Ruto, Kazakh President Kassym-Jomart Tokayev and Turkish Foreign Minister Hakan Fidan.</p><p>The United States and China, the world’s two leading AI powers, did not join the statement, which remains “open for endorsement” by other countries.</p><p>US President Donald Trump and Chinese President Xi Jinping are expected to discuss AI when they meet at the White House on Thursday for their third face-to-face summit in less than a year.</p><p>Washington and Beijing, which are in a race to dominate cutting-edge technologies, have both rebuffed calls to slow down AI development to ensure greater safety.</p><p/><p/><p>Other AI players not among the signatories include India, South Korea, Japan, the UK and France.</p><p>The declaration comes as the AI sector is engaged in a heated debate about safety following calls for a slowdown in development by top industry leaders.</p><p>In an essay earlier this month, Anthropic CEO Dario Amodei called on firms to “slow the pace” of development to mitigate risks, a proposal that was swiftly endorsed by rivals including OpenAI CEO Sam Altman and SpaceX and Tesla CEO Elon Musk.</p><p>Amodei’s call followed a series of cases of AI models engaging in unsanctioned malign activity, including an incident in July in which AI agents being tested by OpenAI hacked the AI start-up Hugging Face.</p><p>In the latest intervention by industry on Monday, OpenAI said the US should lead an international effort to develop technical standards for advanced AI.</p><p>“The United States is well positioned to lead because its AI industry is at the technical frontier, and it still stands in a privileged global network position in critical areas such as finance, trade, defense, technology, and information systems,” the San Francisco-based AI giant said in a blog post.</p><p>“Leading now will determine whether the United States shapes the global AI framework or watches a fragmented, uneven, and conflict-ridden system take hold around it.”</p><p>The UN-backed Independent International Scientific Panel on AI, which examined the Hugging Face incident, on Monday also added its voice to calls for new guardrails, saying the cyberattack had exposed the “unravelling” of existing safeguards.</p></body>\n</html>",
+      "word_count": 639,
+      "char_count": 4102,
+      "lead_image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T161851Z_11785766_RC2SNNA174UA_RTRMADP_3_UN-ASSEMBLY-SECURITY-1790035742_58a1b5-1790042361.jpg?resize=1200%2C630&quality=80",
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T161851Z_11785766_RC2SNNA174UA_RTRMADP_3_UN-ASSEMBLY-SECURITY-1790035742_58a1b5-1790042361.jpg?resize=1200%2C630&quality=80",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T161851Z_11785766_RC2SNNA174UA_RTRMADP_3_UN-ASSEMBLY-SECURITY-1790035742.jpg?resize=770%2C513&quality=80",
+          "alt": "Pedestrians on the pavement outside the UN headquarters building in New York",
+          "caption": "People walk past the United Nations headquarters as the world body prepares to host world leaders for the 81st UN General Assembly in New York City, US, on September 21, 2026 [David 'Dee' Delgado/Reuters]",
+          "role": "body"
+        },
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2020/09/jp-1730786685-rotated.jpg?resize=96%2C96&quality=80",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 3,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-22T05:48:19Z"
+    },
+    {
+      "id": "3527d617b0e27579",
+      "title": "New York rolls out new AI regulations as technology rapidly evolves",
+      "header": "13wham.com",
+      "published_at": "2026-09-22T03:28:27Z",
+      "published_raw": "Tue, 22 Sep 2026 03:28:27 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXhQYWZpVnd2LUVNUXU1ZFZCTFJZYy0wT2Y2ejdQdmNZLUtUNnJNVVVSS0tqOFZaS19faXZrQk01NTNWSFV0V21QLUZaSG85eEtiWXowME9telI3QXlBeVVYN0pJVzZhRUlHZ3d6ZjZUcFctS29FMl83dlBZTnB2ZGRXa19kcjl4NjlsZElldFduVEJ0eFR3ME93Q1VCQQ?oc=5",
+      "description": "New York rolls out new AI regulations as technology rapidly evolves 13wham.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOYXhQYWZpVnd2LUVNUXU1ZFZCTFJZYy0wT2Y2ejdQdmNZLUtUNnJNVVVSS0tqOFZaS19faXZrQk01NTNWSFV0V21QLUZaSG85eEtiWXowME9telI3QXlBeVVYN0pJVzZhRUlHZ3d6ZjZUcFctS29FMl83dlBZTnB2ZGRXa19kcjl4NjlsZElldFduVEJ0eFR3ME93Q1VCQQ?oc=5\" target=\"_blank\">New York rolls out new AI regulations as technology rapidly evolves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13wham.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXhQYWZpVnd2LUVNUXU1ZFZCTFJZYy0wT2Y2ejdQdmNZLUtUNnJNVVVSS0tqOFZaS19faXZrQk01NTNWSFV0V21QLUZaSG85eEtiWXowME9telI3QXlBeVVYN0pJVzZhRUlHZ3d6ZjZUcFctS29FMl83dlBZTnB2ZGRXa19kcjl4NjlsZElldFduVEJ0eFR3ME93Q1VCQQ?oc=5"
+      ],
+      "scraped_at": "2026-09-22T05:48:19Z",
+      "url": "https://13wham.com/news/local/new-york-rolls-out-new-ai-regulations-as-technology-rapidly-evolves",
+      "final_url": "https://13wham.com/news/local/new-york-rolls-out-new-ai-regulations-as-technology-rapidly-evolves",
+      "source": "WHAM",
+      "article_title": "New York tightens AI regulations as technology rapidly evolves",
+      "heading": "New York tightens AI regulations as technology rapidly evolves",
+      "authors": [
+        "Daniel Finkelstein"
+      ],
+      "article_published_at": "2026-09-22T03:23:15.000Z",
+      "article_modified_at": "2026-09-22T03:29:48.000Z",
+      "summary": "Amid rapid growth in artificial intelligence, New York officials are moving forward with new regulations aimed at keeping pace with the evolving technology.",
+      "content": "New York tightens AI regulations as technology rapidly evolves\nRochester, N.Y. (WHAM) — Amid rapid growth in artificial intelligence, New York officials are moving forward with new regulations aimed at keeping pace with the evolving technology.\nStarting in November, large AI developers will be required to register with the state and report certain safety incidents within 72 hours under the RAISE (Responsible AI Safety and Education) Act, which Gov. Kathy Hochul signed in December 2025.\n\"We have seen how to harness the good, but cannot turn a blind eye to the potential for catastrophic impacts,\" Hochul said during a news conference Monday.\nAs the state moves to implement the law, one local cybersecurity expert said the challenge will be ensuring regulations can evolve as quickly as the technology.\n\"The interesting thing as we move along through the weeks and the months and the years with this is: Is there going to be enough flexibility in the act to pivot when we need to pivot?\" said Paul Robinson, a cybersecurity consultant with Tempus Network.\nMORE: Former Google employee & nonprofit co-founder adds to growing calls to slow down AI | Trump announces he is forming 'AI Force,' will name 'AI czar' soon\nRobinson called the law a strong starting point but said additional changes could be needed as AI continues to advance.\n\"I think it's a fantastic start,\" he said. \"You have to do something at this point. Is it where it needs to be? No, because AI is moving so rapidly.\"\nNew Yorkers who spoke with 13WHAM also expressed differing views about AI's growing role in everyday life.\n\"People adapt and they learn things, and the world always changes, right?\" Rochester student Colin Mrocazko said. \"I think new technology usually helps. So I may be wrong, but I think it's beneficial in the long run.\"\nOthers said the technology is advancing faster than people have had time to consider its potential consequences.\n\"We haven't really had the time to think about if this is something that we want, and what are the long-term effects?\" Rochester resident Ella Zack said.\nAs state officials consider additional safeguards, Robinson said AI presents a unique challenge for lawmakers because regulations may need to change alongside the technology.\n\"This isn't your classic legislation where it's like, 'This is law, this is the way it's going to go till, you know, forever,'\" Robinson said. \"It's making sure that there is flexibility in the law to kind of evolve with AI as AI continues to evolve alongside with it.\"\nState Sen. Jeremy Cooney was the lone \"no\" vote when the Senate passed an earlier version of the RAISE Act in June 2025. His office said he later supported the negotiated version that Hochul signed into law.\n\"The senator recognizes the importance of implementing smart, responsible legislation to regulate AI,\" a spokesperson for Cooney said. \"While he continues to believe these kinds of regulations should be systematized by Congress, he supported the updated RAISE Act and voted in favor of the negotiated agreement that the governor is now implementing throughout the state.\"\nA representative for Bruce Blakeman, Hochul's opponent in the governor's race, did not respond to a request for comment.",
+      "content_html": "<html>\n  <body>\n    <h1>New York tightens AI regulations as technology rapidly evolves</h1>\n    <img src=\"https://13wham.com/resources/media2/16x9/1280/800/center/80/1113916f-c431-4243-b966-4f82a0d0c89a-260921215910PMand11PMWeekdayNewscasts_frame_19180.jpeg\" alt=\"2609212159 - 10 PM and 11PM Weekday Newscasts_frame_19180.jpeg\"/>\n    <p>Rochester, N.Y. (WHAM) — Amid rapid growth in artificial intelligence, New York officials are moving forward with new regulations aimed at keeping pace with the evolving technology.</p>\n    <p>Starting in November, large AI developers will be required to register with the state and report certain safety incidents within 72 hours under the RAISE (Responsible AI Safety and Education) Act, which Gov. Kathy Hochul signed in December 2025.</p>\n    <p>\"We have seen how to harness the good, but cannot turn a blind eye to the potential for catastrophic impacts,\" Hochul said during a news conference Monday.</p>\n    <p>As the state moves to implement the law, one local cybersecurity expert said the challenge will be ensuring regulations can evolve as quickly as the technology.</p>\n    <p>\"The interesting thing as we move along through the weeks and the months and the years with this is: Is there going to be enough flexibility in the act to pivot when we need to pivot?\" said Paul Robinson, a cybersecurity consultant with Tempus Network.</p>\n    <p>MORE: Former Google employee &amp; nonprofit co-founder adds to growing calls to slow down AI | Trump announces he is forming 'AI Force,' will name 'AI czar' soon</p>\n    <p>Robinson called the law a strong starting point but said additional changes could be needed as AI continues to advance.</p>\n    <p>\"I think it's a fantastic start,\" he said. \"You have to do something at this point. Is it where it needs to be? No, because AI is moving so rapidly.\"</p>\n    <p>New Yorkers who spoke with 13WHAM also expressed differing views about AI's growing role in everyday life.</p>\n    <p>\"People adapt and they learn things, and the world always changes, right?\" Rochester student Colin Mrocazko said. \"I think new technology usually helps. So I may be wrong, but I think it's beneficial in the long run.\"</p>\n    <p>Others said the technology is advancing faster than people have had time to consider its potential consequences.</p>\n    <p>\"We haven't really had the time to think about if this is something that we want, and what are the long-term effects?\" Rochester resident Ella Zack said.</p>\n    <p>As state officials consider additional safeguards, Robinson said AI presents a unique challenge for lawmakers because regulations may need to change alongside the technology.</p>\n    <p>\"This isn't your classic legislation where it's like, 'This is law, this is the way it's going to go till, you know, forever,'\" Robinson said. \"It's making sure that there is flexibility in the law to kind of evolve with AI as AI continues to evolve alongside with it.\"</p>\n    <p>State Sen. Jeremy Cooney was the lone \"no\" vote when the Senate passed an earlier version of the RAISE Act in June 2025. His office said he later supported the negotiated version that Hochul signed into law.</p>\n    <p>\"The senator recognizes the importance of implementing smart, responsible legislation to regulate AI,\" a spokesperson for Cooney said. \"While he continues to believe these kinds of regulations should be systematized by Congress, he supported the updated RAISE Act and voted in favor of the negotiated agreement that the governor is now implementing throughout the state.\"</p>\n    <p>A representative for Bruce Blakeman, Hochul's opponent in the governor's race, did not respond to a request for comment.</p>\n  </body>\n</html>",
+      "word_count": 533,
+      "char_count": 3227,
+      "lead_image": "https://13wham.com/resources/media2/16x9/1280/1320/center/90/1113916f-c431-4243-b966-4f82a0d0c89a-260921215910PMand11PMWeekdayNewscasts_frame_19180.jpeg",
+      "images": [
+        {
+          "url": "https://13wham.com/resources/media2/16x9/1280/1320/center/90/1113916f-c431-4243-b966-4f82a0d0c89a-260921215910PMand11PMWeekdayNewscasts_frame_19180.jpeg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://13wham.com/resources/media2/16x9/1280/800/center/80/1113916f-c431-4243-b966-4f82a0d0c89a-260921215910PMand11PMWeekdayNewscasts_frame_19180.jpeg",
+          "alt": "2609212159 - 10 PM and 11PM Weekday Newscasts_frame_19180.jpeg",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://13wham.com/resources/media2/16x9/1280/648/center/90/580e1552-0aa7-4776-b336-a88ddb736e89-10PVOBLOODTRANSFUSIONS.transfer_frame_8.jpeg",
+          "alt": "Image for gallery: NY's first prehospital blood transfusion service launches in Rochester",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://13wham.com/resources/media2/16x9/939/648/340x1/90/3f710d8d-a1c6-4358-89a0-0ae3b091e15f-JWACOHENARRAIGNMENT_0001_frame_9571.jpeg",
+          "alt": "Image for gallery: Rochester man convicted in murder that led to police shootout",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://13wham.com/resources/media2/16x9/1280/648/center/90/7b8c4c97-9083-473f-a2e4-3d02667af13d-NEWCARSATTHEVA_0001_frame_15507.jpeg",
+          "alt": "Image for gallery: Local organization donates two cars to veterans organization",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://13wham.com/resources/media2/16x9/1559/648/0x68/90/5bbaf494-718a-4e86-a1f8-4a4cd59b9266-brooksphoto.jpg",
+          "alt": "Image for gallery: Robert Brooks' family vows to continue fight for prison reform after $24M settlement",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 6,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-22T05:48:19Z"
+    },
+    {
+      "id": "2ef796029b33e072",
+      "title": "Office of Emergency Management and Communications to launch CentralSquare Technologies Chicago 911 call dispatch system",
+      "header": "ABC7 Chicago",
+      "published_at": "2026-09-22T02:03:46Z",
+      "published_raw": "Tue, 22 Sep 2026 02:03:46 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORXlaZ0M0a0phTWtaaktid1NXTDNwRl9HQ0h5R1Z0dl9ZdEpPSEE1alNkX09RcjZuZENLcl9fX2Vqa3NjOWI4bE0xUXh4NDA0d0JDYjlBSzlmSldvTWo1blJ3RUlUa1pzNW85MGw1MjdUVDNONVJkdG9wWFg4MVotU2VTYnRxMTVEbTZPZE1mVnd3Y3QzajB3UGM4dEFXbktyTzZpYVFYaV9vZ09WUm5STkNCRXdKdXpKOVRkUmZ6bk5xOVBuX1l1N0VBaU9HUVE0V0tqbVpObHVhVEl5bTRINkRqUdIB6AFBVV95cUxQVVBtZTRNSTVfcHpFYnlMb3A2T21UREZ6RFJNUDJJV2owNTRQU0g3c3FEdkZqc3ZSaDlmVExJYzBJTG1uUkRsQUdKZXcwUE9XZXloOHRESkgzNDZFblVRVVBtRFYwSFl5ZFFuNGR6RXBwVThscUVSdk43ZmxFMkoyLTluQzFnOVNNaElqenpMNHQ5NGc4SEE3T3ltUHlMS3BqXzlvTkh3RzVRZzA4TUN3aXNINzNlbTVlUGZ6S29VU1l1LVJyM1NhenRRT1B0NUxwZTNZaS1TbUplbGwxZ0diVHh2VGxGbzkx?oc=5",
+      "description": "Office of Emergency Management and Communications to launch CentralSquare Technologies Chicago 911 call dispatch system ABC7 Chicago",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxORXlaZ0M0a0phTWtaaktid1NXTDNwRl9HQ0h5R1Z0dl9ZdEpPSEE1alNkX09RcjZuZENLcl9fX2Vqa3NjOWI4bE0xUXh4NDA0d0JDYjlBSzlmSldvTWo1blJ3RUlUa1pzNW85MGw1MjdUVDNONVJkdG9wWFg4MVotU2VTYnRxMTVEbTZPZE1mVnd3Y3QzajB3UGM4dEFXbktyTzZpYVFYaV9vZ09WUm5STkNCRXdKdXpKOVRkUmZ6bk5xOVBuX1l1N0VBaU9HUVE0V0tqbVpObHVhVEl5bTRINkRqUdIB6AFBVV95cUxQVVBtZTRNSTVfcHpFYnlMb3A2T21UREZ6RFJNUDJJV2owNTRQU0g3c3FEdkZqc3ZSaDlmVExJYzBJTG1uUkRsQUdKZXcwUE9XZXloOHRESkgzNDZFblVRVVBtRFYwSFl5ZFFuNGR6RXBwVThscUVSdk43ZmxFMkoyLTluQzFnOVNNaElqenpMNHQ5NGc4SEE3T3ltUHlMS3BqXzlvTkh3RzVRZzA4TUN3aXNINzNlbTVlUGZ6S29VU1l1LVJyM1NhenRRT1B0NUxwZTNZaS1TbUplbGwxZ0diVHh2VGxGbzkx?oc=5\" target=\"_blank\">Office of Emergency Management and Communications to launch CentralSquare Technologies Chicago 911 call dispatch system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Chicago</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORXlaZ0M0a0phTWtaaktid1NXTDNwRl9HQ0h5R1Z0dl9ZdEpPSEE1alNkX09RcjZuZENLcl9fX2Vqa3NjOWI4bE0xUXh4NDA0d0JDYjlBSzlmSldvTWo1blJ3RUlUa1pzNW85MGw1MjdUVDNONVJkdG9wWFg4MVotU2VTYnRxMTVEbTZPZE1mVnd3Y3QzajB3UGM4dEFXbktyTzZpYVFYaV9vZ09WUm5STkNCRXdKdXpKOVRkUmZ6bk5xOVBuX1l1N0VBaU9HUVE0V0tqbVpObHVhVEl5bTRINkRqUdIB6AFBVV95cUxQVVBtZTRNSTVfcHpFYnlMb3A2T21UREZ6RFJNUDJJV2owNTRQU0g3c3FEdkZqc3ZSaDlmVExJYzBJTG1uUkRsQUdKZXcwUE9XZXloOHRESkgzNDZFblVRVVBtRFYwSFl5ZFFuNGR6RXBwVThscUVSdk43ZmxFMkoyLTluQzFnOVNNaElqenpMNHQ5NGc4SEE3T3ltUHlMS3BqXzlvTkh3RzVRZzA4TUN3aXNINzNlbTVlUGZ6S29VU1l1LVJyM1NhenRRT1B0NUxwZTNZaS1TbUplbGwxZ0diVHh2VGxGbzkx?oc=5"
+      ],
+      "scraped_at": "2026-09-22T05:48:20Z",
+      "url": "https://abc7chicago.com/post/office-emergency-management-communications-launch-new-chicago-911-dispatch-system-despite-concerns-performance/19855793/",
+      "final_url": "https://abc7chicago.com/post/office-emergency-management-communications-launch-new-chicago-911-dispatch-system-despite-concerns-performance/19855793/",
+      "source": "ABC7 Chicago",
+      "article_title": "Chicago to launch new 911 dispatch system despite concerns about performance",
+      "heading": "Chicago to launch new 911 dispatch system despite concerns about performance",
+      "authors": [
+        "Sarah Schulte",
+        "Maher Kawash"
+      ],
+      "article_published_at": "2026-09-21T22:27:00Z",
+      "article_modified_at": "2026-09-22T04:05:42Z",
+      "summary": "Chicago will begin a phased rollout of a new system for the city's 911 center on Tuesday, marking the start of a transition away from technology that has been used for the past 30 years.",
+      "content": "WLS\nTuesday, September 22, 2026 4:05AM\nCHICAGO (WLS) -- Chicago's Office of Emergency Management and Communications will begin a phased rollout of a new system for the city's 911 center on Tuesday, marking the start of a transition away from technology that has been used for the past 30 years.\nThe city signed a contract with CentralSquare Technologies six years ago and began training for the implementation of the new computer-aided dispatch system, known as CAD. It marks the first major upgrade to the city's dispatch technology in more than 30 years.\nCity officials say the system will streamline the 911 process and help improve emergency response times.\n\"The old system was one that predated Windows '95, so if you can think about that from a technology perspective,\" Deputy Mayor of Community Safety Emmanuel Andre said.\nAndre said early testing has shown potential improvements in response efficiency.\n\"The preliminary examples we have seen in seconds. It seems like that's not a lot, when you talk about 15-30 seconds, but for that person responding to that call, it is absolutely critical time,\" Andre said.\nThe rollout comes after concerns were raised by dispatchers and alderpersons who said the new technology could create problems that affect emergency response.\n\"They are dropping calls. They are not calling back. Some are delayed responses. My concern is it will trickle down to services out here in City of Chicago,\" said Ald. Chris Taliaferro, chair of the City Council's Police and Fire Committee.\nAccording to the mayor's office, the software will begin operating through a live data simulation period and will be introduced in phases. The city said the existing dispatch system will remain available if needed during the transition.\nAfter dispatchers voiced concerns to city officials, 14 alderpersons sent a letter to Mayor Brandon Johnson outlining questions and concerns about the software.\nAld. Ray Lopez said city leaders should ensure the system is fully reliable before it is implemented.\n\"Unless we are 100% certain that it's going to work properly, then we should be figuring out what we need to do in terms of next steps, so that there isn't a single life lost or injury that could have been avoided if the system fails,\" Lopez said.\nIn a response letter, the mayor's office said, \"This key milestone aligns directly with industry best practices for major system transitions. As part of the readiness process, the system underwent rigorous testing and was required to successfully handle call volumes far exceeding those anticipated under real-world conditions.\"\nCentralSquare Technologies officials said the company has deployed the same technology in cities across the country and believes that experience will help support the Chicago rollout.\n\"Of course, there's always going to be little hiccups as you go live on a system like this or any system, a lot of the work we've been doing over the last several months is extensive testing to make sure we are ready,\" said Sarah Grilliot, president of CentralSquare Technologies.\nThe mayor's office said city workers have completed more than 4,600 hours of classroom instruction since October 2025 as part of the implementation process. Officials said the city's efforts to launch the new CAD system spanned six years after the COVID-19 pandemic caused delays.\nAndre said alderpersons have had ample opportunity to raise concerns throughout the process. He also said the new system is expected to simplify the 911 process, adding that many major cities already use similar dispatch technology, and that Chicago has lagged behind in updating its system.\n\"What people need to keep in mind is we are in no way, shape, or form compromising public safety when it comes to this system,\" Andre said.\nCity officials said they are confident the system is ready for its initial rollout. However, the transition is expected to occur in phases, with the existing system remaining available during the process.\nThe new CAD system is scheduled to go live Tuesday, while the city's existing 30-year-old dispatch system will remain in place as a backup during the transition. Alderpersons have said they will seek hearings if problems emerge after the rollout, including reports of dropped calls.\nCopyright © 2026 WLS-TV. All Rights Reserved.",
+      "content_html": "<html>\n  <body>\n    <p>CHICAGO (WLS) -- Chicago's Office of Emergency Management and Communications will begin a phased rollout of a new system for the city's 911 center on Tuesday, marking the start of a transition away from technology that has been used for the past 30 years.</p>\n    <p>The city signed a contract with CentralSquare Technologies six years ago and began training for the implementation of the new computer-aided dispatch system, known as CAD. It marks the first major upgrade to the city's dispatch technology in more than 30 years.</p>\n    <p>City officials say the system will streamline the 911 process and help improve emergency response times.</p>\n    <p>\"The old system was one that predated Windows '95, so if you can think about that from a technology perspective,\" Deputy Mayor of Community Safety Emmanuel Andre said.</p>\n    <p>Andre said early testing has shown potential improvements in response efficiency.</p>\n    <p>\"The preliminary examples we have seen in seconds. It seems like that's not a lot, when you talk about 15-30 seconds, but for that person responding to that call, it is absolutely critical time,\" Andre said.</p>\n    <p>The rollout comes after concerns were raised by dispatchers and alderpersons who said the new technology could create problems that affect emergency response.</p>\n    <p>\"They are dropping calls. They are not calling back. Some are delayed responses. My concern is it will trickle down to services out here in City of Chicago,\" said Ald. Chris Taliaferro, chair of the City Council's Police and Fire Committee.</p>\n    <p>According to the mayor's office, the software will begin operating through a live data simulation period and will be introduced in phases. The city said the existing dispatch system will remain available if needed during the transition.</p>\n    <p>After dispatchers voiced concerns to city officials, 14 alderpersons sent a letter to Mayor Brandon Johnson outlining questions and concerns about the software.</p>\n    <p>Ald. Ray Lopez said city leaders should ensure the system is fully reliable before it is implemented.</p>\n    <p>\"Unless we are 100% certain that it's going to work properly, then we should be figuring out what we need to do in terms of next steps, so that there isn't a single life lost or injury that could have been avoided if the system fails,\" Lopez said.</p>\n    <p>In a response letter, the mayor's office said, \"This key milestone aligns directly with industry best practices for major system transitions. As part of the readiness process, the system underwent rigorous testing and was required to successfully handle call volumes far exceeding those anticipated under real-world conditions.\"</p>\n    <p>CentralSquare Technologies officials said the company has deployed the same technology in cities across the country and believes that experience will help support the Chicago rollout.</p>\n    <p>\"Of course, there's always going to be little hiccups as you go live on a system like this or any system, a lot of the work we've been doing over the last several months is extensive testing to make sure we are ready,\" said Sarah Grilliot, president of CentralSquare Technologies.</p>\n    <p>The mayor's office said city workers have completed more than 4,600 hours of classroom instruction since October 2025 as part of the implementation process. Officials said the city's efforts to launch the new CAD system spanned six years after the COVID-19 pandemic caused delays.</p>\n    <p>Andre said alderpersons have had ample opportunity to raise concerns throughout the process. He also said the new system is expected to simplify the 911 process, adding that many major cities already use similar dispatch technology, and that Chicago has lagged behind in updating its system.</p>\n    <p>\"What people need to keep in mind is we are in no way, shape, or form compromising public safety when it comes to this system,\" Andre said.</p>\n    <p>City officials said they are confident the system is ready for its initial rollout. However, the transition is expected to occur in phases, with the existing system remaining available during the process.</p>\n    <p>The new CAD system is scheduled to go live Tuesday, while the city's existing 30-year-old dispatch system will remain in place as a backup during the transition. Alderpersons have said they will seek hearings if problems emerge after the rollout, including reports of dropped calls.</p>\n  </body>\n</html>",
+      "word_count": 696,
+      "char_count": 4308,
+      "lead_image": "https://cdn.abcotvs.com/dip/images/19856732_092126-wls-maher-10p-recut-vid.jpg?w=1600",
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/19856732_092126-wls-maher-10p-recut-vid.jpg?w=1600",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://cdn.abcotvs.net/abcotv/static/common/origins/origin-wls.png",
+          "alt": "WLS logo",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-22T05:48:20Z"
+    },
     {
       "id": "26ac6a31aebb49d3",
       "title": "Ligent Technologies to Debut After $727 Million in Hong Kong IPO",
@@ -80,6 +346,40 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-22T00:33:01Z"
+    },
+    {
+      "id": "33397745492709b6",
+      "title": "US awards $99 million for geothermal drilling, technology projects",
+      "header": "Reuters",
+      "published_at": "2026-09-21T21:53:43Z",
+      "published_raw": "Mon, 21 Sep 2026 21:53:43 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVEs0RXFINTJOUWt3UE9iTlhSRmdEZnFYVk9ONGxSNjJIVGhCdzlnNG1RWlVjYWctOUdkS1FobzhZTnVCN1VFMGtlYXZvNnZCSjZ2VFF6UnV5a1pQTXdweU1RNUxvNEx1NVdIVVhyMkFTUS1UMWRBT3MtZkxXNU9PaERYczdJbHVhRUVNMWprVDVFYm1fc0dydjJETVZESVFKdW5OUWx3YnQyajFNWDhqNURB?oc=5",
+      "description": "US awards $99 million for geothermal drilling, technology projects Reuters",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQVEs0RXFINTJOUWt3UE9iTlhSRmdEZnFYVk9ONGxSNjJIVGhCdzlnNG1RWlVjYWctOUdkS1FobzhZTnVCN1VFMGtlYXZvNnZCSjZ2VFF6UnV5a1pQTXdweU1RNUxvNEx1NVdIVVhyMkFTUS1UMWRBT3MtZkxXNU9PaERYczdJbHVhRUVNMWprVDVFYm1fc0dydjJETVZESVFKdW5OUWx3YnQyajFNWDhqNURB?oc=5\" target=\"_blank\">US awards $99 million for geothermal drilling, technology projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVEs0RXFINTJOUWt3UE9iTlhSRmdEZnFYVk9ONGxSNjJIVGhCdzlnNG1RWlVjYWctOUdkS1FobzhZTnVCN1VFMGtlYXZvNnZCSjZ2VFF6UnV5a1pQTXdweU1RNUxvNEx1NVdIVVhyMkFTUS1UMWRBT3MtZkxXNU9PaERYczdJbHVhRUVNMWprVDVFYm1fc0dydjJETVZESVFKdW5OUWx3YnQyajFNWDhqNURB?oc=5"
+      ],
+      "scraped_at": "2026-09-22T05:48:19Z",
+      "url": "https://www.reuters.com/business/energy/us-awards-99-million-geothermal-drilling-technology-projects-2026-09-21/",
+      "final_url": "https://www.reuters.com/business/energy/us-awards-99-million-geothermal-drilling-technology-projects-2026-09-21/",
+      "source": "Reuters",
+      "article_title": "",
+      "heading": "US awards $99 million for geothermal drilling, technology projects",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "US awards $99 million for geothermal drilling, technology projects Reuters",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-22T05:48:19Z"
     },
     {
       "id": "5ad2f6770a881c78",
@@ -251,25 +551,25 @@
     {
       "id": "8e2af87cc5eb5468",
       "title": "Plasma technology could help plant-based packaging replace plastic",
-      "header": "Phys.org",
+      "header": "phys.org",
       "published_at": "2026-09-21T20:40:07Z",
       "published_raw": "Mon, 21 Sep 2026 20:40:07 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVVlXUzlhSnlrcjd3TUdFNmxLeFpMM2RNT1FjOFNMV1ZZbWFzOHpIYmV0bzVRVmxBUUVMSGdKaVJZa21pOWR4VjBUT0NiVklvZlZtT3JGd2ZUaEJtcEZVN0NDMTE1d2FNOERNSS05cDJTZmtKelc1bnN0MjVpMm91SEFn?oc=5",
-      "description": "Plasma technology could help plant-based packaging replace plastic Phys.org",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQVVlXUzlhSnlrcjd3TUdFNmxLeFpMM2RNT1FjOFNMV1ZZbWFzOHpIYmV0bzVRVmxBUUVMSGdKaVJZa21pOWR4VjBUT0NiVklvZlZtT3JGd2ZUaEJtcEZVN0NDMTE1d2FNOERNSS05cDJTZmtKelc1bnN0MjVpMm91SEFn?oc=5\" target=\"_blank\">Plasma technology could help plant-based packaging replace plastic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Phys.org</font>",
+      "description": "Plasma technology could help plant-based packaging replace plastic phys.org",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQVVlXUzlhSnlrcjd3TUdFNmxLeFpMM2RNT1FjOFNMV1ZZbWFzOHpIYmV0bzVRVmxBUUVMSGdKaVJZa21pOWR4VjBUT0NiVklvZlZtT3JGd2ZUaEJtcEZVN0NDMTE1d2FNOERNSS05cDJTZmtKelc1bnN0MjVpMm91SEFn?oc=5\" target=\"_blank\">Plasma technology could help plant-based packaging replace plastic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">phys.org</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVVlXUzlhSnlrcjd3TUdFNmxLeFpMM2RNT1FjOFNMV1ZZbWFzOHpIYmV0bzVRVmxBUUVMSGdKaVJZa21pOWR4VjBUT0NiVklvZlZtT3JGd2ZUaEJtcEZVN0NDMTE1d2FNOERNSS05cDJTZmtKelc1bnN0MjVpMm91SEFn?oc=5"
       ],
-      "scraped_at": "2026-09-21T21:38:57Z",
+      "scraped_at": "2026-09-22T05:48:21Z",
       "url": "https://phys.org/news/2026-09-plasma-technology-based-packaging-plastic.html",
       "final_url": "https://phys.org/news/2026-09-plasma-technology-based-packaging-plastic.html",
-      "source": "Phys.org",
+      "source": "phys.org",
       "article_title": "",
       "heading": "Plasma technology could help plant-based packaging replace plastic",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
-      "summary": "Plasma technology could help plant-based packaging replace plastic Phys.org",
+      "summary": "Plasma technology could help plant-based packaging replace plastic phys.org",
       "content": "",
       "content_html": "",
       "word_count": 0,
@@ -703,7 +1003,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEs2VnQ4bjhtNHRpdkZxOHA0Tl96czE2cEFqbEx1REtOX0daNi0xMl8xdEUtOWtyMkExemExQjAtN0dyd09lLU5SZHNuQ2JlV3lPZHR5RzZKRUh1dUZsVi1NR1lzbVo2UEpacENtNUl2V0pJV2NQYzJYUVlBTkZFaXZJRjBRR2FfME5fZGZOSzhIUlk0UVlIaHphM0kzUV9VeTJRcFQwQXhwV2RGaU1j?oc=5"
       ],
-      "scraped_at": "2026-09-22T00:33:02Z",
+      "scraped_at": "2026-09-22T05:48:20Z",
       "url": "https://www.reuters.com/legal/transactional/priority-technology-go-private-16-billion-ceo-led-deal-2026-09-21/",
       "final_url": "https://www.reuters.com/legal/transactional/priority-technology-go-private-16-billion-ceo-led-deal-2026-09-21/",
       "source": "Reuters",
@@ -1160,6 +1460,40 @@
       "first_seen_at": "2026-09-21T17:46:59Z"
     },
     {
+      "id": "c7c0d5a805fc1a8c",
+      "title": "Marvell Technology Stock Price Targets Are Rising - What's the Best MRVL Play?",
+      "header": "Barchart.com",
+      "published_at": "2026-09-21T13:15:02Z",
+      "published_raw": "Mon, 21 Sep 2026 13:15:02 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVnhUaHBjRHpkcEtCMkZEdEpnYjJrQmtuYzFIc016MXViUXNnTlQ4bVJTX2o5Y25TLU90Z29XbElkR3BOXzRDekFzXzZwSnhKcWM4OHFjaW5iMVdFTG9NMDcwQkZCVVZseGN0aEFuZ2c2SHBjeXpaa1JwYTR2MkZvVENKd3Nqd3JmV0ZQRERDTmFCdzh4S25DVDhWYURBTUJ2dGNUOGxNSG9BSDdjTE11blRocXN0YTQ1bzRF?oc=5",
+      "description": "Marvell Technology Stock Price Targets Are Rising - What's the Best MRVL Play? Barchart.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVnhUaHBjRHpkcEtCMkZEdEpnYjJrQmtuYzFIc016MXViUXNnTlQ4bVJTX2o5Y25TLU90Z29XbElkR3BOXzRDekFzXzZwSnhKcWM4OHFjaW5iMVdFTG9NMDcwQkZCVVZseGN0aEFuZ2c2SHBjeXpaa1JwYTR2MkZvVENKd3Nqd3JmV0ZQRERDTmFCdzh4S25DVDhWYURBTUJ2dGNUOGxNSG9BSDdjTE11blRocXN0YTQ1bzRF?oc=5\" target=\"_blank\">Marvell Technology Stock Price Targets Are Rising - What's the Best MRVL Play?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVnhUaHBjRHpkcEtCMkZEdEpnYjJrQmtuYzFIc016MXViUXNnTlQ4bVJTX2o5Y25TLU90Z29XbElkR3BOXzRDekFzXzZwSnhKcWM4OHFjaW5iMVdFTG9NMDcwQkZCVVZseGN0aEFuZ2c2SHBjeXpaa1JwYTR2MkZvVENKd3Nqd3JmV0ZQRERDTmFCdzh4S25DVDhWYURBTUJ2dGNUOGxNSG9BSDdjTE11blRocXN0YTQ1bzRF?oc=5"
+      ],
+      "scraped_at": "2026-09-22T05:48:20Z",
+      "url": "https://www.barchart.com/story/news/4711440/marvell-technology-stock-price-targets-are-rising-what-s-the-best-mrvl-play",
+      "final_url": "https://www.barchart.com/story/news/4711440/marvell-technology-stock-price-targets-are-rising-what-s-the-best-mrvl-play",
+      "source": "barchart.com",
+      "article_title": "",
+      "heading": "JavaScript is disabled",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Marvell Technology Stock Price Targets Are Rising - What's the Best MRVL Play? Barchart.com",
+      "content": "JavaScript is disabled\nIn order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable JavaScript and then reload the page.",
+      "content_html": "<html>\n  <body>\n    <p>JavaScript is disabled\nIn order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable JavaScript and then reload the page.</p>\n  </body>\n</html>",
+      "word_count": 26,
+      "char_count": 157,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "trafilatura",
+      "status": "partial",
+      "error": "short_text",
+      "first_seen_at": "2026-09-22T05:48:20Z"
+    },
+    {
       "id": "5013a65a322c8969",
       "title": "Amazon invests another $1.9 billion in the Delivery Service Partner program",
       "header": "About Amazon",
@@ -1336,6 +1670,60 @@
       "first_seen_at": "2026-09-21T21:38:58Z"
     },
     {
+      "id": "d102853f151a12ba",
+      "title": "Can Investing in Marvell Technology Stock Double Your Money?",
+      "header": "Currently.com",
+      "published_at": "2026-09-21T12:34:29Z",
+      "published_raw": "Mon, 21 Sep 2026 12:34:29 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0xSN0FrS1hoLUpqNTk4THp1a2dja0tqR0tybDV1NkFJTV9zVGJ5dDYyOVhtS0VtYVJrQmJTaFFLcjdVRkw1OWxUc2o4UjJTY1MyeEZCWlF0WUpBc2VrLTJHeS12MUpRUWxOenVjQ2haeHdwVHFIMGVDLUFOZmVnZktmTUlOSUJ0LUFJd0NfLW1SMjJycE1F?oc=5",
+      "description": "Can Investing in Marvell Technology Stock Double Your Money? Currently.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0xSN0FrS1hoLUpqNTk4THp1a2dja0tqR0tybDV1NkFJTV9zVGJ5dDYyOVhtS0VtYVJrQmJTaFFLcjdVRkw1OWxUc2o4UjJTY1MyeEZCWlF0WUpBc2VrLTJHeS12MUpRUWxOenVjQ2haeHdwVHFIMGVDLUFOZmVnZktmTUlOSUJ0LUFJd0NfLW1SMjJycE1F?oc=5\" target=\"_blank\">Can Investing in Marvell Technology Stock Double Your Money?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Currently.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0xSN0FrS1hoLUpqNTk4THp1a2dja0tqR0tybDV1NkFJTV9zVGJ5dDYyOVhtS0VtYVJrQmJTaFFLcjdVRkw1OWxUc2o4UjJTY1MyeEZCWlF0WUpBc2VrLTJHeS12MUpRUWxOenVjQ2haeHdwVHFIMGVDLUFOZmVnZktmTUlOSUJ0LUFJd0NfLW1SMjJycE1F?oc=5"
+      ],
+      "scraped_at": "2026-09-22T05:48:19Z",
+      "url": "https://currently.att.yahoo.com/att/investing-marvell-technology-stock-double-123429591.html",
+      "final_url": "https://currently.att.yahoo.com/att/investing-marvell-technology-stock-double-123429591.html",
+      "source": "Currently, by AT&T",
+      "article_title": "Can Investing in Marvell Technology Stock Double Your Money?",
+      "heading": "Can Investing in Marvell Technology Stock Double Your Money?",
+      "authors": [
+        "David Jagielski, CPA, The Motley Fool"
+      ],
+      "article_published_at": "2026-09-21T12:34:29Z",
+      "article_modified_at": "2026-09-21T12:34:29Z",
+      "summary": "If Jensen Huang is right, then Marvell could not only double but soar to around five times its current value.",
+      "content": "Can Investing in Marvell Technology Stock Double Your Money?\nEarlier this year, Nvidia CEO Jensen Huang said that Marvell Technology (NASDAQ:MRVL) could be the next trillion-dollar company. If that's true, then there could be significant upside for the chipmaker, whose valuation is around $220 billion right now.\nGiven the promising outlook from Huang and Marvell posting strong growth in recent numbers, is investing in the business likely to double your money in the near term?\nMissed AI's \"Act 1\"? Act 2 Could Be 15x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&D phase. \"Act 2\" is the global rollout. Continue »\nImage source: Getty Images.\nMarvell's stock is up big this year, but the market has been cautious of late\nSince the start of 2026, Marvell's stock has risen nearly 190%, as of the end of last week. It's been on a tremendous run driven not only by Huang's praise for the business but also by its solid quarterly results.\nHowever, in recent months, the stock has traded sideways, and it's currently down about 26% from its 52-week high. There's been some apprehension of late, likely due to Marvell's high valuation. The stock is trading at more than 80 times its trailing earnings, a steep multiple that reflects high expectations for future growth.\nThe market may simply be reluctant to pay an even higher multiple for the stock. While Marvell may one day be a trillion-dollar company, when that day comes is anyone's guess. The company does have plenty of potential upside given the growth in artificial intelligence and the ongoing need for chips, but with it reporting 37% revenue growth in its most recent quarter, that may simply not be enough to send the stock soaring a whole lot higher, at least, not in the short term.\nThe stock could double again, but investors shouldn't expect it to happen soon\nMarvell's stock has already more than doubled this year, but how soon it can double from here is a big question mark. I don't doubt that it will double in value and one day reach a valuation of more than $400 billion, but it may take several years for that to happen.\nIts current valuation already prices in rosy growth prospects and strong numbers. For it to rise quickly again, Marvell would effectively have to perform even better and give investors reason to be more bullish about its business than they already are today.\nThis can be a good growth stock to hold for the long haul, and it may very well double yet again, but this time around, it could take a whole lot longer to do so.\nShould you buy stock in Marvell Technology right now?\nBefore you buy stock in Marvell Technology, consider this:\nThe Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Marvell Technology wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.\nConsider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $387,158!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,365,749!*\nNow, it's worth noting Stock Advisor's total average return is 932% — a market-crushing outperformance compared to 211% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.\n*Stock Advisor returns as of September 21, 2026.\nDavid Jagielski, CPA has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Marvell Technology and Nvidia. The Motley Fool has a disclosure policy.\nCan Investing in Marvell Technology Stock Double Your Money? was originally published by The Motley Fool",
+      "content_html": "<html>\n  <body>\n    <h1>Can Investing in Marvell Technology Stock Double Your Money?</h1>\n    <p>Earlier this year, Nvidia CEO Jensen Huang said that Marvell Technology (NASDAQ:MRVL) could be the next trillion-dollar company. If that's true, then there could be significant upside for the chipmaker, whose valuation is around $220 billion right now.</p>\n    <p>Given the promising outlook from Huang and Marvell posting strong growth in recent numbers, is investing in the business likely to double your money in the near term?</p>\n    <p>Missed AI's \"Act 1\"? Act 2 Could Be 15x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&amp;D phase. \"Act 2\" is the global rollout. Continue »</p>\n    <img src=\"https://s.yimg.com/lo/mysterio/api/300c859af1e22b1fd9ef28db6baddf6615add050f806e104b6b6c47b1f27b5a4/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F639e8de7e7aab4552829b77f17e4d204.jpg\" alt=\"Businessman presenting consumer expansion data on a screen in a modern office.\"/>\n    <p>Image source: Getty Images.</p>\n    <h2>Marvell's stock is up big this year, but the market has been cautious of late</h2>\n    <p>Since the start of 2026, Marvell's stock has risen nearly 190%, as of the end of last week. It's been on a tremendous run driven not only by Huang's praise for the business but also by its solid quarterly results.</p>\n    <p>However, in recent months, the stock has traded sideways, and it's currently down about 26% from its 52-week high. There's been some apprehension of late, likely due to Marvell's high valuation. The stock is trading at more than 80 times its trailing earnings, a steep multiple that reflects high expectations for future growth.</p>\n    <p>The market may simply be reluctant to pay an even higher multiple for the stock. While Marvell may one day be a trillion-dollar company, when that day comes is anyone's guess. The company does have plenty of potential upside given the growth in artificial intelligence and the ongoing need for chips, but with it reporting 37% revenue growth in its most recent quarter, that may simply not be enough to send the stock soaring a whole lot higher, at least, not in the short term.</p>\n    <h2>The stock could double again, but investors shouldn't expect it to happen soon</h2>\n    <p>Marvell's stock has already more than doubled this year, but how soon it can double from here is a big question mark. I don't doubt that it will double in value and one day reach a valuation of more than $400 billion, but it may take several years for that to happen.</p>\n    <p>Its current valuation already prices in rosy growth prospects and strong numbers. For it to rise quickly again, Marvell would effectively have to perform even better and give investors reason to be more bullish about its business than they already are today.</p>\n    <p>This can be a good growth stock to hold for the long haul, and it may very well double yet again, but this time around, it could take a whole lot longer to do so.</p>\n    <h2>Should you buy stock in Marvell Technology right now?</h2>\n    <p>Before you buy stock in Marvell Technology, consider this:</p>\n    <p>The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Marvell Technology wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.</p>\n    <p>Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $387,158!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,365,749!*</p>\n    <p>Now, it's worth noting Stock Advisor's total average return is 932% — a market-crushing outperformance compared to 211% for the S&amp;P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.</p>\n    <p>*Stock Advisor returns as of September 21, 2026.</p>\n    <p>David Jagielski, CPA has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Marvell Technology and Nvidia. The Motley Fool has a disclosure policy.</p>\n    <p>Can Investing in Marvell Technology Stock Double Your Money? was originally published by The Motley Fool</p>\n  </body>\n</html>",
+      "word_count": 670,
+      "char_count": 3903,
+      "lead_image": "https://s.yimg.com/lo/mysterio/api/ae0ba9fe6801357804c4c3a3709c77137bd55df37417f3f946c7cc65f8bf38e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F639e8de7e7aab4552829b77f17e4d204.jpg",
+      "images": [
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/ae0ba9fe6801357804c4c3a3709c77137bd55df37417f3f946c7cc65f8bf38e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F639e8de7e7aab4552829b77f17e4d204.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/1351428fe2ae360333ae36e1e8d6887a1ce40bcf60b73e18f61918bc45624295/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F639e8de7e7aab4552829b77f17e4d204.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/300c859af1e22b1fd9ef28db6baddf6615add050f806e104b6b6c47b1f27b5a4/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F639e8de7e7aab4552829b77f17e4d204.jpg",
+          "alt": "Businessman presenting consumer expansion data on a screen in a modern office.",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 3,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-22T05:48:19Z"
+    },
+    {
       "id": "807d57dd25d45abe",
       "title": "Priority Technology CEO to Take Firm Private in $1.6 Billion Deal",
       "header": "WSJ",
@@ -1347,7 +1735,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDlxVTlnLWZMQTJkSllBRTVsLVZOeFFNYWVPdC1MMzVHdkJ5UXcxN2QtSnZ1QzRLdVdNLUFIeG5hTDJwWU5uSGJxWXE3UWRnM1ptMl9SaVN5VExQZGl1WkRfQjNlWnpHWVNmenFVdndCWGRqVVVkYUoyWlBOZEJWODVxVy13Nzg2VlljTV9UR2o3X19fNDRUYUtWTVBaT20zUDZiTndSZHBhQnJP?oc=5"
       ],
-      "scraped_at": "2026-09-22T00:33:01Z",
+      "scraped_at": "2026-09-22T05:48:21Z",
       "url": "https://www.wsj.com/business/deals/priority-technology-ceo-to-take-firm-private-in-1-6-billion-deal-e3b4fa36",
       "final_url": "https://www.wsj.com/business/deals/priority-technology-ceo-to-take-firm-private-in-1-6-billion-deal-e3b4fa36",
       "source": "WSJ",
@@ -2080,25 +2468,25 @@
     {
       "id": "0d68951c0a70b006",
       "title": "Starbucks Technology to open new hub in Chennai, India",
-      "header": "Starbucks",
+      "header": "about.starbucks.com",
       "published_at": "2026-09-21T09:30:00Z",
       "published_raw": "Mon, 21 Sep 2026 09:30:00 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSl9lU0tkbl9ndlFGcDhvUUhHZ3hVcmJUVTc5MWFuRk5uTHFYeDlBeEdpTTRta1c3ODVxVUhTeC00N2NEU1RyTlp6SkNGYkhBRGtuZnh4bW84RTlBTjdlQ3JmZnZpUE5XM094QS1TVS1oREFWc2RCeWhIZmxSVENPaDN0UG93d0VQRGlwdjdXcXZOWkZzU0VuLQ?oc=5",
-      "description": "Starbucks Technology to open new hub in Chennai, India Starbucks",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPSl9lU0tkbl9ndlFGcDhvUUhHZ3hVcmJUVTc5MWFuRk5uTHFYeDlBeEdpTTRta1c3ODVxVUhTeC00N2NEU1RyTlp6SkNGYkhBRGtuZnh4bW84RTlBTjdlQ3JmZnZpUE5XM094QS1TVS1oREFWc2RCeWhIZmxSVENPaDN0UG93d0VQRGlwdjdXcXZOWkZzU0VuLQ?oc=5\" target=\"_blank\">Starbucks Technology to open new hub in Chennai, India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Starbucks</font>",
+      "description": "Starbucks Technology to open new hub in Chennai, India about.starbucks.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPSl9lU0tkbl9ndlFGcDhvUUhHZ3hVcmJUVTc5MWFuRk5uTHFYeDlBeEdpTTRta1c3ODVxVUhTeC00N2NEU1RyTlp6SkNGYkhBRGtuZnh4bW84RTlBTjdlQ3JmZnZpUE5XM094QS1TVS1oREFWc2RCeWhIZmxSVENPaDN0UG93d0VQRGlwdjdXcXZOWkZzU0VuLQ?oc=5\" target=\"_blank\">Starbucks Technology to open new hub in Chennai, India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">about.starbucks.com</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSl9lU0tkbl9ndlFGcDhvUUhHZ3hVcmJUVTc5MWFuRk5uTHFYeDlBeEdpTTRta1c3ODVxVUhTeC00N2NEU1RyTlp6SkNGYkhBRGtuZnh4bW84RTlBTjdlQ3JmZnZpUE5XM094QS1TVS1oREFWc2RCeWhIZmxSVENPaDN0UG93d0VQRGlwdjdXcXZOWkZzU0VuLQ?oc=5"
       ],
-      "scraped_at": "2026-09-22T00:33:03Z",
+      "scraped_at": "2026-09-22T05:48:20Z",
       "url": "https://about.starbucks.com/press/2026/starbucks-technology-to-open-new-hub-in-chennai-india/",
       "final_url": "https://about.starbucks.com/press/2026/starbucks-technology-to-open-new-hub-in-chennai-india/",
-      "source": "Starbucks",
+      "source": "about.starbucks.com",
       "article_title": "",
       "heading": "Starbucks Technology to open new hub in Chennai, India",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
-      "summary": "Starbucks Technology to open new hub in Chennai, India Starbucks",
+      "summary": "Starbucks Technology to open new hub in Chennai, India about.starbucks.com",
       "content": "",
       "content_html": "",
       "word_count": 0,
@@ -2114,25 +2502,25 @@
     {
       "id": "f10eac93aab9e9a0",
       "title": "The A.I. Party House Where Networking Has a Dark Side",
-      "header": "The New York Times",
+      "header": "nytimes.com",
       "published_at": "2026-09-21T09:04:07Z",
       "published_raw": "Mon, 21 Sep 2026 09:04:07 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UVVh3cG10S1Q4enl4MDFMZmgxTkYzdUtqWnZfeVZzS0hLcFRXVmt5cFd0Ym1mZmZHUURyell1bEUzOS1oYjlQWUZ4bmFWaHpQU0V3NHZfX1VRUTVqQmUzTEk5NXE4VFlhbG5NNjBLZzZGUWpoWG9MYUhkMA?oc=5",
-      "description": "The A.I. Party House Where Networking Has a Dark Side The New York Times",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9UVVh3cG10S1Q4enl4MDFMZmgxTkYzdUtqWnZfeVZzS0hLcFRXVmt5cFd0Ym1mZmZHUURyell1bEUzOS1oYjlQWUZ4bmFWaHpQU0V3NHZfX1VRUTVqQmUzTEk5NXE4VFlhbG5NNjBLZzZGUWpoWG9MYUhkMA?oc=5\" target=\"_blank\">The A.I. Party House Where Networking Has a Dark Side</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description": "The A.I. Party House Where Networking Has a Dark Side nytimes.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9UVVh3cG10S1Q4enl4MDFMZmgxTkYzdUtqWnZfeVZzS0hLcFRXVmt5cFd0Ym1mZmZHUURyell1bEUzOS1oYjlQWUZ4bmFWaHpQU0V3NHZfX1VRUTVqQmUzTEk5NXE4VFlhbG5NNjBLZzZGUWpoWG9MYUhkMA?oc=5\" target=\"_blank\">The A.I. Party House Where Networking Has a Dark Side</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UVVh3cG10S1Q4enl4MDFMZmgxTkYzdUtqWnZfeVZzS0hLcFRXVmt5cFd0Ym1mZmZHUURyell1bEUzOS1oYjlQWUZ4bmFWaHpQU0V3NHZfX1VRUTVqQmUzTEk5NXE4VFlhbG5NNjBLZzZGUWpoWG9MYUhkMA?oc=5"
       ],
-      "scraped_at": "2026-09-22T00:33:01Z",
+      "scraped_at": "2026-09-22T05:48:19Z",
       "url": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
       "final_url": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "article_title": "",
       "heading": "The A.I. Party House Where Networking Has a Dark Side",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
-      "summary": "The A.I. Party House Where Networking Has a Dark Side The New York Times",
+      "summary": "The A.I. Party House Where Networking Has a Dark Side nytimes.com",
       "content": "",
       "content_html": "",
       "word_count": 0,
@@ -7479,25 +7867,25 @@
     {
       "id": "cb5e71f3bf454077",
       "title": "Disney Names AI Executive as First-Ever Chief Technology Officer",
-      "header": "Bloomberg.com",
+      "header": "Bloomberg",
       "published_at": "2026-09-18T16:47:07Z",
       "published_raw": "Fri, 18 Sep 2026 16:47:07 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5",
-      "description": "Disney Names AI Executive as First-Ever Chief Technology Officer Bloomberg.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5\" target=\"_blank\">Disney Names AI Executive as First-Ever Chief Technology Officer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "description": "Disney Names AI Executive as First-Ever Chief Technology Officer Bloomberg",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5\" target=\"_blank\">Disney Names AI Executive as First-Ever Chief Technology Officer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5"
       ],
-      "scraped_at": "2026-09-21T05:50:32Z",
+      "scraped_at": "2026-09-22T05:48:19Z",
       "url": "https://www.bloomberg.com/news/articles/2026-09-18/disney-names-ai-executive-as-first-ever-chief-technology-officer",
       "final_url": "https://www.bloomberg.com/news/articles/2026-09-18/disney-names-ai-executive-as-first-ever-chief-technology-officer",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "article_title": "",
       "heading": "Disney Names AI Executive as First-Ever Chief Technology Officer",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
-      "summary": "Disney Names AI Executive as First-Ever Chief Technology Officer Bloomberg.com",
+      "summary": "Disney Names AI Executive as First-Ever Chief Technology Officer Bloomberg",
       "content": "",
       "content_html": "",
       "word_count": 0,
@@ -24413,364 +24801,6 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-13T13:10:50Z"
-    },
-    {
-      "id": "3d16cb2bfbdb5a42",
-      "title": "How AI BioDesign Will Harness Nature’s Principles for Drug Discovery",
-      "header": "Technology Networks",
-      "published_at": "2026-09-13T09:02:09Z",
-      "published_raw": "Sun, 13 Sep 2026 09:02:09 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUFEM2tRd3JVQ1I1NEJnM21BRkc2QUt0VF9nMF8yYzE0dFNNY0tKODhKdEo3aTd6M2dzd2kyTnZOR3U0WlB2enVJb1pNMmluVXdxUS16UUZ2OVFTVTR2aklFUk9kQlF1eUNfUEpYSEVoTFFTS3BZRzZNUGc4d0ZOYVo2eEJoY0FZS2JpTmxHSHdFMzh6TDBEZXhIV3AxamRsMHZCQXNvRERwQWVJNjFLYlg4TXE0QzJxWmZOQWx3?oc=5",
-      "description": "How AI BioDesign Will Harness Nature’s Principles for Drug Discovery Technology Networks",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUFEM2tRd3JVQ1I1NEJnM21BRkc2QUt0VF9nMF8yYzE0dFNNY0tKODhKdEo3aTd6M2dzd2kyTnZOR3U0WlB2enVJb1pNMmluVXdxUS16UUZ2OVFTVTR2aklFUk9kQlF1eUNfUEpYSEVoTFFTS3BZRzZNUGc4d0ZOYVo2eEJoY0FZS2JpTmxHSHdFMzh6TDBEZXhIV3AxamRsMHZCQXNvRERwQWVJNjFLYlg4TXE0QzJxWmZOQWx3?oc=5\" target=\"_blank\">How AI BioDesign Will Harness Nature’s Principles for Drug Discovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Technology Networks</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUFEM2tRd3JVQ1I1NEJnM21BRkc2QUt0VF9nMF8yYzE0dFNNY0tKODhKdEo3aTd6M2dzd2kyTnZOR3U0WlB2enVJb1pNMmluVXdxUS16UUZ2OVFTVTR2aklFUk9kQlF1eUNfUEpYSEVoTFFTS3BZRzZNUGc4d0ZOYVo2eEJoY0FZS2JpTmxHSHdFMzh6TDBEZXhIV3AxamRsMHZCQXNvRERwQWVJNjFLYlg4TXE0QzJxWmZOQWx3?oc=5"
-      ],
-      "scraped_at": "2026-09-13T13:10:52Z",
-      "url": "https://www.technologynetworks.com/tn/articles/how-ai-biodesign-will-harness-natures-principles-for-drug-discovery-416413",
-      "final_url": "https://www.technologynetworks.com/tn/articles/how-ai-biodesign-will-harness-natures-principles-for-drug-discovery-416413",
-      "source": "technologynetworks.com",
-      "article_title": "",
-      "heading": "JavaScript is disabled",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "How AI BioDesign Will Harness Nature’s Principles for Drug Discovery Technology Networks",
-      "content": "JavaScript is disabled\nIn order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable JavaScript and then reload the page.",
-      "content_html": "<html>\n  <body>\n    <p>JavaScript is disabled\nIn order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable JavaScript and then reload the page.</p>\n  </body>\n</html>",
-      "word_count": 26,
-      "char_count": 157,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "trafilatura",
-      "status": "partial",
-      "error": "short_text",
-      "first_seen_at": "2026-09-13T13:10:52Z"
-    },
-    {
-      "id": "5650aaf8e9848165",
-      "title": "Anthropic CEO tells Anderson Cooper this technology ‘belongs to all of us’ | CNN Business",
-      "header": "CNN",
-      "published_at": "2026-09-13T06:16:00Z",
-      "published_raw": "Sun, 13 Sep 2026 06:16:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYjM4TzZLRnozSzVXelVVbGlGNlBOZWNQb1l4QnJjM2lEMnpCT1hFUXpDSUg3QzFhZmdqTVZ0VWtBbkhya1RWdHpTQzVBY3BobG0zbGVjRlp5VERyTGdPYktDS3EyR29Gdi13cDFaWGVaR3VLa3ZrdGk2NVVfc283MmdrdGtsRDBxSDdfcGJBTE9sRXZqVWh1VFhmRGlEY0JkY2pjbUdqcHR5SzdZbzVtbTc3Vnk?oc=5",
-      "description": "Anthropic CEO tells Anderson Cooper this technology ‘belongs to all of us’ | CNN Business CNN",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNYjM4TzZLRnozSzVXelVVbGlGNlBOZWNQb1l4QnJjM2lEMnpCT1hFUXpDSUg3QzFhZmdqTVZ0VWtBbkhya1RWdHpTQzVBY3BobG0zbGVjRlp5VERyTGdPYktDS3EyR29Gdi13cDFaWGVaR3VLa3ZrdGk2NVVfc283MmdrdGtsRDBxSDdfcGJBTE9sRXZqVWh1VFhmRGlEY0JkY2pjbUdqcHR5SzdZbzVtbTc3Vnk?oc=5\" target=\"_blank\">Anthropic CEO tells Anderson Cooper this technology ‘belongs to all of us’ | CNN Business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYjM4TzZLRnozSzVXelVVbGlGNlBOZWNQb1l4QnJjM2lEMnpCT1hFUXpDSUg3QzFhZmdqTVZ0VWtBbkhya1RWdHpTQzVBY3BobG0zbGVjRlp5VERyTGdPYktDS3EyR29Gdi13cDFaWGVaR3VLa3ZrdGk2NVVfc283MmdrdGtsRDBxSDdfcGJBTE9sRXZqVWh1VFhmRGlEY0JkY2pjbUdqcHR5SzdZbzVtbTc3Vnk?oc=5"
-      ],
-      "scraped_at": "2026-09-13T07:57:37Z",
-      "url": "https://www.cnn.com/2026/09/13/business/video/anthropic-ceo-dario-amodei-anderson-cooper-ai-technology-vrtc-digvid",
-      "final_url": "https://www.cnn.com/2026/09/13/business/video/anthropic-ceo-dario-amodei-anderson-cooper-ai-technology-vrtc-digvid",
-      "source": "cnn.com",
-      "article_title": "Anthropic CEO tells Anderson Cooper this technology ‘belongs to all of us’ | CNN Business",
-      "heading": "Anthropic CEO tells Anderson Cooper this technology ‘belongs to all of us’",
-      "authors": [
-        "Ron Shamitko"
-      ],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Anthropic CEO Dario Amodei talks to CNN’s Anderson Cooper about AI companies being in private hands. He says he is uncomfortable with it and that there needs to be balance between the government and private companies.",
-      "content": "Anthropic CEO Dario Amodei talks to CNN's Anderson Cooper about AI companies being in private hands. He says he is uncomfortable with it and that there needs to be balance between the government and private companies.\nPresident Trump has vowed to pay every American $5,000 if Republicans hold onto Congress in the 2026 midterm elections – the estimated cost for those payments? $1 trillion. CNN’s Rachel Siegel breaks down how it would add onto an already sky-high national debt.\nMore than 2,000 pounds of methamphetamine was found hidden in a shipment of cabbage in Texas, according to the DEA. The seizure was part of a multi-agency investigation in the Rio Grande Valley.\n“NAZA,” a documentary examining Israel’s killing of Palestinian civilians in Gaza, based on what the filmmakers say are accounts from Israeli intelligence officers and soldiers, received a 25-minute standing ovation — reportedly the longest in Venice Film Festival history.\nAntoinette Forbes, a 53-year-old single mother, was last seen Friday, September 4, in Washington DC according to the Metropolitan Police Department. Her family is searching for answers.\nFamily members of those who were killed on September 11th gathered in New York City to honor their loved ones at the 9/11 remembrance ceremony. Today marks 25 years since the attacks that claimed 2,977 lives.\nA 15-year-old boy who had been fishing with his brother and cousin in Alaska was rescued on Monday after their boat capsized the night before. The three boys were on an 18-foot fishing vessel near St. Lawrence Island when their boat overturned, according to a news release from the US Coast Guard.\nPickaxe mountain, buried deep under granite, has seen a flurry of construction work this year, according to analysts from CSIS. But there are signs that the US is working to develop a “next generation penetrator” bomb to hit targets deeply buried underground. CNN’s Davis Winkie breaks it down.",
-      "content_html": "<html>\n  <body>\n    <img src=\"https://media.cnn.com/api/v1/images/stellar/prod/ac-vt-7-tech-thumb.jpg?c=9x16\" alt=\"AC vt 7 tech_THUMB.jpg\"/>\n    <p>Anthropic CEO Dario Amodei talks to CNN's Anderson Cooper about AI companies being in private hands. He says he is uncomfortable with it and that there needs to be balance between the government and private companies.</p>\n    <img src=\"https://media.cnn.com/api/v1/images/stellar/prod/ac-vt-7-tech-thumb.jpg?c=9x16\" alt=\"AC vt 7 tech_THUMB.jpg\"/>\n    <p>Anthropic CEO Dario Amodei talks to CNN's Anderson Cooper about AI companies being in private hands. He says he is uncomfortable with it and that there needs to be balance between the government and private companies.</p>\n    <img src=\"https://media.cnn.com/api/v1/images/stellar/prod/5k-payment-problems-clean-digvid-vrtc.jpg?c=9x16\" alt=\"5k Payment Problems-Clean-digvid-vrtc.jpg\"/>\n    <p>President Trump has vowed to pay every American $5,000 if Republicans hold onto Congress in the 2026 midterm elections – the estimated cost for those payments? $1 trillion. CNN’s Rachel Siegel breaks down how it would add onto an already sky-high national debt.</p>\n    <img src=\"https://media.cnn.com/api/v1/images/stellar/prod/22977635-meth-cabbage-vrtc-00-00-18-05-still001.png?c=9x16\" alt=\"22977635 - meth cabbage vrtc.00_00_18_05.Still001.png\"/>\n    <p>More than 2,000 pounds of methamphetamine was found hidden in a shipment of cabbage in Texas, according to the DEA. The seizure was part of a multi-agency investigation in the Rio Grande Valley.</p>\n    <img src=\"https://media.cnn.com/api/v1/images/stellar/prod/standing-ovation-venice.jpg?c=9x16\" alt=\"standing ovation venice.jpg\"/>\n    <p>“NAZA,” a documentary examining Israel’s killing of Palestinian civilians in Gaza, based on what the filmmakers say are accounts from Israeli intelligence officers and soldiers, received a 25-minute standing ovation — reportedly the longest in Venice Film Festival history.</p>\n    <img src=\"https://media.cnn.com/api/v1/images/stellar/prod/antoinette-forbes-vrtc.jpg?c=9x16\" alt=\"antoinette forbes vrtc.jpg\"/>\n    <p>Antoinette Forbes, a 53-year-old single mother, was last seen Friday, September 4, in Washington DC according to the Metropolitan Police Department. Her family is searching for answers.</p>\n    <img src=\"https://media.cnn.com/api/v1/images/stellar/prod/911-memorial-name-reading.png?c=9x16\" alt=\"911 memorial name reading.png\"/>\n    <p>Family members of those who were killed on September 11th gathered in New York City to honor their loved ones at the 9/11 remembrance ceremony. Today marks 25 years since the attacks that claimed 2,977 lives.</p>\n    <img src=\"https://media.cnn.com/api/v1/images/stellar/prod/fishing-trip-survivor-clean-digvid-vrtc-2.jpg?c=9x16\" alt=\"Fishing Trip Survivor-Clean-digvid-vrtc_2.jpg\"/>\n    <p>A 15-year-old boy who had been fishing with his brother and cousin in Alaska was rescued on Monday after their boat capsized the night before. The three boys were on an 18-foot fishing vessel near St. Lawrence Island when their boat overturned, according to a news release from the US Coast Guard.</p>\n    <img src=\"https://media.cnn.com/api/v1/images/stellar/prod/pickaxe-sat-images-clean-thumb.jpg?c=9x16\" alt=\"Pickaxe sat images clean thumb.jpg\"/>\n    <p>Pickaxe mountain, buried deep under granite, has seen a flurry of construction work this year, according to analysts from CSIS. But there are signs that the US is working to develop a “next generation penetrator” bomb to hit targets deeply buried underground. CNN’s Davis Winkie breaks it down.</p>\n  </body>\n</html>",
-      "word_count": 314,
-      "char_count": 1936,
-      "lead_image": "https://media.cnn.com/api/v1/images/stellar/prod/ac-vt-7-tech-thumb.jpg?c=16x9&q=w_800,c_fill",
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/ac-vt-7-tech-thumb.jpg?c=16x9&q=w_800,c_fill",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/ac-vt-7-tech-thumb.jpg?c=9x16",
-          "alt": "AC vt 7 tech_THUMB.jpg",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/5k-payment-problems-clean-digvid-vrtc.jpg?c=9x16",
-          "alt": "5k Payment Problems-Clean-digvid-vrtc.jpg",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/22977635-meth-cabbage-vrtc-00-00-18-05-still001.png?c=9x16",
-          "alt": "22977635 - meth cabbage vrtc.00_00_18_05.Still001.png",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/standing-ovation-venice.jpg?c=9x16",
-          "alt": "standing ovation venice.jpg",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/antoinette-forbes-vrtc.jpg?c=9x16",
-          "alt": "antoinette forbes vrtc.jpg",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/911-memorial-name-reading.png?c=9x16",
-          "alt": "911 memorial name reading.png",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/fishing-trip-survivor-clean-digvid-vrtc-2.jpg?c=9x16",
-          "alt": "Fishing Trip Survivor-Clean-digvid-vrtc_2.jpg",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/pickaxe-sat-images-clean-thumb.jpg?c=9x16",
-          "alt": "Pickaxe sat images clean thumb.jpg",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 9,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-13T07:57:37Z"
-    },
-    {
-      "id": "ba69a26321ca9de8",
-      "title": "O’Reilly Auto Parts Series post-race inspection: World Wide Technology Raceway",
-      "header": "Jayski",
-      "published_at": "2026-09-13T04:26:14Z",
-      "published_raw": "Sun, 13 Sep 2026 04:26:14 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2h3QUdvZVk0ZE1BNndicXRrQlRsSFQwZjZGVzNSTVFKUW9vSEJxc0NJYmUzMWxuOUx2ak5YX1BBVTM3azk5cHlkdjhycXlzSkl6REg3Z0taZC1JMDNycEh3bzdpUFh4M1M2Rm9URzZhckJlMG5reVoyTEVhYU9hZjdHRXluc1dMUEc2X3pvSlNjcl9QLVNMd21DQUN4eElqZHhrc0JQOWs2dWdxaHNUdw?oc=5",
-      "description": "O’Reilly Auto Parts Series post-race inspection: World Wide Technology Raceway Jayski",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2h3QUdvZVk0ZE1BNndicXRrQlRsSFQwZjZGVzNSTVFKUW9vSEJxc0NJYmUzMWxuOUx2ak5YX1BBVTM3azk5cHlkdjhycXlzSkl6REg3Z0taZC1JMDNycEh3bzdpUFh4M1M2Rm9URzZhckJlMG5reVoyTEVhYU9hZjdHRXluc1dMUEc2X3pvSlNjcl9QLVNMd21DQUN4eElqZHhrc0JQOWs2dWdxaHNUdw?oc=5\" target=\"_blank\">O’Reilly Auto Parts Series post-race inspection: World Wide Technology Raceway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jayski</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2h3QUdvZVk0ZE1BNndicXRrQlRsSFQwZjZGVzNSTVFKUW9vSEJxc0NJYmUzMWxuOUx2ak5YX1BBVTM3azk5cHlkdjhycXlzSkl6REg3Z0taZC1JMDNycEh3bzdpUFh4M1M2Rm9URzZhckJlMG5reVoyTEVhYU9hZjdHRXluc1dMUEc2X3pvSlNjcl9QLVNMd21DQUN4eElqZHhrc0JQOWs2dWdxaHNUdw?oc=5"
-      ],
-      "scraped_at": "2026-09-13T07:57:37Z",
-      "url": "https://www.jayski.com/2026/09/13/oreilly-auto-parts-series-post-race-inspection-world-wide-technology-raceway/",
-      "final_url": "https://www.jayski.com/2007/09/04/amp-dale-jrs-sponsor-update-2-and-mountain-dew/",
-      "source": "Jayski's NASCAR Silly Season Site",
-      "article_title": "Jayski's NASCAR News - September 04, 2007",
-      "heading": "AMP Dale Jr’s sponsor? UPDATE 2 and mountain Dew:",
-      "authors": [
-        "Scott Page"
-      ],
-      "article_published_at": "2007-09-04T04:00:00+00:00",
-      "article_modified_at": "2007-09-04T04:00:00+00:00",
-      "summary": "O’Reilly Auto Parts Series post-race inspection: World Wide Technology Raceway Jayski",
-      "content": "ESPN.com’s sources say Budweiser knows it won’t be on Dale Earnhardt Jr.’s cars next year at Hendrick Motorsports, and that it looks like some sort of sponsorship deal with a Pepsi product (or products) is likely for him. Terry Blount and David Newton got further down the road with sources than I have. Nothing they wrote conflicts with what I’ve been trying to nail down. But all anybody with official ties to Pepsi or Budweiser or the teams will say for the record is they don’t comment on speculation. One source I’ve trusted for a long time tells me that AMP, an energy drink Pepsi markets under the Mountain Dew umbrella, will factor in the deal for Earnhardt Jr. at Hendrick. Jeff Gordon and the Hendrick folks have a deal with Pepsi that stretches through 2010. Pepsi also is ending its contracts with International Speedway Corp. One reason could be that money’s going into the Hendrick-Earnhardt Jr. basket.(Charlotte Observer)(6-12-2007) UPDATE and Mountain Dew: Dale Earnhardt Jr. and Hendrick Motorsports are expected to announce later this month Pepisco Inc. products Mountain Dew and Amp energy drink are his primary sponsors for next season, sources confirmed Sunday.(ESPN.com)(9-3-2007) UPDATE 2: on ESPN2’s NASCAR Now Monday night, it was reported that Mountain/AMP would probably be 55% of the races and National Guard would be 45% of the races for Dale Earnhardt Jr. There would be no problem with Navy being the sponsor of Dale Jr’s #88 Busch team, but don’t expect to see Earnhardt in a National Guard Busch car.(9-4-2007)",
-      "content_html": "<html>\n  <body><p>ESPN.com’s sources say Budweiser knows it won’t be on Dale Earnhardt Jr.’s cars next year at Hendrick Motorsports, and that it looks like some sort of sponsorship deal with a Pepsi product (or products) is likely for him. Terry Blount and David Newton got further down the road with sources than I have. Nothing they wrote conflicts with what I’ve been trying to nail down. But all anybody with official ties to Pepsi or Budweiser or the teams will say for the record is they don’t comment on speculation. One source I’ve trusted for a long time tells me that AMP, an energy drink Pepsi markets under the Mountain Dew umbrella, will factor in the deal for Earnhardt Jr. at Hendrick. Jeff Gordon and the Hendrick folks have a deal with Pepsi that stretches through 2010. Pepsi also is ending its contracts with International Speedway Corp. One reason could be that money’s going into the Hendrick-Earnhardt Jr. basket.(Charlotte Observer)(6-12-2007) UPDATE and Mountain Dew: Dale Earnhardt Jr. and Hendrick Motorsports are expected to announce later this month Pepisco Inc. products Mountain Dew and Amp energy drink are his primary sponsors for next season, sources confirmed Sunday.(ESPN.com)(9-3-2007) UPDATE 2: on ESPN2’s NASCAR Now Monday night, it was reported that Mountain/AMP would probably be 55% of the races and National Guard would be 45% of the races for Dale Earnhardt Jr. There would be no problem with Navy being the sponsor of Dale Jr’s #88 Busch team, but don’t expect to see Earnhardt in a National Guard Busch car.(9-4-2007)</p><img src=\"https://www.jayski.com/wp-content/uploads/sites/31/2025/2/21/jayski-archives-graphic-625x340.png\" alt=\"Jayski's NASCAR Archives\"/>\n          \n          \n          \n        <img src=\"https://www.jayski.com/wp-content/uploads/sites/31/2025/2/21/jayski-archives-graphic-625x340.png\" alt=\"Jayski's NASCAR Archives\"/>\n          \n          \n          \n        <img src=\"https://www.jayski.com/wp-content/uploads/sites/31/2025/2/21/jayski-archives-graphic-625x340.png\" alt=\"Jayski's NASCAR Archives\"/>\n          \n          \n          \n        <img src=\"https://www.jayski.com/wp-content/uploads/sites/31/2025/2/21/jayski-archives-graphic-625x340.png\" alt=\"Jayski's NASCAR Archives\"/>\n          \n          \n          \n        </body>\n</html>",
-      "word_count": 256,
-      "char_count": 1544,
-      "lead_image": "https://www.jayski.com/wp-content/uploads/sites/31/2025/2/21/jayski-archives-graphic-625x340.png",
-      "images": [
-        {
-          "url": "https://www.jayski.com/wp-content/uploads/sites/31/2025/2/21/jayski-archives-graphic-625x340.png",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura+amp",
-      "status": "ok",
-      "first_seen_at": "2026-09-13T07:57:37Z"
-    },
-    {
-      "id": "f2ef0b13aeea9dc3",
-      "title": "Top AI leaders unite to warn the technology is advancing too fast",
-      "header": "The Washington Post",
-      "published_at": "2026-09-13T03:47:43Z",
-      "published_raw": "Sun, 13 Sep 2026 03:47:43 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTk40dU5BRzRyeUN1ajlFb0Zfb053UXBaZTdiMlJZejJIOVhKWGc3Y3RuV3I3UHUwV0hQWjZ6c0NBOWV5cXA5V1JoQ0p2SjBObmhjWlB1UUJZWkdTUnBFb284bFN0Q2RSOTZMcjJHUnM5Q3ZfMkdZcHo0ZTNYem16WlJzSGVOd1dqRXdPV0RmZjBVM1BVRnM3M19sYlFDSy1QcE1YOGkzZjhiQlFl?oc=5",
-      "description": "Top AI leaders unite to warn the technology is advancing too fast The Washington Post",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOTk40dU5BRzRyeUN1ajlFb0Zfb053UXBaZTdiMlJZejJIOVhKWGc3Y3RuV3I3UHUwV0hQWjZ6c0NBOWV5cXA5V1JoQ0p2SjBObmhjWlB1UUJZWkdTUnBFb284bFN0Q2RSOTZMcjJHUnM5Q3ZfMkdZcHo0ZTNYem16WlJzSGVOd1dqRXdPV0RmZjBVM1BVRnM3M19sYlFDSy1QcE1YOGkzZjhiQlFl?oc=5\" target=\"_blank\">Top AI leaders unite to warn the technology is advancing too fast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTk40dU5BRzRyeUN1ajlFb0Zfb053UXBaZTdiMlJZejJIOVhKWGc3Y3RuV3I3UHUwV0hQWjZ6c0NBOWV5cXA5V1JoQ0p2SjBObmhjWlB1UUJZWkdTUnBFb284bFN0Q2RSOTZMcjJHUnM5Q3ZfMkdZcHo0ZTNYem16WlJzSGVOd1dqRXdPV0RmZjBVM1BVRnM3M19sYlFDSy1QcE1YOGkzZjhiQlFl?oc=5"
-      ],
-      "scraped_at": "2026-09-14T00:39:56Z",
-      "url": "https://www.washingtonpost.com/technology/2026/09/12/anthropic-ceo-dario-amodei-calls-ai-industry-slow-down/",
-      "final_url": "https://www.washingtonpost.com/technology/2026/09/12/anthropic-ceo-dario-amodei-calls-ai-industry-slow-down/",
-      "source": "The Washington Post",
-      "article_title": "",
-      "heading": "Top AI leaders unite to warn the technology is advancing too fast",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Top AI leaders unite to warn the technology is advancing too fast The Washington Post",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-12T23:41:01Z"
-    },
-    {
-      "id": "44a4c616ca481993",
-      "title": "South Korea's expanded espionage law takes effect amid push to protect chip technology",
-      "header": "Reuters",
-      "published_at": "2026-09-13T00:05:00Z",
-      "published_raw": "Sun, 13 Sep 2026 00:05:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeVc2VklDSTJqenp5QnFhX2s4NFg3SHlkMndlZ3dXT3NfdDhYUnlVMXU0eldKbktyWmNrUkRMZkw4bTJyMHE1cldIUDVKNk41clpBWjkyUlA4c2RMM1dONkZPZEZMTlpCTk5nMmxxcjVXcU50RXoxM2xWOGlLZWtlOE5iTUR6ZkNiaTVGbzVfdXJrNkZxT2ljamQ5MWNsQ0h3UHJLYWlxOG45YVlqa2FsOHRZbDlRbWprY19F?oc=5",
-      "description": "South Korea's expanded espionage law takes effect amid push to protect chip technology Reuters",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeVc2VklDSTJqenp5QnFhX2s4NFg3SHlkMndlZ3dXT3NfdDhYUnlVMXU0eldKbktyWmNrUkRMZkw4bTJyMHE1cldIUDVKNk41clpBWjkyUlA4c2RMM1dONkZPZEZMTlpCTk5nMmxxcjVXcU50RXoxM2xWOGlLZWtlOE5iTUR6ZkNiaTVGbzVfdXJrNkZxT2ljamQ5MWNsQ0h3UHJLYWlxOG45YVlqa2FsOHRZbDlRbWprY19F?oc=5\" target=\"_blank\">South Korea's expanded espionage law takes effect amid push to protect chip technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeVc2VklDSTJqenp5QnFhX2s4NFg3SHlkMndlZ3dXT3NfdDhYUnlVMXU0eldKbktyWmNrUkRMZkw4bTJyMHE1cldIUDVKNk41clpBWjkyUlA4c2RMM1dONkZPZEZMTlpCTk5nMmxxcjVXcU50RXoxM2xWOGlLZWtlOE5iTUR6ZkNiaTVGbzVfdXJrNkZxT2ljamQ5MWNsQ0h3UHJLYWlxOG45YVlqa2FsOHRZbDlRbWprY19F?oc=5"
-      ],
-      "scraped_at": "2026-09-14T00:39:55Z",
-      "url": "https://www.reuters.com/world/china/south-koreas-expanded-espionage-law-takes-effect-amid-push-protect-chip-2026-09-13/",
-      "final_url": "https://www.reuters.com/world/china/south-koreas-expanded-espionage-law-takes-effect-amid-push-protect-chip-2026-09-13/",
-      "source": "Reuters",
-      "article_title": "",
-      "heading": "South Korea's expanded espionage law takes effect amid push to protect chip technology",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "South Korea's expanded espionage law takes effect amid push to protect chip technology Reuters",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-13T02:54:48Z"
-    },
-    {
-      "id": "6a87904c9e20ef1c",
-      "title": "Women's Volleyball Downs Kean, Swarthmore in Home Opener",
-      "header": "stevensducks.com",
-      "published_at": "2026-09-12T23:17:15Z",
-      "published_raw": "Sat, 12 Sep 2026 23:17:15 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQazFLYlJGOTV6XzNqeXV4MERhbFF6dllZV2NTWERhUGpuMGxfV3hOTExXbVhJTmJOY3UweDJiN1RHSXFTR3NyWU9LMzByemkyVWI4ZlpsVmFTQ3pmNHpMdEVMbS1CQ0pXS1RVY3JFRTAxc2hjcWZoU2dwNzR5VnZBcWpjS1RnaUd3bDFDLVRtOVJKLU9mUnZTbDlzdDk4eUl5?oc=5",
-      "description": "Women's Volleyball Downs Kean, Swarthmore in Home Opener stevensducks.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQazFLYlJGOTV6XzNqeXV4MERhbFF6dllZV2NTWERhUGpuMGxfV3hOTExXbVhJTmJOY3UweDJiN1RHSXFTR3NyWU9LMzByemkyVWI4ZlpsVmFTQ3pmNHpMdEVMbS1CQ0pXS1RVY3JFRTAxc2hjcWZoU2dwNzR5VnZBcWpjS1RnaUd3bDFDLVRtOVJKLU9mUnZTbDlzdDk4eUl5?oc=5\" target=\"_blank\">Women's Volleyball Downs Kean, Swarthmore in Home Opener</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stevensducks.com</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQazFLYlJGOTV6XzNqeXV4MERhbFF6dllZV2NTWERhUGpuMGxfV3hOTExXbVhJTmJOY3UweDJiN1RHSXFTR3NyWU9LMzByemkyVWI4ZlpsVmFTQ3pmNHpMdEVMbS1CQ0pXS1RVY3JFRTAxc2hjcWZoU2dwNzR5VnZBcWpjS1RnaUd3bDFDLVRtOVJKLU9mUnZTbDlzdDk4eUl5?oc=5"
-      ],
-      "scraped_at": "2026-09-12T23:41:01Z",
-      "url": "https://stevensducks.com/news/2026/9/12/womens-volleyball-downs-kean-swarthmore-in-home-opener.aspx",
-      "final_url": "https://stevensducks.com/news/2026/9/12/womens-volleyball-downs-kean-swarthmore-in-home-opener.aspx",
-      "source": "Stevens Institute of Technology Athletics",
-      "article_title": "Women's Volleyball Downs Kean, Swarthmore in Home Opener - Stevens Institute of Technology Athletics",
-      "heading": "Stevens Institute of Technology Athletics",
-      "authors": [
-        "Stevens Institute of Technology Athletics"
-      ],
-      "article_published_at": "2026-09-12T19:06:00",
-      "article_modified_at": "2026-09-12T19:12:20",
-      "summary": "Hoboken, N.J. – The Stevens Institute of Technology women's volleyball team picked up a pair of victories Saturday inside Canavan Arena, defeating Kean University",
-      "content": "Hoboken, N.J.\n– The Stevens Institute of Technology women's volleyball team picked up a pair of victories Saturday inside Canavan Arena, defeating Kean University and Swarthmore College in four sets to extend its winning streak to five matches.\n\nThe Ducks (5-1) opened the day with a 3-1 victory over Kean, winning 29-27, 25-20, 20-25, 25-17, before rallying past Swarthmore 21-25, 25-22, 25-17, 25-18 in the nightcap. In the middle match, Swarthmore took down Kean in straight sets.\nHOW IT HAPPENED (Vs. Kean)\nStevens raced out to a 6-1 advantage in the opening set, with\nJulianne Danis\nrecording three kills while\nCadence Sturt\nserved three aces during the early run. Kean gradually worked its way back into the frame and pulled even at 13 before Stevens answered to build a 20-15 advantage. The Cougars responded again, using an 8-3 run to knot the score at 23. The sides traded points from there, with\nEva Tarolli\ndelivering consecutive kills to give Stevens a 25-24 edge. Kean twice fought off set point before Danis put the Ducks ahead 26-25. After the teams exchanged the next four points,\nElla Boland\nbroke a 27-27 tie with a kill before a Kean attack error gave Stevens the 29-27 victory.\n\nThe Ducks carried the momentum into the second, breaking a 1-1 tie with four straight points to move ahead 5-1. Boland contributed a kill during the stretch while\nKileen McNeill\nteamed up for a pair of blocks. Stevens maintained control throughout the frame and extended the advantage to 14-8 following consecutive Kean attack errors. The Cougars pulled within three at 17-14, but Stevens answered behind kills from Danis and\nAlyssa O'Neal\n. O'Neal later pushed the margin to 21-16 before Boland put away the final kill for the 25-20 victory.\n\nKean responded in the third set, using a 4-0 run to turn a 5-3 Stevens advantage into a 7-5 lead. The Ducks pulled even at 12, but the Cougars scored six of the next eight points to build an 18-14 advantage. Stevens cut the deficit to three twice, including 20-17 on a Tarolli kill, but Kean answered and eventually closed the frame 25-20.\n\nThe fourth set featured three early ties before Stevens began to create separation, using five straight points, including three consecutive attack errors, to open a 7-4 lead. Deadlocked at seven, Danis delivered a kill before\nElla Kraver\nfollowed with a service ace. Sturt later recorded an ace and O'Neal added a kill as the Ducks extended their advantage to 13-8. Kean battled back within one at 13-12, but Stevens answered with four of the next five points. Leading 18-14, the Ducks put the match away with a five-point run as Danis and Tarolli combined on a block before Tarolli added a kill. Boland and Tarolli teamed up for another block to reach match point before Tarolli closed the contest with a kill for the 25-17 victory.\n\nVs. Swarthmore\nSwarthmore took the opening set after the two sides battled through 11 ties. Stevens held an 8-5 advantage following back-to-back service aces from Boland, but the Garnet responded with five straight points. The Ducks eventually pulled even at 17 on a kill from Boland before Swarthmore answered with five consecutive markers to take a 22-17 advantage. Stevens trimmed the deficit to 24-21 on an O'Neal kill, but the Garnet closed out the frame on the ensuing point.\n\nStevens began to find its rhythm in the second set as\nSarah Bolduc\nprovided an immediate spark with three early kills. The teams remained within two points of one another for much of the frame before the Ducks broke a 14-14 deadlock. O'Neal put away a pair of kills during a stretch that pushed Stevens in front 18-15 before McNeill's kill and consecutive Swarthmore attack errors (with a solo block from Bolduc and a tandem rejection from Boland and McNeill) extended the advantage to 21-17. Bolduc later recorded kills to give the Ducks their 22nd and 24th points before a Swarthmore service error secured the 25-22 win.\n\nThe Ducks took control midway through the third frame. With Stevens leading 9-8, the Ducks reeled off five straight points behind an O'Neal service ace, a kill from Boland and a pair of blocks involving McNeill. Swarthmore cut the margin to four at 16-12, but Stevens maintained its cushion as Bolduc,\nAlexa Brucculeri\n, Danis and O'Neal each contributed kills down the stretch. O'Neal accounted for each of the Ducks' final three kills, including back-to-back to close out the 25-17 frame.\n\nStevens carried the momentum into the fourth, jumping out to a 7-2 advantage behind kills from McNeill, Boland, Tarolli and Bolduc. Swarthmore answered with five straight points to pull even at seven, but the Ducks responded with four consecutive markers of their own. Stevens later used another four-point run, highlighted by a McNeill kill and a Sturt service ace, to extend its advantage to 15-8. The Garnet never pulled closer than four the rest of the way as Bolduc and Boland combined for four kills late in the frame. Brucculeri put Stevens at match point with a kill before a Swarthmore attack error finished off the 25-18 victory.\n\nINSIDE THE BOX SCORE\n- Danis led the Ducks against Kean with 17 kills on 42 attacks, hitting .262 while adding five digs and two block assists.\n- O'Neal added 15 kills and nine digs, while Boland and Tarolli each finished with nine kills. Tarolli hit .333 on 18 swings.\n- Brucculeri handed out 37 assists while recording 14 digs as Sturt paced the defense with 17 digs and also served five aces.\n- O'Neal led Stevens in the nightcap with 18 kills and 11 digs, while Bolduc added 12 kills and hit .360 in three sets.\n- Boland totaled nine kills without an attack error on 18 attempts for a .500 hitting percentage and added four block assists.\n- Brucculeri recorded 42 assists and nine digs, while Sturt finished with a match-high 19 digs and three service aces.\nUP NEXT\nThe Ducks open Middle Atlantic Conference Freedom action on Tuesday, as they host Delaware Valley University at 7:00 pm inside Canavan Arena.",
-      "content_html": "<html>\n  <body><div class=\"sidearm-story-template-text\">        \n                                        \n                    \n                    \n                    Hoboken, N.J.<p> – The Stevens Institute of Technology women's volleyball team picked up a pair of victories Saturday inside Canavan Arena, defeating Kean University and Swarthmore College in four sets to extend its winning streak to five matches.\n </p><p>\nThe Ducks (5-1) opened the day with a 3-1 victory over Kean, winning 29-27, 25-20, 20-25, 25-17, before rallying past Swarthmore 21-25, 25-22, 25-17, 25-18 in the nightcap. In the middle match, Swarthmore took down Kean in straight sets.\n\n</p>HOW IT HAPPENED (Vs. Kean)<p>\nStevens raced out to a 6-1 advantage in the opening set, with </p>Julianne Danis<p> recording three kills while </p>Cadence Sturt<p> served three aces during the early run. Kean gradually worked its way back into the frame and pulled even at 13 before Stevens answered to build a 20-15 advantage. The Cougars responded again, using an 8-3 run to knot the score at 23. The sides traded points from there, with </p>Eva Tarolli<p> delivering consecutive kills to give Stevens a 25-24 edge. Kean twice fought off set point before Danis put the Ducks ahead 26-25. After the teams exchanged the next four points, </p>Ella Boland<p> broke a 27-27 tie with a kill before a Kean attack error gave Stevens the 29-27 victory.\n </p><p>\nThe Ducks carried the momentum into the second, breaking a 1-1 tie with four straight points to move ahead 5-1. Boland contributed a kill during the stretch while </p>Kileen McNeill<p> teamed up for a pair of blocks. Stevens maintained control throughout the frame and extended the advantage to 14-8 following consecutive Kean attack errors. The Cougars pulled within three at 17-14, but Stevens answered behind kills from Danis and </p>Alyssa O'Neal<p>. O'Neal later pushed the margin to 21-16 before Boland put away the final kill for the 25-20 victory.\n </p><p>\nKean responded in the third set, using a 4-0 run to turn a 5-3 Stevens advantage into a 7-5 lead. The Ducks pulled even at 12, but the Cougars scored six of the next eight points to build an 18-14 advantage. Stevens cut the deficit to three twice, including 20-17 on a Tarolli kill, but Kean answered and eventually closed the frame 25-20.\n </p><p>\nThe fourth set featured three early ties before Stevens began to create separation, using five straight points, including three consecutive attack errors, to open a 7-4 lead. Deadlocked at seven, Danis delivered a kill before </p>Ella Kraver<p> followed with a service ace. Sturt later recorded an ace and O'Neal added a kill as the Ducks extended their advantage to 13-8. Kean battled back within one at 13-12, but Stevens answered with four of the next five points. Leading 18-14, the Ducks put the match away with a five-point run as Danis and Tarolli combined on a block before Tarolli added a kill. Boland and Tarolli teamed up for another block to reach match point before Tarolli closed the contest with a kill for the 25-17 victory.\n \n</p>Vs. Swarthmore<p>\nSwarthmore took the opening set after the two sides battled through 11 ties. Stevens held an 8-5 advantage following back-to-back service aces from Boland, but the Garnet responded with five straight points. The Ducks eventually pulled even at 17 on a kill from Boland before Swarthmore answered with five consecutive markers to take a 22-17 advantage. Stevens trimmed the deficit to 24-21 on an O'Neal kill, but the Garnet closed out the frame on the ensuing point.\n </p><p>\nStevens began to find its rhythm in the second set as </p>Sarah Bolduc<p> provided an immediate spark with three early kills. The teams remained within two points of one another for much of the frame before the Ducks broke a 14-14 deadlock. O'Neal put away a pair of kills during a stretch that pushed Stevens in front 18-15 before McNeill's kill and consecutive Swarthmore attack errors (with a solo block from Bolduc and a tandem rejection from Boland and McNeill) extended the advantage to 21-17. Bolduc later recorded kills to give the Ducks their 22nd and 24th points before a Swarthmore service error secured the 25-22 win.\n </p><p>\nThe Ducks took control midway through the third frame. With Stevens leading 9-8, the Ducks reeled off five straight points behind an O'Neal service ace, a kill from Boland and a pair of blocks involving McNeill. Swarthmore cut the margin to four at 16-12, but Stevens maintained its cushion as Bolduc, </p>Alexa Brucculeri<p>, Danis and O'Neal each contributed kills down the stretch. O'Neal accounted for each of the Ducks' final three kills, including back-to-back to close out the 25-17 frame.\n </p><p>\nStevens carried the momentum into the fourth, jumping out to a 7-2 advantage behind kills from McNeill, Boland, Tarolli and Bolduc. Swarthmore answered with five straight points to pull even at seven, but the Ducks responded with four consecutive markers of their own. Stevens later used another four-point run, highlighted by a McNeill kill and a Sturt service ace, to extend its advantage to 15-8. The Garnet never pulled closer than four the rest of the way as Bolduc and Boland combined for four kills late in the frame. Brucculeri put Stevens at match point with a kill before a Swarthmore attack error finished off the 25-18 victory.\n \n</p>INSIDE THE BOX SCORE\n\n<ul>\n\t<li>Danis led the Ducks against Kean with 17 kills on 42 attacks, hitting .262 while adding five digs and two block assists. </li>\n\t<li>O'Neal added 15 kills and nine digs, while Boland and Tarolli each finished with nine kills. Tarolli hit .333 on 18 swings. </li>\n\t<li>Brucculeri handed out 37 assists while recording 14 digs as Sturt paced the defense with 17 digs and also served five aces.</li>\n\t<li>O'Neal led Stevens in the nightcap with 18 kills and 11 digs, while Bolduc added 12 kills and hit .360 in three sets. </li>\n\t<li>Boland totaled nine kills without an attack error on 18 attempts for a .500 hitting percentage and added four block assists. </li>\n\t<li>Brucculeri recorded 42 assists and nine digs, while Sturt finished with a match-high 19 digs and three service aces.</li>\n</ul>\nUP NEXT<p>\nThe Ducks open Middle Atlantic Conference Freedom action on Tuesday, as they host Delaware Valley University at 7:00 pm inside Canavan Arena.\n\n\n </p>\n\n                </div> \n                \n                </body>\n</html>",
-      "word_count": 1020,
-      "char_count": 5970,
-      "lead_image": "https://stevensducks.com/images/2026/9/12/wvb_celly.png",
-      "images": [
-        {
-          "url": "https://stevensducks.com/images/2026/9/12/wvb_celly.png",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-12T23:41:01Z"
-    },
-    {
-      "id": "14e0ace9b89dcdff",
-      "title": "2026 Cup Series lineup for World Wide Technology Raceway at Gateway",
-      "header": "NASCAR.com",
-      "published_at": "2026-09-12T22:37:39Z",
-      "published_raw": "Sat, 12 Sep 2026 22:37:39 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM2lhbXFILWx5aG5TX0c5TkJHdU1tQ1M5UHE0UmJRY0NURWJURWNWZkI5SnBJZ0VzR2NvSDJSTUJkMzU5Y1hTQlJkWmZ1RlFDWWwyeDNiQXZ4RFFuY1pEbzdlVlpXWWQ1RnNqSk1rcVVaY3RqM0Qwbm9yX3JGcTJSVlY3WVRDSmQzWkZsUEZlcXBibWJHaWRvVE9rMllURVlXT21NVWZBa1VpYmMxbTl6cFAtSdIBuAFBVV95cUxNbFNpa1N1X1ZrNk9xczZUV3hiWi0wWnozUUFuTmN0c3FTQ3NTUXVtRFA2WFlFMTk1bWlpZElZbW5RWWg0d2twN09sZm45WkcwdkVlWEt0ai04OElpSnNCLTRUdk1VdjE5UE5wbE81UVZ0QkMwMTBIOUwtUTR5d09hMmppZ015Wm1ybHVfcXdNTTlHby1TYTB3M1Y1MzFDLUlXc2V4ZlcwZUlUejEwbzNPV3hfQVdGYXBf?oc=5",
-      "description": "2026 Cup Series lineup for World Wide Technology Raceway at Gateway NASCAR.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOM2lhbXFILWx5aG5TX0c5TkJHdU1tQ1M5UHE0UmJRY0NURWJURWNWZkI5SnBJZ0VzR2NvSDJSTUJkMzU5Y1hTQlJkWmZ1RlFDWWwyeDNiQXZ4RFFuY1pEbzdlVlpXWWQ1RnNqSk1rcVVaY3RqM0Qwbm9yX3JGcTJSVlY3WVRDSmQzWkZsUEZlcXBibWJHaWRvVE9rMllURVlXT21NVWZBa1VpYmMxbTl6cFAtSdIBuAFBVV95cUxNbFNpa1N1X1ZrNk9xczZUV3hiWi0wWnozUUFuTmN0c3FTQ3NTUXVtRFA2WFlFMTk1bWlpZElZbW5RWWg0d2twN09sZm45WkcwdkVlWEt0ai04OElpSnNCLTRUdk1VdjE5UE5wbE81UVZ0QkMwMTBIOUwtUTR5d09hMmppZ015Wm1ybHVfcXdNTTlHby1TYTB3M1Y1MzFDLUlXc2V4ZlcwZUlUejEwbzNPV3hfQVdGYXBf?oc=5\" target=\"_blank\">2026 Cup Series lineup for World Wide Technology Raceway at Gateway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NASCAR.com</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM2lhbXFILWx5aG5TX0c5TkJHdU1tQ1M5UHE0UmJRY0NURWJURWNWZkI5SnBJZ0VzR2NvSDJSTUJkMzU5Y1hTQlJkWmZ1RlFDWWwyeDNiQXZ4RFFuY1pEbzdlVlpXWWQ1RnNqSk1rcVVaY3RqM0Qwbm9yX3JGcTJSVlY3WVRDSmQzWkZsUEZlcXBibWJHaWRvVE9rMllURVlXT21NVWZBa1VpYmMxbTl6cFAtSdIBuAFBVV95cUxNbFNpa1N1X1ZrNk9xczZUV3hiWi0wWnozUUFuTmN0c3FTQ3NTUXVtRFA2WFlFMTk1bWlpZElZbW5RWWg0d2twN09sZm45WkcwdkVlWEt0ai04OElpSnNCLTRUdk1VdjE5UE5wbE81UVZ0QkMwMTBIOUwtUTR5d09hMmppZ015Wm1ybHVfcXdNTTlHby1TYTB3M1Y1MzFDLUlXc2V4ZlcwZUlUejEwbzNPV3hfQVdGYXBf?oc=5"
-      ],
-      "scraped_at": "2026-09-13T07:57:37Z",
-      "url": "https://www.nascar.com/news-media/2026/09/12/2026-cup-series-lineup-for-world-wide-technology-raceway-at-gateway/",
-      "final_url": "https://www.nascar.com/news-media/2026/09/12/2026-cup-series-lineup-for-world-wide-technology-raceway-at-gateway/",
-      "source": "Official Site Of NASCAR",
-      "article_title": "2026 Cup Series lineup for World Wide Technology Raceway at Gateway",
-      "heading": "2026 Cup Series lineup for World Wide Technology Raceway at Gateway",
-      "authors": [
-        "Staff Report"
-      ],
-      "article_published_at": "2026-09-12T22:34:15+00:00",
-      "article_modified_at": "2026-09-12T22:42:27+00:00",
-      "summary": "See the full lineup for Sunday's NASCAR Cup Series Enjoy Illinois 300 at World Wide Technology Raceway at Gateway (3 p.m. ET, USA).",
-      "content": "See the full lineup for Sunday’s NASCAR Cup Series Enjoy Illinois 300 at World Wide Technology Raceway at Gateway (3 p.m. ET, USA Network, HBO Max, MRN Radio, SiriusXM NASCAR Radio). It’s the second of 10 races in The Chase presented by Mobil 1. Team Penske’s Joey Logano is on the pole.\n| POSITION | NUMBER | DRIVER | TIME (SECONDS) |\n|---|---|---|---|\n| 1 | 22 | Joey Logano (C) | 32.817 |\n| 2 | 5 | Kyle Larson (C) | 33.093 |\n| 3 | 12 | Ryan Blaney (C) | 33.113 |\n| 4 | 20 | Christopher Bell (C) | 33.145 |\n| 5 | 19 | Chase Briscoe (C) | 33.199 |\n| 6 | 77 | Carson Hocevar (C) | 33.236 |\n| 7 | 23 | Bubba Wallace (C) | 33.246 |\n| 8 | 9 | Chase Elliott (C) | 33.259 |\n| 9 | 54 | Ty Gibbs (C) | 33.261 |\n| 10 | 11 | Denny Hamlin (C) | 33.312 |\n| 11 | 48 | Alex Bowman | 33.407 |\n| 12 | 38 | Zane Smith | 33.420 |\n| 13 | 2 | Austin Cindric (C) | 33.441 |\n| 14 | 60 | Ryan Preece (C) | 33.487 |\n| 15 | 7 | Daniel Suárez (C) | 33.492 |\n| 16 | 21 | Josh Berry | 33.503 |\n| 17 | 16 | AJ Allmendinger | 33.547 |\n| 18 | 45 | Tyler Reddick (C) | 33.557 |\n| 19 | 88 | Connor Zilisch # | 33.572 |\n| 20 | 1 | Ross Chastain | 33.583 |\n| 21 | 17 | Chris Buescher (C) | 33.607 |\n| 22 | 3 | Austin Dillon | 33.624 |\n| 23 | 6 | Brad Keselowski | 33.689 |\n| 24 | 24 | William Byron (C) | 33.700 |\n| 25 | 43 | Erik Jones | 33.713 |\n| 26 | 41 | Cole Custer | 33.725 |\n| 27 | 33 | Austin Hill (i) | 33.768 |\n| 28 | 42 | John Hunter Nemechek | 33.810 |\n| 29 | 71 | Michael McDowell | 33.878 |\n| 30 | 51 | Cody Ware | 33.926 |\n| 31 | 4 | Noah Gragson | 33.934 |\n| 32 | 10 | Ty Dillon | 33.943 |\n| 33 | 35 | Riley Herbst | 34.062 |\n| 34 | 34 | Todd Gilliland | 34.065 |\n| 35 | 97 | Shane van Gisbergen | 34.186 |\n| 36 | 47 | Ricky Stenhouse Jr. | 34.215 |\n(C) denotes Chase driver\n(i) denotes ineligible for driver points\n# denotes series rookie",
-      "content_html": "<html>\n  <body>\n    <p>See the full lineup for Sunday’s NASCAR Cup Series Enjoy Illinois 300 at World Wide Technology Raceway at Gateway (3 p.m. ET, USA Network, HBO Max, MRN Radio, SiriusXM NASCAR Radio). It’s the second of 10 races in The Chase presented by Mobil 1. Team Penske’s Joey Logano is on the pole.</p>\n    <table>\n      <tr>\n        <th>POSITION</th>\n        <th>NUMBER</th>\n        <th>DRIVER</th>\n        <th>TIME (SECONDS)</th>\n      </tr>\n      <tr>\n        <td>1</td>\n        <td>22</td>\n        <td>Joey Logano (C)</td>\n        <td>32.817</td>\n      </tr>\n      <tr>\n        <td>2</td>\n        <td>5</td>\n        <td>Kyle Larson (C)</td>\n        <td>33.093</td>\n      </tr>\n      <tr>\n        <td>3</td>\n        <td>12</td>\n        <td>Ryan Blaney (C)</td>\n        <td>33.113</td>\n      </tr>\n      <tr>\n        <td>4</td>\n        <td>20</td>\n        <td>Christopher Bell (C)</td>\n        <td>33.145</td>\n      </tr>\n      <tr>\n        <td>5</td>\n        <td>19</td>\n        <td>Chase Briscoe (C)</td>\n        <td>33.199</td>\n      </tr>\n      <tr>\n        <td>6</td>\n        <td>77</td>\n        <td>Carson Hocevar (C)</td>\n        <td>33.236</td>\n      </tr>\n      <tr>\n        <td>7</td>\n        <td>23</td>\n        <td>Bubba Wallace (C)</td>\n        <td>33.246</td>\n      </tr>\n      <tr>\n        <td>8</td>\n        <td>9</td>\n        <td>Chase Elliott (C)</td>\n        <td>33.259</td>\n      </tr>\n      <tr>\n        <td>9</td>\n        <td>54</td>\n        <td>Ty Gibbs (C)</td>\n        <td>33.261</td>\n      </tr>\n      <tr>\n        <td>10</td>\n        <td>11</td>\n        <td>Denny Hamlin (C)</td>\n        <td>33.312</td>\n      </tr>\n      <tr>\n        <td>11</td>\n        <td>48</td>\n        <td>Alex Bowman</td>\n        <td>33.407</td>\n      </tr>\n      <tr>\n        <td>12</td>\n        <td>38</td>\n        <td>Zane Smith</td>\n        <td>33.420</td>\n      </tr>\n      <tr>\n        <td>13</td>\n        <td>2</td>\n        <td>Austin Cindric (C)</td>\n        <td>33.441</td>\n      </tr>\n      <tr>\n        <td>14</td>\n        <td>60</td>\n        <td>Ryan Preece (C)</td>\n        <td>33.487</td>\n      </tr>\n      <tr>\n        <td>15</td>\n        <td>7</td>\n        <td>Daniel Suárez (C)</td>\n        <td>33.492</td>\n      </tr>\n      <tr>\n        <td>16</td>\n        <td>21</td>\n        <td>Josh Berry</td>\n        <td>33.503</td>\n      </tr>\n      <tr>\n        <td>17</td>\n        <td>16</td>\n        <td>AJ Allmendinger</td>\n        <td>33.547</td>\n      </tr>\n      <tr>\n        <td>18</td>\n        <td>45</td>\n        <td>Tyler Reddick (C)</td>\n        <td>33.557</td>\n      </tr>\n      <tr>\n        <td>19</td>\n        <td>88</td>\n        <td>Connor Zilisch #</td>\n        <td>33.572</td>\n      </tr>\n      <tr>\n        <td>20</td>\n        <td>1</td>\n        <td>Ross Chastain</td>\n        <td>33.583</td>\n      </tr>\n      <tr>\n        <td>21</td>\n        <td>17</td>\n        <td>Chris Buescher (C)</td>\n        <td>33.607</td>\n      </tr>\n      <tr>\n        <td>22</td>\n        <td>3</td>\n        <td>Austin Dillon</td>\n        <td>33.624</td>\n      </tr>\n      <tr>\n        <td>23</td>\n        <td>6</td>\n        <td>Brad Keselowski</td>\n        <td>33.689</td>\n      </tr>\n      <tr>\n        <td>24</td>\n        <td>24</td>\n        <td>William Byron (C)</td>\n        <td>33.700</td>\n      </tr>\n      <tr>\n        <td>25</td>\n        <td>43</td>\n        <td>Erik Jones</td>\n        <td>33.713</td>\n      </tr>\n      <tr>\n        <td>26</td>\n        <td>41</td>\n        <td>Cole Custer</td>\n        <td>33.725</td>\n      </tr>\n      <tr>\n        <td>27</td>\n        <td>33</td>\n        <td>Austin Hill (i)</td>\n        <td>33.768</td>\n      </tr>\n      <tr>\n        <td>28</td>\n        <td>42</td>\n        <td>John Hunter Nemechek</td>\n        <td>33.810</td>\n      </tr>\n      <tr>\n        <td>29</td>\n        <td>71</td>\n        <td>Michael McDowell</td>\n        <td>33.878</td>\n      </tr>\n      <tr>\n        <td>30</td>\n        <td>51</td>\n        <td>Cody Ware</td>\n        <td>33.926</td>\n      </tr>\n      <tr>\n        <td>31</td>\n        <td>4</td>\n        <td>Noah Gragson</td>\n        <td>33.934</td>\n      </tr>\n      <tr>\n        <td>32</td>\n        <td>10</td>\n        <td>Ty Dillon</td>\n        <td>33.943</td>\n      </tr>\n      <tr>\n        <td>33</td>\n        <td>35</td>\n        <td>Riley Herbst</td>\n        <td>34.062</td>\n      </tr>\n      <tr>\n        <td>34</td>\n        <td>34</td>\n        <td>Todd Gilliland</td>\n        <td>34.065</td>\n      </tr>\n      <tr>\n        <td>35</td>\n        <td>97</td>\n        <td>Shane van Gisbergen</td>\n        <td>34.186</td>\n      </tr>\n      <tr>\n        <td>36</td>\n        <td>47</td>\n        <td>Ricky Stenhouse Jr.</td>\n        <td>34.215</td>\n      </tr>\n    </table>\n    <p>(C) denotes Chase driver<br/>\n(i) denotes ineligible for driver points<br/>\n# denotes series rookie</p>\n  </body>\n</html>",
-      "word_count": 458,
-      "char_count": 1823,
-      "lead_image": "https://www.nascar.com/wp-content/uploads/sites/7/2026/09/12/sept-12-ncs-logano-gateway-pole-672x372.jpg",
-      "images": [
-        {
-          "url": "https://www.nascar.com/wp-content/uploads/sites/7/2026/09/12/sept-12-ncs-logano-gateway-pole-672x372.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-13T07:57:37Z"
-    },
-    {
-      "id": "aeb4bbcf566c3aa5",
-      "title": "Visualizing Pete Alonso's swing using bat tracking technology",
-      "header": "MLB.com",
-      "published_at": "2026-09-12T21:50:07Z",
-      "published_raw": "Sat, 12 Sep 2026 21:50:07 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYkVfanZRMW5OUUxfYlZOMGpqbXhVMHlBTjRWR0g1SjZrOGY3TlNkUmRjUG5TYWZGNC1BVVNQd1pYTU5GYjd3QXdmcFM5SVRwWHU5SFNHLTJ2LVR5bTlQUkx5cU5hdnRwcGk0T0t5WU1oVFVxM0VmR2lUWHlneU5wTC1kdHl2RGJ0YVJ1QXBKZy1vYXdxSUdWSFRTaHFpeHZRdWxF?oc=5",
-      "description": "Visualizing Pete Alonso's swing using bat tracking technology MLB.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQYkVfanZRMW5OUUxfYlZOMGpqbXhVMHlBTjRWR0g1SjZrOGY3TlNkUmRjUG5TYWZGNC1BVVNQd1pYTU5GYjd3QXdmcFM5SVRwWHU5SFNHLTJ2LVR5bTlQUkx5cU5hdnRwcGk0T0t5WU1oVFVxM0VmR2lUWHlneU5wTC1kdHl2RGJ0YVJ1QXBKZy1vYXdxSUdWSFRTaHFpeHZRdWxF?oc=5\" target=\"_blank\">Visualizing Pete Alonso's swing using bat tracking technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLB.com</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYkVfanZRMW5OUUxfYlZOMGpqbXhVMHlBTjRWR0g1SjZrOGY3TlNkUmRjUG5TYWZGNC1BVVNQd1pYTU5GYjd3QXdmcFM5SVRwWHU5SFNHLTJ2LVR5bTlQUkx5cU5hdnRwcGk0T0t5WU1oVFVxM0VmR2lUWHlneU5wTC1kdHl2RGJ0YVJ1QXBKZy1vYXdxSUdWSFRTaHFpeHZRdWxF?oc=5"
-      ],
-      "scraped_at": "2026-09-12T23:41:01Z",
-      "url": "https://www.mlb.com/orioles/video/visualizing-pete-alonso-s-swing-using-bat-tracking-technology-x8048",
-      "final_url": "https://www.mlb.com/orioles/video/visualizing-pete-alonso-s-swing-using-bat-tracking-technology-x8048",
-      "source": "MLB.com",
-      "article_title": "Visualizing Pete Alonso's swing using bat tracking technology | 09/12/2026",
-      "heading": "Visualizing Pete Alonso's swing using bat tracking technology",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "The data behind Pete Alonso's swing",
-      "content": "Tickets\nSingle Game Tickets\nTicket Plans\nPromotions and Gate Giveaways\nPostseason Ticket Information\nSpecial Ticket Packages\nFriday Birdland Student Pass\nTower Bird Bath\neGift Cards\nGOVX Military & First Responder Offer\nTruist Club\nO's Ultimate Experience\nSuites and Party Facilities\nThe Home Plate Club\nGroup Tickets\nMy Orioles Tickets\nSeatGeek\nSchedule\n2026 Regular Season Schedule\n2026 Sortable Schedule\n2026 Downloadable Schedule\nPrintable Schedule\nBroadcast Schedule\n2027 Regular Season Schedule\n2027 Spring Training Schedule\n2027 Sortable Schedule\nBroadcast Affiliates\nMLB Events\nStats\nTeam Stats\nTop Prospect Stats\nRoster\n40-Man Roster\nNon-Roster Invitees\nCoaches\nTransactions\nInjury Updates\nOrioles Minor Leagues\nFront Office\nBroadcasters\nStarting Lineups\nPlayer Search\nTop 30 Prospects\nDraft Results\nScores\nVideo\nOrioles Videos\nGame Highlights\nNews Conferences\nOrioles Draft\nHistoric O's Moments\nCommunity Highlights\nOrioles Reviews\nMLB Network\nNews\nOfficial Releases\nProbable Pitchers\nGame Notes\nOrioles Pipeline\nOrioles History Feature Stories\nMLB News\nBirdland Insider\nSarasota\nEd Smith Stadium\nEd Smith Stadium A-Z Guide\nNew Sarasota Complex\nSarasota Birdland Community Heroes\nArts in the Ballpark\nMy Sarasota Tickets\nBallpark Upgrades\nOriole Park\nParking, Directions, & Transportation\nSeating Map\nO's Pay\nOrioles Team Store\nOriole Park Ballpark Upgrades\nBirdland Murals\nGo Green Initiatives\nEutaw Street\nBallpark A-to-Z Guide\nWalk-Up Music Playlist\nAccessibility Guide\nOriole Park Food Guide\nOriole Park Non-Gameday Events & Hospitality\nConcourse Map\nOriole Park Ground Rules\nCommunity\nMovie Night\nCharitable Fund\nBirdland Community Heroes\nHarlem Park Elementary Middle School\nOrioles 50/50 Raffle\nCharity Auctions\nCommunity Ticket Grants\nIn-Kind Donations\nLicense Plates\nMilitary Programs\nRBI Program\nYouth Baseball and Softball\nSarasota Programs\nMLB Together\nFans\nFan Appreciation Weekend\nCity Connect: Stoop to the Yard\nCity Connect Events\nO’s Kids\nBerks Live Hot Dog Race\nRegister For Orioles Emails\nRegister For Text Alerts\nSocial Media\nOriole Bird\nOrioles History\nAuthentics\nScoreboard Surprises\n2026 Orioles Draft Guide\nStandings\nApps\nMLB\nMLB Ballpark\nMLB Play\nMiLB\nMLB FAQs\nMLB Ballpark FAQs\nMLB Play FAQs\nMemberships\nMy Orioles Tickets\nBirdland Rewards\nBirdland Membership A-to-Z Guide\nMembers-Only News\nMLB.TV\nBuy MLB.TV\nBuy MASN+\nBuy MLB+\nWatch & Listen\nHelp Center\nShop\nJerseys\nCaps\nMen's\nWomen's\nKid's\nBig & Tall\nTrading Cards\nCollectibles & Memorabilia\nHome & Office\nClearance\nEuropean Shop\nGift Certificates\nOrioles Auctions - Bid or Buy\nMLB Auctions - Bid or Buy\nMLB Authentication\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nEspañol\nLog in\nChannels\nReels\nVisualizing Pete Alonso's swing using bat tracking technology\nOrioles @ Blue Jays\nSeptember 12, 2026 | 00:00:11\nReels\nShare\nThe data behind Pete Alonso's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nPete Alonso\nBaltimore Orioles",
-      "content_html": "<html>\n  <body>\n    <p>Tickets\nSingle Game Tickets\nTicket Plans\nPromotions and Gate Giveaways\nPostseason Ticket Information\nSpecial Ticket Packages\nFriday Birdland Student Pass\nTower Bird Bath\neGift Cards\nGOVX Military &amp; First Responder Offer\nTruist Club\nO's Ultimate Experience\nSuites and Party Facilities\nThe Home Plate Club\nGroup Tickets\nMy Orioles Tickets\nSeatGeek\nSchedule\n2026 Regular Season Schedule\n2026 Sortable Schedule\n2026 Downloadable Schedule\nPrintable Schedule\nBroadcast Schedule\n2027 Regular Season Schedule\n2027 Spring Training Schedule\n2027 Sortable Schedule\nBroadcast Affiliates\nMLB Events\nStats\nTeam Stats\nTop Prospect Stats\nRoster\n40-Man Roster\nNon-Roster Invitees\nCoaches\nTransactions\nInjury Updates\nOrioles Minor Leagues\nFront Office\nBroadcasters\nStarting Lineups\nPlayer Search\nTop 30 Prospects\nDraft Results\nScores\nVideo\nOrioles Videos\nGame Highlights\nNews Conferences\nOrioles Draft\nHistoric O's Moments\nCommunity Highlights\nOrioles Reviews\nMLB Network\nNews\nOfficial Releases\nProbable Pitchers\nGame Notes\nOrioles Pipeline\nOrioles History Feature Stories\nMLB News\nBirdland Insider\nSarasota\nEd Smith Stadium\nEd Smith Stadium A-Z Guide\nNew Sarasota Complex\nSarasota Birdland Community Heroes\nArts in the Ballpark\nMy Sarasota Tickets\nBallpark Upgrades\nOriole Park\nParking, Directions, &amp; Transportation\nSeating Map\nO's Pay\nOrioles Team Store\nOriole Park Ballpark Upgrades\nBirdland Murals\nGo Green Initiatives\nEutaw Street\nBallpark A-to-Z Guide\nWalk-Up Music Playlist\nAccessibility Guide\nOriole Park Food Guide\nOriole Park Non-Gameday Events &amp; Hospitality\nConcourse Map\nOriole Park Ground Rules\nCommunity\nMovie Night\nCharitable Fund\nBirdland Community Heroes\nHarlem Park Elementary Middle School\nOrioles 50/50 Raffle\nCharity Auctions\nCommunity Ticket Grants\nIn-Kind Donations\nLicense Plates\nMilitary Programs\nRBI Program\nYouth Baseball and Softball\nSarasota Programs\nMLB Together\nFans\nFan Appreciation Weekend\nCity Connect: Stoop to the Yard\nCity Connect Events\nO’s Kids\nBerks Live Hot Dog Race\nRegister For Orioles Emails\nRegister For Text Alerts\nSocial Media\nOriole Bird\nOrioles History\nAuthentics\nScoreboard Surprises\n2026 Orioles Draft Guide\nStandings\nApps\nMLB\nMLB Ballpark\nMLB Play\nMiLB\nMLB FAQs\nMLB Ballpark FAQs\nMLB Play FAQs\nMemberships\nMy Orioles Tickets\nBirdland Rewards\nBirdland Membership A-to-Z Guide\nMembers-Only News\nMLB.TV\nBuy MLB.TV\nBuy MASN+\nBuy MLB+\nWatch &amp; Listen\nHelp Center\nShop\nJerseys\nCaps\nMen's\nWomen's\nKid's\nBig &amp; Tall\nTrading Cards\nCollectibles &amp; Memorabilia\nHome &amp; Office\nClearance\nEuropean Shop\nGift Certificates\nOrioles Auctions - Bid or Buy\nMLB Auctions - Bid or Buy\nMLB Authentication\nTeams\nAL East\nBaltimore Orioles\nBaltimore\nBoston Red Sox\nBoston\nNew York Yankees\nNY Yankees\nTampa Bay Rays\nTampa Bay\nToronto Blue Jays\nToronto\nAL Central\nChicago White Sox\nChi White Sox\nCleveland Guardians\nCleveland\nDetroit Tigers\nDetroit\nKansas City Royals\nKansas City\nMinnesota Twins\nMinnesota\nAL West\nAthletics\nAthletics\nHouston Astros\nHouston\nLos Angeles Angels\nLA Angels\nSeattle Mariners\nSeattle\nTexas Rangers\nTexas\nNL East\nAtlanta Braves\nAtlanta\nMiami Marlins\nMiami\nNew York Mets\nNY Mets\nPhiladelphia Phillies\nPhiladelphia\nWashington Nationals\nWashington\nNL Central\nChicago Cubs\nChi Cubs\nCincinnati Reds\nCincinnati\nMilwaukee Brewers\nMilwaukee\nPittsburgh Pirates\nPittsburgh\nSt. Louis Cardinals\nSt. Louis\nNL West\nArizona Diamondbacks\nArizona\nColorado Rockies\nColorado\nLos Angeles Dodgers\nLA Dodgers\nSan Diego Padres\nSan Diego\nSan Francisco Giants\nSan Francisco\nEspañol\nLog in\nChannels\nReels\nVisualizing Pete Alonso's swing using bat tracking technology\nOrioles @ Blue Jays\nSeptember 12, 2026 | 00:00:11\nReels\nShare\nThe data behind Pete Alonso's swing\ndata visualization\nIn-game data visualization\nMore From This Game\nPete Alonso\nBaltimore Orioles</p>\n  </body>\n</html>",
-      "word_count": 542,
-      "char_count": 3762,
-      "lead_image": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/yyiwtsj0hqpk0y6qpq75",
-      "images": [
-        {
-          "url": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/yyiwtsj0hqpk0y6qpq75",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-12T23:41:01Z"
     }
   ]
 }
