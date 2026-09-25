@@ -1,17 +1,141 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-24T23:44:23Z",
+  "generated_at": "2026-09-25T03:13:20Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 15,
-    "added": 11,
-    "updated": 4,
+    "scraped_now": 9,
+    "added": 3,
+    "updated": 6,
     "ok": 359,
     "failed": 141,
-    "duration_seconds": 3.34
+    "duration_seconds": 2.49
   },
   "articles": [
+    {
+      "id": "f41a5589480bae69",
+      "title": "Can Tech Companies Like Google Really Put Data Centers in Space?",
+      "header": "The New York Times",
+      "published_at": "2026-09-25T01:12:39Z",
+      "published_raw": "Fri, 25 Sep 2026 01:12:39 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVm80OWZfMS1zZ1VWcXBacFdVcmRERlpmekdSYXZtRkNDTWtBZktNZnBHZksyM1ZLbmoxYmk1aXR0T2ZSZnNBSU5iUVFvSXp2cUlLMEY4bFJidVRhLW9IMkFtUFNIRFhKNlJmRVFpd0QxU0l1MUtfWWtMVG5pR2FFLUprR01paGc?oc=5",
+      "description": "Can Tech Companies Like Google Really Put Data Centers in Space? The New York Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPVm80OWZfMS1zZ1VWcXBacFdVcmRERlpmekdSYXZtRkNDTWtBZktNZnBHZksyM1ZLbmoxYmk1aXR0T2ZSZnNBSU5iUVFvSXp2cUlLMEY4bFJidVRhLW9IMkFtUFNIRFhKNlJmRVFpd0QxU0l1MUtfWWtMVG5pR2FFLUprR01paGc?oc=5\" target=\"_blank\">Can Tech Companies Like Google Really Put Data Centers in Space?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVm80OWZfMS1zZ1VWcXBacFdVcmRERlpmekdSYXZtRkNDTWtBZktNZnBHZksyM1ZLbmoxYmk1aXR0T2ZSZnNBSU5iUVFvSXp2cUlLMEY4bFJidVRhLW9IMkFtUFNIRFhKNlJmRVFpd0QxU0l1MUtfWWtMVG5pR2FFLUprR01paGc?oc=5"
+      ],
+      "scraped_at": "2026-09-25T03:13:19Z",
+      "url": "https://www.nytimes.com/2026/09/24/technology/data-centers-in-space-science.html",
+      "final_url": "https://www.nytimes.com/2026/09/24/technology/data-centers-in-space-science.html",
+      "source": "The New York Times",
+      "article_title": "",
+      "heading": "Can Tech Companies Like Google Really Put Data Centers in Space?",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Can Tech Companies Like Google Really Put Data Centers in Space? The New York Times",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-25T03:13:19Z"
+    },
+    {
+      "id": "4ddeb25b4e2a423f",
+      "title": "Meta Unveils AI Gadgets Including Tamagotchi-Like Pendant amid Growing Concerns Over the Technology",
+      "header": "People.com",
+      "published_at": "2026-09-25T01:02:00Z",
+      "published_raw": "Fri, 25 Sep 2026 01:02:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSWwxU05MVUwwUEZBY29VeVVrYUNfQXpKa2puTFZNTU5BXzVmeUQ1cjBNeTBqQzZPUjJnUlExS3R2LWVTSFN1TzdqNlZzWG1XS1REYjdMalh3SnB0alR1NnZkUzJlM0dwX1F0S0JqeUVGb01TbzRzNmtGQ2lacEdjQjRvX3ozNDFwdzV1dTIwV1lkWEM5QnMwNWxtZ3E?oc=5",
+      "description": "Meta Unveils AI Gadgets Including Tamagotchi-Like Pendant amid Growing Concerns Over the Technology People.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOSWwxU05MVUwwUEZBY29VeVVrYUNfQXpKa2puTFZNTU5BXzVmeUQ1cjBNeTBqQzZPUjJnUlExS3R2LWVTSFN1TzdqNlZzWG1XS1REYjdMalh3SnB0alR1NnZkUzJlM0dwX1F0S0JqeUVGb01TbzRzNmtGQ2lacEdjQjRvX3ozNDFwdzV1dTIwV1lkWEM5QnMwNWxtZ3E?oc=5\" target=\"_blank\">Meta Unveils AI Gadgets Including Tamagotchi-Like Pendant amid Growing Concerns Over the Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSWwxU05MVUwwUEZBY29VeVVrYUNfQXpKa2puTFZNTU5BXzVmeUQ1cjBNeTBqQzZPUjJnUlExS3R2LWVTSFN1TzdqNlZzWG1XS1REYjdMalh3SnB0alR1NnZkUzJlM0dwX1F0S0JqeUVGb01TbzRzNmtGQ2lacEdjQjRvX3ozNDFwdzV1dTIwV1lkWEM5QnMwNWxtZ3E?oc=5"
+      ],
+      "scraped_at": "2026-09-25T03:13:18Z",
+      "url": "https://people.com/meta-unveils-ai-gadgets-including-tamagotchi-like-muse-charm-pendant-12139475",
+      "final_url": "https://people.com/meta-unveils-ai-gadgets-including-tamagotchi-like-muse-charm-pendant-12139475",
+      "source": "People.com",
+      "article_title": "Meta Unveils AI Gadgets Including Tamagotchi-Like Pendant amid Growing Concerns Over the Technology",
+      "heading": "Meta Unveils AI Gadgets Including Tamagotchi-Like Pendant amid Growing Concerns Over the Technology",
+      "authors": [
+        "https://www.facebook.com/peoplemag"
+      ],
+      "article_published_at": "2026-09-24T21:02:00-04:00",
+      "article_modified_at": "2026-09-24T21:02:00-04:00",
+      "summary": "Meta unveiled the Muse Charm and new VR glasses at Meta Connect on Wednesday, Sept. 23, highlighting the company’s growing focus on AI-powered technology amid broader concerns about its potential risks.",
+      "content": "NEED TO KNOW\n- Meta unveiled the Muse Charm, a keychain-sized AI device designed for real-time voice interaction without a phone or app on Wednesday, Sept. 23\n- Mark Zuckerberg said the gadget is expected to ship in December, just in time for the holidays\n- The announcement comes as Meta and the broader AI industry face growing scrutiny over the potential risks of the technology\nMeta is making its AI technology smaller, more portable and more personal.\nDuring the company’s annual Meta Connect conference on Wednesday, Sept. 23, Mark Zuckerberg unveiled the Muse Charm, a keychain-sized device that gives users access to Meta’s Muse AI through real-time voice interaction without requiring them to unlock a phone or open an app.\nZuckerberg introduced the device near the end of his presentation, describing it as a way to bring the Muse experience into a compact gadget that is always available.\n“All right, we just went through a lot of products. I’ve got one more to show you because that little handheld thing that I was working on, it’s actually real,” Zuckerberg said.\nUsers can tap a fingerprint sensor on the corner of the device to begin talking to Muse, Zuckerberg explained. He said the charm could also allow users to show Muse what is happening around them without needing to reach for their phone.\n“If you’re not wearing glasses, this is going to be by far the fastest way to talk to your Muse and to show it what’s going on around you,” Zuckerberg said.\n“So we’ve packed a lot of technology into this little guy,” he said. “We’ve actually only built a few of these so far. It’s been absolutely joyful to play with so far.”\nThe device features a screen displaying the Muse avatar and is designed for real-time voice interaction, giving it a similar experience to a Tamagotchi.\nThe Muse Charm is still being finalized, with Zuckerberg noting that Meta needs to finish its materials and determine how its internal components will be arranged. He said the company plans to have it ready to ship in December, in time for the holidays.\n“We are calling it Muse Charm, and we’re going to have more details to share on this one soon,” Zuckerberg said.\nThe gadget is part of Zuckerberg’s larger vision for Muse, which he described as eventually becoming a “personal superintelligence” used by billions of people.\nRelated Stories\n“I expect that Muse is going to grow into the personal superintelligence that billions of people around the world are going to use to accomplish their goals and improve their lives,” he said.\nZuckerberg said Muse will include features such as goal-setting, personalized research and customizable characters and personalities. He also said each Muse will have its own private and secure computer.\nMeta also unveiled new VR glasses during the event. Zuckerberg described the device as offering “a private cinema, a computer with multiple monitors and a game console in a pair of glasses,” adding that the glasses will be priced at $1,299 and are expected to ship in the spring.\nThe announcements come as increasingly advanced AI technology faces scrutiny over its potential risks. On Sept. 8, Jacob Coxon, a researcher who spent three years training emerging AI models at Anthropic, announced his departure from the company and warned that self-improving AI could pose an existential threat.\n“The people building AI earnestly believe that it could kill us all by the end of the decade,” Coxon wrote on social media.\nEvan Hubinger, a team lead at Anthropic, responded to Coxon’s comments, writing, “Jacob is correct here—we really do earnestly believe AI could kill all humans!” Hubinger added that he personally believed there was a greater than 10% chance of that happening within the next decade.\nNever miss a story — sign up for PEOPLE’s free daily newsletter to stay up-to-date on the best of what PEOPLE has to offer, from celebrity news to compelling human interest stories.\nPEOPLE reached out to Meta for comment but did not immediately hear back.",
+      "content_html": "<html>\n  <body>\n    <p>Meta Unveils AI Gadgets Including Tamagotchi-Like Pendant amid Growing Concerns Over the Technology Mark Zuckerberg introduced the keychain-sized AI companion as part of Meta’s latest push to make its technology more personal and accessible By Angelique Brenes Angelique Brenes Angelique Brenes is a writer-reporter at PEOPLE. She joined PEOPLE in 2026. Her work has previously appeared on NBC Los Angeles, Telemundo 52, KTLA, California Post, and The Click News. People Editorial Guidelines Published on September 24, 2026 09:02PM EDT 2 Comments Add Us On Mark Zuckerberg reveals the Muse Charm device during the Meta Connect event. Credit : Minh Connors/Bloomberg via Getty NEED TO KNOW Meta unveiled the Muse Charm, a keychain-sized AI device designed for real-time voice interaction without a phone or app on Wednesday, Sept. 23Mark Zuckerberg said the gadget is expected to ship in December, just in time for the holidaysThe announcement comes as Meta and the broader AI industry face growing scrutiny over the potential risks of the technology Meta is making its AI technology smaller, more portable and more personal. During the company’s annual Meta Connect conference on Wednesday, Sept. 23, Mark Zuckerberg unveiled the Muse Charm, a keychain-sized device that gives users access to Meta’s Muse AI through real-time voice interaction without requiring them to unlock a phone or open an app. Zuckerberg introduced the device near the end of his presentation, describing it as a way to bring the Muse experience into a compact gadget that is always available. “All right, we just went through a lot of products. I’ve got one more to show you because that little handheld thing that I was working on, it’s actually real,” Zuckerberg said. Meta Muse Charm. Meta Our new app is here! Free, fun and full of exclusives. Scan to download now! Users can tap a fingerprint sensor on the corner of the device to begin talking to Muse, Zuckerberg explained. He said the charm could also allow users to show Muse what is happening around them without needing to reach for their phone. “If you’re not wearing glasses, this is going to be by far the fastest way to talk to your Muse and to show it what’s going on around you,” Zuckerberg said. “So we’ve packed a lot of technology into this little guy,” he said. “We’ve actually only built a few of these so far. It’s been absolutely joyful to play with so far.” The device features a screen displaying the Muse avatar and is designed for real-time voice interaction, giving it a similar experience to a Tamagotchi. Meta VR Glasses on display during the Meta Connect event. Minh Connors/Bloomberg via Getty The Muse Charm is still being finalized, with Zuckerberg noting that Meta needs to finish its materials and determine how its internal components will be arranged. He said the company plans to have it ready to ship in December, in time for the holidays. “We are calling it Muse Charm, and we’re going to have more details to share on this one soon,” Zuckerberg said. The gadget is part of Zuckerberg’s larger vision for Muse, which he described as eventually becoming a “personal superintelligence” used by billions of people. Related Stories Mark Zuckerberg Argues AI ‘May Shrink’ Companies, But There Will Still Be Plenty of Jobs Meta Can Now Read Your Private Instagram DMs — Here's What You Need to Know “I expect that Muse is going to grow into the personal superintelligence that billions of people around the world are going to use to accomplish their goals and improve their lives,” he said. Zuckerberg said Muse will include features such as goal-setting, personalized research and customizable characters and personalities. He also said each Muse will have its own private and secure computer. Meta also unveiled new VR glasses during the event. Zuckerberg described the device as offering “a private cinema, a computer with multiple monitors and a game console in a pair of glasses,” adding that the glasses will be priced at $1,299 and are expected to ship in the spring. The Meta Platforms Inc. pavilion ahead of the World Economic Forum. Hollie Adams/Bloomberg via Getty The announcements come as increasingly advanced AI technology faces scrutiny over its potential risks. On Sept. 8, Jacob Coxon, a researcher who spent three years training emerging AI models at Anthropic, announced his departure from the company and warned that self-improving AI could pose an existential threat. “The people building AI earnestly believe that it could kill us all by the end of the decade,” Coxon wrote on social media. Evan Hubinger, a team lead at Anthropic, responded to Coxon’s comments, writing, “Jacob is correct here—we really do earnestly believe AI could kill all humans!” Hubinger added that he personally believed there was a greater than 10% chance of that happening within the next decade. Never miss a story — sign up for PEOPLE’s free daily newsletter to stay up-to-date on the best of what PEOPLE has to offer, from celebrity news to compelling human interest stories. PEOPLE reached out to Meta for comment but did not immediately hear back. Close Leave a Comment Read More: Human Interest Human Interest News Business &amp; Technology</p>\n  </body>\n</html>",
+      "word_count": 672,
+      "char_count": 3989,
+      "lead_image": "https://people.com/thmb/9hqTkTdPrMS6QCpLFcgxbcEZLgw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/Meta-Muse-Charm-092426-1-1ce05164509445328acbec17ff7824a7.jpg",
+      "images": [
+        {
+          "url": "https://people.com/thmb/9hqTkTdPrMS6QCpLFcgxbcEZLgw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/Meta-Muse-Charm-092426-1-1ce05164509445328acbec17ff7824a7.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-25T03:13:18Z"
+    },
+    {
+      "id": "ab116f8d6df827ed",
+      "title": "Mayor Joe Cobb discusses potential data center at Wood Haven Technology Park",
+      "header": "WSLS",
+      "published_at": "2026-09-25T00:49:53Z",
+      "published_raw": "Fri, 25 Sep 2026 00:49:53 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTzdGOVA1Y3huTW5mMWhqM1FEYnVLcTRrRVY0blJyR3ZOQWdjVFFwM0p0dkdDSEFBYkFXeHJmcnVkWkFmWXY0cWxpSFNiYkdsUW02ZGdMNlZvdVoyTk1LRWFRZVFUZ19IaW5hNlJPV21odDBPYjRqRjNETV9ZbDk5TE5yNHppSFFTcHdXTXVJQXZqWm0yQkhPemVn?oc=5",
+      "description": "Mayor Joe Cobb discusses potential data center at Wood Haven Technology Park WSLS",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPTzdGOVA1Y3huTW5mMWhqM1FEYnVLcTRrRVY0blJyR3ZOQWdjVFFwM0p0dkdDSEFBYkFXeHJmcnVkWkFmWXY0cWxpSFNiYkdsUW02ZGdMNlZvdVoyTk1LRWFRZVFUZ19IaW5hNlJPV21odDBPYjRqRjNETV9ZbDk5TE5yNHppSFFTcHdXTXVJQXZqWm0yQkhPemVn?oc=5\" target=\"_blank\">Mayor Joe Cobb discusses potential data center at Wood Haven Technology Park</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSLS</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTzdGOVA1Y3huTW5mMWhqM1FEYnVLcTRrRVY0blJyR3ZOQWdjVFFwM0p0dkdDSEFBYkFXeHJmcnVkWkFmWXY0cWxpSFNiYkdsUW02ZGdMNlZvdVoyTk1LRWFRZVFUZ19IaW5hNlJPV21odDBPYjRqRjNETV9ZbDk5TE5yNHppSFFTcHdXTXVJQXZqWm0yQkhPemVn?oc=5"
+      ],
+      "scraped_at": "2026-09-25T03:13:18Z",
+      "url": "https://www.wsls.com/news/local/2026/09/24/roci-mayor-discuss-data-center-and-council-members/",
+      "final_url": "https://www.wsls.com/news/local/2026/09/24/roci-mayor-discuss-data-center-and-council-members/",
+      "source": "WSLS",
+      "article_title": "Mayor Joe Cobb discusses potential data center at Wood Haven Technology Park",
+      "heading": "Mayor Joe Cobb discusses potential data center at Wood Haven Technology Park",
+      "authors": [
+        "Jason Freund"
+      ],
+      "article_published_at": "2026-09-25T00:47:52.855Z",
+      "article_modified_at": "2026-09-25T00:47:52.855Z",
+      "summary": "Mayor Joe Cobb sat down with 10 News to speak about the City Council’s role with the sale while attempting to address concerns some citizens may have about a potential data center coming to Roanoke County.",
+      "content": "ROANOKE, Va. – Ever since the announcement of a possible data center coming to Wood Haven Technology Park in Roanoke County, residents have been sharing their concerns about it coming to their neighbors.\nMayor Joe Cobb sat down with 10 News Thursday to speak about the City Council’s role in the sale while attempting to address concerns some citizens may have.\nConcerning Council’s role, Cobb said that the purchase was done in participation with multiple other committees.\n“The Woodhaven Technology Park is a site that was mutually purchased through the Western Virginia Regional Industrial Facility Authority, but there are three participating committees,” Cobb said. “Roanoke City, Roanoke County and the City of Salem have different levels of ownership in that. {Around} 44% for the City of Roanoke, 44% for the County and 10-11% for the City of Salem.”\nCobb said that - for as long as he had been on council - the WVRIFA has been looking for the right company to come in and use the land at Wood Haven Technology Park to strengthen future infrastructure.\nCobb also confirmed that City Council had gotten “preliminary information” with the WVRIFA for the past couple of months about the company that would purchase the land - which a 10 News investigation revealed to be Clearview Dynamics LLC.\nWhile the conversations between City Council and the WVRIFA were confidential, Cobb told 10 News that City Council didn’t sign a non-disclosure agreement regarding those conversations.\nWhen asked about the potential positives of a data center, Cobb said they were attractive to companies that wish to bring their business to the area, saying that data centers are “the type of infrastructure we need here that companies are already relying on and that might help us attract additional companies.”\nCobb pointed out that this land deal could provide the city with much-needed financial flexibility and also spoke on the potential job impact it could bring.\n“I’ve heard a range of things about how many employees are involved or actually hired after a center opens, and I think there’s a range of that,” Cobb said. “I’ve heard anywhere from 100 to over 500.”\nHowever, he is also well aware of the negatives that come with data centers.\n“It’s a local investment, but within that local investment, we have to be cognizant of not adding any cost burden to citizens who live in the area, address any noise issues,” Cobb said. {We need to} make sure that there are no environmental impacts and that the company is willing to take on the full cost of the energy that they’re using and water replacement.“\nCobb is hopeful that city and county officials can have constructive conversations in the future with those people.\n“Much of what I have heard is very anti-data centers. I’ve not heard a lot of conversations that are constructive in terms of what you just asked me,” Cobb said. “What are the benefits? What are the drawbacks? And I think for us to make a comprehensive decision about that, we need all of that information.”\nFinally, Cobb addressed rumors that another swath of land in Roanoke County could be used for a data center.\n“There’s no interest in putting a data center at Old Monterey Golf Course,” Cobb said. “That’s a rumor that’s been flying around out there. There’s no truth to that whatsoever. We have other exciting opportunities for that land.”",
+      "content_html": "<html>\n  <body>\n    <p>ROANOKE, Va. – Ever since the announcement of a possible data center coming to Wood Haven Technology Park in Roanoke County, residents have been sharing their concerns about it coming to their neighbors.</p>\n    <p>Mayor Joe Cobb sat down with 10 News Thursday to speak about the City Council’s role in the sale while attempting to address concerns some citizens may have.</p>\n    <p>Concerning Council’s role, Cobb said that the purchase was done in participation with multiple other committees.</p>\n    <p>“The Woodhaven Technology Park is a site that was mutually purchased through the Western Virginia Regional Industrial Facility Authority, but there are three participating committees,” Cobb said. “Roanoke City, Roanoke County and the City of Salem have different levels of ownership in that. {Around} 44% for the City of Roanoke, 44% for the County and 10-11% for the City of Salem.”</p>\n    <p>Cobb said that - for as long as he had been on council - the WVRIFA has been looking for the right company to come in and use the land at Wood Haven Technology Park to strengthen future infrastructure.</p>\n    <p>Cobb also confirmed that City Council had gotten “preliminary information” with the WVRIFA for the past couple of months about the company that would purchase the land - which a 10 News investigation revealed to be Clearview Dynamics LLC.</p>\n    <p>While the conversations between City Council and the WVRIFA were confidential, Cobb told 10 News that City Council didn’t sign a non-disclosure agreement regarding those conversations.</p>\n    <p>When asked about the potential positives of a data center, Cobb said they were attractive to companies that wish to bring their business to the area, saying that data centers are “the type of infrastructure we need here that companies are already relying on and that might help us attract additional companies.”</p>\n    <p>Cobb pointed out that this land deal could provide the city with much-needed financial flexibility and also spoke on the potential job impact it could bring.</p>\n    <p>“I’ve heard a range of things about how many employees are involved or actually hired after a center opens, and I think there’s a range of that,” Cobb said. “I’ve heard anywhere from 100 to over 500.”</p>\n    <p>However, he is also well aware of the negatives that come with data centers.</p>\n    <p>“It’s a local investment, but within that local investment, we have to be cognizant of not adding any cost burden to citizens who live in the area, address any noise issues,” Cobb said. {We need to} make sure that there are no environmental impacts and that the company is willing to take on the full cost of the energy that they’re using and water replacement.“</p>\n    <p>Cobb is hopeful that city and county officials can have constructive conversations in the future with those people.</p>\n    <p>“Much of what I have heard is very anti-data centers. I’ve not heard a lot of conversations that are constructive in terms of what you just asked me,” Cobb said. “What are the benefits? What are the drawbacks? And I think for us to make a comprehensive decision about that, we need all of that information.”</p>\n    <p>Finally, Cobb addressed rumors that another swath of land in Roanoke County could be used for a data center.</p>\n    <p>“There’s no interest in putting a data center at Old Monterey Golf Course,” Cobb said. “That’s a rumor that’s been flying around out there. There’s no truth to that whatsoever. We have other exciting opportunities for that land.”</p>\n  </body>\n</html>",
+      "word_count": 567,
+      "char_count": 3358,
+      "lead_image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/wsls/413d6f25-a97a-4f9e-aaa7-6548b0bcaa78/image.jpg?api_key=wsls_8c3a4bc35af7684e",
+      "images": [
+        {
+          "url": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/wsls/413d6f25-a97a-4f9e-aaa7-6548b0bcaa78/image.jpg?api_key=wsls_8c3a4bc35af7684e",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://www.wsls.com/news/local/2026/09/24/roci-mayor-discuss-data-center-and-council-members/f_webp/media/author-service/gmg/3caed951-8964-40cc-9f95-889f82e17f0a.png?api_key=wsls_8c3a4bc35af7684e",
+          "alt": "",
+          "caption": "Jason Freund headshot",
+          "role": "body"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-25T03:13:18Z"
+    },
     {
       "id": "8d32664d08dab5a0",
       "title": "Connecticut Police Standards and Training Council reviews automated cameras, technology",
@@ -214,7 +338,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRGxHeExzZk5BdjU5UUR5SERJbXJRQ2lfODFyUFlXdzFvbl9ickpYTVV4Nkk3Y0Q0aGpPUk5BUmtDOUQweXRnMnhWb1hUUGNzNVVoejkwOXVxcDZXRzkxN0NURFY4dW5yNjRudHFSVk1GR2RWbFdFRm5peS00WWNaYjBwQkhfaVgzWnhva1c4YXR2OFZN?oc=5"
       ],
-      "scraped_at": "2026-09-24T23:44:22Z",
+      "scraped_at": "2026-09-25T03:13:19Z",
       "url": "https://wng.org/roundups/lawmakers-weigh-ai-risks-amid-a-modern-technology-race-1790287855",
       "final_url": "https://wng.org/roundups/lawmakers-weigh-ai-risks-amid-a-modern-technology-race-1790287855",
       "source": "wng.org",
@@ -375,6 +499,40 @@
       "extractor": "bs4",
       "status": "ok",
       "first_seen_at": "2026-09-24T23:44:21Z"
+    },
+    {
+      "id": "9e09f14266e8afc2",
+      "title": "Australia starts investigation into OpenAI Medicare breach",
+      "header": "Pharmaceutical Technology",
+      "published_at": "2026-09-24T21:26:15Z",
+      "published_raw": "Thu, 24 Sep 2026 21:26:15 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDlaTGdad3o3SDRTMlhTZ2FDX3lkTHd6c3ZCVFRzeEJWLWFsOG5wSTl5VmNub0ZvbzRERzBTX2RqaU0yX2ZNdE8wdjZRN1czWGNVbHVIWUNRMWJnNS01RzR5NGZnV0pVeGpxVmZNMmpFTHZfUWZTUm93WERIQzcyLVRTZk5SbnRUam13dXNRT29VUWJ2NGtoQ0VDenZaX2pfLU9LTDVkeGpsQQ?oc=5",
+      "description": "Australia starts investigation into OpenAI Medicare breach Pharmaceutical Technology",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDlaTGdad3o3SDRTMlhTZ2FDX3lkTHd6c3ZCVFRzeEJWLWFsOG5wSTl5VmNub0ZvbzRERzBTX2RqaU0yX2ZNdE8wdjZRN1czWGNVbHVIWUNRMWJnNS01RzR5NGZnV0pVeGpxVmZNMmpFTHZfUWZTUm93WERIQzcyLVRTZk5SbnRUam13dXNRT29VUWJ2NGtoQ0VDenZaX2pfLU9LTDVkeGpsQQ?oc=5\" target=\"_blank\">Australia starts investigation into OpenAI Medicare breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pharmaceutical Technology</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDlaTGdad3o3SDRTMlhTZ2FDX3lkTHd6c3ZCVFRzeEJWLWFsOG5wSTl5VmNub0ZvbzRERzBTX2RqaU0yX2ZNdE8wdjZRN1czWGNVbHVIWUNRMWJnNS01RzR5NGZnV0pVeGpxVmZNMmpFTHZfUWZTUm93WERIQzcyLVRTZk5SbnRUam13dXNRT29VUWJ2NGtoQ0VDenZaX2pfLU9LTDVkeGpsQQ?oc=5"
+      ],
+      "scraped_at": "2026-09-25T03:13:18Z",
+      "url": "https://www.pharmaceutical-technology.com/news/australian-government-openai-investigation-hacking-event-2/",
+      "final_url": "https://www.pharmaceutical-technology.com/news/australian-government-openai-investigation-hacking-event-2/",
+      "source": "Pharmaceutical Technology",
+      "article_title": "",
+      "heading": "Australia starts investigation into OpenAI Medicare breach",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Australia starts investigation into OpenAI Medicare breach Pharmaceutical Technology",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-24T16:24:51Z"
     },
     {
       "id": "57cd52ab743c4075",
@@ -803,7 +961,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5"
       ],
-      "scraped_at": "2026-09-24T23:44:21Z",
+      "scraped_at": "2026-09-25T03:13:18Z",
       "url": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
       "final_url": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
       "source": "The New York Times",
@@ -1402,40 +1560,6 @@
       "first_seen_at": "2026-09-24T16:24:50Z"
     },
     {
-      "id": "9e09f14266e8afc2",
-      "title": "Australia starts investigation into OpenAI Medicare breach",
-      "header": "Pharmaceutical Technology",
-      "published_at": "2026-09-24T13:10:20Z",
-      "published_raw": "Thu, 24 Sep 2026 13:10:20 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDlaTGdad3o3SDRTMlhTZ2FDX3lkTHd6c3ZCVFRzeEJWLWFsOG5wSTl5VmNub0ZvbzRERzBTX2RqaU0yX2ZNdE8wdjZRN1czWGNVbHVIWUNRMWJnNS01RzR5NGZnV0pVeGpxVmZNMmpFTHZfUWZTUm93WERIQzcyLVRTZk5SbnRUam13dXNRT29VUWJ2NGtoQ0VDenZaX2pfLU9LTDVkeGpsQQ?oc=5",
-      "description": "Australia starts investigation into OpenAI Medicare breach Pharmaceutical Technology",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDlaTGdad3o3SDRTMlhTZ2FDX3lkTHd6c3ZCVFRzeEJWLWFsOG5wSTl5VmNub0ZvbzRERzBTX2RqaU0yX2ZNdE8wdjZRN1czWGNVbHVIWUNRMWJnNS01RzR5NGZnV0pVeGpxVmZNMmpFTHZfUWZTUm93WERIQzcyLVRTZk5SbnRUam13dXNRT29VUWJ2NGtoQ0VDenZaX2pfLU9LTDVkeGpsQQ?oc=5\" target=\"_blank\">Australia starts investigation into OpenAI Medicare breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pharmaceutical Technology</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDlaTGdad3o3SDRTMlhTZ2FDX3lkTHd6c3ZCVFRzeEJWLWFsOG5wSTl5VmNub0ZvbzRERzBTX2RqaU0yX2ZNdE8wdjZRN1czWGNVbHVIWUNRMWJnNS01RzR5NGZnV0pVeGpxVmZNMmpFTHZfUWZTUm93WERIQzcyLVRTZk5SbnRUam13dXNRT29VUWJ2NGtoQ0VDenZaX2pfLU9LTDVkeGpsQQ?oc=5"
-      ],
-      "scraped_at": "2026-09-24T16:24:51Z",
-      "url": "https://www.pharmaceutical-technology.com/news/australian-government-openai-investigation-hacking-event-2/",
-      "final_url": "https://www.pharmaceutical-technology.com/news/australian-government-openai-investigation-hacking-event-2/",
-      "source": "Pharmaceutical Technology",
-      "article_title": "",
-      "heading": "Australia starts investigation into OpenAI Medicare breach",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Australia starts investigation into OpenAI Medicare breach Pharmaceutical Technology",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-24T16:24:51Z"
-    },
-    {
       "id": "5cc0f08b3336ac26",
       "title": "AI Readiness Is a Workforce Question, Not Just a Technology Question",
       "header": "South Florida Hospital News",
@@ -1513,7 +1637,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcUQ2Z2F3NEdIaFAySElvWGVTSTF5SExJSnZoZjRqbldXSFJER1FHVjhVeDdlX25yRVFLWmpWd1JKTmpGMVN3Y0p5bnBkQnpCN200eTNoTmh0dVNlM01ISDBBVEZtRFJDZ2NuangydVdLSTBjWHhZZnlTWDFYQXNtVWt2TlZ2ZE9mYkkzYUVxckI4V2ZWZDUzdkloUzYwVkVpUVFMY1FQSVBJVlVsZzlHX19jVWYzWDB3Nm5ZT2dBUFNMTHFmRWVGb3R5MDI4UzRuUEtkamIxOFVFaWQ0U2tiTkZCeEwtSUNNWGdDMkRoOWc?oc=5"
       ],
-      "scraped_at": "2026-09-24T23:44:21Z",
+      "scraped_at": "2026-09-25T03:13:18Z",
       "url": "https://www.cpsc.gov/Recalls/2026/INMO-International-Technology-Limited-Recalls-INMO-Air3-Smart-Glasses-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard",
       "final_url": "https://www.cpsc.gov/Recalls/2026/INMO-International-Technology-Limited-Recalls-INMO-Air3-Smart-Glasses-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard",
       "source": "CPSC.gov",
@@ -4218,7 +4342,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjB3bDJGYUhNbkdCcml1VEpEYy11R2pZVXd3aGFFYTY1SGh4OHFHelR6UnhjSlpLakZGUlY0QmN4cGM4OVNtUDB3aWlIOHQwN3lyM2FRa01LM09BZENPZENKdlR6ZThVcFJxZXpYX3pERzUtV2NIZUNlWERwQWxmRVZTWmxNMHJMN0p5Y3JJUWxyWjBPQ3hfbHppaGZQQlh4LVlqTWlDaXZSZXRTOTBtVExiNy1zT0owWkpV?oc=5"
       ],
-      "scraped_at": "2026-09-24T20:15:09Z",
+      "scraped_at": "2026-09-25T03:13:20Z",
       "url": "https://www.reuters.com/legal/transactional/ashtead-technology-receives-660-million-takeover-proposal-ember-2026-09-23/",
       "final_url": "https://www.reuters.com/legal/transactional/ashtead-technology-receives-660-million-takeover-proposal-ember-2026-09-23/",
       "source": "Reuters",
@@ -5472,7 +5596,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5"
       ],
-      "scraped_at": "2026-09-24T23:44:21Z",
+      "scraped_at": "2026-09-25T03:13:18Z",
       "url": "https://www.reuters.com/business/ai-leaders-brief-un-amid-warnings-technology-could-slip-beyond-human-control-2026-09-23/",
       "final_url": "https://www.reuters.com/business/ai-leaders-brief-un-amid-warnings-technology-could-slip-beyond-human-control-2026-09-23/",
       "source": "Reuters",
@@ -24712,156 +24836,6 @@
       "status": "partial",
       "error": "download_failed",
       "first_seen_at": "2026-09-15T22:41:08Z"
-    },
-    {
-      "id": "5daebdecc7824c1f",
-      "title": "Could AI really wipe out humanity – six experts spell out the risks",
-      "header": "The Guardian",
-      "published_at": "2026-09-15T20:55:00Z",
-      "published_raw": "Tue, 15 Sep 2026 20:55:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3puUXRFSE5YY01MaFJkQkNjYXh3QkJKMWVUdUJmcHNaeHRxWm5Nd3AwZzRwVTMxa2Iya1ZyX0ozV0hoNEtyVjJzWnFoN1dKZ2JRaDl6Nk54ZmNwQlZFRmE4MVZWSGx5R0F5bUZqczJPSDhSd19OZXhTbHNoek5XRGVuUVN0MHVCdV82VUhNZmQzcmNralltaEpvUnZ6NmNhVldqaVFtdXZENWc5?oc=5",
-      "description": "Could AI really wipe out humanity – six experts spell out the risks The Guardian",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3puUXRFSE5YY01MaFJkQkNjYXh3QkJKMWVUdUJmcHNaeHRxWm5Nd3AwZzRwVTMxa2Iya1ZyX0ozV0hoNEtyVjJzWnFoN1dKZ2JRaDl6Nk54ZmNwQlZFRmE4MVZWSGx5R0F5bUZqczJPSDhSd19OZXhTbHNoek5XRGVuUVN0MHVCdV82VUhNZmQzcmNralltaEpvUnZ6NmNhVldqaVFtdXZENWc5?oc=5\" target=\"_blank\">Could AI really wipe out humanity – six experts spell out the risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3puUXRFSE5YY01MaFJkQkNjYXh3QkJKMWVUdUJmcHNaeHRxWm5Nd3AwZzRwVTMxa2Iya1ZyX0ozV0hoNEtyVjJzWnFoN1dKZ2JRaDl6Nk54ZmNwQlZFRmE4MVZWSGx5R0F5bUZqczJPSDhSd19OZXhTbHNoek5XRGVuUVN0MHVCdV82VUhNZmQzcmNralltaEpvUnZ6NmNhVldqaVFtdXZENWc5?oc=5"
-      ],
-      "scraped_at": "2026-09-15T22:41:08Z",
-      "url": "https://www.theguardian.com/technology/2026/sep/15/could-ai-really-wipe-out-humanity-and-hijack-the-internet",
-      "final_url": "https://www.theguardian.com/technology/2026/sep/15/could-ai-really-wipe-out-humanity-and-hijack-the-internet",
-      "source": "the Guardian",
-      "article_title": "Could AI really wipe out humanity – six experts spell out the risks",
-      "heading": "Could AI really wipe out humanity – six experts spell out the risks",
-      "authors": [
-        "https://www.theguardian.com/profile/aisha-down",
-        "https://www.theguardian.com/profile/danmilmo",
-        "https://www.theguardian.com/profile/robertbooth"
-      ],
-      "article_published_at": "2026-09-15T17:54:48.000Z",
-      "article_modified_at": "2026-09-15T20:55:16.000Z",
-      "summary": "We examine claims and counterclaims about the risks and calls to slow down the pace of AI development",
-      "content": "Experts say claims AI could kill all humans through biological weapons development had no scientific basis. Illustration: wildpixel/Getty ImagesView image in fullscreenExperts say claims AI could kill all humans through biological weapons development had no scientific basis. Illustration: wildpixel/Getty ImagesExplainerCould AI really wipe out humanity – six experts spell out the risksWe examine claims and counterclaims about the risks and calls to slow down the pace of AI developmentThere have been some shocking claims in recent days about AI safety: we face a 10% chance of doom; AIs are worse than nukes; a “botnet” threatens the entire internet; it’s all a big tech psyop.Below, we look at six claims and reactions to them.‘In 6–12 months … a swarm could be capable of taking over the entire internet with a persistent botnet – potentially causing hundreds of billions of dollars in damage’ – Dario Amodei, chief executive of Anthropic, 12 September 2026Amodei’s concerns should not be entirely dismissed but require a large shaker of salt, said Gary Marcus, an AI sceptic and emeritus professor at New York University.It was “nonsensical”, he said, to suggest the entire internet is vulnerable and that it was “pretty unclear how that happens without extreme negligence on the part of the labs themselves”. Marcus highlighted a recent assessment by the UK AI Security Institute that Mythos, one of Anthropic’s current leading-edge AIs, could “autonomously compromise [only] small, weakly defended vulnerable systems”.With large parts of the internet driven by computer infrastructure owned by Cloudflare, Google and Amazon Web Services (AWS), Marcus – assessing the claim with two colleagues – said he doubted that any of those companies could be taken down or controlled for a prolonged period of time without government force. Less defended individual websites might be attacked but “the internet itself is very unlikely to crumble”, they said.Meanwhile Niels Rogge, an engineer at Hugging Face which was hacked by OpenAI agents, called the internet takeover claim “bizarre nonsense”. The hack into Hugging Face resulted from improper human control and “an insane amount of compute only they can afford”, he said.Add to Amodei’s assessment of an internet takeover within a year the view expressed on Monday by his Anthropic co-founder Jack Clark, that the moment when AIs “start doing dangerous stuff” was in about 20 years, and the picture becomes more doubtful still.Prof Alan Woodward at the University of Surrey’s centre for cyber security said botnets tend to stall as the internet is not homogeneous and it is difficult to design them to persist in all its parts. Internet traffic is also resilient and tends to reroute around damage. “The AIs would not decide to do it on their own,” Woodward said. “It’s the humans that are responsible and the AI is a tool. That is what we need to control, not the AI.”‘We really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade’ – Evan Hubinger, alignment science lead at Anthropic, 9 September 2026This statement is an expression of what is known in the AI world as p(doom) – or probability of doom. It’s the likelihood of AI wiping out humanity by evading our control and triggering catastrophe, perhaps through developing potent bioweapons or crashing the global financial system.One survey of researchers’ forecasts, published this week, asks them to place a number on the chance of “human extinction or similarly permanent and severe disempowerment from advanced AI”. But Heidy Khlaaf, chief scientist at the AI Now Institute research body, is among experts sceptical about giving percentage chances to existential scenarios.“These claims are neither falsifiable nor verifiable, making then unscientific by their very nature,” she said. The shortage of concrete examples of what a “superintelligent” AI might do to cause “doom” only adds to the cloudiness. A source familiar with Anthropic’s thinking acknowledges that “the exact chances of any one outcome are probably unknowable”.“If you cannot provide such evidence, it also implies whatever numbers you produced for ‘extinction’ have no scientific basis,” Khlaaf added. Critics say such numbers borrow the authority of science without doing the work.Even if quantifying risk is hard, there are qualitative examples of it. Safety incidents have happened and worst-outcome scenarios have been mooted. OpenAI confirmed in July that its agents – AI tools acting autonomously – had gone rogue during a safety test. The agents colluded, communicated and strategised in a sophisticated “swarm” to hack into other parts of the internet.Meanwhile, on Monday, OpenAI researcher Dan Selsam said all-powerful AIs could trigger “runaway industrialisation that makes the planet inhospitable to humans”. Anthropic also said last week it found “five case studies of actors using our models in ways that could support biological weapons development”.'I think the groundwork for this psy op (for lack of a better term) has been prepared for a long time. This was just the match that lit the fire' – Elon Musk, CEO of SpaceX and the world’s richest person, 10 September 2026Musk’s reference to a “psy op” alludes to the argument that the big AI companies are calling for tighter regulation of the technology so that it effectively brings up the drawbridge on advanced AI. If governments put restrictions on development of cutting-edge AI, can startups find the money and personnel to adhere to the regime?The US vice-president, JD Vance, on Monday said he felt “a little bit weird about the fact that you have so many frontier AI tech companies kind of coming to the government and begging the government to regulate them”. He said it felt like “a Trojan horse”.Anthropic’s Clark said governments should act while there is a small number of key players, so it is easier to put in place a “policy regime … that can prevent accidents and can prevent the technology spiralling out of control”. Critics call this a “regulatory capture” strategy on the assumption such regulation might slow down the progress of potential rivals.View image in fullscreenElon Musk, CEO of Anthropic Dario Amodei, and OpenAI CEO Sam Altman have said AI firms should slow down AI development. Composite: Fabrice Coffrini; Julien de Rosa; Mandel Ngan/AFP/Getty ImagesOthers think Amodei’s risk warnings and calls for regulation and pacing are sincere. Yoshua Bengio, the Canadian computer scientist and a pioneer of modern AI , who has campaigned against breakneck AI development, said he is sceptical that this is an elaborate lobbying scheme. Applying the brakes is not in the interests of companies preparing for stock market flotations that could be worth trillions of dollars, he said.“If the governments impose what they’re asking for, which is pacing to avoid catastrophic risks, that’s going to cost them financially quite a lot,” he said. 'A superintelligent AI poses a threat on the same, possibly, a greater scale' to nuclear weapons – Des Browne, former UK defence secretary, 7 September 2026“Unfortunately he is entirely correct,” said Toby Ord, senior researcher at Oxford University’s AI governance initiative. “Just as we can’t uninvent the bomb, once we develop AI systems that surpass humanity it would be almost impossible to go back.”But the key point is that superintelligent AI does not yet exist and is not guaranteed to happen. The safety-oriented AI Futures Project forecasts such a thing will not emerge before December 2028. OpenAI’s chief executive Sam Altman has said it could take until 2035.The Rand Corporation concluded AI cannot cause the use of nuclear weapons because of strict safeguards built into their command and control systems. But this was based on assumptions including defence officials not introducing AI into the weapons’ management systems. The UN resolved in December that human control and oversight should be maintained over nuclear weapon control systems.AIs could contribute to other nuclear risks. AIs might use disinformation to influence the humans in charge – for example deceptively suggesting an adversary is about to launch a nuclear strike. The International Campaign to Abolish Nuclear Weapons warns “cyber-attacks could manipulate the information decision-makers get to launch nuclear weapons, and interfere with the operation of nuclear weapons themselves”. It said AI could accelerate other aspects of warfare, squeezing the time for human decision-making.'You’ve got to be a moron not to say slow it down' – Bernie Sanders, Democrat senator for Vermont, 10 September 2026Sanders wants a ban on the creation of superintelligence and a pause on advanced AI development, citing AI industry leaders who say directly they are developing a dangerous technology.The most prominent opponent of a slowdown is Donald Trump, who responded to calls to do so this week saying the only guardrails needed are a “STRONG AND SMART (High IQ!) PRESIDENT”. He claimed there is a “sick conspiracy” against AI and datacentres “and the only one that is happy about it is China”.Pedro Domingos, emeritus professor of computer science at the University of Washington, is among accelerationists pushing for the research to keep going.“The path to better understanding and control of AI is more research, not less,” he has said. “What would be truly irresponsible is putting up barriers to it.”Alex Karp, the chief executive of Palantir, said: “If we didn’t have the adversaries we have, I would be very in favour of pausing this technology completely, but we do. You can’t pause it because it’s a structural advantage.”'There is no day after tomorrow if China wins at this. If they were to pull away from us on AI, then nothing else would matter' – Scott Bessent, US treasury secretary, 8 September 2026The US and China are runaway leaders in AI development. There is a view that ceding the lead to Beijing would be an irretrievable situation, so there can be no slowdown.This treats AI as if it were a super-weapon, equivalent to the nuclear arms buildout of the cold war, and AI models are machines of mass destruction, as opposed to a group of diverse technologies with broad applications.Amodei said “a Chinese lead in AI would pose grave danger for the US and the world”, but a Chinese government spokesperson responded that “fearmongering, confrontation and vicious competition will only disrupt the process of global AI governance, which serves no one’s interest”.Some commentators see another motive for this the Washington/Anthropic framing of the China threat. An engineer who worked for Hugging Face suggested Amodei’s call for pacing the frontier comes from a desire to suppress the progress of cheap, open-source Chinese AI models.These models are nearly as capable as OpenAI’s and Anthropic’s, with the difference being that their source code is available to anyone and they do not charge their users. They pose a serious threat to Anthropic and OpenAI’s path to profitability, and there are hundreds of billions of dollars on the line.Explore more on these topicsAI (artificial intelligence)AnthropicEthicsSam AltmanElon MuskOpenAIDatacentresexplainersShareReuse this content",
-      "content_html": "<html>\n  <body>\n    <p>There have been some shocking claims in recent days about AI safety: we face a 10% chance of doom; AIs are worse than nukes; a “botnet” threatens the entire internet; it’s all a big tech psyop.</p>\n    <p>Below, we look at six claims and reactions to them.</p>\n    <h2>‘In 6–12 months … a swarm could be capable of taking over the entire internet with a persistent botnet – potentially causing hundreds of billions of dollars in damage’ – Dario Amodei, chief executive of Anthropic, 12 September 2026</h2>\n    <p>Amodei’s concerns should not be entirely dismissed but require a large shaker of salt, said Gary Marcus, an AI sceptic and emeritus professor at New York University.</p>\n    <p>It was “nonsensical”, he said, to suggest the entire internet is vulnerable and that it was “pretty unclear how that happens without extreme negligence on the part of the labs themselves”. Marcus highlighted a recent assessment by the UK AI Security Institute that Mythos, one of Anthropic’s current leading-edge AIs, could “autonomously compromise [only] small, weakly defended vulnerable systems”.</p>\n    <p>With large parts of the internet driven by computer infrastructure owned by Cloudflare, Google and Amazon Web Services (AWS), Marcus – assessing the claim with two colleagues – said he doubted that any of those companies could be taken down or controlled for a prolonged period of time without government force. Less defended individual websites might be attacked but “the internet itself is very unlikely to crumble”, they said.</p>\n    <p>Meanwhile Niels Rogge, an engineer at Hugging Face which was hacked by OpenAI agents, called the internet takeover claim “bizarre nonsense”. The hack into Hugging Face resulted from improper human control and “an insane amount of compute only they can afford”, he said.</p>\n    <p>Add to Amodei’s assessment of an internet takeover within a year the view expressed on Monday by his Anthropic co-founder Jack Clark, that the moment when AIs “start doing dangerous stuff” was in about 20 years, and the picture becomes more doubtful still.</p>\n    <p>Prof Alan Woodward at the University of Surrey’s centre for cyber security said botnets tend to stall as the internet is not homogeneous and it is difficult to design them to persist in all its parts. Internet traffic is also resilient and tends to reroute around damage.</p>\n    <p>“The AIs would not decide to do it on their own,” Woodward said. “It’s the humans that are responsible and the AI is a tool. That is what we need to control, not the AI.”</p>\n    <h2>‘We really do earnestly believe AI could kill all humans! I personally think it is &gt;10% within the next decade’ – Evan Hubinger, alignment science lead at Anthropic, 9 September 2026</h2>\n    <p>This statement is an expression of what is known in the AI world as p(doom) – or probability of doom. It’s the likelihood of AI wiping out humanity by evading our control and triggering catastrophe, perhaps through developing potent bioweapons or crashing the global financial system.</p>\n    <p>One survey of researchers’ forecasts, published this week, asks them to place a number on the chance of “human extinction or similarly permanent and severe disempowerment from advanced AI”. But Heidy Khlaaf, chief scientist at the AI Now Institute research body, is among experts sceptical about giving percentage chances to existential scenarios.</p>\n    <p>“These claims are neither falsifiable nor verifiable, making then unscientific by their very nature,” she said. The shortage of concrete examples of what a “superintelligent” AI might do to cause “doom” only adds to the cloudiness. A source familiar with Anthropic’s thinking acknowledges that “the exact chances of any one outcome are probably unknowable”.</p>\n    <p>“If you cannot provide such evidence, it also implies whatever numbers you produced for ‘extinction’ have no scientific basis,” Khlaaf added. Critics say such numbers borrow the authority of science without doing the work.</p>\n    <p>Even if quantifying risk is hard, there are qualitative examples of it. Safety incidents have happened and worst-outcome scenarios have been mooted. OpenAI confirmed in July that its agents – AI tools acting autonomously – had gone rogue during a safety test. The agents colluded, communicated and strategised in a sophisticated “swarm” to hack into other parts of the internet.</p>\n    <p>Meanwhile, on Monday, OpenAI researcher Dan Selsam said all-powerful AIs could trigger “runaway industrialisation that makes the planet inhospitable to humans”. Anthropic also said last week it found “five case studies of actors using our models in ways that could support biological weapons development”.</p>\n    <h2>'I think the groundwork for this psy op (for lack of a better term) has been prepared for a long time. This was just the match that lit the fire' – Elon Musk, CEO of SpaceX and the world’s richest person, 10 September 2026</h2>\n    <p>Musk’s reference to a “psy op” alludes to the argument that the big AI companies are calling for tighter regulation of the technology so that it effectively brings up the drawbridge on advanced AI. If governments put restrictions on development of cutting-edge AI, can startups find the money and personnel to adhere to the regime?</p>\n    <p>The US vice-president, JD Vance, on Monday said he felt “a little bit weird about the fact that you have so many frontier AI tech companies kind of coming to the government and begging the government to regulate them”. He said it felt like “a Trojan horse”.</p>\n    <p>Anthropic’s Clark said governments should act while there is a small number of key players, so it is easier to put in place a “policy regime … that can prevent accidents and can prevent the technology spiralling out of control”. Critics call this a “regulatory capture” strategy on the assumption such regulation might slow down the progress of potential rivals.</p>\n    <img src=\"https://i.guim.co.uk/img/media/24329f3b391990b44a910835aa84157de338d14c/0_0_4500_2400/master/4500.jpg?width=445&amp;dpr=1&amp;s=none&amp;crop=none\" alt=\"Composite image of Elon Musk, CEO of Anthropic Dario Amodei, and OpenAI CEO Sam Altman \"/>\n    <p>Others think Amodei’s risk warnings and calls for regulation and pacing are sincere. Yoshua Bengio, the Canadian computer scientist and a pioneer of modern AI , who has campaigned against breakneck AI development, said he is sceptical that this is an elaborate lobbying scheme. Applying the brakes is not in the interests of companies preparing for stock market flotations that could be worth trillions of dollars, he said.</p>\n    <p>“If the governments impose what they’re asking for, which is pacing to avoid catastrophic risks, that’s going to cost them financially quite a lot,” he said.</p>\n    <h2>'A superintelligent AI poses a threat on the same, possibly, a greater scale' to nuclear weapons – Des Browne, former UK defence secretary, 7 September 2026</h2>\n    <p>“Unfortunately he is entirely correct,” said Toby Ord, senior researcher at Oxford University’s AI governance initiative. “Just as we can’t uninvent the bomb, once we develop AI systems that surpass humanity it would be almost impossible to go back.”</p>\n    <p>But the key point is that superintelligent AI does not yet exist and is not guaranteed to happen. The safety-oriented AI Futures Project forecasts such a thing will not emerge before December 2028. OpenAI’s chief executive Sam Altman has said it could take until 2035.</p>\n    <p>The Rand Corporation concluded AI cannot cause the use of nuclear weapons because of strict safeguards built into their command and control systems. But this was based on assumptions including defence officials not introducing AI into the weapons’ management systems. The UN resolved in December that human control and oversight should be maintained over nuclear weapon control systems.</p>\n    <p>AIs could contribute to other nuclear risks. AIs might use disinformation to influence the humans in charge – for example deceptively suggesting an adversary is about to launch a nuclear strike.</p>\n    <p>The International Campaign to Abolish Nuclear Weapons warns “cyber-attacks could manipulate the information decision-makers get to launch nuclear weapons, and interfere with the operation of nuclear weapons themselves”. It said AI could accelerate other aspects of warfare, squeezing the time for human decision-making.</p>\n    <h2>'You’ve got to be a moron not to say slow it down' – Bernie Sanders, Democrat senator for Vermont, 10 September 2026</h2>\n    <p>Sanders wants a ban on the creation of superintelligence and a pause on advanced AI development, citing AI industry leaders who say directly they are developing a dangerous technology.</p>\n    <p>The most prominent opponent of a slowdown is Donald Trump, who responded to calls to do so this week saying the only guardrails needed are a “STRONG AND SMART (High IQ!) PRESIDENT”. He claimed there is a “sick conspiracy” against AI and datacentres “and the only one that is happy about it is China”.</p>\n    <p>Pedro Domingos, emeritus professor of computer science at the University of Washington, is among accelerationists pushing for the research to keep going.</p>\n    <p>“The path to better understanding and control of AI is more research, not less,” he has said. “What would be truly irresponsible is putting up barriers to it.”</p>\n    <p>Alex Karp, the chief executive of Palantir, said: “If we didn’t have the adversaries we have, I would be very in favour of pausing this technology completely, but we do. You can’t pause it because it’s a structural advantage.”</p>\n    <h2>'There is no day after tomorrow if China wins at this. If they were to pull away from us on AI, then nothing else would matter' – Scott Bessent, US treasury secretary, 8 September 2026</h2>\n    <p>The US and China are runaway leaders in AI development. There is a view that ceding the lead to Beijing would be an irretrievable situation, so there can be no slowdown.</p>\n    <p>This treats AI as if it were a super-weapon, equivalent to the nuclear arms buildout of the cold war, and AI models are machines of mass destruction, as opposed to a group of diverse technologies with broad applications.</p>\n    <p>Amodei said “a Chinese lead in AI would pose grave danger for the US and the world”, but a Chinese government spokesperson responded that “fearmongering, confrontation and vicious competition will only disrupt the process of global AI governance, which serves no one’s interest”.</p>\n    <p>Some commentators see another motive for this the Washington/Anthropic framing of the China threat. An engineer who worked for Hugging Face suggested Amodei’s call for pacing the frontier comes from a desire to suppress the progress of cheap, open-source Chinese AI models.</p>\n    <p>These models are nearly as capable as OpenAI’s and Anthropic’s, with the difference being that their source code is available to anyone and they do not charge their users. They pose a serious threat to Anthropic and OpenAI’s path to profitability, and there are hundreds of billions of dollars on the line.</p>\n  </body>\n</html>",
-      "word_count": 1779,
-      "char_count": 11252,
-      "lead_image": "https://i.guim.co.uk/img/media/eadcd6f3311ca07c60d6211bbb3b303b657cf252/1031_0_4874_3900/master/4874.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69476f847904bcbde87e677efb585076",
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/eadcd6f3311ca07c60d6211bbb3b303b657cf252/1031_0_4874_3900/master/4874.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69476f847904bcbde87e677efb585076",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/eadcd6f3311ca07c60d6211bbb3b303b657cf252/1031_0_4874_3900/master/4874.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=73bc74395a0694753e6f5ce95bdbeff7",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/eadcd6f3311ca07c60d6211bbb3b303b657cf252/1031_0_4874_3900/master/4874.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=a935307a9c7338d0460211293eefc910",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/eadcd6f3311ca07c60d6211bbb3b303b657cf252/1031_0_4874_3900/master/4874.jpg?width=465&dpr=1&s=none&crop=none",
-          "alt": "A red robot face stands out among many identical teal robot faces in profile",
-          "caption": "Experts say claims AI could kill all humans through biological weapons development had no scientific basis. Illustration: wildpixel/Getty Images",
-          "role": "body"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/24329f3b391990b44a910835aa84157de338d14c/0_0_4500_2400/master/4500.jpg?width=445&dpr=1&s=none&crop=none",
-          "alt": "Composite image of Elon Musk, CEO of Anthropic Dario Amodei, and OpenAI CEO Sam Altman",
-          "caption": "Elon Musk, CEO of Anthropic Dario Amodei, and OpenAI CEO Sam Altman have said AI firms should slow down AI development. Composite: Fabrice Coffrini; Julien de Rosa; Mandel Ngan/AFP/Getty Images",
-          "role": "body"
-        }
-      ],
-      "image_count": 5,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-15T22:41:08Z"
-    },
-    {
-      "id": "f2ff05529585d565",
-      "title": "ACCESS update: CMS boosts coverage for heart failure technologies",
-      "header": "Cardiovascular Business",
-      "published_at": "2026-09-15T19:35:48Z",
-      "published_raw": "Tue, 15 Sep 2026 19:35:48 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0xfNW5yQmM5TnU3SDkxdGpGRENJNGtPWTk1LW55NGpWUWMtNDZkdkFmdm5JQTV6VldXMEt5TkN1YjlnMDBZN3RqYzMtRDFHT1JVaVViV2lMbmJMcV8wdnpDU1VnYkxXQl9RMWh1cDdxOVZzSWd5cVNjLTlOVjlqVUtjcWFDVzNFcXhpWHZaYloyTjJ4YkhzZGlGY2NZNno4WW9tczRvMWpZeG1qbVRhZ0pLMWlFVmozeC1uRUtHWXFtZW8?oc=5",
-      "description": "ACCESS update: CMS boosts coverage for heart failure technologies Cardiovascular Business",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0xfNW5yQmM5TnU3SDkxdGpGRENJNGtPWTk1LW55NGpWUWMtNDZkdkFmdm5JQTV6VldXMEt5TkN1YjlnMDBZN3RqYzMtRDFHT1JVaVViV2lMbmJMcV8wdnpDU1VnYkxXQl9RMWh1cDdxOVZzSWd5cVNjLTlOVjlqVUtjcWFDVzNFcXhpWHZaYloyTjJ4YkhzZGlGY2NZNno4WW9tczRvMWpZeG1qbVRhZ0pLMWlFVmozeC1uRUtHWXFtZW8?oc=5\" target=\"_blank\">ACCESS update: CMS boosts coverage for heart failure technologies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cardiovascular Business</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0xfNW5yQmM5TnU3SDkxdGpGRENJNGtPWTk1LW55NGpWUWMtNDZkdkFmdm5JQTV6VldXMEt5TkN1YjlnMDBZN3RqYzMtRDFHT1JVaVViV2lMbmJMcV8wdnpDU1VnYkxXQl9RMWh1cDdxOVZzSWd5cVNjLTlOVjlqVUtjcWFDVzNFcXhpWHZaYloyTjJ4YkhzZGlGY2NZNno4WW9tczRvMWpZeG1qbVRhZ0pLMWlFVmozeC1uRUtHWXFtZW8?oc=5"
-      ],
-      "scraped_at": "2026-09-15T22:41:09Z",
-      "url": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/access-update-cms-boosts-coverage-heart-failure-technologies",
-      "final_url": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/access-update-cms-boosts-coverage-heart-failure-technologies",
-      "source": "Cardiovascular Business",
-      "article_title": "ACCESS update: CMS boosts coverage for heart failure technologies",
-      "heading": "ACCESS update: CMS boosts coverage for heart failure technologies",
-      "authors": [
-        "Dave Fornell"
-      ],
-      "article_published_at": "2026-09-15T19:35:48+0000",
-      "article_modified_at": "2026-09-15T20:49:14+0000",
-      "summary": "The ACCESS model is designed help more patients get treated and managed with advanced technologies. In addition to heart failure, improved coverage has been announced for Medicare beneficiaries battling COPD, substance use disorders and nicotine dependence.",
-      "content": "ACCESS update: CMS boosts coverage for heart failure technologies\nIn an effort to combat the increasing costs of care associated with heart failure, the Centers of Medicare and Medicaid Services (CMS) is expanding coverage for technology that monitors patients at home through the Advancing Chronic Care with Effective, Scalable Solutions (ACCESS) Model.\nStarting in the spring of 2027, CMS will expand the existing ACCESS initiative to offer technology to better monitor Medicare beneficiaries and keep them out of hospitals and attempt to lower healthcare expenditures by managing conditions at home. In addition to heart failure, ACCESS is also focused on improving care for chronic obstructive pulmonary disease (COPD), substance use disorders and nicotine dependence.\nFor heart failure, the program will use continuous monitoring to try and attain measurable improvements in function, symptom management and quality of life. Heart failure management and readmissions are both associated with a significant amount of Medicare spending. This is among several efforts to try and reduce those costs.\nThe ACCESS model is designed to modernize CMS and create a digital health ecosystem that allows Medicare beneficiaries greater access to innovative health technologies. ACCESS uses a new payment approach that emphasizes achieving specified health outcomes and value-based medicine over paying for individual services.\nThe ACCESS model began July 5, 2026, offering new care options for people with chronic conditions affecting more than two-thirds of people with Medicare. These include high blood pressure, diabetes, chronic musculoskeletal pain and depression. Three out of four people with Medicare qualify for at least one ACCESS track. The program is scheduled to run for 10 years.\nACCESS was created because people with Original Medicare historically lacked a payment option to adequately support novel technology-supported care. Instead, it focused on fee-for-service payments for a defined set of activities. ACCESS removes these Medicare payment barriers for patients who qualify.\nCMS said ACCESS will test a new outcome-aligned payment (OAP) option for Medicare-enrolled care organizations. It emphasizes outcomes over volume of care episodes, enabling clinicians to offer innovative technology-supported care that improves patient health.\nParticipating organizations will receive recurring payments for managing patients’ conditions, and full payment amounts will be tied to achieving measurable health outcomes. The model focuses on clinical improvement or control of a condition determined by each patient's baseline and measurements at specified periods of time that should show improvements.\n“We built ACCESS because too many people with chronic conditions were falling through the cracks between appointments,” CMS Administrator Mehmet Oz, MD, a former cardiac surgeon, said in a statement. “ACCESS is one of the tools we are using to bring healthcare into the digital age, giving patients and their providers greater access to AI-enabled technologies, remote monitoring, connected devices, and other innovative tools that can help identify problems earlier and improve care. This latest expansion of the program will help more Americans get the care they need and reward providers who deliver actual results.”\nCurrent cardio-kidney metabolic coverage\nAs of July 5 in cardiology, ACCESS began coverage for qualifying conditions of cardio-kidney metabolic (CKM) disorders. Under early CKM (eCKM) this includes hypertension, or two or more of the following: dyslipidemia, overweight with central obesity and prediabetes. Outcome measures include lowering blood pressure, LDL-C, HbA1c and weight. Patients either receive the benefit free from CMS or with a $6 monthly payment.\nCKM patients include those with diabetes mellitus, chronic kidney disease (stage 3a/3b), and atherosclerotic cardiovascular disease (ASCVD). Outcome measures monitored include blood pressure, LDL-C, HbA1c, weight, uACR, and eGFR. Patients either get the services for free or with a $7 per month fee.\nFor physicians, the CMS annual payment allowed for eCKM is $360 during the initial period and $180 for a follow-on period. For CKM, it is $420 during the initial period and $210 for follow-on period. For beneficiaries residing in rural areas, CMS will provide an additional fixed payment of $15 to offset higher operational costs related to connected device distribution and support.\nHowever, CMS said in its ACCESS guidance that these allowed amounts do not reflect potential downward payment adjustments resulting from the clinical outcome adjustment or substitute spend adjustment applied to the Medicare paid amount.\nFind more detailed information on the payment model.\nCMS ACCESS heart failure monitoring coverage begins in 2027\nStarting April 1, 2027, CMS will expand ACCESS coverage for heart failure remote monitoring technologies. According to the CMS ACCESS website, these include telehealth software to help patients interact with their healthcare providers from anywhere and wearable devices to continuously monitor sleep, heart rate, movement, blood sugar and other functions. Also covered are apps that coach people to make lifestyle changes that can benefit both their behavioral and physical health.\nCMS said these services will be especially valuable for people in communities with limited local care options, like those residing in rural areas.",
-      "content_html": "<html>\n  <body>\n    <h1>ACCESS update: CMS boosts coverage for heart failure technologies</h1>\n    <p>In an effort to combat the increasing costs of care associated with heart failure, the Centers of Medicare and Medicaid Services (CMS) is expanding coverage for technology that monitors patients at home through the Advancing Chronic Care with Effective, Scalable Solutions (ACCESS) Model.</p>\n    <p>Starting in the spring of 2027, CMS will expand the existing ACCESS initiative to offer technology to better monitor Medicare beneficiaries and keep them out of hospitals and attempt to lower healthcare expenditures by managing conditions at home. In addition to heart failure, ACCESS is also focused on improving care for chronic obstructive pulmonary disease (COPD), substance use disorders and nicotine dependence.</p>\n    <p>For heart failure, the program will use continuous monitoring to try and attain measurable improvements in function, symptom management and quality of life. Heart failure management and readmissions are both associated with a significant amount of Medicare spending. This is among several efforts to try and reduce those costs.</p>\n    <p>The ACCESS model is designed to modernize CMS and create a digital health ecosystem that allows Medicare beneficiaries greater access to innovative health technologies. ACCESS uses a new payment approach that emphasizes achieving specified health outcomes and value-based medicine over paying for individual services.</p>\n    <p>The ACCESS model began July 5, 2026, offering new care options for people with chronic conditions affecting more than two-thirds of people with Medicare. These include high blood pressure, diabetes, chronic musculoskeletal pain and depression. Three out of four people with Medicare qualify for at least one ACCESS track. The program is scheduled to run for 10 years.</p>\n    <p>ACCESS was created because people with Original Medicare historically lacked a payment option to adequately support novel technology-supported care. Instead, it focused on fee-for-service payments for a defined set of activities. ACCESS removes these Medicare payment barriers for patients who qualify.</p>\n    <p>CMS said ACCESS will test a new outcome-aligned payment (OAP) option for Medicare-enrolled care organizations. It emphasizes outcomes over volume of care episodes, enabling clinicians to offer innovative technology-supported care that improves patient health.</p>\n    <p>Participating organizations will receive recurring payments for managing patients’ conditions, and full payment amounts will be tied to achieving measurable health outcomes. The model focuses on clinical improvement or control of a condition determined by each patient's baseline and measurements at specified periods of time that should show improvements.</p>\n    <p>“We built ACCESS because too many people with chronic conditions were falling through the cracks between appointments,” CMS Administrator Mehmet Oz, MD, a former cardiac surgeon, said in a statement. “ACCESS is one of the tools we are using to bring healthcare into the digital age, giving patients and their providers greater access to AI-enabled technologies, remote monitoring, connected devices, and other innovative tools that can help identify problems earlier and improve care. This latest expansion of the program will help more Americans get the care they need and reward providers who deliver actual results.”</p>\n    <h2>Current cardio-kidney metabolic coverage</h2>\n    <p>As of July 5 in cardiology, ACCESS began coverage for qualifying conditions of cardio-kidney metabolic (CKM) disorders. Under early CKM (eCKM) this includes hypertension, or two or more of the following: dyslipidemia, overweight with central obesity and prediabetes. Outcome measures include lowering blood pressure, LDL-C, HbA1c and weight. Patients either receive the benefit free from CMS or with a $6 monthly payment.</p>\n    <p>CKM patients include those with diabetes mellitus, chronic kidney disease (stage 3a/3b), and atherosclerotic cardiovascular disease (ASCVD). Outcome measures monitored include blood pressure, LDL-C, HbA1c, weight, uACR, and eGFR. Patients either get the services for free or with a $7 per month fee.</p>\n    <p>For physicians, the CMS annual payment allowed for eCKM is $360 during the initial period and $180 for a follow-on period. For CKM, it is $420 during the initial period and $210 for follow-on period. For beneficiaries residing in rural areas, CMS will provide an additional fixed payment of $15 to offset higher operational costs related to connected device distribution and support.</p>\n    <p>However, CMS said in its ACCESS guidance that these allowed amounts do not reflect potential downward payment adjustments resulting from the clinical outcome adjustment or substitute spend adjustment applied to the Medicare paid amount.</p>\n    <p>Find more detailed information on the payment model.</p>\n    <h2>CMS ACCESS heart failure monitoring coverage begins in 2027</h2>\n    <p>Starting April 1, 2027, CMS will expand ACCESS coverage for heart failure remote monitoring technologies. According to the CMS ACCESS website, these include telehealth software to help patients interact with their healthcare providers from anywhere and wearable devices to continuously monitor sleep, heart rate, movement, blood sugar and other functions. Also covered are apps that coach people to make lifestyle changes that can benefit both their behavioral and physical health.</p>\n    <p>CMS said these services will be especially valuable for people in communities with limited local care options, like those residing in rural areas.</p>\n  </body>\n</html>",
-      "word_count": 799,
-      "char_count": 5452,
-      "lead_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-02/istock-2079259796.jpg?h=7c7cd935&itok=R-V2TFfr",
-      "images": [
-        {
-          "url": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-02/istock-2079259796.jpg?h=7c7cd935&itok=R-V2TFfr",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://cardiovascularbusiness.com/sites/default/files/styles/twitter/public/2025-02/istock-2079259796.jpg?h=7c7cd935&itok=L8maocVU",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 2,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-15T22:41:09Z"
-    },
-    {
-      "id": "b1060f2a63ba87d8",
-      "title": "How A.I. Risks Are Splitting Silicon Valley and Washington",
-      "header": "The New York Times",
-      "published_at": "2026-09-15T19:08:08Z",
-      "published_raw": "Tue, 15 Sep 2026 19:08:08 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEhaRW4xd1l5SUZvTm9yS2cwZkR1eG9KYWhSV29KRzBFZ0pJa2FhSTJjMHBVdjZQaW9zWjJ3dFNWZ0x2SVF1MTZrODhIZHZ1MlFabVlkTExKZmVYRGV2Z3pYSTV1S1dQZkhMVVNRRTZFUVo5TkcwMl9ZTkR0eExTT1d3SkZONzZ3a0xvcFBocVhZUWI1V2F6QW9OSWVsalcyT0EzZUE3OFc?oc=5",
-      "description": "How A.I. Risks Are Splitting Silicon Valley and Washington The New York Times",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEhaRW4xd1l5SUZvTm9yS2cwZkR1eG9KYWhSV29KRzBFZ0pJa2FhSTJjMHBVdjZQaW9zWjJ3dFNWZ0x2SVF1MTZrODhIZHZ1MlFabVlkTExKZmVYRGV2Z3pYSTV1S1dQZkhMVVNRRTZFUVo5TkcwMl9ZTkR0eExTT1d3SkZONzZ3a0xvcFBocVhZUWI1V2F6QW9OSWVsalcyT0EzZUE3OFc?oc=5\" target=\"_blank\">How A.I. Risks Are Splitting Silicon Valley and Washington</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEhaRW4xd1l5SUZvTm9yS2cwZkR1eG9KYWhSV29KRzBFZ0pJa2FhSTJjMHBVdjZQaW9zWjJ3dFNWZ0x2SVF1MTZrODhIZHZ1MlFabVlkTExKZmVYRGV2Z3pYSTV1S1dQZkhMVVNRRTZFUVo5TkcwMl9ZTkR0eExTT1d3SkZONzZ3a0xvcFBocVhZUWI1V2F6QW9OSWVsalcyT0EzZUE3OFc?oc=5"
-      ],
-      "scraped_at": "2026-09-16T13:03:28Z",
-      "url": "https://www.nytimes.com/interactive/2026/09/15/technology/ai-regulation-risks-politicians-executives.html",
-      "final_url": "https://www.nytimes.com/interactive/2026/09/15/technology/ai-regulation-risks-politicians-executives.html",
-      "source": "The New York Times",
-      "article_title": "",
-      "heading": "How A.I. Risks Are Splitting Silicon Valley and Washington",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "How A.I. Risks Are Splitting Silicon Valley and Washington The New York Times",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-15T22:41:07Z"
     }
   ]
 }
