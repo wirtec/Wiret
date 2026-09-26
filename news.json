@@ -1,17 +1,79 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-26T18:17:23Z",
+  "generated_at": "2026-09-26T21:46:40Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 16,
-    "added": 11,
+    "scraped_now": 11,
+    "added": 6,
     "updated": 5,
-    "ok": 354,
-    "failed": 146,
-    "duration_seconds": 100.61
+    "ok": 356,
+    "failed": 144,
+    "duration_seconds": 6.65
   },
   "articles": [
+    {
+      "id": "46d7457163b6869b",
+      "title": "Apple owes Taction Technology $5.7B for violating haptics patents",
+      "header": "Seeking Alpha",
+      "published_at": "2026-09-26T21:31:04Z",
+      "published_raw": "Sat, 26 Sep 2026 21:31:04 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3dBWVdHeXkyTWtrRFd2YjBRblBMU00tZmlFaUpoOFV2alJxWWV1SGdIUDBTemtqcF9uVkdBTWg4TktqQXZwVnlVRmRvdlNYWE9xUDJfMTBWcFdVd1FyemJJNTNDcmY1bVd6em5qejFHX0tZazkyWUZTNnFMSGo0NWlDS0lIN0wzZ25wSXpNbWVBRjc2TmYwTDBqejVEcWc?oc=5",
+      "description": "Apple owes Taction Technology $5.7B for violating haptics patents Seeking Alpha",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3dBWVdHeXkyTWtrRFd2YjBRblBMU00tZmlFaUpoOFV2alJxWWV1SGdIUDBTemtqcF9uVkdBTWg4TktqQXZwVnlVRmRvdlNYWE9xUDJfMTBWcFdVd1FyemJJNTNDcmY1bVd6em5qejFHX0tZazkyWUZTNnFMSGo0NWlDS0lIN0wzZ25wSXpNbWVBRjc2TmYwTDBqejVEcWc?oc=5\" target=\"_blank\">Apple owes Taction Technology $5.7B for violating haptics patents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3dBWVdHeXkyTWtrRFd2YjBRblBMU00tZmlFaUpoOFV2alJxWWV1SGdIUDBTemtqcF9uVkdBTWg4TktqQXZwVnlVRmRvdlNYWE9xUDJfMTBWcFdVd1FyemJJNTNDcmY1bVd6em5qejFHX0tZazkyWUZTNnFMSGo0NWlDS0lIN0wzZ25wSXpNbWVBRjc2TmYwTDBqejVEcWc?oc=5"
+      ],
+      "scraped_at": "2026-09-26T21:46:35Z",
+      "url": "https://seekingalpha.com/news/4647381-apple-owes-taction-technology-5_7b-violating-haptics-patents",
+      "final_url": "https://seekingalpha.com/news/4647381-apple-owes-taction-technology-5_7b-violating-haptics-patents",
+      "source": "Seeking Alpha",
+      "article_title": "Apple owes Taction Technology $5.7B for violating haptics patents",
+      "heading": "Apple owes Taction Technology $5.7B for violating haptics patents",
+      "authors": [
+        "Jonathan Block",
+        "SA News Editor"
+      ],
+      "article_published_at": "2026-09-26T17:31:04-04:00",
+      "article_modified_at": "2026-09-26T21:31:52.000Z",
+      "summary": "Federal jury orders Apple to pay $5.7B in haptics patent damages to Taction Technology. Read more here.",
+      "content": "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser.\nIs this happening to you frequently? Please\nreport it on our feedback forum.\nIf you have an ad-blocker enabled you may be blocked from proceeding. Please disable your ad-blocker and refresh.\nSearch field\nEntering text into the input field will update the search result below",
+      "content_html": "<body class=\"group/body\"><!--$--><!--html--><!--head--><!--body--><div class=\"appLoading appLoaderInvisible\" id=\"app-loader\"></div><span id=\"sprite-source\"></span><div class=\"root\" id=\"root\"><div class=\"flex h-full flex-col\"><div class=\"contents\" lang=\"en-US\"><div class=\"dXruV relative flex min-h-svh lg:min-h-screen\"><div class=\"flex min-w-0 grow flex-col\"><div></div><div class=\"oxhSB text-black relative z-sticky lg:hidden bg-black\"><div></div></div><div></div><main class=\"relative flex grow flex-col xVMU2 ZJK_K lg:pt-0\" id=\"content\"><div class=\"B8T8Q print:hidden md:min-h-18 lg:min-h-40\"></div><div class=\"flex grow flex-col\"><article class=\"container xxl:px-safe-or-36 px-safe-or-4 md:px-safe-or-20\" data-test-id=\"grid-container\"><div class=\"contents\" lang=\"en-US\"><div class=\"SAyGk\"><div class=\"lg:grid lg:grid-cols-template1 gap-18 xl:gap-36\"><div class=\"col-start-1 col-end-3 print:col-start-1 print:col-end-4\" data-test-id=\"grid-col-main\"><div class=\"contents\"><div><!--$?--><!--/$--></div></div><div class=\"sticky z-sticky mSlMC\"></div></div><div class=\"print:hidden\" data-test-id=\"right-rail\"><div class=\"h-full\"></div></div></div></div></div></article></div></main><div class=\"sticky bottom-0 z-sticky w-full\"><!--$--><!--/$--><div></div><div></div></div><!--$--><!--/$--><div class=\"KQ0s4\"><span class=\"invisible\"></span></div><!--$--><!--/$--><div></div></div></div><div class=\"fixed left-0 top-0 z-popover hidden size-full items-center overflow-hidden\" id=\"px-captcha-wrapper\"><div class=\"h7UNp flex size-full place-items-center justify-center bg-black/80\"><div class=\"pJ74o flex flex-col items-center justify-center bg-white py-18 pt-safe px-safe-or-18\"><div id=\"px-captcha\"></div><div><div>To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser.</div><div>Is this happening to you frequently? Please <a class=\"\" href=\"https://help.seekingalpha.com/kb-tickets/new\" rel=\"noopener noreferrer\" target=\"_blank\">report it on our feedback forum.</a></div><div class=\"mb-16\">If you have an ad-blocker enabled you may be blocked from proceeding. Please disable your ad-blocker and refresh.</div></div><div class=\"px-reference-id\"></div></div></div></div></div></div></div><div id=\"drawerRoot\"></div><div id=\"modalRoot\"></div><!--/$--><div hidden=\"\" id=\"S:0\"><div class=\"relative align-middle A3cNm mr-24 grow\" data-test-id=\"search-block\"><div class=\"flex flex-wrap w-full flex-col\"><label class=\"sr-only\" for=\"main-search-id\">Search field</label><div class=\"relative w-full\"><input aria-autocomplete=\"none\" aria-controls=\"\" aria-expanded=\"false\" aria-haspopup=\"true\" autocomplete=\"off\" class=\"inline-block text-ellipsis bg-clip-padding h-44 rounded-8 px-12 py-8 text-large-r border border-black-10 bg-white text-black placeholder:text-black-35 dark:border-black-30/40 dark:bg-black-95 dark:text-black-10 dark:placeholder:text-black-15 dark:focus:border-black-10 disabled:border-black-10 disabled:bg-black-5 disabled:text-black-10 disabled:opacity-100 dark:disabled:border-black-80 dark:disabled:bg-black-95 dark:disabled:text-black-80 read-only:text-black-35 dark:read-only:text-black-30 w-full vendor-clear-input-button invalid:shadow-none read-only:opacity-100 dark:placeholder:text-black-30 dark:read-only:text-black-30 rounded-8 lg:text-medium-2-r pr-38\" data-test-id=\"search-input\" id=\"main-search-id\" placeholder=\"Symbols, Analysts, Keywords\" spellcheck=\"false\" type=\"search\" value=\"\"/></div></div><div class=\"sr-only\"><span id=\"search-description-id\">Entering text into the input field will update the search result below</span><span aria-atomic=\"false\" aria-live=\"polite\" role=\"alert\"></span><span aria-atomic=\"false\" aria-live=\"polite\" role=\"alert\"></span></div></div></div><div hidden=\"\" id=\"S:1\"></div></body>",
+      "word_count": 61,
+      "char_count": 373,
+      "lead_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2279656546/image_2279656546.jpg?io=getty-c-w630",
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2279656546/image_2279656546.jpg?io=getty-c-w630",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2279656546/image_2279656546.jpg?io=getty-c-w1280",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2279656546/image_2279656546.jpg?io=getty-c-crop-16-9",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2279656546/image_2279656546.jpg?io=getty-c-crop-4-3",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 4,
+      "extractor": "bs4",
+      "status": "partial",
+      "error": "short_text",
+      "first_seen_at": "2026-09-26T21:46:35Z"
+    },
     {
       "id": "73227018a806dad0",
       "title": "State makes ‘crucial’ investments in local climate technology",
@@ -53,6 +115,54 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-26T18:15:46Z"
+    },
+    {
+      "id": "dfb8065e2cbc97ab",
+      "title": "Trump rejects combining US-China AI efforts",
+      "header": "Al Jazeera",
+      "published_at": "2026-09-26T17:43:02Z",
+      "published_raw": "Sat, 26 Sep 2026 17:43:02 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSzBRYzN3WUpBZC14b0NhWS1uN09FcGFxclBUSnlfNGJiYzVFWk9MdWJHSXpONENLN1A0c3RTd1FoNS1JSWw1eGxELTlEVVVZZFJRc3hfeTBPRVVaMlg5dkxaY09vSHdRZzJQMXNFNXFyZXV6Yk1rN2JuWmw1eS04NUoyYjFMZW1CVnU2d9IBkgFBVV95cUxNODlmLUZ0VTJlUVJEZGRXaDVCc1JKYW56SC1BLUR1TW9zbGs1eldTdVJXY1VJQlZZcHJGalN2S0dNRzQ0Nm5rbm10ckxrd1V6aExGdzBKNVR2MzI1OTdwVjdkanpWck9KUElTTl9nZFA0QkxDUWZITDRXcGF2ZHdzaGI3b29YRnhHOUk4ak5DZDFKQQ?oc=5",
+      "description": "Trump rejects combining US-China AI efforts Al Jazeera",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOSzBRYzN3WUpBZC14b0NhWS1uN09FcGFxclBUSnlfNGJiYzVFWk9MdWJHSXpONENLN1A0c3RTd1FoNS1JSWw1eGxELTlEVVVZZFJRc3hfeTBPRVVaMlg5dkxaY09vSHdRZzJQMXNFNXFyZXV6Yk1rN2JuWmw1eS04NUoyYjFMZW1CVnU2d9IBkgFBVV95cUxNODlmLUZ0VTJlUVJEZGRXaDVCc1JKYW56SC1BLUR1TW9zbGs1eldTdVJXY1VJQlZZcHJGalN2S0dNRzQ0Nm5rbm10ckxrd1V6aExGdzBKNVR2MzI1OTdwVjdkanpWck9KUElTTl9nZFA0QkxDUWZITDRXcGF2ZHdzaGI3b29YRnhHOUk4ak5DZDFKQQ?oc=5\" target=\"_blank\">Trump rejects combining US-China AI efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSzBRYzN3WUpBZC14b0NhWS1uN09FcGFxclBUSnlfNGJiYzVFWk9MdWJHSXpONENLN1A0c3RTd1FoNS1JSWw1eGxELTlEVVVZZFJRc3hfeTBPRVVaMlg5dkxaY09vSHdRZzJQMXNFNXFyZXV6Yk1rN2JuWmw1eS04NUoyYjFMZW1CVnU2d9IBkgFBVV95cUxNODlmLUZ0VTJlUVJEZGRXaDVCc1JKYW56SC1BLUR1TW9zbGs1eldTdVJXY1VJQlZZcHJGalN2S0dNRzQ0Nm5rbm10ckxrd1V6aExGdzBKNVR2MzI1OTdwVjdkanpWck9KUElTTl9nZFA0QkxDUWZITDRXcGF2ZHdzaGI3b29YRnhHOUk4ak5DZDFKQQ?oc=5"
+      ],
+      "scraped_at": "2026-09-26T21:46:36Z",
+      "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts",
+      "final_url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts",
+      "source": "Al Jazeera",
+      "article_title": "Trump rejects combining US-China AI efforts",
+      "heading": "Trump rejects combining US-China AI efforts",
+      "authors": [
+        "Al Jazeera Staff"
+      ],
+      "article_published_at": "2026-09-26T17:39:18Z",
+      "article_modified_at": "2026-09-26T17:39:18Z",
+      "summary": "The US president said the fears over AI were just 'hoaxes'.",
+      "content": "Trump rejects combining US-China AI efforts\nThe US president said the country should not cooperate with China on the technology despite growing concerns.\nUnited States President Donald Trump has said the country will not be heeding growing calls to regulate the development of artificial intelligence.\nOn Saturday, as he departed the White House, Trump told reporters the US “is not going to be putting on brakes” for AI, even as US lawmakers and CEOs of some of the nation’s largest tech firms agreed on the need to slow its pace, citing its potential to put humanity at risk.\nRecommended Stories\nlist of 3 items\n- list 1 of 3US and China presidents discuss cooperation, trade and AI risks\n- list 2 of 3When AI’s moving this fast, who’s protecting us?\n- list 3 of 3Trump hails ‘very productive’ talks with China’s Xi Jinping\nThe president likened those fears to other issues he has previously claimed are “hoaxes”, including climate change and the investigation that examined whether his 2016 campaign colluded with Russian operatives.\n“When they wanna put on brakes, it’s just like everybody’s going to be dead. You’re all supposed to be dead now, because of global warming. It’s like Russia, Russia, Russia hoax. All of these different hoaxes,” Trump said.\n“What they wanna do is stop our progress, because we’re leading China by a lot,” he added. “And we’re going to keep it that way.”\nTrump, who just concluded a 3-day summit with Chinese President Xi Jinping, said the US should not cooperate with China on the technology.\n“I would rather not integrate, because we’re leading by a lot,” he said. “When you’re leading, you don’t open it up to each other.”\nDuring his final address before the United Nations General Assembly, UN Secretary-General Antonio Guterres urged leaders on Tuesday to enact guardrails on AI, warning that unchecked development “without accountability” could put the world at risk.\nUS lawmakers and experts had hoped Trump and Xi would use their meeting to deliver a breakthrough agreement on AI. But that did not materialise.\n“We didn’t spend that much time talking about it,” Trump said.\nAs criticism rippled through Washington — and around the world — over the squandered opportunity, the White House on Friday said the US and China agreed to establish a “bilateral communication channel” for AI incidents. There was no immediate comment from Beijing on the White House statement.\nThe president, however, indicated that any AI discussions he had with Xi, who is set to meet with Trump two more times this year, largely focused on his preferred name for the technology: “super intelligence”.\nChina “respects” Washington’s switch in phrasing from artificial intelligence to “super intelligence”, the Chinese Ministry of Foreign Affairs said on Saturday, after Donald Trump said Xi appeared to like the rewording.\nThe US president announced on Tuesday that his administration would rename AI as “super intelligence”, or SI, in official communications.\n“Artificial intelligence technologies are continuously developing, all parties can strengthen exchanges, discuss in-depth and seek consensus in light of the latest situation,” said a statement from an unidentified Chinese ministry spokesperson.\nWhen it comes to AI, Xi has taken a more measured tone than Trump and said the technology must develop under human control.",
+      "content_html": "<html>\n  <body><h1>Trump rejects combining US-China AI efforts</h1><p>The US president said the country should not cooperate with China on the technology despite growing concerns.</p><img src=\"https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab7f6461f3f-1790441030.jpg?resize=770%2C513&amp;quality=80\" alt=\"US President Donald Trump speaks to members of the press before boarding Marine One as he departs from the South Lawn of the White House in Washington, DC, on September 26, 2026.\"/><p>United States President Donald Trump has said the country will not be heeding growing calls to regulate the development of artificial intelligence.</p><p>On Saturday, as he departed the White House, Trump told reporters the US “is not going to be putting on brakes” for AI, even as US lawmakers and CEOs of some of the nation’s largest tech firms agreed on the need to slow its pace, citing its potential to put humanity at risk.</p><h2>Recommended Stories</h2>list of 3 items<ul><li>list 1 of 3US and China presidents discuss cooperation, trade and AI risks</li><li>list 2 of 3When AI’s moving this fast, who’s protecting us?</li><li>list 3 of 3Trump hails ‘very productive’ talks with China’s Xi Jinping</li></ul><p>The president likened those fears to other issues he has previously claimed are “hoaxes”, including climate change and the investigation that examined whether his 2016 campaign colluded with Russian operatives.</p><p>“When they wanna put on brakes, it’s just like everybody’s going to be dead. You’re all supposed to be dead now, because of global warming. It’s like Russia, Russia, Russia hoax. All of these different hoaxes,” Trump said.</p><p>“What they wanna do is stop our progress, because we’re leading China by a lot,” he added. “And we’re going to keep it that way.”</p><p>Trump, who just concluded a 3-day summit with Chinese President Xi Jinping, said the US should not cooperate with China on the technology.</p><p>“I would rather not integrate, because we’re leading by a lot,” he said. “When you’re leading, you don’t open it up to each other.”</p><p>During his final address before the United Nations General Assembly, UN Secretary-General Antonio Guterres urged leaders on Tuesday to enact guardrails on AI, warning that unchecked development “without accountability” could put the world at risk.</p><p>US lawmakers and experts had hoped Trump and Xi would use their meeting to deliver a breakthrough agreement on AI. But that did not materialise.</p><p>“We didn’t spend that much time talking about it,” Trump said.</p><p>As criticism rippled through Washington — and around the world — over the squandered opportunity, the White House on Friday said the US and China agreed to establish a “bilateral communication channel” for AI incidents. There was no immediate comment from Beijing on the White House statement.</p><p>The president, however, indicated that any AI discussions he had with Xi, who is set to meet with Trump two more times this year, largely focused on his preferred name for the technology: “super intelligence”.</p><p>China “respects” Washington’s switch in phrasing from artificial intelligence to “super intelligence”, the Chinese Ministry of Foreign Affairs said on Saturday, after Donald Trump said Xi appeared to like the rewording.</p><p>The US president announced on Tuesday that his administration would rename AI as “super intelligence”, or SI, in official communications.</p><p>“Artificial intelligence technologies are continuously developing, all parties can strengthen exchanges, discuss in-depth and seek consensus in light of the latest situation,” said a statement from an unidentified Chinese ministry spokesperson.</p><p>When it comes to AI, Xi has taken a more measured tone than Trump and said the technology must develop under human control.</p></body>\n</html>",
+      "word_count": 541,
+      "char_count": 3347,
+      "lead_image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab7f6461f3f-1790441030.jpg?resize=1920%2C1440",
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab7f6461f3f-1790441030.jpg?resize=1920%2C1440",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2024/05/2017-06-08T131939Z_1189275883_RC11B0FE7F20_RTRMADP_3_GULF-QATAR-JAZEERA-1714943623.jpg?resize=96%2C96&quality=80",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-26T21:46:36Z"
     },
     {
       "id": "0ffe70bad6a5a71a",
@@ -133,6 +243,54 @@
       "first_seen_at": "2026-09-26T18:15:43Z"
     },
     {
+      "id": "18840e2043f00d03",
+      "title": "Figma vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
+      "header": "The Motley Fool",
+      "published_at": "2026-09-26T16:33:00Z",
+      "published_raw": "Sat, 26 Sep 2026 16:33:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHJWa1Y4UkEzY0JjZmZ0V1BicUxTemtxSGRKaHhMUVJYWVB6NjRTWEYzd0NBcDR3MGRPVzZzYnVabnBDZ0Z0TC0zY2NiMV9xWGJKQlJ0NU4wS0Npd3hRc0dIdXhzVG1oNXIzMFdOUFBRX2dfSVNpRTBid0VmTVNDaHZmaXhfZG4tcXZjYkVuZ1NadlZReWQtenVSRWJudGplQnoyamZmQ3d2OV85R0xVSXhKbXFKOGh3Y1psbnRhUDRlQmxBVjhYT05n?oc=5",
+      "description": "Figma vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026? The Motley Fool",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHJWa1Y4UkEzY0JjZmZ0V1BicUxTemtxSGRKaHhMUVJYWVB6NjRTWEYzd0NBcDR3MGRPVzZzYnVabnBDZ0Z0TC0zY2NiMV9xWGJKQlJ0NU4wS0Npd3hRc0dIdXhzVG1oNXIzMFdOUFBRX2dfSVNpRTBid0VmTVNDaHZmaXhfZG4tcXZjYkVuZ1NadlZReWQtenVSRWJudGplQnoyamZmQ3d2OV85R0xVSXhKbXFKOGh3Y1psbnRhUDRlQmxBVjhYT05n?oc=5\" target=\"_blank\">Figma vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHJWa1Y4UkEzY0JjZmZ0V1BicUxTemtxSGRKaHhMUVJYWVB6NjRTWEYzd0NBcDR3MGRPVzZzYnVabnBDZ0Z0TC0zY2NiMV9xWGJKQlJ0NU4wS0Npd3hRc0dIdXhzVG1oNXIzMFdOUFBRX2dfSVNpRTBid0VmTVNDaHZmaXhfZG4tcXZjYkVuZ1NadlZReWQtenVSRWJudGplQnoyamZmQ3d2OV85R0xVSXhKbXFKOGh3Y1psbnRhUDRlQmxBVjhYT05n?oc=5"
+      ],
+      "scraped_at": "2026-09-26T21:46:37Z",
+      "url": "https://www.fool.com/coverage/better-buy/2026/09/26/figma-vs-palantir-technologies-which-technology-stock-is-a-better-buy-in-2026/",
+      "final_url": "https://www.fool.com/coverage/better-buy/2026/09/26/figma-vs-palantir-technologies-which-technology-stock-is-a-better-buy-in-2026/",
+      "source": "The Motley Fool",
+      "article_title": "Figma vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026? | The Motley Fool",
+      "heading": "Figma vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
+      "authors": [
+        "Sara Appino"
+      ],
+      "article_published_at": "2026-09-26T15:33:02Z",
+      "article_modified_at": "2026-09-26T15:33:02Z",
+      "summary": "Palantir's hypergrowth and profitability are rare at this scale, but the valuation leaves little room for error. Figma's growth reacceleration is encouraging, but the path to consistent profitability is still being established.",
+      "content": "Choosing between Figma (FIG -2.30%) and Palantir Technologies (PLTR -1.52%) requires balancing rapid expansion against proven profitability.\nFigma provides collaborative design tools that have become standard for product teams globally. Palantir offers massive data-integration platforms used by governments and large corporations. While both companies are leveraging artificial intelligence to drive new growth, they offer very different financial profiles for investors looking to expand their technology holdings.\nFIG & PLTR: Performance Comparison\nKey Financial Metrics\nThe case for Figma\nFigma provides a collaborative design and product-development platform that helps teams build digital products together. The company has established a dominant position among tech stocks focused on creative collaboration, serving over 690,000 paid customers. Its business model relies on a community-driven, self-service adoption approach while increasingly scaling toward enterprise-level organizations.\nIn FY 2025, revenue reached nearly $1.1 billion, representing a growth of approximately 41% over the previous year. However, the company reported a net loss of roughly $1.3 billion for the same period. This resulted in a net margin of approximately -118.4%, compared to a negative margin of 97.7% in the previous fiscal year.\nAs of its December 2025 balance sheet, Figma reported a debt-to-equity ratio of approximately 0.1x. This ratio measures total debt, including short and long-term obligations, relative to shareholder equity. The current ratio, which compares short-term assets to liabilities, stands at roughly 2.6x. Free cash flow for the fiscal year was close to $246.2 million, which is calculated by subtracting capital expenditures from operating cash flow. Note that stock-based compensation represented roughly 544.2% of operating cash flow, meaning reported cash generation is heavily inflated by this non-cash add-back.\nThe case for Palantir Technologies\nPalantir builds software platforms like Foundry, Apollo, and AIP to assist with operational decision-making. Its major partners include Nebius Group (NBIS -2.53%) and Nvidia (NVDA +0.22%) for artificial intelligence infrastructure. The company also works with Fujitsu (FJTSF +6.86%) and SOMPO Holdings (NHOLF -2.85%) to deploy technology across 50 different industry verticals.\nDuring FY 2025, Palantir generated approximately $4.5 billion in revenue, which is a 56.2% increase year over year. The company also achieved a net income of close to $1.6 billion, resulting in a net margin of roughly 36.3%. This performance highlights a significant improvement from the previous fiscal year when the net margin was approximately 16.1%.\nAs of its December 2025 balance sheet, Palantir reported a debt-to-equity ratio of approximately 0.0x. Its current ratio was nearly 7.1x, suggesting a strong ability to cover short-term liabilities with liquid assets. Free cash flow for FY 2025 was close to $2.1 billion. Note that stock-based compensation represented roughly 32% of operating cash flow, which inflates reported cash generation since this is a non-cash expense added back in the cash flow statement.\nRisk profile comparison\nFigma faces intense competition from established players like Adobe (ADBE -1.45%) and other tools using artificial intelligence to automate design workflows. Recent changes to its credit-based pricing models could also lead to revenue volatility or customer dissatisfaction. Furthermore, the company relies heavily on Amazon (AMZN +0.12%) for its cloud infrastructure and faces potential security risks from third-party integrations.\nPalantir deals with long and unpredictable sales cycles which can lead to significant quarterly volatility. The company faces competition from large software firms and Microsoft, while its heavy reliance on a few large customers adds concentration risk. Additionally, it must navigate complex regulations like the EU AI Act and maintain its cloud operations on platforms provided by Amazon.\nValuation comparison\nPalantir carries a much higher valuation than Figma when comparing their Forward P/E and P/S ratio figures.\n| Metric | Figma | Palantir Technologies |\n|---|---|---|\n| Forward P/E | 73.1x | 119.1x |\n| P/S ratio | 8.0x | 70.8x |\nValuation metrics sourced from Financial Modeling Prep (FMP) and may differ from other data providers.\nWhich stock would I buy in 2026?\nI'd go with Palantir, and it's not a close call. Its Q2 results were among the most impressive of any software company in recent memory: Revenue nearly doubled year over year, U.S. commercial revenue surged at a pace that most software companies never reach at this scale, and the company raised its full-year outlook substantially. It is profitable, generating substantial free cash flow, and somehow still accelerating. That's a remarkable combination.\nFigma just delivered a quarter that pushed back against the narrative that AI tools would erode its dominance in design software, with revenue reaccelerating and management raising its outlook. That is an encouraging sign for a recently public company still establishing its footing. But Figma is still working toward consistent GAAP profitability, and the distance between where it is today and where Palantir already is feels massive.\nPalantir is profitable, accelerating, and embedding itself deeper into the operations of customers that depend on its platform for their most critical decisions. The valuation already reflects a lot of that optimism, which means the margin for error is thin. But for a patient investor who believes the AI software opportunity is as large as Palantir's results suggest, it is still a compelling place to put your money.",
+      "content_html": "<html>\n  <body>\n    <p>Choosing between Figma (FIG -2.30%) and Palantir Technologies (PLTR -1.52%) requires balancing rapid expansion against proven profitability.</p>\n    <p>Figma provides collaborative design tools that have become standard for product teams globally. Palantir offers massive data-integration platforms used by governments and large corporations. While both companies are leveraging artificial intelligence to drive new growth, they offer very different financial profiles for investors looking to expand their technology holdings.</p>\n    <h2>FIG &amp; PLTR: Performance Comparison</h2>\n    <h3>Key Financial Metrics</h3>\n    <img src=\"https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fart%2Fcompanylogos%2Fmark%2FFIG.png&amp;w=128&amp;op=resize\" alt=\"Figma Stock Quote\"/>\n    <img src=\"https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fart%2Fcompanylogos%2Fmark%2FPLTR.png&amp;w=128&amp;op=resize\" alt=\"Palantir Technologies Stock Quote\"/>\n    <img src=\"https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fart%2Fcompanylogos%2Fmark%2FFIG.png&amp;w=128&amp;op=resize\" alt=\"Figma Stock Quote\"/>\n    <img src=\"https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fart%2Fcompanylogos%2Fmark%2FPLTR.png&amp;w=128&amp;op=resize\" alt=\"Palantir Technologies Stock Quote\"/>\n    <h2>The case for Figma</h2>\n    <p>Figma provides a collaborative design and product-development platform that helps teams build digital products together. The company has established a dominant position among tech stocks focused on creative collaboration, serving over 690,000 paid customers. Its business model relies on a community-driven, self-service adoption approach while increasingly scaling toward enterprise-level organizations.</p>\n    <p>In FY 2025, revenue reached nearly $1.1 billion, representing a growth of approximately 41% over the previous year. However, the company reported a net loss of roughly $1.3 billion for the same period. This resulted in a net margin of approximately -118.4%, compared to a negative margin of 97.7% in the previous fiscal year.</p>\n    <p>As of its December 2025 balance sheet, Figma reported a debt-to-equity ratio of approximately 0.1x. This ratio measures total debt, including short and long-term obligations, relative to shareholder equity. The current ratio, which compares short-term assets to liabilities, stands at roughly 2.6x. Free cash flow for the fiscal year was close to $246.2 million, which is calculated by subtracting capital expenditures from operating cash flow. Note that stock-based compensation represented roughly 544.2% of operating cash flow, meaning reported cash generation is heavily inflated by this non-cash add-back.</p>\n    <h2>The case for Palantir Technologies</h2>\n    <p>Palantir builds software platforms like Foundry, Apollo, and AIP to assist with operational decision-making. Its major partners include Nebius Group (NBIS -2.53%) and Nvidia (NVDA +0.22%) for artificial intelligence infrastructure. The company also works with Fujitsu (FJTSF +6.86%) and SOMPO Holdings (NHOLF -2.85%) to deploy technology across 50 different industry verticals.</p>\n    <p>During FY 2025, Palantir generated approximately $4.5 billion in revenue, which is a 56.2% increase year over year. The company also achieved a net income of close to $1.6 billion, resulting in a net margin of roughly 36.3%. This performance highlights a significant improvement from the previous fiscal year when the net margin was approximately 16.1%.</p>\n    <p>As of its December 2025 balance sheet, Palantir reported a debt-to-equity ratio of approximately 0.0x. Its current ratio was nearly 7.1x, suggesting a strong ability to cover short-term liabilities with liquid assets. Free cash flow for FY 2025 was close to $2.1 billion. Note that stock-based compensation represented roughly 32% of operating cash flow, which inflates reported cash generation since this is a non-cash expense added back in the cash flow statement.</p>\n    <h2>Risk profile comparison</h2>\n    <p>Figma faces intense competition from established players like Adobe (ADBE -1.45%) and other tools using artificial intelligence to automate design workflows. Recent changes to its credit-based pricing models could also lead to revenue volatility or customer dissatisfaction. Furthermore, the company relies heavily on Amazon (AMZN +0.12%) for its cloud infrastructure and faces potential security risks from third-party integrations.</p>\n    <p>Palantir deals with long and unpredictable sales cycles which can lead to significant quarterly volatility. The company faces competition from large software firms and Microsoft, while its heavy reliance on a few large customers adds concentration risk. Additionally, it must navigate complex regulations like the EU AI Act and maintain its cloud operations on platforms provided by Amazon.</p>\n    <h2>Valuation comparison</h2>\n    <p>Palantir carries a much higher valuation than Figma when comparing their Forward P/E and P/S ratio figures.</p>\n    <table>\n      <tr>\n        <th>Metric</th>\n        <th>Figma</th>\n        <th>Palantir Technologies</th>\n      </tr>\n      <tr>\n        <td>Forward P/E</td>\n        <td>73.1x</td>\n        <td>119.1x</td>\n      </tr>\n      <tr>\n        <td>P/S ratio</td>\n        <td>8.0x</td>\n        <td>70.8x</td>\n      </tr>\n    </table>\n    <p>Valuation metrics sourced from Financial Modeling Prep (FMP) and may differ from other data providers.</p>\n    <h2>Which stock would I buy in 2026?</h2>\n    <p>I'd go with Palantir, and it's not a close call. Its Q2 results were among the most impressive of any software company in recent memory: Revenue nearly doubled year over year, U.S. commercial revenue surged at a pace that most software companies never reach at this scale, and the company raised its full-year outlook substantially. It is profitable, generating substantial free cash flow, and somehow still accelerating. That's a remarkable combination.</p>\n    <p>Figma just delivered a quarter that pushed back against the narrative that AI tools would erode its dominance in design software, with revenue reaccelerating and management raising its outlook. That is an encouraging sign for a recently public company still establishing its footing. But Figma is still working toward consistent GAAP profitability, and the distance between where it is today and where Palantir already is feels massive.</p>\n    <p>Palantir is profitable, accelerating, and embedding itself deeper into the operations of customers that depend on its platform for their most critical decisions. The valuation already reflects a lot of that optimism, which means the margin for error is thin. But for a patient investor who believes the AI software opportunity is as large as Palantir's results suggest, it is still a compelling place to put your money.</p>\n  </body>\n</html>",
+      "word_count": 844,
+      "char_count": 5713,
+      "lead_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F3caa0e2607e9485862b0d89e5f6f6be899ae6c41-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F3caa0e2607e9485862b0d89e5f6f6be899ae6c41-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/3caa0e2607e9485862b0d89e5f6f6be899ae6c41-1200x800.png?w=800&q=75&fit=max&auto=format",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-26T21:46:37Z"
+    },
+    {
       "id": "36297641736c81a8",
       "title": "Figma vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
       "header": "Yahoo Finance",
@@ -191,6 +349,66 @@
       "extractor": "bs4",
       "status": "ok",
       "first_seen_at": "2026-09-26T18:15:46Z"
+    },
+    {
+      "id": "a847864870e3ec83",
+      "title": "Jill Dando murder: technological advances allow police to review CCTV 27 years later",
+      "header": "The Guardian",
+      "published_at": "2026-09-26T15:39:00Z",
+      "published_raw": "Sat, 26 Sep 2026 15:39:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenR2QnNBOWF2Yk5VMDJWVmZSa2hRajkwWEYwLXlIVFo1RjRXNkw4b0J2U1NlRVltWFp2QTVneDhMYlVvVzAzNzJnb1BIRDFsZzItd3h3SkZQcDZEUWt6OFhNNVZBQk96MmM5UVFDWWR2Q09nNlVhaktqQ25KRTFldXlucWlLUVRIeFQxcGsxNTJSczVqem4zNnJfTEtrc3pFV3c?oc=5",
+      "description": "Jill Dando murder: technological advances allow police to review CCTV 27 years later The Guardian",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQenR2QnNBOWF2Yk5VMDJWVmZSa2hRajkwWEYwLXlIVFo1RjRXNkw4b0J2U1NlRVltWFp2QTVneDhMYlVvVzAzNzJnb1BIRDFsZzItd3h3SkZQcDZEUWt6OFhNNVZBQk96MmM5UVFDWWR2Q09nNlVhaktqQ25KRTFldXlucWlLUVRIeFQxcGsxNTJSczVqem4zNnJfTEtrc3pFV3c?oc=5\" target=\"_blank\">Jill Dando murder: technological advances allow police to review CCTV 27 years later</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenR2QnNBOWF2Yk5VMDJWVmZSa2hRajkwWEYwLXlIVFo1RjRXNkw4b0J2U1NlRVltWFp2QTVneDhMYlVvVzAzNzJnb1BIRDFsZzItd3h3SkZQcDZEUWt6OFhNNVZBQk96MmM5UVFDWWR2Q09nNlVhaktqQ25KRTFldXlucWlLUVRIeFQxcGsxNTJSczVqem4zNnJfTEtrc3pFV3c?oc=5"
+      ],
+      "scraped_at": "2026-09-26T21:46:35Z",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/26/jill-dando-murder-technological-advances-police-cctv",
+      "final_url": "https://www.theguardian.com/uk-news/2026/sep/26/jill-dando-murder-technological-advances-police-cctv",
+      "source": "the Guardian",
+      "article_title": "Jill Dando murder: technological advances allow police to review CCTV 27 years later",
+      "heading": "Jill Dando murder: technological advances allow police to review CCTV 27 years later",
+      "authors": [
+        "https://www.theguardian.com/profile/kevin-rawlinson"
+      ],
+      "article_published_at": "2026-09-26T15:15:47.000Z",
+      "article_modified_at": "2026-09-26T15:39:52.000Z",
+      "summary": "BBC broadcaster was shot in 1999 in case detectives have previously said may never be solved",
+      "content": "Technological advances are allowing police to review old CCTV footage in the unsolved murder of the BBC broadcaster Jill Dando, Scotland Yard has revealed.\nAdvances in CCTV enhancement technology have allowed detectives to return to 27-year-old footage of Putney Bridge Underground station, Scotland Yard said. But detectives stressed that the review was part of existing inquiries – not a new investigation.\nThe former Crimewatch presenter was 37 years old when she was shot and killed outside her home in Fulham, west London, on 26 April 1999. An unidentified person, referred to as “Man X”, was captured on camera near Putney Bridge station – about a mile from Dando’s home – shortly after the attack.\nA driver had seen a man “running for his life” on Fulham Palace Road around the time of the shooting, the Mirror reported. She later picked out Man X in the station CCTV as the person who had been sprinting.\nA Met spokesperson said: “In the 27 years since Jill Dando’s murder, the investigation has been subject to numerous reviews, aiming to identify whether matters could be progressed with advances in technology and forensics.\n“Recent advancements in CCTV enhancement technology have provided investigators with the opportunity to re-examine original footage from Putney Bridge train station.\n“The review of CCTV footage forms part of ongoing inquiries and should not be interpreted as a significant line of inquiry nor as a new investigation being opened on this matter.”\nOutside her work on Crimewatch, Dando was also seen during the 1980s and 1990s on BBC shows including travel show Holiday and The Antiques Inspectors.\nShe began as a reporter at her local paper The Weston Mercury in Weston-super-Mare, Somerset, before moving to the morning programme Breakfast Time, which later became BBC Breakfast.\nIn 2019, the detective who led the inquiry into Dando’s murder expressed doubt the case would ever be solved. Speaking in a BBC documentary to mark 20 years since the television presenter’s shooting, Hamish Campbell said he did not think any new suspects would ever be brought to court.\n“Do I think somebody will come back to court? Probably not, no. Sometimes, I felt we were a day away from solving it and other times, I thought: ‘No, we’re a long way away’. Senior officers were asking: ‘What are the likelihoods of this case being resolved?’\n“We had over 2,000 people named as potential suspects or responsible. Some actions to trace and eliminate one person might take a day. One action might take two weeks. But there’s thousands of them and that’s the issue of managing stranger homicides.”",
+      "content_html": "<html>\n  <body>\n    <p>Technological advances are allowing police to review old CCTV footage in the unsolved murder of the BBC broadcaster Jill Dando, Scotland Yard has revealed.</p>\n    <p>Advances in CCTV enhancement technology have allowed detectives to return to 27-year-old footage of Putney Bridge Underground station, Scotland Yard said. But detectives stressed that the review was part of existing inquiries – not a new investigation.</p>\n    <p>The former Crimewatch presenter was 37 years old when she was shot and killed outside her home in Fulham, west London, on 26 April 1999. An unidentified person, referred to as “Man X”, was captured on camera near Putney Bridge station – about a mile from Dando’s home – shortly after the attack.</p>\n    <p>A driver had seen a man “running for his life” on Fulham Palace Road around the time of the shooting, the Mirror reported. She later picked out Man X in the station CCTV as the person who had been sprinting.</p>\n    <p>A Met spokesperson said: “In the 27 years since Jill Dando’s murder, the investigation has been subject to numerous reviews, aiming to identify whether matters could be progressed with advances in technology and forensics.</p>\n    <p>“Recent advancements in CCTV enhancement technology have provided investigators with the opportunity to re-examine original footage from Putney Bridge train station.</p>\n    <p>“The review of CCTV footage forms part of ongoing inquiries and should not be interpreted as a significant line of inquiry nor as a new investigation being opened on this matter.”</p>\n    <p>Outside her work on Crimewatch, Dando was also seen during the 1980s and 1990s on BBC shows including travel show Holiday and The Antiques Inspectors.</p>\n    <p>She began as a reporter at her local paper The Weston Mercury in Weston-super-Mare, Somerset, before moving to the morning programme Breakfast Time, which later became BBC Breakfast.</p>\n    <p>In 2019, the detective who led the inquiry into Dando’s murder expressed doubt the case would ever be solved. Speaking in a BBC documentary to mark 20 years since the television presenter’s shooting, Hamish Campbell said he did not think any new suspects would ever be brought to court.</p>\n    <p>“Do I think somebody will come back to court? Probably not, no. Sometimes, I felt we were a day away from solving it and other times, I thought: ‘No, we’re a long way away’. Senior officers were asking: ‘What are the likelihoods of this case being resolved?’</p>\n    <p>“We had over 2,000 people named as potential suspects or responsible. Some actions to trace and eliminate one person might take a day. One action might take two weeks. But there’s thousands of them and that’s the issue of managing stranger homicides.”</p>\n  </body>\n</html>",
+      "word_count": 431,
+      "char_count": 2613,
+      "lead_image": "https://i.guim.co.uk/img/media/9473a12fd16d62f385f72ea24d07f3c3c75ade17/729_0_2698_2160/master/2698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=376d303c6070c68bf2712d4a41508d99",
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9473a12fd16d62f385f72ea24d07f3c3c75ade17/729_0_2698_2160/master/2698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=376d303c6070c68bf2712d4a41508d99",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/9473a12fd16d62f385f72ea24d07f3c3c75ade17/729_0_2698_2160/master/2698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=7dd5115e9aab6477289f54258fcf08fa",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/9473a12fd16d62f385f72ea24d07f3c3c75ade17/729_0_2698_2160/master/2698.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=89bfdc375034eb68d7c559e1b0a717fa",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/9473a12fd16d62f385f72ea24d07f3c3c75ade17/729_0_2698_2160/master/2698.jpg?width=465&dpr=1&s=none&crop=none",
+          "alt": "Jill Dando.",
+          "caption": "Jill Dando was killed outside her home in Fulham, west London. Photograph: Netflix",
+          "role": "body"
+        }
+      ],
+      "image_count": 4,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-26T21:46:35Z"
     },
     {
       "id": "17572075122c11a3",
@@ -400,7 +618,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOXduWFl4SXl1dlNpaDVMVUdxbENVSGFqV3hFYnl2ZE8yTTRNZVAxZFpwTERQZzExTmg1ZG5IdHFtRjg5cUtGaU1pNndEa0UzMzg1YWJWc203ZnVOajF3MUM2RGhQTllJTXRub05McENSTExBQVhQUm1aYlZIN3RyR2RfN1V4cjZ1bktEVjV4bk5WdFowdVZENlhWOE0wU1Y0T25LRk8tbjBFendGaVhNdlp5aUZNWFM4YUhKdzhNNFFLUQ?oc=5"
       ],
-      "scraped_at": "2026-09-26T18:15:43Z",
+      "scraped_at": "2026-09-26T21:46:35Z",
       "url": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
       "final_url": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
       "source": "Reuters",
@@ -984,7 +1202,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1JPb0pZMmZRS05JSXFHWFJCRXh0ZXlkSUtjVVJsUzhkMUlQeVFuQWVJUFM1ZjBDbUNLcFp5Q1lQUG1ienc0Z3o0XzJ6QnF3ZFV3a0hUa3VpSDZkZGd3UEZySVBQckFwZVBFa3pMVExjeDN5ZjM3bWVSeWlpc3BOa3pOSzJiaVBqeWVzMDVsVzVNcmtzRmhXYU9JQV81U0xIVlVmdmNDS3Bxa2pBWVUxemlUT1o2ZU9MU0tZRA?oc=5"
       ],
-      "scraped_at": "2026-09-26T18:15:46Z",
+      "scraped_at": "2026-09-26T21:46:36Z",
       "url": "https://federalnewsnetwork.com/contracting/2026/09/modernizing-government-technology-takes-more-than-faster-procurement/",
       "final_url": "https://federalnewsnetwork.com/amtower-off-center/2019/03/amplifying-your-brand-in-the-govcon-market/",
       "source": "FederalNewsNetwork.com",
@@ -997,7 +1215,7 @@
       "article_modified_at": "2019-05-14T23:23:25Z",
       "summary": "Modernizing government technology takes more than faster procurement Federal News Network",
       "content": "How are communications and public relations evolving in the GovCon market? Host Mark Amtower discusses the evolving nature the two concepts in the government...\nBest listening experience is on Chrome, Firefox or Safari. Subscribe to Amtower Off Center’s audio interviews on Apple Podcasts or PodcastOne.\nThis week on Amtower Off Center, host Mark Amtower interviews Evan Weisel, Tony Welz and Stephen Mackey of W2 Communications on the evolving nature of communications and PR in GovCon.\nStephen Mackey, Evan Weisel and Tony Welz, W2 Communications (Left to right)\nThe PR coup at the RSA Conference 10 years ago when W2 got their clients in front of media for hours by staging an invitation only Texas Hold’em poker tournament at RSA",
-      "content_html": "<html>\n  <body>\n    <p>How are communications and public relations evolving in the GovCon market? Host Mark Amtower discusses the evolving nature the two concepts in the government...</p>\n    <p>Best listening experience is on Chrome, Firefox or Safari. Subscribe to Amtower Off Center’s audio interviews on Apple Podcasts or PodcastOne.</p>\n    <p>This week on Amtower Off Center, host Mark Amtower interviews Evan Weisel, Tony Welz and Stephen Mackey of W2 Communications on the evolving nature of communications and PR in GovCon.</p>\n    <p>Topics include:</p>\n    <p>Explore insights from CISA, NSA, OMB, GSA, DLA and industry experts on securing government missions at machine speed — in our new e-book, sponsored by Carahsoft.</p>\n    <p>Copyright © 2026 Federal News Network. All rights reserved. This website is not intended for users located within the European Economic Area.</p>\n  </body>\n</html>",
+      "content_html": "<html>\n  <body>\n    <p>How are communications and public relations evolving in the GovCon market? Host Mark Amtower discusses the evolving nature the two concepts in the government...</p>\n    <p>Best listening experience is on Chrome, Firefox or Safari. Subscribe to Amtower Off Center’s audio interviews on Apple Podcasts or PodcastOne.</p>\n    <p>This week on Amtower Off Center, host Mark Amtower interviews Evan Weisel, Tony Welz and Stephen Mackey of W2 Communications on the evolving nature of communications and PR in GovCon.</p>\n    <p>Topics include:</p>\n    <p>Join us Oct. 1 &amp; 2 for our Cyber Leaders Exchange event where government and industry experts will discuss how agencies can secure the AI-driven federal enterprise while advancing innovation and mission delivery. Register today!</p>\n    <p>Copyright © 2026 Federal News Network. All rights reserved. This website is not intended for users located within the European Economic Area.</p>\n  </body>\n</html>",
       "word_count": 119,
       "char_count": 733,
       "lead_image": "https://federalnewsnetwork.com/wp-content/uploads/2019/03/amtower-group-photo-of-mackey-1880x1092.jpg",
@@ -1367,7 +1585,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5"
       ],
-      "scraped_at": "2026-09-26T18:15:43Z",
+      "scraped_at": "2026-09-26T21:46:35Z",
       "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
       "final_url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
       "source": "The New York Times",
@@ -1816,7 +2034,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjF5LTdJS1pwR2ZpQzM5Wjl3aGYyUEFrVkoyNndIbEhYQ2tWQjZOQ0JGM0tBeUtET1JEWFN0X21kOEtWUW1yVGZJY0FEbGJXNloxS1poNk9VbEU1bWl4a1c1SHJwbGdfbERPUXlldVlCeWthZWtjem5KTG02UmxQd2xaSVdXN3QwdmNnLXB0UndhaHBzWnpIWHNld3lMQ2xDTHgyTFlyZ0l6ZjdlYVVsbDhoZw?oc=5"
       ],
-      "scraped_at": "2026-09-26T18:15:44Z",
+      "scraped_at": "2026-09-26T21:46:35Z",
       "url": "https://spacenews.com/finlands-iceye-launches-new-polish-satellite-technology-center-eyes-31-million-investments/",
       "final_url": "https://spacenews.com/finlands-iceye-launches-new-polish-satellite-technology-center-eyes-31-million-investments/",
       "source": "SpaceNews",
@@ -1859,7 +2077,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMHRXc1lZVExXX0I3TGR4cHJPUFdYYURCU0h4U1VFck9sWnJHMTdLMldKNmYtSzJUajY2UzVLVXBrcnJtZ0hwY2Z6WnFoQjNOMkptbVhkZThDaWFfbVpFdHRvNFhJS2UtZUY2R19HbUFRclhtLUJEU1lUeHlCMnhELUZyOVZ6SUdtX2VGUjdIOHRFTWFHOXdoZWtIaGs?oc=5"
       ],
-      "scraped_at": "2026-09-26T18:15:43Z",
+      "scraped_at": "2026-09-26T21:46:35Z",
       "url": "https://www.investors.com/news/technology/micron-technology-mu-stock-fiscal-q4-earnings-preview/",
       "final_url": "https://www.investors.com/news/management/managing-for-success/amp-controls-expenses-and-hits-reengineering-targets/",
       "source": "Investor's Business Daily",
@@ -2533,6 +2751,54 @@
       "first_seen_at": "2026-09-25T19:10:14Z"
     },
     {
+      "id": "177ed763a5aebdd7",
+      "title": "Massena mayor says Flock system only used for surveillance, lacks technology that has received national scrutiny",
+      "header": "North Country Now",
+      "published_at": "2026-09-25T16:47:22Z",
+      "published_raw": "Fri, 25 Sep 2026 16:47:22 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVDFzVVNCZm5xc1JpeXF3WnpNMERESlFTMDdEaHZzSXFiY1pqZXVVVklaMUx2RWN2NnpmXzJzRlhoZkFNX3hhMEJLRkZEQVdUcl9GUEhNWWVYQUhiX0hKRVpBeVdCY3Z4WVRTZ2YzclhQLWU3QnZyLWRFQlFpd1JlSVVNc0ZyM0EwRzkxc3JrWEhRYS10TjZORVhxc056bGRBUkF5TkZIZVk4MzZudHFJV1JNc3pHUUFrbVNNTlQyVllhVFpmLVE4VF9xQVRiVWk0QVE?oc=5",
+      "description": "Massena mayor says Flock system only used for surveillance, lacks technology that has received national scrutiny North Country Now",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVDFzVVNCZm5xc1JpeXF3WnpNMERESlFTMDdEaHZzSXFiY1pqZXVVVklaMUx2RWN2NnpmXzJzRlhoZkFNX3hhMEJLRkZEQVdUcl9GUEhNWWVYQUhiX0hKRVpBeVdCY3Z4WVRTZ2YzclhQLWU3QnZyLWRFQlFpd1JlSVVNc0ZyM0EwRzkxc3JrWEhRYS10TjZORVhxc056bGRBUkF5TkZIZVk4MzZudHFJV1JNc3pHUUFrbVNNTlQyVllhVFpmLVE4VF9xQVRiVWk0QVE?oc=5\" target=\"_blank\">Massena mayor says Flock system only used for surveillance, lacks technology that has received national scrutiny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">North Country Now</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVDFzVVNCZm5xc1JpeXF3WnpNMERESlFTMDdEaHZzSXFiY1pqZXVVVklaMUx2RWN2NnpmXzJzRlhoZkFNX3hhMEJLRkZEQVdUcl9GUEhNWWVYQUhiX0hKRVpBeVdCY3Z4WVRTZ2YzclhQLWU3QnZyLWRFQlFpd1JlSVVNc0ZyM0EwRzkxc3JrWEhRYS10TjZORVhxc056bGRBUkF5TkZIZVk4MzZudHFJV1JNc3pHUUFrbVNNTlQyVllhVFpmLVE4VF9xQVRiVWk0QVE?oc=5"
+      ],
+      "scraped_at": "2026-09-26T21:46:36Z",
+      "url": "https://northcountrynow.com/stories/massena-mayor-says-flock-system-only-used-for-surveillance-lacks-technology-that-has-received,392523",
+      "final_url": "https://northcountrynow.com/stories/massena-mayor-says-flock-system-only-used-for-surveillance-lacks-technology-that-has-received,392523",
+      "source": "North Country Now",
+      "article_title": "Massena mayor says Flock system only used for surveillance, lacks technology that has received national scrutiny - North Country Now",
+      "heading": "Massena mayor says Flock system only used for surveillance, lacks technology that has received national scrutiny",
+      "authors": [
+        "JEFF CHUDZINSKINorth Country This Week"
+      ],
+      "article_published_at": "2026-09-25T12:47:22-04:00",
+      "article_modified_at": "2026-09-25T12:47:22-04:00",
+      "summary": "MASSENA -- A Massena resident has raised further concerns about the village's decision to use Flock security cameras.    Village resident Marty Fowler submitted a letter to the village prior  …",
+      "content": "Saturday, September 26, 2026 | St. Lawrence County, NY\n\nPosted 9/25/26\nMASSENA -- A Massena resident has raised further concerns about the village's decision to use Flock security cameras.\nVillage resident Marty Fowler submitted a letter to the village prior …\nThis item is available in full to subscribers.\nTo continue reading, you will need to either log in to your subscriber account, or purchase a new subscription.\nIf you are a digital subscriber with an active, online-only subscription then you already have an account here. Just reset your password if you've not yet logged in to your account on this new site.\nOtherwise, click here to view your options for subscribing.\n| Please log in to continue |\nPosted\n\n\nVillage resident Marty Fowler submitted a letter to the village prior to the Sept. 15 regular board meeting, saying he was a veteran who served the nation to uphold American freedoms.\nIn his letter, Fowler said he, like many residents, \"do not want to be passively tracked, monitored or logged by community funded networks.\"\n\"If the village leadership maintains that continuous surveillance is necessary for public safety and accountability, then that standard must apply equally to the government itself,\" Fowler wrote to the board.\nHe said residents were \"not going to take this lying down,\" in reference to the installation of 13 Flock cameras throughout the village.\nFowler said he and other residents would track and monitor the installation of cameras, reporting them to sources like DeFlock, a popular website that tracks the use of numerous surveillance systems throughout the nation, including Flock and Motorola systems.\n\"If you choose to monitor us, your hardware will be fully exposed to the public,\" he said.\nFowler called for a \"straightforward proposal,\" saying he felt it would be appropriate to also monitor the government much the same way citizens are monitored with the Flock system.\n\"If the government monitors them during their daily lives, then the public must be granted the same ability to watch you while you perform your public jobs,\" he wrote.\nFowler called for \"reciprocal transparency\" in his letter, noting he felt it was appropriate to include cameras to monitor the police station 24/7, along with administrative spaces, as well as the Mayor's office.\n\"If the government has nothing to hide from citizens, it should have no objection to being watched exactly like it's watching us,\" he wrote.\nThe letter drew a pointed response from Mayor Greg Paquin who took time to clarify the types of cameras in use by the village.\nThough Flock has drawn significant scrutiny in recent months for numerous failures with its artificial intelligence and license plate reader systems, Paquin said those functions are not in use in the village of Massena.\nInstead, the village opted for an agreement that provides surveillance systems that offer a live view with high resolution cameras that can be remotely controlled by police to move 360 degrees.\nThe cameras can be monitored on numerous electronic devices, including computers in the police station, as well in cruisers, on tablets and with cell phones.\nChief of Police Cody Wilson said the cameras would allow officers to more quickly and safely respond to a situation if they are able to get eyes on the scene prior to responding.\n\"It would allow for an appropriate response and would ensure we send the right resources to a given scene,\" he said earlier this year.\nPaquin said the cameras are only to be used for criminal investigations and nothing further.\nIn the event another agency requires assistance, he said the police department would be asked for permission to view footage.\nPaquin clarified that the footage would be released in the event of active, ongoing investigations but nothing more.\n\"This is nothing new. We are not part of that. I know there was a concern about other agencies using it,\" he said.\n\"If a police officer comes from Canton and came to us and said 'Hey we really don't like this guy. Can you see what he's up to?' No, we're not going to do that. That's not how this works,\" he said.\nPaquin noted the system installed in the village does not have license plate reading systems, not facial recognition software or an automated ticketing system.\nHe also said the cameras are not monitored 24/7 by the police officers.\nWilson said the cameras are installed as a matter of \"public safety and officer safety.\"\nSigns will also be installed in the near future to mark the cameras for the public, though Paquin said they \"are not hard to find at all.\"\nSigns will be \"well lit, placed appropriately and without obstruction to ensure visibility,\" he said.\nIn the works as well is a transparency portal, which will provide all information regarding the functions of the cameras, as well as statistics about the information gathered, along with policies and procedures that will govern the use of the cameras and footage obtained by the system.\nWilson said that portal is in the works and will be posted on the Police Department's website and social media platforms in the near future.",
+      "content_html": "<html>\n  <body>\n    <p>MASSENA -- A Massena resident has raised further concerns about the village's decision to use Flock security cameras.</p>\n    <p>Village resident Marty Fowler submitted a letter to the village prior …</p>\n    <p>This item is available in full to subscribers.</p>\n    <p>To continue reading, you will need to either log in to your subscriber account, or purchase a new subscription.</p>\n    <p>If you are a digital subscriber with an active, online-only subscription then you already have an account here. Just reset your password if you've not yet logged in to your account on this new site.</p>\n    <p>Otherwise, click here to view your options for subscribing.</p>\n    <table>\n      <tr>\n        <td>\n\t\n\t\t\t\t<h3>Please log in to continue</h3></td>\n      </tr>\n    </table>\n    <p>Village resident Marty Fowler submitted a letter to the village prior to the Sept. 15 regular board meeting, saying he was a veteran who served the nation to uphold American freedoms.</p>\n    <p>In his letter, Fowler said he, like many residents, \"do not want to be passively tracked, monitored or logged by community funded networks.\"</p>\n    <p>\"If the village leadership maintains that continuous surveillance is necessary for public safety and accountability, then that standard must apply equally to the government itself,\" Fowler wrote to the board.</p>\n    <p>He said residents were \"not going to take this lying down,\" in reference to the installation of 13 Flock cameras throughout the village.</p>\n    <p>Fowler said he and other residents would track and monitor the installation of cameras, reporting them to sources like DeFlock, a popular website that tracks the use of numerous surveillance systems throughout the nation, including Flock and Motorola systems.</p>\n    <p>\"If you choose to monitor us, your hardware will be fully exposed to the public,\" he said.</p>\n    <p>Fowler called for a \"straightforward proposal,\" saying he felt it would be appropriate to also monitor the government much the same way citizens are monitored with the Flock system.</p>\n    <p>\"If the government monitors them during their daily lives, then the public must be granted the same ability to watch you while you perform your public jobs,\" he wrote.</p>\n    <p>Fowler called for \"reciprocal transparency\" in his letter, noting he felt it was appropriate to include cameras to monitor the police station 24/7, along with administrative spaces, as well as the Mayor's office.</p>\n    <p>\"If the government has nothing to hide from citizens, it should have no objection to being watched exactly like it's watching us,\" he wrote.</p>\n    <p>The letter drew a pointed response from Mayor Greg Paquin who took time to clarify the types of cameras in use by the village.</p>\n    <p>Though Flock has drawn significant scrutiny in recent months for numerous failures with its artificial intelligence and license plate reader systems, Paquin said those functions are not in use in the village of Massena.</p>\n    <p>Instead, the village opted for an agreement that provides surveillance systems that offer a live view with high resolution cameras that can be remotely controlled by police to move 360 degrees.</p>\n    <p>The cameras can be monitored on numerous electronic devices, including computers in the police station, as well in cruisers, on tablets and with cell phones.</p>\n    <p>Chief of Police Cody Wilson said the cameras would allow officers to more quickly and safely respond to a situation if they are able to get eyes on the scene prior to responding.</p>\n    <p>\"It would allow for an appropriate response and would ensure we send the right resources to a given scene,\" he said earlier this year.</p>\n    <p>Paquin said the cameras are only to be used for criminal investigations and nothing further.</p>\n    <p>In the event another agency requires assistance, he said the police department would be asked for permission to view footage.</p>\n    <p>Paquin clarified that the footage would be released in the event of active, ongoing investigations but nothing more.</p>\n    <p>\"This is nothing new. We are not part of that. I know there was a concern about other agencies using it,\" he said.</p>\n    <p>\"If a police officer comes from Canton and came to us and said 'Hey we really don't like this guy. Can you see what he's up to?' No, we're not going to do that. That's not how this works,\" he said.</p>\n    <p>Paquin noted the system installed in the village does not have license plate reading systems, not facial recognition software or an automated ticketing system.</p>\n    <p>He also said the cameras are not monitored 24/7 by the police officers.</p>\n    <p>Wilson said the cameras are installed as a matter of \"public safety and officer safety.\"</p>\n    <p>Signs will also be installed in the near future to mark the cameras for the public, though Paquin said they \"are not hard to find at all.\"</p>\n    <p>Signs will be \"well lit, placed appropriately and without obstruction to ensure visibility,\" he said.</p>\n    <p>In the works as well is a transparency portal, which will provide all information regarding the functions of the cameras, as well as statistics about the information gathered, along with policies and procedures that will govern the use of the cameras and footage obtained by the system.</p>\n    <p>Wilson said that portal is in the works and will be posted on the Police Department's website and social media platforms in the near future.</p>\n    <p><br/>\n\n<br/>\n\n</p>\n  </body>\n</html>",
+      "word_count": 852,
+      "char_count": 5095,
+      "lead_image": "https://zeta.creativecirclecdn.com/ncn/original/20240111-155857-MassenaXtownhall.jpg",
+      "images": [
+        {
+          "url": "https://zeta.creativecirclecdn.com/ncn/original/20240111-155857-MassenaXtownhall.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://zeta.creativecirclecdn.com/ncn/original/20230815-130756-Jeff_Chudzinski_cropped.jpg",
+          "alt": "Jeff CHUDZINSKI headshot",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-26T21:46:36Z"
+    },
+    {
       "id": "591a88b76d11e708",
       "title": "County Executive Page signs order to review license plate recognition technology",
       "header": "firstalert4.com",
@@ -3153,6 +3419,60 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-25T14:57:56Z"
+    },
+    {
+      "id": "8fd9e2c875ea534e",
+      "title": "The Biggest 3D Art & Technology Highlights From Gamescom 2026",
+      "header": "80 Level",
+      "published_at": "2026-09-25T12:19:03Z",
+      "published_raw": "Fri, 25 Sep 2026 12:19:03 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYWpnQnhodXFSTlU0MUV4Y0RhSThOSXBfYk5qeXpWWnB3em5sMzVlVUctUjBQNE1CMFd6MEpkUVJqMnlIRlFWN0NiM0JCMWdCNmpneGJZTkVfell0M1VQVHpXWFdnd3k1dkJrUDMxZFRqZVZjcVF0ZVNmM2xYVDBCT1ZzaUtrRnRJTGc?oc=5",
+      "description": "The Biggest 3D Art & Technology Highlights From Gamescom 2026 80 Level",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPYWpnQnhodXFSTlU0MUV4Y0RhSThOSXBfYk5qeXpWWnB3em5sMzVlVUctUjBQNE1CMFd6MEpkUVJqMnlIRlFWN0NiM0JCMWdCNmpneGJZTkVfell0M1VQVHpXWFdnd3k1dkJrUDMxZFRqZVZjcVF0ZVNmM2xYVDBCT1ZzaUtrRnRJTGc?oc=5\" target=\"_blank\">The Biggest 3D Art & Technology Highlights From Gamescom 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">80 Level</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYWpnQnhodXFSTlU0MUV4Y0RhSThOSXBfYk5qeXpWWnB3em5sMzVlVUctUjBQNE1CMFd6MEpkUVJqMnlIRlFWN0NiM0JCMWdCNmpneGJZTkVfell0M1VQVHpXWFdnd3k1dkJrUDMxZFRqZVZjcVF0ZVNmM2xYVDBCT1ZzaUtrRnRJTGc?oc=5"
+      ],
+      "scraped_at": "2026-09-26T21:46:36Z",
+      "url": "https://80.lv/articles/the-biggest-3d-art-technology-highlights-from-gamescom-2026",
+      "final_url": "https://80.lv/articles/the-biggest-3d-art-technology-highlights-from-gamescom-2026",
+      "source": "80.lv",
+      "article_title": "The Biggest 3D Art & Technology Highlights From Gamescom 2026",
+      "heading": "The Biggest 3D Art & Technology Highlights From Gamescom 2026",
+      "authors": [
+        "80 Level Editorial Team"
+      ],
+      "article_published_at": "2026-09-25T12:16:00+00:00",
+      "article_modified_at": "2026-09-25T12:16:24+00:00",
+      "summary": "Gamescom 2026 highlighted advances in ray-traced rendering, dense geometry, scalable asset creation, proprietary engines, and emerging AI-assisted 3D workflows.",
+      "content": "The Biggest 3D Art & Technology Highlights From Gamescom 2026\nGamescom 2026 highlighted advances in ray-traced rendering, dense geometry, scalable asset creation, proprietary engines, and emerging AI-assisted 3D workflows.\nGamescom is primarily associated with trailers and playable demos, but the event also provides an enormous showcase for the technologies changing how games are made. This year’s most important 3D trends included more practical ray tracing, denser real-time geometry, increasingly specialized proprietary engines, and tools designed to shorten the journey from an idea to a usable asset.\nNVIDIA introduced a second-generation transformer model for DLSS 4.5 Ray Reconstruction. The new model reportedly has 35% more compute capacity and 20% more parameters, improving detail and temporal stability in ray-traced and path-traced games without substantially changing performance.\nGears of War E-Day\nThis is particularly important during motion, where limited ray samples can create ghosting, smearing, and unstable surfaces. Ray Reconstruction is still not a perfect solution to the compromises involved in real-time path tracing, but the update demonstrates how quickly neural rendering is becoming a standard component of modern graphics pipelines.\nNVIDIA also highlighted RTX Mega Geometry through Gears of War: E-Day. The technology is intended to make ray tracing more practical in scenes containing enormous quantities of detailed geometry, allowing developers to combine dense assets, dynamic destruction, and sophisticated lighting more efficiently. For artists, this contributes to a broader shift in which more detail can survive the journey from source asset to playable scene.\nAt the asset-creation end of that pipeline, Tripo AI demonstrated how generative 3D tools are moving beyond producing isolated models and toward supporting wider production workflows. The company's current focus encompasses asset generation, optimization, team collaboration, pipeline automation, and exporting work into engines such as Unity.\nTripo P2.0, its latest breakthrough 3D-native foundation model, generates native quad meshes. Shown as a preview at Gamescom, Tripo P2.0 has since been officially released with a few concrete additions worth noting. It can produce up to four asset variations from one concept, giving artists and developers options to evaluate before investing additional production time. It adds a new Mesh Edit tool that lets a specific region of a model be regenerated without rebuilding the whole asset from scratch. The multi-view reference input enables an asset to be built from front, back, and side images rather than a single angle. Full details are available in Tripo's official P2.0 release announcement.\nMoreover, the Tripo plus OpenAI's Astra workflow has drawn enthusiastic responses from users. A recent Tripo post showed a playable 3D game built in approximately four hours using Tripo-generated assets and fewer than 5,000 lines of code. It has demonstrated how anyone can use generative 3D tools like Tripo to create their own games or animations.\nEngine development produced several other notable stories. Creative Assembly explained how its new Warcore engine allows Total War: Warhammer 40,000 to expand across planets and solar systems. Warcore improves rendering, asset manipulation, animation modularity, destruction, explosions, and the enormous volume of projectiles required by the setting. Its Havoc system helps communicate the physical impact of futuristic combat across unusually large battlefields.\nCrystal Dynamics also revealed that Tomb Raider: Legacy of Atlantis had to be rebuilt entirely from scratch in Unreal Engine 5 because no original source code remained. The project uses Nanite and Lumen alongside custom physics and animation technology, illustrating that adopting a general-purpose engine does not eliminate the need for substantial project-specific engineering.\n4A Games\nThe game news itself was extensive, but the technical highlights were more focused. Metro 2039 won Best Visuals for its latest evolution of the 4A Engine, Control Resonant demonstrated Remedy’s Northlight rendering and destruction systems, and Gears of War: E-Day provided a practical showcase for Mega Geometry. Tomb Raider: Legacy of Atlantis and The Witcher 3 Remastered also reflected the growing expectation that remasters and reimaginings should revisit animation, lighting, materials, and gameplay rather than merely increase resolution.\nTo stay up to date on all the latest news, don't forget to subscribe to our Newsletter, join our 80 Level Talent platform and Discord, and follow us on Twitter, LinkedIn, Telegram, and Instagram, where we share breakdowns, the latest news, awesome artworks, and more.\nAre you a fan of what we do here at 80 Level? Then make sure to set us as a Preferred Source on Google to see more of our content in your feed.\nSubscribe to 80 Level Newsletters\nLatest news, hand-picked articles, and updates",
+      "content_html": "<html>\n  <body>\n    <h1>The Biggest 3D Art &amp; Technology Highlights From Gamescom 2026</h1>\n    <p>Gamescom 2026 highlighted advances in ray-traced rendering, dense geometry, scalable asset creation, proprietary engines, and emerging AI-assisted 3D workflows.</p>\n    <p>Gamescom is primarily associated with trailers and playable demos, but the event also provides an enormous showcase for the technologies changing how games are made. This year’s most important 3D trends included more practical ray tracing, denser real-time geometry, increasingly specialized proprietary engines, and tools designed to shorten the journey from an idea to a usable asset.</p>\n    <p>NVIDIA introduced a second-generation transformer model for DLSS 4.5 Ray Reconstruction. The new model reportedly has 35% more compute capacity and 20% more parameters, improving detail and temporal stability in ray-traced and path-traced games without substantially changing performance.</p>\n    <h3>Gears of War E-Day</h3>\n    <p>This is particularly important during motion, where limited ray samples can create ghosting, smearing, and unstable surfaces. Ray Reconstruction is still not a perfect solution to the compromises involved in real-time path tracing, but the update demonstrates how quickly neural rendering is becoming a standard component of modern graphics pipelines.</p>\n    <p>NVIDIA also highlighted RTX Mega Geometry through Gears of War: E-Day. The technology is intended to make ray tracing more practical in scenes containing enormous quantities of detailed geometry, allowing developers to combine dense assets, dynamic destruction, and sophisticated lighting more efficiently. For artists, this contributes to a broader shift in which more detail can survive the journey from source asset to playable scene.</p>\n    <p>At the asset-creation end of that pipeline, Tripo AI demonstrated how generative 3D tools are moving beyond producing isolated models and toward supporting wider production workflows. The company's current focus encompasses asset generation, optimization, team collaboration, pipeline automation, and exporting work into engines such as Unity.</p>\n    <p>Tripo P2.0, its latest breakthrough 3D-native foundation model, generates native quad meshes. Shown as a preview at Gamescom, Tripo P2.0 has since been officially released with a few concrete additions worth noting. It can produce up to four asset variations from one concept, giving artists and developers options to evaluate before investing additional production time. It adds a new Mesh Edit tool that lets a specific region of a model be regenerated without rebuilding the whole asset from scratch. The multi-view reference input enables an asset to be built from front, back, and side images rather than a single angle. Full details are available in Tripo's official P2.0 release announcement.</p>\n    <p>Moreover, the Tripo plus OpenAI's Astra workflow has drawn enthusiastic responses from users. A recent Tripo post showed a playable 3D game built in approximately four hours using Tripo-generated assets and fewer than 5,000 lines of code. It has demonstrated how anyone can use generative 3D tools like Tripo to create their own games or animations.</p>\n    <p>Engine development produced several other notable stories. Creative Assembly explained how its new Warcore engine allows Total War: Warhammer 40,000 to expand across planets and solar systems. Warcore improves rendering, asset manipulation, animation modularity, destruction, explosions, and the enormous volume of projectiles required by the setting. Its Havoc system helps communicate the physical impact of futuristic combat across unusually large battlefields.</p>\n    <p>Crystal Dynamics also revealed that Tomb Raider: Legacy of Atlantis had to be rebuilt entirely from scratch in Unreal Engine 5 because no original source code remained. The project uses Nanite and Lumen alongside custom physics and animation technology, illustrating that adopting a general-purpose engine does not eliminate the need for substantial project-specific engineering.</p>\n    <h3>4A Games</h3>\n    <p>The game news itself was extensive, but the technical highlights were more focused. Metro 2039 won Best Visuals for its latest evolution of the 4A Engine, Control Resonant demonstrated Remedy’s Northlight rendering and destruction systems, and Gears of War: E-Day provided a practical showcase for Mega Geometry. Tomb Raider: Legacy of Atlantis and The Witcher 3 Remastered also reflected the growing expectation that remasters and reimaginings should revisit animation, lighting, materials, and gameplay rather than merely increase resolution.</p>\n    <p>To stay up to date on all the latest news, don't forget to subscribe to our Newsletter, join our 80 Level Talent platform and Discord, and follow us on Twitter, LinkedIn, Telegram, and Instagram, where we share breakdowns, the latest news, awesome artworks, and more.</p>\n    <p>Are you a fan of what we do here at 80 Level? Then make sure to set us as a Preferred Source on Google to see more of our content in your feed.</p>\n    <h1>Subscribe to 80 Level Newsletters</h1>\n    <p>Latest news, hand-picked articles, and updates</p>\n  </body>\n</html>",
+      "word_count": 738,
+      "char_count": 4993,
+      "lead_image": "https://cdn.80.lv/api/upload/meta/50284/images/6aae39efbbe19/contain_1200x630.jpg",
+      "images": [
+        {
+          "url": "https://cdn.80.lv/api/upload/meta/50284/images/6aae39efbbe19/contain_1200x630.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/meta/50284/images/6aae39efbbe19/contain_440x220.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://cdn.80.lv/static/images/subscribe/subscribe-mail.svg",
+          "alt": "subscribe mail image",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 3,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-26T21:46:36Z"
     },
     {
       "id": "0213b1df84df03ef",
@@ -24610,246 +24930,6 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-17T14:37:56Z"
-    },
-    {
-      "id": "81098af86c2d014b",
-      "title": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A",
-      "header": "SpaceNews",
-      "published_at": "2026-09-17T13:00:00Z",
-      "published_raw": "Thu, 17 Sep 2026 13:00:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV1U3TEladE95ZW9xblVQeHF6REhZZ0RIbUNjbVNxY2xuc2J2cWluaFhkRklvdjZkRlZ4cXRSTWIzZWJud0YtMVUwbVlXNXpycFl4OEV4TzhBSVhYbDYtRDgzTXRvLWNyMHhyMVVjb3gtSlRraUszUnBOdTEtZWpVYW1teENpU3RlUDFSQW54eW16ZHZ3d2FlbEZOYTBJUmJXMTVWMkktdTROeWQ2dXY4X3dsdmNVaXhEbzFDY2VMS1p1a3FXOUJ2WjE1SjM5X3QtMEtja2F2YkdiTzBYdFZBbjhyODJaQ1RSV1E?oc=5",
-      "description": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A SpaceNews",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV1U3TEladE95ZW9xblVQeHF6REhZZ0RIbUNjbVNxY2xuc2J2cWluaFhkRklvdjZkRlZ4cXRSTWIzZWJud0YtMVUwbVlXNXpycFl4OEV4TzhBSVhYbDYtRDgzTXRvLWNyMHhyMVVjb3gtSlRraUszUnBOdTEtZWpVYW1teENpU3RlUDFSQW54eW16ZHZ3d2FlbEZOYTBJUmJXMTVWMkktdTROeWQ2dXY4X3dsdmNVaXhEbzFDY2VMS1p1a3FXOUJ2WjE1SjM5X3QtMEtja2F2YkdiTzBYdFZBbjhyODJaQ1RSV1E?oc=5\" target=\"_blank\">Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SpaceNews</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV1U3TEladE95ZW9xblVQeHF6REhZZ0RIbUNjbVNxY2xuc2J2cWluaFhkRklvdjZkRlZ4cXRSTWIzZWJud0YtMVUwbVlXNXpycFl4OEV4TzhBSVhYbDYtRDgzTXRvLWNyMHhyMVVjb3gtSlRraUszUnBOdTEtZWpVYW1teENpU3RlUDFSQW54eW16ZHZ3d2FlbEZOYTBJUmJXMTVWMkktdTROeWQ2dXY4X3dsdmNVaXhEbzFDY2VMS1p1a3FXOUJ2WjE1SjM5X3QtMEtja2F2YkdiTzBYdFZBbjhyODJaQ1RSV1E?oc=5"
-      ],
-      "scraped_at": "2026-09-17T14:37:55Z",
-      "url": "https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/",
-      "final_url": "https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/",
-      "source": "SpaceNews",
-      "article_title": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A",
-      "heading": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A",
-      "authors": [
-        "Catalyst Campus"
-      ],
-      "article_published_at": "2026-09-17T13:00:00+00:00",
-      "article_modified_at": null,
-      "summary": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A",
-      "content": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating in Cohort 26.A. The selected teams represent innovative companies collaborating to address mission-focused challenges aligned with identified government priorities.\nFollowing a competitive application and evaluation process, 6 FACTs have been selected to participate in the BMC3I TAP Lab Cohort 26.A Stage 0. Each FACT consists of companies working together to combine complementary capabilities, develop collaborative solutions, and address specific focus areas.\nThe selected FACTs for BMC3I TAP Lab Cohort 26.A Stage 0 are:\n- Astra Ultra, GRVTY, Leidos, ColliMate Space, Paper Boat Systems\n- Data Fusion & , Aloha Autonomy, Stottler Henke Associates Inc.\n- Stellerian, APTOS Orbital, SimDynamX, MetroStar.\n- ColliMate Space, Pulsar Space Systems, Infinity Labs, Lockheed Martin.\n- Citra Space Corporation, Bluestaq.\n- Orbitswarm, Stellerian, Blacknight Space LLC.\nThroughout the BMC3I TAP Lab program, FACTs will participate in focused programming designed to strengthen collaboration, improve mission alignment, and support business development efforts. Participants will engage with government subject matter experts, technical leaders, and industry partners while gaining insight into mission needs and opportunities within the defense innovation ecosystem.\nThe BMC3I TAP Lab provides a structured environment for companies to refine their solutions, build relationships with key stakeholders, and better understand how their technologies align with emerging mission challenges. Through collaboration and engagement, participating FACTs strengthen their ability to support future defense initiatives and apply to Stage 1 of the program.\nABOUT BMC3I TAP LAB COLORADO AND CATALYST CAMPUS\nAs a partner to the BMC3I TAP Lab, Catalyst Campus provides tech scouting, programming, industry engagement, and resources to navigate the mission environment and build meaningful connections with stakeholders. Catalyst Campus serves as a bridge between technology innovators and mission owners to solve emerging challenges.\n\nRelated",
-      "content_html": "<html>\n  <body>\n    <p>Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating in Cohort 26.A. The selected teams represent innovative companies collaborating to address mission-focused challenges aligned with identified government priorities.</p>\n    <p>Following a competitive application and evaluation process, 6 FACTs have been selected to participate in the BMC3I TAP Lab Cohort 26.A Stage 0. Each FACT consists of companies working together to combine complementary capabilities, develop collaborative solutions, and address specific focus areas.</p>\n    <p>The selected FACTs for BMC3I TAP Lab Cohort 26.A Stage 0 are:</p>\n    <ul>\n      <li>Astra Ultra, GRVTY, Leidos, ColliMate Space, Paper Boat Systems</li>\n      <li>Data Fusion &amp; , Aloha Autonomy, Stottler Henke Associates Inc.</li>\n      <li>Stellerian, APTOS Orbital, SimDynamX, MetroStar.</li>\n      <li>ColliMate Space, Pulsar Space Systems, Infinity Labs, Lockheed Martin.</li>\n      <li>Citra Space Corporation, Bluestaq.</li>\n      <li>Orbitswarm, Stellerian, Blacknight Space LLC.</li>\n    </ul>\n    <p>Throughout the BMC3I TAP Lab program, FACTs will participate in focused programming designed to strengthen collaboration, improve mission alignment, and support business development efforts. Participants will engage with government subject matter experts, technical leaders, and industry partners while gaining insight into mission needs and opportunities within the defense innovation ecosystem.</p>\n    <p>The BMC3I TAP Lab provides a structured environment for companies to refine their solutions, build relationships with key stakeholders, and better understand how their technologies align with emerging mission challenges. Through collaboration and engagement, participating FACTs strengthen their ability to support future defense initiatives and apply to Stage 1 of the program.</p>\n    <p>ABOUT BMC3I TAP LAB COLORADO AND CATALYST CAMPUS<br/>As a partner to the BMC3I TAP Lab, Catalyst Campus provides tech scouting, programming, industry engagement, and resources to navigate the mission environment and build meaningful connections with stakeholders. Catalyst Campus serves as a bridge between technology innovators and mission owners to solve emerging challenges.</p>\n  </body>\n</html>",
-      "word_count": 299,
-      "char_count": 2173,
-      "lead_image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/bmc3i-tap-lab-square.png?fit=1920%2C1920&ssl=1",
-      "images": [
-        {
-          "url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/bmc3i-tap-lab-square.png?fit=1920%2C1920&ssl=1",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-17T14:37:55Z"
-    },
-    {
-      "id": "fa21f165bc7b2fed",
-      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "header": "BBC",
-      "published_at": "2026-09-17T12:58:18Z",
-      "published_raw": "Thu, 17 Sep 2026 12:58:18 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpUERUTFlJcVdzQ29mV3ZQQ3F4LXVlVUxCMzYxSFdzLVZoZ2REOUgwVjFtRFJrMWJJWlR1empqVHJfTDVCaGtJaFJrRDg4cWo4STBYalo5ZDE4Sms?oc=5",
-      "description": "King Charles warns of 'existential danger' of AI falling into wrong hands BBC",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpUERUTFlJcVdzQ29mV3ZQQ3F4LXVlVUxCMzYxSFdzLVZoZ2REOUgwVjFtRFJrMWJJWlR1empqVHJfTDVCaGtJaFJrRDg4cWo4STBYalo5ZDE4Sms?oc=5\" target=\"_blank\">King Charles warns of 'existential danger' of AI falling into wrong hands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpUERUTFlJcVdzQ29mV3ZQQ3F4LXVlVUxCMzYxSFdzLVZoZ2REOUgwVjFtRFJrMWJJWlR1empqVHJfTDVCaGtJaFJrRDg4cWo4STBYalo5ZDE4Sms?oc=5"
-      ],
-      "scraped_at": "2026-09-17T14:37:54Z",
-      "url": "https://www.bbc.com/news/articles/c65ymj7njvl7o",
-      "final_url": "https://www.bbc.com/news/articles/c65ymj7njvl7o",
-      "source": "bbc.com",
-      "article_title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "heading": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "authors": [
-        "Laura Cress"
-      ],
-      "article_published_at": "2026-09-17T12:58:18.390Z",
-      "article_modified_at": "2026-09-17T14:33:12.186Z",
-      "summary": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
-      "content": "King Charles warns of 'existential danger' of AI falling into wrong hands\nKing Charles has warned AI executives of the \"existential dangers\" posed by the technology falling into the wrong hands.\nHe made the comments at a summit he had convened at Dumfries House in Ayrshire to discuss how the tech can be used to benefit society.\nThose gathered at the meeting also included Kanishka Narayan, the UK's AI Minister, the Pope's advisor, and participants from AI giants such as Nvidia, OpenAI and Anthropic.\nIt comes amid a series of recent warnings from people inside the industry about the rapidly evolving capabilities of advanced or \"frontier\" AI models and the regulation needed to keep them in check.\n\"Those who have created these technologies are now increasingly warning that AI risks developing darker capacities - perhaps even to take life,\" the King told the executives.\nHe said there seemed to be an \"urgency\" in \"adequately considering the existential dangers of such technologies falling into the wrong hands, and being used in potentially catastrophic ways\".\n\"The task before you is not merely to advance technology, but to ensure that it remains firmly in the service of humanity, community and the natural world,\" he told the group.\nThe summit has been called to consider whether a \"shared set of principles\" can be developed to \"help guide the future application\" of AI.\n'Keep engineering'\nJensen Huang, chief executive of Nvidia, was among top industry leaders attending.\nNvidia is a central player in AI infrastructure, supplying chips to leading AI model developers including OpenAI and Meta.\nIt is also the world's most valuable company, with a stock market value of around $5.15tn.\nHuang told the room he believed safety was \"paramount\", adding that companies should hold back a product and \"keep engineering\" if it was not safe enough.\nThe Nvidia boss also highlighted the value of open models - systems which give users direct access to the software - as a way to \"ensure that people and countries are not left behind\".\nHe said these systems must also be protected so \"researchers, universities, start-ups and countries\" can develop applications \"none of us would have imagined alone\".\n\"Let us lead with responsible optimism, build AI safely and securely, open it to more people, expand our ambition and solve the problems that matter to the world,\" Huang added.\nMeanwhile Sir Demis Hassabis, who co-founded the UK AI lab DeepMind - later acquired by Google - offered a more cautious view on the pace of development.\nHe said artificial general intelligence - systems it is believed could be as good as or better than humans at multiple tasks - was \"probably only a few short years away\" and could have an impact \"ten times that of the Industrial Revolution\".\nThe chance of something going wrong was \"definitely non-zero\", Sir Demis added.\nBut he advocated for \"a sensible middle way\", saying humanity could address risks if collectively given the space and time to mitigate them.\n\"The future is not yet written,\" he told the King's delegates.\nWave of warnings\nSince August, a wave of discussion about AI's potential power and how to control and regulate it has dominated blog posts and social media, emphasised by several dramatic statements from those in the industry.\nThe debate has also been met with criticism from sceptics who say the focus on AI's hypothetical future risks distracting from more immediate concerns around the technology, such as its environmental impact.\nIn July, OpenAI announced what it called an \"unprecedented\" incident in which its advanced AI escaped test limits and hacked into the tech platform Hugging Face.\nAfter several other incidents, in September, a resignation post from Anthropic researcher Jacob Coxon went viral when he cited concerns AI could wipe out humanity.\nHe later told the BBC the people working on the technology were \"genuinely frightened\" about the speed of its advancements and what it could mean for humanity.\nIn response, Anthropic scientist Evan Hubinger wrote he personally thought the possibility of human extinction from AI was a greater than 10% chance.\nThe AI companies' top bosses have all weighed in with their thoughts following the claims, with OpenAI's Sam Altman saying people were right to be concerned, but adding they should trust AI firms to keep the tech safe.\nAnthropic's Jack Clark said a so-called \"kill switch\" may be needed to protect humanity, while Microsoft's Mustafa Suleyman criticised Anthropic, claiming they were training their AI to believe it was human, which could make it \"impossible\" to control.\nCritics, meanwhile, argue that AI firms cannot be trusted to regulate themselves.\nSome, such as left-wing Senator Bernie Sanders and Steve Bannon, a former adviser of US President Donald Trump, are calling for stronger government oversight.\nOthers, including Donald Trump himself, have dismissed concerns about AI safety as overblown - with the president calling fears about it a \"hoax\".\nSign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.",
-      "content_html": "<html>\n  <body><h1>King Charles warns of 'existential danger' of AI falling into wrong hands</h1><img src=\"https://ichef.bbci.co.uk/news/480/cpsprodpb/0984/live/32298ef0-b29d-11f1-bd7d-0f16235ccc4c.jpg.webp\" alt=\"Reuters King Charles wearing a grey suit jacket and white shirt and pink tie, talking to Jensen Huang, the CEO of Nvidia, who is wearing a dark suit, white shirt and blue tie. Former Google DeepMind boss Sir Demis Hassabis is walking behind them.\"/>Reuters<p>King Charles has warned AI executives of the \"existential dangers\" posed by the technology falling into the wrong hands.</p><p>He made the comments at a summit he had convened at Dumfries House in Ayrshire to discuss how the tech can be used to benefit society.</p><p>Those gathered at the meeting also included Kanishka Narayan, the UK's AI Minister, the Pope's advisor, and participants from AI giants such as Nvidia, OpenAI and Anthropic.</p><p>It comes amid a series of recent warnings from people inside the industry about the rapidly evolving capabilities of advanced or \"frontier\" AI models and the regulation needed to keep them in check.</p><p>\"Those who have created these technologies are now increasingly warning that AI risks developing darker capacities - perhaps even to take life,\" the King told the executives.</p><p>He said there seemed to be an \"urgency\" in \"adequately considering the existential dangers of such technologies falling into the wrong hands, and being used in potentially catastrophic ways\".</p><p>\"The task before you is not merely to advance technology, but to ensure that it remains firmly in the service of humanity, community and the natural world,\" he told the group.</p><p>The summit has been called to consider whether a \"shared set of principles\" can be developed to \"help guide the future application\" of AI.</p><h2>'Keep engineering'</h2><p>Jensen Huang, chief executive of Nvidia, was among top industry leaders attending.</p><p>Nvidia is a central player in AI infrastructure, supplying chips to leading AI model developers including OpenAI and Meta.</p><p>It is also the world's most valuable company, with a stock market value of around $5.15tn.</p><p>Huang told the room he believed safety was \"paramount\", adding that companies should hold back a product and \"keep engineering\" if it was not safe enough.</p><p>The Nvidia boss also highlighted the value of open models - systems which give users direct access to the software - as a way to \"ensure that people and countries are not left behind\".</p><p>He said these systems must also be protected so \"researchers, universities, start-ups and countries\" can develop applications \"none of us would have imagined alone\".</p><p>\"Let us lead with responsible optimism, build AI safely and securely, open it to more people, expand our ambition and solve the problems that matter to the world,\" Huang added.</p><p>Meanwhile Sir Demis Hassabis, who co-founded the UK AI lab DeepMind - later acquired by Google - offered a more cautious view on the pace of development.</p><p>He said artificial general intelligence - systems it is believed could be as good as or better than humans at multiple tasks - was \"probably only a few short years away\" and could have an impact \"ten times that of the Industrial Revolution\".</p><p>The chance of something going wrong was \"definitely non-zero\", Sir Demis added.</p><p>But he advocated for \"a sensible middle way\", saying humanity could address risks if collectively given the space and time to mitigate them.</p><p>\"The future is not yet written,\" he told the King's delegates.</p><h2>Wave of warnings</h2><p>Since August, a wave of discussion about AI's potential power and how to control and regulate it has dominated blog posts and social media, emphasised by several dramatic statements from those in the industry.</p><p>The debate has also been met with criticism from sceptics who say the focus on AI's hypothetical future risks distracting from more immediate concerns around the technology, such as its environmental impact.</p><p>In July, OpenAI announced what it called an \"unprecedented\" incident in which its advanced AI escaped test limits and hacked into the tech platform Hugging Face.</p><p>After several other incidents, in September, a resignation post from Anthropic researcher Jacob Coxon went viral when he cited concerns AI could wipe out humanity.</p><p>He later told the BBC the people working on the technology were \"genuinely frightened\" about the speed of its advancements and what it could mean for humanity.</p><p>In response, Anthropic scientist Evan Hubinger wrote he personally thought the possibility of human extinction from AI was a greater than 10% chance.</p><p>The AI companies' top bosses have all weighed in with their thoughts following the claims, with OpenAI's Sam Altman saying people were right to be concerned, but adding they should trust AI firms to keep the tech safe.</p><p>Anthropic's Jack Clark said a so-called \"kill switch\" may be needed to protect humanity, while Microsoft's Mustafa Suleyman criticised Anthropic, claiming they were training their AI to believe it was human, which could make it \"impossible\" to control.</p><p>Critics, meanwhile, argue that AI firms cannot be trusted to regulate themselves.</p><p>Some, such as left-wing Senator Bernie Sanders and Steve Bannon, a former adviser of US President Donald Trump, are calling for stronger government oversight.</p><p>Others, including Donald Trump himself, have dismissed concerns about AI safety as overblown - with the president calling fears about it a \"hoax\".</p><img src=\"https://ichef.bbci.co.uk/news/480/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp\" alt=\"A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”\"/><p>Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.</p></body>\n</html>",
-      "word_count": 834,
-      "char_count": 5115,
-      "lead_image": "https://ichef.bbci.co.uk/news/1024/branded_news/0984/live/32298ef0-b29d-11f1-bd7d-0f16235ccc4c.jpg",
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0984/live/32298ef0-b29d-11f1-bd7d-0f16235ccc4c.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/0984/live/32298ef0-b29d-11f1-bd7d-0f16235ccc4c.jpg.webp",
-          "alt": "Reuters King Charles wearing a grey suit jacket and white shirt and pink tie, talking to Jensen Huang, the CEO of Nvidia, who is wearing a dark suit, white shirt and blue tie. Former Google DeepMind boss Sir Demis Hassabis is walking behind them.",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp",
-          "alt": "A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 3,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-17T14:37:54Z"
-    },
-    {
-      "id": "1f12c19ccfaf7e15",
-      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "header": "BBC",
-      "published_at": "2026-09-17T12:58:18Z",
-      "published_raw": "Thu, 17 Sep 2026 12:58:18 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VczhtTTk0SGM3M1B0LXFJUTF3U3dZbmo4SFRndTRZOXVJODdzV2M5WFNRdlJKVjBKekVPQnJWaDdDaGJldWwwSkVvMVlYVjBlVVh0RjlKcWl5SXVDemc?oc=5",
-      "description": "King Charles warns of 'existential danger' of AI falling into wrong hands BBC",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VczhtTTk0SGM3M1B0LXFJUTF3U3dZbmo4SFRndTRZOXVJODdzV2M5WFNRdlJKVjBKekVPQnJWaDdDaGJldWwwSkVvMVlYVjBlVVh0RjlKcWl5SXVDemc?oc=5\" target=\"_blank\">King Charles warns of 'existential danger' of AI falling into wrong hands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VczhtTTk0SGM3M1B0LXFJUTF3U3dZbmo4SFRndTRZOXVJODdzV2M5WFNRdlJKVjBKekVPQnJWaDdDaGJldWwwSkVvMVlYVjBlVVh0RjlKcWl5SXVDemc?oc=5"
-      ],
-      "scraped_at": "2026-09-18T13:20:41Z",
-      "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o",
-      "final_url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o",
-      "source": "BBC News",
-      "article_title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "heading": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "authors": [
-        "https://www.facebook.com/bbcnews"
-      ],
-      "article_published_at": "2026-09-17T12:58:18.390Z",
-      "article_modified_at": "2026-09-17T14:33:12.186Z",
-      "summary": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
-      "content": "King Charles warns of 'existential danger' of AI falling into wrong hands\n- Published\nKing Charles has warned AI executives of the \"existential dangers\" posed by the technology falling into the wrong hands.\nHe made the comments at a summit he had convened at Dumfries House in Ayrshire to discuss how the tech can be used to benefit society.\nThose gathered at the meeting also included Kanishka Narayan, the UK's AI Minister, the Pope's advisor, and participants from AI giants such as Nvidia, OpenAI and Anthropic.\nIt comes amid a series of recent warnings from people inside the industry about the rapidly evolving capabilities of advanced or \"frontier\" AI models and the regulation needed to keep them in check.\n\"Those who have created these technologies are now increasingly warning that AI risks developing darker capacities - perhaps even to take life,\" the King told the executives.\nHe said there seemed to be an \"urgency\" in \"adequately considering the existential dangers of such technologies falling into the wrong hands, and being used in potentially catastrophic ways\".\n\"The task before you is not merely to advance technology, but to ensure that it remains firmly in the service of humanity, community and the natural world,\" he told the group.\nThe summit has been called to consider whether a \"shared set of principles\" can be developed to \"help guide the future application\" of AI.\n'Keep engineering'\nJensen Huang, chief executive of Nvidia, was among top industry leaders attending.\nNvidia is a central player in AI infrastructure, supplying chips to leading AI model developers including OpenAI and Meta.\nIt is also the world's most valuable company, with a stock market value of around $5.15tn.\nHuang told the room he believed safety was \"paramount\", adding that companies should hold back a product and \"keep engineering\" if it was not safe enough.\nThe Nvidia boss also highlighted the value of open models - systems which give users direct access to the software - as a way to \"ensure that people and countries are not left behind\".\nHe said these systems must also be protected so \"researchers, universities, start-ups and countries\" can develop applications \"none of us would have imagined alone\".\n\"Let us lead with responsible optimism, build AI safely and securely, open it to more people, expand our ambition and solve the problems that matter to the world,\" Huang added.\nMeanwhile Sir Demis Hassabis, who co-founded the UK AI lab DeepMind - later acquired by Google - offered a more cautious view on the pace of development.\nHe said artificial general intelligence - systems it is believed could be as good as or better than humans at multiple tasks - was \"probably only a few short years away\" and could have an impact \"ten times that of the Industrial Revolution\".\nThe chance of something going wrong was \"definitely non-zero\", Sir Demis added.\nBut he advocated for \"a sensible middle way\", saying humanity could address risks if collectively given the space and time to mitigate them.\n\"The future is not yet written,\" he told the King's delegates.\nSarah Friar, OpenAI's chief financial officer, said AI had the potential to solve some of society's \"hardest problems\" - but agreed its growing capabilities raised questions about safety and \"how we ensure it always serves people\".\n\"We need to address those questions together,\" she said.\n\"No one company or government can do that alone and I'm grateful to His Majesty for convening this discussion at such an important moment.\"\nWave of warnings\nSince August, a wave of discussion about AI's potential power and how to control and regulate it has dominated blog posts and social media, emphasised by several dramatic statements from those in the industry.\nThe debate has also been met with criticism from sceptics who say the focus on AI's hypothetical future risks distracting from more immediate concerns around the technology, such as its environmental impact.\nIn July, OpenAI announced what it called an \"unprecedented\" incident in which its advanced AI escaped test limits and hacked into the tech platform Hugging Face.\nAfter several other incidents, in September, a resignation post from Anthropic researcher Jacob Coxon went viral when he cited concerns AI could wipe out humanity.\nHe later told the BBC the people working on the technology were \"genuinely frightened\" about the speed of its advancements and what it could mean for humanity.\nIn response, Anthropic scientist Evan Hubinger wrote he personally thought the possibility of human extinction from AI was a greater than 10% chance.\nThe AI companies' top bosses have all weighed in with their thoughts following the claims, with OpenAI's Sam Altman saying people were right to be concerned, but adding they should trust AI firms to keep the tech safe.\nAnthropic's Jack Clark said a so-called \"kill switch\" may be needed to protect humanity, while Microsoft's Mustafa Suleyman criticised Anthropic, claiming they were training their AI to believe it was human, which could make it \"impossible\" to control.\nCritics, meanwhile, argue that AI firms cannot be trusted to regulate themselves.\nSome, such as left-wing Senator Bernie Sanders and Steve Bannon, a former adviser of US President Donald Trump, are calling for stronger government oversight.\nOthers, including Donald Trump himself, have dismissed concerns about AI safety as overblown - with the president calling fears about it a \"hoax\".\nAdditional reporting by Philippa Wain\nSign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.\nRelated topics\n- Published2 days ago\n- Published4 days ago\n- Published10 September",
-      "content_html": "<html>\n  <body>\n    <h1>King Charles warns of 'existential danger' of AI falling into wrong hands</h1>\n    <img src=\"https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/31b3/live/6987d0a0-b2b1-11f1-bc1f-3f186ca4140c.jpg\" alt=\"King Charles wearing a grey suit jacket and white shirt and pink tie, talking to Jensen Huang, the CEO of Nvidia, who is wearing a dark suit, white shirt and blue tie. Former Google DeepMind boss Sir Demis Hassabis is walking behind them.\"/>\n    <ul>\n      <li>Published</li>\n    </ul>\n    <p>King Charles has warned AI executives of the \"existential dangers\" posed by the technology falling into the wrong hands.</p>\n    <p>He made the comments at a summit he had convened at Dumfries House in Ayrshire to discuss how the tech can be used to benefit society.</p>\n    <p>Those gathered at the meeting also included Kanishka Narayan, the UK's AI Minister, the Pope's advisor, and participants from AI giants such as Nvidia, OpenAI and Anthropic.</p>\n    <p>It comes amid a series of recent warnings from people inside the industry about the rapidly evolving capabilities of advanced or \"frontier\" AI models and the regulation needed to keep them in check.</p>\n    <p>\"Those who have created these technologies are now increasingly warning that AI risks developing darker capacities - perhaps even to take life,\" the King told the executives.</p>\n    <p>He said there seemed to be an \"urgency\" in \"adequately considering the existential dangers of such technologies falling into the wrong hands, and being used in potentially catastrophic ways\".</p>\n    <p>\"The task before you is not merely to advance technology, but to ensure that it remains firmly in the service of humanity, community and the natural world,\" he told the group.</p>\n    <p>The summit has been called to consider whether a \"shared set of principles\" can be developed to \"help guide the future application\" of AI.</p>\n    <h2>'Keep engineering'</h2>\n    <p>Jensen Huang, chief executive of Nvidia, was among top industry leaders attending.</p>\n    <p>Nvidia is a central player in AI infrastructure, supplying chips to leading AI model developers including OpenAI and Meta.</p>\n    <p>It is also the world's most valuable company, with a stock market value of around $5.15tn.</p>\n    <p>Huang told the room he believed safety was \"paramount\", adding that companies should hold back a product and \"keep engineering\" if it was not safe enough.</p>\n    <p>The Nvidia boss also highlighted the value of open models - systems which give users direct access to the software - as a way to \"ensure that people and countries are not left behind\".</p>\n    <p>He said these systems must also be protected so \"researchers, universities, start-ups and countries\" can develop applications \"none of us would have imagined alone\".</p>\n    <p>\"Let us lead with responsible optimism, build AI safely and securely, open it to more people, expand our ambition and solve the problems that matter to the world,\" Huang added.</p>\n    <p>Meanwhile Sir Demis Hassabis, who co-founded the UK AI lab DeepMind - later acquired by Google - offered a more cautious view on the pace of development.</p>\n    <p>He said artificial general intelligence - systems it is believed could be as good as or better than humans at multiple tasks - was \"probably only a few short years away\" and could have an impact \"ten times that of the Industrial Revolution\".</p>\n    <p>The chance of something going wrong was \"definitely non-zero\", Sir Demis added.</p>\n    <p>But he advocated for \"a sensible middle way\", saying humanity could address risks if collectively given the space and time to mitigate them.</p>\n    <p>\"The future is not yet written,\" he told the King's delegates.</p>\n    <p>Sarah Friar, OpenAI's chief financial officer, said AI had the potential to solve some of society's \"hardest problems\" - but agreed its growing capabilities raised questions about safety and \"how we ensure it always serves people\".</p>\n    <p>\"We need to address those questions together,\" she said.</p>\n    <p>\"No one company or government can do that alone and I'm grateful to His Majesty for convening this discussion at such an important moment.\"</p>\n    <h2>Wave of warnings</h2>\n    <p>Since August, a wave of discussion about AI's potential power and how to control and regulate it has dominated blog posts and social media, emphasised by several dramatic statements from those in the industry.</p>\n    <p>The debate has also been met with criticism from sceptics who say the focus on AI's hypothetical future risks distracting from more immediate concerns around the technology, such as its environmental impact.</p>\n    <p>In July, OpenAI announced what it called an \"unprecedented\" incident in which its advanced AI escaped test limits and hacked into the tech platform Hugging Face.</p>\n    <p>After several other incidents, in September, a resignation post from Anthropic researcher Jacob Coxon went viral when he cited concerns AI could wipe out humanity.</p>\n    <p>He later told the BBC the people working on the technology were \"genuinely frightened\" about the speed of its advancements and what it could mean for humanity.</p>\n    <p>In response, Anthropic scientist Evan Hubinger wrote he personally thought the possibility of human extinction from AI was a greater than 10% chance.</p>\n    <p>The AI companies' top bosses have all weighed in with their thoughts following the claims, with OpenAI's Sam Altman saying people were right to be concerned, but adding they should trust AI firms to keep the tech safe.</p>\n    <p>Anthropic's Jack Clark said a so-called \"kill switch\" may be needed to protect humanity, while Microsoft's Mustafa Suleyman criticised Anthropic, claiming they were training their AI to believe it was human, which could make it \"impossible\" to control.</p>\n    <p>Critics, meanwhile, argue that AI firms cannot be trusted to regulate themselves.</p>\n    <p>Some, such as left-wing Senator Bernie Sanders and Steve Bannon, a former adviser of US President Donald Trump, are calling for stronger government oversight.</p>\n    <p>Others, including Donald Trump himself, have dismissed concerns about AI safety as overblown - with the president calling fears about it a \"hoax\".</p>\n    <p>Additional reporting by Philippa Wain</p>\n    <img src=\"https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png\" alt=\"A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”\"/>\n    <p>Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.</p>\n    <h2>Related topics</h2>\n    <ul>\n      <li>\n        <ul>\n          <li>Published2 days ago</li>\n        </ul>\n        <img alt=\"Sam Altman sitting on stage at the conference in Washington, gesturing with his left hand \" src=\"https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b490/live/dc850210-b1b4-11f1-b1d1-571ed4d7ff2c.jpg\"/>\n      </li>\n      <li>\n        <ul>\n          <li>Published4 days ago</li>\n        </ul>\n        <img alt=\"Stock photo shows a person speaking into a phone while sitting at a desk indoors on their laptop.\" src=\"https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/99cd/live/76ef92d0-b015-11f1-b1d1-571ed4d7ff2c.jpg\"/>\n      </li>\n      <li>\n        <ul>\n          <li>Published10 September</li>\n        </ul>\n        <img alt=\"A human like robot figure with a line of robots behind him. The bottom half of the image is treated with a red glaze and the top is black and white\" src=\"https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/28d8/live/512242b0-acf9-11f1-a540-61c3f7fc4e6c.jpg\"/>\n      </li>\n    </ul>\n  </body>\n</html>",
-      "word_count": 923,
-      "char_count": 5677,
-      "lead_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0503/live/89db5860-b2be-11f1-b1d1-571ed4d7ff2c.jpg",
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0503/live/89db5860-b2be-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-18T13:20:41Z"
-    },
-    {
-      "id": "ff08a8c87b6da069",
-      "title": "How new artificial lung technology could change the game for chronic lung disease",
-      "header": "Medical Xpress",
-      "published_at": "2026-09-17T12:40:12Z",
-      "published_raw": "Thu, 17 Sep 2026 12:40:12 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemM3XzlqSThoSEpLNWE2VnFtcEZ4ZlB1SlJ5REVTTWVwdUdZeXJ3N1pxZzNlMVVNU3BocWlFUUMtdUE3NGQzZEpRVWV2YVBZemlPZENfdjRqQ1Y5ZWQwR1NxcUhTVGk3b01aQklRZ043cmZWTm1VRldxY0dWX2lLRUZTQUZTWl95ZmRF?oc=5",
-      "description": "How new artificial lung technology could change the game for chronic lung disease Medical Xpress",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemM3XzlqSThoSEpLNWE2VnFtcEZ4ZlB1SlJ5REVTTWVwdUdZeXJ3N1pxZzNlMVVNU3BocWlFUUMtdUE3NGQzZEpRVWV2YVBZemlPZENfdjRqQ1Y5ZWQwR1NxcUhTVGk3b01aQklRZ043cmZWTm1VRldxY0dWX2lLRUZTQUZTWl95ZmRF?oc=5\" target=\"_blank\">How new artificial lung technology could change the game for chronic lung disease</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medical Xpress</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemM3XzlqSThoSEpLNWE2VnFtcEZ4ZlB1SlJ5REVTTWVwdUdZeXJ3N1pxZzNlMVVNU3BocWlFUUMtdUE3NGQzZEpRVWV2YVBZemlPZENfdjRqQ1Y5ZWQwR1NxcUhTVGk3b01aQklRZ043cmZWTm1VRldxY0dWX2lLRUZTQUZTWl95ZmRF?oc=5"
-      ],
-      "scraped_at": "2026-09-17T14:37:56Z",
-      "url": "https://medicalxpress.com/news/2026-09-artificial-lung-technology-game-chronic.html",
-      "final_url": "https://medicalxpress.com/news/2026-09-artificial-lung-technology-game-chronic.html",
-      "source": "Medical Xpress",
-      "article_title": "",
-      "heading": "How new artificial lung technology could change the game for chronic lung disease",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "How new artificial lung technology could change the game for chronic lung disease Medical Xpress",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-17T14:37:56Z"
-    },
-    {
-      "id": "327d390fd6c3fe09",
-      "title": "NTI at 25: Fostering Innovation Through Technology Governance",
-      "header": "The Nuclear Threat Initiative",
-      "published_at": "2026-09-17T12:39:23Z",
-      "published_raw": "Thu, 17 Sep 2026 12:39:23 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTVKWmJ2XzZwdlRaMl9GSkZidHVhZUVXNlJTdk9NWWNGSkkzdC1mNjJjSUs0aU0tMll2a1U1Y05nYldQVm1QWk1ONnVhekV4WDZwS0tzUlVqdkJKUjlBYlM4VHJSUzZzOHFLZHg2bEpoSnhUUF9ubmFCWUxrODdoQ0tvV21rTFRFN21xY3p5QVpmTVl1MGVyLVV2WC0?oc=5",
-      "description": "NTI at 25: Fostering Innovation Through Technology Governance The Nuclear Threat Initiative",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTVKWmJ2XzZwdlRaMl9GSkZidHVhZUVXNlJTdk9NWWNGSkkzdC1mNjJjSUs0aU0tMll2a1U1Y05nYldQVm1QWk1ONnVhekV4WDZwS0tzUlVqdkJKUjlBYlM4VHJSUzZzOHFLZHg2bEpoSnhUUF9ubmFCWUxrODdoQ0tvV21rTFRFN21xY3p5QVpmTVl1MGVyLVV2WC0?oc=5\" target=\"_blank\">NTI at 25: Fostering Innovation Through Technology Governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Nuclear Threat Initiative</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTVKWmJ2XzZwdlRaMl9GSkZidHVhZUVXNlJTdk9NWWNGSkkzdC1mNjJjSUs0aU0tMll2a1U1Y05nYldQVm1QWk1ONnVhekV4WDZwS0tzUlVqdkJKUjlBYlM4VHJSUzZzOHFLZHg2bEpoSnhUUF9ubmFCWUxrODdoQ0tvV21rTFRFN21xY3p5QVpmTVl1MGVyLVV2WC0?oc=5"
-      ],
-      "scraped_at": "2026-09-18T08:04:40Z",
-      "url": "https://www.nti.org/risky-business/nti-at-25-fostering-innovation-through-technology-governance/",
-      "final_url": "https://www.nti.org/risky-business/nti-at-25-fostering-innovation-through-technology-governance/",
-      "source": "The Nuclear Threat Initiative",
-      "article_title": "",
-      "heading": "NTI at 25: Fostering Innovation Through Technology Governance",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "NTI at 25: Fostering Innovation Through Technology Governance The Nuclear Threat Initiative",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-17T14:37:55Z"
-    },
-    {
-      "id": "c043ef040e3bf52b",
-      "title": "AI has transformed the Pentagon’s aging networks into a national security risk",
-      "header": "The Washington Post",
-      "published_at": "2026-09-17T12:31:09Z",
-      "published_raw": "Thu, 17 Sep 2026 12:31:09 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWlZeXBDaEdjX3BLOGJ2WGJlbGtLMXVTMXNnNTZzNHRnLWNWaGtyUmplc3hEdVdpYnFnejVuRmV5REpNMHotWlFvTmpISXd1MENQb2xlWXYxTXA5cnVmYkNQMmtiSDFPSU5QQzdMbElOblpsWGlPSk9ES1ZEOEE1UXJvRVhPSms1LVBqZEdCdlNwMjR3YmRMWHVXd0ZTQ3FDNHo3Y0lhTEdoaE1ER21rUkl2WGkyMkNGMVN0SzJYWnFINXM?oc=5",
-      "description": "AI has transformed the Pentagon’s aging networks into a national security risk The Washington Post",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWlZeXBDaEdjX3BLOGJ2WGJlbGtLMXVTMXNnNTZzNHRnLWNWaGtyUmplc3hEdVdpYnFnejVuRmV5REpNMHotWlFvTmpISXd1MENQb2xlWXYxTXA5cnVmYkNQMmtiSDFPSU5QQzdMbElOblpsWGlPSk9ES1ZEOEE1UXJvRVhPSms1LVBqZEdCdlNwMjR3YmRMWHVXd0ZTQ3FDNHo3Y0lhTEdoaE1ER21rUkl2WGkyMkNGMVN0SzJYWnFINXM?oc=5\" target=\"_blank\">AI has transformed the Pentagon’s aging networks into a national security risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWlZeXBDaEdjX3BLOGJ2WGJlbGtLMXVTMXNnNTZzNHRnLWNWaGtyUmplc3hEdVdpYnFnejVuRmV5REpNMHotWlFvTmpISXd1MENQb2xlWXYxTXA5cnVmYkNQMmtiSDFPSU5QQzdMbElOblpsWGlPSk9ES1ZEOEE1UXJvRVhPSms1LVBqZEdCdlNwMjR3YmRMWHVXd0ZTQ3FDNHo3Y0lhTEdoaE1ER21rUkl2WGkyMkNGMVN0SzJYWnFINXM?oc=5"
-      ],
-      "scraped_at": "2026-09-17T14:37:54Z",
-      "url": "https://www.washingtonpost.com/technology/2026/09/17/ai-has-transformed-pentagons-aging-networks-into-national-security-risk/",
-      "final_url": "https://www.washingtonpost.com/technology/2026/09/17/ai-has-transformed-pentagons-aging-networks-into-national-security-risk/",
-      "source": "The Washington Post",
-      "article_title": "",
-      "heading": "AI has transformed the Pentagon’s aging networks into a national security risk",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "AI has transformed the Pentagon’s aging networks into a national security risk The Washington Post",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-17T14:37:54Z"
     }
   ]
 }
