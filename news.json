@@ -1,15 +1,15 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-26T21:46:40Z",
+  "generated_at": "2026-09-27T00:11:50Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 11,
-    "added": 6,
-    "updated": 5,
+    "scraped_now": 10,
+    "added": 2,
+    "updated": 8,
     "ok": 356,
     "failed": 144,
-    "duration_seconds": 6.65
+    "duration_seconds": 101.29
   },
   "articles": [
     {
@@ -24,7 +24,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3dBWVdHeXkyTWtrRFd2YjBRblBMU00tZmlFaUpoOFV2alJxWWV1SGdIUDBTemtqcF9uVkdBTWg4TktqQXZwVnlVRmRvdlNYWE9xUDJfMTBWcFdVd1FyemJJNTNDcmY1bVd6em5qejFHX0tZazkyWUZTNnFMSGo0NWlDS0lIN0wzZ25wSXpNbWVBRjc2TmYwTDBqejVEcWc?oc=5"
       ],
-      "scraped_at": "2026-09-26T21:46:35Z",
+      "scraped_at": "2026-09-27T00:10:10Z",
       "url": "https://seekingalpha.com/news/4647381-apple-owes-taction-technology-5_7b-violating-haptics-patents",
       "final_url": "https://seekingalpha.com/news/4647381-apple-owes-taction-technology-5_7b-violating-haptics-patents",
       "source": "Seeking Alpha",
@@ -73,6 +73,48 @@
       "status": "partial",
       "error": "short_text",
       "first_seen_at": "2026-09-26T21:46:35Z"
+    },
+    {
+      "id": "cbeb649b198cdf0d",
+      "title": "Women's Soccer Falters At York, 2-1",
+      "header": "Stevens Institute of Technology Athletics",
+      "published_at": "2026-09-26T20:24:10Z",
+      "published_raw": "Sat, 26 Sep 2026 20:24:10 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3FDUnJBdGxCX000dlUxbUdpQ2dWcGJVcnI3RmQ4cENrWnhoa1Z6TUtUYWJPWUszSlBTY0dNOHo4QVlwRHhnNktZRE9tb0NCWjVaZXFvWW5idmxjLTJwZm5hTFNiQ3RIY0wwMDhsMi1hSTJKUG5uRDdXRTF1cFVjSWhna3Y?oc=5",
+      "description": "Women's Soccer Falters At York, 2-1 Stevens Institute of Technology Athletics",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3FDUnJBdGxCX000dlUxbUdpQ2dWcGJVcnI3RmQ4cENrWnhoa1Z6TUtUYWJPWUszSlBTY0dNOHo4QVlwRHhnNktZRE9tb0NCWjVaZXFvWW5idmxjLTJwZm5hTFNiQ3RIY0wwMDhsMi1hSTJKUG5uRDdXRTF1cFVjSWhna3Y?oc=5\" target=\"_blank\">Women's Soccer Falters At York, 2-1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stevens Institute of Technology Athletics</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3FDUnJBdGxCX000dlUxbUdpQ2dWcGJVcnI3RmQ4cENrWnhoa1Z6TUtUYWJPWUszSlBTY0dNOHo4QVlwRHhnNktZRE9tb0NCWjVaZXFvWW5idmxjLTJwZm5hTFNiQ3RIY0wwMDhsMi1hSTJKUG5uRDdXRTF1cFVjSWhna3Y?oc=5"
+      ],
+      "scraped_at": "2026-09-27T00:10:12Z",
+      "url": "https://stevensducks.com/news/2026/9/26/womens-soccer-falters-at-york-2-1.aspx",
+      "final_url": "https://stevensducks.com/news/2026/9/26/womens-soccer-falters-at-york-2-1.aspx",
+      "source": "Stevens Institute of Technology Athletics",
+      "article_title": "Women's Soccer Falters At York, 2-1 - Stevens Institute of Technology Athletics",
+      "heading": "Stevens Institute of Technology Athletics",
+      "authors": [
+        "Stevens Institute of Technology Athletics"
+      ],
+      "article_published_at": "2026-09-26T16:18:00",
+      "article_modified_at": "2026-09-26T16:23:03",
+      "summary": "York, Pa. – The Stevens Institute of Technology women's soccer team fell 2-1 to York (Pa.) in a soggy non-conference affair Saturday afternoon.",
+      "content": "York, Pa. – The Stevens Institute of Technology women's soccer team fell, 2-1, to York (Pa.) in a soggy non-conference affair Saturday afternoon.\n\nHOW IT HAPPENED\nThe first 12 minutes transpired relatively quietly with neither team registering a shot or even committing a foul, though Stevens (0-5-3) did create two corner kick opportunities. Ducks' keeper\nMaria O'Brien\nwas the first goalie called into action in the 13\nth\nminute, collecting a bouncer from about 15 yards out.\n\nLess than two minutes later,\nMolly McCann\ncorralled a loose ball on the near side about 25 yards out, maneuvered around a trailing defender coming back into the play, and with her left foot, bent a shot perfectly between the far side post and outstretched arms of York (6-1-2) keeper Grace Leathery.\n\nThe Spartans knotted the match four minutes later, then jumped in front just shy of six minutes after;\nAbigail Davis\nhad a look from the top of the box between the two Spartans goals but missed just wide of the near side post.\n\nIn the 51\nst\nminute and 76\nth\nminute, respectively,\nAlana Odom\nand\nHanna Kusinski\neach had volleys off corner kicks, but Leathery grabbed Odom's, while Kusinski's sailed over the crossbar. The Ducks also had a corner kick in the final 90 seconds, but the delivery was headed out of the box before a shot could be recorded. Defensively,\nLucy Smith\nrecorded a save in the 72\nnd\nminute and\nTaylor Truglia\ngot her body in front of a York shot in the 85\nth\nminute to keep the deficit at just a single goal.\n\nINSIDE THE BOX SCORE\n- Truglia played every minute for the fourth straight match; Malia Chopra played every minute for the third time in the last four matches\n- Smith played the second half in net for the Ducks, marking her first appearance since playing the first half against Montclair State 11 days ago\n- Avalyn Irwin made just her second start of the season\n- Saturday marked the Ducks' first match since last year's regular season finale against Delaware Valley with no cards being issued\nUP NEXT\nIn their final match before the start of MAC Freedom play, Stevens hosts Drew on Wednesday, September 30, at 7:00 PM at DeBaun Athletic Complex.\n\n#AllRise",
+      "content_html": "<html>\n  <body><div class=\"sidearm-story-template-text\">        \n                                        \n                    \n                    \n                    York, Pa. <p>– The Stevens Institute of Technology women's soccer team fell, 2-1, to York (Pa.) in a soggy non-conference affair Saturday afternoon.\n \n</p>HOW IT HAPPENED<p>\nThe first 12 minutes transpired relatively quietly with neither team registering a shot or even committing a foul, though Stevens (0-5-3) did create two corner kick opportunities. Ducks' keeper </p>Maria O'Brien<p> was the first goalie called into action in the 13</p>th<p> minute, collecting a bouncer from about 15 yards out.\n </p><p>\nLess than two minutes later, </p>Molly McCann<p> corralled a loose ball on the near side about 25 yards out, maneuvered around a trailing defender coming back into the play, and with her left foot, bent a shot perfectly between the far side post and outstretched arms of York (6-1-2) keeper Grace Leathery.\n </p><p>\nThe Spartans knotted the match four minutes later, then jumped in front just shy of six minutes after; </p>Abigail Davis<p> had a look from the top of the box between the two Spartans goals but missed just wide of the near side post.\n </p><p>\nIn the 51</p>st<p> minute and 76</p>th<p> minute, respectively, </p>Alana Odom<p> and </p>Hanna Kusinski<p> each had volleys off corner kicks, but Leathery grabbed Odom's, while Kusinski's sailed over the crossbar. The Ducks also had a corner kick in the final 90 seconds, but the delivery was headed out of the box before a shot could be recorded.  Defensively, </p>Lucy Smith<p> recorded a save in the 72</p>nd<p> minute and </p>Taylor Truglia<p> got her body in front of a York shot in the 85</p>th<p> minute to keep the deficit at just a single goal.\n \n</p>INSIDE THE BOX SCORE\n\n<ul>\n\t<li>Truglia played every minute for the fourth straight match; Malia Chopra played every minute for the third time in the last four matches</li>\n\t<li>Smith played the second half in net for the Ducks, marking her first appearance since playing the first half against Montclair State 11 days ago</li>\n\t<li>Avalyn Irwin made just her second start of the season</li>\n\t<li>Saturday marked the Ducks' first match since last year's regular season finale against Delaware Valley with no cards being issued</li>\n</ul>\nUP NEXT<p>\nIn their final match before the start of MAC Freedom play, Stevens hosts Drew on Wednesday, September 30, at 7:00 PM at DeBaun Athletic Complex.\n </p><p>\n#AllRise\n \n </p>\n\n                </div> \n                \n                </body>\n</html>",
+      "word_count": 381,
+      "char_count": 2167,
+      "lead_image": "https://stevensducks.com/images/2026/9/26/09-26-26_WSOC_Teaser.jpg",
+      "images": [
+        {
+          "url": "https://stevensducks.com/images/2026/9/26/09-26-26_WSOC_Teaser.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-27T00:10:12Z"
     },
     {
       "id": "73227018a806dad0",
@@ -618,7 +660,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOXduWFl4SXl1dlNpaDVMVUdxbENVSGFqV3hFYnl2ZE8yTTRNZVAxZFpwTERQZzExTmg1ZG5IdHFtRjg5cUtGaU1pNndEa0UzMzg1YWJWc203ZnVOajF3MUM2RGhQTllJTXRub05McENSTExBQVhQUm1aYlZIN3RyR2RfN1V4cjZ1bktEVjV4bk5WdFowdVZENlhWOE0wU1Y0T25LRk8tbjBFendGaVhNdlp5aUZNWFM4YUhKdzhNNFFLUQ?oc=5"
       ],
-      "scraped_at": "2026-09-26T21:46:35Z",
+      "scraped_at": "2026-09-27T00:10:10Z",
       "url": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
       "final_url": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
       "source": "Reuters",
@@ -828,7 +870,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS2EwQUJfYXlUWE4tQXlhR1hjd2dwRTBraEEwVGcxR3loV3NzNTNQN20xN0d0M0FFaE82MWx6R09RRm1yajdsdTRHSGdNbU54T2VmRnpnT0FWRko1aDBpdmg0Z0lad21WSzdtOExvNVlwRFJiVkZ5LTJlZm85eE00X2l0R2VibThkMk1CUnZFSVQ?oc=5"
       ],
-      "scraped_at": "2026-09-26T14:02:08Z",
+      "scraped_at": "2026-09-27T00:10:12Z",
       "url": "https://www.nytimes.com/athletic/7627124/2026/09/26/mlb-bat-technology-cubs-vullo-bats/",
       "final_url": "https://www.nytimes.com/athletic/7627124/2026/09/26/mlb-bat-technology-cubs-vullo-bats/",
       "source": "The New York Times",
@@ -1202,20 +1244,20 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1JPb0pZMmZRS05JSXFHWFJCRXh0ZXlkSUtjVVJsUzhkMUlQeVFuQWVJUFM1ZjBDbUNLcFp5Q1lQUG1ienc0Z3o0XzJ6QnF3ZFV3a0hUa3VpSDZkZGd3UEZySVBQckFwZVBFa3pMVExjeDN5ZjM3bWVSeWlpc3BOa3pOSzJiaVBqeWVzMDVsVzVNcmtzRmhXYU9JQV81U0xIVlVmdmNDS3Bxa2pBWVUxemlUT1o2ZU9MU0tZRA?oc=5"
       ],
-      "scraped_at": "2026-09-26T21:46:36Z",
+      "scraped_at": "2026-09-27T00:10:12Z",
       "url": "https://federalnewsnetwork.com/contracting/2026/09/modernizing-government-technology-takes-more-than-faster-procurement/",
       "final_url": "https://federalnewsnetwork.com/amtower-off-center/2019/03/amplifying-your-brand-in-the-govcon-market/",
       "source": "FederalNewsNetwork.com",
-      "article_title": "Federal News Network | Amplifying your brand in the GovCon market",
+      "article_title": "Amplifying your brand in the GovCon market - Federal News Network",
       "heading": "Amplifying your brand in the GovCon market",
       "authors": [
         "Mark Amtower"
       ],
       "article_published_at": "2019-03-20T11:18:59Z",
       "article_modified_at": "2019-05-14T23:23:25Z",
-      "summary": "Modernizing government technology takes more than faster procurement Federal News Network",
+      "summary": "How are communications and public relations evolving in the GovCon market? Host Mark Amtower discusses the evolving nature the two concepts in the government contracting market with Evan Weisel Tony Welz and Stephen Mackey of W2 Communications.",
       "content": "How are communications and public relations evolving in the GovCon market? Host Mark Amtower discusses the evolving nature the two concepts in the government...\nBest listening experience is on Chrome, Firefox or Safari. Subscribe to Amtower Off Center’s audio interviews on Apple Podcasts or PodcastOne.\nThis week on Amtower Off Center, host Mark Amtower interviews Evan Weisel, Tony Welz and Stephen Mackey of W2 Communications on the evolving nature of communications and PR in GovCon.\nStephen Mackey, Evan Weisel and Tony Welz, W2 Communications (Left to right)\nThe PR coup at the RSA Conference 10 years ago when W2 got their clients in front of media for hours by staging an invitation only Texas Hold’em poker tournament at RSA",
-      "content_html": "<html>\n  <body>\n    <p>How are communications and public relations evolving in the GovCon market? Host Mark Amtower discusses the evolving nature the two concepts in the government...</p>\n    <p>Best listening experience is on Chrome, Firefox or Safari. Subscribe to Amtower Off Center’s audio interviews on Apple Podcasts or PodcastOne.</p>\n    <p>This week on Amtower Off Center, host Mark Amtower interviews Evan Weisel, Tony Welz and Stephen Mackey of W2 Communications on the evolving nature of communications and PR in GovCon.</p>\n    <p>Topics include:</p>\n    <p>Join us Oct. 1 &amp; 2 for our Cyber Leaders Exchange event where government and industry experts will discuss how agencies can secure the AI-driven federal enterprise while advancing innovation and mission delivery. Register today!</p>\n    <p>Copyright © 2026 Federal News Network. All rights reserved. This website is not intended for users located within the European Economic Area.</p>\n  </body>\n</html>",
+      "content_html": "<html>\n  <body>\n    <p>How are communications and public relations evolving in the GovCon market? Host Mark Amtower discusses the evolving nature the two concepts in the government...</p>\n    <p>Best listening experience is on Chrome, Firefox or Safari. Subscribe to Amtower Off Center’s audio interviews on Apple Podcasts or PodcastOne.</p>\n    <p>This week on Amtower Off Center, host Mark Amtower interviews Evan Weisel, Tony Welz and Stephen Mackey of W2 Communications on the evolving nature of communications and PR in GovCon.</p>\n    <p>Topics include:</p>\n    <p>Explore insights from CISA, NSA, OMB, GSA, DLA and industry experts on securing government missions at machine speed — in our new e-book, sponsored by Carahsoft.</p>\n    <p>Copyright © 2026 Federal News Network. All rights reserved. This website is not intended for users located within the European Economic Area.</p>\n  </body>\n</html>",
       "word_count": 119,
       "char_count": 733,
       "lead_image": "https://federalnewsnetwork.com/wp-content/uploads/2019/03/amtower-group-photo-of-mackey-1880x1092.jpg",
@@ -1585,7 +1627,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5"
       ],
-      "scraped_at": "2026-09-26T21:46:35Z",
+      "scraped_at": "2026-09-27T00:10:10Z",
       "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
       "final_url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
       "source": "The New York Times",
@@ -1679,7 +1721,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFowaGtWZVNTLXEwTnBlZ1lzMVgtRXA5OWRUVkJDYTBPZDFSNUduZnJQREM4T3pydmx6V0ttdERxYmxxQjhHY2hBQUhWQTZaRm1vMUl5NU5tUW9XUjYxZ2pGNFdnQm1kZ0RoMlhVQlh0OVVoRmJoLXdXRTJKanNScHJ0WEZGUHdxRlBHa1pvMUluSGNzaHpTRTA5WUx6SkFIczFoVklPVk5lV2t6cGNBTUZQbw?oc=5"
       ],
-      "scraped_at": "2026-09-26T18:15:43Z",
+      "scraped_at": "2026-09-27T00:10:10Z",
       "url": "https://www.washingtonpost.com/politics/2026/09/25/trumps-newest-rebranding-project-technology-formerly-known-ai/",
       "final_url": "https://www.washingtonpost.com/politics/2026/09/25/trumps-newest-rebranding-project-technology-formerly-known-ai/",
       "source": "The Washington Post",
@@ -1951,7 +1993,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMimwFBVV95cUxNclVlVFU0OEpjR09iSXV4MlFRVEh6RkpDMTVYOWlTRk5BTHNUbmZ4ZzlESzk2ZW1GWXExRmE2X2xGVXNIRnBuZHAzVEgxZUNNVXEyaXlVWUpLU2F4VjdQam1iSVFVdWl2TlRTbkhWcUZLdFJqRzEyM3hJbEJ0OEtQMjZrRDYwNEtFWW5UbEcxVmQ3bmpTT0VQa3BOWQ?oc=5"
       ],
-      "scraped_at": "2026-09-26T09:02:07Z",
+      "scraped_at": "2026-09-27T00:10:10Z",
       "url": "https://www.cbsnews.com/video/ceo-company-behind-faa-new-ai-tool-explains-how-technology-works/",
       "final_url": "https://www.cbsnews.com/video/ceo-company-behind-faa-new-ai-tool-explains-how-technology-works/",
       "source": "CBS News",
@@ -2077,7 +2119,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMHRXc1lZVExXX0I3TGR4cHJPUFdYYURCU0h4U1VFck9sWnJHMTdLMldKNmYtSzJUajY2UzVLVXBrcnJtZ0hwY2Z6WnFoQjNOMkptbVhkZThDaWFfbVpFdHRvNFhJS2UtZUY2R19HbUFRclhtLUJEU1lUeHlCMnhELUZyOVZ6SUdtX2VGUjdIOHRFTWFHOXdoZWtIaGs?oc=5"
       ],
-      "scraped_at": "2026-09-26T21:46:35Z",
+      "scraped_at": "2026-09-27T00:10:10Z",
       "url": "https://www.investors.com/news/technology/micron-technology-mu-stock-fiscal-q4-earnings-preview/",
       "final_url": "https://www.investors.com/news/management/managing-for-success/amp-controls-expenses-and-hits-reengineering-targets/",
       "source": "Investor's Business Daily",
@@ -6232,6 +6274,52 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-26T14:02:06Z"
+    },
+    {
+      "id": "dab71526869915b0",
+      "title": "Fusion Energy",
+      "header": "Department of Energy (.gov)",
+      "published_at": "2026-09-24T14:21:45Z",
+      "published_raw": "Thu, 24 Sep 2026 14:21:45 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lSXg2VTcwU0pqMnRhR19WNXZKRmhKZlhqeF8xb3hqZmVsb2lndUVoS2Z1WkM3c3ZvT1hEdHlSSkdoUmJxREVOSU1zakpWQVZNN2Q3X0xn?oc=5",
+      "description": "Fusion Energy Department of Energy (.gov)",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lSXg2VTcwU0pqMnRhR19WNXZKRmhKZlhqeF8xb3hqZmVsb2lndUVoS2Z1WkM3c3ZvT1hEdHlSSkdoUmJxREVOSU1zakpWQVZNN2Q3X0xn?oc=5\" target=\"_blank\">Fusion Energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lSXg2VTcwU0pqMnRhR19WNXZKRmhKZlhqeF8xb3hqZmVsb2lndUVoS2Z1WkM3c3ZvT1hEdHlSSkdoUmJxREVOSU1zakpWQVZNN2Q3X0xn?oc=5"
+      ],
+      "scraped_at": "2026-09-27T00:10:12Z",
+      "url": "https://www.energy.gov/fusion/fusion-energy",
+      "final_url": "https://www.energy.gov/fusion/fusion-energy",
+      "source": "Energy.gov",
+      "article_title": "Fusion Energy",
+      "heading": "Fusion Energy",
+      "authors": [],
+      "article_published_at": "2024-06-04T09:33:22-0400",
+      "article_modified_at": "2026-06-17T09:59:05-0400",
+      "summary": "Fusion Energy Landing Page",
+      "content": "The Fusion Science & Technology (S&T) Roadmap is a comprehensive national strategy to accelerate the development and commercialization of fusion energy by the mid-2030s.\nIt charts a clear path for federal support to the growing fusion energy industry, identifying critical science and technology gaps and defining the milestones needed to bring commercial fusion power to the grid. Developed with broad input from over 800 researchers, engineers, and industry stakeholders, the roadmap establishes DOE’s Build–Innovate–Grow strategy for advancing a robust and competitive U.S. fusion sector.\nThis effort advances President Trump’s Executive Order Unleashing American Energy, reinforcing the Administration’s commitment to expand domestic energy production and restore U.S. energy dominance. By accelerating progress toward commercial fusion power, DOE is strengthening America’s grid, rebuilding critical supply chains, and securing a new era of abundant, reliable, American-made energy.\nThe goal of the Fusion S&T Roadmap is to deliver the public infrastructure that supports the fusion private sector scale up in the 2030s.\nThe activities outlined in the Fusion S&T Roadmap are focused on prioritizing strategic directions for the DOE to further collaborate with the US Fusion Industry. DOE’s ability to support this Roadmap’s milestones and timelines of scaling up the domestic fusion private sector by the 2030s is contingent on the development of future public private partnerships. This Roadmap is not committing DOE to specific funding levels, and future funding will be subject to Congressional appropriations.",
+      "content_html": "<html>\n  <body>\n    <p>The Fusion Science &amp; Technology (S&amp;T) Roadmap is a comprehensive national strategy to accelerate the development and commercialization of fusion energy by the mid-2030s.</p>\n    <p>It charts a clear path for federal support to the growing fusion energy industry, identifying critical science and technology gaps and defining the milestones needed to bring commercial fusion power to the grid. Developed with broad input from over 800 researchers, engineers, and industry stakeholders, the roadmap establishes DOE’s Build–Innovate–Grow strategy for advancing a robust and competitive U.S. fusion sector.</p>\n    <p>This effort advances President Trump’s Executive Order Unleashing American Energy, reinforcing the Administration’s commitment to expand domestic energy production and restore U.S. energy dominance. By accelerating progress toward commercial fusion power, DOE is strengthening America’s grid, rebuilding critical supply chains, and securing a new era of abundant, reliable, American-made energy.</p>\n    <p>The goal of the Fusion S&amp;T Roadmap is to deliver the public infrastructure that supports the fusion private sector scale up in the 2030s.</p>\n    <p>The activities outlined in the Fusion S&amp;T Roadmap are focused on prioritizing strategic directions for the DOE to further collaborate with the US Fusion Industry. DOE’s ability to support this Roadmap’s milestones and timelines of scaling up the domestic fusion private sector by the 2030s is contingent on the development of future public private partnerships. This Roadmap is not committing DOE to specific funding levels, and future funding will be subject to Congressional appropriations.</p>\n  </body>\n</html>",
+      "word_count": 232,
+      "char_count": 1618,
+      "lead_image": "https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png",
+      "images": [
+        {
+          "url": "https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://www.energy.gov/sites/default/files/styles/full_article_width/public/2026-06/060926-fusion-s%26t-roadmap-cover-2.png?itok=ef8PuOWF",
+          "alt": "Fusion S&T Roadmap Cover",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-27T00:10:12Z"
     },
     {
       "id": "7032097bace66fa2",
@@ -24818,118 +24906,6 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-17T14:37:57Z"
-    },
-    {
-      "id": "8e2c1b8ef2657dcf",
-      "title": "Albanese government considers ‘world-leading’ ban on smart glasses in public offices and buildings",
-      "header": "The Guardian",
-      "published_at": "2026-09-17T13:09:00Z",
-      "published_raw": "Thu, 17 Sep 2026 13:09:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSXN2MmxBaXBWWjhqU2pnSHdXdTgxVmI2SUhSYm5PeWM4T2ZCZ25kaHBLalJUSWc4am1Genh0TlpJVG5JVmdWVEhLSGJBZHQ4QXl3M2VMRFN6amMzaXFHUnVBLXBJTXo2MlpXUFEzaXdWTFhYNXJHbkdhaHQ2X0JuV01EelNBSzNOOFItZGlvNHlCRXZzYUd0NFprWGVaT3o1OUdHWkFGUkEyNmNjOFI4cDJnWUtjQmJIZ0E4LWVPYTFXMlFzYW5JUy1lQ24xOERLbUcyTzI2RzdkS1VralFj?oc=5",
-      "description": "Albanese government considers ‘world-leading’ ban on smart glasses in public offices and buildings The Guardian",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSXN2MmxBaXBWWjhqU2pnSHdXdTgxVmI2SUhSYm5PeWM4T2ZCZ25kaHBLalJUSWc4am1Genh0TlpJVG5JVmdWVEhLSGJBZHQ4QXl3M2VMRFN6amMzaXFHUnVBLXBJTXo2MlpXUFEzaXdWTFhYNXJHbkdhaHQ2X0JuV01EelNBSzNOOFItZGlvNHlCRXZzYUd0NFprWGVaT3o1OUdHWkFGUkEyNmNjOFI4cDJnWUtjQmJIZ0E4LWVPYTFXMlFzYW5JUy1lQ24xOERLbUcyTzI2RzdkS1VralFj?oc=5\" target=\"_blank\">Albanese government considers ‘world-leading’ ban on smart glasses in public offices and buildings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSXN2MmxBaXBWWjhqU2pnSHdXdTgxVmI2SUhSYm5PeWM4T2ZCZ25kaHBLalJUSWc4am1Genh0TlpJVG5JVmdWVEhLSGJBZHQ4QXl3M2VMRFN6amMzaXFHUnVBLXBJTXo2MlpXUFEzaXdWTFhYNXJHbkdhaHQ2X0JuV01EelNBSzNOOFItZGlvNHlCRXZzYUd0NFprWGVaT3o1OUdHWkFGUkEyNmNjOFI4cDJnWUtjQmJIZ0E4LWVPYTFXMlFzYW5JUy1lQ24xOERLbUcyTzI2RzdkS1VralFj?oc=5"
-      ],
-      "scraped_at": "2026-09-17T21:53:06Z",
-      "url": "https://www.theguardian.com/technology/2026/sep/17/albanese-government-considers-world-leading-ban-on-smart-glasses-in-public-office-and-buildings",
-      "final_url": "https://www.theguardian.com/technology/2026/sep/17/albanese-government-considers-world-leading-ban-on-smart-glasses-in-public-office-and-buildings",
-      "source": "the Guardian",
-      "article_title": "Albanese government considers ‘world-leading’ ban on smart glasses in public offices and buildings",
-      "heading": "Albanese government considers ‘world-leading’ ban on smart glasses in public offices and buildings",
-      "authors": [
-        "https://www.theguardian.com/profile/luca-ittimani"
-      ],
-      "article_published_at": "2026-09-17T12:00:50.000Z",
-      "article_modified_at": "2026-09-17T21:16:42.000Z",
-      "summary": "Minister for public service says the devices pose ‘legitimate privacy and security concerns’ in commonwealth-run workplaces",
-      "content": "The Albanese government is considering a “world-leading” ban on smart glasses in its offices and service centres as councils around Australia push the technology out of public spaces over privacy fears.\nThe government has avoided a sweeping ban on the import of the camera-equipped technology and encouraged individual workplaces to set their own rules.\nThe public service minister, Katy Gallagher, said on Thursday she had asked the Australian public service for advice on whether the glasses should be prohibited.\n“We need clear and consistent guidance for public servants,” Gallagher said.\n“Smart glasses can raise legitimate privacy and security concerns, particularly because of their ability to record and capture information.”\nCommonwealth-run workplaces range from bureaucrats’ offices to Centrelink service centres and CSIRO laboratories.\nSchools and hospitals run by state governments would be left to set their own rules over the technology, which have grown increasingly popular but raised public outcry.\nA University of Sydney study of smart glasses-filmed videos posted on Instagram found 60% of a sample could be classified as potential harassment.\nThe Albanese government said it was seeking to set a world-leading standard. So far, no national government has banned the glasses’ use across their agencies.\nCourts in England and Wales in the UK and New York state in the US have banned the technology, while the US Immigration and Customs Enforcement (ICE) agency reportedly classified them as body-worn cameras and barred them from the “federal workspace”.\nA local council in Sydney on Tuesday became the latest to issue a targeted bans on the use of the technology. Canterbury-Bankstown’s mayor, Bilal El-Hayek, decried what he called “pervert glasses” as the council barred the wearable tech from public pools.\nIn August, Brisbane city council became the first to ban the glasses from pools and Melbourne’s Yarra city council has banned them from playgrounds, childcare centres and gyms.\nThe City of Sydney and the Blacktown city councils have prohibited pool patrons from using smart glasses to record.\nSpeaking to Channel Seven earlier this month, the federal attorney general, Michelle Rowland, praised councils’ decisions and said she would consult businesses on their approach.\n“Businesses know that good privacy is good business,” Rowland said.\n“But … we want to make sure we get the balance right and we don’t unfairly discriminate against people who are using this technology to better participate in society.”\nVision Australia and some people living with disabilities have praised the technology as a support for people who are blind or have low vision. Rowland said the government was not pursuing a ban but had not “ruled anything out”.\nGallagher said she wanted the Australian public service to set the national standard as a “model employer”.\n“Technology is changing rapidly and as a major employer the Commonwealth needs to make sure our workplace policies keep pace,” Gallagher said.\nPending restrictions on smart glasses would be the federal government’s latest workplace technology reform after it issued guidance on the use of AI in the public service last week.\nThe guidelines indicate employees would not need to be consulted on every new tool but should be consulted for major initiatives or changes to how they carry out work.\nMajor businesses will contribute to new national guidelines on AI in workplaces, with Commonwealth Bank, Microsoft, AGL, Telstra, Kmart, Blackmores Group and Ramsay Health Care to attend a roundtable on Friday.\nAmanda Rishworth, the employment minister, said the government wanted to use the roundtable to take on the lessons of businesses already using AI.\n“Workers and businesses need the capability to adopt new technologies with confidence that appropriate safeguards are in place,” Rishworth said.\nAdditional reporting from Caitlin Cassidy",
-      "content_html": "<html>\n  <body>\n    <p>The Albanese government is considering a “world-leading” ban on smart glasses in its offices and service centres as councils around Australia push the technology out of public spaces over privacy fears.</p>\n    <p>The government has avoided a sweeping ban on the import of the camera-equipped technology and encouraged individual workplaces to set their own rules.</p>\n    <p>The public service minister, Katy Gallagher, said on Thursday she had asked the Australian public service for advice on whether the glasses should be prohibited.</p>\n    <p>“We need clear and consistent guidance for public servants,” Gallagher said.</p>\n    <p>“Smart glasses can raise legitimate privacy and security concerns, particularly because of their ability to record and capture information.”</p>\n    <p>Commonwealth-run workplaces range from bureaucrats’ offices to Centrelink service centres and CSIRO laboratories.</p>\n    <p>Schools and hospitals run by state governments would be left to set their own rules over the technology, which have grown increasingly popular but raised public outcry.</p>\n    <p>A University of Sydney study of smart glasses-filmed videos posted on Instagram found 60% of a sample could be classified as potential harassment.</p>\n    <p>The Albanese government said it was seeking to set a world-leading standard. So far, no national government has banned the glasses’ use across their agencies.</p>\n    <p>Courts in England and Wales in the UK and New York state in the US have banned the technology, while the US Immigration and Customs Enforcement (ICE) agency reportedly classified them as body-worn cameras and barred them from the “federal workspace”.</p>\n    <p>A local council in Sydney on Tuesday became the latest to issue a targeted bans on the use of the technology. Canterbury-Bankstown’s mayor, Bilal El-Hayek, decried what he called “pervert glasses” as the council barred the wearable tech from public pools.</p>\n    <p>In August, Brisbane city council became the first to ban the glasses from pools and Melbourne’s Yarra city council has banned them from playgrounds, childcare centres and gyms.</p>\n    <p>The City of Sydney and the Blacktown city councils have prohibited pool patrons from using smart glasses to record.</p>\n    <p>Speaking to Channel Seven earlier this month, the federal attorney general, Michelle Rowland, praised councils’ decisions and said she would consult businesses on their approach.</p>\n    <p>“Businesses know that good privacy is good business,” Rowland said.</p>\n    <p>“But … we want to make sure we get the balance right and we don’t unfairly discriminate against people who are using this technology to better participate in society.”</p>\n    <p>after newsletter promotion</p>\n    <p>Vision Australia and some people living with disabilities have praised the technology as a support for people who are blind or have low vision. Rowland said the government was not pursuing a ban but had not “ruled anything out”.</p>\n    <p>Gallagher said she wanted the Australian public service to set the national standard as a “model employer”.</p>\n    <p>“Technology is changing rapidly and as a major employer the Commonwealth needs to make sure our workplace policies keep pace,” Gallagher said.</p>\n    <p>Pending restrictions on smart glasses would be the federal government’s latest workplace technology reform after it issued guidance on the use of AI in the public service last week.</p>\n    <p>The guidelines indicate employees would not need to be consulted on every new tool but should be consulted for major initiatives or changes to how they carry out work.</p>\n    <p>Major businesses will contribute to new national guidelines on AI in workplaces, with Commonwealth Bank, Microsoft, AGL, Telstra, Kmart, Blackmores Group and Ramsay Health Care to attend a roundtable on Friday.</p>\n    <p>Amanda Rishworth, the employment minister, said the government wanted to use the roundtable to take on the lessons of businesses already using AI.</p>\n    <p>“Workers and businesses need the capability to adopt new technologies with confidence that appropriate safeguards are in place,” Rishworth said.</p>\n    <p>Additional reporting from Caitlin Cassidy</p>\n  </body>\n</html>",
-      "word_count": 605,
-      "char_count": 3912,
-      "lead_image": "https://i.guim.co.uk/img/media/4715f465419ef48f670873b52cf277ecc33598de/507_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a2bec1f4471a9df5ab4ee4ed2aae8d5d",
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4715f465419ef48f670873b52cf277ecc33598de/507_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a2bec1f4471a9df5ab4ee4ed2aae8d5d",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/4715f465419ef48f670873b52cf277ecc33598de/507_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=db8c726496a929fa09193c24d7ecf52c",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/4715f465419ef48f670873b52cf277ecc33598de/507_0_4167_3335/master/4167.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=0e18841e30dbef2c27193abb7eefd0ad",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/4715f465419ef48f670873b52cf277ecc33598de/507_0_4167_3335/master/4167.jpg?width=465&dpr=1&s=none&crop=none",
-          "alt": "Meta smart glasses.",
-          "caption": "Meta smart glasses. Schools and hospitals run by state governments will be left to set their own rules over the technology. Photograph: Carlos Barría/Reuters",
-          "role": "body"
-        }
-      ],
-      "image_count": 4,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-17T21:53:06Z"
-    },
-    {
-      "id": "f3170a5af2a515d3",
-      "title": "Vitality and Google Expand Technology Partnership to Bring AI-Driven Health Platform to the United States to Incentivize Healthier Behaviors",
-      "header": "Google Cloud Press Corner",
-      "published_at": "2026-09-17T13:01:25Z",
-      "published_raw": "Thu, 17 Sep 2026 13:01:25 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQdF9HQkVvTDkycWxXMk1zWWN3VFVuUVh6eG1hX3Vxa2ZOaFNXZXQ3MXMwR29QODE3eXVfa3RlaUlOb0RSRnB0TDY5bEt5RkR1OGtXRHVMcTdGUU1XVjgyamt6WElSRVRabTFpcHVZQlBPYVRoZVZReWlJcDFJNS1ubVI2LW9aNVJyTGdIZXlMQnUtTzhqNlRpS2VPQ0lnQ21qRU5rOUp4NjdkUVY0WDduR1hVY3VVNHM5RjU2aGNUNkRRaUNZcTNlRDBDRnlVTnJuU2J0dkZVR0FQdEQyb09hTG02TTRJd1ZsUy1OVGxVYzJCWXZINFZvQ1FzZ09pVkRuOWpEQnF2ejVEUlUyWmstVmJEWVdwblIyZlE?oc=5",
-      "description": "Vitality and Google Expand Technology Partnership to Bring AI-Driven Health Platform to the United States to Incentivize Healthier Behaviors Google Cloud Press Corner",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxQdF9HQkVvTDkycWxXMk1zWWN3VFVuUVh6eG1hX3Vxa2ZOaFNXZXQ3MXMwR29QODE3eXVfa3RlaUlOb0RSRnB0TDY5bEt5RkR1OGtXRHVMcTdGUU1XVjgyamt6WElSRVRabTFpcHVZQlBPYVRoZVZReWlJcDFJNS1ubVI2LW9aNVJyTGdIZXlMQnUtTzhqNlRpS2VPQ0lnQ21qRU5rOUp4NjdkUVY0WDduR1hVY3VVNHM5RjU2aGNUNkRRaUNZcTNlRDBDRnlVTnJuU2J0dkZVR0FQdEQyb09hTG02TTRJd1ZsUy1OVGxVYzJCWXZINFZvQ1FzZ09pVkRuOWpEQnF2ejVEUlUyWmstVmJEWVdwblIyZlE?oc=5\" target=\"_blank\">Vitality and Google Expand Technology Partnership to Bring AI-Driven Health Platform to the United States to Incentivize Healthier Behaviors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Google Cloud Press Corner</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMimgJBVV95cUxQdF9HQkVvTDkycWxXMk1zWWN3VFVuUVh6eG1hX3Vxa2ZOaFNXZXQ3MXMwR29QODE3eXVfa3RlaUlOb0RSRnB0TDY5bEt5RkR1OGtXRHVMcTdGUU1XVjgyamt6WElSRVRabTFpcHVZQlBPYVRoZVZReWlJcDFJNS1ubVI2LW9aNVJyTGdIZXlMQnUtTzhqNlRpS2VPQ0lnQ21qRU5rOUp4NjdkUVY0WDduR1hVY3VVNHM5RjU2aGNUNkRRaUNZcTNlRDBDRnlVTnJuU2J0dkZVR0FQdEQyb09hTG02TTRJd1ZsUy1OVGxVYzJCWXZINFZvQ1FzZ09pVkRuOWpEQnF2ejVEUlUyWmstVmJEWVdwblIyZlE?oc=5"
-      ],
-      "scraped_at": "2026-09-17T14:37:56Z",
-      "url": "https://www.googlecloudpresscorner.com/2026-09-17-Vitality-and-Google-Expand-Technology-Partnership-to-Bring-AI-Driven-Health-Platform-to-the-United-States-to-Incentivize-Healthier-Behaviors",
-      "final_url": "https://www.googlecloudpresscorner.com/2026-09-17-Vitality-and-Google-Expand-Technology-Partnership-to-Bring-AI-Driven-Health-Platform-to-the-United-States-to-Incentivize-Healthier-Behaviors",
-      "source": "Google Cloud Press Corner",
-      "article_title": "Vitality and Google Expand Technology Partnership to Bring AI-Driven Health Platform to the United States to Incentivize Healthier Behaviors",
-      "heading": "Vitality and Google Expand Technology Partnership to Bring AI-Driven Health Platform to the United States to Incentivize Healthier Behaviors",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Vitality AI, built on Google Cloud and using Gemini Enterprise, expands into the U.S. market — bringing proven personalized health recommendations, coaching, and incentives to health plans and...",
-      "content": "Vitality AI, built on Google Cloud and using Gemini Enterprise, expands into the U.S. market — bringing proven personalized health recommendations, coaching, and incentives to health plans and employers at scale\nNEW YORK, Sept. 17, 2026 /PRNewswire/ -- Vitality, a global leader in behavioral change across insurance and health plans, in partnership with Google, today announced the extension of Vitality AI into the United States. Built on Google Cloud and Gemini Enterprise, the platform is already delivering measurable results internationally addressing one of healthcare's most persistent challenges: helping people take meaningful action to improve their health.\nThe expansion comes as U.S. employers face mounting employee health benefit costs, health plans experience low engagement, and people struggle to navigate complex healthcare systems. Vitality AI delivers a solution through personalized recommendations, coaching, and incentives to generate long-term healthier behaviors.\nVitality AI uses Google Cloud's leading AI and data analytics technologies, including Gemini Enterprise and Google's Gemini models, coupled with Vitality's dataset of more than 2,800 unique health and behavioral dimensions. By analyzing an individual's health profile, lifestyle, and risk factors, Vitality AI generates personalized insights at a 99.2% accuracy rate based on physicians' review.*\nEngagement driven clinical and behavioral outcomes of Vitality AI\nVitality AI's personalized incentives have delivered measurable clinical and financial impact across international markets to date:\n- Engagement and incentive effectiveness\n- Members receiving personalized, AI-driven recommendations were 3.3 times more likely to complete a mental wellbeing assessment, 2.7 times more likely to complete an online health review, and 1.4 times more likely to complete a colorectal cancer screening.*\n- 97% of members found their personalized AI reports useful, rating their likelihood of acting on the AI's recommendations at 8.8 out of 10 – which rose to 9.32 out of 10 when localized incentives were added.*\n- Physical activity, sleep, and wellbeing\n- High-BMI participants achieved a 200%+ increase in physical activity after enrollment on Vitality AI.***\n- Members who completed the personalized steps program sustained an average 40% improvement in their daily step counts.****\n- Participants who improved their sleep habits gained an average of 2+ hours of additional sleep per week, which was associated with 5% lower in-hospital claims.*****\n- 87% of coaching participants presenting with extreme stress reported a measurable improvement in their overall wellbeing.***\n- Preventative care and early detection\n- Recommending and incentivizing cancer screenings led to an estimated 23,302 additional screenings in 2025, resulting in 219 early detections and an estimated six deaths prevented.******\n- Low-cost, targeted rewards proved highly effective – a $31 incentive increased the likelihood of cholesterol testing by 52%, while rewards ranging from $19 to $45 drove similar increases for pap smears, mammograms, and colorectal screenings.******\nDriving measurable returns for health payers, employers and insurers\nFor health payers, employers and insurers, Vitality AI delivers a clear, evidence-based financial case driven by sustained behavior change at scale – achieved through Google's Gemini models and Vitality's longitudinal dataset:\n- Return on investment: Engaged clients experience a 4% reduction in healthcare claims costs on average, delivering a 180% return on investment.***\n- Reduced risk: The financial benefit increases with employee participation; members who achieve a higher Vitality Status demonstrate 15% lower risk-adjusted claims costs.***\n- Workplace productivity gains: The platform recovers an average of 4.4 productive days per employee per year, equivalent to annual savings of $1,047 per employee.***\nEmile Stipp, CEO of Vitality AI, said: \"Through our partnership with Google, we've shown that AI's impact on health care is no longer a promise – but a proven differentiator. We've seen members take screenings they would have skipped, build and sustain healthy habits, and reduce costs. Extending Vitality AI into the U.S. brings that proof to millions more.\"\nMaureen Costello, Vice President, UK, Ireland and Sub-Saharan Africa, Google Cloud, said: \"Having seen the impact of our partnership firsthand across multiple markets, we are thrilled to support Vitality in expanding this proven, AI-powered platform within the U.S. market. Vitality is delivering the level of personalization needed to drive real, measurable health outcomes. We are proud to expand this partnership to help U.S. employers and other members proactively engage with their health. Today's announcement marks the next step in Vitality's partnership with Google, with a goal of extending life expectancy and reducing healthcare-associated costs across the U.S.\"\nThe U.S. health gap\nThe U.S. expansion of Vitality AI directly addresses the mounting costs and navigation complexities that people are facing. For employers and their workforce in particular, data shows:\n- Benefits complexity: 41% of U.S. employees struggle to navigate their health benefits and digital health tools.**\n- Delayed care: Over half (53%) of workers have delayed or avoided preventative healthcare due to cost, and 49% say they have difficulty navigating the healthcare and insurance system.**\n- Mental health barriers: 69% of employees report that workplace stress affects them; only 26% feel they face no barriers to discussing mental health with their employer.**\nNotes to Editors\n- Vitality's U.S business: Vitality's U.S business has seen strong momentum, including U.S. annual revenue growth of 22% year-over-year and recent acquisitions of Icario, Ramp Health and WellSpark – significantly increasing the reach and services provided by Vitality.\n- Vitality AI is now live across Vitality and Discovery and in the UK, South Africa and the United States. Since June 2025, more than 210,000 people in the U.S. have received an AI-driven personalized health action, and 54% have completed at least one AI-recommended health action from Vitality.\n- Vitality Status is the tiered reward and engagement framework used by the Vitality Group to measure and incentivize healthy lifestyle choices. Members earn Vitality points by engaging in healthy behaviors to move through the statuses, which are Bronze, Silver, Gold, Platinum. People are incentivized to earn points or improve their status with a full range of rewards.\nAbout Vitality\nVitality is a global company operating in the insurance market, with presence in over 35 markets and impacting more than 54 million lives. Vitality transforms insurance markets by integrating technology, actuarial science, and behavioral insights to make people healthier and create shared value for clients, insurers, and society. They have a simple yet powerful core purpose: to make people healthier and enhance and protect their lives, and this is done through a pioneering Shared Value Insurance model, which aligns the interests of individuals, insurers, and society: when people become healthier, everyone benefits.\nAbout Google Cloud\nGoogle Cloud offers a powerful, optimized AI stack—including AI infrastructure, leading models like Gemini, data management capabilities, multicloud security solutions, developer tools and platform, as well as agents and applications—that enables organizations to transform their business for the Agentic Era. Customers in more than 200 countries and territories turn to Google Cloud as their trusted technology partner.\nSources\n* Vitality data: 99.2% accuracy rate based on review of platform-generated reports by 686 physicians, tested on a cohort of more than 1,300 Discovery staff. Next best action uplift figures (3.3x mental wellbeing assessments, 2.7x online health reviews, 1.4x colorectal cancer screening) from Vitality data.\n** Vitality, Opinium US polling data, August 2026: Online survey of 2,000 US workers conducted by Opinium on behalf of Vitality.\n*** Vitality data, May 2026: 4% lower claims costs and 180% ROI independently reviewed by Arbital Health. 15% lower overall risk-adjusted claims cost for higher Vitality Statuses independently endorsed by the Validation Institute. 200%+ physical activity increase among high-BMI members, 87% stress improvement among coaching participants, and 4.4 productive days saved per employee per year (average saving of $1,047 per employee annually).\n**** Vitality data: members enrolled in the personalized steps program were assigned a starting step target based on their existing activity levels and progressed upward using an algorithm calibrated to the pace at which each individual could sustainably increase their habit. Members who completed the program went from an average of approximately 4,900 steps per day before enrollment to sustaining 6,900 steps after graduating. Analysis is based on a cohort of approximately 1,500 members who completed 5 or more weeks of the program.\n***** Vitality, Discovery data: Analysis of Vitality members tracked before and after the launch of the Vitality Sleep Rewards program over a four-month period. 19% of members improved their sleep habit, gaining an average of 19.8 minutes of sleep per night (approximately 2 hours and 20 minutes per week). Analysis of in-hospital claims found that maintaining a good sleep habit is associated with 5% lower in-hospital claims and improving a sleep habit with 7% lower in-hospital claims.\n****** Vitality, Discovery data: Personalized incentive and cancer screening data from Vitality members. In 2025, it is estimated that recommending and incentivizing cancer screenings resulted in 23,302 additional screenings, representing a 5.5% increase relative to the historic trends, leading to 219 additional detections and an estimated 6 deaths prevented. Analysis found that while larger rewards (up to $45) produced the strongest behavioral response for some actions – a $31 reward increased the likelihood of cholesterol testing by 52% relative to no reward – smaller rewards ($19–$25) were similarly effective at driving cervical and colorectal cancer screening as well as emerging risk GP visits, demonstrating that recommendation relevance and member targeting can be as important as reward magnitude.\nSOURCE Google Cloud",
-      "content_html": "<html>\n  <body>\n    <p>Vitality AI, built on Google Cloud and using Gemini Enterprise, expands into the U.S. market — bringing proven personalized health recommendations, coaching, and incentives to health plans and employers at scale</p>\n    <p>NEW YORK, Sept. 17, 2026 /PRNewswire/ -- Vitality, a global leader in behavioral change across insurance and health plans, in partnership with Google, today announced the extension of Vitality AI into the United States. Built on Google Cloud and Gemini Enterprise, the platform is already delivering measurable results internationally addressing one of healthcare's most persistent challenges: helping people take meaningful action to improve their health.</p>\n    <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1989993/Vitality-and-Google.jpg?id=OA2953547\" alt=\"Vitality and Google Expand Technology Partnership to Bring AI-Driven Health Platform to the United States to Incentivize Healthier Behaviors\" title=\"Vitality and Google Expand Technology Partnership to Bring AI-Driven Health Platform to the United States to Incentivize Healthier Behaviors\"/>\n                </p>\n    <p>The expansion comes as U.S. employers face mounting employee health benefit costs, health plans experience low engagement, and people struggle to navigate complex healthcare systems. Vitality AI delivers a solution through personalized recommendations, coaching, and incentives to generate long-term healthier behaviors.</p>\n    <p>Vitality AI uses Google Cloud's leading AI and data analytics technologies, including Gemini Enterprise and Google's Gemini models, coupled with Vitality's dataset of more than 2,800 unique health and behavioral dimensions. By analyzing an individual's health profile, lifestyle, and risk factors, Vitality AI generates personalized insights at a 99.2% accuracy rate based on physicians' review.*</p>\n    <p>Engagement driven clinical and behavioral outcomes of Vitality AI</p>\n    <p>Vitality AI's personalized incentives have delivered measurable clinical and financial impact across international markets to date:</p>\n    <ul>\n      <li>Engagement and incentive effectiveness<ul><li>Members receiving personalized, AI-driven recommendations were 3.3 times more likely to complete a mental wellbeing assessment, 2.7 times more likely to complete an online health review, and 1.4 times more likely to complete a colorectal cancer screening.*</li><li>97% of members found their personalized AI reports useful, rating their likelihood of acting on the AI's recommendations at 8.8 out of 10 – which rose to 9.32 out of 10 when localized incentives were added.*</li></ul></li>\n      <li>Physical activity, sleep, and wellbeing<ul><li>High-BMI participants achieved a 200%+ increase in physical activity after enrollment on Vitality AI.***</li><li>Members who completed the personalized steps program sustained an average 40% improvement in their daily step counts.****</li><li>Participants who improved their sleep habits gained an average of 2+ hours of additional sleep per week, which was associated with 5% lower in-hospital claims.*****</li><li>87% of coaching participants presenting with extreme stress reported a measurable improvement in their overall wellbeing.***</li></ul></li>\n      <li>Preventative care and early detection<ul><li>Recommending and incentivizing cancer screenings led to an estimated 23,302 additional screenings in 2025, resulting in 219 early detections and an estimated six deaths prevented.******</li><li>Low-cost, targeted rewards proved highly effective – a $31 incentive increased the likelihood of cholesterol testing by 52%, while rewards ranging from $19 to $45 drove similar increases for pap smears, mammograms, and colorectal screenings.******</li></ul></li>\n    </ul>\n    <p>Driving measurable returns for health payers, employers and insurers</p>\n    <p>For health payers, employers and insurers, Vitality AI delivers a clear, evidence-based financial case driven by sustained behavior change at scale – achieved through Google's Gemini models and Vitality's longitudinal dataset:</p>\n    <ul>\n      <li>Return on investment: Engaged clients experience a 4% reduction in healthcare claims costs on average, delivering a 180% return on investment.***</li>\n      <li>Reduced risk: The financial benefit increases with employee participation; members who achieve a higher Vitality Status demonstrate 15% lower risk-adjusted claims costs.***</li>\n      <li>Workplace productivity gains: The platform recovers an average of 4.4 productive days per employee per year, equivalent to annual savings of $1,047 per employee.***</li>\n    </ul>\n    <p>Emile Stipp, CEO of Vitality AI, said: \"Through our partnership with Google, we've shown that AI's impact on health care is no longer a promise – but a proven differentiator. We've seen members take screenings they would have skipped, build and sustain healthy habits, and reduce costs. Extending Vitality AI into the U.S. brings that proof to millions more.\"</p>\n    <p>Maureen Costello, Vice President, UK, Ireland and Sub-Saharan Africa, Google Cloud, said: \"Having seen the impact of our partnership firsthand across multiple markets, we are thrilled to support Vitality in expanding this proven, AI-powered platform within the U.S. market. Vitality is delivering the level of personalization needed to drive real, measurable health outcomes. We are proud to expand this partnership to help U.S. employers and other members proactively engage with their health. Today's announcement marks the next step in Vitality's partnership with Google, with a goal of extending life expectancy and reducing healthcare-associated costs across the U.S.\"</p>\n    <p>The U.S. health gap</p>\n    <p>The U.S. expansion of Vitality AI directly addresses the mounting costs and navigation complexities that people are facing. For employers and their workforce in particular, data shows:</p>\n    <ul>\n      <li>Benefits complexity: 41% of U.S. employees struggle to navigate their health benefits and digital health tools.**</li>\n      <li>Delayed care: Over half (53%) of workers have delayed or avoided preventative healthcare due to cost, and 49% say they have difficulty navigating the healthcare and insurance system.**</li>\n      <li>Mental health barriers: 69% of employees report that workplace stress affects them; only 26% feel they face no barriers to discussing mental health with their employer.**</li>\n    </ul>\n    <p>Notes to Editors</p>\n    <ul>\n      <li>Vitality's U.S business: Vitality's U.S business has seen strong momentum, including U.S. annual revenue growth of 22% year-over-year and recent acquisitions of Icario, Ramp Health and WellSpark – significantly increasing the reach and services provided by Vitality.</li>\n      <li>Vitality AI is now live across Vitality and Discovery and in the UK, South Africa and the United States. Since June 2025, more than 210,000 people in the U.S. have received an AI-driven personalized health action, and 54% have completed at least one AI-recommended health action from Vitality.</li>\n      <li>Vitality Status is the tiered reward and engagement framework used by the Vitality Group to measure and incentivize healthy lifestyle choices. Members earn Vitality points by engaging in healthy behaviors to move through the statuses, which are Bronze, Silver, Gold, Platinum. People are incentivized to earn points or improve their status with a full range of rewards.</li>\n    </ul>\n    <p>About Vitality</p>\n    <p>Vitality is a global company operating in the insurance market, with presence in over 35 markets and impacting more than 54 million lives. Vitality transforms insurance markets by integrating technology, actuarial science, and behavioral insights to make people healthier and create shared value for clients, insurers, and society. They have a simple yet powerful core purpose: to make people healthier and enhance and protect their lives, and this is done through a pioneering Shared Value Insurance model, which aligns the interests of individuals, insurers, and society: when people become healthier, everyone benefits.</p>\n    <p>About Google Cloud</p>\n    <p>Google Cloud offers a powerful, optimized AI stack—including AI infrastructure, leading models like Gemini, data management capabilities, multicloud security solutions, developer tools and platform, as well as agents and applications—that enables organizations to transform their business for the Agentic Era. Customers in more than 200 countries and territories turn to Google Cloud as their trusted technology partner.</p>\n    <p>Sources</p>\n    <p>* Vitality data: 99.2% accuracy rate based on review of platform-generated reports by 686 physicians, tested on a cohort of more than 1,300 Discovery staff. Next best action uplift figures (3.3x mental wellbeing assessments, 2.7x online health reviews, 1.4x colorectal cancer screening) from Vitality data.</p>\n    <p>** Vitality, Opinium US polling data, August 2026: Online survey of 2,000 US workers conducted by Opinium on behalf of Vitality.</p>\n    <p>*** Vitality data, May 2026: 4% lower claims costs and 180% ROI independently reviewed by Arbital Health. 15% lower overall risk-adjusted claims cost for higher Vitality Statuses independently endorsed by the Validation Institute. 200%+ physical activity increase among high-BMI members, 87% stress improvement among coaching participants, and 4.4 productive days saved per employee per year (average saving of $1,047 per employee annually).</p>\n    <p>**** Vitality data: members enrolled in the personalized steps program were assigned a starting step target based on their existing activity levels and progressed upward using an algorithm calibrated to the pace at which each individual could sustainably increase their habit. Members who completed the program went from an average of approximately 4,900 steps per day before enrollment to sustaining 6,900 steps after graduating. Analysis is based on a cohort of approximately 1,500 members who completed 5 or more weeks of the program.</p>\n    <p>***** Vitality, Discovery data: Analysis of Vitality members tracked before and after the launch of the Vitality Sleep Rewards program over a four-month period. 19% of members improved their sleep habit, gaining an average of 19.8 minutes of sleep per night (approximately 2 hours and 20 minutes per week). Analysis of in-hospital claims found that maintaining a good sleep habit is associated with 5% lower in-hospital claims and improving a sleep habit with 7% lower in-hospital claims.</p>\n    <p>****** Vitality, Discovery data: Personalized incentive and cancer screening data from Vitality members. In 2025, it is estimated that recommending and incentivizing cancer screenings resulted in 23,302 additional screenings, representing a 5.5% increase relative to the historic trends, leading to 219 additional detections and an estimated 6 deaths prevented. Analysis found that while larger rewards (up to $45) produced the strongest behavioral response for some actions – a $31 reward increased the likelihood of cholesterol testing by 52% relative to no reward – smaller rewards ($19–$25) were similarly effective at driving cervical and colorectal cancer screening as well as emerging risk GP visits, demonstrating that recommendation relevance and member targeting can be as important as reward magnitude.</p>\n    <p/>\n    <p>SOURCE Google Cloud</p>\n  </body>\n</html>",
-      "word_count": 1528,
-      "char_count": 10419,
-      "lead_image": "https://mmx.prnewswire.com/media/MS1989993/Vitality-and-Google.jpg?id=OA2953547&p=facebook",
-      "images": [
-        {
-          "url": "https://mmx.prnewswire.com/media/MS1989993/Vitality-and-Google.jpg?id=OA2953547&p=facebook",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://mmx.prnewswire.com/media/MS1989993/Vitality-and-Google.jpg?id=OA2953547&p=twitter",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://mmx.prnewswire.com/media/MS1989993/Vitality-and-Google.jpg?id=OA2953547",
-          "alt": "Vitality and Google Expand Technology Partnership to Bring AI-Driven Health Platform to the United States to Incentivize Healthier Behaviors",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 3,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-17T14:37:56Z"
     }
   ]
 }
