@@ -1,17 +1,287 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-27T12:41:15Z",
+  "generated_at": "2026-09-27T17:26:17Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 16,
-    "added": 13,
-    "updated": 3,
+    "scraped_now": 11,
+    "added": 7,
+    "updated": 4,
     "ok": 358,
     "failed": 142,
-    "duration_seconds": 9.92
+    "duration_seconds": 8.37
   },
   "articles": [
+    {
+      "id": "9fa3ea7746c868bd",
+      "title": "Passport Technology redefines the cash access journey with OmniStream ahead of G2E",
+      "header": "CDC Gaming",
+      "published_at": "2026-09-27T17:00:00Z",
+      "published_raw": "Sun, 27 Sep 2026 17:00:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTjNhNTR0alhnVXVtOFF6bHlYSzZhbDdlNDNDTkFPQnNNTk5qZDBoMm9pOHQ5dWp1WWFkYVFxVlQ5S1dyTjRXc1V3QjNIOTFIb3BZTzdEdEdaUjdwVW5ZTURrZ05iMm1ER0hHXy1WQ1J2ZmpXbzRuaGZJeWlQY3ZqY0owclVWd3BVZDVxRnJfN1E2Zm84Q1B5Tk5tR0huUWRuNlZBTUNXVUY?oc=5",
+      "description": "Passport Technology redefines the cash access journey with OmniStream ahead of G2E CDC Gaming",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTjNhNTR0alhnVXVtOFF6bHlYSzZhbDdlNDNDTkFPQnNNTk5qZDBoMm9pOHQ5dWp1WWFkYVFxVlQ5S1dyTjRXc1V3QjNIOTFIb3BZTzdEdEdaUjdwVW5ZTURrZ05iMm1ER0hHXy1WQ1J2ZmpXbzRuaGZJeWlQY3ZqY0owclVWd3BVZDVxRnJfN1E2Zm84Q1B5Tk5tR0huUWRuNlZBTUNXVUY?oc=5\" target=\"_blank\">Passport Technology redefines the cash access journey with OmniStream ahead of G2E</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CDC Gaming</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTjNhNTR0alhnVXVtOFF6bHlYSzZhbDdlNDNDTkFPQnNNTk5qZDBoMm9pOHQ5dWp1WWFkYVFxVlQ5S1dyTjRXc1V3QjNIOTFIb3BZTzdEdEdaUjdwVW5ZTURrZ05iMm1ER0hHXy1WQ1J2ZmpXbzRuaGZJeWlQY3ZqY0owclVWd3BVZDVxRnJfN1E2Zm84Q1B5Tk5tR0huUWRuNlZBTUNXVUY?oc=5"
+      ],
+      "scraped_at": "2026-09-27T17:26:10Z",
+      "url": "https://cdcgaming.com/passport-technology-redefines-the-cash-access-journey-with-omnistream-ahead-of-g2e/",
+      "final_url": "https://cdcgaming.com/passport-technology-redefines-the-cash-access-journey-with-omnistream-ahead-of-g2e/",
+      "source": "CDC Gaming",
+      "article_title": "Passport Technology redefines the cash access journey with OmniStream ahead of G2E – CDC Gaming",
+      "heading": "Passport Technology redefines the cash access journey with OmniStream ahead of G2E",
+      "authors": [],
+      "article_published_at": "2026-09-27T13:00:00-04:00",
+      "article_modified_at": "2026-09-24T15:19:43-04:00",
+      "summary": "As G2E approaches, Passport Technology is bringing a new vision for the casino floor to Las Vegas: OmniStream™, a full-service redemption kiosk built to consoli",
+      "content": "As G2E approaches, Passport Technology is bringing a new vision for the casino floor to Las Vegas: OmniStream™, a full-service redemption kiosk built to consolidate the guest’s cash access journey into a single, modern touchpoint.\nThe casino floor is undergoing a significant transformation. As operators balance evolving player expectations, labor pressures, and increasing demands for operational efficiency, the role of self-service technology has expanded far beyond convenience. Today’s guests expect fast, intuitive, and frictionless access to the financial services that fuel their gaming experience. The challenge is no longer simply moving money efficiently — it’s creating a seamless guest journey that enhances both the player’s experience and property performance. OmniStream™ is Passport’s answer to that challenge, designed to streamline financial transactions, reduce cage traffic, and support a more connected, efficient casino floor.\n“Over the past year, we have rebuilt Passport around innovation and service,” said Chad Boynak, CEO of Passport Technology. “We assembled an executive team focused on delivering the highest-quality customer experience, invested in R&D, and brought multiple next-generation products to market. OmniStream is the clearest example of that work. OmniStream was shaped by years of experience and insights we gained from our customers. Our technology platform and customer-focused approach have made us a partner they trust.”\nOmniStream™ serves as a comprehensive, one-stop touchpoint right on the gaming floor. On the transaction side, patrons can complete ticket redemptions, ATM withdrawals, bill breaking, cash advances via QuickAdvance POS debit dispensing, and POS TITO purchases. Layered on top are value-added services, including check warranty services through QuickCheck and local bill mix selection, which allows casinos to customize currency dispensing to optimize both the guest experience and back-end vault management. All of this runs through a single, secure, ADA-compliant kiosk.\nThe kiosk also commands attention on the floor itself. Combining a compact footprint with dual 27-inch displays, OmniStream™ delivers an intuitive user experience while creating valuable real estate for promotions, loyalty messaging, and property branding.\nBeyond its striking design, OmniStream™ is built to withstand the rigorous demands of high-traffic casinos. It features dual high-capacity bill validators, six heavy-duty cassettes capable of holding a combined 18,000 notes, an efficient loading system, and modern hardware security. Backed by best-in-class, nationwide hardware support, the kiosk delivers unmatched reliability, fraud prevention, and uptime. OmniStream™ also includes thoughtful touches such as a charity donation feature, which introduces a socially responsible dimension to the floor by routing minor transaction variances to charitable causes.\nThe true innovation of OmniStream™, however, lies within its sophisticated software layer. Dynamic pricing, calibrated intelligently by player tier, schedule, or event, allows operators to reward higher-tier players with personalized value that builds enduring brand loyalty. This personalization extends even further through Points2Pay™, a feature that lets patrons cover transaction fees directly with their loyalty points.\nUnderpinning this entire technical ecosystem is DataStream®, Passport’s proprietary transaction processing switch. DataStream® is a key differentiator for Passport, providing our customers with complete processing redundancy and enhanced operational resilience. It is one of the largest bank-sponsored ATM processors in North America. It is fully cloud-based with true hot/hot redundancy, PCI DSS certification, and 24-hour ACH settlement. Combined with our commitment to exceptional customer service, this infrastructure helps ensure maximum stability, minimal downtime, and uninterrupted operations.\nFor operators seeking to maximize funds to the casino floor while delivering exceptional reliability and patron satisfaction, OmniStream™ represents the ultimate solution. Visit Passport Technology at G2E, Booth 3430, to experience OmniStream™ live and discover how Passport is empowering the future of gaming.",
+      "content_html": "<html>\n  <body>\n    <p>As G2E approaches, Passport Technology is bringing a new vision for the casino floor to Las Vegas: OmniStream™, a full-service redemption kiosk built to consolidate the guest’s cash access journey into a single, modern touchpoint.</p>\n    <p>The casino floor is undergoing a significant transformation. As operators balance evolving player expectations, labor pressures, and increasing demands for operational efficiency, the role of self-service technology has expanded far beyond convenience. Today’s guests expect fast, intuitive, and frictionless access to the financial services that fuel their gaming experience. The challenge is no longer simply moving money efficiently — it’s creating a seamless guest journey that enhances both the player’s experience and property performance. OmniStream™ is Passport’s answer to that challenge, designed to streamline financial transactions, reduce cage traffic, and support a more connected, efficient casino floor.</p>\n    <p>“Over the past year, we have rebuilt Passport around innovation and service,” said Chad Boynak, CEO of Passport Technology. “We assembled an executive team focused on delivering the highest-quality customer experience, invested in R&amp;D, and brought multiple next-generation products to market. OmniStream is the clearest example of that work. OmniStream was shaped by years of experience and insights we gained from our customers. Our technology platform and customer-focused approach have made us a partner they trust.”</p>\n    <img src=\"https://cdcgaming.com/wp-content/uploads/2026/07/Sigma-email-web-260729-2.jpg\" alt=\"Sigma email web 260729\"/>\n    <p>OmniStream™ serves as a comprehensive, one-stop touchpoint right on the gaming floor. On the transaction side, patrons can complete ticket redemptions, ATM withdrawals, bill breaking, cash advances via QuickAdvance POS debit dispensing, and POS TITO purchases. Layered on top are value-added services, including check warranty services through QuickCheck and local bill mix selection, which allows casinos to customize currency dispensing to optimize both the guest experience and back-end vault management. All of this runs through a single, secure, ADA-compliant kiosk.</p>\n    <p>The kiosk also commands attention on the floor itself. Combining a compact footprint with dual 27-inch displays, OmniStream™ delivers an intuitive user experience while creating valuable real estate for promotions, loyalty messaging, and property branding.</p>\n    <p>Beyond its striking design, OmniStream™ is built to withstand the rigorous demands of high-traffic casinos. It features dual high-capacity bill validators, six heavy-duty cassettes capable of holding a combined 18,000 notes, an efficient loading system, and modern hardware security. Backed by best-in-class, nationwide hardware support, the kiosk delivers unmatched reliability, fraud prevention, and uptime. OmniStream™ also includes thoughtful touches such as a charity donation feature, which introduces a socially responsible dimension to the floor by routing minor transaction variances to charitable causes.</p>\n    <p>The true innovation of OmniStream™, however, lies within its sophisticated software layer. Dynamic pricing, calibrated intelligently by player tier, schedule, or event, allows operators to reward higher-tier players with personalized value that builds enduring brand loyalty. This personalization extends even further through Points2Pay™, a feature that lets patrons cover transaction fees directly with their loyalty points.</p>\n    <p>Underpinning this entire technical ecosystem is DataStream®, Passport’s proprietary transaction processing switch. DataStream® is a key differentiator for Passport, providing our customers with complete processing redundancy and enhanced operational resilience. It is one of the largest bank-sponsored ATM processors in North America. It is fully cloud-based with true hot/hot redundancy, PCI DSS certification, and 24-hour ACH settlement. Combined with our commitment to exceptional customer service, this infrastructure helps ensure maximum stability, minimal downtime, and uninterrupted operations.</p>\n    <p>For operators seeking to maximize funds to the casino floor while delivering exceptional reliability and patron satisfaction, OmniStream™ represents the ultimate solution. Visit Passport Technology at G2E, Booth 3430, to experience OmniStream™ live and discover how Passport is empowering the future of gaming.</p>\n  </body>\n</html>",
+      "word_count": 580,
+      "char_count": 4253,
+      "lead_image": "https://cdcgaming.com/wp-content/uploads/og-cache/146102.jpg",
+      "images": [
+        {
+          "url": "https://cdcgaming.com/wp-content/uploads/og-cache/146102.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-27T17:26:10Z"
+    },
+    {
+      "id": "f7ba686496bd7b2e",
+      "title": "Counties call for review of technology, jail billing process",
+      "header": "WAJR",
+      "published_at": "2026-09-27T16:00:01Z",
+      "published_raw": "Sun, 27 Sep 2026 16:00:01 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdFk0R0Jual9Xa2tZdE1uMlh4Z1pRQVkxOXBtQlB4NTdTenRmSy1QWXVpcThJdGh2MkVxS0NheTZUbWZVSVNOVlRMTlRqLWhiNmxQSGZXRUd1YUhOQ2dLVG1VX0lLX3BXRjZFbElfcGVQLXp5aFdPZ0Z6a0FYaHZOUjlwNFdyQjk5eHBraXAwcDZsQQ?oc=5",
+      "description": "Counties call for review of technology, jail billing process WAJR",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQdFk0R0Jual9Xa2tZdE1uMlh4Z1pRQVkxOXBtQlB4NTdTenRmSy1QWXVpcThJdGh2MkVxS0NheTZUbWZVSVNOVlRMTlRqLWhiNmxQSGZXRUd1YUhOQ2dLVG1VX0lLX3BXRjZFbElfcGVQLXp5aFdPZ0Z6a0FYaHZOUjlwNFdyQjk5eHBraXAwcDZsQQ?oc=5\" target=\"_blank\">Counties call for review of technology, jail billing process</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAJR</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdFk0R0Jual9Xa2tZdE1uMlh4Z1pRQVkxOXBtQlB4NTdTenRmSy1QWXVpcThJdGh2MkVxS0NheTZUbWZVSVNOVlRMTlRqLWhiNmxQSGZXRUd1YUhOQ2dLVG1VX0lLX3BXRjZFbElfcGVQLXp5aFdPZ0Z6a0FYaHZOUjlwNFdyQjk5eHBraXAwcDZsQQ?oc=5"
+      ],
+      "scraped_at": "2026-09-27T17:26:10Z",
+      "url": "https://wajr.com/2026/09/27/counties-call-for-review-of-technology-jail-billing-process/",
+      "final_url": "https://wajr.com/2026/09/27/counties-call-for-review-of-technology-jail-billing-process/",
+      "source": "WAJR",
+      "article_title": "Counties call for review of technology, jail billing process",
+      "heading": "Counties call for review of technology, jail billing process",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Counties call for review of technology, jail billing process WAJR",
+      "content": "MORGANTOWN, W.Va. — The coalition of counties auditing jail bills spearheaded by Monongalia County suspects mistakes and duplication in what they are calling an “antiquated process.”\nMonongalia County Commission president Tom Bloom said each county has paid an outside entity to examine and compare the bills. The mistakes include not properly tracking an inmate after a conviction and transfer from the jail system to the state prison system, multiple counties paying for the same inmate, and the cost of maintaining outdated technology.\n“As we went through and each county started to hire individuals to look through the bills, we saw that at times the bills were 10 to 30 percent incorrect,” Bloom said. “This is hundreds of thousands of dollars.”\nThe coalition contends there are three systems in the state, the Department of Correction and Rehabilitation, circuit courts, and magistrate courts that do not maintain a uniform system to manage the status of inmates. Bloom said counties receive jail bill information via fax machine, and one commission reported 500 pages of jail bill information had been transmitted over a single two-week period. The members of the coalition believe the state should improve the jail and prison inmate tracking system by moving to a computer-based system that can display and manage information in real time.\n“There are programs like that, and we don’t understand why we’re using such an antiquated system that is not working; it is very clear,” Bloom said.\nAccording to Bloom, more than 20 counties are behind in making jail payments, and some cannot meet the obligation at all. The coalition counties, he said, make up more than 50 percent of the total jail expenses billed to the counties.\n“Any money we find goes back to the county to pay the people we had to hire,” Bloom said. “We shouldn’t be doing this. There needs to be a better system, and we believe we can work with them.”\nState lawmakers would need to approve the additional cost to automate the inmate management system, and support from WVDCR commissioner David Kelly would be important. Coalition counties want to press Kelly, and lawmakers need to make the needed changes during the upcoming legislative session.\n“We would like to have the process immediately revaluated and get a new computer program to improve accountability and everyone working together,” Bloom said.\nFor counties like Monongalia, changes adopted in 2023 with HB 3552 jail costs have increased more than 30 percent along with the suspected billing mistakes. The counties would like to see an expedited solution so they can accurately plan for jail costs and manage other financial priorities.\n“We want to work with them so we can solve these problems,” Bloom said. “The problems are extremely troubling and severe, and when you consider the amount of money it’s costing us.”",
+      "content_html": "<html>\n  <body>\n    <p>MORGANTOWN, W.Va. — The coalition of counties auditing jail bills spearheaded by Monongalia County suspects mistakes and duplication in what they are calling an “antiquated process.”</p>\n    <p>Monongalia County Commission president Tom Bloom said each county has paid an outside entity to examine and compare the bills. The mistakes include not properly tracking an inmate after a conviction and transfer from the jail system to the state prison system, multiple counties paying for the same inmate, and the cost of maintaining outdated technology.</p>\n    <p>“As we went through and each county started to hire individuals to look through the bills, we saw that at times the bills were 10 to 30 percent incorrect,” Bloom said. “This is hundreds of thousands of dollars.”</p>\n    <p>The coalition contends there are three systems in the state, the Department of Correction and Rehabilitation, circuit courts, and magistrate courts that do not maintain a uniform system to manage the status of inmates. Bloom said counties receive jail bill information via fax machine, and one commission reported 500 pages of jail bill information had been transmitted over a single two-week period. The members of the coalition believe the state should improve the jail and prison inmate tracking system by moving to a computer-based system that can display and manage information in real time.</p>\n    <p>“There are programs like that, and we don’t understand why we’re using such an antiquated system that is not working; it is very clear,” Bloom said.</p>\n    <p>According to Bloom, more than 20 counties are behind in making jail payments, and some cannot meet the obligation at all. The coalition counties, he said, make up more than 50 percent of the total jail expenses billed to the counties.</p>\n    <p>“Any money we find goes back to the county to pay the people we had to hire,” Bloom said. “We shouldn’t be doing this. There needs to be a better system, and we believe we can work with them.”</p>\n    <p>State lawmakers would need to approve the additional cost to automate the inmate management system, and support from WVDCR commissioner David Kelly would be important. Coalition counties want to press Kelly, and lawmakers need to make the needed changes during the upcoming legislative session.</p>\n    <p>“We would like to have the process immediately revaluated and get a new computer program to improve accountability and everyone working together,” Bloom said.</p>\n    <p>For counties like Monongalia, changes adopted in 2023 with HB 3552 jail costs have increased more than 30 percent along with the suspected billing mistakes. The counties would like to see an expedited solution so they can accurately plan for jail costs and manage other financial priorities.</p>\n    <p>“We want to work with them so we can solve these problems,” Bloom said. “The problems are extremely troubling and severe, and when you consider the amount of money it’s costing us.”</p>\n  </body>\n</html>",
+      "word_count": 467,
+      "char_count": 2852,
+      "lead_image": "https://wajr.com/wp-content/uploads/2026/09/NCRJ_Doddridge.jpg",
+      "images": [
+        {
+          "url": "https://wajr.com/wp-content/uploads/2026/09/NCRJ_Doddridge.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-27T17:26:10Z"
+    },
+    {
+      "id": "25460d236048af89",
+      "title": "The longevity boom is getting ahead of the science",
+      "header": "Al Jazeera",
+      "published_at": "2026-09-27T15:53:18Z",
+      "published_raw": "Sun, 27 Sep 2026 15:53:18 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWW0wckR4Vnh6c0twNDdZQVdJV2JlTGtrT01KTC1KUUJUZk9LWkJIckNWMFY0MzdtUnIyQXF5LW8zRmxaWmc5bHdGbTBCdDdyRkFKR01rNUl4OGRYMWotRkZzOXMxVHNZV1pfU0ZEcnJXaUNhYV9XbFdBS0lJVS1oT3p3WUlKTmE2dWg0ZjhXYzN0a3VxRDRPX3k4d9IBoAFBVV95cUxQMll4WE85MkpsMjlBRzJtMzNsUTJuU3dXcVc1RmlpaXJiN2J2ZUdab3ZQUi1DM3A3VEkzOG9OLS11UDVMMTFYcl8wUDRCQXJkaEF1amRYSW9aZXRKbUJUaXFBXzBfQzlsY2s2VGdTM1pJMzlqZ2ZGUGZFdWdYRjhsYTEzbTRTZXE0STBBQUpIdmI5YVhLNkllM1BFVGp5WjFM?oc=5",
+      "description": "The longevity boom is getting ahead of the science Al Jazeera",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQWW0wckR4Vnh6c0twNDdZQVdJV2JlTGtrT01KTC1KUUJUZk9LWkJIckNWMFY0MzdtUnIyQXF5LW8zRmxaWmc5bHdGbTBCdDdyRkFKR01rNUl4OGRYMWotRkZzOXMxVHNZV1pfU0ZEcnJXaUNhYV9XbFdBS0lJVS1oT3p3WUlKTmE2dWg0ZjhXYzN0a3VxRDRPX3k4d9IBoAFBVV95cUxQMll4WE85MkpsMjlBRzJtMzNsUTJuU3dXcVc1RmlpaXJiN2J2ZUdab3ZQUi1DM3A3VEkzOG9OLS11UDVMMTFYcl8wUDRCQXJkaEF1amRYSW9aZXRKbUJUaXFBXzBfQzlsY2s2VGdTM1pJMzlqZ2ZGUGZFdWdYRjhsYTEzbTRTZXE0STBBQUpIdmI5YVhLNkllM1BFVGp5WjFM?oc=5\" target=\"_blank\">The longevity boom is getting ahead of the science</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWW0wckR4Vnh6c0twNDdZQVdJV2JlTGtrT01KTC1KUUJUZk9LWkJIckNWMFY0MzdtUnIyQXF5LW8zRmxaWmc5bHdGbTBCdDdyRkFKR01rNUl4OGRYMWotRkZzOXMxVHNZV1pfU0ZEcnJXaUNhYV9XbFdBS0lJVS1oT3p3WUlKTmE2dWg0ZjhXYzN0a3VxRDRPX3k4d9IBoAFBVV95cUxQMll4WE85MkpsMjlBRzJtMzNsUTJuU3dXcVc1RmlpaXJiN2J2ZUdab3ZQUi1DM3A3VEkzOG9OLS11UDVMMTFYcl8wUDRCQXJkaEF1amRYSW9aZXRKbUJUaXFBXzBfQzlsY2s2VGdTM1pJMzlqZ2ZGUGZFdWdYRjhsYTEzbTRTZXE0STBBQUpIdmI5YVhLNkllM1BFVGp5WjFM?oc=5"
+      ],
+      "scraped_at": "2026-09-27T17:26:09Z",
+      "url": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science",
+      "final_url": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science",
+      "source": "Al Jazeera",
+      "article_title": "The longevity boom is getting ahead of the science",
+      "heading": "The longevity boom is getting ahead of the science",
+      "authors": [
+        "Omar Shabana"
+      ],
+      "article_published_at": "2026-09-27T15:48:16Z",
+      "article_modified_at": "2026-09-27T15:48:16Z",
+      "summary": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
+      "content": "The longevity boom is getting ahead of the science\nBillions are pouring into anti-ageing biotech, but manipulating ageing may carry risks we are only beginning to understand.\nBasal human desires never change: to be positively unique, sexually desired, to live in luxury, to be popular, to hold power, and finally, to achieve immortality. The idea of eternal life can be found in almost every religious text, and even the world’s oldest surviving literary epic, the Epic of Gilgamesh, contains poems detailing Gilgamesh’s search for immortality after confronting the inevitability of death following the loss of his companion, Enkidu. Nearly 4,000 years later, a hot microphone caught the presidents of Russia and China discussing whether advances in medicine and biotechnology might finally bring humanity closer to that ancient ambition.\nDuring the exchange, Russia’s Vladimir Putin spoke about advances in organ transplantation, while China’s Xi Jinping seemed cautiously optimistic, citing predictions that humans would be able to live up to 150 years of age this century. Russia has reportedly directed billions of dollars’ worth of funding towards organ transplantation research and regenerative medicine.\nIn an era where genetic engineering and biological manipulation are possible, where actual artificial intelligence exists and space travel is a reality, how close are we to extending the human lifespan, and what is the science behind it?\nEnter longevity biotechnology\nUnlike traditional pharmaceutical research, which historically focused on designing chemicals that interact with biological targets, biotechnology uses biological systems themselves to tackle various problems, including medical treatments. Over the years, biotechnology has become integral to healthcare, with the cancer immunotherapy Keytruda, one of the world’s best-selling drugs, as an example of its success. More recently, a subfield called longevity biotechnology has become incredibly fashionable. The aim is simple, even if the mission is not: to treat the underlying biological mechanisms of age-related diseases, resulting in increased healthspan (the period of life spent in good health) or lifespan (the period of time one is alive).\nThe idea of treating ageing or age-related illnesses is nothing new. The first emperor of China, Qin Shi Huang, is said to have died from suspected mercury poisoning in his search for the elixir of immortality. Skip ahead to the 1920s, when Alexander Bogdanov pioneered blood transfusions from the young to the old as a method to slow the ageing process (there is little proof that it worked). Numerous books and journals have since been published on tackling the ageing process in various ways, and companies have been founded to do the same. Yet, in recent years, investment in longevity biotech has skyrocketed. A recent Forbes article called it the billionaire’s next big bet after artificial intelligence. In the first quarter of 2026 alone, longevity biotech companies raised approximately $3.74bn. There are now academic journals dedicated to ageing and longevity. Pharmaceutical companies are eager to see clinical trial results on longevity treatments.\nSo, what has changed in the field to cause this hype?\nDiscovering the hallmarks of ageing\nIn academic talks, the typical longevity speaker would ask the audience, “What is the commonality between a bowhead whale and a naked mole rat?” Both have very long lifespans and are remarkably resistant to cancer. Comparing long-lived organisms with short-lived ones, and young members of the same species with old ones, lies at the heart of modern longevity research.\nAt the cellular and molecular levels, scientists now understand ageing within the context of twelve interconnected processes, collectively called the hallmarks of ageing. These include factors like genomic instability and chronic inflammation. Researchers have identified numerous genes that regulate such processes. Manipulating them in animal models has improved measures of health and function in older animals. In some cases, it has also significantly extended lifespan. Repeated findings across different research groups and animal models have started to convince many investors and scientists that we might be on the cusp of something truly remarkable.\nAI and obesity drugs: Success fuels excitement for the next breakthrough\nTackling ageing is a grand undertaking, one that would have been predicted to take decades of scientific research and billions in funding. Grand challenges like this tend to come with cautious investment in companies attempting to solve them. Big, tough problems will require either a fantastic team of scientists or solid science that has been validated through and through. Those do not come easily. Yet, investments are currently overflowing into young longevity companies all over the world.\nThis has something to do with the recent boom in the AI industry in general, and the fantastic financial success of obesity drugs in the pharmaceutical world. There is a certain feeling that we are getting closer to breakthroughs in biology. Ageing is something that is literally experienced by every human being, and we are in an era where ageing populations are predicted to become larger burdens on their economies. There is no better market than this. If a breakthrough happens in the treatment of ageing, the profits will be more than enormous, and investors want to be there when it happens.\nThe case of obesity drugs, in particular, is quite relevant here. Obesity is a complex, multifactorial disease. It is linked to genetic and environmental factors, living standards, socioeconomic class, etc. Though obesity medicines have existed for a while, their effectiveness was generally modest and came with significant limitations. The general impression was that there were no shortcuts when it came to treating it at the population level. The introduction of highly effective obesity drugs today has changed the game. They are among the top 10 best-selling drugs in the world, and they work surprisingly well.\nIf scientists are able to solve something as complex as obesity today, what is to say they cannot solve ageing tomorrow?\nBetween realism and optimism\nUnlike obesity, ageing is a biological reality that most living organisms experience. That is to say, it is baked into our living systems. Attempting to treat or manipulate something this ubiquitous will almost always have side effects, likely big ones.\nAs clinical trials are still in their early stages, we do not know what those side effects are yet. It is going to take years, likely decades, before we truly know whether any longevity biotech approaches can meaningfully extend human healthspan or lifespan. Part of the reason for that is the fact that the Food and Drug Administration (FDA) does not currently view ageing itself as a disease target. This means that biotech companies will need to demonstrate benefits against specific diseases or measurable aspects of health.\nAt the theoretical level, there are also roadblocks. One branch of longevity biotech, for instance, is attempting to manipulate the process of DNA repair. Human DNA gets damaged every day; our cells are experts at repairing it but become less effective in old age. Manipulating DNA damage repair could pave the way for longevity therapies. However, this understates how complex the process is and how it could impact different cells in the body. Antibody-producing cells (known as B cells), for example, deliberately introduce mutations into their DNA in order to produce effective antibodies. If DNA-repair longevity therapies result in B cells having a reduced capacity to do that, there is no telling how it would affect the patient’s immune system.\nDecades of clinical research have taught us that manipulating one aspect of our body will have an undesirable side effect in another part of it. Antibiotics alter our microbiome and select for antibiotic-resistant bacteria. Chemotherapy also kills many healthy fast-dividing cells in the body.\nPerhaps we will truly be able to treat ageing someday, but it will not be anytime soon. More importantly, it may come at the cost of disrupting other essential biological processes. Living systems have spent billions of years balancing ageing, immunity, reproduction, growth and maintenance. Those wishing to treat ageing will have to fine-tune it in a way that does not disrupt that balance too much.\nThe views expressed in this article are the author’s own and do not necessarily reflect Al Jazeera’s editorial stance.",
+      "content_html": "<html>\n  <body>\n    <h1>The longevity boom is getting ahead of the science</h1>\n    <p>Billions are pouring into anti-ageing biotech, but manipulating ageing may carry risks we are only beginning to understand.</p>\n    <img src=\"https://www.aljazeera.com/wp-content/uploads/2026/09/2026-06-24T214354Z_1423967800_RC2SZLAVFA0H_RTRMADP_3_BRAZIL-RECORD-OLDEST-SISTERS-1790523951.jpg?resize=770%2C513&amp;quality=80\" alt=\"Zoraide de Deus Mota, 104, Zulina de Deus Nunes, 103, and Levita de Deus Nunes, 109, recognized as the world's oldest living trio of sisters, attend an interview with Reuters in Rio de Janeiro, Brazil, June 23, 2026. Recently named the world's oldest living siblings, the sisters are part of a study that aims to identify genetic factors linked to longevity. REUTERS/Tita Barros\"/>\n    <p>Basal human desires never change: to be positively unique, sexually desired, to live in luxury, to be popular, to hold power, and finally, to achieve immortality. The idea of eternal life can be found in almost every religious text, and even the world’s oldest surviving literary epic, the Epic of Gilgamesh, contains poems detailing Gilgamesh’s search for immortality after confronting the inevitability of death following the loss of his companion, Enkidu. Nearly 4,000 years later, a hot microphone caught the presidents of Russia and China discussing whether advances in medicine and biotechnology might finally bring humanity closer to that ancient ambition.</p>\n    <p>During the exchange, Russia’s Vladimir Putin spoke about advances in organ transplantation, while China’s Xi Jinping seemed cautiously optimistic, citing predictions that humans would be able to live up to 150 years of age this century. Russia has reportedly directed billions of dollars’ worth of funding towards organ transplantation research and regenerative medicine.</p>\n    <p>In an era where genetic engineering and biological manipulation are possible, where actual artificial intelligence exists and space travel is a reality, how close are we to extending the human lifespan, and what is the science behind it?</p>\n    <h2>Enter longevity biotechnology</h2>\n    <p>Unlike traditional pharmaceutical research, which historically focused on designing chemicals that interact with biological targets, biotechnology uses biological systems themselves to tackle various problems, including medical treatments. Over the years, biotechnology has become integral to healthcare, with the cancer immunotherapy Keytruda, one of the world’s best-selling drugs, as an example of its success. More recently, a subfield called longevity biotechnology has become incredibly fashionable. The aim is simple, even if the mission is not: to treat the underlying biological mechanisms of age-related diseases, resulting in increased healthspan (the period of life spent in good health) or lifespan (the period of time one is alive).</p>\n    <p>The idea of treating ageing or age-related illnesses is nothing new. The first emperor of China, Qin Shi Huang, is said to have died from suspected mercury poisoning in his search for the elixir of immortality. Skip ahead to the 1920s, when Alexander Bogdanov pioneered blood transfusions from the young to the old as a method to slow the ageing process (there is little proof that it worked). Numerous books and journals have since been published on tackling the ageing process in various ways, and companies have been founded to do the same. Yet, in recent years, investment in longevity biotech has skyrocketed. A recent Forbes article called it the billionaire’s next big bet after artificial intelligence. In the first quarter of 2026 alone, longevity biotech companies raised approximately $3.74bn. There are now academic journals dedicated to ageing and longevity. Pharmaceutical companies are eager to see clinical trial results on longevity treatments.</p>\n    <p>So, what has changed in the field to cause this hype?</p>\n    <h2>Discovering the hallmarks of ageing</h2>\n    <p>In academic talks, the typical longevity speaker would ask the audience, “What is the commonality between a bowhead whale and a naked mole rat?” Both have very long lifespans and are remarkably resistant to cancer. Comparing long-lived organisms with short-lived ones, and young members of the same species with old ones, lies at the heart of modern longevity research.</p>\n    <p>At the cellular and molecular levels, scientists now understand ageing within the context of twelve interconnected processes, collectively called the hallmarks of ageing. These include factors like genomic instability and chronic inflammation. Researchers have identified numerous genes that regulate such processes. Manipulating them in animal models has improved measures of health and function in older animals. In some cases, it has also significantly extended lifespan. Repeated findings across different research groups and animal models have started to convince many investors and scientists that we might be on the cusp of something truly remarkable.</p>\n    <h2>AI and obesity drugs: Success fuels excitement for the next breakthrough</h2>\n    <p>Tackling ageing is a grand undertaking, one that would have been predicted to take decades of scientific research and billions in funding. Grand challenges like this tend to come with cautious investment in companies attempting to solve them. Big, tough problems will require either a fantastic team of scientists or solid science that has been validated through and through. Those do not come easily. Yet, investments are currently overflowing into young longevity companies all over the world.</p>\n    <p>This has something to do with the recent boom in the AI industry in general, and the fantastic financial success of obesity drugs in the pharmaceutical world. There is a certain feeling that we are getting closer to breakthroughs in biology. Ageing is something that is literally experienced by every human being, and we are in an era where ageing populations are predicted to become larger burdens on their economies. There is no better market than this. If a breakthrough happens in the treatment of ageing, the profits will be more than enormous, and investors want to be there when it happens.</p>\n    <p>The case of obesity drugs, in particular, is quite relevant here. Obesity is a complex, multifactorial disease. It is linked to genetic and environmental factors, living standards, socioeconomic class, etc. Though obesity medicines have existed for a while, their effectiveness was generally modest and came with significant limitations. The general impression was that there were no shortcuts when it came to treating it at the population level. The introduction of highly effective obesity drugs today has changed the game. They are among the top 10 best-selling drugs in the world, and they work surprisingly well.</p>\n    <p>If scientists are able to solve something as complex as obesity today, what is to say they cannot solve ageing tomorrow?</p>\n    <h2>Between realism and optimism</h2>\n    <p>Unlike obesity, ageing is a biological reality that most living organisms experience. That is to say, it is baked into our living systems. Attempting to treat or manipulate something this ubiquitous will almost always have side effects, likely big ones.</p>\n    <p>As clinical trials are still in their early stages, we do not know what those side effects are yet. It is going to take years, likely decades, before we truly know whether any longevity biotech approaches can meaningfully extend human healthspan or lifespan. Part of the reason for that is the fact that the Food and Drug Administration (FDA) does not currently view ageing itself as a disease target. This means that biotech companies will need to demonstrate benefits against specific diseases or measurable aspects of health.</p>\n    <p>At the theoretical level, there are also roadblocks. One branch of longevity biotech, for instance, is attempting to manipulate the process of DNA repair. Human DNA gets damaged every day; our cells are experts at repairing it but become less effective in old age. Manipulating DNA damage repair could pave the way for longevity therapies. However, this understates how complex the process is and how it could impact different cells in the body. Antibody-producing cells (known as B cells), for example, deliberately introduce mutations into their DNA in order to produce effective antibodies. If DNA-repair longevity therapies result in B cells having a reduced capacity to do that, there is no telling how it would affect the patient’s immune system.</p>\n    <p>Decades of clinical research have taught us that manipulating one aspect of our body will have an undesirable side effect in another part of it. Antibiotics alter our microbiome and select for antibiotic-resistant bacteria. Chemotherapy also kills many healthy fast-dividing cells in the body.</p>\n    <p>Perhaps we will truly be able to treat ageing someday, but it will not be anytime soon. More importantly, it may come at the cost of disrupting other essential biological processes. Living systems have spent billions of years balancing ageing, immunity, reproduction, growth and maintenance. Those wishing to treat ageing will have to fine-tune it in a way that does not disrupt that balance too much.</p>\n    <p>The views expressed in this article are the author’s own and do not necessarily reflect Al Jazeera’s editorial stance.</p>\n  </body>\n</html>",
+      "word_count": 1332,
+      "char_count": 8592,
+      "lead_image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-06-24T214354Z_1423967800_RC2SZLAVFA0H_RTRMADP_3_BRAZIL-RECORD-OLDEST-SISTERS-1790523951.jpg?resize=1920%2C1440",
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-06-24T214354Z_1423967800_RC2SZLAVFA0H_RTRMADP_3_BRAZIL-RECORD-OLDEST-SISTERS-1790523951.jpg?resize=1920%2C1440",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2025/08/sha-omar-1755170046.jpg?resize=96%2C96&quality=80",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-27T17:26:09Z"
+    },
+    {
+      "id": "590dc90ea1df836a",
+      "title": "New 65V Power Monitors Could Expand The Case For Microchip Technology Stock",
+      "header": "simplywall.st",
+      "published_at": "2026-09-27T15:35:12Z",
+      "published_raw": "Sun, 27 Sep 2026 15:35:12 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVmF6RzA1OXJOUXgyUTJRZVkyQnE3RVBQOVRHaUZiNk5ZMU5nX2M0RWR4d3Y1VnJEYm41RTV4NFZ2U0F0akpBUmNWSG1vdWV6Rkp2UHNlM3pwVjVmaXFXMzBNamF3ZDJURkttQnNoSVpfcHdEMHZ6SkpBdFllZERUZF9kbHMtalhlRnFHbEZRbWFPRGl5UjB1a1hqMFlFLTR0NXhKbHplQndTUEFEb05hM0hSYzRoTlBobGtCODRIWmUzTDlQakd5SVN6RHVlWHI2ck5aYlc2OVBqRjRNVEHSAeMBQVVfeXFMUHFueVcyY1U5SFdGRlFQWmxXd0lCZFJkQ1ZzUDc1VmpNV3AtTWlqQUxfVFF1empXV3JXaGdtaXZXYjJqYUtsR1dLS1pqbnhQNnhTdFJtSko3RzMzcmJjU0FmQm9zMmlXTHNhSjlBay00dENkcmpWM0xzVFdySXNLVWk4dms1YmpaSEZwVFo2TjFYeVhTTUFvaWZLdDdheGV3ckF5Y3UzdXRaX21rdmNRanRQQzNRdTFISGxVYUo5SlppSUNKSXdiTm8ya1prd3BReGhTRVJXaVkzVlE1ZGdCT3NwZG8?oc=5",
+      "description": "New 65V Power Monitors Could Expand The Case For Microchip Technology Stock simplywall.st",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVmF6RzA1OXJOUXgyUTJRZVkyQnE3RVBQOVRHaUZiNk5ZMU5nX2M0RWR4d3Y1VnJEYm41RTV4NFZ2U0F0akpBUmNWSG1vdWV6Rkp2UHNlM3pwVjVmaXFXMzBNamF3ZDJURkttQnNoSVpfcHdEMHZ6SkpBdFllZERUZF9kbHMtalhlRnFHbEZRbWFPRGl5UjB1a1hqMFlFLTR0NXhKbHplQndTUEFEb05hM0hSYzRoTlBobGtCODRIWmUzTDlQakd5SVN6RHVlWHI2ck5aYlc2OVBqRjRNVEHSAeMBQVVfeXFMUHFueVcyY1U5SFdGRlFQWmxXd0lCZFJkQ1ZzUDc1VmpNV3AtTWlqQUxfVFF1empXV3JXaGdtaXZXYjJqYUtsR1dLS1pqbnhQNnhTdFJtSko3RzMzcmJjU0FmQm9zMmlXTHNhSjlBay00dENkcmpWM0xzVFdySXNLVWk4dms1YmpaSEZwVFo2TjFYeVhTTUFvaWZLdDdheGV3ckF5Y3UzdXRaX21rdmNRanRQQzNRdTFISGxVYUo5SlppSUNKSXdiTm8ya1prd3BReGhTRVJXaVkzVlE1ZGdCT3NwZG8?oc=5\" target=\"_blank\">New 65V Power Monitors Could Expand The Case For Microchip Technology Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVmF6RzA1OXJOUXgyUTJRZVkyQnE3RVBQOVRHaUZiNk5ZMU5nX2M0RWR4d3Y1VnJEYm41RTV4NFZ2U0F0akpBUmNWSG1vdWV6Rkp2UHNlM3pwVjVmaXFXMzBNamF3ZDJURkttQnNoSVpfcHdEMHZ6SkpBdFllZERUZF9kbHMtalhlRnFHbEZRbWFPRGl5UjB1a1hqMFlFLTR0NXhKbHplQndTUEFEb05hM0hSYzRoTlBobGtCODRIWmUzTDlQakd5SVN6RHVlWHI2ck5aYlc2OVBqRjRNVEHSAeMBQVVfeXFMUHFueVcyY1U5SFdGRlFQWmxXd0lCZFJkQ1ZzUDc1VmpNV3AtTWlqQUxfVFF1empXV3JXaGdtaXZXYjJqYUtsR1dLS1pqbnhQNnhTdFJtSko3RzMzcmJjU0FmQm9zMmlXTHNhSjlBay00dENkcmpWM0xzVFdySXNLVWk4dms1YmpaSEZwVFo2TjFYeVhTTUFvaWZLdDdheGV3ckF5Y3UzdXRaX21rdmNRanRQQzNRdTFISGxVYUo5SlppSUNKSXdiTm8ya1prd3BReGhTRVJXaVkzVlE1ZGdCT3NwZG8?oc=5"
+      ],
+      "scraped_at": "2026-09-27T17:26:11Z",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-mchp/microchip-technology/news/new-65v-power-monitors-could-expand-the-case-for-microchip-t",
+      "final_url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-mchp/microchip-technology/news/new-65v-power-monitors-could-expand-the-case-for-microchip-t",
+      "source": "Simply Wall St",
+      "article_title": "New 65V Power Monitors Could Expand The Case For Microchip Technology Stock",
+      "heading": "New 65V Power Monitors Could Expand The Case For Microchip Technology Stock",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "article_published_at": "2026-09-27T15:16:31.067Z",
+      "article_modified_at": "2026-09-27T15:16:31.067Z",
+      "summary": "Microchip Technology recently introduced its PAC1761 and PAC1861 families of 65V digital power monitors, targeting 48V architectures across automotive, AI and data center, networking, industrial, server, telecom/PoE and broader 48V power distribution systems.\nThe new monitors combine high-voltage headroom, spike protection and energy-aware analytics. These can help equipment makers tune efficiency, manage power excursions and simplify redesign risk with pin-compatible options and ready-made...",
+      "content": "- United States\n- /\n- Semiconductors\n- /\n- NasdaqGS:MCHP\nNew 65V Power Monitors Could Expand The Case For Microchip Technology Stock\n- Microchip Technology recently introduced its PAC1761 and PAC1861 families of 65V digital power monitors, targeting 48V architectures across automotive, AI and data center, networking, industrial, server, telecom/PoE and broader 48V power distribution systems.\n- The new monitors combine high-voltage headroom, spike protection and energy-aware analytics. These can help equipment makers tune efficiency, manage power excursions and simplify redesign risk with pin-compatible options and ready-made software tools.\n- We will look at how Microchip Technology's higher voltage, energy aware power monitors intersect with its AI and data center investment narrative.\nScan beyond Microchip Technology and track other power and AI infrastructure plays that could be setting up for the next leg higher with our hand-picked 85 AI infrastructure stocks.\nMicrochip Technology Investment Narrative Recap\nTo own Microchip Technology, you need to believe its exposure to industrial, automotive, data center, AI and aerospace demand translates into durable orders while it steadily absorbs elevated inventory and factory underutilization. The recent 65V power monitor launch fits that thesis, but by itself does not materially change the near term setup.\nThe key short term catalyst remains how effectively Microchip Technology converts AI and data center program wins into shipped product, in the face of foundry and packaging constraints. The biggest risk still sits with inventory write offs, underused factories and a history of weaker five year earnings and free cash flow trends.\nThe most directly relevant update is the PAC1761 and PAC1861 launch for 48V systems, because it speaks to Microchip Technology’s opportunity in higher value power management tied to AI infrastructure and data centers. These devices bring 65V headroom, spike protection and energy aware monitoring that can appeal to complex racks and industrial gear.\nFor investors watching catalysts, this product family connects to the broader push into data center and AI, where analysts expect a larger revenue contribution over the next few years. Execution risk sits in turning design wins, evaluation boards and software tools into volume shipments without running into supply bottlenecks or margin drag from underutilized capacity.\nMicrochip Technology’s current analyst script points to revenues of US$8.2b and earnings of US$2.3b by 2029, based on an assumed 16.8% yearly revenue expansion and a very large earnings increase from US$367.2m today to reach that figure.\nUncover why Microchip Technology's fair value indicates a 38% potential upside to its current price that may not last much longer.\nExploring Other Perspectives\nSome of the most optimistic analysts focus less on supply bottlenecks and more on Microchip Technology’s efficiency plan. Before this 65V monitor news, the bullish camp was already modeling roughly US$8.1b in revenue and US$2.3b in earnings by 2029. You can treat this launch as a fresh data point that might shift those views further, in either direction.\nExplore 4 other Microchip Technology fair value estimates, including one that suggests as much as 72% upside from the current price!\nDecide For Yourself\nDisagree with existing narratives? Extraordinary investment returns rarely come from following the herd, so go with your instincts.\n- A great starting point for your Microchip Technology research is our analysis highlighting 3 key rewards and 2 important warning signs that could impact your investment decision.\n- See our latest analysis for Microchip Technology. The report includes a comprehensive fundamental analysis summarized in a single visual, the Snowflake, making it easy to evaluate Microchip Technology's overall financial health at a glance.\nLooking For More Investment Ideas Beyond Microchip Technology?\nOnce you have formed a view on Microchip Technology, it can help to line it up against other opportunities that fit your own risk, income and quality preferences using the Simply Wall St Screener.\n- If you are hunting for potential mispricing, compare Microchip Technology with a wider field of candidates by scanning our 32 high quality undervalued stocks that already clear basic quality and balance sheet checks.\n- For readers who care more about resilience than excitement, weigh Microchip Technology against a basket of steadier businesses using a curated set of 30 resilient stocks with low risk scores tailored to lower volatility profiles.\n- Income focused investors can set Microchip Technology alongside a group of high yield payers by reviewing the 8 dividend fortresses that aim to combine robust cash flows with distributions above 5%.\nThis article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.\nNew: Manage All Your Stock Portfolios in One Place\nWe've created the ultimate portfolio companion for stock investors, and it's free.\n• Connect an unlimited number of Portfolios and see your total in one currency\n• Be alerted to new Warning Signs or Risks via email or mobile\n• Track the Fair Value of your stocks\nHave feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com\nThe old reason to buy emerging markets was their young, growing populations. Most of them aren't young anymore.\nI was never a fan of emerging markets investing tbh. Good companies are everywhere.\nThe best EM bet might be the AI companies. Most emerging markets will consume this rather than build the frontier layer, and consuming it is where the real economic gain is. Leapfrogging to AI-delivered services without the legacy infrastructure is a bigger jump than upgrading existing systems. The benefit accrues locally, the earnings accrue to the supplier.\nWhere to invest when populations stop growing\nAbout NasdaqGS:MCHP\nMicrochip Technology\nDevelops, manufactures, and sells smart, connected, and secure embedded control solutions in the Americas, Europe, and Asia.\nReasonable growth potential with adequate balance sheet and pays a dividend.",
+      "content_html": "<html>\n  <body><ul><li>United States</li><li>/</li><li>Semiconductors</li><li>/</li><li>NasdaqGS:MCHP</li></ul><h1>New 65V Power Monitors Could Expand The Case For Microchip Technology Stock</h1><img src=\"https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.ctfassets.net/n07nr2koi959/1txW1Rnk3fUjh2FW939y6e/a1bb305c92d46eae2c7f925893392fdd/avatar-v2.png?w=64&amp;h=64&amp;q=90&amp;fit=fill&amp;f=top\" alt=\"Simply Wall St\"/><ul><li>Microchip Technology recently introduced its PAC1761 and PAC1861 families of 65V digital power monitors, targeting 48V architectures across automotive, AI and data center, networking, industrial, server, telecom/PoE and broader 48V power distribution systems.</li><li>The new monitors combine high-voltage headroom, spike protection and energy-aware analytics. These can help equipment makers tune efficiency, manage power excursions and simplify redesign risk with pin-compatible options and ready-made software tools.</li><li>We will look at how Microchip Technology's higher voltage, energy aware power monitors intersect with its AI and data center investment narrative.</li></ul><p>Scan beyond Microchip Technology and track other power and AI infrastructure plays that could be setting up for the next leg higher with our hand-picked 85 AI infrastructure stocks.</p><h2>Microchip Technology Investment Narrative Recap</h2><p>To own Microchip Technology, you need to believe its exposure to industrial, automotive, data center, AI and aerospace demand translates into durable orders while it steadily absorbs elevated inventory and factory underutilization. The recent 65V power monitor launch fits that thesis, but by itself does not materially change the near term setup.</p><p>The key short term catalyst remains how effectively Microchip Technology converts AI and data center program wins into shipped product, in the face of foundry and packaging constraints. The biggest risk still sits with inventory write offs, underused factories and a history of weaker five year earnings and free cash flow trends.</p><p>The most directly relevant update is the PAC1761 and PAC1861 launch for 48V systems, because it speaks to Microchip Technology’s opportunity in higher value power management tied to AI infrastructure and data centers. These devices bring 65V headroom, spike protection and energy aware monitoring that can appeal to complex racks and industrial gear.</p><p>For investors watching catalysts, this product family connects to the broader push into data center and AI, where analysts expect a larger revenue contribution over the next few years. Execution risk sits in turning design wins, evaluation boards and software tools into volume shipments without running into supply bottlenecks or margin drag from underutilized capacity.</p><p>Microchip Technology’s current analyst script points to revenues of US$8.2b and earnings of US$2.3b by 2029, based on an assumed 16.8% yearly revenue expansion and a very large earnings increase from US$367.2m today to reach that figure.</p><p>Uncover why Microchip Technology's fair value indicates a 38% potential upside to its current price that may not last much longer.</p><h2>Exploring Other Perspectives</h2><p>Some of the most optimistic analysts focus less on supply bottlenecks and more on Microchip Technology’s efficiency plan. Before this 65V monitor news, the bullish camp was already modeling roughly US$8.1b in revenue and US$2.3b in earnings by 2029. You can treat this launch as a fresh data point that might shift those views further, in either direction.</p><p>Explore 4 other Microchip Technology fair value estimates, including one that suggests as much as 72% upside from the current price!</p><h2>Decide For Yourself</h2><p>Disagree with existing narratives? Extraordinary investment returns rarely come from following the herd, so go with your instincts.</p><ul><li>A great starting point for your Microchip Technology research is our analysis highlighting 3 key rewards and 2 important warning signs that could impact your investment decision.</li><li>See our latest analysis for Microchip Technology. The report includes a comprehensive fundamental analysis summarized in a single visual, the Snowflake, making it easy to evaluate Microchip Technology's overall financial health at a glance.</li></ul><h2>Looking For More Investment Ideas Beyond Microchip Technology?</h2><p>Once you have formed a view on Microchip Technology, it can help to line it up against other opportunities that fit your own risk, income and quality preferences using the Simply Wall St Screener.</p><ul><li>If you are hunting for potential mispricing, compare Microchip Technology with a wider field of candidates by scanning our 32 high quality undervalued stocks that already clear basic quality and balance sheet checks.</li><li>For readers who care more about resilience than excitement, weigh Microchip Technology against a basket of steadier businesses using a curated set of 30 resilient stocks with low risk scores tailored to lower volatility profiles.</li><li>Income focused investors can set Microchip Technology alongside a group of high yield payers by reviewing the 8 dividend fortresses that aim to combine robust cash flows with distributions above 5%.</li></ul><p>This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.</p><h3>New: Manage All Your Stock Portfolios in One Place</h3><p>We've created the ultimate portfolio companion for stock investors, and it's free.</p><p>• Connect an unlimited number of Portfolios and see your total in one currency<br/>• Be alerted to new Warning Signs or Risks via email or mobile<br/>• Track the Fair Value of your stocks</p><p>Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com</p><img src=\"https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=48,h=48,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/d37455ab.1780227746571.251073cdff8896d0.png\" alt=\"mitchell_lawler\"/><h3>The old reason to buy emerging markets was their young, growing populations. Most of them aren't young anymore.</h3><img src=\"https://images.simplywall.st/asset/user/d6a38a84.1785242782948.b3de7e5d615da6aa.png\" alt=\"artoflosing\"/><p>I was never a fan of emerging markets investing tbh. Good companies are everywhere.</p><img src=\"https://media.simplywall.st/news/1732588370490-glasses.png\" alt=\"Jake_Merritt\"/><p>The best EM bet might be the AI companies. Most emerging markets will consume this rather than build the frontier layer, and consuming it is where the real economic gain is. Leapfrogging to AI-delivered services without the legacy infrastructure is a bigger jump than upgrading existing systems. The benefit accrues locally, the earnings accrue to the supplier.</p><img src=\"https://images.simplywall.st/asset/user/e1aa9f3d.1784784950527.3dc45fab5fa86af0.png\"/>Alegget<h3>Where to invest when populations stop growing</h3><img src=\"https://simplywall.st/cdn-cgi/image/width=360,height=200,fit=cover,format=auto/https://images.simplywall.st/asset/article-cover/21496/1790290980251.jpg\" alt=\"Where to invest when populations stop growing cover\"/><h3>About NasdaqGS:MCHP</h3><h4>Microchip Technology</h4><p>Develops, manufactures, and sells smart, connected, and secure embedded control solutions in the Americas, Europe, and Asia.</p><p>Reasonable growth potential with adequate balance sheet and pays a dividend.</p><h3>Similar Companies</h3><h3>Market Insights</h3><img src=\"https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/e1aa9f3d.1784784950527.3dc45fab5fa86af0.png\" alt=\"Alegget\"/><img src=\"https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/d37455ab.1780227746571.251073cdff8896d0.png\" alt=\"mitchell_lawler\"/><img src=\"https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/e1aa9f3d.1784784950527.3dc45fab5fa86af0.png\" alt=\"Alegget\"/><h3>Weekly Picks</h3><img src=\"https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/a121bd93.1776643645515.f461b06006d7f6f3.png\" alt=\"Ceazar\"/><h4>Under the radar: This $78M stock controls a $1.5B project and it’ll start producing in a few months</h4><img src=\"https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://media.simplywall.st/news/1721008721705-Timo-profile-picutre.jpg\" alt=\"Tokyo\"/><h4>EU#2 - From Humble Beginnings to Global Powerhouse</h4><img src=\"https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/704d25c2.1788202459867.7061ed676275c92c.png\" alt=\"HarishPK\"/><h4>Decision Making Under Ambiguity – A Case Study on Expectations Investing</h4><img src=\"https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/27240ab7.1786231458296.e7696434151668e4.png\" alt=\"RedCandleRx\"/><h4>Why the Market Still Misprices AppLovin as Just a Gaming Network</h4><h3>Recently Updated Narratives</h3><h4>CoTec Holdings, REE magnet player in the making</h4><img src=\"https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/3a526557.1769870367940.716ae0c8e0b06246.png\" alt=\"Composite_Research\"/><h4>BIPC: A strategic player in the energy crisis, a hybrid of Utility and Digital REIT.</h4><img src=\"https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/ffc66f68.1787218831031.4fad7e8c92104a68.png\" alt=\"TheInternationalInvestor\"/><h4>Hotel101 Global: A Scalable Hospitality Platform Built to Compound</h4><h3>Popular Narratives</h3><img src=\"https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/6236d9ff.1744096362358.09df9a35fe37bf47.jpg\" alt=\"AnalystConsensusTarget\"/><h4>NVDA: Expanding AI Demand Will Drive Major Data Center Investments Through 2026</h4><img src=\"https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/6236d9ff.1744096362358.09df9a35fe37bf47.jpg\" alt=\"AnalystConsensusTarget\"/><h4>AI Demand Must Outrun Infrastructure Buildout</h4><img src=\"https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/6236d9ff.1744096362358.09df9a35fe37bf47.jpg\" alt=\"AnalystConsensusTarget\"/></body>\n</html>",
+      "word_count": 1026,
+      "char_count": 6712,
+      "lead_image": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=48,h=48,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/d37455ab.1780227746571.251073cdff8896d0.png",
+      "images": [
+        {
+          "url": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=48,h=48,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/d37455ab.1780227746571.251073cdff8896d0.png",
+          "alt": "mitchell_lawler",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://images.simplywall.st/asset/user/d6a38a84.1785242782948.b3de7e5d615da6aa.png",
+          "alt": "artoflosing",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://media.simplywall.st/news/1732588370490-glasses.png",
+          "alt": "Jake_Merritt",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://images.simplywall.st/asset/user/e1aa9f3d.1784784950527.3dc45fab5fa86af0.png",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/e1aa9f3d.1784784950527.3dc45fab5fa86af0.png",
+          "alt": "Alegget",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/d37455ab.1780227746571.251073cdff8896d0.png",
+          "alt": "mitchell_lawler",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/a121bd93.1776643645515.f461b06006d7f6f3.png",
+          "alt": "Ceazar",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://media.simplywall.st/news/1721008721705-Timo-profile-picutre.jpg",
+          "alt": "Tokyo",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/704d25c2.1788202459867.7061ed676275c92c.png",
+          "alt": "HarishPK",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/27240ab7.1786231458296.e7696434151668e4.png",
+          "alt": "RedCandleRx",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/3a526557.1769870367940.716ae0c8e0b06246.png",
+          "alt": "Composite_Research",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=64,h=64,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/user/ffc66f68.1787218831031.4fad7e8c92104a68.png",
+          "alt": "TheInternationalInvestor",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 12,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-27T17:26:11Z"
+    },
+    {
+      "id": "f954d5441af4aa55",
+      "title": "Meta’s Muse Moment",
+      "header": "WSJ",
+      "published_at": "2026-09-27T14:55:00Z",
+      "published_raw": "Sun, 27 Sep 2026 14:55:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RVEFuOGY0ZTdaX2tycHVJTjU0a2FZV25xYkg5VktBLWpYOFBaSE1zcW9xbldNQVFJVlkxY3pzTDlHaWY3eXhuVXBfWnJKRTg5UHgxeDJ5UEZRTXRIVkFmSFNNRUc?oc=5",
+      "description": "Meta’s Muse Moment WSJ",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RVEFuOGY0ZTdaX2tycHVJTjU0a2FZV25xYkg5VktBLWpYOFBaSE1zcW9xbldNQVFJVlkxY3pzTDlHaWY3eXhuVXBfWnJKRTg5UHgxeDJ5UEZRTXRIVkFmSFNNRUc?oc=5\" target=\"_blank\">Meta’s Muse Moment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RVEFuOGY0ZTdaX2tycHVJTjU0a2FZV25xYkg5VktBLWpYOFBaSE1zcW9xbldNQVFJVlkxY3pzTDlHaWY3eXhuVXBfWnJKRTg5UHgxeDJ5UEZRTXRIVkFmSFNNRUc?oc=5"
+      ],
+      "scraped_at": "2026-09-27T17:26:09Z",
+      "url": "https://www.wsj.com/tech/ai/metas-muse-moment-4c49ac0e",
+      "final_url": "https://www.wsj.com/tech/ai/metas-muse-moment-4c49ac0e",
+      "source": "WSJ",
+      "article_title": "",
+      "heading": "Meta’s Muse Moment",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Meta’s Muse Moment WSJ",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-27T17:26:09Z"
+    },
     {
       "id": "b5ab8bdf8ea4e0ca",
       "title": "Opinion: Technology and modern man’s Tower of Babel",
@@ -24,7 +294,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc3JzMGJFcjJ2Qkd4ZXp4T2lQSU1ubFo2dzJVSEQ0OEFqM2NWQktMbnJQM0lHSnd0NmdJNHRrd0lXd0RhX3ZpalN2ZG9iRktZZnZsWS1vR25ieC1NQWhPNXdwM0xvZXVPWTVyNTRyMlRaTmhuTkZoYXJMeDh1ZHlwUW5qcTMxLVE?oc=5"
       ],
-      "scraped_at": "2026-09-27T12:41:08Z",
+      "scraped_at": "2026-09-27T17:26:09Z",
       "url": "https://thealabamabaptist.org/opinion-technology-and-modern-mans-tower-of-babel/",
       "final_url": "https://thealabamabaptist.org/podcast/amplify-for-april-5-2021/",
       "source": "The Alabama Baptist",
@@ -94,6 +364,40 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-27T12:41:09Z"
+    },
+    {
+      "id": "7620167552a11ffe",
+      "title": "Some Dallas Officials Want More Guardrails Around New Technologies",
+      "header": "CandysDirt.com",
+      "published_at": "2026-09-27T11:45:44Z",
+      "published_raw": "Sun, 27 Sep 2026 11:45:44 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc1FmejBONGp1VlBmWkI5YW9WVm5MSlBkLVI2WEI4T1pKRTRERnB6eVAwVHFwYTdQZkVKZVJuaGo5RjNpQkhNWU9ES1RrNXBPRFJpb09tUFp1azNrODhzOTV5RE4wbi0wRmVlNnF5Y2V1aURCd1VLbUtReUNfYUV0UEdMd1MwQXdtTEtUZkFudDlYNXBrME0xMmQtR2I1V0tnTW9V?oc=5",
+      "description": "Some Dallas Officials Want More Guardrails Around New Technologies CandysDirt.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNc1FmejBONGp1VlBmWkI5YW9WVm5MSlBkLVI2WEI4T1pKRTRERnB6eVAwVHFwYTdQZkVKZVJuaGo5RjNpQkhNWU9ES1RrNXBPRFJpb09tUFp1azNrODhzOTV5RE4wbi0wRmVlNnF5Y2V1aURCd1VLbUtReUNfYUV0UEdMd1MwQXdtTEtUZkFudDlYNXBrME0xMmQtR2I1V0tnTW9V?oc=5\" target=\"_blank\">Some Dallas Officials Want More Guardrails Around New Technologies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CandysDirt.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc1FmejBONGp1VlBmWkI5YW9WVm5MSlBkLVI2WEI4T1pKRTRERnB6eVAwVHFwYTdQZkVKZVJuaGo5RjNpQkhNWU9ES1RrNXBPRFJpb09tUFp1azNrODhzOTV5RE4wbi0wRmVlNnF5Y2V1aURCd1VLbUtReUNfYUV0UEdMd1MwQXdtTEtUZkFudDlYNXBrME0xMmQtR2I1V0tnTW9V?oc=5"
+      ],
+      "scraped_at": "2026-09-27T17:26:10Z",
+      "url": "https://candysdirt.com/2026/09/27/some-dallas-officials-want-more-guardrails-around-new-technologies/",
+      "final_url": "https://candysdirt.com/2026/09/27/some-dallas-officials-want-more-guardrails-around-new-technologies/",
+      "source": "CandysDirt.com",
+      "article_title": "",
+      "heading": "Some Dallas Officials Want More Guardrails Around New Technologies",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Some Dallas Officials Want More Guardrails Around New Technologies CandysDirt.com",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-27T17:26:10Z"
     },
     {
       "id": "b962950e3a5039dc",
@@ -168,25 +472,25 @@
     {
       "id": "4f3af0783f3a175f",
       "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
-      "header": "nytimes.com",
+      "header": "The New York Times",
       "published_at": "2026-09-27T11:22:48Z",
       "published_raw": "Sun, 27 Sep 2026 11:22:48 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPajQ0bkdBX2JMZzdXbG1BaVM3enFHQUsxVUZhT3V2MUVGdV9fck5tTDRlbjA1TWpPR003NFgtYUh2d0UxNnk4VXVpNWVQbkJKT3ViR0pLcjZ6OVhlTk9xbEtyelcxcHJna1NEeWhGSlYwb0pQd2pMT3ZNdXRkNlVqMQ?oc=5",
-      "description": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind nytimes.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPajQ0bkdBX2JMZzdXbG1BaVM3enFHQUsxVUZhT3V2MUVGdV9fck5tTDRlbjA1TWpPR003NFgtYUh2d0UxNnk4VXVpNWVQbkJKT3ViR0pLcjZ6OVhlTk9xbEtyelcxcHJna1NEeWhGSlYwb0pQd2pMT3ZNdXRkNlVqMQ?oc=5\" target=\"_blank\">As A.I. Accelerates, Governments Are Increasingly Being Left Behind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
+      "description": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind The New York Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPajQ0bkdBX2JMZzdXbG1BaVM3enFHQUsxVUZhT3V2MUVGdV9fck5tTDRlbjA1TWpPR003NFgtYUh2d0UxNnk4VXVpNWVQbkJKT3ViR0pLcjZ6OVhlTk9xbEtyelcxcHJna1NEeWhGSlYwb0pQd2pMT3ZNdXRkNlVqMQ?oc=5\" target=\"_blank\">As A.I. Accelerates, Governments Are Increasingly Being Left Behind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMigAFBVV95cUxPajQ0bkdBX2JMZzdXbG1BaVM3enFHQUsxVUZhT3V2MUVGdV9fck5tTDRlbjA1TWpPR003NFgtYUh2d0UxNnk4VXVpNWVQbkJKT3ViR0pLcjZ6OVhlTk9xbEtyelcxcHJna1NEeWhGSlYwb0pQd2pMT3ZNdXRkNlVqMQ?oc=5"
       ],
-      "scraped_at": "2026-09-27T12:41:06Z",
+      "scraped_at": "2026-09-27T17:26:09Z",
       "url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
       "final_url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "article_title": "",
       "heading": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
-      "summary": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind nytimes.com",
+      "summary": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind The New York Times",
       "content": "",
       "content_html": "",
       "word_count": 0,
@@ -441,6 +745,40 @@
       "extractor": "bs4",
       "status": "ok",
       "first_seen_at": "2026-09-27T12:41:07Z"
+    },
+    {
+      "id": "38b78ada9965c5a0",
+      "title": "In the age of AI, analog is having a renaissance",
+      "header": "Star Tribune",
+      "published_at": "2026-09-27T10:04:10Z",
+      "published_raw": "Sun, 27 Sep 2026 10:04:10 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDlsOUxzZWFqUGw5bWVXejVval9GNUpBWFE1UTNLWmsza3o3SnBTWVU4cWNtbnk1X0pXeEw5c1VpYU1ZZ0pfU1ZiWllkZWFkM01GVXI2TV9uRTRmcXhLbGl6VzVJVFBON3VsWFJ0ZHNxSGxHVFJkWE5jNkh1dnFNanNzeE1xTEpJTFJmTGx2RW5GWGpELU9oOTNsc1lWdTRZOGVnNlotX3QycVRCb01UNmkxMTZpMUFxdmY2eTlIcGdLVmtMTXc?oc=5",
+      "description": "In the age of AI, analog is having a renaissance Star Tribune",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDlsOUxzZWFqUGw5bWVXejVval9GNUpBWFE1UTNLWmsza3o3SnBTWVU4cWNtbnk1X0pXeEw5c1VpYU1ZZ0pfU1ZiWllkZWFkM01GVXI2TV9uRTRmcXhLbGl6VzVJVFBON3VsWFJ0ZHNxSGxHVFJkWE5jNkh1dnFNanNzeE1xTEpJTFJmTGx2RW5GWGpELU9oOTNsc1lWdTRZOGVnNlotX3QycVRCb01UNmkxMTZpMUFxdmY2eTlIcGdLVmtMTXc?oc=5\" target=\"_blank\">In the age of AI, analog is having a renaissance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Star Tribune</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDlsOUxzZWFqUGw5bWVXejVval9GNUpBWFE1UTNLWmsza3o3SnBTWVU4cWNtbnk1X0pXeEw5c1VpYU1ZZ0pfU1ZiWllkZWFkM01GVXI2TV9uRTRmcXhLbGl6VzVJVFBON3VsWFJ0ZHNxSGxHVFJkWE5jNkh1dnFNanNzeE1xTEpJTFJmTGx2RW5GWGpELU9oOTNsc1lWdTRZOGVnNlotX3QycVRCb01UNmkxMTZpMUFxdmY2eTlIcGdLVmtMTXc?oc=5"
+      ],
+      "scraped_at": "2026-09-27T17:26:09Z",
+      "url": "https://www.startribune.com/dumb-tech-analog-hobbies-nostalgia-small-businesses-target-best-buy-pokemon-lego-knitting/601863814",
+      "final_url": "https://www.startribune.com/dumb-tech-analog-hobbies-nostalgia-small-businesses-target-best-buy-pokemon-lego-knitting/601863814",
+      "source": "Star Tribune",
+      "article_title": "",
+      "heading": "In the age of AI, analog is having a renaissance",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "In the age of AI, analog is having a renaissance Star Tribune",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-27T17:26:09Z"
     },
     {
       "id": "cf6d8d6973a7b988",
@@ -1536,7 +1874,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOXduWFl4SXl1dlNpaDVMVUdxbENVSGFqV3hFYnl2ZE8yTTRNZVAxZFpwTERQZzExTmg1ZG5IdHFtRjg5cUtGaU1pNndEa0UzMzg1YWJWc203ZnVOajF3MUM2RGhQTllJTXRub05McENSTExBQVhQUm1aYlZIN3RyR2RfN1V4cjZ1bktEVjV4bk5WdFowdVZENlhWOE0wU1Y0T25LRk8tbjBFendGaVhNdlp5aUZNWFM4YUhKdzhNNFFLUQ?oc=5"
       ],
-      "scraped_at": "2026-09-27T12:41:06Z",
+      "scraped_at": "2026-09-27T17:26:09Z",
       "url": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
       "final_url": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
       "source": "Reuters",
@@ -2111,16 +2449,16 @@
     {
       "id": "92f6f5782e31431c",
       "title": "Modernizing government technology takes more than faster procurement",
-      "header": "Federal News Network",
+      "header": "federalnewsnetwork.com",
       "published_at": "2026-09-26T01:32:48Z",
       "published_raw": "Sat, 26 Sep 2026 01:32:48 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1JPb0pZMmZRS05JSXFHWFJCRXh0ZXlkSUtjVVJsUzhkMUlQeVFuQWVJUFM1ZjBDbUNLcFp5Q1lQUG1ienc0Z3o0XzJ6QnF3ZFV3a0hUa3VpSDZkZGd3UEZySVBQckFwZVBFa3pMVExjeDN5ZjM3bWVSeWlpc3BOa3pOSzJiaVBqeWVzMDVsVzVNcmtzRmhXYU9JQV81U0xIVlVmdmNDS3Bxa2pBWVUxemlUT1o2ZU9MU0tZRA?oc=5",
-      "description": "Modernizing government technology takes more than faster procurement Federal News Network",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1JPb0pZMmZRS05JSXFHWFJCRXh0ZXlkSUtjVVJsUzhkMUlQeVFuQWVJUFM1ZjBDbUNLcFp5Q1lQUG1ienc0Z3o0XzJ6QnF3ZFV3a0hUa3VpSDZkZGd3UEZySVBQckFwZVBFa3pMVExjeDN5ZjM3bWVSeWlpc3BOa3pOSzJiaVBqeWVzMDVsVzVNcmtzRmhXYU9JQV81U0xIVlVmdmNDS3Bxa2pBWVUxemlUT1o2ZU9MU0tZRA?oc=5\" target=\"_blank\">Modernizing government technology takes more than faster procurement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Federal News Network</font>",
+      "description": "Modernizing government technology takes more than faster procurement federalnewsnetwork.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1JPb0pZMmZRS05JSXFHWFJCRXh0ZXlkSUtjVVJsUzhkMUlQeVFuQWVJUFM1ZjBDbUNLcFp5Q1lQUG1ienc0Z3o0XzJ6QnF3ZFV3a0hUa3VpSDZkZGd3UEZySVBQckFwZVBFa3pMVExjeDN5ZjM3bWVSeWlpc3BOa3pOSzJiaVBqeWVzMDVsVzVNcmtzRmhXYU9JQV81U0xIVlVmdmNDS3Bxa2pBWVUxemlUT1o2ZU9MU0tZRA?oc=5\" target=\"_blank\">Modernizing government technology takes more than faster procurement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">federalnewsnetwork.com</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1JPb0pZMmZRS05JSXFHWFJCRXh0ZXlkSUtjVVJsUzhkMUlQeVFuQWVJUFM1ZjBDbUNLcFp5Q1lQUG1ienc0Z3o0XzJ6QnF3ZFV3a0hUa3VpSDZkZGd3UEZySVBQckFwZVBFa3pMVExjeDN5ZjM3bWVSeWlpc3BOa3pOSzJiaVBqeWVzMDVsVzVNcmtzRmhXYU9JQV81U0xIVlVmdmNDS3Bxa2pBWVUxemlUT1o2ZU9MU0tZRA?oc=5"
       ],
-      "scraped_at": "2026-09-27T12:41:09Z",
+      "scraped_at": "2026-09-27T17:26:11Z",
       "url": "https://federalnewsnetwork.com/contracting/2026/09/modernizing-government-technology-takes-more-than-faster-procurement/",
       "final_url": "https://federalnewsnetwork.com/amtower-off-center/2019/03/amplifying-your-brand-in-the-govcon-market/",
       "source": "FederalNewsNetwork.com",
@@ -24705,323 +25043,6 @@
       "status": "partial",
       "error": "download_failed",
       "first_seen_at": "2026-09-17T23:52:36Z"
-    },
-    {
-      "id": "081aa6266ac7319a",
-      "title": "City of Raleigh Uses Drones, AI Technology to Create Digital Twin",
-      "header": "Dronelife",
-      "published_at": "2026-09-17T22:48:19Z",
-      "published_raw": "Thu, 17 Sep 2026 22:48:19 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjgzMURUVzYyWms3VmU5b2VvZEYtcEhOYktLenByZmlSUFpaZlRoazkxTkF2a3RPMGpKQ3JobkZPSUcxckFPdmVUQWJNZXlBVmlGYzdtT2tkRnpNd2JBVG12ZnpVRnR5LXVVSEJBaFVzdmR5RHVlZ1hRVEV5UnFOUlBoUGdFOThPc05lZW54UzJrdkNZLV9uMVpUVW9iSnM?oc=5",
-      "description": "City of Raleigh Uses Drones, AI Technology to Create Digital Twin Dronelife",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjgzMURUVzYyWms3VmU5b2VvZEYtcEhOYktLenByZmlSUFpaZlRoazkxTkF2a3RPMGpKQ3JobkZPSUcxckFPdmVUQWJNZXlBVmlGYzdtT2tkRnpNd2JBVG12ZnpVRnR5LXVVSEJBaFVzdmR5RHVlZ1hRVEV5UnFOUlBoUGdFOThPc05lZW54UzJrdkNZLV9uMVpUVW9iSnM?oc=5\" target=\"_blank\">City of Raleigh Uses Drones, AI Technology to Create Digital Twin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjgzMURUVzYyWms3VmU5b2VvZEYtcEhOYktLenByZmlSUFpaZlRoazkxTkF2a3RPMGpKQ3JobkZPSUcxckFPdmVUQWJNZXlBVmlGYzdtT2tkRnpNd2JBVG12ZnpVRnR5LXVVSEJBaFVzdmR5RHVlZ1hRVEV5UnFOUlBoUGdFOThPc05lZW54UzJrdkNZLV9uMVpUVW9iSnM?oc=5"
-      ],
-      "scraped_at": "2026-09-17T23:52:37Z",
-      "url": "https://dronelife.com/2026/09/17/city-of-raleigh-uses-drones-ai-technology-to-create-digital-twin/",
-      "final_url": "https://dronelife.com/2026/09/17/city-of-raleigh-uses-drones-ai-technology-to-create-digital-twin/",
-      "source": "DRONELIFE",
-      "article_title": "City of Raleigh Uses Drones, AI Technology to Create Digital Twin",
-      "heading": "City of Raleigh Uses Drones, AI Technology to Create Digital Twin",
-      "authors": [
-        "Jim Magill"
-      ],
-      "article_published_at": "2026-09-17T22:24:12+00:00",
-      "article_modified_at": null,
-      "summary": "Raleigh deploys drones and AI to build a city digital twin for traffic planning, tree preservation, and community storytelling.",
-      "content": "The city of Raleigh, North Carolina is deploying drones and artificial-intelligence (AI)-enabled tools to create a virtual version of itself to meet the urban challenges of today and to help chart the future of the fast-growing metropolis.\nLong recognized as the hub of the state’s high-tech Research Triangle region, Raleigh has worked with tech industry partners Esri, NVIDIA and Microsoft to create a digital twin of the city, to help deal with challenges such as traffic management and urban development planning.\n“We do a citizen survey every two years and ask citizens all sorts of questions about their priorities and concerns. Development and traffic come up as the top two pretty regularly,” Jim Alberque, the city’s geographic information system (GIS) and emerging technology manager, said in an interview.\n“I think the benefit of the digital twin, what it’s given the city in our ability to communicate with our community, is that we don’t have to tell you the story, we can show you the story of the city,” Alberque said.\nDrone Data Powers Planning for Parks, Events, and Tree Preservation\nOne of the city’s most recent uses of the drone-captured data was to aid in the development of Gipson Play Plaza, an 18.5-acre major recreational and community gathering destination located within the 300-acre Dorothea Dix Park.\n“We did flights of that to be able to get generate 3D mesh and (orthographic images), to be able to show what that park was like, to be able to communicate that and tell that story,” said Jeff Dawson, the city’s technology and analytics manager.\nHe added that city officials are exploring how to leverage the digital-twin technology for use in event planning, to ensure that the physical space selected at a given site is adequate to accommodate the event’s needs without having to rely on estimates or saying “we probably have space for a tent there.”\nAnother application of the technology helps the city’s facility planners to site the construction of future buildings in such a way that the greatest number of stately trees are preserved. “Trees are very big in Raleigh; the ‘City of Oaks,'” Dawson said.\nWorking on the cutting edge of technology, Raleigh is also starting to incorporate other types of data-collection devices that it currently employs, to contribute to the construction of a virtual clone of the entire city. “We’re to take some of our traditional (Internet of Things) devices, so sensors that we have out in the community — whether that be cameras or things that are in motion, so scooters or vehicles — and starting to incorporate those into this digital twin to get a much more high-fidelity view,” he said.\nEarly Adopter of Drones\nThe city of Raleigh was an early adopter of drone technology, with the Parks Department starting its first drone program in 2018. The information technology (IT) department began its own drone program about two years ago.\nDawson said the city has taken a decentralized approach in its drone usage.\n“We have drones in IT, in Raleigh Parks and Raleigh Water, and then the police department has a large fleet of drones,” he said. “They’re more on their own, because of the law enforcement nature of it, it’s a little bit different from how the rest of us are operating.”\nTo create the digital twin project, the city basically relies on four drones, three U.S.-made Freefly Astros and one Mavic product. Dawson said that about two years ago, faced with the possibility of federal bans on the use of Chinese-made drones, Raleigh officials made the decision to gradually replace its existing drone fleet with NDAA-compliant products such as the Astro.\n“It was an end-of-life thing. We were looking for something that was Blue Listed and that’s when we came across the Astro and started heading down that route, and then adopted them across the board,” he said.\nNovel Use of AI Technology\nAlberque said the city, with its roots in the tech-savvy Research Triangle, also was among the first communities in the country to fully embrace the use of AI technology.\n“We use standard operations to capture imagery. We then take that imagery and use Esri technology to create derivative products,” he said. Those derivative products might be orthophotos or 3D meshes. “So, obviously there’s a bunch of AI on board.”\nWhen the city first launched the digital-twin project, city leaders decided that, as one of the fastest-growing cities in the country, the earliest use of the technology should be centered around modeling the future urban form of the city.\n“What does the city look like today? What is it going to look like tomorrow? And what might it look like in a year?” Alberque asked.\nAs the digital twin project evolved, city leaders found additional uses for the technology, such as micro-weather modeling. “We’re working with a firm around doing some micro-weather modeling that takes into effect climate data, wind patterns, those sorts of things, but also using the urban-built environment to model ventilation corridors and wind patterns,” he said.\nBut perhaps the most innovative use to which the city has put the technology is in using the digital twin to help illustrate the story of Raleigh.\n“We found that it’s a really valuable tool to do storytelling,” Alberque said. “We’re leveraging GIS as a platform for our digital twin. We can then incorporate other data and use that as a platform for storytelling, whether that be around some environmental-modeling things or some operational things related to our transit service.”\nRead More\n-\nSkyDrive and Verty Target Commercial eVTOL Operations in South Korea by 2028\n-\nSkyeBrowse Moves to Per-Model Pricing, Lowering the Barrier to 3D Drone Mapping\n-\nFrom Maps to Operational Intelligence: How Defense Is Changing the Mapping Workflow\nJim Magill is a Houston-based writer with almost a quarter-century of experience covering technical and economic developments in the oil and gas industry. After retiring in December 2019 as a senior editor with S&P Global Platts, Jim began writing about emerging technologies, such as artificial intelligence, robots and drones, and the ways in which they’re contributing to our society. In addition to DroneLife, Jim is a contributor to Forbes.com and his work has appeared in the Houston Chronicle, U.S. News & World Report, and Unmanned Systems, a publication of the Association for Unmanned Vehicle Systems International",
-      "content_html": "<html>\n  <body>\n    <p>The city of Raleigh, North Carolina is deploying drones and artificial-intelligence (AI)-enabled tools to create a virtual version of itself to meet the urban challenges of today and to help chart the future of the fast-growing metropolis.</p>\n    <p>Long recognized as the hub of the state’s high-tech Research Triangle region, Raleigh has worked with tech industry partners Esri, NVIDIA and Microsoft to create a digital twin of the city, to help deal with challenges such as traffic management and urban development planning.</p>\n    <p>“We do a citizen survey every two years and ask citizens all sorts of questions about their priorities and concerns. Development and traffic come up as the top two pretty regularly,” Jim Alberque, the city’s geographic information system (GIS) and emerging technology manager, said in an interview.</p>\n    <p>“I think the benefit of the digital twin, what it’s given the city in our ability to communicate with our community, is that we don’t have to tell you the story, we can show you the story of the city,” Alberque said.</p>\n    <h2>Drone Data Powers Planning for Parks, Events, and Tree Preservation</h2>\n    <p>One of the city’s most recent uses of the drone-captured data was to aid in the development of Gipson Play Plaza, an 18.5-acre major recreational and community gathering destination located within the 300-acre Dorothea Dix Park.</p>\n    <p>“We did flights of that to be able to get generate 3D mesh and (orthographic images), to be able to show what that park was like, to be able to communicate that and tell that story,” said Jeff Dawson, the city’s technology and analytics manager.</p>\n    <p>He added that city officials are exploring how to leverage the digital-twin technology for use in event planning, to ensure that the physical space selected at a given site is adequate to accommodate the event’s needs without having to rely on estimates or saying “we probably have space for a tent there.”</p>\n    <p>Another application of the technology helps the city’s facility planners to site the construction of future buildings in such a way that the greatest number of stately trees are preserved. “Trees are very big in Raleigh; the ‘City of Oaks,'” Dawson said.</p>\n    <p>Working on the cutting edge of technology, Raleigh is also starting to incorporate other types of data-collection devices that it currently employs, to contribute to the construction of a virtual clone of the entire city. “We’re to take some of our traditional (Internet of Things) devices, so sensors that we have out in the community — whether that be cameras or things that are in motion, so scooters or vehicles — and starting to incorporate those into this digital twin to get a much more high-fidelity view,” he said.</p>\n    <h2>Early Adopter of Drones</h2>\n    <p>The city of Raleigh was an early adopter of drone technology, with the Parks Department starting its first drone program in 2018. The information technology (IT) department began its own drone program about two years ago.</p>\n    <p>Dawson said the city has taken a decentralized approach in its drone usage.</p>\n    <p>“We have drones in IT, in Raleigh Parks and Raleigh Water, and then the police department has a large fleet of drones,” he said. “They’re more on their own, because of the law enforcement nature of it, it’s a little bit different from how the rest of us are operating.”</p>\n    <p>To create the digital twin project, the city basically relies on four drones, three U.S.-made Freefly Astros and one Mavic product. Dawson said that about two years ago, faced with the possibility of federal bans on the use of Chinese-made drones, Raleigh officials made the decision to gradually replace its existing drone fleet with NDAA-compliant products such as the Astro.</p>\n    <p>“It was an end-of-life thing. We were looking for something that was Blue Listed and that’s when we came across the Astro and started heading down that route, and then adopted them across the board,” he said.</p>\n    <h2>Novel Use of AI Technology</h2>\n    <p>Alberque said the city, with its roots in the tech-savvy Research Triangle, also was among the first communities in the country to fully embrace the use of AI technology.</p>\n    <p>“We use standard operations to capture imagery. We then take that imagery and use Esri technology to create derivative products,” he said. Those derivative products might be orthophotos or 3D meshes. “So, obviously there’s a bunch of AI on board.”</p>\n    <p>When the city first launched the digital-twin project, city leaders decided that, as one of the fastest-growing cities in the country, the earliest use of the technology should be centered around modeling the future urban form of the city.</p>\n    <p>“What does the city look like today? What is it going to look like tomorrow? And what might it look like in a year?” Alberque asked.</p>\n    <p>As the digital twin project evolved, city leaders found additional uses for the technology, such as micro-weather modeling. “We’re working with a firm around doing some micro-weather modeling that takes into effect climate data, wind patterns, those sorts of things, but also using the urban-built environment to model ventilation corridors and wind patterns,” he said.</p>\n    <p>But perhaps the most innovative use to which the city has put the technology is in using the digital twin to help illustrate the story of Raleigh.</p>\n    <p>“We found that it’s a really valuable tool to do storytelling,” Alberque said. “We’re leveraging GIS as a platform for our digital twin. We can then incorporate other data and use that as a platform for storytelling, whether that be around some environmental-modeling things or some operational things related to our transit service.”</p>\n    <h2>Read More</h2>\n    <ul>\n      <li>\n<p>SkyDrive and Verty Target Commercial eVTOL Operations in South Korea by 2028</p></li>\n      <li>\n<p>SkyeBrowse Moves to Per-Model Pricing, Lowering the Barrier to 3D Drone Mapping</p></li>\n      <li>\n<p>From Maps to Operational Intelligence: How Defense Is Changing the Mapping Workflow</p></li>\n    </ul>\n    <img src=\"https://dronelife.com/wp-content/uploads/2026/06/jimmcgill.jpg\"/>\n    <p>Jim Magill is a Houston-based writer with almost a quarter-century of experience covering technical and economic developments in the oil and gas industry. After retiring in December 2019 as a senior editor with S&amp;P Global Platts, Jim began writing about emerging technologies, such as artificial intelligence, robots and drones, and the ways in which they’re contributing to our society. In addition to DroneLife, Jim is a contributor to Forbes.com and his work has appeared in the Houston Chronicle, U.S. News &amp; World Report, and Unmanned Systems, a publication of the Association for Unmanned Vehicle Systems International</p>\n  </body>\n</html>",
-      "word_count": 1055,
-      "char_count": 6394,
-      "lead_image": "https://dronelife.com/wp-content/uploads/2026/09/48450938111_d094b1b49d_b-e1789683806617.jpg",
-      "images": [
-        {
-          "url": "https://dronelife.com/wp-content/uploads/2026/09/48450938111_d094b1b49d_b-e1789683806617.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-17T23:52:37Z"
-    },
-    {
-      "id": "0efae39b4f2b2520",
-      "title": "TPA upgrades parking garage technology",
-      "header": "Yahoo",
-      "published_at": "2026-09-17T21:39:34Z",
-      "published_raw": "Thu, 17 Sep 2026 21:39:34 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1JHeWxuVDdBRGNMdExpdDhiNXdOU0h1TE53cmc3M2ZrVDdQWEV2MFhNR2g4bU13Qmx1b2QwaWRMS0tFS2VEZkZnbFRMWFJUMmM5elI4dURjQ3JVX0ozcGZuZS1qNGxGbjRIR2VuWThJY3NieFoxY29lVjlBV0tObmltU2ZOM0FXV1I3eW1GLTk?oc=5",
-      "description": "TPA upgrades parking garage technology Yahoo",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1JHeWxuVDdBRGNMdExpdDhiNXdOU0h1TE53cmc3M2ZrVDdQWEV2MFhNR2g4bU13Qmx1b2QwaWRMS0tFS2VEZkZnbFRMWFJUMmM5elI4dURjQ3JVX0ozcGZuZS1qNGxGbjRIR2VuWThJY3NieFoxY29lVjlBV0tObmltU2ZOM0FXV1I3eW1GLTk?oc=5\" target=\"_blank\">TPA upgrades parking garage technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1JHeWxuVDdBRGNMdExpdDhiNXdOU0h1TE53cmc3M2ZrVDdQWEV2MFhNR2g4bU13Qmx1b2QwaWRMS0tFS2VEZkZnbFRMWFJUMmM5elI4dURjQ3JVX0ozcGZuZS1qNGxGbjRIR2VuWThJY3NieFoxY29lVjlBV0tObmltU2ZOM0FXV1I3eW1GLTk?oc=5"
-      ],
-      "scraped_at": "2026-09-17T23:52:35Z",
-      "url": "https://www.yahoo.com/news/videos/tpa-upgrades-parking-garage-technology-213934898.html",
-      "final_url": "https://www.yahoo.com/news/videos/tpa-upgrades-parking-garage-technology-213934898.html",
-      "source": "Yahoo News",
-      "article_title": "TPA upgrades parking garage technology",
-      "heading": "TPA upgrades parking garage technology",
-      "authors": [
-        "WTVT"
-      ],
-      "article_published_at": "2026-09-17T21:39:34Z",
-      "article_modified_at": "2026-09-17T21:39:58Z",
-      "summary": "Tampa International Airport is upgrading payment systems in its parking garages. FOX 13's Kylie Jones reports.",
-      "content": "FollowTPA upgrades parking garage technologyWTVTUpdated Thu, September 17, 2026 at 9:39 PM UTCAdd Yahoo as a preferred source to see more of our stories on Google.Tampa International Airport is upgrading payment systems in its parking garages. FOX 13's Kylie Jones reports.",
-      "content_html": "<html>\n  <body>\n    <p>FollowTPA upgrades parking garage technologyWTVTUpdated Thu, September 17, 2026 at 9:39 PM UTCAdd Yahoo as a preferred source to see more of our stories on Google.Tampa International Airport is upgrading payment systems in its parking garages. FOX 13's Kylie Jones reports.</p>\n  </body>\n</html>",
-      "word_count": 41,
-      "char_count": 273,
-      "lead_image": "https://s.yimg.com/lo/mysterio/api/c8bbe005796111714e13ed3cd15707bd4bdac41f5f2462c85ac38a61e813a894/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwtvt_fox_local_videos_372%2F2d494013b4d0e9c2b538c237134b81db.jpg",
-      "images": [
-        {
-          "url": "https://s.yimg.com/lo/mysterio/api/c8bbe005796111714e13ed3cd15707bd4bdac41f5f2462c85ac38a61e813a894/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwtvt_fox_local_videos_372%2F2d494013b4d0e9c2b538c237134b81db.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://s.yimg.com/lo/mysterio/api/7c8830ae1ba6c71b8e329c2b6bef8a5637c81354e60076735b7c52fb51b74e7c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwtvt_fox_local_videos_372%2F2d494013b4d0e9c2b538c237134b81db.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://s.yimg.com/lo/mysterio/api/65940cba2272a9b383a603ab8babec16ff967183de09020ea24616265f942a14/lightyear_networkapi/resizefill_w640%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwtvt_fox_local_videos_372%2F2d494013b4d0e9c2b538c237134b81db.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 3,
-      "extractor": "trafilatura",
-      "status": "partial",
-      "error": "short_text",
-      "first_seen_at": "2026-09-17T23:52:35Z"
-    },
-    {
-      "id": "e067ae10aa0bae2f",
-      "title": "Amex GBT Names Esquibel as Chief Technology Officer",
-      "header": "BTN Business Travel News",
-      "published_at": "2026-09-17T21:31:35Z",
-      "published_raw": "Thu, 17 Sep 2026 21:31:35 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMV9LV19VbWQ1bmpiZnZFRFREaklwS1U3SDhfVlZ1a2Q3QjNFbU9RWDJ5UHJ1eHBiaG5Da2lSSDF1N05zMGtaX2tuZmlCdnhSUzFwNmpsMjh5T2hsRHhxMWFrd1NtQnFNX2ZCaURPMXc2YVhQdGphVUEwa2N4U3R4dnEzZnIxdVlQZ0EzZHN6NVlwYksybWtSNmJpd3ZkUQ?oc=5",
-      "description": "Amex GBT Names Esquibel as Chief Technology Officer BTN Business Travel News",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMV9LV19VbWQ1bmpiZnZFRFREaklwS1U3SDhfVlZ1a2Q3QjNFbU9RWDJ5UHJ1eHBiaG5Da2lSSDF1N05zMGtaX2tuZmlCdnhSUzFwNmpsMjh5T2hsRHhxMWFrd1NtQnFNX2ZCaURPMXc2YVhQdGphVUEwa2N4U3R4dnEzZnIxdVlQZ0EzZHN6NVlwYksybWtSNmJpd3ZkUQ?oc=5\" target=\"_blank\">Amex GBT Names Esquibel as Chief Technology Officer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BTN Business Travel News</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxQMV9LV19VbWQ1bmpiZnZFRFREaklwS1U3SDhfVlZ1a2Q3QjNFbU9RWDJ5UHJ1eHBiaG5Da2lSSDF1N05zMGtaX2tuZmlCdnhSUzFwNmpsMjh5T2hsRHhxMWFrd1NtQnFNX2ZCaURPMXc2YVhQdGphVUEwa2N4U3R4dnEzZnIxdVlQZ0EzZHN6NVlwYksybWtSNmJpd3ZkUQ?oc=5"
-      ],
-      "scraped_at": "2026-09-17T23:52:37Z",
-      "url": "https://www.businesstravelnews.com/Management/Amex-GBT-Names-Esquibel-as-Chief-Technology-Officer",
-      "final_url": "https://www.businesstravelnews.com/Management/Amex-GBT-Names-Esquibel-as-Chief-Technology-Officer",
-      "source": "BTN Business Travel News",
-      "article_title": "",
-      "heading": "Amex GBT Names Esquibel as Chief Technology Officer",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Amex GBT Names Esquibel as Chief Technology Officer BTN Business Travel News",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-17T21:53:07Z"
-    },
-    {
-      "id": "0b7c6eb6eefb5786",
-      "title": "Detroit Fire Department testing technology to turn traffic lights green for fire trucks",
-      "header": "ClickOnDetroit | WDIV Local 4",
-      "published_at": "2026-09-17T21:29:06Z",
-      "published_raw": "Thu, 17 Sep 2026 21:29:06 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZk1IUlVPVWRrMU9yNUxmY0dFMW0xY1d4UWpYUU9nZmVsYm9mYTd5V19pdFV6TE4yUUg0Q1ZaTDQ0dHd6QlZISWpPOFZad0x3NmVmY2NlNXZVd2cxSHpRSTQza21OelBCSzJHNWlNa2NhdmhwSlFCUlo0MmM1bG9VNU5mdXBSNDd5eVlPVVFydlRLMW5NUnZGZG93eDlMMGJ0UUN0UVZjMzRzRFNvLXFXTEpWdHU3UzI4OFhta25aUEEzNWJoZlVDc0pZR0g4d29UUXhlWmJ5dTM?oc=5",
-      "description": "Detroit Fire Department testing technology to turn traffic lights green for fire trucks ClickOnDetroit | WDIV Local 4",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZk1IUlVPVWRrMU9yNUxmY0dFMW0xY1d4UWpYUU9nZmVsYm9mYTd5V19pdFV6TE4yUUg0Q1ZaTDQ0dHd6QlZISWpPOFZad0x3NmVmY2NlNXZVd2cxSHpRSTQza21OelBCSzJHNWlNa2NhdmhwSlFCUlo0MmM1bG9VNU5mdXBSNDd5eVlPVVFydlRLMW5NUnZGZG93eDlMMGJ0UUN0UVZjMzRzRFNvLXFXTEpWdHU3UzI4OFhta25aUEEzNWJoZlVDc0pZR0g4d29UUXhlWmJ5dTM?oc=5\" target=\"_blank\">Detroit Fire Department testing technology to turn traffic lights green for fire trucks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ClickOnDetroit | WDIV Local 4</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZk1IUlVPVWRrMU9yNUxmY0dFMW0xY1d4UWpYUU9nZmVsYm9mYTd5V19pdFV6TE4yUUg0Q1ZaTDQ0dHd6QlZISWpPOFZad0x3NmVmY2NlNXZVd2cxSHpRSTQza21OelBCSzJHNWlNa2NhdmhwSlFCUlo0MmM1bG9VNU5mdXBSNDd5eVlPVVFydlRLMW5NUnZGZG93eDlMMGJ0UUN0UVZjMzRzRFNvLXFXTEpWdHU3UzI4OFhta25aUEEzNWJoZlVDc0pZR0g4d29UUXhlWmJ5dTM?oc=5"
-      ],
-      "scraped_at": "2026-09-17T23:52:35Z",
-      "url": "https://www.clickondetroit.com/video/news/2026/09/17/detroit-fire-department-testing-technology-to-turn-traffic-lights-green-for-fire-trucks/",
-      "final_url": "https://www.clickondetroit.com/video/news/2026/09/17/detroit-fire-department-testing-technology-to-turn-traffic-lights-green-for-fire-trucks/",
-      "source": "WDIV",
-      "article_title": "Detroit Fire Department testing technology to turn traffic lights green for fire trucks",
-      "heading": "Go to the WDIV homepage",
-      "authors": [],
-      "article_published_at": "2026-09-17T21:08:08.000Z",
-      "article_modified_at": "2026-09-17T21:29:06.000Z",
-      "summary": "Fire trucks race through intersections every day to put out fires or help get someone to a hospital. The Detroit Fire Department is now testing technology that will trigger green lights to switch on when a truck comes through an intersection.\n\n\nRead: https://www.clickondetroit.com/news/local/2026/09/17/detroit-fire-department-testing-technology-to-turn-traffic-lights-green-for-fire-trucks/",
-      "content": "NEWS\nDetroit Fire Department testing technology to turn traffic lights green for fire trucks\nFire trucks race through intersections every day to put out fires or help get someone to a hospital. The Detroit Fire Department is now testing technology that will trigger green lights to switch on when a truck comes through an intersection. Read: https://www.clickondetroit.com/news/local/2026/09/17/detroit-fire-department-testing-technology-to-turn-traffic-lights-green-for-fire-trucks/",
-      "content_html": "<html>\n  <body>\n    <h3>NEWS</h3>\n    <h1>Detroit Fire Department testing technology to turn traffic lights green for fire trucks</h1>\n    <p>Fire trucks race through intersections every day to put out fires or help get someone to a hospital. The Detroit Fire Department is now testing technology that will trigger green lights to switch on when a truck comes through an intersection. Read: https://www.clickondetroit.com/news/local/2026/09/17/detroit-fire-department-testing-technology-to-turn-traffic-lights-green-for-fire-trucks/</p>\n  </body>\n</html>",
-      "word_count": 57,
-      "char_count": 483,
-      "lead_image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/wdiv/32e4c907-6fe8-4ef4-b5d4-fa3e03a4137f/image.jpg?api_key=clickondetroit_06f87fefb2123598",
-      "images": [
-        {
-          "url": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/wdiv/32e4c907-6fe8-4ef4-b5d4-fa3e03a4137f/image.jpg?api_key=clickondetroit_06f87fefb2123598",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "partial",
-      "error": "short_text",
-      "first_seen_at": "2026-09-17T23:52:35Z"
-    },
-    {
-      "id": "2282bcfbf4fe0897",
-      "title": "Detroit Fire Department testing technology to turn traffic lights green for fire trucks",
-      "header": "ClickOnDetroit | WDIV Local 4",
-      "published_at": "2026-09-17T20:54:06Z",
-      "published_raw": "Thu, 17 Sep 2026 20:54:06 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVmt5Y091WTdOY0phXzdkRlBQdGdkSmFkZmU4ZmZnT29teWZCQWVNYzJnX2F4SlZRMExVR2VXOVhSaGxqRlZLWnFSN3h1bUlmSG5xc29kMmFxTDdQRGlBcFZobEFodXE5emt5MUdld0JIaWZncTlGamQzU3hMSlJYRnNwaTJTQ0ZFZV9BZXh2b3UyN29YNUlMWGIxM0doNHp6UEh4bFZkOHkxVENFcThVQU5IU25pdF9LRkh6RXNtZkdFOTVqOUtZTUdsd0k5cnhXWlB1TkZrcVk?oc=5",
-      "description": "Detroit Fire Department testing technology to turn traffic lights green for fire trucks ClickOnDetroit | WDIV Local 4",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVmt5Y091WTdOY0phXzdkRlBQdGdkSmFkZmU4ZmZnT29teWZCQWVNYzJnX2F4SlZRMExVR2VXOVhSaGxqRlZLWnFSN3h1bUlmSG5xc29kMmFxTDdQRGlBcFZobEFodXE5emt5MUdld0JIaWZncTlGamQzU3hMSlJYRnNwaTJTQ0ZFZV9BZXh2b3UyN29YNUlMWGIxM0doNHp6UEh4bFZkOHkxVENFcThVQU5IU25pdF9LRkh6RXNtZkdFOTVqOUtZTUdsd0k5cnhXWlB1TkZrcVk?oc=5\" target=\"_blank\">Detroit Fire Department testing technology to turn traffic lights green for fire trucks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ClickOnDetroit | WDIV Local 4</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVmt5Y091WTdOY0phXzdkRlBQdGdkSmFkZmU4ZmZnT29teWZCQWVNYzJnX2F4SlZRMExVR2VXOVhSaGxqRlZLWnFSN3h1bUlmSG5xc29kMmFxTDdQRGlBcFZobEFodXE5emt5MUdld0JIaWZncTlGamQzU3hMSlJYRnNwaTJTQ0ZFZV9BZXh2b3UyN29YNUlMWGIxM0doNHp6UEh4bFZkOHkxVENFcThVQU5IU25pdF9LRkh6RXNtZkdFOTVqOUtZTUdsd0k5cnhXWlB1TkZrcVk?oc=5"
-      ],
-      "scraped_at": "2026-09-17T21:53:05Z",
-      "url": "https://www.clickondetroit.com/news/local/2026/09/17/detroit-fire-department-testing-technology-to-turn-traffic-lights-green-for-fire-trucks/",
-      "final_url": "https://www.clickondetroit.com/news/local/2026/09/17/detroit-fire-department-testing-technology-to-turn-traffic-lights-green-for-fire-trucks/",
-      "source": "WDIV",
-      "article_title": "Detroit Fire Department testing technology to turn traffic lights green for fire trucks",
-      "heading": "Detroit Fire Department testing technology to turn traffic lights green for fire trucks",
-      "authors": [
-        "Jay Scott Smith",
-        "Joel Deaner"
-      ],
-      "article_published_at": "2026-09-17T20:54:06.573Z",
-      "article_modified_at": "2026-09-17T21:44:33.79Z",
-      "summary": "Fire trucks race through intersections every day to put out fires or help get someone to a hospital.  The Detroit Fire Department is now testing technology that will trigger green lights to switch on when a truck comes through an intersection.",
-      "content": "Local News\n\nThe goal, if the pilot program succeeds, is to eventually equip EMS and police vehicles\n\nJay Scott Smith , Anchor/Reporter\n\nJoel Deaner , Photojournalist\n\nDETROIT – Fire trucks race through intersections every day to put out fires or help get someone to a hospital.\n\nThe Detroit Fire Department is now testing technology that will trigger green lights to switch on when a truck comes through an intersection.\n\n“With this technology, it should make [response time] quicker,” Chief David Nelson said on Thursday. “Anytime that we get to a run quicker, it’s better for our citizens.”\n\nIt’s part of a 90-day pilot program centered in Corktown, and the technology is being provided through Miovision.\n\nThe lights trigger whenever a truck gets to an intersection with its lights and/or sirens on.\n\nThe goal, if the pilot program succeeds, is to eventually equip EMS and police vehicles.\n\nMiovision has been working with the city of Detroit, along with Haas Alerts.\n\nThe latter company has also developed technology to alert cars of emergency vehicles entering intersections.\n\nNelson stressed the importance of quicker response times and noted that getting to a green light can make all the difference.\n\n“If it’s green and we have that oncoming traffic already stopped, that gives us those extra seconds to maybe save a life,” he said. “In this business, seconds are important.”\n\nThe technology is not just meant to add speed, but also safety.\n\nAccording to the Michigan Office of Highway Planning , emergency vehicles were involved in more than 2,600 crashes in 2025. Of those crashes:\n\n- 1,937 were police vehicles.\n\n- 419 were ambulances.\n\n- 255 were fire vehicles\n\nTwo of the crashes were fatal. Miovision has already run similar programs in Texas and Tennessee and seen an improvement in response time and a decrease in accidents.\n\nThe program began last month and is slated to run through the month of November.\n\nCopyright 2026 by WDIV ClickOnDetroit - All rights reserved.\n\n- Jay Scott Smith headshot Jay Scott Smith Jay Scott Smith is an award-winning veteran broadcaster, journalist, anchor, and writer with more than 20 years of professional experience. But above all, he is proud to be from Detroit.\n\nJay Scott Smith is an award-winning veteran broadcaster, journalist, anchor, and writer with more than 20 years of professional experience. But above all, he is proud to be from Detroit.\n\n- Joel Deaner",
-      "content_html": "<main aria-label=\"Main Page Content\" class=\"sc-dLMFU PNlbn wrapper\"><section class=\"sc-dLMFU sc-ikkxIA fqGguu hzZxWa article\" role=\"main\"><section class=\"sc-dLMFU lgPvqs top-wide\"><div class=\"sc-dLMFU sc-hmdomO hGGVAc iYuWzA floatingWrapper\"><div class=\"sc-dLMFU sc-hmdomO fmMdKh iYuWzA\"></div></div><div aria-label=\"Advertisement\" class=\"sc-dLMFU sc-hmdomO bGDCOI adWrapper\"></div></section><section class=\"sc-dLMFU fMlTVr mainContent\" id=\"main-content\" tabindex=\"-1\"><div class=\"sc-dLMFU FUrUJ articleInfo\"><h4 class=\"sc-dLMFU sc-koXPp BqSoq\"><span class=\"sc-bmzYkS gaevent\"><a gaaction=\"Section Link\" gacategory=\"Article Rail\" galabel=\"Local News\" href=\"/news/local\">Local News</a></span></h4></div><article class=\"sc-dLMFU sc-eDPEul eDiCGy AlnLs story\"><div class=\"sc-dLMFU sc-eDPEul fTugsw ebTFZB\"><h1 class=\"sc-dLMFU sc-koXPp gKDeqd headline\">Detroit Fire Department testing technology to turn traffic lights green for fire trucks</h1><h2 class=\"sc-dLMFU sc-koXPp hbjVfX subheadline\">The goal, if the pilot program succeeds, is to eventually equip EMS and police vehicles</h2></div><div class=\"sc-dLMFU sc-eDPEul fZkTOg egxwAv metadata\"><div class=\"sc-dLMFU sc-eDPEul gFeYkf ebTFZB byline\"><p class=\"sc-dLMFU sc-fHjqPf dESyKD author\"><span class=\"sc-bmzYkS iSkMpe gaevent\"><a gaaction=\"Author Link\" gacategory=\"Article Rail\" galabel=\"Jay Scott Smith\" gavalue=\"0\" href=\"/team/jayscottsmith/\" title=\"View Jay Scott Smith's author page\">Jay Scott Smith</a></span>, Anchor/Reporter</p><p class=\"sc-dLMFU sc-fHjqPf dESyKD author\"><span class=\"sc-bmzYkS iSkMpe gaevent\"><a gaaction=\"Author Link\" gacategory=\"Article Rail\" galabel=\"Joel Deaner\" gavalue=\"1\" href=\"/team/jdeaner/\" title=\"View Joel Deaner's author page\">Joel Deaner</a></span>, Photojournalist</p></div><div class=\"sc-dLMFU hEUTEz time\"><time class=\"sc-dLMFU sc-fHjqPf jPLEjo\" datetime=\"2026-09-17T20:54:06.573Z\">Published: <span class=\"sc-dLMFU sc-fHjqPf loostD\"><time datetime=\"2026-09-17T20:54:06.573Z\">September 17, 2026 at 4:54 PM</time></span></time><time class=\"sc-dLMFU sc-fHjqPf jPLEjo\" datetime=\"2026-09-17T21:44:33.79Z\">Updated: <span class=\"sc-dLMFU sc-fHjqPf loostD\"><time datetime=\"2026-09-17T21:44:33.790Z\">September 17, 2026 at 5:44 PM</time></span></time></div></div><div class=\"sc-dLMFU sc-eDPEul eOcdcT egxwAv basicStory\"><div><div class=\"sc-dLMFU fexJCk full-width\"><div class=\"sc-dLMFU fuvjKe\" data-exco-player-mount=\"true\" data-exco-player-mount-fill=\"true\" id=\"exco-player-00049331-0fb3-47f5-b361-20eb1cd45f79-_R_f5pme_\"></div></div></div><div class=\"bcdialogue\"></div><section class=\"sc-dLMFU sc-eDPEul eZIVnS egxwAv articleBody\" itemprop=\"articleBody\"><div class=\"mobileOnly\"></div><p class=\"sc-dLMFU sc-fHjqPf jbiTJv kYFPaL article-text\"><strong>DETROIT</strong> – Fire trucks race through intersections every day to put out fires or help get someone to a hospital. </p><p class=\"sc-dLMFU sc-fHjqPf jbiTJv kYFPaL article-text\">The Detroit Fire Department is now testing technology that will trigger green lights to switch on when a truck comes through an intersection.</p><p class=\"sc-dLMFU sc-fHjqPf jbiTJv kYFPaL article-text\">“With this technology, it should make [response time] quicker,” Chief David Nelson said on Thursday. “Anytime that we get to a run quicker, it’s better for our citizens.”</p><p class=\"sc-dLMFU sc-fHjqPf jbiTJv kYFPaL article-text\">It’s part of a 90-day pilot program centered in Corktown, and the technology is being provided through Miovision.</p><p class=\"sc-dLMFU sc-fHjqPf jbiTJv kYFPaL article-text\">The lights trigger whenever a truck gets to an intersection with its lights and/or sirens on. </p><div aria-label=\"Advertisement\" class=\"sc-dLMFU sc-hmdomO lbsDZw adWrapper\"></div><p class=\"sc-dLMFU sc-fHjqPf jbiTJv kYFPaL article-text\">The goal, if the pilot program succeeds, is to eventually equip EMS and police vehicles.</p><p class=\"sc-dLMFU sc-fHjqPf jbiTJv kYFPaL article-text\">Miovision has been working with the city of Detroit, along with Haas Alerts. </p><p class=\"sc-dLMFU sc-fHjqPf jbiTJv kYFPaL article-text\">The latter company has also developed technology to alert cars of emergency vehicles entering intersections.</p><p class=\"sc-dLMFU sc-fHjqPf jbiTJv kYFPaL article-text\">Nelson stressed the importance of quicker response times and noted that getting to a green light can make all the difference.</p><p class=\"sc-dLMFU sc-fHjqPf jbiTJv kYFPaL article-text\">“If it’s green and we have that oncoming traffic already stopped, that gives us those extra seconds to maybe save a life,” he said. “In this business, seconds are important.”</p><p class=\"sc-dLMFU sc-fHjqPf jbiTJv kYFPaL article-text\">The technology is not just meant to add speed, but also safety.</p><div aria-label=\"Advertisement\" class=\"sc-dLMFU sc-hmdomO lbsDZw adWrapper\"></div><p class=\"sc-dLMFU sc-fHjqPf jbiTJv kYFPaL article-text\"><a href=\"https://publications.michigantrafficcrashfacts.org/2025/2025GeneralFacts.pdf\" rel=\"\" target=\"_blank\">According to the Michigan Office of Highway Planning</a>, emergency vehicles were involved in more than 2,600 crashes in 2025. Of those crashes:</p><ul class=\"sc-dLMFU dXsCjt font_openSans articleList\"><li class=\"sc-dLMFU sc-eDPEul gFeYkf egxwAv\"><div class=\"sc-dLMFU sc-eDPEul fFqQGn gemzLT\"><span class=\"sc-dLMFU sc-fHjqPf gaSNqI\"><b>1,937</b> were police vehicles.</span></div></li><li class=\"sc-dLMFU sc-eDPEul gFeYkf egxwAv\"><div class=\"sc-dLMFU sc-eDPEul fFqQGn gemzLT\"><span class=\"sc-dLMFU sc-fHjqPf gaSNqI\"><b>419</b> were ambulances.</span></div></li><li class=\"sc-dLMFU sc-eDPEul gFeYkf egxwAv\"><div class=\"sc-dLMFU sc-eDPEul fFqQGn gemzLT\"><span class=\"sc-dLMFU sc-fHjqPf gaSNqI\"><b>255</b> were fire vehicles</span></div></li></ul><p class=\"sc-dLMFU sc-fHjqPf jbiTJv kYFPaL article-text\">Two of the crashes were fatal. Miovision has already run similar programs in Texas and Tennessee and seen an improvement in response time and a decrease in accidents.</p><p class=\"sc-dLMFU sc-fHjqPf jbiTJv kYFPaL article-text\">The program began last month and is slated to run through the month of November.</p></section><p class=\"sc-dLMFU sc-fHjqPf ilkOIf copyright\">Copyright 2026 by WDIV ClickOnDetroit - All rights reserved.</p><hr class=\"sc-dLMFU sc-eeDRCY fXVqCM Kfnvw\"/></div></article><section class=\"sc-dLMFU sc-ikkxIA dkXKrI khtvjR gridChain\"><div class=\"sc-dLMFU sc-ikkxIA cbiwiQ gSxcSL gridContent\"><div aria-labelledby=\"author-heading\" class=\"sc-dLMFU sc-eDPEul gFeYkf egxwAv\" id=\"bio\" role=\"complementary\"><h5 class=\"sc-dLMFU sc-koXPp juhStI\" id=\"author-heading\">About the Authors</h5><ul class=\"sc-dLMFU sc-eDPEul MGeyi kuvEpJ author-container\"><li class=\"sc-dLMFU sc-eDPEul bdBKOe egxwAv author\"><figure aria-labelledby=\"_R_b39pme_\" class=\"sc-dLMFU sc-eDPEul eRgBvp faBSJQ\"><figcaption class=\"sc-dLMFU sc-fHjqPf jqdWbO\" id=\"_R_b39pme_\">Jay Scott Smith headshot</figcaption><div class=\"sc-dLMFU hiRWkK imageWrapper\"><img alt=\"\" decoding=\"async\" loading=\"lazy\" role=\"presentation\" sizes=\"(min-width: 86px) 86px, 100vw\" src=\"https://bc.gmg.io/image/upload/q_auto,c_lfill,w_86,h_86,f_webp/media/author-service/gmg/XXGT2ONAFFEFVKVD7JVLFQX4LA.png?api_key=clickondetroit_06f87fefb2123598\" srcset=\"https://bc.gmg.io/image/upload/q_auto,c_lfill,w_86,h_86,f_webp/media/author-service/gmg/XXGT2ONAFFEFVKVD7JVLFQX4LA.png?api_key=clickondetroit_06f87fefb2123598 86w,\nhttps://bc.gmg.io/image/upload/q_auto,c_lfill,w_172,h_172,f_webp/media/author-service/gmg/XXGT2ONAFFEFVKVD7JVLFQX4LA.png?api_key=clickondetroit_06f87fefb2123598 172w\"/></div></figure><div class=\"sc-dLMFU sc-eDPEul gFeYkf egxwAv\"><div class=\"sc-dLMFU sc-eDPEul gFeYkf dRyLGf\"><h5 class=\"sc-dLMFU sc-koXPp jGmeVj\"><a class=\"sc-bmzYkS fERtCt\" href=\"/team/jayscottsmith/\" itemprop=\"url\" title=\"View Jay Scott Smith's full profile\"><span itemprop=\"name\">Jay Scott Smith</span></a></h5><p class=\"sc-dLMFU sc-fHjqPf ctDavV cigBRW\">Jay Scott Smith is an award-winning veteran broadcaster, journalist, anchor, and writer with more than 20 years of professional experience. But above all, he is proud to be from Detroit.</p></div></div></li><li class=\"sc-dLMFU sc-eDPEul bdBKOe egxwAv author\"><div class=\"sc-dLMFU sc-eDPEul gFeYkf egxwAv\"><div class=\"sc-dLMFU sc-eDPEul gFeYkf dRyLGf\"><h5 class=\"sc-dLMFU sc-koXPp jGmeVj\"><a class=\"sc-bmzYkS fERtCt\" href=\"/team/jdeaner/\" itemprop=\"url\" title=\"View Joel Deaner's full profile\"><span itemprop=\"name\">Joel Deaner</span></a></h5></div></div></li></ul></div><div data-fusion-lazy-id=\"f0fzazGUelZYG9\"><div class=\"sc-dLMFU sc-eDPEul gFeYkf ebTFZB\"><div class=\"sc-dLMFU erZrDr\"><div class=\"sc-dLMFU jKvtEn\"><div class=\"sc-dLMFU bvjSDP\"><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div><div class=\"sc-dLMFU dTuOkr\"></div></div></div></div></div></div><div data-fusion-lazy-id=\"0fXGD71iDr1\"></div><div data-fusion-lazy-id=\"f0fthvFsWwXP5WI\"><div data-pub-id=\"196710\" data-widget-host=\"revcontent\" data-widget-id=\"286486\"></div></div></div></section></section></section></main>",
-      "word_count": 397,
-      "char_count": 2418,
-      "lead_image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/wdiv/32e4c907-6fe8-4ef4-b5d4-fa3e03a4137f/image.jpg?api_key=clickondetroit_06f87fefb2123598",
-      "images": [
-        {
-          "url": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/wdiv/32e4c907-6fe8-4ef4-b5d4-fa3e03a4137f/image.jpg?api_key=clickondetroit_06f87fefb2123598",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://www.clickondetroit.com/news/local/2026/09/17/detroit-fire-department-testing-technology-to-turn-traffic-lights-green-for-fire-trucks/f_webp/media/author-service/gmg/XXGT2ONAFFEFVKVD7JVLFQX4LA.png?api_key=clickondetroit_06f87fefb2123598",
-          "alt": "",
-          "caption": "Jay Scott Smith headshot",
-          "role": "body"
-        }
-      ],
-      "image_count": 2,
-      "extractor": "bs4",
-      "status": "ok",
-      "first_seen_at": "2026-09-17T21:53:05Z"
-    },
-    {
-      "id": "085c8ba06787823e",
-      "title": "New technology aims to prevent theft of SNAP benefits from EBT cards",
-      "header": "6abc Philadelphia",
-      "published_at": "2026-09-17T20:35:01Z",
-      "published_raw": "Thu, 17 Sep 2026 20:35:01 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVXJYTEZHVkdrTXRyYlNPZWN5NjdiMHNrVGZVYmdyTlhNX20wa2laQ0FVMVdJYmFmNEFsLU9OSml0LTk4bVBZOEZJeTZBTEphVUh5Ny1HaHZjMVdjWGhOYXZHcXEycmx5UGVjTllhbGp1VFh4RGk3TFM5MmtudkhwWFlIM09iX2dBSHA1RWY4dFdJY1nSAZgBQVVfeXFMTlFBOEhfZDNSbEx3OEE1cjJ6QUk5ZmVaUTN1MUt0QUY3QTJtdzltZnhFOUxBUjVuQ1ZwSlpUWHp3U1dwTG1GTGNkUmdjYzhEbk9DdEtmNVJWNjRKeUowa2ZYc05JZlo3dFNTczBjV21tMFQyNi1vWDlvRXlTTFg4LU53b21mYTY5cmhJZGF1QVYybzQ1b1k2dE0?oc=5",
-      "description": "New technology aims to prevent theft of SNAP benefits from EBT cards 6abc Philadelphia",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQVXJYTEZHVkdrTXRyYlNPZWN5NjdiMHNrVGZVYmdyTlhNX20wa2laQ0FVMVdJYmFmNEFsLU9OSml0LTk4bVBZOEZJeTZBTEphVUh5Ny1HaHZjMVdjWGhOYXZHcXEycmx5UGVjTllhbGp1VFh4RGk3TFM5MmtudkhwWFlIM09iX2dBSHA1RWY4dFdJY1nSAZgBQVVfeXFMTlFBOEhfZDNSbEx3OEE1cjJ6QUk5ZmVaUTN1MUt0QUY3QTJtdzltZnhFOUxBUjVuQ1ZwSlpUWHp3U1dwTG1GTGNkUmdjYzhEbk9DdEtmNVJWNjRKeUowa2ZYc05JZlo3dFNTczBjV21tMFQyNi1vWDlvRXlTTFg4LU53b21mYTY5cmhJZGF1QVYybzQ1b1k2dE0?oc=5\" target=\"_blank\">New technology aims to prevent theft of SNAP benefits from EBT cards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">6abc Philadelphia</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVXJYTEZHVkdrTXRyYlNPZWN5NjdiMHNrVGZVYmdyTlhNX20wa2laQ0FVMVdJYmFmNEFsLU9OSml0LTk4bVBZOEZJeTZBTEphVUh5Ny1HaHZjMVdjWGhOYXZHcXEycmx5UGVjTllhbGp1VFh4RGk3TFM5MmtudkhwWFlIM09iX2dBSHA1RWY4dFdJY1nSAZgBQVVfeXFMTlFBOEhfZDNSbEx3OEE1cjJ6QUk5ZmVaUTN1MUt0QUY3QTJtdzltZnhFOUxBUjVuQ1ZwSlpUWHp3U1dwTG1GTGNkUmdjYzhEbk9DdEtmNVJWNjRKeUowa2ZYc05JZlo3dFNTczBjV21tMFQyNi1vWDlvRXlTTFg4LU53b21mYTY5cmhJZGF1QVYybzQ1b1k2dE0?oc=5"
-      ],
-      "scraped_at": "2026-09-17T21:53:05Z",
-      "url": "https://6abc.com/post/new-technology-aims-prevent-theft-snap-benefits-ebt-cards/19844399/",
-      "final_url": "https://6abc.com/post/new-technology-aims-prevent-theft-snap-benefits-ebt-cards/19844399/",
-      "source": "6abc Philadelphia",
-      "article_title": "New technology aims to prevent theft of SNAP benefits from EBT cards",
-      "heading": "New technology aims to prevent theft of SNAP benefits from EBT cards",
-      "authors": [
-        "Nydia H. Han"
-      ],
-      "article_published_at": "2026-09-17T20:33:00Z",
-      "article_modified_at": "2026-09-17T21:40:53Z",
-      "summary": "More than 1.7 million Pennsylvanians who receive Supplemental Nutrition Assistance Program benefits will soon receive EBT cards with chip technology.",
-      "content": "ByNydia H. Han\nThursday, September 17, 2026 9:40PM\nMore than 1.7 million Pennsylvanians who receive Supplemental Nutrition Assistance Program benefits will soon receive EBT cards with chip technology as the state works to combat theft targeting recipients.\nThe problem affects SNAP recipients across Pennsylvania, including about 400,000 people in Philadelphia.\nThe new cards are intended to provide additional security against thieves who use skimming devices to steal benefit funds.\nFor Northeast Philadelphia resident Mickayla Hileman, the theft had an immediate impact.\n\"I go to the store, I use my EBT card, and all of my money is gone,\" Hileman said.\nShe told us she was unable to recover the lost money.\n\"I was not able to get reimbursed or anything,\" she said.\nThat comes after the federal government ended authorization to replace stolen benefits in December 2024.\n\"That's all my money to feed my children. What am I gonna do?\" Hileman said.\nShe said others in her community have faced similar losses.\n\"I had $800 stolen and my mom had about $200 stolen. Someone down the street, they had about $178 stolen,\" Hileman said.\nSNAP recipients receive benefits through Electronic Benefits Transfer, or EBT, cards. Current cards use magnetic stripes that require users to swipe them.\nAuthorities say thieves install skimming devices where the cards are used, allowing them to capture card information and eventually steal benefits. Pennsylvania Inspector General Michelle Henry told Action News that the skimmers can be installed in under four seconds.\"\nShe also said that the Inspector General's Office has instituted a full-time dedicated skimming response team.\nHenry says that team has helped cancel 58,000 EBT cards before money was stolen, preventing losses of more than $34 million.\nState officials also announced plans to upgrade EBT cards with chip technology, which is more secure.\n\"We have now begun the process to modernize, strengthen, and protect our EBT cards here in the Commonwealth,\" said Pennsylvania Department of Human Services Secretary Val Arkoosh.\nPennsylvania plans to begin distributing the new cards in late spring. Until then, officials recommend SNAP recipients protect their PINs, change them regularly and avoid sharing them with others.\nThey also encourage recipients to use the free ConnectEBT app to lock benefits when they are not being used.\nStates that have already adopted chip-enabled EBT cards have reported theft reductions of about 80%, officials said.\nIf SNAP funds are stolen, recipients should immediately cancel the card, request a replacement and file reports with both police and the Office of Inspector General, officials said.\nTo download the ConnectEBT app go to one of these links:\nhttps://play.google.com/store/apps/details?id=com.conduent.ebt&hl=en_US\nhttps://apps.apple.com/us/app/connectebt/id1241215610\nAnd here's what to do if your SNAP benefits are stolen from your EBT card, according to the PA Department of Human Services:\nIf benefits are stolen, a replacement EBT card should be requested as soon as possible from EBT contractor Conduent at 888-328-7366, or by visiting a PA DHS County Assistance Office. SNAP is entirely federally funded, and due to the end of Congressional authorization of funds to replace stolen benefits, benefits stolen after December 20, 2024, cannot be reissued by PA DHS.\nFor immediate food needs, Pennsylvanians can call 211 or visit www.pa211.org to connect with various local food resources and can also visit www.feedingpa.org to find local food banks and other food assistance programs.\nIndividuals in need can also visit pa-navigate.org/ for help finding food and other resource assistance.\nCopyright © 2026 WPVI-TV. All Rights Reserved.",
-      "content_html": "<html>\n  <body>\n    <p>More than 1.7 million Pennsylvanians who receive Supplemental Nutrition Assistance Program benefits will soon receive EBT cards with chip technology as the state works to combat theft targeting recipients.</p>\n    <p>The problem affects SNAP recipients across Pennsylvania, including about 400,000 people in Philadelphia.</p>\n    <p>The new cards are intended to provide additional security against thieves who use skimming devices to steal benefit funds.</p>\n    <p>For Northeast Philadelphia resident Mickayla Hileman, the theft had an immediate impact.</p>\n    <p>\"I go to the store, I use my EBT card, and all of my money is gone,\" Hileman said.</p>\n    <p>She told us she was unable to recover the lost money.</p>\n    <p>\"I was not able to get reimbursed or anything,\" she said.</p>\n    <p>That comes after the federal government ended authorization to replace stolen benefits in December 2024.</p>\n    <p>\"That's all my money to feed my children. What am I gonna do?\" Hileman said.</p>\n    <p>She said others in her community have faced similar losses.</p>\n    <p>\"I had $800 stolen and my mom had about $200 stolen. Someone down the street, they had about $178 stolen,\" Hileman said.</p>\n    <p>SNAP recipients receive benefits through Electronic Benefits Transfer, or EBT, cards. Current cards use magnetic stripes that require users to swipe them.</p>\n    <p>Authorities say thieves install skimming devices where the cards are used, allowing them to capture card information and eventually steal benefits. Pennsylvania Inspector General Michelle Henry told Action News that the skimmers can be installed in under four seconds.\"</p>\n    <p>She also said that the Inspector General's Office has instituted a full-time dedicated skimming response team.</p>\n    <p>Henry says that team has helped cancel 58,000 EBT cards before money was stolen, preventing losses of more than $34 million.</p>\n    <p>State officials also announced plans to upgrade EBT cards with chip technology, which is more secure.</p>\n    <p>\"We have now begun the process to modernize, strengthen, and protect our EBT cards here in the Commonwealth,\" said Pennsylvania Department of Human Services Secretary Val Arkoosh.</p>\n    <p>Pennsylvania plans to begin distributing the new cards in late spring. Until then, officials recommend SNAP recipients protect their PINs, change them regularly and avoid sharing them with others.</p>\n    <p>They also encourage recipients to use the free ConnectEBT app to lock benefits when they are not being used.</p>\n    <p>States that have already adopted chip-enabled EBT cards have reported theft reductions of about 80%, officials said.</p>\n    <p>If SNAP funds are stolen, recipients should immediately cancel the card, request a replacement and file reports with both police and the Office of Inspector General, officials said.<br/>To download the ConnectEBT app go to one of these links:</p>\n    <p>https://play.google.com/store/apps/details?id=com.conduent.ebt&amp;hl=en_US</p>\n    <p>https://apps.apple.com/us/app/connectebt/id1241215610</p>\n    <p>And here's what to do if your SNAP benefits are stolen from your EBT card, according to the PA Department of Human Services:</p>\n    <p>If benefits are stolen, a replacement EBT card should be requested as soon as possible from EBT contractor Conduent at 888-328-7366, or by visiting a PA DHS County Assistance Office. SNAP is entirely federally funded, and due to the end of Congressional authorization of funds to replace stolen benefits, benefits stolen after December 20, 2024, cannot be reissued by PA DHS.</p>\n    <p>For immediate food needs, Pennsylvanians can call 211 or visit www.pa211.org to connect with various local food resources and can also visit www.feedingpa.org to find local food banks and other food assistance programs.</p>\n    <p>Individuals in need can also visit pa-navigate.org/ for help finding food and other resource assistance.</p>\n  </body>\n</html>",
-      "word_count": 570,
-      "char_count": 3735,
-      "lead_image": "https://cdn.abcotvs.com/dip/images/19844486_091926-wpvi-snap-benefits-sign-img.jpg?w=1600",
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/19844486_091926-wpvi-snap-benefits-sign-img.jpg?w=1600",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://cdn.abcotvs.net/abcotv/static/common/origins/origin-wpvi.png",
-          "alt": "WPVI logo",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 2,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-17T21:53:05Z"
-    },
-    {
-      "id": "8a2fc8a1da39dc4f",
-      "title": "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership in microelectronics",
-      "header": "U.S. National Science Foundation (.gov)",
-      "published_at": "2026-09-17T20:21:43Z",
-      "published_raw": "Thu, 17 Sep 2026 20:21:43 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXV1WG5NLUVwREZGZTBabFZDV2VGZnk3cU9sbEFrRmdHRXdPVmlGdkVFanh4QUJpbm9scTY5N2QzUVJpQVZQOGdVUUhzX3NUc1hRU25kV0VNTWs5aWg0TEx5YWZRV1FrQmI1N1hFam5yZVZ6ZWkxUTVzMEF4aXgyOUJOQ0Y?oc=5",
-      "description": "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership in microelectronics U.S. National Science Foundation (.gov)",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXV1WG5NLUVwREZGZTBabFZDV2VGZnk3cU9sbEFrRmdHRXdPVmlGdkVFanh4QUJpbm9scTY5N2QzUVJpQVZQOGdVUUhzX3NUc1hRU25kV0VNTWs5aWg0TEx5YWZRV1FrQmI1N1hFam5yZVZ6ZWkxUTVzMEF4aXgyOUJOQ0Y?oc=5\" target=\"_blank\">NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership in microelectronics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. National Science Foundation (.gov)</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXV1WG5NLUVwREZGZTBabFZDV2VGZnk3cU9sbEFrRmdHRXdPVmlGdkVFanh4QUJpbm9scTY5N2QzUVJpQVZQOGdVUUhzX3NUc1hRU25kV0VNTWs5aWg0TEx5YWZRV1FrQmI1N1hFam5yZVZ6ZWkxUTVzMEF4aXgyOUJOQ0Y?oc=5"
-      ],
-      "scraped_at": "2026-09-17T21:53:06Z",
-      "url": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
-      "final_url": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
-      "source": "NSF - U.S. National Science Foundation",
-      "article_title": "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership in microelectronics",
-      "heading": "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership in microelectronics",
-      "authors": [
-        "National Science Foundation"
-      ],
-      "article_published_at": "2026-09-17T16:21:43-0400",
-      "article_modified_at": "2026-09-17T16:21:43-0400",
-      "summary": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to…",
-      "content": "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership in microelectronics\nThe U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics.\nThe NSF Ecosystem for Low-dimensional Electronics: Growth, Assembly, Nanoelectronics, and Translation (NSF ELEGANT) program will position the U.S. for success in translating advanced microelectronics technologies into next-generation capabilities for artificial intelligence, high-performance computing, advanced communications, and other key technology areas critical to national security and economic competitiveness.\n\"NSF ELEGANT aims to de-risk advanced microelectronics manufacturing technology to the point where industry can make a timely, credible, evidence-based commitment to its adoption,\" said Erwin Gianchandani, NSF Assistant Director for Technology, Innovation and Partnerships. \"Sustained industry participation is central to how this program is designed and measured — every performing team's progress is validated by industry partners at each stage, so the technologies advancing through ELEGANT are the ones manufacturers are ready to adopt.\"\nMicroelectronics powers industry and drives worldwide innovation. However, current microelectronics manufacturing methods are no longer able to keep pace with the demand for smaller-scale microelectronics technologies at the scale needed. The ELEGANT program advances innovation in low-dimension materials for semiconductor manufacturing and simultaneously bridges the gap between laboratory demonstrations and the development of industry-relevant platforms.\nTo achieve program objectives, NSF released an Other Transaction Agreement Solutions Offering (OTASO) seeking an Ecosystems Coordinator and Expert Performer Teams in five translation themes:\n- Theme 1: Manufacturable Materials Platform.\n- Theme 2: Process Technology and Process Design Kit.\n- Theme 3: Device, Circuit and Full-Chip Demonstration.\n- Theme 4: Manufacturing Readiness and Transition.\n- Theme 5: AI-Enabled Acceleration.\nTo learn more, please visit the ELEGANT OTASO.\nAbout NSF TIP\nThe NSF Directorate for Technology, Innovation and Partnerships (NSF TIP) seeks to engage all Americans in accelerating critical and emerging technologies to advance U.S. competitiveness. The directorate partners across sectors to advance three strategies — accelerating critical and emerging technology, expanding the geography of American innovation, and building a competition-ready workforce. For more information about NSF TIP, visit nsf.gov/tip/latest.",
-      "content_html": "<html>\n  <body>\n    <h1>NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership in microelectronics</h1>\n    <p>The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics.</p>\n    <p>The NSF Ecosystem for Low-dimensional Electronics: Growth, Assembly, Nanoelectronics, and Translation (NSF ELEGANT) program will position the U.S. for success in translating advanced microelectronics technologies into next-generation capabilities for artificial intelligence, high-performance computing, advanced communications, and other key technology areas critical to national security and economic competitiveness.</p>\n    <p>\"NSF ELEGANT aims to de-risk advanced microelectronics manufacturing technology to the point where industry can make a timely, credible, evidence-based commitment to its adoption,\" said Erwin Gianchandani, NSF Assistant Director for Technology, Innovation and Partnerships. \"Sustained industry participation is central to how this program is designed and measured — every performing team's progress is validated by industry partners at each stage, so the technologies advancing through ELEGANT are the ones manufacturers are ready to adopt.\"</p>\n    <p>Microelectronics powers industry and drives worldwide innovation. However, current microelectronics manufacturing methods are no longer able to keep pace with the demand for smaller-scale microelectronics technologies at the scale needed. The ELEGANT program advances innovation in low-dimension materials for semiconductor manufacturing and simultaneously bridges the gap between laboratory demonstrations and the development of industry-relevant platforms.</p>\n    <p>To achieve program objectives, NSF released an Other Transaction Agreement Solutions Offering (OTASO) seeking an Ecosystems Coordinator and Expert Performer Teams in five translation themes:</p>\n    <ul>\n      <li>Theme 1: Manufacturable Materials Platform.</li>\n      <li>Theme 2: Process Technology and Process Design Kit.</li>\n      <li>Theme 3: Device, Circuit and Full-Chip Demonstration.</li>\n      <li>Theme 4: Manufacturing Readiness and Transition.</li>\n      <li>Theme 5: AI-Enabled Acceleration.</li>\n    </ul>\n    <p>To learn more, please visit the ELEGANT OTASO.</p>\n    <h4>About NSF TIP</h4>\n    <p>The NSF Directorate for Technology, Innovation and Partnerships (NSF TIP) seeks to engage all Americans in accelerating critical and emerging technologies to advance U.S. competitiveness. The directorate partners across sectors to advance three strategies — accelerating critical and emerging technology, expanding the geography of American innovation, and building a competition-ready workforce. For more information about NSF TIP, visit nsf.gov/tip/latest.</p>\n  </body>\n</html>",
-      "word_count": 348,
-      "char_count": 2734,
-      "lead_image": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/Generic_Thumbnails_G.jpg?itok=6Mlw2Szp",
-      "images": [
-        {
-          "url": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/Generic_Thumbnails_G.jpg?itok=6Mlw2Szp",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://nsf-gov-resources.nsf.gov/styles/featured_news/s3/media_hub/Generic_Thumbnails_G.jpg?itok=FHhLWQTy",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 2,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-17T21:53:06Z"
     }
   ]
 }
