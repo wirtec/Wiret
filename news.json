@@ -1,17 +1,200 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-09-27T23:35:41Z",
+  "generated_at": "2026-09-28T03:22:35Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 12,
-    "added": 8,
-    "updated": 4,
-    "ok": 358,
-    "failed": 142,
-    "duration_seconds": 8.93
+    "scraped_now": 13,
+    "added": 6,
+    "updated": 7,
+    "ok": 357,
+    "failed": 143,
+    "duration_seconds": 8.42
   },
   "articles": [
+    {
+      "id": "8da9d8dd191cee17",
+      "title": "NZX Midday Sector Update: Electronic Technology Advances, Distribution Services Decline",
+      "header": "Yahoo Finance Australia",
+      "published_at": "2026-09-28T02:01:00Z",
+      "published_raw": "Mon, 28 Sep 2026 02:01:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORktRaHhqWTRGeG1pTGhUSFpKcDFQenVacExBdmoweVgtd0RIX2Rocm9WTFFMbjFDbkxiR0plRlF2YkwtQ2lpZWd5czgtLU5jY3lhOTE1b3FDR3ZDSzdXVGFUM2JQSnNaNjlWcHFLZlNNZkhsendhekxCX29LcXdzMjZwdDQxSjV4Y09JYWJDVFRQZw?oc=5",
+      "description": "NZX Midday Sector Update: Electronic Technology Advances, Distribution Services Decline Yahoo Finance Australia",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORktRaHhqWTRGeG1pTGhUSFpKcDFQenVacExBdmoweVgtd0RIX2Rocm9WTFFMbjFDbkxiR0plRlF2YkwtQ2lpZWd5czgtLU5jY3lhOTE1b3FDR3ZDSzdXVGFUM2JQSnNaNjlWcHFLZlNNZkhsendhekxCX29LcXdzMjZwdDQxSjV4Y09JYWJDVFRQZw?oc=5\" target=\"_blank\">NZX Midday Sector Update: Electronic Technology Advances, Distribution Services Decline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Australia</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxORktRaHhqWTRGeG1pTGhUSFpKcDFQenVacExBdmoweVgtd0RIX2Rocm9WTFFMbjFDbkxiR0plRlF2YkwtQ2lpZWd5czgtLU5jY3lhOTE1b3FDR3ZDSzdXVGFUM2JQSnNaNjlWcHFLZlNNZkhsendhekxCX29LcXdzMjZwdDQxSjV4Y09JYWJDVFRQZw?oc=5"
+      ],
+      "scraped_at": "2026-09-28T03:22:29Z",
+      "url": "https://au.finance.yahoo.com/news/nzx-midday-sector-electronic-technology-020155927.html",
+      "final_url": "https://au.finance.yahoo.com/news/nzx-midday-sector-electronic-technology-020155927.html?amp=1",
+      "source": "Yahoo Finance",
+      "article_title": "NZX Midday Sector Update: Electronic Technology Advances, Distribution Services Decline",
+      "heading": "Yahoo Finance",
+      "authors": [
+        "MT Newswires"
+      ],
+      "article_published_at": "2026-09-28T02:01:55Z",
+      "article_modified_at": "2026-09-28T02:01:55Z",
+      "summary": "Electronic technology shares gained the most on New Zealand's Exchange, rising nearly 3% by midday M",
+      "content": "- IKE.NZ +2.68%\n\n- VSL.AX +0.54%\n\n- VSL.NZ -1.43%\n\n- IKE.AX 0.00%\n\n- ^NZ50 +0.07%\n\nElectronic technology shares gained the most on New Zealand's Exchange, rising nearly 3% by midday Monday. Shares of ikeGPS Group (NZE:IKE, ASX:IKE) rose almost 3% in recent trade. On the flip side, the distribution services sector struggled, shedding over 1%. Vulcan Steel (NZE:VSL, ASX:VSL) shares fell around 2% in recent trade.",
+      "content_html": "<article class=\"article-wrap no-bb yf-1qcy35b\" data-testid=\"article-content-wrapper\"> <div class=\"cover-wrap yf-1wlntij\"> <div class=\"top-header yf-1wlntij\"> <a aria-label=\"MT Newswires\" class=\"subtle-link fin-size-small yf-119g04z\" data-yga='{\"yLinkElement\":\"logo\",\"yLinkElementType\":\"link\",\"yTrafficOrigin\":\"logo-provider default\",\"yModuleName\":\"logo-provider\",\"yLinkText\":\"MT Newswires\"}' data-ylk=\"elm:logo;elmt:link;itc:0;source:logo-provider%20default;sec:logo-provider;slk:MT%20Newswires\" href=\"https://www.mtnewswires.com/\" rel=\"nofollow\" title=\"MT Newswires\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://s.yimg.com/lo/mysterio/api/20ed1ee279095a8badbd091e1a2edc6ae86be5e416750b65f613ff3860e0388a/lightyear_networkapi/resizefill_h48%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2F69a41590-f0fc-11ee-af7f-19698d4be419\"> <img alt=\"MT Newswires\" class=\"provider-logo\" fetchpriority=\"auto\" height=\"24\" loading=\"lazy\" src=\"https://s.yimg.com/lo/mysterio/api/53c49fddf33509f464cd39ea82754da143d423cb49bae59a4b0f2bc48c6389d5/lightyear_networkapi/resizefill_h48%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2F574923e0-f0fc-11ee-974b-71130e999eaa\" width=\"96\"/></source></picture> </a> </div> <div class=\"cover-headline yf-1wlntij\"><h1 class=\"cover-title yf-1wlntij\">NZX Midday Sector Update: Electronic Technology Advances, Distribution Services Decline</h1> <label class=\"type-ui-xxl-reg yf-gjjls9\" data-testid=\"typography\"> </label></div></div> <div class=\"byline yf-z1ictt\"><div class=\"byline-attr yf-z1ictt\"> <div><div class=\"byline-attr-author yf-z1ictt\">  MT Newswires </div> <div class=\"byline-attr-time-style\"> <time class=\"byline-attr-meta-time\" data-timestamp=\"2026-09-28T02:01:55+00:00\" datetime=\"2026-09-28T02:01:55+00:00\">Sun 27 September 2026 at 10:01 pm GMT-4</time> </div></div></div>  </div> <section class=\"ticker-list yf-1s5gwqx\"><div class=\"carousel yf-1s5gwqx\"><div class=\"carousel-wrapper yf-1s5gwqx\"> <div><div class=\"scroll-carousel yf-17re3t7\" data-testid=\"carousel-container\"><ul aria-label=\"Article stock tickers\" class=\"carousel-top yf-1s5gwqx\" role=\"list\"><li class=\"slide\"><div style=\"display: contents; --ticker-name-font-size:var(--font-m); --text-color:var(--text1); --ticker-change-font-weight:var(--font-normal); --ticker-hover2-box-shadow:0 4px 10px 0 rgba(0, 0, 0, .08); --ticker-hover2-border-color:var(--light-divider);\"><span class=\"ticker-wrapper yf-hzimq4 has-follow\"><a aria-label=\"IKE.NZ\" class=\"ticker medium hover2 border has-follow streaming extraPadding yf-hzimq4\" data-testid=\"ticker-container\" data-yga='{\"yLinkElement\":\"qte\",\"yLinkElementType\":\"link\",\"yModuleName\":\"ticker-tag-module\",\"yLinkText\":\"IKE.NZ\",\"yTrafficOrigin\":\"ticker-tag-module default\"}' data-ylk=\"elm:qte;elmt:link;itc:0;sec:ticker-tag-module;slk:IKE.NZ;source:ticker-tag-module%20default\" href=\"/quote/IKE.NZ/\" title=\"IKE.NZ\"> <div class=\"name yf-hzimq4\"> <span class=\"symbol yf-hzimq4\">IKE.NZ </span> </div> <fin-streamer active=\"\" class=\"percentChange yf-hzimq4\" data-field=\"regularMarketChangePercent\" data-pricehint=\"2\" data-symbol=\"IKE.NZ\" data-trend=\"txt\" data-tstyle=\"default\"><span class=\"txt-positive yf-hzimq4\">+2.68%</span></fin-streamer> </a> <div class=\"follow yf-hzimq4 extraPadding\"><div data-testid=\"lazy-render\"></div> </div></span></div> </li><li class=\"slide\"><div style=\"display: contents; --ticker-name-font-size:var(--font-m); --text-color:var(--text1); --ticker-change-font-weight:var(--font-normal); --ticker-hover2-box-shadow:0 4px 10px 0 rgba(0, 0, 0, .08); --ticker-hover2-border-color:var(--light-divider);\"><span class=\"ticker-wrapper yf-hzimq4 has-follow\"><a aria-label=\"VSL.AX\" class=\"ticker medium hover2 border has-follow streaming extraPadding yf-hzimq4\" data-testid=\"ticker-container\" data-yga='{\"yLinkElement\":\"qte\",\"yLinkElementType\":\"link\",\"yModuleName\":\"ticker-tag-module\",\"yLinkText\":\"VSL.AX\",\"yTrafficOrigin\":\"ticker-tag-module default\"}' data-ylk=\"elm:qte;elmt:link;itc:0;sec:ticker-tag-module;slk:VSL.AX;source:ticker-tag-module%20default\" href=\"/quote/VSL.AX/\" title=\"VSL.AX\"> <div class=\"name yf-hzimq4\"> <span class=\"symbol yf-hzimq4\">VSL.AX </span> </div> <fin-streamer active=\"\" class=\"percentChange yf-hzimq4\" data-field=\"regularMarketChangePercent\" data-pricehint=\"2\" data-symbol=\"VSL.AX\" data-trend=\"txt\" data-tstyle=\"default\"><span class=\"txt-positive yf-hzimq4\">+0.54%</span></fin-streamer> </a> <div class=\"follow yf-hzimq4 extraPadding\"><div data-testid=\"lazy-render\"></div> </div></span></div> </li><li class=\"slide\"><div style=\"display: contents; --ticker-name-font-size:var(--font-m); --text-color:var(--text1); --ticker-change-font-weight:var(--font-normal); --ticker-hover2-box-shadow:0 4px 10px 0 rgba(0, 0, 0, .08); --ticker-hover2-border-color:var(--light-divider);\"><span class=\"ticker-wrapper yf-hzimq4 has-follow\"><a aria-label=\"VSL.NZ\" class=\"ticker medium hover2 border has-follow streaming extraPadding yf-hzimq4\" data-testid=\"ticker-container\" data-yga='{\"yLinkElement\":\"qte\",\"yLinkElementType\":\"link\",\"yModuleName\":\"ticker-tag-module\",\"yLinkText\":\"VSL.NZ\",\"yTrafficOrigin\":\"ticker-tag-module default\"}' data-ylk=\"elm:qte;elmt:link;itc:0;sec:ticker-tag-module;slk:VSL.NZ;source:ticker-tag-module%20default\" href=\"/quote/VSL.NZ/\" title=\"VSL.NZ\"> <div class=\"name yf-hzimq4\"> <span class=\"symbol yf-hzimq4\">VSL.NZ </span> </div> <fin-streamer active=\"\" class=\"percentChange yf-hzimq4\" data-field=\"regularMarketChangePercent\" data-pricehint=\"2\" data-symbol=\"VSL.NZ\" data-trend=\"txt\" data-tstyle=\"default\"><span class=\"txt-negative yf-hzimq4\">-1.43%</span></fin-streamer> </a> <div class=\"follow yf-hzimq4 extraPadding\"><div data-testid=\"lazy-render\"></div> </div></span></div> </li><li class=\"slide\"><div style=\"display: contents; --ticker-name-font-size:var(--font-m); --text-color:var(--text1); --ticker-change-font-weight:var(--font-normal); --ticker-hover2-box-shadow:0 4px 10px 0 rgba(0, 0, 0, .08); --ticker-hover2-border-color:var(--light-divider);\"><span class=\"ticker-wrapper yf-hzimq4 has-follow\"><a aria-label=\"IKE.AX\" class=\"ticker medium hover2 border has-follow streaming extraPadding yf-hzimq4\" data-testid=\"ticker-container\" data-yga='{\"yLinkElement\":\"qte\",\"yLinkElementType\":\"link\",\"yModuleName\":\"ticker-tag-module\",\"yLinkText\":\"IKE.AX\",\"yTrafficOrigin\":\"ticker-tag-module default\"}' data-ylk=\"elm:qte;elmt:link;itc:0;sec:ticker-tag-module;slk:IKE.AX;source:ticker-tag-module%20default\" href=\"/quote/IKE.AX/\" title=\"IKE.AX\"> <div class=\"name yf-hzimq4\"> <span class=\"symbol yf-hzimq4\">IKE.AX </span> </div> <fin-streamer active=\"\" class=\"percentChange yf-hzimq4\" data-field=\"regularMarketChangePercent\" data-pricehint=\"2\" data-symbol=\"IKE.AX\" data-trend=\"txt\" data-tstyle=\"default\"><span class=\"yf-hzimq4\">0.00%</span></fin-streamer> </a> <div class=\"follow yf-hzimq4 extraPadding\"><div data-testid=\"lazy-render\"></div> </div></span></div> </li><li class=\"slide\"><div style=\"display: contents; --ticker-name-font-size:var(--font-m); --text-color:var(--text1); --ticker-change-font-weight:var(--font-normal); --ticker-hover2-box-shadow:0 4px 10px 0 rgba(0, 0, 0, .08); --ticker-hover2-border-color:var(--light-divider);\"><span class=\"ticker-wrapper yf-hzimq4 has-follow\"><a aria-label=\"^NZ50\" class=\"ticker medium hover2 border has-follow streaming extraPadding yf-hzimq4\" data-testid=\"ticker-container\" data-yga='{\"yLinkElement\":\"qte\",\"yLinkElementType\":\"link\",\"yModuleName\":\"ticker-tag-module\",\"yLinkText\":\"^NZ50\",\"yTrafficOrigin\":\"ticker-tag-module default\"}' data-ylk=\"elm:qte;elmt:link;itc:0;sec:ticker-tag-module;slk:%5ENZ50;source:ticker-tag-module%20default\" href=\"/quote/%5ENZ50/\" title=\"^NZ50\"> <div class=\"name yf-hzimq4\"> <span class=\"symbol yf-hzimq4\">^NZ50 </span> </div> <fin-streamer active=\"\" class=\"percentChange yf-hzimq4\" data-field=\"regularMarketChangePercent\" data-pricehint=\"2\" data-symbol=\"^NZ50\" data-trend=\"txt\" data-tstyle=\"default\"><span class=\"txt-positive yf-hzimq4\">+0.07%</span></fin-streamer> </a> <div class=\"follow yf-hzimq4 extraPadding\"><div data-testid=\"lazy-render\"></div> </div></span></div> </li></ul></div> </div> </div> </div> </section> <div class=\"body-wrap yf-1qcy35b\"> <div class=\"body yf-v6n2s3\" data-testid=\"article-body\"> <div class=\"bodyItems-wrapper\"> <figure class=\"yf-750ceo\" data-testid=\"article-figure-image\"><div class=\"image-container yf-1f8hkhu loader\" style=\"--max-height: 403px;\"> <div class=\"image-wrapper yf-1f8hkhu\" style=\"--aspect-ratio: 768 / 403; --img-max-width: 768px;\"><a href=\"https://s.yimg.com/lo/mysterio/api/b574baf6ebf93ebf614085d451037994c8415a884d1cb9e86baf9586c1d4b354/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmt_newswires_au_792%2Fa97821316e4cd797cc43244838725b96.png\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"MT Newswires - Shutterstock\" class=\"yf-1f8hkhu loader\" height=\"403\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==\" width=\"768\"/></a></div></div> <figcaption class=\"yf-750ceo\"><!-- HTML_TAG_START -->MT Newswires -Shutterstock<!-- HTML_TAG_END --> </figcaption> </figure> <p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal;\"><!-- HTML_TAG_START -->Electronic technology shares gained the most on New Zealand's Exchange, rising nearly 3% by midday Monday.<br/><br/>Shares of ikeGPS Group (NZE:IKE, ASX:IKE) rose almost 3% in recent trade.<br/><br/>On the flip side, the distribution services sector struggled, shedding over 1%.<br/><br/>Vulcan Steel (NZE:VSL, ASX:VSL) shares fell around 2% in recent trade.<!-- HTML_TAG_END --> </p>  </div> </div></div> <span class=\"article-footer yf-127tkty\"><section class=\"privacy-container yf-1oqrg4r inline\" style=\"--privacy-link-font-weight: var(--font-normal); --privacy-link-color: inherit;\"> <div class=\"terms-and-privacy small yf-1oqrg4r column\"><a class=\"subtle-link fin-size-small privacy-link-terms-link yf-119g04z\" data-yga='{\"yLinkElement\":\"corp\",\"yLinkElementType\":\"link\",\"yTrafficOrigin\":\"article footer\",\"yModuleName\":\"article\",\"ySubModuleName\":\"footer\"}' data-ylk=\"elm:corp;elmt:link;itc:0;source:article%20footer;sec:article;subsec:footer\" href=\"https://guce.yahoo.com/terms?locale=en-AU\">Terms   </a> and <a class=\"subtle-link fin-size-small privacy-link-privacy-link yf-119g04z\" data-yga='{\"yLinkElement\":\"corp\",\"yLinkElementType\":\"link\",\"yTrafficOrigin\":\"article footer\",\"yModuleName\":\"article\",\"ySubModuleName\":\"footer\"}' data-ylk=\"elm:corp;elmt:link;itc:0;source:article%20footer;sec:article;subsec:footer\" href=\"https://guce.yahoo.com/privacy-policy?locale=en-AU\">Privacy Policy   </a> </div> <div class=\"link-groups yf-1oqrg4r column\"><a class=\"subtle-link fin-size-small privacy-link-privacy-choices noUnderline yf-119g04z\" data-yga='{\"yLinkElement\":\"corp\",\"yLinkElementType\":\"link\",\"yTrafficOrigin\":\"article footer\",\"yModuleName\":\"article\",\"ySubModuleName\":\"footer\"}' data-ylk=\"elm:corp;elmt:link;itc:0;source:article%20footer;sec:article;subsec:footer\" href=\"https://guce.yahoo.com/state-controls?locale=en-AU&amp;state=VA\">Your privacy choices <img alt=\"\" aria-hidden=\"true\" class=\"privacy-icon yf-1oqrg4r\" height=\"18\" loading=\"lazy\" src=\"https://s.yimg.com/dv/static/siteApp/img/privacy-choice-control.png\" width=\"35\"/> </a> </div> <div class=\"link-groups yf-1oqrg4r column\"> </div> </section> </span> </article>",
+      "word_count": 66,
+      "char_count": 414,
+      "lead_image": "https://s.yimg.com/lo/mysterio/api/1230bbbb1b2e7d026f1a04e6ce3abab1f864d53873b0edfed188e2b925efffdd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmt_newswires_au_792%2Fa97821316e4cd797cc43244838725b96.png",
+      "images": [
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/1230bbbb1b2e7d026f1a04e6ce3abab1f864d53873b0edfed188e2b925efffdd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmt_newswires_au_792%2Fa97821316e4cd797cc43244838725b96.png",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://media.zenfs.com/en/mt_newswires_au_792/a97821316e4cd797cc43244838725b96.png",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/53c49fddf33509f464cd39ea82754da143d423cb49bae59a4b0f2bc48c6389d5/lightyear_networkapi/resizefill_h48%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2F574923e0-f0fc-11ee-974b-71130e999eaa",
+          "alt": "MT Newswires",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://s.yimg.com/dv/static/siteApp/img/privacy-choice-control.png",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 4,
+      "extractor": "bs4+amp",
+      "status": "partial",
+      "error": "short_text",
+      "first_seen_at": "2026-09-28T03:22:29Z"
+    },
+    {
+      "id": "844f89e338790422",
+      "title": "Arctic race heats up: how radar technology could transform naval operations in the polar regions | Newswise",
+      "header": "Newswise",
+      "published_at": "2026-09-28T01:30:00Z",
+      "published_raw": "Mon, 28 Sep 2026 01:30:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb3FJSW1CbEEyN1BGWXQzV1hIQjVBeUljYzNoaVFhUmpZbkl0T0lLR052VUZ4a0w3RHJoazRNSnF3c1Rsay1YRmJ5ZWw4c3B3UlZGcm9vRW1EZFZWVkNwbHhBVHVvd2lpdnFrMmU1cE1oWldBWElNVUpuaXNZZUFMOUdKa3ZkVVlWUFkwUDlvdnpvV0N4clByNUQxM1doT1cxbkxNUzB5elJVb3dBOXZ3ZVJqUl9HZmZiQUxEc1hxbTJlUWh4RVQ3MdIByAFBVV95cUxNb3FJSW1CbEEyN1BGWXQzV1hIQjVBeUljYzNoaVFhUmpZbkl0T0lLR052VUZ4a0w3RHJoazRNSnF3c1Rsay1YRmJ5ZWw4c3B3UlZGcm9vRW1EZFZWVkNwbHhBVHVvd2lpdnFrMmU1cE1oWldBWElNVUpuaXNZZUFMOUdKa3ZkVVlWUFkwUDlvdnpvV0N4clByNUQxM1doT1cxbkxNUzB5elJVb3dBOXZ3ZVJqUl9HZmZiQUxEc1hxbTJlUWh4RVQ3MQ?oc=5",
+      "description": "Arctic race heats up: how radar technology could transform naval operations in the polar regions | Newswise Newswise",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb3FJSW1CbEEyN1BGWXQzV1hIQjVBeUljYzNoaVFhUmpZbkl0T0lLR052VUZ4a0w3RHJoazRNSnF3c1Rsay1YRmJ5ZWw4c3B3UlZGcm9vRW1EZFZWVkNwbHhBVHVvd2lpdnFrMmU1cE1oWldBWElNVUpuaXNZZUFMOUdKa3ZkVVlWUFkwUDlvdnpvV0N4clByNUQxM1doT1cxbkxNUzB5elJVb3dBOXZ3ZVJqUl9HZmZiQUxEc1hxbTJlUWh4RVQ3MdIByAFBVV95cUxNb3FJSW1CbEEyN1BGWXQzV1hIQjVBeUljYzNoaVFhUmpZbkl0T0lLR052VUZ4a0w3RHJoazRNSnF3c1Rsay1YRmJ5ZWw4c3B3UlZGcm9vRW1EZFZWVkNwbHhBVHVvd2lpdnFrMmU1cE1oWldBWElNVUpuaXNZZUFMOUdKa3ZkVVlWUFkwUDlvdnpvV0N4clByNUQxM1doT1cxbkxNUzB5elJVb3dBOXZ3ZVJqUl9HZmZiQUxEc1hxbTJlUWh4RVQ3MQ?oc=5\" target=\"_blank\">Arctic race heats up: how radar technology could transform naval operations in the polar regions | Newswise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newswise</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb3FJSW1CbEEyN1BGWXQzV1hIQjVBeUljYzNoaVFhUmpZbkl0T0lLR052VUZ4a0w3RHJoazRNSnF3c1Rsay1YRmJ5ZWw4c3B3UlZGcm9vRW1EZFZWVkNwbHhBVHVvd2lpdnFrMmU1cE1oWldBWElNVUpuaXNZZUFMOUdKa3ZkVVlWUFkwUDlvdnpvV0N4clByNUQxM1doT1cxbkxNUzB5elJVb3dBOXZ3ZVJqUl9HZmZiQUxEc1hxbTJlUWh4RVQ3MdIByAFBVV95cUxNb3FJSW1CbEEyN1BGWXQzV1hIQjVBeUljYzNoaVFhUmpZbkl0T0lLR052VUZ4a0w3RHJoazRNSnF3c1Rsay1YRmJ5ZWw4c3B3UlZGcm9vRW1EZFZWVkNwbHhBVHVvd2lpdnFrMmU1cE1oWldBWElNVUpuaXNZZUFMOUdKa3ZkVVlWUFkwUDlvdnpvV0N4clByNUQxM1doT1cxbkxNUzB5elJVb3dBOXZ3ZVJqUl9HZmZiQUxEc1hxbTJlUWh4RVQ3MQ?oc=5"
+      ],
+      "scraped_at": "2026-09-28T03:22:28Z",
+      "url": "https://www.newswise.com/articles/arctic-race-heats-up-how-radar-technology-could-transform-naval-operations-in-the-polar-regions",
+      "final_url": "https://www.newswise.com/articles/arctic-race-heats-up-how-radar-technology-could-transform-naval-operations-in-the-polar-regions",
+      "source": "newswise.com",
+      "article_title": "Arctic race heats up: how radar technology could transform naval operations in the polar regions | Newswise",
+      "heading": "Arctic race heats up: how radar technology could transform naval operations in the polar regions",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Advanced high-frequency (HF) radar could help navies and governments monitor the rapidly changing Arctic as climate change reduces sea ice and opens new shipping routes.",
+      "content": "As climate change transforms the Arctic and opens new shipping routes, an internationally renowned physicist says advanced radar technology could play a key role in helping navies and governments monitor one of the world's most challenging and strategically important regions.\nAdelaide University Adjunct Professor Stuart Anderson, from the School of Physics, Chemistry and Earth Sciences, has examined how high-frequency (HF) radar could support future US Navy operations in the Arctic by providing wide-area surveillance, ocean monitoring and communications support.\nThe Arctic is undergoing rapid change as rising temperatures reduce sea ice and increase access to waterways such as the Northern Sea Route and the Northwest Passage.\nThese changes are expected to drive growth in commercial shipping, resource extraction and fishing activity across the region. At the same time, strategic competition among nations is increasing, creating new security and operational challenges.\nProfessor Anderson recently presented a paper to the 2026 IEEE Radar Conference in Phoenix, Arizona, discussing how radar technology – already used successfully for ocean surveillance in Australia and other parts of the world – could be adapted to the Arctic’s unique environment.\nAccording to Professor Anderson, who is also an Honorary Professor at University College London, keeping track of activities across vast and remote Arctic waters requires technologies that can monitor large areas continuously and provide timely information to decision-makers.\n\"Climate change is reshaping the Arctic environment and creating new opportunities as well as new risks,\" said Professor Anderson.\n\"As more vessels, infrastructure and nations become active in the region, there is a growing need for reliable systems that can help maintain awareness of what is happening across these enormous areas.\"\nHF radar is already used in several countries for defence, maritime surveillance and ocean monitoring.\nThe long-range surveillance system uses high-frequency radio waves bounced off the Earth’s upper atmosphere to detect aircraft and ships far beyond direct line of sight.\nUnlike many other sensing systems, HF radar can observe very large areas, operate continuously and provide information in near real time.\nProfessor Anderson highlights the potential for HF radar to detect and track ships, map ocean surface currents, and monitor sea conditions.\nEmerging research also suggests the technology may be able to distinguish between different types of sea ice and estimate key characteristics, such as thickness and size of individual ice pieces, known as floes.\n\"Understanding the location, movement and nature of sea ice is critical for safe and effective operations in the Arctic,\" said Professor Anderson.\n\"HF radar has the potential to provide information that is difficult to obtain using existing systems, particularly over very large areas.\"\nThe technology could also assist communications.\nSatellite coverage and environmental conditions can pose challenges, and due to the unpredictability of radio waves in the Arctic, HF radar systems may give operators a more reliable communication tool.\nProfessor Anderson said HF radar should not be viewed as a stand-alone solution, but as part of a broader network of sensors and monitoring technologies.\n\"No single technology can do everything,\" he said. \"The greatest value comes when information from multiple systems is combined. HF radar can add unique insights that strengthen the overall picture and support better operational decisions.\"\nProfessor Stuart Anderson was on the original team that designed and developed the Jindalee over-the-horizon radar (OTHR) system in 1974, enabling the Australian Defence Force to monitor air and sea movements across several million square kilometres. That same technology is now being deployed in Canada after the Australian Government signed the nation’s largest ever defence export in June 2026, in a $2.5 billion deal.",
+      "content_html": "<html>\n  <body><p>As climate change transforms the Arctic and opens new shipping routes, an internationally renowned physicist says advanced radar technology could play a key role in helping navies and governments monitor one of the world's most challenging and strategically important regions.</p><p>Adelaide University Adjunct Professor Stuart Anderson, from the School of Physics, Chemistry and Earth Sciences, has examined how high-frequency (HF) radar could support future US Navy operations in the Arctic by providing wide-area surveillance, ocean monitoring and communications support.</p><p>The Arctic is undergoing rapid change as rising temperatures reduce sea ice and increase access to waterways such as the Northern Sea Route and the Northwest Passage.</p><p>These changes are expected to drive growth in commercial shipping, resource extraction and fishing activity across the region. At the same time, strategic competition among nations is increasing, creating new security and operational challenges.</p><p>Professor Anderson recently presented a paper to the 2026 IEEE Radar Conference in Phoenix, Arizona, discussing how radar technology – already used successfully for ocean surveillance in Australia and other parts of the world – could be adapted to the Arctic’s unique environment.</p><p>According to Professor Anderson, who is also an Honorary Professor at University College London, keeping track of activities across vast and remote Arctic waters requires technologies that can monitor large areas continuously and provide timely information to decision-makers.</p><p>\"Climate change is reshaping the Arctic environment and creating new opportunities as well as new risks,\" said Professor Anderson.</p><p>\"As more vessels, infrastructure and nations become active in the region, there is a growing need for reliable systems that can help maintain awareness of what is happening across these enormous areas.\"</p><p>HF radar is already used in several countries for defence, maritime surveillance and ocean monitoring.</p><p>The long-range surveillance system uses high-frequency radio waves bounced off the Earth’s upper atmosphere to detect aircraft and ships far beyond direct line of sight.</p><p>Unlike many other sensing systems, HF radar can observe very large areas, operate continuously and provide information in near real time.</p><p>Professor Anderson highlights the potential for HF radar to detect and track ships, map ocean surface currents, and monitor sea conditions.</p><p>Emerging research also suggests the technology may be able to distinguish between different types of sea ice and estimate key characteristics, such as thickness and size of individual ice pieces, known as floes.</p><p>\"Understanding the location, movement and nature of sea ice is critical for safe and effective operations in the Arctic,\" said Professor Anderson.</p><p>\"HF radar has the potential to provide information that is difficult to obtain using existing systems, particularly over very large areas.\"</p><p>The technology could also assist communications.</p><p>Satellite coverage and environmental conditions can pose challenges, and due to the unpredictability of radio waves in the Arctic, HF radar systems may give operators a more reliable communication tool.</p><p>Professor Anderson said HF radar should not be viewed as a stand-alone solution, but as part of a broader network of sensors and monitoring technologies.</p><p>\"No single technology can do everything,\" he said. \"The greatest value comes when information from multiple systems is combined. HF radar can add unique insights that strengthen the overall picture and support better operational decisions.\"</p><p>Professor Stuart Anderson was on the original team that designed and developed the Jindalee over-the-horizon radar (OTHR) system in 1974, enabling the Australian Defence Force to monitor air and sea movements across several million square kilometres. That same technology is now being deployed in Canada after the Australian Government signed the nation’s largest ever defence export in June 2026, in a $2.5 billion deal.</p><h5>MEDIA CONTACT</h5>Register for reporter access to contact details<h5>CITATIONS</h5><p>2026 IEEE Radar Conference<br/>Method of research: Commentary/editorial</p><h5>Download PDF</h5><img src=\"https://www.newswise.com/assets/img/pdf-icon.png\" alt=\"179055906993946_SJA_Radar_2026_FINAL_revised.pdf\" title=\"179055906993946_SJA_Radar_2026_FINAL_revised.pdf\"/> \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</body>\n</html>",
+      "word_count": 590,
+      "char_count": 3992,
+      "lead_image": "https://www.newswise.com/images/uploads/2026/09/27/6ab9c36dd9335_Radar1920x1080.jpg",
+      "images": [
+        {
+          "url": "https://www.newswise.com/images/uploads/2026/09/27/6ab9c36dd9335_Radar1920x1080.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-28T03:22:28Z"
+    },
+    {
+      "id": "a8615b1db957b74f",
+      "title": "GAC Quark Electric Drive Technology Wins Top Honor at Geneva Inventions Exhibition",
+      "header": "Japan Wire by Kyodo News",
+      "published_at": "2026-09-28T01:06:00Z",
+      "published_raw": "Mon, 28 Sep 2026 01:06:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sVTl6bW5iX0k5bGpyYnFiVWRwMXRRSXk0aFozMFc0UEhlVHdTZ3I4RDYtNzFMM2pyNm0wLU41OFFMWGpzMzNYekVUSy1FWGFHTm05cTdHeDJaZw?oc=5",
+      "description": "GAC Quark Electric Drive Technology Wins Top Honor at Geneva Inventions Exhibition Japan Wire by Kyodo News",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sVTl6bW5iX0k5bGpyYnFiVWRwMXRRSXk0aFozMFc0UEhlVHdTZ3I4RDYtNzFMM2pyNm0wLU41OFFMWGpzMzNYekVUSy1FWGFHTm05cTdHeDJaZw?oc=5\" target=\"_blank\">GAC Quark Electric Drive Technology Wins Top Honor at Geneva Inventions Exhibition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Japan Wire by Kyodo News</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sVTl6bW5iX0k5bGpyYnFiVWRwMXRRSXk0aFozMFc0UEhlVHdTZ3I4RDYtNzFMM2pyNm0wLU41OFFMWGpzMzNYekVUSy1FWGFHTm05cTdHeDJaZw?oc=5"
+      ],
+      "scraped_at": "2026-09-28T03:22:29Z",
+      "url": "https://english.kyodonews.net/articles/-/86503",
+      "final_url": "https://english.kyodonews.net/articles/-/86503",
+      "source": "Japan Wire by Kyodo News",
+      "article_title": "GAC Quark Electric Drive Technology Wins Top Honor at Geneva Inventions Exhibition",
+      "heading": "GAC Quark Electric Drive Technology Wins Top Honor at Geneva Inventions Exhibition",
+      "authors": [
+        "Dist.by K.K.Kyodo News"
+      ],
+      "article_published_at": "2026-09-28T10:06:00+09:00",
+      "article_modified_at": "2026-09-28T10:51:40+09:00",
+      "summary": "GUANGZHOU, China, Sept. 25, 2026 /PRNewswire/ -- The results of the 51st International Exhibition of Inventions Geneva have been announced. The project \"Key Precision Manufacturing Technologies and Applications for Low-Loss Stator Cores Based on Ultra-Thin Amorphous Materials,\" co-developed with GAC Group, received the exhibition's highest distinction, the Gold Medal with the Congratulations of the Jury. The award is selected from Gold Medal winners and requires unanimous approval from the jury.",
+      "content": "GUANGZHOU, China, Sept. 25, 2026 /PRNewswire/ -- The results of the 51st International Exhibition of Inventions Geneva have been announced. The project \"Key Precision Manufacturing Technologies and Applications for Low-Loss Stator Cores Based on Ultra-Thin Amorphous Materials,\" co-developed with GAC Group, received the exhibition's highest distinction, the Gold Medal with the Congratulations of the Jury. The award is selected from Gold Medal winners and requires unanimous approval from the jury.\nFor new energy vehicle users, range depends not only on battery capacity, but also on how efficiently every unit of energy is used. By applying ultra-thin amorphous material to the motor stator core, GAC reduces energy loss in the motor so that more power can be used to drive the vehicle. The Quark Electric Drive 2.0 motor equipped with this technology achieves a peak efficiency of 99.03%, while the electric drive system reaches a CLTC operating efficiency of 94.184%. With the same battery capacity, driving range can be extended by 30 to 50 kilometers, helping users go farther on the same amount of energy and enjoy greater confidence in everyday travel.\nThe technology has first been applied to models for the Chinese market, including the AION N60, 2027 AION RT and 2027 AION i60. As the technology continues to enter mass production, GAC will expand its application to more models, turning advances in high-efficiency electric drive technology into tangible efficiency and range benefits for users in everyday travel.\nGAC Quark Electric Drive Technology Wins Top Honor at Geneva Inventions Exhibition\nPR Newswire Asia Ltd.\nPR Newswire\n1954年に設立された世界初の米国広報通信社です。配信ネットワークで全世界をカバーしています。Cision Ltd.の子会社として、Cisionクラウドベースコミュニケーション製品、世界最大のマルチチャネル、多文化コンテンツ普及ネットワークと包括的なワークフローツールおよびプラットフォームを組み合わせることで、様々な組織のストーリーを支えています。www.prnasia.com\nThis press release is provided by the issuer. As the distributor is unable to respond, please reach out to the issuer directly for all the inquiries",
+      "content_html": "<html>\n  <body>\n    <p>GUANGZHOU, China, Sept. 25, 2026 /PRNewswire/ -- The results of the 51st International Exhibition of Inventions Geneva have been announced. The project \"Key Precision Manufacturing Technologies and Applications for Low-Loss Stator Cores Based on Ultra-Thin Amorphous Materials,\" co-developed with GAC Group, received the exhibition's highest distinction, the Gold Medal with the Congratulations of the Jury. The award is selected from Gold Medal winners and requires unanimous approval from the jury.</p>\n    <p/>\n    <p>For new energy vehicle users, range depends not only on battery capacity, but also on how efficiently every unit of energy is used. By applying ultra-thin amorphous material to the motor stator core, GAC reduces energy loss in the motor so that more power can be used to drive the vehicle. The Quark Electric Drive 2.0 motor equipped with this technology achieves a peak efficiency of 99.03%, while the electric drive system reaches a CLTC operating efficiency of 94.184%. With the same battery capacity, driving range can be extended by 30 to 50 kilometers, helping users go farther on the same amount of energy and enjoy greater confidence in everyday travel.</p>\n    <p/>\n    <p>The technology has first been applied to models for the Chinese market, including the AION N60, 2027 AION RT and 2027 AION i60. As the technology continues to enter mass production, GAC will expand its application to more models, turning advances in high-efficiency electric drive technology into tangible efficiency and range benefits for users in everyday travel.</p>\n    <p/>\n    <p>\n      <img src=\"https://kyodonewsprwire.jp/prwfile/release/M107864/202609256683/_prw_OI1im_3K3Yj975.jpg\"/>\n    </p>\n    <p/>\n    <p/>\n    <p/>\n    <p>PR Newswire Asia Ltd.</p>\n    <p/>\n    <p>\n      <img src=\"https://kyodonewsprwire.jp/prwfile/release/M107864/202609256683/_prw_OI2ic_e5LOH86w.jpg\"/>\n    </p>\n    <p/>\n    <p>PR Newswire<br/>1954年に設立された世界初の米国広報通信社です。配信ネットワークで全世界をカバーしています。Cision Ltd.の子会社として、Cisionクラウドベースコミュニケーション製品、世界最大のマルチチャネル、多文化コンテンツ普及ネットワークと包括的なワークフローツールおよびプラットフォームを組み合わせることで、様々な組織のストーリーを支えています。www.prnasia.com</p>\n    <p>This press release is provided by the issuer. As the distributor is unable to respond, please reach out to the issuer directly for all the inquiries</p>\n  </body>\n</html>",
+      "word_count": 284,
+      "char_count": 1985,
+      "lead_image": "https://kyodonewsprwire.jp/prwfile/release/M107864/202609256683/_prw_OI1im_3K3Yj975.jpg",
+      "images": [
+        {
+          "url": "https://kyodonewsprwire.jp/prwfile/release/M107864/202609256683/_prw_OI1im_3K3Yj975.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://kyodonewsprwire.jp/prwfile/release/M107864/202609256683/_prw_OI2ic_e5LOH86w.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-28T03:22:29Z"
+    },
+    {
+      "id": "08d80353c775b92d",
+      "title": "Momenta and Stellantis' China JV with Dongfeng to co-develop intelligent driving technology",
+      "header": "Reuters",
+      "published_at": "2026-09-28T00:55:00Z",
+      "published_raw": "Mon, 28 Sep 2026 00:55:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMzByVUtHMHlIWGhiUzl5Vzd0YXhiWnZ6R25pMzVUTjlLSW1SaDFnRy1fSnAwd1BlUWwzb0dBa3ljWnZLRWlKNmdIYXpXUTM3QUg3MjByLVZSd042VkZZT2F1LXVaM2xaZzN1X01WWWE1LS1wVG9hNlY4TjE1MmtKb1YzR1NoTTBhRHNwSzMzYW9LSDhTMlFjQ3g2NWtNYWdfSmFpX3c5bHlBSkxPUnFnbDBpb1ppS2ZQNHM3NQ?oc=5",
+      "description": "Momenta and Stellantis' China JV with Dongfeng to co-develop intelligent driving technology Reuters",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQMzByVUtHMHlIWGhiUzl5Vzd0YXhiWnZ6R25pMzVUTjlLSW1SaDFnRy1fSnAwd1BlUWwzb0dBa3ljWnZLRWlKNmdIYXpXUTM3QUg3MjByLVZSd042VkZZT2F1LXVaM2xaZzN1X01WWWE1LS1wVG9hNlY4TjE1MmtKb1YzR1NoTTBhRHNwSzMzYW9LSDhTMlFjQ3g2NWtNYWdfSmFpX3c5bHlBSkxPUnFnbDBpb1ppS2ZQNHM3NQ?oc=5\" target=\"_blank\">Momenta and Stellantis' China JV with Dongfeng to co-develop intelligent driving technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMzByVUtHMHlIWGhiUzl5Vzd0YXhiWnZ6R25pMzVUTjlLSW1SaDFnRy1fSnAwd1BlUWwzb0dBa3ljWnZLRWlKNmdIYXpXUTM3QUg3MjByLVZSd042VkZZT2F1LXVaM2xaZzN1X01WWWE1LS1wVG9hNlY4TjE1MmtKb1YzR1NoTTBhRHNwSzMzYW9LSDhTMlFjQ3g2NWtNYWdfSmFpX3c5bHlBSkxPUnFnbDBpb1ppS2ZQNHM3NQ?oc=5"
+      ],
+      "scraped_at": "2026-09-28T03:22:27Z",
+      "url": "https://www.reuters.com/world/china/momenta-stellantis-china-jv-with-dongfeng-co-develop-intelligent-driving-2026-09-28/",
+      "final_url": "https://www.reuters.com/world/china/momenta-stellantis-china-jv-with-dongfeng-co-develop-intelligent-driving-2026-09-28/",
+      "source": "Reuters",
+      "article_title": "",
+      "heading": "Momenta and Stellantis' China JV with Dongfeng to co-develop intelligent driving technology",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Momenta and Stellantis' China JV with Dongfeng to co-develop intelligent driving technology Reuters",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-28T03:22:27Z"
+    },
     {
       "id": "fb22ed8255049b49",
       "title": "Counties call for review of technology, jail billing process",
@@ -133,6 +316,48 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-27T23:35:35Z"
+    },
+    {
+      "id": "d71a85169ce58368",
+      "title": "Walmart says it's not using personal information to set prices as it expands digital shelf labels - ABC News",
+      "header": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-09-27T21:24:45Z",
+      "published_raw": "Sun, 27 Sep 2026 21:24:45 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1JRNGQ3QkRvTnVBOXZEQzc0aHBObUhzcE9PUkF2Tjg5NkktNFV5dUY3UFlWMkR0M1BqU2ZMNTdnbmtmVm85NXd4YnlJcUpQcFRwLXFBMGE0WHJrU3piZ1QzcW91bnZ4bzNtOWZFb1liM0RBdThCTUdnd1JEOENhUFBXRmZwVS0xNzRRQkF2c2pjRGJuenJZbUlFZlVpTzctZld6WEgzNlZMNGtwMk9F0gG0AUFVX3lxTFBjbkNFNHoxOGl4WEFTMFlsUmpQekk0cGplbUVhX2tUMGEza1lCTmxIeFc3OWxRZWVEZHF6X1p2QWlHN1g3VElJR3p1UmFFMVRsNS1YcUtrZkZTYVNyU3JZREVfRDRUSU5uckZlbVoyd3REbUpWUzFIZzREMnlVTFJEOVRqTHRoUnZXVUdNUjQ4SHo3YXlWMzlwMEg2eDVMUV83cllSenZ2T3lQN2d5WUsyQnE5aw?oc=5",
+      "description": "Walmart says it's not using personal information to set prices as it expands digital shelf labels ABC News - Breaking News, Latest News and Videos",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1JRNGQ3QkRvTnVBOXZEQzc0aHBObUhzcE9PUkF2Tjg5NkktNFV5dUY3UFlWMkR0M1BqU2ZMNTdnbmtmVm85NXd4YnlJcUpQcFRwLXFBMGE0WHJrU3piZ1QzcW91bnZ4bzNtOWZFb1liM0RBdThCTUdnd1JEOENhUFBXRmZwVS0xNzRRQkF2c2pjRGJuenJZbUlFZlVpTzctZld6WEgzNlZMNGtwMk9F0gG0AUFVX3lxTFBjbkNFNHoxOGl4WEFTMFlsUmpQekk0cGplbUVhX2tUMGEza1lCTmxIeFc3OWxRZWVEZHF6X1p2QWlHN1g3VElJR3p1UmFFMVRsNS1YcUtrZkZTYVNyU3JZREVfRDRUSU5uckZlbVoyd3REbUpWUzFIZzREMnlVTFJEOVRqTHRoUnZXVUdNUjQ4SHo3YXlWMzlwMEg2eDVMUV83cllSenZ2T3lQN2d5WUsyQnE5aw?oc=5\" target=\"_blank\">Walmart says it's not using personal information to set prices as it expands digital shelf labels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1JRNGQ3QkRvTnVBOXZEQzc0aHBObUhzcE9PUkF2Tjg5NkktNFV5dUY3UFlWMkR0M1BqU2ZMNTdnbmtmVm85NXd4YnlJcUpQcFRwLXFBMGE0WHJrU3piZ1QzcW91bnZ4bzNtOWZFb1liM0RBdThCTUdnd1JEOENhUFBXRmZwVS0xNzRRQkF2c2pjRGJuenJZbUlFZlVpTzctZld6WEgzNlZMNGtwMk9F0gG0AUFVX3lxTFBjbkNFNHoxOGl4WEFTMFlsUmpQekk0cGplbUVhX2tUMGEza1lCTmxIeFc3OWxRZWVEZHF6X1p2QWlHN1g3VElJR3p1UmFFMVRsNS1YcUtrZkZTYVNyU3JZREVfRDRUSU5uckZlbVoyd3REbUpWUzFIZzREMnlVTFJEOVRqTHRoUnZXVUdNUjQ4SHo3YXlWMzlwMEg2eDVMUV83cllSenZ2T3lQN2d5WUsyQnE5aw?oc=5"
+      ],
+      "scraped_at": "2026-09-28T03:22:28Z",
+      "url": "https://abcnews.com/Business/wireStory/walmart-personal-information-set-prices-expands-digital-shelf-136801976",
+      "final_url": "https://abcnews.com/Business/wireStory/walmart-personal-information-set-prices-expands-digital-shelf-136801976",
+      "source": "ABC News",
+      "article_title": "Walmart denies using personal info to set prices as it expands digital shelf labels",
+      "heading": "Walmart denies using personal info to set prices as it expands digital shelf labels",
+      "authors": [
+        "ABC News"
+      ],
+      "article_published_at": "2026-09-27T19:56:00.000Z",
+      "article_modified_at": "2026-09-27T21:22:12.000Z",
+      "summary": "Walmart is aiming to assuage customers' fears about its new pricing technology as it rolls out digital price labels at its stores",
+      "content": "Walmart denies using personal info to set prices as it expands digital shelf labels\nWalmart is aiming to assuage customers' fears about its new pricing technology.\nNEW YORK -- Walmart is aiming to assuage customers' fears about its new pricing technology as it rolls out digital price labels at its stores.\nIn a statement posted on the company's website, Walmart Inc.'s CEO John Furner vowed that the Bentonville, Arkansas-based retailer isn't using personal information like income, shopping history or a customer's willingness to pay to set prices, and it won't be doing so in the future either.\n“We don’t set different prices based on who you are or the time of day, and we won’t,” Furner wrote Friday. “Whether you’re buying groceries or electronics on a hot afternoon or in a sudden rush for an item, it’s never a reason to charge you more.”\nThe pledge from Walmart comes as concerns are mounting from some shoppers, consumer advocates and lawmakers skeptical about the rollout of digital price labels by the discounter and other stores. Digital price labels are rapidly replacing paper shelf tags at U.S. supermarkets and let stores change prices instantly from a central computer instead of having workers swap out paper labels by hand.\nFurner noted that Walmart is also holding its artificial intelligence shopping assistant Sparky to the same promise and won't be using the bot to raise a customer's price or hide lower-priced options that meet their needs.\nFurner said such practices would violate the company's “every day low prices” business model.\nHe also noted that prices can change: Walmart lowers them when it can pass savings along, or sometimes raises them because an item costs more to buy or to transport, he said.\nWalmart said in March that 2,300 Walmart U.S. locations already use digital shelves, and it expects this technology to be chain-wide within the next year.\nWalmart executives have repeatedly said it uses electronic shelf price tags to help the retailer change prices consistently and match what rings up at checkout. It also saves workers time and reduces labor costs by replacing paper tags.\nLast month, the Federal Trade Commission said that it's putting companies on notice that the practice of personalizing pricing could violate consumer protection laws. The agency said it does not have the legal authority to ban personalized pricing in all circumstances, but it issued a new bulletin that warned companies that they must disclose to customers how the personal information is being used to set a price.\nO",
+      "content_html": "<html>\n  <body>\n    <h1>Walmart denies using personal info to set prices as it expands digital shelf labels</h1>\n    <p>Walmart is aiming to assuage customers' fears about its new pricing technology.</p>\n    <p>NEW YORK -- Walmart is aiming to assuage customers' fears about its new pricing technology as it rolls out digital price labels at its stores.</p>\n    <p>In a statement posted on the company's website, Walmart Inc.'s CEO John Furner vowed that the Bentonville, Arkansas-based retailer isn't using personal information like income, shopping history or a customer's willingness to pay to set prices, and it won't be doing so in the future either.</p>\n    <p>“We don’t set different prices based on who you are or the time of day, and we won’t,” Furner wrote Friday. “Whether you’re buying groceries or electronics on a hot afternoon or in a sudden rush for an item, it’s never a reason to charge you more.”</p>\n    <p>The pledge from Walmart comes as concerns are mounting from some shoppers, consumer advocates and lawmakers skeptical about the rollout of digital price labels by the discounter and other stores. Digital price labels are rapidly replacing paper shelf tags at U.S. supermarkets and let stores change prices instantly from a central computer instead of having workers swap out paper labels by hand.</p>\n    <p>Furner noted that Walmart is also holding its artificial intelligence shopping assistant Sparky to the same promise and won't be using the bot to raise a customer's price or hide lower-priced options that meet their needs.</p>\n    <p>Furner said such practices would violate the company's “every day low prices” business model.</p>\n    <p>He also noted that prices can change: Walmart lowers them when it can pass savings along, or sometimes raises them because an item costs more to buy or to transport, he said.</p>\n    <h2>Popular Reads</h2>\n    <img src=\"https://i.abcnewsfe.com/a/b2ea3497-5350-448e-b232-2e11df2af67d/Tehran-rally-DB-260927_1790495295749_hpMain_square.jpg?w=208\"/>\n    <h2>Iran live updates: IRGC will target US ships if fighting resumes, official says</h2>\n    <ul>\n      <li>7 hours ago</li>\n    </ul>\n    <img src=\"https://i.abcnewsfe.com/a/b2e92d41-2879-404c-971c-203e027a531e/wh-6-ap-gmh-260925_1790348630371_hpMain_square.jpg?w=208\"/>\n    <h2>White House orders over $800M in funds rescinded</h2>\n    <ul>\n      <li>2 days ago</li>\n    </ul>\n    <img src=\"https://i.abcnewsfe.com/a/7e857f32-8cc5-45a9-90a9-805d61988708/Tehran-rally-DB-260920_1789895776965_hpMain_square.jpg?w=208\"/>\n    <h2>Strait of Hormuz shut until Tehran's conditions met, Ghalibaf says</h2>\n    <ul>\n      <li>Sep 20</li>\n    </ul>\n    <p>Walmart said in March that 2,300 Walmart U.S. locations already use digital shelves, and it expects this technology to be chain-wide within the next year.</p>\n    <p>Walmart executives have repeatedly said it uses electronic shelf price tags to help the retailer change prices consistently and match what rings up at checkout. It also saves workers time and reduces labor costs by replacing paper tags.</p>\n    <p>Last month, the Federal Trade Commission said that it's putting companies on notice that the practice of personalizing pricing could violate consumer protection laws. The agency said it does not have the legal authority to ban personalized pricing in all circumstances, but it issued a new bulletin that warned companies that they must disclose to customers how the personal information is being used to set a price.</p>\n    <p>O</p>\n  </body>\n</html>",
+      "word_count": 419,
+      "char_count": 2546,
+      "lead_image": "https://i.abcnewsfe.com/a/c9c2f079-c3c0-4957-8f26-8be96af48146/wirestory_1488b3614058c9452426c0e2e656f653_16x9.jpg?w=1600",
+      "images": [
+        {
+          "url": "https://i.abcnewsfe.com/a/c9c2f079-c3c0-4957-8f26-8be96af48146/wirestory_1488b3614058c9452426c0e2e656f653_16x9.jpg?w=1600",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-09-28T03:22:28Z"
     },
     {
       "id": "cd54d2a2aec6d09a",
@@ -383,6 +608,103 @@
       "first_seen_at": "2026-09-27T20:47:21Z"
     },
     {
+      "id": "73c5983bef905d7e",
+      "title": "forget doomscrolling: meadow shrinks the smartphone down to only the most essential apps",
+      "header": "Designboom",
+      "published_at": "2026-09-27T20:38:50Z",
+      "published_raw": "Sun, 27 Sep 2026 20:38:50 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdTdwNVVOWmlYOFNTeU15WnRTdjByWkFKaG42N2hSTFBRM3oyWlAzTVNETFlQWVEzNEZwNS1JN1k2ZnZSLTVRNl9fZW1jdzc0Mm1nUWctcVpDQXJ0d3pTMTA0U1lGaFpJZzd6dzRnY2xFUWtuU19hSTBRUlN4bnZWSXZqR2Yzdw?oc=5",
+      "description": "forget doomscrolling: meadow shrinks the smartphone down to only the most essential apps Designboom",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQdTdwNVVOWmlYOFNTeU15WnRTdjByWkFKaG42N2hSTFBRM3oyWlAzTVNETFlQWVEzNEZwNS1JN1k2ZnZSLTVRNl9fZW1jdzc0Mm1nUWctcVpDQXJ0d3pTMTA0U1lGaFpJZzd6dzRnY2xFUWtuU19hSTBRUlN4bnZWSXZqR2Yzdw?oc=5\" target=\"_blank\">forget doomscrolling: meadow shrinks the smartphone down to only the most essential apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Designboom</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdTdwNVVOWmlYOFNTeU15WnRTdjByWkFKaG42N2hSTFBRM3oyWlAzTVNETFlQWVEzNEZwNS1JN1k2ZnZSLTVRNl9fZW1jdzc0Mm1nUWctcVpDQXJ0d3pTMTA0U1lGaFpJZzd6dzRnY2xFUWtuU19hSTBRUlN4bnZWSXZqR2Yzdw?oc=5"
+      ],
+      "scraped_at": "2026-09-28T03:22:27Z",
+      "url": "https://www.designboom.com/technology/meadow-shrinks-smartphone-essential-apps/",
+      "final_url": "https://www.designboom.com/technology/meadow-shrinks-smartphone-essential-apps/",
+      "source": "designboom | architecture & design magazine",
+      "article_title": "forget doomscrolling: meadow shrinks the smartphone down to only the most essential apps",
+      "heading": "forget doomscrolling: meadow shrinks the smartphone down to only the most essential apps",
+      "authors": [
+        "daily desk"
+      ],
+      "article_published_at": "2026-09-27T20:35:04+00:00",
+      "article_modified_at": null,
+      "summary": "meadow packs maps, music and messaging into a three-inch phone designed for leaving the smartphone behind.",
+      "content": "the device runs Android without access to an open app store\nMeadow has its own phone number and cellular plan\nKEEP UP WITH OUR DAILY AND WEEKLY NEWSLETTERS\na 3D-scanned porsche 911 is transformed with custom bodywork and a three-inch lift.\nconnections: +1200\ndesigned as a portable musical sketchbook, orphea explores how small a piano can become while still remaining genuinely playable.\nconnections: +460\nlassie is designed to accompany walking, running, travel, and everyday routines.\nconnections: +710\nendothermal systems’ first product combines programmable alarms, mechanical controls, removable electronics, and local audio in an open-ended alternative to the smartphone alarm.\nconnections: +1150",
+      "content_html": "<html>\n  <body>\n    <p>Meadow is a unique phone made for the times you decide you would rather leave your smartphone behind. The device is only three inches square, with a touchscreen taking up most of its face and a deliberately short menu of things it can do. Calls and texts are there. So are maps and Uber. Spotify and Apple Music cover music, while tickets can be pulled up at the door to a concert or event.</p>\n    <p>It looks almost like somebody cropped a smartphone down to its useful corner. The proportions are chunky and a little odd, especially beside the long black rectangles we have grown used to carrying. Meadow runs on Android, though there is no open app store waiting to fill the screen back up again. The software comes with a fixed group of services chosen around getting somewhere, meeting someone, listening to something, then heading home.</p>\n    <p>images courtesy Meadow</p>\n    <p>the camera makes you wait</p>\n    <p>The camera is where Meadow gets more interesting. There is a rear lens and a tiny mirror beside it for framing a selfie, while the usual front-facing camera disappears altogether. You can still take photos and video, but they are sent away to sync later instead of appearing instantly for review on the screen.</p>\n    <p>It changes a familiar little gesture. Take the picture, put the phone away. There is no immediate zooming in, deleting, retaking or passing the screen around for approval. Meadow still gives you the photograph. It simply separates taking it from looking at it.</p>\n    <p>the small device works independently from a user’s primary smartphone</p>\n    <p>a second phone comes with a second number</p>\n    <p>Meadow has its own cellular connection and phone number, so it works independently from the smartphone sitting back at home. Service runs on T-Mobile in the US, with plans beginning at $15 per month. That makes the whole setup more involved than switching on a stripped-back mode on an iPhone, though the physical separation is also the point. The distracting device is somewhere else.</p>\n    <p>The first larger batch has now begun reaching preorder customers. Meadow enters a growing category of phones built around doing fewer things, but its design feels especially literal: take the pieces of a smartphone that help you move through a city and put them into a much smaller object. Meanwhile, everything else can wait.</p>\n    <p>Meadow pairs a three-inch square touchscreen with a deliberately limited set of apps</p>\n    <p>Spotify and Apple Music bring streaming to Meadow’s compact screen</p>\n    <p>photos taken on Meadow are synced for viewing later</p>\n    <p>the device runs Android without access to an open app store</p>\n    <p>a tiny mirror beside the rear camera helps users frame self portraits</p>\n    <p>endothermal systems’ first product combines programmable alarms, mechanical controls, removable electronics, and local audio in an open-ended alternative to the smartphone alarm.</p>\n  </body>\n</html>",
+      "word_count": 101,
+      "char_count": 703,
+      "lead_image": "https://www.designboom.com/twitterimages/uploads/2026/09/meadow-smartphone-essentials-designboom-FB.jpg",
+      "images": [
+        {
+          "url": "https://www.designboom.com/twitterimages/uploads/2026/09/meadow-smartphone-essentials-designboom-FB.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/09/meadow-smartphone-essentials-designboom-FB.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/orphea-compact-13-key-electronic-piano-Pianni-designboom-700-500x400-22b08q85r592.jpg",
+          "alt": "orphea: a playable 13-key electronic piano that fits into your pocket",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/08/tobi-fortune-teller-keyring-designboom-700-500x400-22b08q85r159.jpg",
+          "alt": "TOBI turns digital fortunes into a tiny ‘cyber friend’ for your keyring",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/motorola-razr-swarovski-flip-phone-maria-jose-martin-designboom-700-500x400-22b08q85r524.jpg",
+          "alt": "motorola gives its razr a quilted shell covered in swarovski crystals",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/07/torras_designboom_700-500x400-22b08q85r132.jpg",
+          "alt": "TORRAS ostand q3 air pro embeds its latest airbag technology to redefine mobile protection",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/07/light-flip-phone-designboom-700-500x400-22b08q85r690.jpg",
+          "alt": "light’s nostalgic flip phone is ‘designed to be used as little as possible’",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/06/commodore-callback-8020-flip-phone-designboom-700-500x400-22b08q85r207.jpg",
+          "alt": "commodore's Y2K-style flip phone has T9 texting, maps, and music, but no social media",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/tangent-porsche-911-C4-safari-designboom-700-1-560x448-22b08q85r771.jpg",
+          "alt": "tangent lifts porsche 911 three inches for a chicago-built urban safari",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/orphea-compact-13-key-electronic-piano-Pianni-designboom-700-560x448-22b08q85r592.jpg",
+          "alt": "orphea: a playable 13-key electronic piano that fits into your pocket",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 10,
+      "extractor": "trafilatura",
+      "status": "partial",
+      "error": "short_text",
+      "first_seen_at": "2026-09-28T03:22:27Z"
+    },
+    {
       "id": "828e503c6b43deac",
       "title": "Walmart says it's not using personal information to set prices as it expands digital shelf labels",
       "header": "KSAT",
@@ -536,25 +858,25 @@
     {
       "id": "ecaa37fcd0a047b8",
       "title": "What’s The Latest On CRISPR Gene Editing Technology?",
-      "header": "forbes.com",
+      "header": "Forbes",
       "published_at": "2026-09-27T20:16:47Z",
       "published_raw": "Sun, 27 Sep 2026 20:16:47 GMT",
       "google_news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVdGUDlhRGZiMzdTY2UzeDRfaUdLVFZoRnhiNjExSEdKeDdXR283U3k1MzUwSlNuN1NwSUZzNDBMZ2V0VkxiTkRGVUZndGREWjFtRWJQSUtCR25QN3ltODhWRG13cDlsUVdBdHQ1V3MxaUVzZExPSnpQR1VnYlpydEYyRHJNbW10cFFPQ2ZEV3k1MlVOYmZ4alY1YlhHUm9R?oc=5",
-      "description": "What’s The Latest On CRISPR Gene Editing Technology? forbes.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVdGUDlhRGZiMzdTY2UzeDRfaUdLVFZoRnhiNjExSEdKeDdXR283U3k1MzUwSlNuN1NwSUZzNDBMZ2V0VkxiTkRGVUZndGREWjFtRWJQSUtCR25QN3ltODhWRG13cDlsUVdBdHQ1V3MxaUVzZExPSnpQR1VnYlpydEYyRHJNbW10cFFPQ2ZEV3k1MlVOYmZ4alY1YlhHUm9R?oc=5\" target=\"_blank\">What’s The Latest On CRISPR Gene Editing Technology?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">forbes.com</font>",
+      "description": "What’s The Latest On CRISPR Gene Editing Technology? Forbes",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVdGUDlhRGZiMzdTY2UzeDRfaUdLVFZoRnhiNjExSEdKeDdXR283U3k1MzUwSlNuN1NwSUZzNDBMZ2V0VkxiTkRGVUZndGREWjFtRWJQSUtCR25QN3ltODhWRG13cDlsUVdBdHQ1V3MxaUVzZExPSnpQR1VnYlpydEYyRHJNbW10cFFPQ2ZEV3k1MlVOYmZ4alY1YlhHUm9R?oc=5\" target=\"_blank\">What’s The Latest On CRISPR Gene Editing Technology?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
       "description_links": [
         "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVdGUDlhRGZiMzdTY2UzeDRfaUdLVFZoRnhiNjExSEdKeDdXR283U3k1MzUwSlNuN1NwSUZzNDBMZ2V0VkxiTkRGVUZndGREWjFtRWJQSUtCR25QN3ltODhWRG13cDlsUVdBdHQ1V3MxaUVzZExPSnpQR1VnYlpydEYyRHJNbW10cFFPQ2ZEV3k1MlVOYmZ4alY1YlhHUm9R?oc=5"
       ],
-      "scraped_at": "2026-09-27T23:35:35Z",
+      "scraped_at": "2026-09-28T03:22:28Z",
       "url": "https://www.forbes.com/sites/saibala/2026/09/27/whats-the-latest-on-crispr-gene-editing-technology/",
       "final_url": "https://www.forbes.com/sites/saibala/2026/09/27/whats-the-latest-on-crispr-gene-editing-technology/",
-      "source": "forbes.com",
+      "source": "Forbes",
       "article_title": "",
       "heading": "What’s The Latest On CRISPR Gene Editing Technology?",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
-      "summary": "What’s The Latest On CRISPR Gene Editing Technology? forbes.com",
+      "summary": "What’s The Latest On CRISPR Gene Editing Technology? Forbes",
       "content": "",
       "content_html": "",
       "word_count": 0,
@@ -1103,7 +1425,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RVEFuOGY0ZTdaX2tycHVJTjU0a2FZV25xYkg5VktBLWpYOFBaSE1zcW9xbldNQVFJVlkxY3pzTDlHaWY3eXhuVXBfWnJKRTg5UHgxeDJ5UEZRTXRIVkFmSFNNRUc?oc=5"
       ],
-      "scraped_at": "2026-09-27T17:26:09Z",
+      "scraped_at": "2026-09-28T03:22:27Z",
       "url": "https://www.wsj.com/tech/ai/metas-muse-moment-4c49ac0e",
       "final_url": "https://www.wsj.com/tech/ai/metas-muse-moment-4c49ac0e",
       "source": "WSJ",
@@ -1172,7 +1494,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc3JzMGJFcjJ2Qkd4ZXp4T2lQSU1ubFo2dzJVSEQ0OEFqM2NWQktMbnJQM0lHSnd0NmdJNHRrd0lXd0RhX3ZpalN2ZG9iRktZZnZsWS1vR25ieC1NQWhPNXdwM0xvZXVPWTVyNTRyMlRaTmhuTkZoYXJMeDh1ZHlwUW5qcTMxLVE?oc=5"
       ],
-      "scraped_at": "2026-09-27T23:35:36Z",
+      "scraped_at": "2026-09-28T03:22:28Z",
       "url": "https://thealabamabaptist.org/opinion-technology-and-modern-mans-tower-of-babel/",
       "final_url": "https://thealabamabaptist.org/podcast/amplify-for-april-5-2021/",
       "source": "The Alabama Baptist",
@@ -1346,6 +1668,40 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-27T12:41:08Z"
+    },
+    {
+      "id": "4f3af0783f3a175f",
+      "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+      "header": "The New York Times",
+      "published_at": "2026-09-27T11:22:48Z",
+      "published_raw": "Sun, 27 Sep 2026 11:22:48 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPajQ0bkdBX2JMZzdXbG1BaVM3enFHQUsxVUZhT3V2MUVGdV9fck5tTDRlbjA1TWpPR003NFgtYUh2d0UxNnk4VXVpNWVQbkJKT3ViR0pLcjZ6OVhlTk9xbEtyelcxcHJna1NEeWhGSlYwb0pQd2pMT3ZNdXRkNlVqMQ?oc=5",
+      "description": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind The New York Times",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPajQ0bkdBX2JMZzdXbG1BaVM3enFHQUsxVUZhT3V2MUVGdV9fck5tTDRlbjA1TWpPR003NFgtYUh2d0UxNnk4VXVpNWVQbkJKT3ViR0pLcjZ6OVhlTk9xbEtyelcxcHJna1NEeWhGSlYwb0pQd2pMT3ZNdXRkNlVqMQ?oc=5\" target=\"_blank\">As A.I. Accelerates, Governments Are Increasingly Being Left Behind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPajQ0bkdBX2JMZzdXbG1BaVM3enFHQUsxVUZhT3V2MUVGdV9fck5tTDRlbjA1TWpPR003NFgtYUh2d0UxNnk4VXVpNWVQbkJKT3ViR0pLcjZ6OVhlTk9xbEtyelcxcHJna1NEeWhGSlYwb0pQd2pMT3ZNdXRkNlVqMQ?oc=5"
+      ],
+      "scraped_at": "2026-09-28T03:22:27Z",
+      "url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+      "final_url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+      "source": "The New York Times",
+      "article_title": "",
+      "heading": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind The New York Times",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-09-27T12:41:06Z"
     },
     {
       "id": "7dfc02bdbbd24469",
@@ -1667,40 +2023,6 @@
       "first_seen_at": "2026-09-27T12:41:06Z"
     },
     {
-      "id": "4f3af0783f3a175f",
-      "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
-      "header": "The New York Times",
-      "published_at": "2026-09-27T09:01:20Z",
-      "published_raw": "Sun, 27 Sep 2026 09:01:20 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPajQ0bkdBX2JMZzdXbG1BaVM3enFHQUsxVUZhT3V2MUVGdV9fck5tTDRlbjA1TWpPR003NFgtYUh2d0UxNnk4VXVpNWVQbkJKT3ViR0pLcjZ6OVhlTk9xbEtyelcxcHJna1NEeWhGSlYwb0pQd2pMT3ZNdXRkNlVqMQ?oc=5",
-      "description": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind The New York Times",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPajQ0bkdBX2JMZzdXbG1BaVM3enFHQUsxVUZhT3V2MUVGdV9fck5tTDRlbjA1TWpPR003NFgtYUh2d0UxNnk4VXVpNWVQbkJKT3ViR0pLcjZ6OVhlTk9xbEtyelcxcHJna1NEeWhGSlYwb0pQd2pMT3ZNdXRkNlVqMQ?oc=5\" target=\"_blank\">As A.I. Accelerates, Governments Are Increasingly Being Left Behind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPajQ0bkdBX2JMZzdXbG1BaVM3enFHQUsxVUZhT3V2MUVGdV9fck5tTDRlbjA1TWpPR003NFgtYUh2d0UxNnk4VXVpNWVQbkJKT3ViR0pLcjZ6OVhlTk9xbEtyelcxcHJna1NEeWhGSlYwb0pQd2pMT3ZNdXRkNlVqMQ?oc=5"
-      ],
-      "scraped_at": "2026-09-27T23:35:34Z",
-      "url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
-      "final_url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
-      "source": "The New York Times",
-      "article_title": "",
-      "heading": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind The New York Times",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-27T12:41:06Z"
-    },
-    {
       "id": "f75f13688d773879",
       "title": "The River: In the absence of a true ‘boatman’s bethel’, technology keeps old river rats in the know",
       "header": "nkytribune.com",
@@ -1966,7 +2288,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3dBWVdHeXkyTWtrRFd2YjBRblBMU00tZmlFaUpoOFV2alJxWWV1SGdIUDBTemtqcF9uVkdBTWg4TktqQXZwVnlVRmRvdlNYWE9xUDJfMTBWcFdVd1FyemJJNTNDcmY1bVd6em5qejFHX0tZazkyWUZTNnFMSGo0NWlDS0lIN0wzZ25wSXpNbWVBRjc2TmYwTDBqejVEcWc?oc=5"
       ],
-      "scraped_at": "2026-09-27T12:41:06Z",
+      "scraped_at": "2026-09-28T03:22:27Z",
       "url": "https://seekingalpha.com/news/4647381-apple-owes-taction-technology-5_7b-violating-haptics-patents",
       "final_url": "https://seekingalpha.com/news/4647381-apple-owes-taction-technology-5_7b-violating-haptics-patents",
       "source": "Seeking Alpha",
@@ -1978,11 +2300,11 @@
       ],
       "article_published_at": "2026-09-26T17:31:04-04:00",
       "article_modified_at": "2026-09-26T21:31:52.000Z",
-      "summary": "Apple owes Taction Technology $5.7B for violating haptics patents Seeking Alpha",
+      "summary": "Federal jury orders Apple to pay $5.7B in haptics patent damages to Taction Technology. Read more here.",
       "content": "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser.\nIs this happening to you frequently? Please\nreport it on our feedback forum.\nIf you have an ad-blocker enabled you may be blocked from proceeding. Please disable your ad-blocker and refresh.\nSearch field\nEntering text into the input field will update the search result below",
       "content_html": "<body class=\"group/body\"><!--$--><!--html--><!--head--><!--body--><div class=\"appLoading appLoaderInvisible\" id=\"app-loader\"></div><span id=\"sprite-source\"></span><div class=\"root\" id=\"root\"><div class=\"flex h-full flex-col\"><div class=\"contents\" lang=\"en-US\"><div class=\"dXruV relative flex min-h-svh lg:min-h-screen\"><div class=\"flex min-w-0 grow flex-col\"><div></div><div class=\"oxhSB text-black relative z-sticky lg:hidden bg-black\"><div></div></div><div></div><main class=\"relative flex grow flex-col xVMU2 ZJK_K lg:pt-0\" id=\"content\"><div class=\"B8T8Q print:hidden md:min-h-18 lg:min-h-40\"></div><div class=\"flex grow flex-col\"><article class=\"container xxl:px-safe-or-36 px-safe-or-4 md:px-safe-or-20\" data-test-id=\"grid-container\"><div class=\"contents\" lang=\"en-US\"><div class=\"SAyGk\"><div class=\"lg:grid lg:grid-cols-template1 gap-18 xl:gap-36\"><div class=\"col-start-1 col-end-3 print:col-start-1 print:col-end-4\" data-test-id=\"grid-col-main\"><div class=\"contents\"><div><!--$?--><!--/$--></div></div><div class=\"sticky z-sticky mSlMC\"></div></div><div class=\"print:hidden\" data-test-id=\"right-rail\"><div class=\"h-full\"></div></div></div></div></div></article></div></main><div class=\"sticky bottom-0 z-sticky w-full\"><!--$--><!--/$--><div></div><div></div></div><!--$--><!--/$--><div class=\"KQ0s4\"><span class=\"invisible\"></span></div><!--$--><!--/$--><div></div></div></div><div class=\"fixed left-0 top-0 z-popover hidden size-full items-center overflow-hidden\" id=\"px-captcha-wrapper\"><div class=\"h7UNp flex size-full place-items-center justify-center bg-black/80\"><div class=\"pJ74o flex flex-col items-center justify-center bg-white py-18 pt-safe px-safe-or-18\"><div id=\"px-captcha\"></div><div><div>To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser.</div><div>Is this happening to you frequently? Please <a class=\"\" href=\"https://help.seekingalpha.com/kb-tickets/new\" rel=\"noopener noreferrer\" target=\"_blank\">report it on our feedback forum.</a></div><div class=\"mb-16\">If you have an ad-blocker enabled you may be blocked from proceeding. Please disable your ad-blocker and refresh.</div></div><div class=\"px-reference-id\"></div></div></div></div></div></div></div><div id=\"drawerRoot\"></div><div id=\"modalRoot\"></div><!--/$--><div hidden=\"\" id=\"S:0\"><div class=\"relative align-middle A3cNm mr-24 grow\" data-test-id=\"search-block\"><div class=\"flex flex-wrap w-full flex-col\"><label class=\"sr-only\" for=\"main-search-id\">Search field</label><div class=\"relative w-full\"><input aria-autocomplete=\"none\" aria-controls=\"\" aria-expanded=\"false\" aria-haspopup=\"true\" autocomplete=\"off\" class=\"inline-block text-ellipsis bg-clip-padding h-44 rounded-8 px-12 py-8 text-large-r border border-black-10 bg-white text-black placeholder:text-black-35 dark:border-black-30/40 dark:bg-black-95 dark:text-black-10 dark:placeholder:text-black-15 dark:focus:border-black-10 disabled:border-black-10 disabled:bg-black-5 disabled:text-black-10 disabled:opacity-100 dark:disabled:border-black-80 dark:disabled:bg-black-95 dark:disabled:text-black-80 read-only:text-black-35 dark:read-only:text-black-30 w-full vendor-clear-input-button invalid:shadow-none read-only:opacity-100 dark:placeholder:text-black-30 dark:read-only:text-black-30 rounded-8 lg:text-medium-2-r pr-38\" data-test-id=\"search-input\" id=\"main-search-id\" placeholder=\"Symbols, Analysts, Keywords\" spellcheck=\"false\" type=\"search\" value=\"\"/></div></div><div class=\"sr-only\"><span id=\"search-description-id\">Entering text into the input field will update the search result below</span><span aria-atomic=\"false\" aria-live=\"polite\" role=\"alert\"></span><span aria-atomic=\"false\" aria-live=\"polite\" role=\"alert\"></span></div></div></div><div hidden=\"\" id=\"S:1\"></div></body>",
-      "word_count": 0,
-      "char_count": 0,
+      "word_count": 61,
+      "char_count": 373,
       "lead_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2279656546/image_2279656546.jpg?io=getty-c-w630",
       "images": [
         {
@@ -2010,10 +2332,10 @@
           "role": "lead"
         }
       ],
-      "image_count": 0,
+      "image_count": 4,
       "extractor": "bs4",
       "status": "partial",
-      "error": "download_failed",
+      "error": "short_text",
       "first_seen_at": "2026-09-26T21:46:35Z"
     },
     {
@@ -2752,7 +3074,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOXduWFl4SXl1dlNpaDVMVUdxbENVSGFqV3hFYnl2ZE8yTTRNZVAxZFpwTERQZzExTmg1ZG5IdHFtRjg5cUtGaU1pNndEa0UzMzg1YWJWc203ZnVOajF3MUM2RGhQTllJTXRub05McENSTExBQVhQUm1aYlZIN3RyR2RfN1V4cjZ1bktEVjV4bk5WdFowdVZENlhWOE0wU1Y0T25LRk8tbjBFendGaVhNdlp5aUZNWFM4YUhKdzhNNFFLUQ?oc=5"
       ],
-      "scraped_at": "2026-09-27T23:35:35Z",
+      "scraped_at": "2026-09-28T03:22:27Z",
       "url": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
       "final_url": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
       "source": "Reuters",
@@ -3378,7 +3700,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1JPb0pZMmZRS05JSXFHWFJCRXh0ZXlkSUtjVVJsUzhkMUlQeVFuQWVJUFM1ZjBDbUNLcFp5Q1lQUG1ienc0Z3o0XzJ6QnF3ZFV3a0hUa3VpSDZkZGd3UEZySVBQckFwZVBFa3pMVExjeDN5ZjM3bWVSeWlpc3BOa3pOSzJiaVBqeWVzMDVsVzVNcmtzRmhXYU9JQV81U0xIVlVmdmNDS3Bxa2pBWVUxemlUT1o2ZU9MU0tZRA?oc=5"
       ],
-      "scraped_at": "2026-09-27T20:47:23Z",
+      "scraped_at": "2026-09-28T03:22:29Z",
       "url": "https://federalnewsnetwork.com/contracting/2026/09/modernizing-government-technology-takes-more-than-faster-procurement/",
       "final_url": "https://federalnewsnetwork.com/amtower-off-center/2019/03/amplifying-your-brand-in-the-govcon-market/",
       "source": "FederalNewsNetwork.com",
@@ -24727,294 +25049,6 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-18T13:20:43Z"
-    },
-    {
-      "id": "4ffbde535adfd91a",
-      "title": "Hegseth tours technology bringing unmanned boats to war",
-      "header": "NewsNation",
-      "published_at": "2026-09-18T11:14:43Z",
-      "published_raw": "Fri, 18 Sep 2026 11:14:43 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT1NnWnB1VXNqczRrMjkzSkVaWUZ5akxFUHdHa0pqN1ZSYUVyaFZlR0FlWFVzY0tLeG5SM2s3SDZJTXpIMTRYbGtGNkx6RmVWcHdVYWUwY19ZU21aZUZPeWhzd2ExN2ZpMEFlcldGcXBzcFE0RjlCYWRFV1lFYlBOYzNnaXF5UjY1LXJWOU9yRDLSAZYBQVVfeXFMUHhZaV81UGVGOUh3VnhMbC1yZ3FtWklyTkhxdC1GRUpqN1o0TF8tRTF1RmFiZWh6WXZ2UVNQV2MzM0cwVTcxTjlEanl6aGUyX1o1NkhVWG9UcHpYNVotYmwwbkliMXhrSUg5U0UxaHEwZG5yV3hHMThWaDh6emtoUlZ4eVJBbmlxV0dOZ0tsemdoMDJJRzJ3?oc=5",
-      "description": "Hegseth tours technology bringing unmanned boats to war NewsNation",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOT1NnWnB1VXNqczRrMjkzSkVaWUZ5akxFUHdHa0pqN1ZSYUVyaFZlR0FlWFVzY0tLeG5SM2s3SDZJTXpIMTRYbGtGNkx6RmVWcHdVYWUwY19ZU21aZUZPeWhzd2ExN2ZpMEFlcldGcXBzcFE0RjlCYWRFV1lFYlBOYzNnaXF5UjY1LXJWOU9yRDLSAZYBQVVfeXFMUHhZaV81UGVGOUh3VnhMbC1yZ3FtWklyTkhxdC1GRUpqN1o0TF8tRTF1RmFiZWh6WXZ2UVNQV2MzM0cwVTcxTjlEanl6aGUyX1o1NkhVWG9UcHpYNVotYmwwbkliMXhrSUg5U0UxaHEwZG5yV3hHMThWaDh6emtoUlZ4eVJBbmlxV0dOZ0tsemdoMDJJRzJ3?oc=5\" target=\"_blank\">Hegseth tours technology bringing unmanned boats to war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsNation</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT1NnWnB1VXNqczRrMjkzSkVaWUZ5akxFUHdHa0pqN1ZSYUVyaFZlR0FlWFVzY0tLeG5SM2s3SDZJTXpIMTRYbGtGNkx6RmVWcHdVYWUwY19ZU21aZUZPeWhzd2ExN2ZpMEFlcldGcXBzcFE0RjlCYWRFV1lFYlBOYzNnaXF5UjY1LXJWOU9yRDLSAZYBQVVfeXFMUHhZaV81UGVGOUh3VnhMbC1yZ3FtWklyTkhxdC1GRUpqN1o0TF8tRTF1RmFiZWh6WXZ2UVNQV2MzM0cwVTcxTjlEanl6aGUyX1o1NkhVWG9UcHpYNVotYmwwbkliMXhrSUg5U0UxaHEwZG5yV3hHMThWaDh6emtoUlZ4eVJBbmlxV0dOZ0tsemdoMDJJRzJ3?oc=5"
-      ],
-      "scraped_at": "2026-09-18T13:20:43Z",
-      "url": "https://www.newsnationnow.com/us-news/military/hegseth-tours-technology-unmanned-boats/",
-      "final_url": "https://www.newsnationnow.com/us-news/military/hegseth-tours-technology-unmanned-boats/amp/",
-      "source": "NewsNation",
-      "article_title": "Hegseth tours technology bringing unmanned boats to war",
-      "heading": "Hegseth tours technology bringing unmanned boats to war",
-      "authors": [
-        "Xavier Walton"
-      ],
-      "article_published_at": "2026-09-18T11:07:39+00:00",
-      "article_modified_at": "2026-09-18T12:32:38+00:00",
-      "summary": "As part of his “Arsenal of Freedom Tour,” Hegseth is scheduled to visit Austin-based Saronic Technologies.",
-      "content": "(NewsNation) — Defense Secretary Pete Hegseth is heading to Texas Friday, where one of his stops will put a spotlight on technology that is changing how the United States fights at sea.\nAs part of his “Arsenal of Freedom Tour,” Hegseth is scheduled to visit Austin-based Saronic Technologies, a defense technology company that develops autonomous surface vessels. He is also scheduled to visit Capital Factory and meet with technology and defense industry leaders.\nThe Saronic visit is particularly notable, as the company’s boats have already been used in U.S. military combat.\nIn July, U.S. Central Command said three Corsair unmanned boats struck a submarine and ship-maintenance facility at Iran’s Bandar Abbas Naval Base. CENTCOM described it as the first time American forces used sea drones in combat operations.\nThat means Hegseth’s visit comes as autonomous systems are moving beyond the testing phase and onto the battlefield.\nThe technology offers the military another way to conduct operations at sea without putting American sailors aboard every vessel. The Pentagon has increasingly emphasized getting new technology into the hands of warfighters faster, and Hegseth’s tour is focused on that effort.\nAfter his Austin stops, Hegseth is scheduled to travel to College Station, where he will address the Texas A&M Corps of Cadets and tour the university’s Veterans Resource Center. He is also expected to welcome new recruits and administer the oath of enlistment.\nHis Texas trip therefore puts two Pentagon priorities on display: developing new military technology and building the force needed to use it.\nAnd with autonomous boats already being used in combat, the technology Hegseth is visiting in Austin is no longer simply a future concept — it is becoming part of how the U.S. conducts warfare at sea.",
-      "content_html": "<html>\n  <body>\n    <p>(NewsNation) — Defense Secretary Pete Hegseth is heading to Texas Friday, where one of his stops will put a spotlight on technology that is changing how the United States fights at sea.</p>\n    <p>As part of his “Arsenal of Freedom Tour,” Hegseth is scheduled to visit Austin-based Saronic Technologies, a defense technology company that develops autonomous surface vessels. He is also scheduled to visit Capital Factory and meet with technology and defense industry leaders.</p>\n    <p>The Saronic visit is particularly notable, as the company’s boats have already been used in U.S. military combat.</p>\n    <p>In July, U.S. Central Command said three Corsair unmanned boats struck a submarine and ship-maintenance facility at Iran’s Bandar Abbas Naval Base. CENTCOM described it as the first time American forces used sea drones in combat operations.</p>\n    <p>That means Hegseth’s visit comes as autonomous systems are moving beyond the testing phase and onto the battlefield.</p>\n    <p>The technology offers the military another way to conduct operations at sea without putting American sailors aboard every vessel. The Pentagon has increasingly emphasized getting new technology into the hands of warfighters faster, and Hegseth’s tour is focused on that effort.</p>\n    <p>After his Austin stops, Hegseth is scheduled to travel to College Station, where he will address the Texas A&amp;M Corps of Cadets and tour the university’s Veterans Resource Center. He is also expected to welcome new recruits and administer the oath of enlistment.</p>\n    <p>His Texas trip therefore puts two Pentagon priorities on display: developing new military technology and building the force needed to use it.</p>\n    <p>And with autonomous boats already being used in combat, the technology Hegseth is visiting in Austin is no longer simply a future concept — it is becoming part of how the U.S. conducts warfare at sea.</p>\n  </body>\n</html>",
-      "word_count": 288,
-      "char_count": 1819,
-      "lead_image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/08/6a917d9d5ea093.36053822.jpeg?w=1280",
-      "images": [
-        {
-          "url": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/08/6a917d9d5ea093.36053822.jpeg?w=1280",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/08/6a917d9d5ea093.36053822.jpeg?strip=1&w=640",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 2,
-      "extractor": "trafilatura+amp",
-      "status": "ok",
-      "first_seen_at": "2026-09-18T13:20:43Z"
-    },
-    {
-      "id": "f9aa2062a53f5a26",
-      "title": "Flash floods can strike without warning — this new technology could change that",
-      "header": "The Verge",
-      "published_at": "2026-09-18T11:00:00Z",
-      "published_raw": "Fri, 18 Sep 2026 11:00:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS0FTMTh3TWMwVWxpMGVUX2NKbWh4ZDd6TmwzTkx3SXB4dTloTzlNSnF6SFNacXhqLWczTjRZNF9xb1hNa09Ebk96WnQzb2VFV1pFaVFFTDFuWDJaR2lWMmU2bGdFd1BBd0dMekpkVmJyc2RKSV9GLTA0TWhCZkR2Wm9RU1JUU0FQWGhkNG01alp1XzZTMmNj?oc=5",
-      "description": "Flash floods can strike without warning — this new technology could change that The Verge",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOS0FTMTh3TWMwVWxpMGVUX2NKbWh4ZDd6TmwzTkx3SXB4dTloTzlNSnF6SFNacXhqLWczTjRZNF9xb1hNa09Ebk96WnQzb2VFV1pFaVFFTDFuWDJaR2lWMmU2bGdFd1BBd0dMekpkVmJyc2RKSV9GLTA0TWhCZkR2Wm9RU1JUU0FQWGhkNG01alp1XzZTMmNj?oc=5\" target=\"_blank\">Flash floods can strike without warning — this new technology could change that</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS0FTMTh3TWMwVWxpMGVUX2NKbWh4ZDd6TmwzTkx3SXB4dTloTzlNSnF6SFNacXhqLWczTjRZNF9xb1hNa09Ebk96WnQzb2VFV1pFaVFFTDFuWDJaR2lWMmU2bGdFd1BBd0dMekpkVmJyc2RKSV9GLTA0TWhCZkR2Wm9RU1JUU0FQWGhkNG01alp1XzZTMmNj?oc=5"
-      ],
-      "scraped_at": "2026-09-18T13:20:43Z",
-      "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-      "final_url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-      "source": "The Verge",
-      "article_title": "Flash floods can strike without warning — this new technology could change that",
-      "heading": "Flash floods can strike without warning — this new technology could change that",
-      "authors": [
-        "Megan Wollerton"
-      ],
-      "article_published_at": "2026-09-18T11:00:00+00:00",
-      "article_modified_at": "2026-09-18T11:00:00+00:00",
-      "summary": "New tools are under development to counter the threat of flash floods.",
-      "content": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard.\nFlash floods can strike without warning — this new technology could change that\nSatellite data combined with machine learning gives meteorologists new tools to predict deadly floods sooner.\nFlash floods can strike without warning — this new technology could change that\nSatellite data combined with machine learning gives meteorologists new tools to predict deadly floods sooner.\n“I look over to where the barn is over there, and I see pieces of my wood floating, and I was like, ‘What?’ And I immediately was like, ‘I have to go.’ Close my laptop, and I get my kids up, and I’m like, ‘Something’s wrong,’” Lin recalls.\nLin and her family got out safely and sheltered at a neighbor’s house, but Lanesville got over 8 inches of rain within just a few hours that day, way over the threshold for what is considered “heavy” rainfall. The water was gone a few hours later.\nFloods are the second-deadliest type of weather event in the United States and the deadliest globally. Just 6 inches of fast-flowing water can knock an adult off their feet, 12 inches can lift a car, and 2 feet can move larger vehicles like trucks and SUVs. A warming climate means more instances of extreme rainfall in the US, creating more opportunities for floods to occur. The deadly flash flooding in Nepal in August caused by a glacier collapse shows the power of water to devastate communities worldwide.\nFortunately, new tools are being developed to counter this threat. A new software called the Transient Artifact and Continuous Learning System (TACLS) uses satellites and machine learning to try to spot areas that could flood sooner and help the National Weather Service (NWS) make better decisions when it comes to issuing flash flood alerts.\n“We didn’t get the ‘get on your roof’ warnings until I was already at that person’s house,” Lin says. “All the people in town were already flooded when they started sending out alerts, being like, ‘Get on your roof. We’re dispatching boats.’ So it was way too late.”\nTACLS has the potential to help change that.\n“It will help you save lives,” says Ivory Small, science and operations officer at the NWS San Diego Weather Forecast Office. Without TACLS, Small says, a storm moving into your area “could kill some folks.” With TACLS, “you can put out the warning and save some folks.”\nFollow the water\nWeather forecast offices are responsible for issuing severe weather alerts, including flash flood warnings. There are 122 of them throughout the US and its territories, says Jayme Laber, senior service hydrologist for the NWS Weather Forecast Office in Oxnard, California, which oversees the LA area. Small and Laber worked closely on the TACLS project with a broader team of scientists and researchers, and they hope this new project will streamline weather alerts. To understand TACLS, it’s important to first understand how the NWS issues flood alerts.\nCurrently, the people working in weather forecast offices use a variety of tools to monitor flood conditions. They rely on rain and stream gauges to tell them how much water is in a certain place at any given time, Laber says. They track developing storms using satellites and weather radars. The staff monitors rainfall, but their computers also alert them when it rains more than what is considered safe for a specific area. “Based on the type of soils we have, the steepness of slopes, we have developed flash flood guidance so that we know that if we get this amount of rain in this amount of time in that area, it could result in flash flooding,” Laber says.\n“It will help you save lives.”\n— Ivory Small\nAll of that, plus the years of expertise inside those buildings, determines whether or not someone presses a button to issue a flood alert for their area, Laber says.\nA watch is the least serious alert. It means that there’s a chance a flash flood could happen. The watch might be issued anywhere from 12 to 48 hours in advance, Laber explains. He says local emergency teams should start working on “flood protection measures” when the flood watch is issued, so there’s enough time to prepare before people are stuck and forced to find higher ground. Response teams might review evacuation plans, set up sandbags and road barriers, and identify the highest risk areas ahead of a potential flood.\nAn advisory is the next level up. It might be flooding, “but it’s more nuisance-level. It’s not going to threaten life or property,” Laber says. A warning is the most serious alert. “That’s a life-and-death possibility of being swept off your feet [or] being run over by a car floating down the stream,” Small says.\nThe NWS differentiates a regular flood from a flash flood based on time, says Small. If an area floods in under six hours, it’s a flash flood.\nThe NWS has a lot of different ways to determine whether or not it needs to issue a flash flood warning, but its tech has limitations, says Yehuda Bock, TACLS project lead and research geodesist at the Scripps Institution of Oceanography at the University of California, San Diego. The satellites the NWS uses are more detailed over oceans than land, he says. And tracking rainfall as it’s happening doesn’t give you enough lead time, “because once there’s precipitation, you’re already in the event itself,” he explains.\nDeserts and other less populated areas typically have fewer rain gauges, Laber says. “We have a fairly dense network [of rain gauges], but it doesn’t cover every inch of the Earth.”\nUp in the air\nTACLS uses satellites and machine learning to identify places on a map — for now, just in California — that risk transitioning from rain to dangerous flash floods. But soon, the technology will be available to every NWS office. Scientists from UCSD, the NWS, and NASA worked together to create TACLS. NASA’s Earth Science Technology Office funded the project through its Advanced Information Systems Technology program.\nTACLS relies on the Global Navigation Satellite System (GNSS), which is primarily used to predict earthquakes, says Bock. But the GNSS network, which consists of satellites and ground sensors, also happens to provide data that can help forecasters decide if they need to issue a flash flood warning. The more water vapor, or moisture, there is in the atmosphere, the longer the delay in communication between the GNSS satellites and the sensors on the ground.\nThe amount of moisture, or “precipitable water,” in the atmosphere tells the NWS what is actually happening in the skies leading up to a storm, Laber says.\nTACLS uses satellites and machine learning to identify places that risk transitioning from rain to dangerous flash floods.\nBefore TACLS, Laber and his colleagues had to rely on the forecast, which wasn’t always accurate. TACLS provides real-time data about the precipitable water in the atmosphere to compare to the forecast. This helps them determine whether the storm is actually moving at the speed predicted by the weather models. “It helps us to make better decisions in our warning decision process,” Laber says.\nEven with the GNSS moisture data, forecasters still need something to analyze all of it. Bhavik Chandna, a UCSD graduate student, spent about a year developing the machine learning side of TACLS using what’s called long short-term memory architecture. According to Chandna, this specific machine learning system works especially well for things like developing storms and other weather patterns that change over time.\nYears of atmospheric measurements from the GNSS network, as well as data about atmospheric rivers, precipitation, and flash flood warnings, were used to train the machine learning model to understand moisture changes in the atmosphere “as a storm develops,” Chandna explains. At the same time, the machine learning system was trained to determine if the conditions are right to issue a flash flood warning.\n“Machine learning sucks at some things and excels at some things,” says Joel Johnson, associate professor in the department of earth and planetary sciences at the University of Texas at Austin. Johnson, who was not involved in the TACLS project, knows firsthand the challenges of working with these types of tools. “In general, it’s very easy to have artifacts in your data, false positives. A sensor goes funky, and things like that,” Johnson says. Still, he says TACLS seems “well suited” to the task of predicting flash floods.\nFalse positives do happen, Chandna says. “A real weather system usually affects an area, not just one isolated GNSS station. If one station shows a strong signal but its neighbors do not, that detection can be suppressed. If several nearby stations see the same pattern, we have much more confidence that it represents a real atmospheric signal,” he adds.\nChandna says TACLS is not intended to replace the forecasters who issue weather alerts. It’s just another piece of information that can assist in their decision-making, he says.\nFinding a better way\nTACLS software is already being used in the LA and San Diego weather forecast offices where flash flooding is a common occurrence, says Laber. “In the West, we deal with a lot more flash flooding, where it happens a lot quicker,” he explains. Today, TACLS shows them a graph with various points telling them what is going on in real time.\nA newer version of TACLS with improved graphics is currently being loaded onto the NWS system and is nearly done, Laber says. It will be available to all of the NWS offices in the second half of October, he adds. This iteration has a map with detailed graphics showing how much it’s raining and whether an extreme weather event is occurring.\nAccording to Laber, having more tools — like this latest update to TACLS — will further improve their decision-making when it comes to issuing flash flood alerts, and, in turn, maybe speed up alert times so people know there’s a problem sooner.\nLaber says TACLS will likely be used the most in the Western US because the majority of the GNSS sensors are located in places known for earthquake activity. But Chandna thinks TACLS could work well elsewhere too. As long as there are some GNSS sensors and available local weather data, “we could use the same ideology that we have in our system around different parts of the world,” he says.\nSmall is thinking beyond TACLS. He believes ongoing research is crucial to improving how the NWS issues flash flood warnings. “We learn what’s going on a little more every time we do a storm because they’re all different,” he says. “It’s imperative that you do the research after, especially big events, and see what caused it to do what it did, and why, if it was different than what we already knew, did this occur.”\nLin’s concern is Lanesville and her home. “It would have been helpful to know [water was coming] before I was locked in. I couldn’t go anywhere,” Lin says. “If I got an alert that was like, ‘You need to get out now if you’re in lower-lying ground, this is coming.’ Yeah, that would have [been helpful]. But it came in so fast.”",
-      "content_html": "<html>\n  <body><p>On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard.</p><h1>Flash floods can strike without warning — this new technology could change that</h1><p>﻿Satellite data combined with machine learning gives meteorologists new tools to predict deadly floods sooner.</p><img src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=16.666666666667%2C0%2C66.666666666667%2C100&amp;w=2400\" alt=\"268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia\"/><img src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=16.666666666667%2C0%2C66.666666666667%2C100&amp;w=2400\" alt=\"268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia\"/><h1>Flash floods can strike without warning — this new technology could change that</h1><p>﻿Satellite data combined with machine learning gives meteorologists new tools to predict deadly floods sooner.</p><p>“I look over to where the barn is over there, and I see pieces of my wood floating, and I was like, ‘What?’ And I immediately was like, ‘I have to go.’ Close my laptop, and I get my kids up, and I’m like, ‘Something’s wrong,’” Lin recalls.</p><p>Lin and her family got out safely and sheltered at a neighbor’s house, but Lanesville got over 8 inches of rain within just a few hours that day, way over the threshold for what is considered “heavy” rainfall. The water was gone a few hours later.</p><p>Floods are the second-deadliest type of weather event in the United States and the deadliest globally. Just 6 inches of fast-flowing water can knock an adult off their feet, 12 inches can lift a car, and 2 feet can move larger vehicles like trucks and SUVs. A warming climate means more instances of extreme rainfall in the US, creating more opportunities for floods to occur. The deadly flash flooding in Nepal in August caused by a glacier collapse shows the power of water to devastate communities worldwide.</p><p>Fortunately, new tools are being developed to counter this threat. A new software called the Transient Artifact and Continuous Learning System (TACLS) uses satellites and machine learning to try to spot areas that could flood sooner and help the National Weather Service (NWS) make better decisions when it comes to issuing flash flood alerts.</p><p>“We didn’t get the ‘get on your roof’ warnings until I was already at that person’s house,” Lin says. “All the people in town were already flooded when they started sending out alerts, being like, ‘Get on your roof. We’re dispatching boats.’ So it was way too late.”</p><p>TACLS has the potential to help change that.</p><p>“It will help you save lives,” says Ivory Small, science and operations officer at the NWS San Diego Weather Forecast Office. Without TACLS, Small says, a storm moving into your area “could kill some folks.” With TACLS, “you can put out the warning and save some folks.”</p><img src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Lanesville4-PinestoneLake.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=2400\" alt=\"The river near Laura Lin’s house in Lanesville, Indiana, flooded after a recent rain. New technology could provide residents with quicker warnings when the threat arises.\"/><h4>Follow the water</h4><p>Weather forecast offices are responsible for issuing severe weather alerts, including flash flood warnings. There are 122 of them throughout the US and its territories, says Jayme Laber, senior service hydrologist for the NWS Weather Forecast Office in Oxnard, California, which oversees the LA area. Small and Laber worked closely on the TACLS project with a broader team of scientists and researchers, and they hope this new project will streamline weather alerts. To understand TACLS, it’s important to first understand how the NWS issues flood alerts.</p><p>Currently, the people working in weather forecast offices use a variety of tools to monitor flood conditions. They rely on rain and stream gauges to tell them how much water is in a certain place at any given time, Laber says. They track developing storms using satellites and weather radars. The staff monitors rainfall, but their computers also alert them when it rains more than what is considered safe for a specific area. “Based on the type of soils we have, the steepness of slopes, we have developed flash flood guidance so that we know that if we get this amount of rain in this amount of time in that area, it could result in flash flooding,” Laber says.</p><p>“It will help you save lives.”</p>— Ivory Small<p>All of that, plus the years of expertise inside those buildings, determines whether or not someone presses a button to issue a flood alert for their area, Laber says.</p><p>A watch is the least serious alert. It means that there’s a chance a flash flood could happen. The watch might be issued anywhere from 12 to 48 hours in advance, Laber explains. He says local emergency teams should start working on “flood protection measures” when the flood watch is issued, so there’s enough time to prepare before people are stuck and forced to find higher ground. Response teams might review evacuation plans, set up sandbags and road barriers, and identify the highest risk areas ahead of a potential flood.</p><p>An advisory is the next level up. It might be flooding, “but it’s more nuisance-level. It’s not going to threaten life or property,” Laber says. A warning is the most serious alert. “That’s a life-and-death possibility of being swept off your feet [or] being run over by a car floating down the stream,” Small says.</p><p>The NWS differentiates a regular flood from a flash flood based on time, says Small. If an area floods in under six hours, it’s a flash flood.</p><p>The NWS has a lot of different ways to determine whether or not it needs to issue a flash flood warning, but its tech has limitations, says Yehuda Bock, TACLS project lead and research geodesist at the Scripps Institution of Oceanography at the University of California, San Diego. The satellites the NWS uses are more detailed over oceans than land, he says. And tracking rainfall as it’s happening doesn’t give you enough lead time, “because once there’s precipitation, you’re already in the event itself,” he explains.</p><p>Deserts and other less populated areas typically have fewer rain gauges, Laber says. “We have a fairly dense network [of rain gauges], but it doesn’t cover every inch of the Earth.”</p><h4>Up in the air</h4><p>TACLS uses satellites and machine learning to identify places on a map — for now, just in California — that risk transitioning from rain to dangerous flash floods. But soon, the technology will be available to every NWS office. Scientists from UCSD, the NWS, and NASA worked together to create TACLS. NASA’s Earth Science Technology Office funded the project through its Advanced Information Systems Technology program.</p><p>TACLS relies on the Global Navigation Satellite System (GNSS), which is primarily used to predict earthquakes, says Bock. But the GNSS network, which consists of satellites and ground sensors, also happens to provide data that can help forecasters decide if they need to issue a flash flood warning. The more water vapor, or moisture, there is in the atmosphere, the longer the delay in communication between the GNSS satellites and the sensors on the ground.</p><p>The amount of moisture, or “precipitable water,” in the atmosphere tells the NWS what is actually happening in the skies leading up to a storm, Laber says.</p><p>TACLS uses satellites and machine learning to identify places that risk transitioning from rain to dangerous flash floods.</p><p>Before TACLS, Laber and his colleagues had to rely on the forecast, which wasn’t always accurate. TACLS provides real-time data about the precipitable water in the atmosphere to compare to the forecast. This helps them determine whether the storm is actually moving at the speed predicted by the weather models. “It helps us to make better decisions in our warning decision process,” Laber says.</p><p>Even with the GNSS moisture data, forecasters still need something to analyze all of it. Bhavik Chandna, a UCSD graduate student, spent about a year developing the machine learning side of TACLS using what’s called long short-term memory architecture. According to Chandna, this specific machine learning system works especially well for things like developing storms and other weather patterns that change over time.</p><p>Years of atmospheric measurements from the GNSS network, as well as data about atmospheric rivers, precipitation, and flash flood warnings, were used to train the machine learning model to understand moisture changes in the atmosphere “as a storm develops,” Chandna explains. At the same time, the machine learning system was trained to determine if the conditions are right to issue a flash flood warning.</p><p>“Machine learning sucks at some things and excels at some things,” says Joel Johnson, associate professor in the department of earth and planetary sciences at the University of Texas at Austin. Johnson, who was not involved in the TACLS project, knows firsthand the challenges of working with these types of tools. “In general, it’s very easy to have artifacts in your data, false positives. A sensor goes funky, and things like that,” Johnson says. Still, he says TACLS seems “well suited” to the task of predicting flash floods.</p><p>False positives do happen, Chandna says. “A real weather system usually affects an area, not just one isolated GNSS station. If one station shows a strong signal but its neighbors do not, that detection can be suppressed. If several nearby stations see the same pattern, we have much more confidence that it represents a real atmospheric signal,” he adds.</p><p>Chandna says TACLS is not intended to replace the forecasters who issue weather alerts. It’s just another piece of information that can assist in their decision-making, he says.</p><h4>Finding a better way</h4><p>TACLS software is already being used in the LA and San Diego weather forecast offices where flash flooding is a common occurrence, says Laber. “In the West, we deal with a lot more flash flooding, where it happens a lot quicker,” he explains. Today, TACLS shows them a graph with various points telling them what is going on in real time.</p><p>A newer version of TACLS with improved graphics is currently being loaded onto the NWS system and is nearly done, Laber says. It will be available to all of the NWS offices in the second half of October, he adds. This iteration has a map with detailed graphics showing how much it’s raining and whether an extreme weather event is occurring.</p><p>According to Laber, having more tools — like this latest update to TACLS — will further improve their decision-making when it comes to issuing flash flood alerts, and, in turn, maybe speed up alert times so people know there’s a problem sooner.</p><p>Laber says TACLS will likely be used the most in the Western US because the majority of the GNSS sensors are located in places known for earthquake activity. But Chandna thinks TACLS could work well elsewhere too. As long as there are some GNSS sensors and available local weather data, “we could use the same ideology that we have in our system around different parts of the world,” he says.</p><p>Small is thinking beyond TACLS. He believes ongoing research is crucial to improving how the NWS issues flash flood warnings. “We learn what’s going on a little more every time we do a storm because they’re all different,” he says. “It’s imperative that you do the research after, especially big events, and see what caused it to do what it did, and why, if it was different than what we already knew, did this occur.”</p><p>Lin’s concern is Lanesville and her home. “It would have been helpful to know [water was coming] before I was locked in. I couldn’t go anywhere,” Lin says. “If I got an alert that was like, ‘You need to get out now if you’re in lower-lying ground, this is coming.’ Yeah, that would have [been helpful]. But it came in so fast.”</p></body>\n</html>",
-      "word_count": 1905,
-      "char_count": 11236,
-      "lead_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "images": [
-        {
-          "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&strip=all&crop=16.666666666667,0,66.666666666667,100",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
-          "alt": "268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Lanesville4-PinestoneLake.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-          "alt": "The river near Laura Lin’s house in Lanesville, Indiana, flooded after a recent rain. New technology could provide residents with quicker warnings when the threat arises.",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 6,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-18T13:20:43Z"
-    },
-    {
-      "id": "51c52dafe6854741",
-      "title": "MicroLub raises $10m to advance fat-reduction ingredient technology",
-      "header": "Nutraceutical Business Review",
-      "published_at": "2026-09-18T10:53:55Z",
-      "published_raw": "Fri, 18 Sep 2026 10:53:55 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPejFXVldMdlNGZ01QSmRqMUFEZlR0M3JPUUJQb0J2QVNseFhrUjNiNm9rb25vbllOX0hyOUlnaHkyOVFqd2piMTlPYUMxYmVSLUViZFVVV3ZkYXFEMjBLNzAyVlpKR2JnZVFkWEVYaVl6bThCVnB5ZzFvamNkOExMczhWYmFXZE5jbF90S05LbnhPNW5QaDZFSVNmZw?oc=5",
-      "description": "MicroLub raises $10m to advance fat-reduction ingredient technology Nutraceutical Business Review",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPejFXVldMdlNGZ01QSmRqMUFEZlR0M3JPUUJQb0J2QVNseFhrUjNiNm9rb25vbllOX0hyOUlnaHkyOVFqd2piMTlPYUMxYmVSLUViZFVVV3ZkYXFEMjBLNzAyVlpKR2JnZVFkWEVYaVl6bThCVnB5ZzFvamNkOExMczhWYmFXZE5jbF90S05LbnhPNW5QaDZFSVNmZw?oc=5\" target=\"_blank\">MicroLub raises $10m to advance fat-reduction ingredient technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nutraceutical Business Review</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPejFXVldMdlNGZ01QSmRqMUFEZlR0M3JPUUJQb0J2QVNseFhrUjNiNm9rb25vbllOX0hyOUlnaHkyOVFqd2piMTlPYUMxYmVSLUViZFVVV3ZkYXFEMjBLNzAyVlpKR2JnZVFkWEVYaVl6bThCVnB5ZzFvamNkOExMczhWYmFXZE5jbF90S05LbnhPNW5QaDZFSVNmZw?oc=5"
-      ],
-      "scraped_at": "2026-09-18T13:20:46Z",
-      "url": "https://nutraceuticalbusinessreview.com/microlub-raises-10m-to-advance-fat-reduction-ingredient",
-      "final_url": "https://nutraceuticalbusinessreview.com/microlub-raises-10m-to-advance-fat-reduction-ingredient",
-      "source": "nutraceuticalbusinessreview.com",
-      "article_title": "MicroLub raises $10m to advance fat-reduction ingredient technology",
-      "heading": "MicroLub raises $10m to advance fat-reduction ingredient technology",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "The University of Leeds spin-out will use new funding to scale its protein-based tech for reducing fat and calories while maintaining taste and texture, as demand for GLP-1-driven food reformulation increases",
-      "content": "MicroLub, a University of Leeds spin-out developing ingredient technology for food reformulation, has raised $10m to accelerate the commercialisation of a protein-based solution designed to help manufacturers develop lower-calorie, higher-protein foods without compromising taste or texture.\nThe funding round, led by Northern Gritstone, comes as changing eating habits and the growing use of GLP-1 weight-loss medicines increase demand for higher-protein, lower-calorie foods.\nMicroLub said that its patented technology is designed to address a key challenge for food manufacturers reformulating products in response to these trends: reducing fat and calories while retaining the sensory characteristics that drive consumer acceptance.\nRather than replacing fat with ingredients such as starches, gums or alternative fats, the technology uses proteins to replicate the lubrication provided by fat using water.\nAccording to MicroLub, this can enable manufacturers to reduce fat and calorie content by up to 75% while maintaining the taste, texture and mouthfeel of the finished product.\nThe approach could also support protein fortification and, in some applications, simplify formulations by reducing the requirement for emulsifiers and thickeners.\nMicroLub said the rapid adoption of GLP-1 weight-loss medicines is driving a shift toward higher-protein, lower-calorie foods, while broader regulatory and nutritional pressures are also driving reformulation across food categories.\nHowever, increasing protein content or reducing fat can create sensory challenges — products such as protein bars can develop undesirable textures, while removing fat can affect mouthfeel and eating quality.\nMicroLub's technology is intended to address these formulation challenges while allowing manufacturers to alter the nutritional profile of existing products.\nFounded by Professor Anwesha Sarkar of the University of Leeds' School of Food Science and Nutrition, MicroLub has progressed from laboratory development to industrial-scale manufacturing and is now working with major food and ingredient companies.\nThe latest investment will support further development of the company's proprietary ingredient technology, expansion of its team and international growth in the US and Asian markets.\nIt will also help MicroLub convert existing customer trials into commercial agreements.\nDavid Peters, CEO of MicroLub and former Head of Oatly UK, said the technology could allow manufacturers to reduce fat and increase protein while still retaining mouthfeel and texture.\n“For too long, consumers have had to choose between food products that taste great but are unhealthy and those that are nutritious but compromise on the eating experience.\"\n\"With MicroLub’s technology, that’s no longer the case — they can now literally have their cake and eat it! Our technology enables manufacturers to reduce fat, increase protein and simplify ingredient lists while delivering the indulgent mouthfeel and texture consumers expect.\"\nThis investment supports our international scale-up, team growth and getting MicroLub powered on shelves very soon.",
-      "content_html": "<html>\n  <body>\n    <p>MicroLub, a University of Leeds spin-out developing ingredient technology for food reformulation, has raised $10m to accelerate the commercialisation of a protein-based solution designed to help manufacturers develop lower-calorie, higher-protein foods without compromising taste or texture.</p>\n    <p>The funding round, led by Northern Gritstone, comes as changing eating habits and the growing use of GLP-1 weight-loss medicines increase demand for higher-protein, lower-calorie foods.</p>\n    <p>MicroLub said that its patented technology is designed to address a key challenge for food manufacturers reformulating products in response to these trends: reducing fat and calories while retaining the sensory characteristics that drive consumer acceptance.</p>\n    <p>Rather than replacing fat with ingredients such as starches, gums or alternative fats, the technology uses proteins to replicate the lubrication provided by fat using water.</p>\n    <p>According to MicroLub, this can enable manufacturers to reduce fat and calorie content by up to 75% while maintaining the taste, texture and mouthfeel of the finished product.</p>\n    <p>The approach could also support protein fortification and, in some applications, simplify formulations by reducing the requirement for emulsifiers and thickeners.</p>\n    <p>MicroLub said the rapid adoption of GLP-1 weight-loss medicines is driving a shift toward higher-protein, lower-calorie foods, while broader regulatory and nutritional pressures are also driving reformulation across food categories.<img src=\"https://nutraceuticalbusinessreview.com/microlub-raises-10m-to-advance-fat-reduction-2.png\" alt=\"MicroLub raises m to advance fat-reduction ingredient technology\"/></p>\n    <p>However, increasing protein content or reducing fat can create sensory challenges — products such as protein bars can develop undesirable textures, while removing fat can affect mouthfeel and eating quality.</p>\n    <p>MicroLub's technology is intended to address these formulation challenges while allowing manufacturers to alter the nutritional profile of existing products.</p>\n    <p>Founded by Professor Anwesha Sarkar of the University of Leeds' School of Food Science and Nutrition, MicroLub has progressed from laboratory development to industrial-scale manufacturing and is now working with major food and ingredient companies.</p>\n    <p>The latest investment will support further development of the company's proprietary ingredient technology, expansion of its team and international growth in the US and Asian markets.</p>\n    <p>It will also help MicroLub convert existing customer trials into commercial agreements.</p>\n    <p>David Peters, CEO of MicroLub and former Head of Oatly UK, said the technology could allow manufacturers to reduce fat and increase protein while still retaining mouthfeel and texture.</p>\n    <p>“For too long, consumers have had to choose between food products that taste great but are unhealthy and those that are nutritious but compromise on the eating experience.\"</p>\n    <p>\"With MicroLub’s technology, that’s no longer the case — they can now literally have their cake and eat it! Our technology enables manufacturers to reduce fat, increase protein and simplify ingredient lists while delivering the indulgent mouthfeel and texture consumers expect.\"</p>\n    <blockquote>\n<p>This investment supports our international scale-up, team growth and getting MicroLub powered on shelves very soon.</p></blockquote>\n  </body>\n</html>",
-      "word_count": 440,
-      "char_count": 3121,
-      "lead_image": "https://nutraceuticalbusinessreview.com/article-image-alias/microlub-raises-10m-to-advance-fat-reduction.png",
-      "images": [
-        {
-          "url": "https://nutraceuticalbusinessreview.com/article-image-alias/microlub-raises-10m-to-advance-fat-reduction.png",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://nutraceuticalbusinessreview.com/microlub-raises-10m-to-advance-fat-reduction-2.png",
-          "alt": "MicroLub raises m to advance fat-reduction ingredient technology",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 2,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-18T13:20:46Z"
-    },
-    {
-      "id": "1a80b1243b92a1b5",
-      "title": "The Growing Cost of Technology Friction in Hotel Operation",
-      "header": "Hospitality Net",
-      "published_at": "2026-09-18T10:23:00Z",
-      "published_raw": "Fri, 18 Sep 2026 10:23:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeTAzNHlPYW4zUGpTMWx5N0JGQ0Vwbjd2QzExVEw5d2p3ajYtSFczTVFEYzVxRDdXcGN0dHlFd1lWd1JGd0V3UDVNZlhuSHExY2xGY0c1Y2tCX2FUYW5raERfTWZTVDNwNFJrWmZGN1lPV1BDREtfVGpzLTZMSVlBUWl2dGFxSnJpWG5XQXJFVkw0VGJxSVI4Q1lIMWRnWXkxMTU3Rkg0ODE?oc=5",
-      "description": "The Growing Cost of Technology Friction in Hotel Operation Hospitality Net",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeTAzNHlPYW4zUGpTMWx5N0JGQ0Vwbjd2QzExVEw5d2p3ajYtSFczTVFEYzVxRDdXcGN0dHlFd1lWd1JGd0V3UDVNZlhuSHExY2xGY0c1Y2tCX2FUYW5raERfTWZTVDNwNFJrWmZGN1lPV1BDREtfVGpzLTZMSVlBUWl2dGFxSnJpWG5XQXJFVkw0VGJxSVI4Q1lIMWRnWXkxMTU3Rkg0ODE?oc=5\" target=\"_blank\">The Growing Cost of Technology Friction in Hotel Operation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hospitality Net</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeTAzNHlPYW4zUGpTMWx5N0JGQ0Vwbjd2QzExVEw5d2p3ajYtSFczTVFEYzVxRDdXcGN0dHlFd1lWd1JGd0V3UDVNZlhuSHExY2xGY0c1Y2tCX2FUYW5raERfTWZTVDNwNFJrWmZGN1lPV1BDREtfVGpzLTZMSVlBUWl2dGFxSnJpWG5XQXJFVkw0VGJxSVI4Q1lIMWRnWXkxMTU3Rkg0ODE?oc=5"
-      ],
-      "scraped_at": "2026-09-18T13:20:45Z",
-      "url": "https://www.hospitalitynet.org/opinion/4134450/the-growing-cost-of-technology-friction-in-hotel-operation",
-      "final_url": "https://www.hospitalitynet.org/opinion/4134450/the-growing-cost-of-technology-friction-in-hotel-operation",
-      "source": "Hospitality Net",
-      "article_title": "",
-      "heading": "The Growing Cost of Technology Friction in Hotel Operation",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "The Growing Cost of Technology Friction in Hotel Operation Hospitality Net",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-18T13:20:45Z"
-    },
-    {
-      "id": "a4cf779e9a2a93c8",
-      "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
-      "header": "Reuters",
-      "published_at": "2026-09-18T10:02:00Z",
-      "published_raw": "Fri, 18 Sep 2026 10:02:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
-      "description": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program Reuters",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5\" target=\"_blank\">EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5"
-      ],
-      "scraped_at": "2026-09-19T01:03:36Z",
-      "url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
-      "final_url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
-      "source": "Reuters",
-      "article_title": "",
-      "heading": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program Reuters",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-18T13:20:41Z"
-    },
-    {
-      "id": "a029b926be6af027",
-      "title": "What AWS's chief AI and technology officer told employees about the future of AI",
-      "header": "About Amazon",
-      "published_at": "2026-09-18T09:51:02Z",
-      "published_raw": "Fri, 18 Sep 2026 09:51:02 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42RjhqUFYyWElWTVpnSGc4cVEyLUlHTTdJX2xDUkJ4aHVlMEJjSWlvVk1Cb0VVSUxha2xydFRZX3NfRkRqdG5EVlZUaUVNc2tWZzd0WlVDb19hX3ZQYVFvSTZjbnJrLWZo?oc=5",
-      "description": "What AWS's chief AI and technology officer told employees about the future of AI About Amazon",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE42RjhqUFYyWElWTVpnSGc4cVEyLUlHTTdJX2xDUkJ4aHVlMEJjSWlvVk1Cb0VVSUxha2xydFRZX3NfRkRqdG5EVlZUaUVNc2tWZzd0WlVDb19hX3ZQYVFvSTZjbnJrLWZo?oc=5\" target=\"_blank\">What AWS's chief AI and technology officer told employees about the future of AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42RjhqUFYyWElWTVpnSGc4cVEyLUlHTTdJX2xDUkJ4aHVlMEJjSWlvVk1Cb0VVSUxha2xydFRZX3NfRkRqdG5EVlZUaUVNc2tWZzd0WlVDb19hX3ZQYVFvSTZjbnJrLWZo?oc=5"
-      ],
-      "scraped_at": "2026-09-18T17:26:42Z",
-      "url": "https://www.aboutamazon.com/news/aws/aws-cto-future-of-ai",
-      "final_url": "https://www.aboutamazon.com/news/aws/aws-cto-future-of-ai",
-      "source": "Amazon News",
-      "article_title": "What AWS's chief AI and technology officer told employees about the future of AI",
-      "heading": "What AWS's chief AI and technology officer told employees about the future of AI",
-      "authors": [
-        "Amazon Staff"
-      ],
-      "article_published_at": "2026-09-17T22:40:57.174Z",
-      "article_modified_at": "2026-09-17T22:40:57.174Z",
-      "summary": "At the AWS Global Meeting, Matt Wood drew a parallel between AI today and cloud's early days—and brought a live demo to prove the future is already here.",
-      "content": "Key takeaways\n- AWS is building the foundational tools for AI the same way it built them for cloud computing.\n- Odyssey unveiled Agora-2, an AI that simulates shared worlds with no game engine.\n- From world models to code synthesis, frontier startups are building on AWS Trainium.\nAt the AWS Global Meeting on September 17, AWS Chief AI and Technology Officer Matt Wood laid out a vision for where AI is heading—and brought a live demo on stage to prove it’s already arriving.\n“What we are doing today at AWS for AI is exactly what we did for cloud computing, to make this technology broadly distributed and democratized for everybody,” Wood told the audience.\nA startup demonstrates its most realistic world simulator yet\nThe centerpiece of the meeting was a live demonstration from Odyssey, a startup building foundation world models—a new kind of AI that learns physics by watching massive amounts of video rather than relying on hand-coded rules.\n“A language model learns to predict the next most likely word in a sentence. A world model learns to predict the next most likely future of a world,” explained Oliver Cameron, CEO of Odyssey.\nWorld models learn how the world works—from physics and cause-and-effect to human behavior—providing a foundational intelligence that can be applied across many industries. A world model draws on extensive learned knowledge of the world to automate physical systems, train AIs in interactive environments, and much more across robotics, autonomous driving, science, healthcare, education, gaming, defense, energy, and beyond.\nOn stage Cameron introduced Odyssey-3, Odyssey's most advanced foundation world model yet, which is trained and runs on Trainium3. Odyssey-3 is trained on vast observations of the world, giving it a learned grasp of physics, cause-and-effect, and human behavior. The same model can control robots, power humanoids, drive vehicles, pilot drones, train other AIs, and play video games. Because Odyssey-3 already understands how the world works, it can learn new tasks quickly, with far less task-specific data than previous systems.\nAdditionally, Cameron unveiled Agora-2, a multi-agent world model—the first to hold multiple intelligences inside the same simulated world at the same time. Cameron and Wood each picked up controllers and entered Agora-2 in real time. The audience watched on a split screen as both navigated, interacted, and fought within the same AI-generated environment, each from their own perspective. Agora-2 supports up to 20 participants in a single simulation, with no game engine underneath.\nCameron, who spent a decade working on autonomous vehicles before founding Odyssey, said the implications go well beyond gaming. “I believe we are on the cusp of a GPT-3 moment for world models,” he said. “This is the moment where we see an explosion of applications for world models, and their adoption into every industry imaginable.”\nOpenClaw creator Peter Steinberger on AI's next chapter\nThe meeting also featured a fireside chat between Peter Steinberger, the creator of OpenClaw and now at OpenAI, and AWS Vice President Francesca Vasquez. Steinberger discussed how the tools and infrastructure available to AI developers are evolving, a conversation that underscored Wood's broader argument that the biggest names in AI are building on and alongside AWS.\nSteinberger has become one of open source's biggest recent success stories. His OpenClaw project, which Vasquez called \"the fastest growing open source project in GitHub history,\" has drawn more than 388,000 GitHub stars and 3.2 million active users. The bigger shift, he argued, is in how software itself gets built. \"It's no longer 'I write code.' It's more, how can I design a system so my agent can do its best work?\" As he put it, \"We're all moving a little bit up the ladder. We're not just coders anymore.\"\nWhy frontier AI startups are choosing AWS Trainium\nA common thread across the meeting was the role of AWS Trainium in powering frontier AI workloads that demand sustained compute over weeks—a profile that general-purpose hardware struggles to sustain. Odyssey-3 runs on Trainium3 at over 80% model flops utilization—roughly double the industry average, according to the company.\nOdyssey joins a growing network of startups building on Trainium, including DeCart AI (real-time game environments), Neura Robotics (physical AI), Reactor (world model infrastructure), Splash Music (music generation), and Poolside (code synthesis).\n“We're here because you moved fast when we needed it, and then built something really special with us,” Cameron said of AWS.\nWood closed with a vision for where all of it is heading. \"Our goal at AWS is to make it as easy, cheap, and fast to build these valuable economically viable AI systems as it is for anyone to build a website today,\" he said. \"It's happening now, it's happening fast, and it's happening in all industries, but most importantly of all, it's happening here on AWS.\"\nTrending news and stories\n- Amazon is giving every US employee a discount on groceries\n- Amazon raises minimum starting pay for full-time core operations employees to $20/hour, with average pay reaching nearly $24/hour\n- Prime Big Deal Days is back October 6-7: Here’s what to expect\n- Prime Big Deal Days 2026: Early deals you can shop right now",
-      "content_html": "<html>\n  <body>\n    <h2>Key takeaways</h2>\n    <ul>\n      <li>AWS is building the foundational tools for AI the same way it built them for cloud computing.</li>\n      <li>Odyssey unveiled Agora-2, an AI that simulates shared worlds with no game engine.</li>\n      <li>From world models to code synthesis, frontier startups are building on AWS Trainium.</li>\n    </ul>\n    <p>At the AWS Global Meeting on September 17, AWS Chief AI and Technology Officer Matt Wood laid out a vision for where AI is heading—and brought a live demo on stage to prove it’s already arriving.</p>\n    <p>“What we are doing today at AWS for AI is exactly what we did for cloud computing, to make this technology broadly distributed and democratized for everybody,” Wood told the audience.</p>\n    <h2>A startup demonstrates its most realistic world simulator yet</h2>\n    <p>The centerpiece of the meeting was a live demonstration from Odyssey, a startup building foundation world models—a new kind of AI that learns physics by watching massive amounts of video rather than relying on hand-coded rules.</p>\n    <p>“A language model learns to predict the next most likely word in a sentence. A world model learns to predict the next most likely future of a world,” explained Oliver Cameron, CEO of Odyssey.</p>\n    <p>World models learn how the world works—from physics and cause-and-effect to human behavior—providing a foundational intelligence that can be applied across many industries. A world model draws on extensive learned knowledge of the world to automate physical systems, train AIs in interactive environments, and much more across robotics, autonomous driving, science, healthcare, education, gaming, defense, energy, and beyond.</p>\n    <p>On stage Cameron introduced Odyssey-3, Odyssey's most advanced foundation world model yet, which is trained and runs on Trainium3. Odyssey-3 is trained on vast observations of the world, giving it a learned grasp of physics, cause-and-effect, and human behavior. The same model can control robots, power humanoids, drive vehicles, pilot drones, train other AIs, and play video games. Because Odyssey-3 already understands how the world works, it can learn new tasks quickly, with far less task-specific data than previous systems.</p>\n    <p>Additionally, Cameron unveiled Agora-2, a multi-agent world model—the first to hold multiple intelligences inside the same simulated world at the same time. Cameron and Wood each picked up controllers and entered Agora-2 in real time. The audience watched on a split screen as both navigated, interacted, and fought within the same AI-generated environment, each from their own perspective. Agora-2 supports up to 20 participants in a single simulation, with no game engine underneath.</p>\n    <p>Cameron, who spent a decade working on autonomous vehicles before founding Odyssey, said the implications go well beyond gaming. “I believe we are on the cusp of a GPT-3 moment for world models,” he said. “This is the moment where we see an explosion of applications for world models, and their adoption into every industry imaginable.”<br/></p>\n    <h2>OpenClaw creator Peter Steinberger on AI's next chapter</h2>\n    <p>The meeting also featured a fireside chat between Peter Steinberger, the creator of OpenClaw and now at OpenAI, and AWS Vice President Francesca Vasquez. Steinberger discussed how the tools and infrastructure available to AI developers are evolving, a conversation that underscored Wood's broader argument that the biggest names in AI are building on and alongside AWS.</p>\n    <p>Steinberger has become one of open source's biggest recent success stories. His OpenClaw project, which Vasquez called \"the fastest growing open source project in GitHub history,\" has drawn more than 388,000 GitHub stars and 3.2 million active users. The bigger shift, he argued, is in how software itself gets built. \"It's no longer 'I write code.' It's more, how can I design a system so my agent can do its best work?\" As he put it, \"We're all moving a little bit up the ladder. We're not just coders anymore.\"</p>\n    <h2>Why frontier AI startups are choosing AWS Trainium</h2>\n    <p>A common thread across the meeting was the role of AWS Trainium in powering frontier AI workloads that demand sustained compute over weeks—a profile that general-purpose hardware struggles to sustain. Odyssey-3 runs on Trainium3 at over 80% model flops utilization—roughly double the industry average, according to the company.</p>\n    <p>Odyssey joins a growing network of startups building on Trainium, including DeCart AI (real-time game environments), Neura Robotics (physical AI), Reactor (world model infrastructure), Splash Music (music generation), and Poolside (code synthesis).</p>\n    <p>“We're here because you moved fast when we needed it, and then built something really special with us,” Cameron said of AWS.</p>\n    <p>Wood closed with a vision for where all of it is heading. \"Our goal at AWS is to make it as easy, cheap, and fast to build these valuable economically viable AI systems as it is for anyone to build a website today,\" he said. \"It's happening now, it's happening fast, and it's happening in all industries, but most importantly of all, it's happening here on AWS.\"</p>\n    <p>Trending news and stories</p>\n    <ul>\n      <li>Amazon is giving every US employee a discount on groceries</li>\n      <li>Amazon raises minimum starting pay for full-time core operations employees to $20/hour, with average pay reaching nearly $24/hour</li>\n      <li>Prime Big Deal Days is back October 6-7: Here’s what to expect</li>\n      <li>Prime Big Deal Days 2026: Early deals you can shop right now</li>\n    </ul>\n  </body>\n</html>",
-      "word_count": 852,
-      "char_count": 5325,
-      "lead_image": "https://assets.aboutamazon.com/dims4/default/bc7e402/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F6d%2F3d%2F070d920c47e1921c514f7c263a75%2Fmattwood-awsglobalmeeting-amazonnews-cdlt-sept-17-2026.png",
-      "images": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/bc7e402/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F6d%2F3d%2F070d920c47e1921c514f7c263a75%2Fmattwood-awsglobalmeeting-amazonnews-cdlt-sept-17-2026.png",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/e690f13/2147483647/strip/false/crop/2000x1125+0+0/resize/1486x836!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F6d%2F3d%2F070d920c47e1921c514f7c263a75%2Fmattwood-awsglobalmeeting-amazonnews-cdlt-sept-17-2026.png",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/999720f/2147483647/strip/false/crop/2000x1125+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F6d%2F3d%2F070d920c47e1921c514f7c263a75%2Fmattwood-awsglobalmeeting-amazonnews-cdlt-sept-17-2026.png",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 3,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-18T17:26:42Z"
     }
   ]
 }
