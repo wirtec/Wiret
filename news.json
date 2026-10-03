@@ -1,17 +1,99 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-10-03T06:00:33Z",
+  "generated_at": "2026-10-03T11:28:15Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 12,
-    "added": 7,
+    "scraped_now": 9,
+    "added": 4,
     "updated": 5,
     "ok": 361,
     "failed": 139,
-    "duration_seconds": 100.59
+    "duration_seconds": 101.12
   },
   "articles": [
+    {
+      "id": "657907abff2b63e1",
+      "title": "I Quit OpenAI Because Its Culture Is Broken",
+      "header": "The Atlantic",
+      "published_at": "2026-10-03T11:00:00Z",
+      "published_raw": "Sat, 03 Oct 2026 11:00:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2NNSzBoT3NhRmFhWjdUZ1NtOTFVNUFRaFBvNUd2R1c2NlhCLVZNanZfdm5UR3BDZ2V0bC1Oa00zano0OWtDdUo3WFFzMXNqdUxDczJ2Ujl3Vng5N2VlRGZDeWx5OHBhbWFnTXZpNkVTbWNHOFMtTEcyLXFGckl4bDRtUE81ZnIyWU91S21n?oc=5",
+      "description": "I Quit OpenAI Because Its Culture Is Broken The Atlantic",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2NNSzBoT3NhRmFhWjdUZ1NtOTFVNUFRaFBvNUd2R1c2NlhCLVZNanZfdm5UR3BDZ2V0bC1Oa00zano0OWtDdUo3WFFzMXNqdUxDczJ2Ujl3Vng5N2VlRGZDeWx5OHBhbWFnTXZpNkVTbWNHOFMtTEcyLXFGckl4bDRtUE81ZnIyWU91S21n?oc=5\" target=\"_blank\">I Quit OpenAI Because Its Culture Is Broken</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2NNSzBoT3NhRmFhWjdUZ1NtOTFVNUFRaFBvNUd2R1c2NlhCLVZNanZfdm5UR3BDZ2V0bC1Oa00zano0OWtDdUo3WFFzMXNqdUxDczJ2Ujl3Vng5N2VlRGZDeWx5OHBhbWFnTXZpNkVTbWNHOFMtTEcyLXFGckl4bDRtUE81ZnIyWU91S21n?oc=5"
+      ],
+      "scraped_at": "2026-10-03T11:26:35Z",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+      "final_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+      "source": "The Atlantic",
+      "article_title": "",
+      "heading": "I Quit OpenAI Because Its Culture Is Broken",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "I Quit OpenAI Because Its Culture Is Broken The Atlantic",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-10-03T11:26:35Z"
+    },
+    {
+      "id": "69ecbf6a1c5a761a",
+      "title": "Technology, bumping grades among school board candidate priorities",
+      "header": "Jackson Hole News&Guide",
+      "published_at": "2026-10-03T06:00:00Z",
+      "published_raw": "Sat, 03 Oct 2026 06:00:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbnRoRnVKQmEzSjNuOG94eHppUS1CNzd6UHE3eE05VHA1V05DVHhub3UxMEltdTdpOTdtb053c3BCMGZINXhLN2FKNDB5dU1sNG1lam9tWFVBSmRwamd3REUwSll4RXVKUEhYUkd3bVRXSzBCYmNURU8tbTF0QUdzOVBscFJRNmd3SmxiOFlEc3pFNFlVYk05RG9tcjd1YS1acXQ2UzZMNjhsMFp3YzgycE9RRndZMVhINHh4SlJLeThOdDF4T1pEaEwxT09vRUl4NXotdUNJYzhHQlFWUmFYTno4Vk1tZ3F2TnFDVHNYWHZEeHEyNm5WLWRnQXJWZw?oc=5",
+      "description": "Technology, bumping grades among school board candidate priorities Jackson Hole News&Guide",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbnRoRnVKQmEzSjNuOG94eHppUS1CNzd6UHE3eE05VHA1V05DVHhub3UxMEltdTdpOTdtb053c3BCMGZINXhLN2FKNDB5dU1sNG1lam9tWFVBSmRwamd3REUwSll4RXVKUEhYUkd3bVRXSzBCYmNURU8tbTF0QUdzOVBscFJRNmd3SmxiOFlEc3pFNFlVYk05RG9tcjd1YS1acXQ2UzZMNjhsMFp3YzgycE9RRndZMVhINHh4SlJLeThOdDF4T1pEaEwxT09vRUl4NXotdUNJYzhHQlFWUmFYTno4Vk1tZ3F2TnFDVHNYWHZEeHEyNm5WLWRnQXJWZw?oc=5\" target=\"_blank\">Technology, bumping grades among school board candidate priorities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jackson Hole News&Guide</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbnRoRnVKQmEzSjNuOG94eHppUS1CNzd6UHE3eE05VHA1V05DVHhub3UxMEltdTdpOTdtb053c3BCMGZINXhLN2FKNDB5dU1sNG1lam9tWFVBSmRwamd3REUwSll4RXVKUEhYUkd3bVRXSzBCYmNURU8tbTF0QUdzOVBscFJRNmd3SmxiOFlEc3pFNFlVYk05RG9tcjd1YS1acXQ2UzZMNjhsMFp3YzgycE9RRndZMVhINHh4SlJLeThOdDF4T1pEaEwxT09vRUl4NXotdUNJYzhHQlFWUmFYTno4Vk1tZ3F2TnFDVHNYWHZEeHEyNm5WLWRnQXJWZw?oc=5"
+      ],
+      "scraped_at": "2026-10-03T11:26:36Z",
+      "url": "https://www.jhnewsandguide.com/news/town_county/local/technology-bumping-grades-among-school-board-candidate-priorities/article_935e7a6f-e3e2-4c87-8cb0-6f499635b2c0.html",
+      "final_url": "https://www.jhnewsandguide.com/news/town_county/local/technology-bumping-grades-among-school-board-candidate-priorities/article_935e7a6f-e3e2-4c87-8cb0-6f499635b2c0.html",
+      "source": "Jackson Hole News&Guide",
+      "article_title": "Technology, bumping grades among school board candidate priorities",
+      "heading": "Jackson Hole, WY News",
+      "authors": [
+        "Alex Viveros / Town and Health Reporter"
+      ],
+      "article_published_at": "2026-10-03T00:00:00-06:00",
+      "article_modified_at": "2026-10-03T00:00:00-06:00",
+      "summary": "Candidates were united behind supporting the school, though they questioned technology’s role in preparing children for the future.",
+      "content": "Though four candidates vying for three spots on the Teton County School District Board of Trustees spoke to individual priorities during a voter forum on Thursday, they all were united in supporting Jackson Hole’s public schools at large.\n“I’m here because I just can’t give up walking into the schools and smelling that school kid smell,” Reade Dornan, an 86-year-old retired education professor, said. “There’s just something nostalgic about that.”\nTechnology usage, improving academic proficiency and the overall benefits of a public education were top of mind for the school board hopefuls, including three incumbents and one newcomer. The school board panel took up about an hour of the League of Women Voters forum at the Teton County Library, before gears switched to the hospital board and Teton Conservation District board.\nOngoing questions about the role of technology in schools was an important topic for school board candidates on Thursday, as technology and artificial intelligence has become an increasingly crucial component of many adult jobs.\n“We have to prepare kids for the future,” Dornan said. “And what the heck is that? We’re not sure yet where AI will lead us.”\nScreens are especially important for Ashley Sinclair, a parent of two children in the district and the lone newcomer in the school board race. This summer, Sinclair raised concerns about students’ screen time, presenting a petition to the board that called for stricter technology regulations.\nSinclair’s petition led the board to take a deeper look at technology use, current board member Keith Gingery said, ultimately leading it to realize that students’ screen time may, indeed, be greater than school principals may have been aware of. For example, one teacher might assign only 10 minutes of screen time for worksheets, but they may not know that other teachers down the hall also may be assigning 10 more minutes of screen time.\n“When you started adding all those up, [students] were spending a considerable amount of time on the iPads,” Gingery, who has served on the board for 12 years and is the county’s chief deputy attorney, said. “Way more than anybody realized.”\nThe responsibility now has been placed on principals to curtail screen use at schools, Gingery said. At Jackson Hole Middle School, students are no longer sent home with iPads. Sinclair appreciated the attention the board gave to the issue.\n“The engagement and focus from the administration was wonderful,” Sinclair said Thursday. “That being said, we can definitely still do better.”\nTeachers have told Sinclair that their students aren’t allowed to use screens for more than 40 minutes a day. She questioned whether that limit, even, was too much and said the school district should continue to explore what level of screen usage was best for children.\nLike Sinclair, Stephan Abrams — a school board incumbent and the part owner of The Liquor Store of Jackson Hole — did not have an answer for what level of screen usage would be ideal for children in schools. He pointed out that the state’s standardized test is taken on iPads, and that students needed to be prepared for that and how technology would be used in their next steps of life.\n“Technology’s here,” Abrams said on Thursday. “It’s not going away.”\nSinclair said she was not anti-technology, but rather “pro-purpose” of using it.\n“While it’s very important we prepare our kids for the world ahead of them, which includes technology, I think that we can be more intentional with the time we’re using with them,” Sinclair said. “I don’t think they need 40 minutes a day in order to be able to do standardized testing.”\nCandidates also weighed grades and test scores.\nTeton County School District had a 96.9% graduation rate in 2025, placing it 14% higher than the state’s average. Still, Sinclair said the school could further fine-tune its math proficiency for sixth graders.\nGingery said the board’s three-member education committee, which he formed a few years ago, already was focusing on improving the math curriculum at Jackson Hole Middle School. Scores fall off between eighth and ninth grades, he said, as well as between fifth and sixth grades.\n“We’ve made substantial changes at our middle school, and I think you’ll be very happy, Ashley, to see the scores,” Gingery said to Sinclair during the forum. “It’s those transition years which are really difficult years, and that’s where we need to spend more focus.”\nPublic education often has a broader role than private education, candidates said. Dornan pointed out that public schools are responsible for feeding kids who come to school hungry, as well as teaching a large portion of students whose first language is not English. Gingery praised the school’s special education curriculum, which he credited with helping higher-needs children and teens develop the life skills they need after exiting school at 20.\n“We’ve just seen some really wonderful children go on to lead very wonderful, independent lives,” Gingery said.\nFollowing closing statements from school board contenders, candidates for the St. John’s Health Board of Trustees seeking reelection and one candidate for the Teton Conservation District Board of Supervisors were given a brief time to shine. Taxes took the limelight.\nSt. John’s Health is asking Teton County voters to double its property tax share, from three mills to six. Candidates seeking reelection to the board explained to the audience members why.\nThe hospital has been facing budget challenges, leading to an $11.7 million deficit in the most recent fiscal year. As the hospital considers other challenges — including older Jackson residents switching over to Medicare, which reimburses St. John’s at lower rates than commercial insurers — it hopes that increasing its property tax dollars will help the hospital stay independent.\n“I think it would be irresponsible for us not to ask the citizens to increase their support,” Dr. Pam Cutler, the board’s chair, said. “One of the things that makes this community great, and there are many, is the fact that we do have this amazing hospital that gives great quality care.”\nAll three incumbents on the health board are up for reelection. Cutler, Katharine Conover-Keller and Dr. Brent Blue will keep their seats if no write-in campaign is successful.\nThe Conservation District is asking voters to re-approve its existing one mill. The mill levy allows the conservation district to fund its staff, which works toward securing Teton County’s water quality, performing wildfire risk assessments and other conservation work.\nDavid Adams, Cate Watsabaugh and Bob Lucas will have to defend one of their Conservation District board seats from newcomer Lee Bauknight.\n“The mill levy is essential,” Watsabaugh, the only candidate present at Thursday’s forum, said. “It’s just the entire existence of the Conservation District. Without it, there would be pretty significant changes to the program and staffing.”",
+      "content_html": "<html>\n  <body>\n    <p>Three incumbents and one newcomer seeking three open seats on the Teton County School District Board of Trustees addressed constituents at a Thursday panel.</p>\n    <p>Alex Viveros moved to Jackson from Washington, D.C., where\nhe spent just under a year reporting on health and science. He is a\ngraduate of Tufts University and MIT’s science writing program, and\nhas fond memories of leading his undergraduate college\nnewspaper.</p>\n    <p>Three incumbents and one newcomer seeking three open seats on the Teton County School District Board of Trustees addressed constituents at a Thursday panel.</p>\n    <p>ALEX VIVEROS / JACKSON HOLE DAILY</p>\n    <p>Though four candidates vying for three spots on the Teton County School District Board of Trustees spoke to individual priorities during a voter forum on Thursday, they all were united in supporting Jackson Hole’s public schools at large.</p>\n    <p>“I’m here because I just can’t give up walking into the schools and smelling that school kid smell,” Reade Dornan, an 86-year-old retired education professor, said. “There’s just something nostalgic about that.”</p>\n    <p>Technology usage, improving academic proficiency and the overall benefits of a public education were top of mind for the school board hopefuls, including three incumbents and one newcomer. The school board panel took up about an hour of the League of Women Voters forum at the Teton County Library, before gears switched to the hospital board and Teton Conservation District board.</p>\n    <p>Ongoing questions about the role of technology in schools was an important topic for school board candidates on Thursday, as technology and artificial intelligence has become an increasingly crucial component of many adult jobs.</p>\n    <p>“We have to prepare kids for the future,” Dornan said. “And what the heck is that? We’re not sure yet where AI will lead us.”</p>\n    <p>Screens are especially important for Ashley Sinclair, a parent of two children in the district and the lone newcomer in the school board race. This summer, Sinclair raised concerns about students’ screen time, presenting a petition to the board that called for stricter technology regulations.</p>\n    <p>Sinclair’s petition led the board to take a deeper look at technology use, current board member Keith Gingery said, ultimately leading it to realize that students’ screen time may, indeed, be greater than school principals may have been aware of. For example, one teacher might assign only 10 minutes of screen time for worksheets, but they may not know that other teachers down the hall also may be assigning 10 more minutes of screen time.</p>\n    <p>“When you started adding all those up, [students] were spending a considerable amount of time on the iPads,” Gingery, who has served on the board for 12 years and is the county’s chief deputy attorney, said. “Way more than anybody realized.”</p>\n    <p>The responsibility now has been placed on principals to curtail screen use at schools, Gingery said. At Jackson Hole Middle School, students are no longer sent home with iPads. Sinclair appreciated the attention the board gave to the issue.</p>\n    <p>“The engagement and focus from the administration was wonderful,” Sinclair said Thursday. “That being said, we can definitely still do better.”</p>\n    <p>Teachers have told Sinclair that their students aren’t allowed to use screens for more than 40 minutes a day. She questioned whether that limit, even, was too much and said the school district should continue to explore what level of screen usage was best for children.</p>\n    <p>Like Sinclair, Stephan Abrams — a school board incumbent and the part owner of The Liquor Store of Jackson Hole — did not have an answer for what level of screen usage would be ideal for children in schools. He pointed out that the state’s standardized test is taken on iPads, and that students needed to be prepared for that and how technology would be used in their next steps of life.</p>\n    <p>“Technology’s here,” Abrams said on Thursday. “It’s not going away.”</p>\n    <p>Sinclair said she was not anti-technology, but rather “pro-purpose” of using it.</p>\n    <p>“While it’s very important we prepare our kids for the world ahead of them, which includes technology, I think that we can be more intentional with the time we’re using with them,” Sinclair said. “I don’t think they need 40 minutes a day in order to be able to do standardized testing.”</p>\n    <p>Candidates also weighed grades and test scores.</p>\n    <p>Teton County School District had a 96.9% graduation rate in 2025, placing it 14% higher than the state’s average. Still, Sinclair said the school could further fine-tune its math proficiency for sixth graders.</p>\n    <p>Gingery said the board’s three-member education committee, which he formed a few years ago, already was focusing on improving the math curriculum at Jackson Hole Middle School. Scores fall off between eighth and ninth grades, he said, as well as between fifth and sixth grades.</p>\n    <p>“We’ve made substantial changes at our middle school, and I think you’ll be very happy, Ashley, to see the scores,” Gingery said to Sinclair during the forum. “It’s those transition years which are really difficult years, and that’s where we need to spend more focus.”</p>\n    <p>Public education often has a broader role than private education, candidates said. Dornan pointed out that public schools are responsible for feeding kids who come to school hungry, as well as teaching a large portion of students whose first language is not English. Gingery praised the school’s special education curriculum, which he credited with helping higher-needs children and teens develop the life skills they need after exiting school at 20.</p>\n    <p>Following closing statements from school board contenders, candidates for the St. John’s Health Board of Trustees seeking reelection and one candidate for the Teton Conservation District Board of Supervisors were given a brief time to shine. Taxes took the limelight.</p>\n    <p>St. John’s Health is asking Teton County voters to double its property tax share, from three mills to six. Candidates seeking reelection to the board explained to the audience members why.</p>\n    <p>The hospital has been facing budget challenges, leading to an $11.7 million deficit in the most recent fiscal year. As the hospital considers other challenges — including older Jackson residents switching over to Medicare, which reimburses St. John’s at lower rates than commercial insurers — it hopes that increasing its property tax dollars will help the hospital stay independent.</p>\n    <p>“I think it would be irresponsible for us not to ask the citizens to increase their support,” Dr. Pam Cutler, the board’s chair, said. “One of the things that makes this community great, and there are many, is the fact that we do have this amazing hospital that gives great quality care.”</p>\n    <p>All three incumbents on the health board are up for reelection. Cutler, Katharine Conover-Keller and Dr. Brent Blue will keep their seats if no write-in campaign is successful.</p>\n    <p>The Conservation District is asking voters to re-approve its existing one mill. The mill levy allows the conservation district to fund its staff, which works toward securing Teton County’s water quality, performing wildfire risk assessments and other conservation work.</p>\n    <p>David Adams, Cate Watsabaugh and Bob Lucas will have to defend one of their Conservation District board seats from newcomer Lee Bauknight.</p>\n    <p>“The mill levy is essential,” Watsabaugh, the only candidate present at Thursday’s forum, said. “It’s just the entire existence of the Conservation District. Without it, there would be pretty significant changes to the program and staffing.”</p>\n    <p>Alex Viveros moved to Jackson from Washington, D.C., where\nhe spent just under a year reporting on health and science. He is a\ngraduate of Tufts University and MIT’s science writing program, and\nhas fond memories of leading his undergraduate college\nnewspaper.</p>\n  </body>\n</html>",
+      "word_count": 1127,
+      "char_count": 6971,
+      "lead_image": "https://bloximages.newyork1.vip.townnews.com/jhnewsandguide.com/content/tncms/assets/v3/editorial/b/b7/bb710a09-18bd-44ac-a292-414333b0c0a2/6ac009fc76a40.image.jpg?crop=1656%2C869%2C0%2C312&resize=1200%2C630&order=crop%2Cresize",
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/jhnewsandguide.com/content/tncms/assets/v3/editorial/b/b7/bb710a09-18bd-44ac-a292-414333b0c0a2/6ac009fc76a40.image.jpg?crop=1656%2C869%2C0%2C312&resize=1200%2C630&order=crop%2Cresize",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://www.jhnewsandguide.com/content/tncms/live/global/resources/images/_site/ATMWPublication.png",
+          "alt": "Teton Media Works",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-10-03T11:26:36Z"
+    },
     {
       "id": "35bce976e24f6abc",
       "title": "America wants to wean itself off Chinese technology. Will the pain pay off?",
@@ -115,6 +197,52 @@
       "first_seen_at": "2026-10-03T05:58:55Z"
     },
     {
+      "id": "3da8ecff884bfea3",
+      "title": "California man Greg Lui arrested by feds for allegedly smuggling $300 million in AI tech to China",
+      "header": "ABC7 Los Angeles",
+      "published_at": "2026-10-03T02:08:43Z",
+      "published_raw": "Sat, 03 Oct 2026 02:08:43 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZGZMUGF4SFhsaEYzT0hfVWtjSk4xbGthWlA5cGZLS3JvMnplNDh6X0tnSHVHZkxqRjBBLUhGSHVJYU85M18yeGFPSXlOTjVrYU9LVVZWanV0RG1iNjBvWXFyNWNYVnR2ejZ0YXlmczYwbDI5QzBBV2JZQWRKRVp2X0c0YlJ1UDBnSHRFOU10M3pWX0RsT1FfdkVicXdxSWYzWGVSSU1jeUwxM0Y0QjlrQzVJVXBCUdIBuwFBVV95cUxPYi1XTzJiLVlpT2hpZVdyTjZ4TGU5YTBYZjB3ZFlhcHRscktqek51UWMyUFdPWnZoTkc1YVNRU2hMbkRlM1hVLWpYQ0NoWjhuMGItUFQyelBzU25VQ21JQ3RIcHJyQWRsTG9QemJHbDFJaEpfQmtWMDVaWHNuX1ptWENBb1ZvVzR2NGZsMmp1MC1OM3VFakdJTXU5QXBBQlU3Y1BRUjJqSEhKNkpZdmlVLU14OHliRldqVjQw?oc=5",
+      "description": "California man Greg Lui arrested by feds for allegedly smuggling $300 million in AI tech to China ABC7 Los Angeles",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZGZMUGF4SFhsaEYzT0hfVWtjSk4xbGthWlA5cGZLS3JvMnplNDh6X0tnSHVHZkxqRjBBLUhGSHVJYU85M18yeGFPSXlOTjVrYU9LVVZWanV0RG1iNjBvWXFyNWNYVnR2ejZ0YXlmczYwbDI5QzBBV2JZQWRKRVp2X0c0YlJ1UDBnSHRFOU10M3pWX0RsT1FfdkVicXdxSWYzWGVSSU1jeUwxM0Y0QjlrQzVJVXBCUdIBuwFBVV95cUxPYi1XTzJiLVlpT2hpZVdyTjZ4TGU5YTBYZjB3ZFlhcHRscktqek51UWMyUFdPWnZoTkc1YVNRU2hMbkRlM1hVLWpYQ0NoWjhuMGItUFQyelBzU25VQ21JQ3RIcHJyQWRsTG9QemJHbDFJaEpfQmtWMDVaWHNuX1ptWENBb1ZvVzR2NGZsMmp1MC1OM3VFakdJTXU5QXBBQlU3Y1BRUjJqSEhKNkpZdmlVLU14OHliRldqVjQw?oc=5\" target=\"_blank\">California man Greg Lui arrested by feds for allegedly smuggling $300 million in AI tech to China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZGZMUGF4SFhsaEYzT0hfVWtjSk4xbGthWlA5cGZLS3JvMnplNDh6X0tnSHVHZkxqRjBBLUhGSHVJYU85M18yeGFPSXlOTjVrYU9LVVZWanV0RG1iNjBvWXFyNWNYVnR2ejZ0YXlmczYwbDI5QzBBV2JZQWRKRVp2X0c0YlJ1UDBnSHRFOU10M3pWX0RsT1FfdkVicXdxSWYzWGVSSU1jeUwxM0Y0QjlrQzVJVXBCUdIBuwFBVV95cUxPYi1XTzJiLVlpT2hpZVdyTjZ4TGU5YTBYZjB3ZFlhcHRscktqek51UWMyUFdPWnZoTkc1YVNRU2hMbkRlM1hVLWpYQ0NoWjhuMGItUFQyelBzU25VQ21JQ3RIcHJyQWRsTG9QemJHbDFJaEpfQmtWMDVaWHNuX1ptWENBb1ZvVzR2NGZsMmp1MC1OM3VFakdJTXU5QXBBQlU3Y1BRUjJqSEhKNkpZdmlVLU14OHliRldqVjQw?oc=5"
+      ],
+      "scraped_at": "2026-10-03T11:26:35Z",
+      "url": "https://abc7.com/post/california-man-greg-lui-arrested-feds-allegedly-smuggling-300-million-ai-tech-china/19902879/",
+      "final_url": "https://abc7.com/post/california-man-greg-lui-arrested-feds-allegedly-smuggling-300-million-ai-tech-china/19902879/",
+      "source": "ABC7 Los Angeles",
+      "article_title": "San Gabriel Valley CEO accused of smuggling $300 million in AI tech to China",
+      "heading": "San Gabriel Valley CEO accused of smuggling $300 million in AI tech to China",
+      "authors": [],
+      "article_published_at": "2026-10-03T02:03:00Z",
+      "article_modified_at": "2026-10-03T02:11:45Z",
+      "summary": "A San Gabriel Valley CEO is facing federal charges after prosecutors accused him of smuggling American AI technology to China.",
+      "content": "Saturday, October 3, 2026 2:03AM\nLOS ANGELES (KABC) -- A San Gabriel Valley tech CEO is facing federal charges after prosecutors accused him of smuggling sensitive American artificial intelligence technology to China.\nFederal prosecutors allege that 38-year-old San Gabriel resident Greg Lui, also known as Yiu Kong Lui, worked with co-conspirators between 2023 and 2024 to funnel more than $300 million worth of AI technology to China through his company, Earthmade Computer Inc., a City of Industry-based technology company.\nLui is accused of falsifying paperwork and redirecting deliveries through third-party countries while knowing that the final destination was China.\nLui was charged in a three-count indictment with conspiracy to violate the Export Control Reform Act and Export Administration Regulations, outbound smuggling and conspiracy to commit money laundering.\nIf convicted, Lui faces up to 30 years in prison.\nCity News Service contributed to this report.\nCopyright © 2026 KABC Television, LLC. All rights reserved.",
+      "content_html": "<html>\n  <body>\n    <p class=\"EkqkG IGXmU nlgHS yuUao MvWXB TjIXL aGjvy ebVHC \">LOS ANGELES (KABC) -- A San Gabriel Valley tech CEO is facing federal charges after prosecutors accused him of smuggling sensitive American artificial intelligence technology to China.</p>\n    <p class=\"EkqkG IGXmU nlgHS yuUao lqtkC TjIXL aGjvy \">Federal prosecutors allege that 38-year-old San Gabriel resident Greg Lui, also known as Yiu Kong Lui, worked with co-conspirators between 2023 and 2024 to funnel more than $300 million worth of AI technology to China through his company, Earthmade Computer Inc., a City of Industry-based technology company.</p>\n    <p class=\"EkqkG IGXmU nlgHS yuUao lqtkC TjIXL aGjvy \">Lui is accused of falsifying paperwork and redirecting deliveries through third-party countries while knowing that the final destination was China.</p>\n    <p class=\"EkqkG IGXmU nlgHS yuUao lqtkC TjIXL aGjvy \">Lui was charged in a three-count indictment with conspiracy to violate the Export Control Reform Act and Export Administration Regulations, outbound smuggling and conspiracy to commit money laundering.</p>\n    <p class=\"EkqkG IGXmU nlgHS yuUao lqtkC TjIXL aGjvy \">If convicted, Lui faces up to 30 years in prison.</p>\n    <p class=\"EkqkG IGXmU nlgHS yuUao lqtkC TjIXL aGjvy \">City News Service contributed to this report.</p>\n  </body>\n</html>",
+      "word_count": 153,
+      "char_count": 1032,
+      "lead_image": "https://cdn.abcotvs.com/dip/images/19898859_100126-kabc-6pm-sgv-tech-ceo-smuggling-vid.jpg?w=1600",
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/19898859_100126-kabc-6pm-sgv-tech-ceo-smuggling-vid.jpg?w=1600",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://cdn.abcotvs.net/abcotv/static/common/origins/origin-kabc.png",
+          "alt": "KABC logo",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-10-03T11:26:35Z"
+    },
+    {
       "id": "72950b959b7b8339",
       "title": "Bentonville Institute of Technology breaks ground",
       "header": "5newsonline.com",
@@ -126,7 +254,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGtDdElKMTNManlqYTcwckk0SklzX1BIWHJMQWNqZHlnTW5Cd09NVkc1eGFYd1U3NXVtNWxhaWhpMjBKUDRVcFVwb2lzdlpaWDNSb3hSLVJrd0RXcVBaSDZiakxSckFPX0JrU0V6TXNPVUZHcnFLNDFwNmFLNkNXNVkzUTdtUkFsMnJhUUp4NDMzMktrZUhUMTBobm0xb3kwcFFHb0t4dF9VREpOX2tqX29rQ0x3cWlHVkgwdmFEcGE3WnpjY21aUmhYZTA5NUswY0RNQnZCMHNaMTdUdmJLZFl4Nkgzdw?oc=5"
       ],
-      "scraped_at": "2026-10-03T05:58:55Z",
+      "scraped_at": "2026-10-03T11:26:36Z",
       "url": "https://www.5newsonline.com/article/news/education/bentonville-institute-of-technology-breaks-ground-on-campus/527-6d7f5799-c0f6-4649-900c-451093a7bd2c",
       "final_url": "https://www.5newsonline.com/article/news/education/bentonville-institute-of-technology-breaks-ground-on-campus/527-6d7f5799-c0f6-4649-900c-451093a7bd2c",
       "source": "5newsonline.com",
@@ -236,7 +364,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHVmTy1fekRMMGxhQzBCRk1kY3BtVzA2QXg2Vk9SUG5oZVE4bTJYNXFDcllzdlJ2NDE2bWJqUTBYbW8tT3V6WmFGdWtuRjZqYTZyUzh3SWRBbU1BcW1VU0lLbzUybkJLbnQyb1FYNVc2LThXT2tQMFU3dWkyUVhIU2ZwaTJCWUNfaVhhX3RvczdwYnc0VE8tdUkxZ0tEaUNYSzZGcmZrYk5qbmZEUlVlTG5xcW50em8?oc=5"
       ],
-      "scraped_at": "2026-10-03T05:58:53Z",
+      "scraped_at": "2026-10-03T11:26:35Z",
       "url": "https://www.washingtonpost.com/technology/2026/10/02/trump-expected-name-intelligence-chief-jay-clayton-new-ai-czar/",
       "final_url": "https://www.washingtonpost.com/technology/2026/10/02/trump-expected-name-intelligence-chief-jay-clayton-new-ai-czar/",
       "source": "The Washington Post",
@@ -575,12 +703,12 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSTRwa3pVNFNwbjRYTjlzWURMc1VLYUM5TGtWcTFsMXB5ODEwV08yU0l2bDNGTDA4QTF2aGRKb2x6MER6RWlxOXVrdHpweFFkOElncHhoVkp6ZWV1NnZ1UEJCeFNsSWNXeXM2UGd1ZjlkcVlfRF9lTjAwRWJ5ZXR5ZE9UMjNidjdHV21BU1ZfVDk3aDBZbjJoT1pvU3Zvb2lHS3U5T0NfOHZQcUZMa2MwdzlKcnJoWmIyQy1Pb19DUnlqVkZxQi1VbklNY2pWOFNsbWI4dllUUXZESnUxSnFOcg?oc=5"
       ],
-      "scraped_at": "2026-10-03T05:58:55Z",
+      "scraped_at": "2026-10-03T11:26:36Z",
       "url": "https://www.facebook.com/AtlantaPoliceDpt/videos/technology-is-helping-the-atlanta-police-department-respond-faster-locate-suspec/1270035885249641/",
       "final_url": "https://www.facebook.com/AtlantaPoliceDpt/videos/technology-is-helping-the-atlanta-police-department-respond-faster-locate-suspec/1270035885249641/",
       "source": "facebook.com",
-      "article_title": "1.1K views · 20 reactions | Technology is helping the Atlanta Police Department respond faster, locate suspects, and keep Atlanta safe.\n\nIn one case, license plate readers helped officers locate a stolen vehicle in less than 15 minutes after a 2-year-old child was reported inside. In another, police technology and strong investigative work helped identify a suspect who broke into an unlocked truck and stole items, leading to his arrest less than a month later.\n\nFrom locating stolen vehicles to helping investigators put suspects behind bars, technology is another tool helping APD protect the people and property of Atlanta. | City of Atlanta Police Department",
-      "heading": "1.1K views · 20 reactions | Technology is helping the Atlanta Police Department respond faster, locate suspects, and keep Atlanta safe.\n\nIn one case, license plate readers helped officers locate a stolen vehicle in less than 15 minutes after a 2-year-old child was reported inside. In another, police technology and strong investigative work helped identify a suspect who broke into an unlocked truck and stole items, leading to his arrest less than a month later.\n\nFrom locating stolen vehicles to helping investigators put suspects behind bars, technology is another tool helping APD protect the people and property of Atlanta. | City of Atlanta Police Department",
+      "article_title": "1.3K views · 22 reactions | Technology is helping the Atlanta Police Department respond faster, locate suspects, and keep Atlanta safe.\n\nIn one case, license plate readers helped officers locate a stolen vehicle in less than 15 minutes after a 2-year-old child was reported inside. In another, police technology and strong investigative work helped identify a suspect who broke into an unlocked truck and stole items, leading to his arrest less than a month later.\n\nFrom locating stolen vehicles to helping investigators put suspects behind bars, technology is another tool helping APD protect the people and property of Atlanta. | City of Atlanta Police Department",
+      "heading": "1.3K views · 22 reactions | Technology is helping the Atlanta Police Department respond faster, locate suspects, and keep Atlanta safe.\n\nIn one case, license plate readers helped officers locate a stolen vehicle in less than 15 minutes after a 2-year-old child was reported inside. In another, police technology and strong investigative work helped identify a suspect who broke into an unlocked truck and stole items, leading to his arrest less than a month later.\n\nFrom locating stolen vehicles to helping investigators put suspects behind bars, technology is another tool helping APD protect the people and property of Atlanta. | City of Atlanta Police Department",
       "authors": [],
       "article_published_at": null,
       "article_modified_at": null,
@@ -589,10 +717,10 @@
       "content_html": "",
       "word_count": 0,
       "char_count": 0,
-      "lead_image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/833187313_929906989846625_5417653504844196031_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=VbfvLKoPbC8Q7kNvwFGS0Sh&_nc_oc=AdpilcbR-cXaPBA6Nn77MgnzpcuXvIkWEOq1mb2FG336792d3cJ_iPtVA29oJyyy3x4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ls4zIOOhmDQ30a4Ux1Cfjw&_nc_ss=7020f&oh=00_AQM7eY9MEcGizvF8MSL5BbuAF3pWXsP7XtvZgSEAb6zOiw&oe=6AC6589E",
+      "lead_image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/833187313_929906989846625_5417653504844196031_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=VbfvLKoPbC8Q7kNvwEvtRwP&_nc_oc=AdrXtuQbxggBq9xn6zfYmkVRUjSRCJieFq5xj6-3QFz1koiMgBTO7ZjyfdME0mhIvIY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=eNMx7OsZQ7lxjpz-J7Sb3g&_nc_ss=7020f&oh=00_AQNEUcTO7FLy1bPxh6fh7mMxzqxAKhX8-ei6qMNBa_qPQw&oe=6AC6C91E",
       "images": [
         {
-          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/833187313_929906989846625_5417653504844196031_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=VbfvLKoPbC8Q7kNvwFGS0Sh&_nc_oc=AdpilcbR-cXaPBA6Nn77MgnzpcuXvIkWEOq1mb2FG336792d3cJ_iPtVA29oJyyy3x4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ls4zIOOhmDQ30a4Ux1Cfjw&_nc_ss=7020f&oh=00_AQM7eY9MEcGizvF8MSL5BbuAF3pWXsP7XtvZgSEAb6zOiw&oe=6AC6589E",
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/833187313_929906989846625_5417653504844196031_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=VbfvLKoPbC8Q7kNvwEvtRwP&_nc_oc=AdrXtuQbxggBq9xn6zfYmkVRUjSRCJieFq5xj6-3QFz1koiMgBTO7ZjyfdME0mhIvIY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=eNMx7OsZQ7lxjpz-J7Sb3g&_nc_ss=7020f&oh=00_AQNEUcTO7FLy1bPxh6fh7mMxzqxAKhX8-ei6qMNBa_qPQw&oe=6AC6C91E",
           "alt": "",
           "caption": "",
           "role": "lead"
@@ -645,6 +773,67 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-10-03T00:06:56Z"
+    },
+    {
+      "id": "ea4360c9e4642184",
+      "title": "Seagate Technology drops 10% amid storage-sector pressure (STX:NASDAQ)",
+      "header": "Seeking Alpha",
+      "published_at": "2026-10-02T20:50:10Z",
+      "published_raw": "Fri, 02 Oct 2026 20:50:10 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVlJQXzNnbDlqSERrdWg4djRxLVdNbVMzM0JhMXN5OUc2N3RsTmxfTXpuZFR6b2w2MlloOUNLVy1OX25wTXZvMzloVTdjblBxTWxwRWJ3dXV0UVZ2Yk85ZmlIb1F6RE92U3dRMjFRN2ltUGhpanlOMlpkT2V2YmI4VUdyaFN5R2UwU2lWdGtOWFRRWEVqNFJnUzFn?oc=5",
+      "description": "Seagate Technology drops 10% amid storage-sector pressure (STX:NASDAQ) Seeking Alpha",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNVlJQXzNnbDlqSERrdWg4djRxLVdNbVMzM0JhMXN5OUc2N3RsTmxfTXpuZFR6b2w2MlloOUNLVy1OX25wTXZvMzloVTdjblBxTWxwRWJ3dXV0UVZ2Yk85ZmlIb1F6RE92U3dRMjFRN2ltUGhpanlOMlpkT2V2YmI4VUdyaFN5R2UwU2lWdGtOWFRRWEVqNFJnUzFn?oc=5\" target=\"_blank\">Seagate Technology drops 10% amid storage-sector pressure (STX:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVlJQXzNnbDlqSERrdWg4djRxLVdNbVMzM0JhMXN5OUc2N3RsTmxfTXpuZFR6b2w2MlloOUNLVy1OX25wTXZvMzloVTdjblBxTWxwRWJ3dXV0UVZ2Yk85ZmlIb1F6RE92U3dRMjFRN2ltUGhpanlOMlpkT2V2YmI4VUdyaFN5R2UwU2lWdGtOWFRRWEVqNFJnUzFn?oc=5"
+      ],
+      "scraped_at": "2026-10-03T11:26:35Z",
+      "url": "https://seekingalpha.com/news/4649982-seagate-technology-drops-10-amid-storage-sector-pressure",
+      "final_url": "https://seekingalpha.com/news/4649982-seagate-technology-drops-10-amid-storage-sector-pressure",
+      "source": "Seeking Alpha",
+      "article_title": "Seagate Technology drops 10% amid storage-sector pressure (STX:NASDAQ)",
+      "heading": "Seagate Technology drops 10% amid storage-sector pressure",
+      "authors": [
+        "SA News",
+        "SA News Editor"
+      ],
+      "article_published_at": "2026-10-02T16:50:10-04:00",
+      "article_modified_at": "2026-10-02T20:51:51.000Z",
+      "summary": "Seagate (STX) shares plunged 10% despite a broader tech rally.",
+      "content": "Shares of Seagate Technology Holdings (STX), a designer and manufacturer of hard disk drives and data-storage solutions, retreated just over 10% on Friday. The stock closed at $848.99, down $96.58 on the day.\nThe decline stood in sharp contrast to\nOct 02, 2026, 4:50 PM ETSeagate Technology Holdings plc (STX) StockQQQ, SPY, XLK, WDC, MU, SNDKBy: SA News, SA News EditorAI-generated3 Comments\nSA Spotlight uses AI to summarize content published on Seeking Alpha. All summaries are reviewed by human editors prior to publication.\nSeeking Alpha's Disclaimer: This article was automatically generated by an AI tool based on content available on the Seeking Alpha website, and has not been curated or reviewed by humans. Due to inherent limitations in using AI-based tools, the accuracy, completeness, or timeliness of such articles cannot be guaranteed. This article is intended for informational purposes only. Seeking Alpha does not take account of your objectives or your financial situation and does not offer any personalized investment advice. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank.\nTo ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser.\nIs this happening to you frequently? Please report it on our feedback forum.\nIf you have an ad-blocker enabled you may be blocked from proceeding. Please disable your ad-blocker and refresh.\nEntering text into the input field will update the search result below\n- The decline is attributed to storage-specific sector pressures, as both Seagate and Western Digital stock prices fell sharply despite broader tech sector gains; no single company-specific news item is identified as the immediate cause.\n- Analyst opinions are mixed: some maintain Buy ratings citing innovations and strong demand, but others express caution about valuation risk and potential peak in data-center capital spending.\n- Bullish views highlight long-term storage demand and innovative platforms, while concerns revolve around insider selling, profit-taking, macroeconomic risks, and high short interest.",
+      "content_html": "<html>\n  <body>\n    <p>SA Spotlight uses AI to summarize content published on Seeking Alpha. All summaries are reviewed by human editors prior to publication.</p>\n    <p>Sundry Photography/iStock Editorial via Getty Images</p>\n    <p>Shares of Seagate Technology Holdings (STX), a designer and manufacturer of hard disk drives and data-storage solutions, retreated just over 10% on Friday. The stock closed at $848.99, down $96.58 on the day.</p>\n    <p>The decline stood in sharp contrast to</p>\n    <p>Seeking Alpha's Disclaimer:This article was automatically generated by an AI tool based on content available on the Seeking Alpha website, and has not been curated or reviewed by humans. Due to inherent limitations in using AI-based tools, the accuracy, completeness, or timeliness of such articles cannot be guaranteed. This article is intended for informational purposes only. Seeking Alpha does not take account of your objectives or your financial situation and does not offer any personalized investment advice. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank.</p>\n    <p>To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser.</p>\n    <p>If you have an ad-blocker enabled you may be blocked from proceeding. Please disable your ad-blocker and refresh.</p>\n    <p>Entering text into the input field will update the search result below</p>\n    <p>Quick Insights</p>\n    <p>The decline is attributed to storage-specific sector pressures, as both Seagate and Western Digital stock prices fell sharply despite broader tech sector gains; no single company-specific news item is identified as the immediate cause.</p>\n    <p>Analyst opinions are mixed: some maintain Buy ratings citing innovations and strong demand, but others express caution about valuation risk and potential peak in data-center capital spending.</p>\n    <p>Bullish views highlight long-term storage demand and innovative platforms, while concerns revolve around insider selling, profit-taking, macroeconomic risks, and high short interest.</p>\n  </body>\n</html>",
+      "word_count": 322,
+      "char_count": 2127,
+      "lead_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1193973112/image_1193973112.jpg?io=getty-c-w630",
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1193973112/image_1193973112.jpg?io=getty-c-w630",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1193973112/image_1193973112.jpg?io=getty-c-w1280",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1193973112/image_1193973112.jpg?io=getty-c-crop-16-9",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1193973112/image_1193973112.jpg?io=getty-c-crop-4-3",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 4,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-10-03T11:26:35Z"
     },
     {
       "id": "be5232e5d4a3be3c",
@@ -1871,7 +2060,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSG4xaVdoMWZhcERVRG9KVFRLMjhxSHdIZFgzbEJBUEFPZTZTOUJaYWZLS3ExUVFzQVozbEtWS3YwUklPb0JZM2lHYjFySmdZVm5GMWFnckdiZnFRMjdTU3VqX2QxSHM4bnBTRkloTFNnQUFFbW9RNlhNX3puWUttTmZLUWp0cXNhRTBzQUdBbzk3X1Z0clNJLXVxaElaWWZWQzU0bFhZTXZSTmY2RF9NRnlNbjRsVjlmVkJnUHV0XzFpb0ZPUzlMVVF0eE5JMmRNN0lrbw?oc=5"
       ],
-      "scraped_at": "2026-10-03T05:58:53Z",
+      "scraped_at": "2026-10-03T11:26:35Z",
       "url": "https://www.war.gov/News/Releases/Release/Article/4617047/department-of-wars-critical-technologies-office-partners-with-in-q-tel-to-accel/",
       "final_url": "https://www.war.gov/News/Releases/Release/Article/4617047/department-of-wars-critical-technologies-office-partners-with-in-q-tel-to-accel/",
       "source": "U.S. Department of War (.gov)",
@@ -2936,7 +3125,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXBTS3lLLXduM0Q5MV9lTVlZOFBuRnJtMHdnY29hTzVic0F3WnBJbldBUEdwSjU1WGZtNVdFcTh5eHJDeFBVVm5sRUFSeHJZbk9HTGR3bllGREc3V1ZwUENCSEh0cEhveENMTEE0UTM3RG40QlhkZF9razhLRDFfMmJqRzBHX0dwWUZBSEw4WkxxNXpwR0w5Mnl2d041cDJqaW8yb0hra3E?oc=5"
       ],
-      "scraped_at": "2026-10-03T05:58:53Z",
+      "scraped_at": "2026-10-03T11:26:35Z",
       "url": "https://www.reuters.com/legal/litigation/comcasts-nbcuniversal-cuts-streaming-technology-jobs-2026-10-01/",
       "final_url": "https://www.reuters.com/legal/litigation/comcasts-nbcuniversal-cuts-streaming-technology-jobs-2026-10-01/",
       "source": "Reuters",
@@ -25127,226 +25316,6 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-23T21:59:55Z"
-    },
-    {
-      "id": "7090867e94107dd1",
-      "title": "AI bosses: 'Technology could be a risk to humanity'",
-      "header": "news.sky.com",
-      "published_at": "2026-09-23T20:09:28Z",
-      "published_raw": "Wed, 23 Sep 2026 20:09:28 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONTJKX2FHcVVjeVdQNjR5MjBQQzBpZmFQRG0wUGZnRG5PbjRNejZsb2JCWjlmTVpLYWFpcFl5aDB5SEp0ZU1PVDQzR19zcGpIeHQtRHhHYnkwcWdGM0VtTTRCMXBUQnBtUW5zTDFpZUlJS1VkT3JmZkpZclI1OG1rV3BhME8tblpoLVlVTg?oc=5",
-      "description": "AI bosses: 'Technology could be a risk to humanity' news.sky.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONTJKX2FHcVVjeVdQNjR5MjBQQzBpZmFQRG0wUGZnRG5PbjRNejZsb2JCWjlmTVpLYWFpcFl5aDB5SEp0ZU1PVDQzR19zcGpIeHQtRHhHYnkwcWdGM0VtTTRCMXBUQnBtUW5zTDFpZUlJS1VkT3JmZkpZclI1OG1rV3BhME8tblpoLVlVTg?oc=5\" target=\"_blank\">AI bosses: 'Technology could be a risk to humanity'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.sky.com</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxONTJKX2FHcVVjeVdQNjR5MjBQQzBpZmFQRG0wUGZnRG5PbjRNejZsb2JCWjlmTVpLYWFpcFl5aDB5SEp0ZU1PVDQzR19zcGpIeHQtRHhHYnkwcWdGM0VtTTRCMXBUQnBtUW5zTDFpZUlJS1VkT3JmZkpZclI1OG1rV3BhME8tblpoLVlVTg?oc=5"
-      ],
-      "scraped_at": "2026-09-25T14:57:50Z",
-      "url": "https://news.sky.com/video/ai-bosses-technology-could-be-a-risk-to-humanity-13591198",
-      "final_url": "https://news.sky.com/video/ai-bosses-technology-could-be-a-risk-to-humanity-13591198",
-      "source": "news.sky.com",
-      "article_title": "",
-      "heading": "AI bosses: 'Technology could be a risk to humanity'",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "AI bosses: 'Technology could be a risk to humanity' news.sky.com",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-24T00:23:07Z"
-    },
-    {
-      "id": "7cca4acd8707ea83",
-      "title": "Growing the next generation of technology talent",
-      "header": "news.missouristate.edu",
-      "published_at": "2026-09-23T20:01:57Z",
-      "published_raw": "Wed, 23 Sep 2026 20:01:57 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yQ2U3bUdhc3o2U05vcy1XVE5xRHVrM1I2OW53aE90b3ZpejlaRjVKWEczZlhoSFRyaDBtXzVqRjVTTXZmVGJJaUw0TlRUdEM4eVhISWRLeFpBMlVnS2MteGNjYndPZVZLS0d1cWN3?oc=5",
-      "description": "Growing the next generation of technology talent news.missouristate.edu",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5yQ2U3bUdhc3o2U05vcy1XVE5xRHVrM1I2OW53aE90b3ZpejlaRjVKWEczZlhoSFRyaDBtXzVqRjVTTXZmVGJJaUw0TlRUdEM4eVhISWRLeFpBMlVnS2MteGNjYndPZVZLS0d1cWN3?oc=5\" target=\"_blank\">Growing the next generation of technology talent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.missouristate.edu</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yQ2U3bUdhc3o2U05vcy1XVE5xRHVrM1I2OW53aE90b3ZpejlaRjVKWEczZlhoSFRyaDBtXzVqRjVTTXZmVGJJaUw0TlRUdEM4eVhISWRLeFpBMlVnS2MteGNjYndPZVZLS0d1cWN3?oc=5"
-      ],
-      "scraped_at": "2026-09-23T21:59:53Z",
-      "url": "https://news.missouristate.edu/2026/09/23/nsa-gencyber-grant/",
-      "final_url": "https://news.missouristate.edu/2026/09/23/nsa-gencyber-grant/",
-      "source": "News",
-      "article_title": "Growing the next generation of technology talent - News - Missouri State University",
-      "heading": "Growing the next generation of technology talent",
-      "authors": [
-        "Strategic Communication"
-      ],
-      "article_published_at": "2026-09-23T14:15:29+00:00",
-      "article_modified_at": null,
-      "summary": "Almost $90K GenCyber grant will fund Missouri State’s next cyber camp.",
-      "content": "What began as a small summer outreach effort in summer 2024 is growing into a larger investment in Southwest Missouri’s next generation of technology talent.\nMissouri State University’s department of information technology and cybersecurity (ITC) has received an $89,868.98 GenCyber grant to expand cybersecurity education and outreach for middle and high school students.\nThe grant is awarded through GenCyber, a National Security Agency (NSA)-supported initiative that promotes cybersecurity education and helps inspire the next generation of cybersecurity professionals.\nDr. Xiang Guo, head of ITC, serves as program director and principal investigator for the project. Dr. Zhiguo Yang, professor of ITC, is the lead instructor and co-investigator, with co-investigators Jason Speer, senior instructor, and Conner Wilkinson, instructor.\nThe award will support a new GenCyber summer camp on campus planned for Aug. 16-20, 2027. The camp will allow up to 30 students to gain hands-on experience with cybersecurity, artificial intelligence and robotics while reducing financial barriers to participation. Grant funding will support equipment, supplies, faculty instruction and student counselors.\n“We want to help our community and the next generation be technology ready,” said Yang. “When high school and middle school students get early exposure to advanced robotics and AI technology, they have an opportunity to understand these technologies, discover their interests and explore career paths they may not have considered before.”\nWhere it began\nThe GenCyber award is the latest step in a cybersecurity outreach effort years in the making at Missouri State.\nITC first gained experience working with younger learners through Cyber Cubs. Over three summers, faculty and student counselors developed lessons, tested hands-on activities and learned how to introduce cybersecurity, coding and robotics to students with varying levels of technology experience.\nThe work provided more than a successful summer camp. It gave the department a tested curriculum, lesson plans, photos, testimonials and a proven ability to deliver cybersecurity education to young learners.\nAt the same time, ITC strengthened its academic cybersecurity infrastructure. Missouri State established its Center of Academic Excellence in Cybersecurity Operations, Research and Engagement and earned the National Security Agency’s Center of Academic Excellence in Cyber Defense (CAE-CD) designation in 2025. The designation recognizes institutions that meet national standards for cybersecurity education, with community outreach forming part of the broader mission of the CAE-CD program.\nThose initiatives led to the next step: GenCyber, a program available only to academic institutions with a current CAE-CD designation.\n“These milestones were not separate accomplishments, but part of a deliberate progression,” said Guo. “Each step builds a stronger foundation for what comes next, but the goal has always been bigger than the program itself. It’s about using what we’ve built to give back to the community and create more opportunities for the next generation.”\nPutting GenCyber in motion\nThe new camp will move students from learning cybersecurity concepts to applying them to systems they can build, test and see in action.\nStudents will explore defense-in-depth; confidentiality, integrity and availability; adversarial thinking; and secure system design. They will reinforce those concepts through applying them with physical computing and robotics challenges.\nOne planned project brings several of those ideas together in an autonomous or semi-autonomous building patrol security system. Student teams will work with a quadruped, design patrol routes and explore how cameras can identify potential physical security concerns. They will also examine how the system could detect suspicious Wi-Fi access points.\nProgramming experience is preferred but not required for the GenCyber Camp. Rather than making coding a barrier, the curriculum teaches students to think through logic, system design and how different technologies work together to solve security problems.\n“We want campers to focus on the design, figuring out what their program needs to do to solve the problem,” Yang said.\nHow to participate\nRegistration details for the 2027 GenCyber Camp will be announced when available. Students and families across Missouri interested in the program can visit the Association for Business Information Students website.\nExplore information technology and cybersecurity\nDiscover more from News\nSubscribe to get the latest posts sent to your email.",
-      "content_html": "<html>\n  <body>\n    <p>What began as a small summer outreach effort in summer 2024 is growing into a larger investment in Southwest Missouri’s next generation of technology talent.</p>\n    <p>Missouri State University’s department of information technology and cybersecurity (ITC) has received an $89,868.98 GenCyber grant to expand cybersecurity education and outreach for middle and high school students.</p>\n    <p>The grant is awarded through GenCyber, a National Security Agency (NSA)-supported initiative that promotes cybersecurity education and helps inspire the next generation of cybersecurity professionals.</p>\n    <p>Dr. Xiang Guo, head of ITC, serves as program director and principal investigator for the project. Dr. Zhiguo Yang, professor of ITC, is the lead instructor and co-investigator, with co-investigators Jason Speer, senior instructor, and Conner Wilkinson, instructor.</p>\n    <p>The award will support a new GenCyber summer camp on campus planned for Aug. 16-20, 2027. The camp will allow up to 30 students to gain hands-on experience with cybersecurity, artificial intelligence and robotics while reducing financial barriers to participation. Grant funding will support equipment, supplies, faculty instruction and student counselors.</p>\n    <p>“We want to help our community and the next generation be technology ready,” said Yang. “When high school and middle school students get early exposure to advanced robotics and AI technology, they have an opportunity to understand these technologies, discover their interests and explore career paths they may not have considered before.”</p>\n    <h2>Where it began</h2>\n    <p>The GenCyber award is the latest step in a cybersecurity outreach effort years in the making at Missouri State.</p>\n    <p>ITC first gained experience working with younger learners through Cyber Cubs. Over three summers, faculty and student counselors developed lessons, tested hands-on activities and learned how to introduce cybersecurity, coding and robotics to students with varying levels of technology experience.</p>\n    <p>The work provided more than a successful summer camp. It gave the department a tested curriculum, lesson plans, photos, testimonials and a proven ability to deliver cybersecurity education to young learners.</p>\n    <p>At the same time, ITC strengthened its academic cybersecurity infrastructure. Missouri State established its Center of Academic Excellence in Cybersecurity Operations, Research and Engagement and earned the National Security Agency’s Center of Academic Excellence in Cyber Defense (CAE-CD) designation in 2025. The designation recognizes institutions that meet national standards for cybersecurity education, with community outreach forming part of the broader mission of the CAE-CD program.</p>\n    <p>Those initiatives led to the next step: GenCyber, a program available only to academic institutions with a current CAE-CD designation.</p>\n    <p>“These milestones were not separate accomplishments, but part of a deliberate progression,” said Guo. “Each step builds a stronger foundation for what comes next, but the goal has always been bigger than the program itself. It’s about using what we’ve built to give back to the community and create more opportunities for the next generation.”</p>\n    <h2>Putting GenCyber in motion</h2>\n    <p>The new camp will move students from learning cybersecurity concepts to applying them to systems they can build, test and see in action.</p>\n    <p>Students will explore defense-in-depth; confidentiality, integrity and availability; adversarial thinking; and secure system design. They will reinforce those concepts through applying them with physical computing and robotics challenges.</p>\n    <p>One planned project brings several of those ideas together in an autonomous or semi-autonomous building patrol security system. Student teams will work with a quadruped, design patrol routes and explore how cameras can identify potential physical security concerns. They will also examine how the system could detect suspicious Wi-Fi access points.</p>\n    <p>Programming experience is preferred but not required for the GenCyber Camp. Rather than making coding a barrier, the curriculum teaches students to think through logic, system design and how different technologies work together to solve security problems.</p>\n    <p>“We want campers to focus on the design, figuring out what their program needs to do to solve the problem,” Yang said.</p>\n    <h2>How to participate</h2>\n    <p>Registration details for the 2027 GenCyber Camp will be announced when available. Students and families across Missouri interested in the program can visit the Association for Business Information Students website.</p>\n    <p>Explore information technology and cybersecurity</p>\n    <h3>Discover more from News</h3>\n    <p>Subscribe to get the latest posts sent to your email.</p>\n  </body>\n</html>",
-      "word_count": 669,
-      "char_count": 4626,
-      "lead_image": "https://i0.wp.com/news.missouristate.edu/wp-content/uploads/2026/09/Cyber-Cubs-2026_DSC05288.jpg?fit=800%2C450&ssl=1",
-      "images": [
-        {
-          "url": "https://i0.wp.com/news.missouristate.edu/wp-content/uploads/2026/09/Cyber-Cubs-2026_DSC05288.jpg?fit=800%2C450&ssl=1",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        }
-      ],
-      "image_count": 1,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-23T21:59:53Z"
-    },
-    {
-      "id": "325acccff9005bd0",
-      "title": "‘I miss old Google’: readers tell us how they search the internet in the age of AI",
-      "header": "The Guardian",
-      "published_at": "2026-09-23T19:59:00Z",
-      "published_raw": "Wed, 23 Sep 2026 19:59:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWdSb1hpU0xoMnlfOGNUb0liaXc2WjFFM2JDVEl5QmZFSlRlV0FIVHo4Q1RtenVHZWRnMS0zZFMyN200N0hQWDByMk1ES01pMzFweVF6VEpuSDBrTUY3ZW9rSUR0UDBMSkZmSEZsVzBWdjN5MFdTQnl5bmlnS1BGenJHa0FzUUVTOURtYjVtakhLZ25Dcmd0WU92SjkyRHl1LXV6U3lR?oc=5",
-      "description": "‘I miss old Google’: readers tell us how they search the internet in the age of AI The Guardian",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWdSb1hpU0xoMnlfOGNUb0liaXc2WjFFM2JDVEl5QmZFSlRlV0FIVHo4Q1RtenVHZWRnMS0zZFMyN200N0hQWDByMk1ES01pMzFweVF6VEpuSDBrTUY3ZW9rSUR0UDBMSkZmSEZsVzBWdjN5MFdTQnl5bmlnS1BGenJHa0FzUUVTOURtYjVtakhLZ25Dcmd0WU92SjkyRHl1LXV6U3lR?oc=5\" target=\"_blank\">‘I miss old Google’: readers tell us how they search the internet in the age of AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWdSb1hpU0xoMnlfOGNUb0liaXc2WjFFM2JDVEl5QmZFSlRlV0FIVHo4Q1RtenVHZWRnMS0zZFMyN200N0hQWDByMk1ES01pMzFweVF6VEpuSDBrTUY3ZW9rSUR0UDBMSkZmSEZsVzBWdjN5MFdTQnl5bmlnS1BGenJHa0FzUUVTOURtYjVtakhLZ25Dcmd0WU92SjkyRHl1LXV6U3lR?oc=5"
-      ],
-      "scraped_at": "2026-09-24T11:02:12Z",
-      "url": "https://www.theguardian.com/technology/2026/sep/23/google-readers-respond-ai-overview-internet-searches",
-      "final_url": "https://www.theguardian.com/technology/2026/sep/23/google-readers-respond-ai-overview-internet-searches",
-      "source": "the Guardian",
-      "article_title": "‘I miss old Google’: readers tell us how they search the internet in the age of AI",
-      "heading": "‘I miss old Google’: readers tell us how they search the internet in the age of AI",
-      "authors": [
-        "https://www.theguardian.com/profile/blake-montgomery"
-      ],
-      "article_published_at": "2026-09-23T19:51:12.000Z",
-      "article_modified_at": "2026-09-23T19:59:22.000Z",
-      "summary": "A feature called AI Overviews has been a profound change, and the browsing habits of billions of people are shifting",
-      "content": "Google has put artificial intelligence at the front and center of its search bar. The most-visited site on the internet still shows the same list of links to users, but they have to scroll past a summarized response from an AI chatbot, a feature Google calls AI Overviews. The change to what was once the gateway to the rest of the internet has been profound, and the browsing habits of billions of people are shifting.\n“AI is driving the most significant upgrade of the Google Search experience ever,” wrote Liz Reid, Google’s vice-president of search, last August. In May, the company said more AI is coming.\nAs people grow accustomed to AI chatbots, they’re spending more time with Google’s and therefore more time on Google.com. Academic studies are finding that people navigate less to sites beyond Google if an AI Overview can give them a good enough answer, even if the bot cites the sites that feed it. Clicks, also known as traffic, are often the most significant way a website earns money from advertising. Media outlets and website owners are enduring a sustained traffic decline. Large US media companies are suing Google, alleging that AI summaries have redirected and reduced traffic to their sites, cutting into their revenue.\nGoogle said it had not seen a decline in aggregate traffic and that such accusations are based on “flawed methodologies”. Reid, the company’s vice-president of search, wrote last year: “Total organic click volume from Google Search to websites has been relatively stable year-over-year.”\nThe Guardian asked readers whether Google has improved or worsened in the age of AI and how their habits of searching the internet have changed.\n‘Google is better now’\nBetter, mainly because it leads you in your quest rather than you having to search on yourself. I am happy to have the AI lead me to an answer but the mega caution is that Google AI or any of them are not at all trustworthy. I have had it admit that it was lying to me and apologise! Sionn Achog, retired teacher 76, Dublin\nI find that AI responses are more informative than previously, which simply referred the user to other relevant websites. Peter Warb, 75, UK\nAI has made Google better. I use AI mode for all my searches. Jose Garcia Jr, 40, recovery coach, Dallas, Texas\nAI has improved Google search. The analysis and chat functions are so much more useful than a ranked list of websites that still need to be explored by the user. Reviewing a list of websites is still an option but is very time consuming, and frustrating. Alan Caruana, consultant, 62, Malta\nFar more better, faster and real. I search now with confidence, complete assurance and a high degree of accuracy. Eleazar Eke, electrical engineer, 67, Onitsha, Nigeria\nMuch better. It hasn’t changed my behavior, just getting better and more focused results. Catherine Weber, former political analyst, 57, Oregon\nIt’s made Google search much better, I find that I rarely actually click on the website links any more. I find information I want much faster and have a deeper understanding of any topic as I can ask questions about it and drill into the areas I’m interested in. Mark Johnson, 52, software engineer, London\nGreatly improved it by getting at more arcane info regarding subject matter. Juxtaposition has improved with AI and abstruse knowledge of subjects becomes more accessible to layman. Wonderful tool with power to extend mind through sensing connections and very akin to human thinking. Samuel Lieberstein, 90, retired teacher, Cherry Hill, New Jersey\n‘Search has gotten worse’\nSearch has become worse. Google AI obscures sources and tries to claim information it did not create while diverting traffic from the sources it steals from. Sean Peters, document processor, 41, Portland, Oregon\nEvery time I search I have to scroll down to find an actual real website to find a full article or discussion or to confirm that the AI summary isn’t making things up. Occasionally when I am feeling particularly bitter, I remember to add the ““-ai”” tag to my search. Ewan Herbert, English teacher, 33, Japan\nWorse. I have disabled AI overviews using an extension. Chris Gibson, Dundee\nAbsolutely worse. I want to be able to decide for myself which results are the most useful and relevant, and we’re no longer able to turn off the AI summary results. Jon Wilkinson, personal trainer, 43, Manchester, UK\n‘It’s so bad I quit Google’\nGoogle has been enshittified … I do miss old Google Search and I really hope something of equal capabilities eventually comes to replace it.\nThe search engine I currently use is good for a lot of things, but if I need to look for something in languages other than English, the quality of the results is much lower. Image search is also not as good as that of Google used to be. Sofia, postdoctoral physics researcher, 30, Lausanne, Switzerland\nMy first stop now is Duck Duck Go, a pale imitation of Google’s search engine at the height of its powers. Unfortunately, the top results often include Grokipedia entries and other garbage. Craig Garrett, book editor, 52, New York City\nI have stopped using Google. I now use another search engine with no AI overviews. Guy Arthur Simpson, writer 66, Spain\nI’ve made a conscious effort to find a browser which does not lead with the AI results. Mine is now Ecosia. Dan Jennings, IT, 54, Southampton, UK\nI do a lot of research for my studies, and the AI features are a nightmare! I’m still scouring for a decent search engine without any of these ‘AI features’, the last thing i want is to accidentally utilise a water-wasting AI behemoth datacentre when I forget that crucial suffix. I’ve even resorted to using my local library’s resource of legal cases for my work, at least it is trustworthy. Catherine O’Leary, student studying law, politics and sociology, 17, Newcastle Upon Tyne\nGoogle has become almost useless, searches I’ve made in the past which yielded specific results, (news articles, local information, historical references) no longer appear. I no longer submit to Google search first, I go directly to Wikipedia as my first source, then to DuckDuckGo, (with AI disabled) then to Reddit and only to Google as a last resort. Pedro Reyes, 61, Galicia, Spain",
-      "content_html": "<html>\n  <body>\n    <p>Google has put artificial intelligence at the front and center of its search bar. The most-visited site on the internet still shows the same list of links to users, but they have to scroll past a summarized response from an AI chatbot, a feature Google calls AI Overviews. The change to what was once the gateway to the rest of the internet has been profound, and the browsing habits of billions of people are shifting.</p>\n    <p>“AI is driving the most significant upgrade of the Google Search experience ever,” wrote Liz Reid, Google’s vice-president of search, last August. In May, the company said more AI is coming.</p>\n    <p>As people grow accustomed to AI chatbots, they’re spending more time with Google’s and therefore more time on Google.com. Academic studies are finding that people navigate less to sites beyond Google if an AI Overview can give them a good enough answer, even if the bot cites the sites that feed it. Clicks, also known as traffic, are often the most significant way a website earns money from advertising. Media outlets and website owners are enduring a sustained traffic decline. Large US media companies are suing Google, alleging that AI summaries have redirected and reduced traffic to their sites, cutting into their revenue.</p>\n    <p>Google said it had not seen a decline in aggregate traffic and that such accusations are based on “flawed methodologies”. Reid, the company’s vice-president of search, wrote last year: “Total organic click volume from Google Search to websites has been relatively stable year-over-year.”</p>\n    <p>The Guardian asked readers whether Google has improved or worsened in the age of AI and how their habits of searching the internet have changed.</p>\n    <h2>‘Google is better now’</h2>\n    <p>Better, mainly because it leads you in your quest rather than you having to search on yourself. I am happy to have the AI lead me to an answer but the mega caution is that Google AI or any of them are not at all trustworthy. I have had it admit that it was lying to me and apologise! Sionn Achog, retired teacher 76, Dublin</p>\n    <p>I find that AI responses are more informative than previously, which simply referred the user to other relevant websites. Peter Warb, 75, UK</p>\n    <p>AI has made Google better. I use AI mode for all my searches. Jose Garcia Jr, 40, recovery coach, Dallas, Texas</p>\n    <img src=\"https://i.guim.co.uk/img/media/bbb51485bdb822425b6c57e8c9daca711e528e97/0_764_3024_3025/master/3024.jpg?width=120&amp;dpr=1&amp;s=none&amp;crop=none\" alt=\"a man in glasses\"/>\n    <p>AI has improved Google search. The analysis and chat functions are so much more useful than a ranked list of websites that still need to be explored by the user. Reviewing a list of websites is still an option but is very time consuming, and frustrating. Alan Caruana, consultant, 62, Malta</p>\n    <p>Far more better, faster and real. I search now with confidence, complete assurance and a high degree of accuracy. Eleazar Eke, electrical engineer, 67, Onitsha, Nigeria</p>\n    <p>Much better. It hasn’t changed my behavior, just getting better and more focused results. Catherine Weber, former political analyst, 57, Oregon</p>\n    <p>It’s made Google search much better, I find that I rarely actually click on the website links any more. I find information I want much faster and have a deeper understanding of any topic as I can ask questions about it and drill into the areas I’m interested in. Mark Johnson, 52, software engineer, London</p>\n    <p>Greatly improved it by getting at more arcane info regarding subject matter. Juxtaposition has improved with AI and abstruse knowledge of subjects becomes more accessible to layman. Wonderful tool with power to extend mind through sensing connections and very akin to human thinking. Samuel Lieberstein, 90, retired teacher, Cherry Hill, New Jersey</p>\n    <h2>‘Search has gotten worse’</h2>\n    <p>Search has become worse. Google AI obscures sources and tries to claim information it did not create while diverting traffic from the sources it steals from. Sean Peters, document processor, 41, Portland, Oregon</p>\n    <p>after newsletter promotion</p>\n    <img src=\"https://i.guim.co.uk/img/media/de4b61970da63cf5b40c9348b7089bb172210b88/0_847_2544_2545/master/2544.jpg?width=120&amp;dpr=1&amp;s=none&amp;crop=none\" alt=\"a man sits in a car\"/>\n    <p>Every time I search I have to scroll down to find an actual real website to find a full article or discussion or to confirm that the AI summary isn’t making things up. Occasionally when I am feeling particularly bitter, I remember to add the ““-ai”” tag to my search. Ewan Herbert, English teacher, 33, Japan</p>\n    <p>Worse. I have disabled AI overviews using an extension. Chris Gibson, Dundee</p>\n    <p>Absolutely worse. I want to be able to decide for myself which results are the most useful and relevant, and we’re no longer able to turn off the AI summary results. Jon Wilkinson, personal trainer, 43, Manchester, UK</p>\n    <img src=\"https://i.guim.co.uk/img/media/eea49c4fc519ed40979568177dfa1dd3986ef7ad/0_269_2812_2813/master/2812.jpg?width=120&amp;dpr=1&amp;s=none&amp;crop=none\" alt=\"a man in a hat and glasses\"/>\n    <h2>‘It’s so bad I quit Google’</h2>\n    <p>Google has been enshittified … I do miss old Google Search and I really hope something of equal capabilities eventually comes to replace it.</p>\n    <p>The search engine I currently use is good for a lot of things, but if I need to look for something in languages other than English, the quality of the results is much lower. Image search is also not as good as that of Google used to be. Sofia, postdoctoral physics researcher, 30, Lausanne, Switzerland</p>\n    <p>My first stop now is Duck Duck Go, a pale imitation of Google’s search engine at the height of its powers. Unfortunately, the top results often include Grokipedia entries and other garbage. Craig Garrett, book editor, 52, New York City</p>\n    <img src=\"https://i.guim.co.uk/img/media/a070664c4e8b98fd1faa3eaf5cc8b87c608a0193/0_0_980_980/master/980.jpg?width=120&amp;dpr=1&amp;s=none&amp;crop=none\" alt=\"a man smiles while wearing sunglasses\"/>\n    <p>I have stopped using Google. I now use another search engine with no AI overviews. Guy Arthur Simpson, writer 66, Spain</p>\n    <p>I’ve made a conscious effort to find a browser which does not lead with the AI results. Mine is now Ecosia. Dan Jennings, IT, 54, Southampton, UK</p>\n    <p>I do a lot of research for my studies, and the AI features are a nightmare! I’m still scouring for a decent search engine without any of these ‘AI features’, the last thing i want is to accidentally utilise a water-wasting AI behemoth datacentre when I forget that crucial suffix. I’ve even resorted to using my local library’s resource of legal cases for my work, at least it is trustworthy. Catherine O’Leary, student studying law, politics and sociology, 17, Newcastle Upon Tyne</p>\n    <p>Google has become almost useless, searches I’ve made in the past which yielded specific results, (news articles, local information, historical references) no longer appear. I no longer submit to Google search first, I go directly to Wikipedia as my first source, then to DuckDuckGo, (with AI disabled) then to Reddit and only to Google as a last resort. Pedro Reyes, 61, Galicia, Spain</p>\n  </body>\n</html>",
-      "word_count": 1056,
-      "char_count": 6218,
-      "lead_image": "https://i.guim.co.uk/img/media/ffd8b81bb89825ac3c9c9f556c5c615c03157e40/99_1102_3623_2899/master/3623.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=647533f4ed11d83ba972d5969f67e1d1",
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ffd8b81bb89825ac3c9c9f556c5c615c03157e40/99_1102_3623_2899/master/3623.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=647533f4ed11d83ba972d5969f67e1d1",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/ffd8b81bb89825ac3c9c9f556c5c615c03157e40/99_1102_3623_2899/master/3623.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=d9748a9a7cdd9cb5b660eaf6ccaff717",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/ffd8b81bb89825ac3c9c9f556c5c615c03157e40/99_1102_3623_2899/master/3623.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=bb316520d87ff7875b5f5a694f809d1e",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/ffd8b81bb89825ac3c9c9f556c5c615c03157e40/99_1102_3623_2899/master/3623.jpg?width=465&dpr=1&s=none&crop=none",
-          "alt": "an ad reads 'AI Mode'",
-          "caption": "Google's AI mode is advertised on 30 October 2025 in London, United Kingdom. Photograph: John Keeble/Getty Images",
-          "role": "body"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/bbb51485bdb822425b6c57e8c9daca711e528e97/0_764_3024_3025/master/3024.jpg?width=120&dpr=1&s=none&crop=none",
-          "alt": "a man in glasses",
-          "caption": "Jose Garcia",
-          "role": "body"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/de4b61970da63cf5b40c9348b7089bb172210b88/0_847_2544_2545/master/2544.jpg?width=120&dpr=1&s=none&crop=none",
-          "alt": "a man sits in a car",
-          "caption": "Sean Peters.",
-          "role": "body"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/eea49c4fc519ed40979568177dfa1dd3986ef7ad/0_269_2812_2813/master/2812.jpg?width=120&dpr=1&s=none&crop=none",
-          "alt": "a man in a hat and glasses",
-          "caption": "Jon Wilkinson.",
-          "role": "body"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/a070664c4e8b98fd1faa3eaf5cc8b87c608a0193/0_0_980_980/master/980.jpg?width=120&dpr=1&s=none&crop=none",
-          "alt": "a man smiles while wearing sunglasses",
-          "caption": "Craig Garrett.",
-          "role": "body"
-        }
-      ],
-      "image_count": 8,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-24T11:02:12Z"
-    },
-    {
-      "id": "1cad8b1e932900ba",
-      "title": "Technology, Power, and ‘Constitutional Rot’",
-      "header": "Stanford Law School",
-      "published_at": "2026-09-23T19:13:22Z",
-      "published_raw": "Wed, 23 Sep 2026 19:13:22 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaQjlVWVhNNGZRRU50eDE0MGZxTWpVc2lnWEpJYWFSLTJtRk5Td09sV2xzcElseWE3c0ROU3NUQzMySTFFZENheHhPd3RrSGFHSHFySGxudEFoUVhuVnU3NTZQQnZrUngzN2pfMDU0SjFlWDBtSFluOENZbw?oc=5",
-      "description": "Technology, Power, and ‘Constitutional Rot’ Stanford Law School",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBaQjlVWVhNNGZRRU50eDE0MGZxTWpVc2lnWEpJYWFSLTJtRk5Td09sV2xzcElseWE3c0ROU3NUQzMySTFFZENheHhPd3RrSGFHSHFySGxudEFoUVhuVnU3NTZQQnZrUngzN2pfMDU0SjFlWDBtSFluOENZbw?oc=5\" target=\"_blank\">Technology, Power, and ‘Constitutional Rot’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stanford Law School</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaQjlVWVhNNGZRRU50eDE0MGZxTWpVc2lnWEpJYWFSLTJtRk5Td09sV2xzcElseWE3c0ROU3NUQzMySTFFZENheHhPd3RrSGFHSHFySGxudEFoUVhuVnU3NTZQQnZrUngzN2pfMDU0SjFlWDBtSFluOENZbw?oc=5"
-      ],
-      "scraped_at": "2026-09-23T21:59:53Z",
-      "url": "https://law.stanford.edu/press/technology-power-and-constitutional-rot/",
-      "final_url": "https://law.stanford.edu/press/technology-power-and-constitutional-rot/",
-      "source": "Stanford Law School",
-      "article_title": "Technology, Power, and ‘Constitutional Rot’ | Stanford Law School",
-      "heading": "Technology, Power, and ‘Constitutional Rot’",
-      "authors": [
-        "Stanford Law School"
-      ],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "The federal government increasingly relies on private companies to govern: Palantir for foreign intelligence, Amazon for cloud computing, Starlink for",
-      "content": "The federal government increasingly relies on private companies to govern: Palantir for foreign intelligence, Amazon for cloud computing, Starlink for satellite communications, and OpenAI and Anthropic for artificial intelligence. Meanwhile, digital platforms shape who gets heard and how people encounter politics and news.\nNone of that changes a word of the U.S. Constitution. But it is profoundly changing how the Constitution operates.\nThat was the sweeping—and sobering—argument Yale Law Professor Jack Balkin brought to Stanford’s 2026 Constitution Day lecture on September 17. Technological change, he argued, is reordering power among branches of government, blurring the line between public and private authority, weakening institutions essential to democratic debate, and accelerating what he calls “constitutional rot.”\n“The Constitution on the page may stay exactly the same while the Constitution in practice changes dramatically because of changes in technology,” Balkin said.\nBalkin, the Knight Professor of Constitutional Law and the First Amendment at Yale Law School and founder and director of Yale’s Information Society Project, delivered “Technology and Constitutional Rot,” presented by the Stanford Constitutional Law Center.\nMichael McConnell, the Richard and Frances Mallery Professor of Law and director of the center, introduced Balkin. Constitution Day, McConnell said, is not simply about venerating a document completed in 1787, but about continuing the argument over what the Constitution means and how it should govern.\nA Constitution Under Structural Pressure\nBalkin defined “constitutional rot” as the process by which a democratic republic becomes less democratic and less republican: government grows less responsive to popular will, officials less oriented toward the public good, and norms of cooperation and fair play begin to erode.\nIts “four horsemen,” he said, are widening wealth inequality, political polarization, loss of trust, and policy disasters that leave citizens viewing the government as incompetent or indifferent.\nThe United States has experienced such periods before, including the first Gilded Age and the decades preceding the Civil War. Balkin described the present as a “second Gilded Age,” marked by similar forces, including rapid technological disruption, extraordinary concentrations of wealth, bitter political division, and distrust of institutions.\nTechnology did not create those conditions, he stressed. But it is making them worse.\nThe Algorithmic State\nBalkin calls the social order built around data, platforms, algorithms, robotics, and artificial intelligence the “algorithmic society.” Its governmental counterpart, the “algorithmic state,” increasingly uses prediction, automated decision-making, and AI in policing, immigration, taxation, public benefits, national security, warfare, and other areas.\nThat shift disproportionately empowers the executive branch, he said. Digital systems enhance what Alexander Hamilton prized in executive government—decision, activity, secrecy, and dispatch—while adding vast new capacities to gather information, predict behavior, and act.\nCongress retains its formal powers but lacks comparable technological infrastructure, expertise, and speed. Courts, he said, can act only when disputes reach them, while the opacity and complexity of technological systems make oversight difficult.\nWhen Government Governs by Platform\nMajor technology companies, Balkin stressed, are no longer simply contractors selling government products. They increasingly provide “the infrastructure through which government itself operates.”\nAt the same time, platforms act as “special purpose sovereigns,” he said, exercising governing authority of their own by setting rules, excluding users, ranking speakers, structuring markets, and resolving disputes. The result is what he described as “mutual co-optation”: governments seek technological capacity from private firms, while the firms seek contracts, favorable regulation, protection, and influence.\nThat poses a foundational constitutional problem because many protections depend on the distinction between public and private power. The First Amendment constrains government censorship while protecting private editorial judgment; the Fourth Amendment limits government searches while private companies routinely collect vast amounts of personal data.\n“In a world in which we can no longer tell what’s private and what’s public,” Balkin said, “we have enormous tension on the constitutional system.”\nWhen Everything Is ‘Content’\nDemocracy depends on institutions that produce knowledge, shape public opinion, and enable citizens to evaluate those who govern them, he said. Digital technology has enabled extraordinary freedom of expression while simultaneously weakening institutions—including journalism, universities, and science—that help distinguish knowledge from falsehood. The result is what Balkin called a “politics of attention,” with platforms rewarding engagement, not truth. These forces, he argued, compound constitutional rot. Concentrated wealth magnifies political power, attention-driven systems intensify polarization, opaque algorithms fuel distrust, and weakened knowledge institutions make policy failures harder to prevent and correct.\nCan Constitutional Rot Be Reversed?\nAfter joking that he had delivered “a total downer of a talk,” Balkin turned to renewal.\nHis grounds for optimism were historical. Earlier periods of constitutional rot were followed by sweeping reform: Reconstruction after the Civil War and, after the first Gilded Age, the Progressive Era and New Deal. But “history is not like clockwork,” he cautioned. Technology does not dictate political outcomes; people decide how technologies are designed, regulated, owned, and used.\nBecause the problems are structural, Balkin argued, the solutions must be as well. He pointed to stronger digital privacy protections, new approaches to civil rights and due process in algorithmic systems, better oversight of government technology procurement, stronger congressional technological capacity, and broad reforms to democratic institutions.\n“Technology does not determine our fate,” Balkin concluded. “It changes possibilities for exercising power.” The constitutional challenge, he said, is to discipline those new technologies of power so they serve democratic and republican ends.\nAbout Stanford Law School\nStanford Law School is one of the world’s leading institutions for legal scholarship and education. Its alumni are among the most influential decision makers in law, politics, business, and high technology. Faculty members argue before the Supreme Court, testify before Congress, produce outstanding legal scholarship and empirical analysis, and contribute regularly to the nation’s press as legal and policy experts. Stanford Law School has established a model for legal education that provides rigorous interdisciplinary training, hands-on experience, global perspective and a focus on public service.",
-      "content_html": "<html>\n  <body>\n    <h1>Technology, Power, and ‘Constitutional Rot’</h1>\n    <p>The federal government increasingly relies on private companies to govern: Palantir for foreign intelligence, Amazon for cloud computing, Starlink for satellite communications, and OpenAI and Anthropic for artificial intelligence. Meanwhile, digital platforms shape who gets heard and how people encounter politics and news.</p>\n    <p>None of that changes a word of the U.S. Constitution. But it is profoundly changing how the Constitution operates.</p>\n    <p>That was the sweeping—and sobering—argument Yale Law Professor Jack Balkin brought to Stanford’s 2026 Constitution Day lecture on September 17. Technological change, he argued, is reordering power among branches of government, blurring the line between public and private authority, weakening institutions essential to democratic debate, and accelerating what he calls “constitutional rot.”</p>\n    <img src=\"https://law.stanford.edu/wp-content/uploads/2026/09/technology-power-and-constitutional-rot-1024x652.jpeg\" alt=\"Photo of Michael McConnell, Richard and Frances Mallery Professor of Law and Director of the Stanford Constitutional Law Center\"/>\n    <p>“The Constitution on the page may stay exactly the same while the Constitution in practice changes dramatically because of changes in technology,” Balkin said.</p>\n    <p>Balkin, the Knight Professor of Constitutional Law and the First Amendment at Yale Law School and founder and director of Yale’s Information Society Project, delivered “Technology and Constitutional Rot,” presented by the Stanford Constitutional Law Center.</p>\n    <p>Michael McConnell, the Richard and Frances Mallery Professor of Law and director of the center, introduced Balkin. Constitution Day, McConnell said, is not simply about venerating a document completed in 1787, but about continuing the argument over what the Constitution means and how it should govern.</p>\n    <h4>A Constitution Under Structural Pressure</h4>\n    <p>\n      <img src=\"https://law.stanford.edu/wp-content/uploads/2026/09/technology-power-and-constitutional-rot-3-1024x644.jpeg\" alt=\"Technology, Power, and ‘Constitutional Rot’ 2\"/>\n    </p>\n    <p>Balkin defined “constitutional rot” as the process by which a democratic republic becomes less democratic and less republican: government grows less responsive to popular will, officials less oriented toward the public good, and norms of cooperation and fair play begin to erode.</p>\n    <p>Its “four horsemen,” he said, are widening wealth inequality, political polarization, loss of trust, and policy disasters that leave citizens viewing the government as incompetent or indifferent.</p>\n    <p>The United States has experienced such periods before, including the first Gilded Age and the decades preceding the Civil War. Balkin described the present as a “second Gilded Age,” marked by similar forces, including rapid technological disruption, extraordinary concentrations of wealth, bitter political division, and distrust of institutions.</p>\n    <p>Technology did not create those conditions, he stressed. But it is making them worse.</p>\n    <h4>The Algorithmic State</h4>\n    <p>Balkin calls the social order built around data, platforms, algorithms, robotics, and artificial intelligence the “algorithmic society.” Its governmental counterpart, the “algorithmic state,” increasingly uses prediction, automated decision-making, and AI in policing, immigration, taxation, public benefits, national security, warfare, and other areas.</p>\n    <p>That shift disproportionately empowers the executive branch, he said. Digital systems enhance what Alexander Hamilton prized in executive government—decision, activity, secrecy, and dispatch—while adding vast new capacities to gather information, predict behavior, and act.</p>\n    <p>Congress retains its formal powers but lacks comparable technological infrastructure, expertise, and speed. Courts, he said, can act only when disputes reach them, while the opacity and complexity of technological systems make oversight difficult.</p>\n    <h4>When Government Governs by Platform</h4>\n    <p>Major technology companies, Balkin stressed, are no longer simply contractors selling government products. They increasingly provide “the infrastructure through which government itself operates.”</p>\n    <img src=\"https://law.stanford.edu/wp-content/uploads/2026/09/technology-power-and-constitutional-rot-2.jpeg\" alt=\"Image of Jack Balkin, Knight Professor of Constitutional Law and the First Amendment at Yale Law School\"/>\n    <p>At the same time, platforms act as “special purpose sovereigns,” he said, exercising governing authority of their own by setting rules, excluding users, ranking speakers, structuring markets, and resolving disputes. The result is what he described as “mutual co-optation”: governments seek technological capacity from private firms, while the firms seek contracts, favorable regulation, protection, and influence.</p>\n    <p>That poses a foundational constitutional problem because many protections depend on the distinction between public and private power. The First Amendment constrains government censorship while protecting private editorial judgment; the Fourth Amendment limits government searches while private companies routinely collect vast amounts of personal data.</p>\n    <p>“In a world in which we can no longer tell what’s private and what’s public,” Balkin said, “we have enormous tension on the constitutional system.”</p>\n    <h4>When Everything Is ‘Content’</h4>\n    <p>Democracy depends on institutions that produce knowledge, shape public opinion, and enable citizens to evaluate those who govern them, he said. Digital technology has enabled extraordinary freedom of expression while simultaneously weakening institutions—including journalism, universities, and science—that help distinguish knowledge from falsehood. The result is what Balkin called a “politics of attention,” with platforms rewarding engagement, not truth. These forces, he argued, compound constitutional rot. Concentrated wealth magnifies political power, attention-driven systems intensify polarization, opaque algorithms fuel distrust, and weakened knowledge institutions make policy failures harder to prevent and correct.</p>\n    <h4>Can Constitutional Rot Be Reversed?</h4>\n    <p>After joking that he had delivered “a total downer of a talk,” Balkin turned to renewal.</p>\n    <p>His grounds for optimism were historical. Earlier periods of constitutional rot were followed by sweeping reform: Reconstruction after the Civil War and, after the first Gilded Age, the Progressive Era and New Deal. But “history is not like clockwork,” he cautioned. Technology does not dictate political outcomes; people decide how technologies are designed, regulated, owned, and used.</p>\n    <p>Because the problems are structural, Balkin argued, the solutions must be as well. He pointed to stronger digital privacy protections, new approaches to civil rights and due process in algorithmic systems, better oversight of government technology procurement, stronger congressional technological capacity, and broad reforms to democratic institutions.</p>\n    <p>“Technology does not determine our fate,” Balkin concluded. “It changes possibilities for exercising power.” The constitutional challenge, he said, is to discipline those new technologies of power so they serve democratic and republican ends.</p>\n    <h4>About Stanford Law School</h4>\n    <p>Stanford Law School is one of the world’s leading institutions for legal scholarship and education. Its alumni are among the most influential decision makers in law, politics, business, and high technology. Faculty members argue before the Supreme Court, testify before Congress, produce outstanding legal scholarship and empirical analysis, and contribute regularly to the nation’s press as legal and policy experts. Stanford Law School has established a model for legal education that provides rigorous interdisciplinary training, hands-on experience, global perspective and a focus on public service.</p>\n  </body>\n</html>",
-      "word_count": 965,
-      "char_count": 7045,
-      "lead_image": "https://law.stanford.edu/wp-content/uploads/2026/09/technology-power-and-constitutional-rot-3-1200x630.jpeg",
-      "images": [
-        {
-          "url": "https://law.stanford.edu/wp-content/uploads/2026/09/technology-power-and-constitutional-rot-3-1200x630.jpeg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://law.stanford.edu/wp-content/uploads/2026/09/technology-power-and-constitutional-rot.jpeg",
-          "alt": "Photo of Michael McConnell, Richard and Frances Mallery Professor of Law and Director of the Stanford Constitutional Law Center",
-          "caption": "Michael McConnell, Richard and Frances Mallery Professor of Law and Director of the Stanford Constitutional Law Center",
-          "role": "body"
-        },
-        {
-          "url": "https://i.ytimg.com/vi/dmGb7XRUfcY/maxresdefault.jpg",
-          "alt": "Constitution Day Lecture: Technology and Constitutional Rot",
-          "caption": "Play Video Constitution Day Lecture: Technology and Constitutional Rot",
-          "role": "body"
-        },
-        {
-          "url": "https://law.stanford.edu/wp-content/uploads/2026/09/technology-power-and-constitutional-rot-2.jpeg",
-          "alt": "Image of Jack Balkin, Knight Professor of Constitutional Law and the First Amendment at Yale Law School",
-          "caption": "Jack Balkin, Knight Professor of Constitutional Law and the First Amendment at Yale Law School",
-          "role": "body"
-        }
-      ],
-      "image_count": 4,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-23T21:59:53Z"
     }
   ]
 }
