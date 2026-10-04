@@ -1,17 +1,275 @@
 {
   "feed_url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
-  "generated_at": "2026-10-04T15:06:30Z",
+  "generated_at": "2026-10-04T18:59:37Z",
   "count": 500,
   "stats": {
     "feed_items": 25,
-    "scraped_now": 17,
-    "added": 6,
-    "updated": 11,
-    "ok": 359,
-    "failed": 141,
-    "duration_seconds": 6.76
+    "scraped_now": 14,
+    "added": 8,
+    "updated": 6,
+    "ok": 355,
+    "failed": 145,
+    "duration_seconds": 3.82
   },
   "articles": [
+    {
+      "id": "5a6a0270b2f6c486",
+      "title": "Colorado's Aspen Snowmass experiments with snow farming technology",
+      "header": "CBS News",
+      "published_at": "2026-10-04T17:51:00Z",
+      "published_raw": "Sun, 04 Oct 2026 17:51:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUHZxU09Tc0ttaWx0SnUwMHRfemFnOVd6SGlRck9UYS1nUnZ6dzhJUXE2R3BRNjZyZGhJaDVqeEJCN21sSTI4dmdGTlVfT1hFRjlIVGR2VUFIMzBRQzdVeTRMT0N4X1R5dGZHYVN1bkxyUHJiUjZYYlNnbGhQMUM4X0IzYkJLR04zTXZaN0xHUXFDeTV6MDNZT0N5NWhHeGt4SFBTd3B4dko?oc=5",
+      "description": "Colorado's Aspen Snowmass experiments with snow farming technology CBS News",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUHZxU09Tc0ttaWx0SnUwMHRfemFnOVd6SGlRck9UYS1nUnZ6dzhJUXE2R3BRNjZyZGhJaDVqeEJCN21sSTI4dmdGTlVfT1hFRjlIVGR2VUFIMzBRQzdVeTRMT0N4X1R5dGZHYVN1bkxyUHJiUjZYYlNnbGhQMUM4X0IzYkJLR04zTXZaN0xHUXFDeTV6MDNZT0N5NWhHeGt4SFBTd3B4dko?oc=5\" target=\"_blank\">Colorado's Aspen Snowmass experiments with snow farming technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUHZxU09Tc0ttaWx0SnUwMHRfemFnOVd6SGlRck9UYS1nUnZ6dzhJUXE2R3BRNjZyZGhJaDVqeEJCN21sSTI4dmdGTlVfT1hFRjlIVGR2VUFIMzBRQzdVeTRMT0N4X1R5dGZHYVN1bkxyUHJiUjZYYlNnbGhQMUM4X0IzYkJLR04zTXZaN0xHUXFDeTV6MDNZT0N5NWhHeGt4SFBTd3B4dko?oc=5"
+      ],
+      "scraped_at": "2026-10-04T18:59:34Z",
+      "url": "https://www.cbsnews.com/colorado/video/colorados-aspen-snowmass-experiments-with-snow-farming-technology/",
+      "final_url": "https://www.cbsnews.com/colorado/video/colorados-aspen-snowmass-experiments-with-snow-farming-technology/",
+      "source": "CBS News",
+      "article_title": "",
+      "heading": "Colorado's Aspen Snowmass experiments with snow farming technology",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Colorado's Aspen Snowmass experiments with snow farming technology CBS News",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-10-04T18:59:34Z"
+    },
+    {
+      "id": "3b2342699293a5c6",
+      "title": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force",
+      "header": "WSJ",
+      "published_at": "2026-10-04T17:32:57Z",
+      "published_raw": "Sun, 04 Oct 2026 17:32:57 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5",
+      "description": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force WSJ",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5\" target=\"_blank\">Exclusive | New AI Czar Unveils Goals, Members of White House Task Force</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5"
+      ],
+      "scraped_at": "2026-10-04T18:59:34Z",
+      "url": "https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef",
+      "final_url": "https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef",
+      "source": "WSJ",
+      "article_title": "",
+      "heading": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force WSJ",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-10-04T02:20:41Z"
+    },
+    {
+      "id": "1b091fb79827e793",
+      "title": "Trump reveals new AI czar — and gives him 120 days to report on pros, cons of technology",
+      "header": "New York Post",
+      "published_at": "2026-10-04T16:20:00Z",
+      "published_raw": "Sun, 04 Oct 2026 16:20:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNam5LYi1CUjVwaU5ENFRKNE1aQkNhUkVId18wUFdYVjNWSTYwUUs4RHA4Sm9iVFAyWEl6dF80SlRYTDF6RDVVRjlGVzZQamlBcnBrOXV6aVd1UFMxWld5cmM4T1k2YVRVd3dvVU1oMVZQSFZaU3dNY2FiclVoSWZDMVo3bndnb1I4V2s0T2ZBRExoNTNVdFh2YTBqVDdTLUFNSTRDRjlhdm5KYk5NMTd1NEZhY1liLWh3RmkydTRYTWladw?oc=5",
+      "description": "Trump reveals new AI czar — and gives him 120 days to report on pros, cons of technology New York Post",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNam5LYi1CUjVwaU5ENFRKNE1aQkNhUkVId18wUFdYVjNWSTYwUUs4RHA4Sm9iVFAyWEl6dF80SlRYTDF6RDVVRjlGVzZQamlBcnBrOXV6aVd1UFMxWld5cmM4T1k2YVRVd3dvVU1oMVZQSFZaU3dNY2FiclVoSWZDMVo3bndnb1I4V2s0T2ZBRExoNTNVdFh2YTBqVDdTLUFNSTRDRjlhdm5KYk5NMTd1NEZhY1liLWh3RmkydTRYTWladw?oc=5\" target=\"_blank\">Trump reveals new AI czar — and gives him 120 days to report on pros, cons of technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNam5LYi1CUjVwaU5ENFRKNE1aQkNhUkVId18wUFdYVjNWSTYwUUs4RHA4Sm9iVFAyWEl6dF80SlRYTDF6RDVVRjlGVzZQamlBcnBrOXV6aVd1UFMxWld5cmM4T1k2YVRVd3dvVU1oMVZQSFZaU3dNY2FiclVoSWZDMVo3bndnb1I4V2s0T2ZBRExoNTNVdFh2YTBqVDdTLUFNSTRDRjlhdm5KYk5NMTd1NEZhY1liLWh3RmkydTRYTWladw?oc=5"
+      ],
+      "scraped_at": "2026-10-04T18:59:34Z",
+      "url": "https://nypost.com/2026/10/04/us-news/trump-reveals-new-ai-czar-and-gives-him-120-days-to-report-on-pros-cons-of-technology/",
+      "final_url": "https://nypost.com/2026/10/04/us-news/trump-reveals-new-ai-czar-and-gives-him-120-days-to-report-on-pros-cons-of-technology/",
+      "source": "New York Post",
+      "article_title": "Trump reveals new AI czar — and gives him 120 days to report on pros, cons of technology",
+      "heading": "Trump reveals new AI czar — and gives him 120 days to report on pros, cons of technology",
+      "authors": [
+        "Ryan King"
+      ],
+      "article_published_at": "2026-10-04T16:20:31+00:00",
+      "article_modified_at": "2026-10-04T16:40:12+00:00",
+      "summary": "The artificial-intelligence chief will oversee a so-called Super Intelligence Force, which is being formed as Trump resists pressure to throttle AI development.",
+      "content": "Trump reveals new AI czar — and gives him 120 days to report on pros, cons of technology\nWASHINGTON — President Trump has tapped Director of National Intelligence Jay Clayton as his new artificial-intelligence czar — and given him 120 days to report on the pros and cons of the technology.\nClayton will oversee a so-called Super Intelligence Force, which is being formed as Trump resists pressure to throttle AI development.\n“The president asked that a group be put together that was going to ensure exactly what he said … [that] we stay the leaders in super intelligence and that the interests of the American people are put first,” Clayton told the Wall Street Journal about his new role.\nTrump has called for rebranding AI as super intelligence, or SI.\n“The risk of not being first is high,” Clayton told the outlet. “Not being first increases the identified and unidentified risks, particularly from our adversaries. Being first will better enable us to address those risks on behalf of the American people.”\nA blizzard of polls has identified public skepticism over AI. Last month, those fears reached a fever pitch when a researcher at Anthropic quit his job, dramatically warning that the technology could lead to human extinction and that industry leaders were aware of and worried about the likelihood.\nAnthropic CEO Dario Amodei and OpenAI CEO Sam Altman have both called for a slowdown in the development of AI.\nAltman highlighted the Hugging Face online-platform incident in which engineers at his firm had been training a model with some safety parameters turned off on ExploitGym, which tests hacking capabilities. The system allegedly went rogue and hacked a company on its own.\nThe deeply disturbing incidents led to a chorus of calls on Capitol Hill, particularly among Democrats, for greater regulation of AI, but Trump rejected that, warning such a move would be a godsend for China.\nTrump held a gathering of CEOs of top AI companies last week, during which they signed a “White House Accord on Super Intelligence” agreeing to general principles about the development of the tech.\n“I will never stifle the growth of technology that will be bigger than the industrial revolution,” Trump vowed at the time.\nClayton predicted that over time, there will be stronger mechanisms to mitigate risks and identify opportunities with AI.\n“I expect there will be mechanisms developed in dialogue, just like there are in other industries,” Clayton told the outlet.\nThe newly minted White House “Super Intelligence Force” also includes Vice President JD Vance, Treasury Secretary Scott Bessent, Secretary of War Pete Hegseth, White House deputy Chief of Staff Richard Walters and former AI czar David Sacks.\nThe group’s charter calls for creating ways to mitigate AI risks and “develop plans for responding to SI-enabled threats to our society, while preventing overregulation and regulatory capture that would stifle innovation and competition.\nTrump wrote on Truth Social, “The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans.”",
+      "content_html": "<html>\n  <body><h1>Trump reveals new AI czar — and gives him 120 days to report on pros, cons of technology</h1><p>WASHINGTON — President Trump has tapped Director of National Intelligence Jay Clayton as his new artificial-intelligence czar — and given him 120 days to report on the pros and cons of the technology.</p><p>Clayton will oversee a so-called Super Intelligence Force, which is being formed as Trump resists pressure to throttle AI development.</p><p>“The president asked that a group be put together that was going to ensure exactly what he said … [that] we stay the leaders in super intelligence and that the interests of the American people are put first,” Clayton told the Wall Street Journal about his new role.</p><img src=\"https://nypost.com/wp-content/uploads/sites/2/2026/10/12-17-25-united-states-117505129.jpg?w=1024\" alt=\"United States Attorney for the Southern District of New York Jay Clayton participates in an interview.\"/>\n\t\t\t\t\n\t\t\t\t\t3\n\t\t\t\t\n\t\t\t<p>Trump has called for rebranding AI as super intelligence, or SI.</p><p>“The risk of not being first is high,” Clayton told the outlet. “Not being first increases the identified and unidentified risks, particularly from our adversaries. Being first will better enable us to address those risks on behalf of the American people.”</p><p>A blizzard of polls has identified public skepticism over AI. Last month, those fears reached a fever pitch when a researcher at Anthropic quit his job, dramatically warning that the technology could lead to human extinction and that industry leaders were aware of and worried about the likelihood.</p><p>Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman have both called for a slowdown in the development of AI.</p><p>Altman highlighted the Hugging Face online-platform incident in which engineers at his firm had been training a model with some safety parameters turned off on ExploitGym, which tests hacking capabilities. The system allegedly went rogue and hacked a company on its own.</p><img src=\"https://nypost.com/wp-content/uploads/sites/2/2026/10/2026-pictured-seated-table-l-143122340.jpg?w=1024\" alt=\"U.S. President Donald Trump speaks during a meeting with technology executives in the East Room of the White House.\"/>\n\t\t\t\t\n\t\t\t\t\t3\n\t\t\t\t\n\t\t\t<p>The deeply disturbing incidents led to a chorus of calls on Capitol Hill, particularly among Democrats, for greater regulation of AI, but Trump rejected that, warning such a move would be a godsend for China.</p><p>Trump held a gathering of CEOs of top AI companies last week, during which they signed a “White House Accord on Super Intelligence” agreeing to general principles about the development of the tech.</p><p>“I will never stifle the growth of technology that will be bigger than the industrial revolution,” Trump vowed at the time.</p><img src=\"https://nypost.com/wp-content/uploads/sites/2/2026/10/president-donald-trump-meta-ceo-143071832.jpg?w=1024\" alt=\"President Donald Trump and Meta CEO Mark Zuckerberg listen as Dario Amodei speaks to reporters at the White House.\"/>\n\t\t\t\t\n\t\t\t\t\t3\n\t\t\t\t\n\t\t\t<p>Clayton predicted that over time, there will be stronger mechanisms to mitigate risks and identify opportunities with AI.</p><p>“I expect there will be mechanisms developed in dialogue, just like there are in other industries,” Clayton told the outlet.</p><p>The newly minted White House “Super Intelligence Force” also includes Vice President JD Vance, Treasury Secretary Scott Bessent, Secretary of War Pete Hegseth, White House deputy Chief of Staff Richard Walters and former AI czar David Sacks.</p><p>The group’s charter calls for creating ways to mitigate AI risks and “develop plans for responding to SI-enabled threats to our society, while preventing overregulation and regulatory capture that would stifle innovation and competition.</p><p>Trump wrote on Truth Social, “The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans.”</p></body>\n</html>",
+      "word_count": 534,
+      "char_count": 3298,
+      "lead_image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/143735839.jpg?quality=75&strip=all&w=1200",
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2026/10/143735839.jpg?quality=75&strip=all&w=1200",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        }
+      ],
+      "image_count": 1,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-10-04T18:59:34Z"
+    },
+    {
+      "id": "06ed6cb32028c651",
+      "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy",
+      "header": "Reuters",
+      "published_at": "2026-10-04T16:05:11Z",
+      "published_raw": "Sun, 04 Oct 2026 16:05:11 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ0tDWnAyNW5zeWtTcDBZSUczMHZGZUEtYXFlUHI2dkRpY0ZfYXBmUlBCdHhZQjJucnlYWmxMOXRkOXNsd2w0X245TV9mN2hHNHdkN1UzQjlabUYtb2xvdWtEem5qZXVUQVltbVFBQ2ZEOEN2cFdidGFFbWtIWGlvcklxVWJ1bTFDZmZkWWxNLWRUSGI5QXpnbmhENGpfX1N5S3NXZEpiYWVVa2tEdXNpZmtxcG5VU0dyWFdMUXJNOWJOUndEMy1WLTF1VU1qWlduQ1E?oc=5",
+      "description": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy Reuters",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ0tDWnAyNW5zeWtTcDBZSUczMHZGZUEtYXFlUHI2dkRpY0ZfYXBmUlBCdHhZQjJucnlYWmxMOXRkOXNsd2w0X245TV9mN2hHNHdkN1UzQjlabUYtb2xvdWtEem5qZXVUQVltbVFBQ2ZEOEN2cFdidGFFbWtIWGlvcklxVWJ1bTFDZmZkWWxNLWRUSGI5QXpnbmhENGpfX1N5S3NXZEpiYWVVa2tEdXNpZmtxcG5VU0dyWFdMUXJNOWJOUndEMy1WLTF1VU1qWlduQ1E?oc=5\" target=\"_blank\">Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ0tDWnAyNW5zeWtTcDBZSUczMHZGZUEtYXFlUHI2dkRpY0ZfYXBmUlBCdHhZQjJucnlYWmxMOXRkOXNsd2w0X245TV9mN2hHNHdkN1UzQjlabUYtb2xvdWtEem5qZXVUQVltbVFBQ2ZEOEN2cFdidGFFbWtIWGlvcklxVWJ1bTFDZmZkWWxNLWRUSGI5QXpnbmhENGpfX1N5S3NXZEpiYWVVa2tEdXNpZmtxcG5VU0dyWFdMUXJNOWJOUndEMy1WLTF1VU1qWlduQ1E?oc=5"
+      ],
+      "scraped_at": "2026-10-04T18:59:36Z",
+      "url": "https://www.reuters.com/business/aerospace-defense/ukraine-believes-russia-shared-jet-drone-technology-with-north-korea-says-2026-10-04/",
+      "final_url": "https://www.reuters.com/business/aerospace-defense/ukraine-believes-russia-shared-jet-drone-technology-with-north-korea-says-2026-10-04/",
+      "source": "Reuters",
+      "article_title": "",
+      "heading": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy Reuters",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-10-04T18:59:36Z"
+    },
+    {
+      "id": "9f63b9dfb288469b",
+      "title": "I have news for Big Tech. We don't want AI to do everything | Opinion",
+      "header": "USA Today",
+      "published_at": "2026-10-04T15:45:00Z",
+      "published_raw": "Sun, 04 Oct 2026 15:45:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHZhQ3lyN1o3ekVwaVRwZDZGWlVvOW5qRGRCMWpoVkd0N252cHU5UTdJSzh0ZHU2bVhHN1Rack0tM1dna0JJZDNLeTZlSkV5Sl9mUjZDMU94YXI0N3djZ2pfVTN4aG11eER4Q3RVUkUtWjRhZ2RSVFcweGh5V2RfRWlEdHJ5ajFoMWU2YkJIVFpVdjFOQlplQWtqY1pnVEkzSjZvdVNIckxDdW1kSlNDelVfcXBXSTg2R1U0b0ZPNHA?oc=5",
+      "description": "I have news for Big Tech. We don't want AI to do everything | Opinion USA Today",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHZhQ3lyN1o3ekVwaVRwZDZGWlVvOW5qRGRCMWpoVkd0N252cHU5UTdJSzh0ZHU2bVhHN1Rack0tM1dna0JJZDNLeTZlSkV5Sl9mUjZDMU94YXI0N3djZ2pfVTN4aG11eER4Q3RVUkUtWjRhZ2RSVFcweGh5V2RfRWlEdHJ5ajFoMWU2YkJIVFpVdjFOQlplQWtqY1pnVEkzSjZvdVNIckxDdW1kSlNDelVfcXBXSTg2R1U0b0ZPNHA?oc=5\" target=\"_blank\">I have news for Big Tech. We don't want AI to do everything | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHZhQ3lyN1o3ekVwaVRwZDZGWlVvOW5qRGRCMWpoVkd0N252cHU5UTdJSzh0ZHU2bVhHN1Rack0tM1dna0JJZDNLeTZlSkV5Sl9mUjZDMU94YXI0N3djZ2pfVTN4aG11eER4Q3RVUkUtWjRhZ2RSVFcweGh5V2RfRWlEdHJ5ajFoMWU2YkJIVFpVdjFOQlplQWtqY1pnVEkzSjZvdVNIckxDdW1kSlNDelVfcXBXSTg2R1U0b0ZPNHA?oc=5"
+      ],
+      "scraped_at": "2026-10-04T18:59:35Z",
+      "url": "https://www.usatoday.com/story/opinion/columnist/2026/10/04/trump-ai-summit-tech-ceo-americans-reject-big-tech/91995602007/",
+      "final_url": "https://www.usatoday.com/story/opinion/columnist/2026/10/04/trump-ai-summit-tech-ceo-americans-reject-big-tech/91995602007/",
+      "source": "USA Today",
+      "article_title": "",
+      "heading": "I have news for Big Tech. We don't want AI to do everything | Opinion",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "I have news for Big Tech. We don't want AI to do everything | Opinion USA Today",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-10-04T18:59:35Z"
+    },
+    {
+      "id": "fd6514603f9ad9d6",
+      "title": "New technology advances understanding of eye pressure and glaucoma",
+      "header": "medicalxpress.com",
+      "published_at": "2026-10-04T15:40:01Z",
+      "published_raw": "Sun, 04 Oct 2026 15:40:01 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVo3aHFaWUhKb3JkczNNbFY0UGhfdUJreWpMSjIxekdNZkJjZW1GOEduXzZNaTlqYjQyWkpuSDZGZVVOVHVxRzlGMUNlOXlTc2wwRjJ4el9qc1B5Z0lLZm9QWkg2QVMwSzVFNXd1Nm9tS3J6NXZxel91Q29zZ3M1bHozVGJOY0xkRjdSU2tn?oc=5",
+      "description": "New technology advances understanding of eye pressure and glaucoma medicalxpress.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVo3aHFaWUhKb3JkczNNbFY0UGhfdUJreWpMSjIxekdNZkJjZW1GOEduXzZNaTlqYjQyWkpuSDZGZVVOVHVxRzlGMUNlOXlTc2wwRjJ4el9qc1B5Z0lLZm9QWkg2QVMwSzVFNXd1Nm9tS3J6NXZxel91Q29zZ3M1bHozVGJOY0xkRjdSU2tn?oc=5\" target=\"_blank\">New technology advances understanding of eye pressure and glaucoma</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">medicalxpress.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVo3aHFaWUhKb3JkczNNbFY0UGhfdUJreWpMSjIxekdNZkJjZW1GOEduXzZNaTlqYjQyWkpuSDZGZVVOVHVxRzlGMUNlOXlTc2wwRjJ4el9qc1B5Z0lLZm9QWkg2QVMwSzVFNXd1Nm9tS3J6NXZxel91Q29zZ3M1bHozVGJOY0xkRjdSU2tn?oc=5"
+      ],
+      "scraped_at": "2026-10-04T18:59:36Z",
+      "url": "https://medicalxpress.com/news/2026-09-technology-advances-eye-pressure-glaucoma.html",
+      "final_url": "https://medicalxpress.com/news/2026-09-technology-advances-eye-pressure-glaucoma.html",
+      "source": "medicalxpress.com",
+      "article_title": "",
+      "heading": "New technology advances understanding of eye pressure and glaucoma",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "New technology advances understanding of eye pressure and glaucoma medicalxpress.com",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-10-04T18:59:36Z"
+    },
+    {
+      "id": "56ee9c05e3df0d40",
+      "title": "Reclaiming workers’ ownership over artificial intelligence and technologies",
+      "header": "mronline.org",
+      "published_at": "2026-10-04T15:21:37Z",
+      "published_raw": "Sun, 04 Oct 2026 15:21:37 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzlpY0JyYWRtMU5zLVhqa2ItaWZMV0ZMLW1QUmxxVmd1RVdQWVlJX2NSOEhlWW5zV2tha1dMSFoyUThyWFZhYjZRVEF0d0o5cDZxVnRIZkNRVlZtcTI4WERvMTBucl9ORUgtWmVVYmMtdm1pZmtHbnBvZHpSMHJQZk5sbkJCQTBITS1Xd2dIbjhzYXhPYVJVUndZUklIakJiUEpIUnJ1N3JXeXc?oc=5",
+      "description": "Reclaiming workers’ ownership over artificial intelligence and technologies mronline.org",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzlpY0JyYWRtMU5zLVhqa2ItaWZMV0ZMLW1QUmxxVmd1RVdQWVlJX2NSOEhlWW5zV2tha1dMSFoyUThyWFZhYjZRVEF0d0o5cDZxVnRIZkNRVlZtcTI4WERvMTBucl9ORUgtWmVVYmMtdm1pZmtHbnBvZHpSMHJQZk5sbkJCQTBITS1Xd2dIbjhzYXhPYVJVUndZUklIakJiUEpIUnJ1N3JXeXc?oc=5\" target=\"_blank\">Reclaiming workers’ ownership over artificial intelligence and technologies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mronline.org</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzlpY0JyYWRtMU5zLVhqa2ItaWZMV0ZMLW1QUmxxVmd1RVdQWVlJX2NSOEhlWW5zV2tha1dMSFoyUThyWFZhYjZRVEF0d0o5cDZxVnRIZkNRVlZtcTI4WERvMTBucl9ORUgtWmVVYmMtdm1pZmtHbnBvZHpSMHJQZk5sbkJCQTBITS1Xd2dIbjhzYXhPYVJVUndZUklIakJiUEpIUnJ1N3JXeXc?oc=5"
+      ],
+      "scraped_at": "2026-10-04T18:59:36Z",
+      "url": "https://mronline.org/2026/10/04/reclaiming-workers-ownership-over-artificial-intelligence-and-technologies/",
+      "final_url": "https://mronline.org/2026/10/04/reclaiming-workers-ownership-over-artificial-intelligence-and-technologies/",
+      "source": "mronline.org",
+      "article_title": "Making sure you're not a bot!",
+      "heading": "Making sure you're not a bot!",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Reclaiming workers’ ownership over artificial intelligence and technologies mronline.org",
+      "content": "Making sure you're not a bot!\nLoading...\nYou are seeing this because the administrator of this website has set up Anubis to protect the server against the scourge of AI companies aggressively scraping websites. This can and does cause downtime for the websites, which makes their resources inaccessible for everyone.\nAnubis is a compromise. Anubis uses a Proof-of-Work scheme in the vein of Hashcash, a proposed proof-of-work scheme for reducing email spam. The idea is that at individual scales the additional load is ignorable, but at mass scraper levels it adds up and makes scraping much more expensive.\nUltimately, this is a placeholder solution so that more time can be spent on fingerprinting and identifying headless browsers (EG: via how they do font rendering) so that the challenge proof of work page doesn't need to be presented to users that are much more likely to be legitimate.\nPlease note that Anubis requires the use of modern JavaScript features that plugins like JShelter will disable. Please disable JShelter or other such plugins for this domain.",
+      "content_html": "<html>\n  <body><h1>Making sure you're not a bot!</h1><img src=\"https://mronline.org/.within.website/x/cmd/anubis/static/img/pensive.webp?cacheBuster=1.25.0\"/> <p id=\"status\">Loading...</p><p>You are seeing this because the administrator of this website has set up Anubis to protect the server against the scourge of AI companies aggressively scraping websites. This can and does cause downtime for the websites, which makes their resources inaccessible for everyone.</p><p>Anubis is a compromise. Anubis uses a Proof-of-Work scheme in the vein of Hashcash, a proposed proof-of-work scheme for reducing email spam. The idea is that at individual scales the additional load is ignorable, but at mass scraper levels it adds up and makes scraping much more expensive.</p><p>Ultimately, this is a placeholder solution so that more time can be spent on fingerprinting and identifying headless browsers (EG: via how they do font rendering) so that the challenge proof of work page doesn't need to be presented to users that are much more likely to be legitimate.</p><p>Please note that Anubis requires the use of modern JavaScript features that plugins like JShelter will disable. Please disable JShelter or other such plugins for this domain.</p></body>\n</html>",
+      "word_count": 174,
+      "char_count": 1068,
+      "lead_image": "https://mronline.org/.within.website/x/cmd/anubis/static/img/pensive.webp?cacheBuster=1.25.0",
+      "images": [
+        {
+          "url": "https://mronline.org/.within.website/x/cmd/anubis/static/img/pensive.webp?cacheBuster=1.25.0",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        },
+        {
+          "url": "https://mronline.org/.within.website/x/cmd/anubis/static/img/happy.webp?cacheBuster=1.25.0",
+          "alt": "",
+          "caption": "",
+          "role": "body"
+        }
+      ],
+      "image_count": 2,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-10-04T18:59:36Z"
+    },
     {
       "id": "841686a9a0c6d25f",
       "title": "Is It Too Late to Buy Micron Technology Stock After Its 12-Month Gain of 500%?",
@@ -65,6 +323,72 @@
       "extractor": "bs4",
       "status": "ok",
       "first_seen_at": "2026-10-04T15:06:25Z"
+    },
+    {
+      "id": "3a6f4bef8b6bc77b",
+      "title": "Trump taps Jay Clayton as AI czar for new task force",
+      "header": "dw.com",
+      "published_at": "2026-10-04T14:44:31Z",
+      "published_raw": "Sun, 04 Oct 2026 14:44:31 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByN09MRUNYZU03VHRSaWlHNzVGb05ETkppNGdXaXd1bmpIczBjaXNxemh0WnlzbEZ3ZWJaMm5NRFpCRm9TUjlXTkk2R3ZBZVh2WjBlY2VmWW5Xb1NYdUt1ZVZoMEkzc21RZFZGXzFXOWc5QlXSAXNBVV95cUxOclBQcW1sU0xMNGJ0RkpPYWQ2QXFtLWx6bFhDQnVQZFFhUURfeTV3MGVRU0NFdHlkaWNoM2liT1lzODY5TXN6Z1FfRjZwbUxRMUlYaHBlN3VORTBvSGFKd2tPZmZOZExHOFRMWGFYVm5ZZkxR?oc=5",
+      "description": "Trump taps Jay Clayton as AI czar for new task force dw.com",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFByN09MRUNYZU03VHRSaWlHNzVGb05ETkppNGdXaXd1bmpIczBjaXNxemh0WnlzbEZ3ZWJaMm5NRFpCRm9TUjlXTkk2R3ZBZVh2WjBlY2VmWW5Xb1NYdUt1ZVZoMEkzc21RZFZGXzFXOWc5QlXSAXNBVV95cUxOclBQcW1sU0xMNGJ0RkpPYWQ2QXFtLWx6bFhDQnVQZFFhUURfeTV3MGVRU0NFdHlkaWNoM2liT1lzODY5TXN6Z1FfRjZwbUxRMUlYaHBlN3VORTBvSGFKd2tPZmZOZExHOFRMWGFYVm5ZZkxR?oc=5\" target=\"_blank\">Trump taps Jay Clayton as AI czar for new task force</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dw.com</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTFByN09MRUNYZU03VHRSaWlHNzVGb05ETkppNGdXaXd1bmpIczBjaXNxemh0WnlzbEZ3ZWJaMm5NRFpCRm9TUjlXTkk2R3ZBZVh2WjBlY2VmWW5Xb1NYdUt1ZVZoMEkzc21RZFZGXzFXOWc5QlXSAXNBVV95cUxOclBQcW1sU0xMNGJ0RkpPYWQ2QXFtLWx6bFhDQnVQZFFhUURfeTV3MGVRU0NFdHlkaWNoM2liT1lzODY5TXN6Z1FfRjZwbUxRMUlYaHBlN3VORTBvSGFKd2tPZmZOZExHOFRMWGFYVm5ZZkxR?oc=5"
+      ],
+      "scraped_at": "2026-10-04T18:59:34Z",
+      "url": "https://www.dw.com/en/trump-ai-czar-clayton-task-force/a-79537966",
+      "final_url": "https://www.dw.com/en/trump-ai-czar-clayton-task-force/a-79537966",
+      "source": "dw.com",
+      "article_title": "Trump taps Jay Clayton as AI czar for new task force",
+      "heading": "Trump names AI czar to head White House task force",
+      "authors": [
+        "Roshni Majumdar"
+      ],
+      "article_published_at": "2026-10-04T13:34:02.022Z",
+      "article_modified_at": "2026-10-04T14:53:14.707Z",
+      "summary": "US President Donald Trump has chosen members to lead a new AI task force to coordinate the administration's response to the rapidly evolving technology.",
+      "content": "Trump names AI czar to head White House task force\nOctober 4, 2026\nUS President Donald Trump has chosen members to lead a new AI task force to coordinate the administration's response to the rapidly evolving technology.\nUS President Donald Trump on Sunday announced a White House task force to coordinate the administration's response to artificial intelligence (AI).\nThe group will be led by director of national intelligence Jay Clayton, chairman of the Federal Trade Commission Andrew Ferguson, Pentagon chief technology officer Emil Michael and director of the Office of Personnel Management Scott Kupor.\nThe task force, named the \"Super Intelligence Force\" or SI, in accordance with the term that the president prefers over AI.\n\"The Super Intelligence Force will coordinate the federal government’s engagement with consumers, public interest groups, religious organizations, critical infrastructure providers, and super intelligence companies,\" Trump said in Truth Social post on Sunday.\nTrump under pressure to regulate AI\nTrump in September said he would create a new AI force to oversee the development of the fast-moving technology, but has so far opposed any strict regulation that codifies pillars of AI safety into law.\n\"We will not in any way hinder or stifle the growth of this incredible industry. Rather, we will cherish it, help it, and watch over it, as it grows!\" Trump said in the September post where he announced he was going to choose an AI czar.\nLeading up to the midterm elections in November, Trump has been under pressure to address concerns about AI risks. AI researchers and tech CEOs have sounded the alarm about the existential threat that the technology can pose.\nAnthropic's chief executive Dario Amodei, for example, published an essay last month in which he called for a global slowdown in the race to develop AI. His call was met with agreement from OpenAI CEO Sam Altman and SpaceX CEO Elon Musk.\nTrump, AI CEOs sign safety pact\nThe US president hosted a White House lunch for nearly 20 tech titans at the end of September, where he said there was an agreement in the room that there should be \"tremendous self-regulation\" by tech companies.\nThe tech leaders signed onto a one-page document that relies on companies to voluntarily follow through on their safety commitments. But the accord is largely symbolic since it is not an official order.\nEdited by: Zac Crellin",
+      "content_html": "<html>\n  <body><h1>Trump names AI czar to head White House task force</h1>October 4, 2026<p>US President Donald Trump on Sunday announced a White House task force to coordinate the administration's response to artificial intelligence (AI).</p><p>The group will be led by director of national intelligence Jay Clayton, chairman of the Federal Trade Commission Andrew Ferguson, Pentagon chief technology officer Emil Michael and director of the Office of Personnel Management Scott Kupor.</p><p>The task force, named the \"Super Intelligence Force\" or SI, in accordance with the term that the president prefers over AI.</p><p>\"The Super Intelligence Force will coordinate the federal government’s engagement with consumers, public interest groups, religious organizations, critical infrastructure providers, and super intelligence companies,\" Trump said in Truth Social post on Sunday.</p><h2>Trump under pressure to regulate AI</h2><p>Trump in September said he would create a new AI force to oversee the development of the fast-moving technology, but has so far opposed any strict regulation that codifies pillars of AI safety into law.</p><p>\"We will not in any way hinder or stifle the growth of this incredible industry. Rather, we will cherish it, help it, and watch over it, as it grows!\" Trump said in the September post where he announced he was going to choose an AI czar.</p><p>Leading up to the midterm elections in November, Trump has been under pressure to address concerns about AI risks. AI researchers and tech CEOs have sounded the alarm about the existential threat that the technology can pose.</p><p>Anthropic's chief executive Dario Amodei, for example, published an essay last month in which he called for a global slowdown in the race to develop AI. His call was met with agreement from OpenAI CEO Sam Altman and SpaceX CEO Elon Musk.</p><h2>Trump, AI CEOs sign safety pact</h2><p>The US president hosted a White House lunch for nearly 20 tech titans at the end of September, where he said there was an agreement in the room that there should be \"tremendous self-regulation\" by tech companies.</p><p>The tech leaders signed onto a one-page document that relies on companies to voluntarily follow through on their safety commitments. But the accord is largely symbolic since it is not an official order.</p><p>Edited by: Zac Crellin</p></body>\n</html>",
+      "word_count": 393,
+      "char_count": 2404,
+      "lead_image": "https://static.dw.com/image/78152358_6.jpg",
+      "images": [
+        {
+          "url": "https://static.dw.com/image/78152358_6.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://static.dw.com/image/78152358_804.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://static.dw.com/image/78152358_604.jpg",
+          "alt": "",
+          "caption": "",
+          "role": "lead"
+        },
+        {
+          "url": "https://static.dw.com/image/78152358_803.webp",
+          "alt": "Jay Clayton has been tapped to lead the new task force",
+          "caption": "Jay Clayton has been tapped to lead the new task force Image: Nathan Posner/Anadolu/picture alliance",
+          "role": "body"
+        },
+        {
+          "url": "https://static.dw.com/image/78152358_605.jpg",
+          "alt": "Jay Clayton has been tapped to lead the new task force",
+          "caption": "Jay Clayton has been tapped to lead the new task force Image: Nathan Posner/Anadolu/picture alliance",
+          "role": "body"
+        }
+      ],
+      "image_count": 5,
+      "extractor": "trafilatura",
+      "status": "ok",
+      "first_seen_at": "2026-10-04T18:59:34Z"
     },
     {
       "id": "ad9b4ae46968e9ce",
@@ -446,7 +770,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTkZCeTRBVk9GRTc1MDJDbkdJVTljUmxscm0zaW1iWE5xVE9PX2NRNVUyeGROREZLQ194NWQ5Mk9WNnpLSlFtUlR4NjFiRjd5OVJnRHltX3FrdmFiS0tRNE00c1dleXA3N2x0cVMxMXJ0QURDdk1xWTZyQXNDS0hNZzZ3?oc=5"
       ],
-      "scraped_at": "2026-10-04T15:06:24Z",
+      "scraped_at": "2026-10-04T18:59:36Z",
       "url": "https://avi-loeb.medium.com/alien-technology-deserves-an-xprize-78473efb24b4",
       "final_url": "https://avi-loeb.medium.com/alien-technology-deserves-an-xprize-78473efb24b4",
       "source": "Medium",
@@ -523,40 +847,6 @@
       "first_seen_at": "2026-10-04T09:16:49Z"
     },
     {
-      "id": "3b2342699293a5c6",
-      "title": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force",
-      "header": "WSJ",
-      "published_at": "2026-10-04T02:14:00Z",
-      "published_raw": "Sun, 04 Oct 2026 02:14:00 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5",
-      "description": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force WSJ",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5\" target=\"_blank\">Exclusive | New AI Czar Unveils Goals, Members of White House Task Force</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5"
-      ],
-      "scraped_at": "2026-10-04T15:06:23Z",
-      "url": "https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef",
-      "final_url": "https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef",
-      "source": "WSJ",
-      "article_title": "",
-      "heading": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force WSJ",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-10-04T02:20:41Z"
-    },
-    {
       "id": "c737aeaf4cf445ae",
       "title": "US AI Task Force to Report on Technology’s Risks, WSJ Says",
       "header": "bloomberg.com",
@@ -589,6 +879,40 @@
       "status": "partial",
       "error": "download_failed",
       "first_seen_at": "2026-10-04T02:20:39Z"
+    },
+    {
+      "id": "05ab30438930021d",
+      "title": "Weekend profile: Eliezer Yudkowsky, the pioneer of AI safety who inadvertently advanced the technology",
+      "header": "The Economist",
+      "published_at": "2026-10-04T00:00:00Z",
+      "published_raw": "Sun, 04 Oct 2026 00:00:00 GMT",
+      "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHNld0RrRnliM2l5NVVPVkpwSXZzSUVOT2gzT28tWUtJaEROUHd4VDVWVTd4UkxHNjFvLW9PMlZjbkhfVkRYeHp1VUgyNUZvMkZNb1pMQ2M5QkdqOVZWbUItTGQtRXhpT2tpVV9SczNnUzhkSjc2NnJ3bnc2Snp6SkdVRTltbzZDRS1nLWZ5bW54dkNuMFFz?oc=5",
+      "description": "Weekend profile: Eliezer Yudkowsky, the pioneer of AI safety who inadvertently advanced the technology The Economist",
+      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHNld0RrRnliM2l5NVVPVkpwSXZzSUVOT2gzT28tWUtJaEROUHd4VDVWVTd4UkxHNjFvLW9PMlZjbkhfVkRYeHp1VUgyNUZvMkZNb1pMQ2M5QkdqOVZWbUItTGQtRXhpT2tpVV9SczNnUzhkSjc2NnJ3bnc2Snp6SkdVRTltbzZDRS1nLWZ5bW54dkNuMFFz?oc=5\" target=\"_blank\">Weekend profile: Eliezer Yudkowsky, the pioneer of AI safety who inadvertently advanced the technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+      "description_links": [
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHNld0RrRnliM2l5NVVPVkpwSXZzSUVOT2gzT28tWUtJaEROUHd4VDVWVTd4UkxHNjFvLW9PMlZjbkhfVkRYeHp1VUgyNUZvMkZNb1pMQ2M5QkdqOVZWbUItTGQtRXhpT2tpVV9SczNnUzhkSjc2NnJ3bnc2Snp6SkdVRTltbzZDRS1nLWZ5bW54dkNuMFFz?oc=5"
+      ],
+      "scraped_at": "2026-10-04T18:59:35Z",
+      "url": "https://www.economist.com/the-world-in-brief/2026/10/04/0f5c7f66-2aba-4552-9203-b67f12b91d8e",
+      "final_url": "https://www.economist.com/the-world-in-brief/2026/10/04/0f5c7f66-2aba-4552-9203-b67f12b91d8e",
+      "source": "The Economist",
+      "article_title": "",
+      "heading": "Weekend profile: Eliezer Yudkowsky, the pioneer of AI safety who inadvertently advanced the technology",
+      "authors": [],
+      "article_published_at": null,
+      "article_modified_at": null,
+      "summary": "Weekend profile: Eliezer Yudkowsky, the pioneer of AI safety who inadvertently advanced the technology The Economist",
+      "content": "",
+      "content_html": "",
+      "word_count": 0,
+      "char_count": 0,
+      "lead_image": null,
+      "images": [],
+      "image_count": 0,
+      "extractor": "",
+      "status": "partial",
+      "error": "download_failed",
+      "first_seen_at": "2026-10-04T18:59:35Z"
     },
     {
       "id": "f92275e285661868",
@@ -938,7 +1262,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc3p1VGhjX1pJckNGUUdBLXl2bktCSllpNnZBOHVHY2M0MWVmV3JOVE5ocENWcUVzSFBIZ3ZKQmJERkNyZVhrbDh3dk04c1RQck9wN01UN05CWFhJNGI0TFdLWVFraWN1UkN2OUtRM201MmYtSHhuWEhpeWx0SzVRYU1KVXZHOW9xT1pIc2dR?oc=5"
       ],
-      "scraped_at": "2026-10-04T15:06:23Z",
+      "scraped_at": "2026-10-04T18:59:34Z",
       "url": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
       "final_url": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
       "source": "The Atlantic",
@@ -1695,7 +2019,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGtDdElKMTNManlqYTcwckk0SklzX1BIWHJMQWNqZHlnTW5Cd09NVkc1eGFYd1U3NXVtNWxhaWhpMjBKUDRVcFVwb2lzdlpaWDNSb3hSLVJrd0RXcVBaSDZiakxSckFPX0JrU0V6TXNPVUZHcnFLNDFwNmFLNkNXNVkzUTdtUkFsMnJhUUp4NDMzMktrZUhUMTBobm0xb3kwcFFHb0t4dF9VREpOX2tqX29rQ0x3cWlHVkgwdmFEcGE3WnpjY21aUmhYZTA5NUswY0RNQnZCMHNaMTdUdmJLZFl4Nkgzdw?oc=5"
       ],
-      "scraped_at": "2026-10-04T15:06:23Z",
+      "scraped_at": "2026-10-04T18:59:36Z",
       "url": "https://www.5newsonline.com/article/news/education/bentonville-institute-of-technology-breaks-ground-on-campus/527-6d7f5799-c0f6-4649-900c-451093a7bd2c",
       "final_url": "https://www.5newsonline.com/article/news/education/bentonville-institute-of-technology-breaks-ground-on-campus/527-6d7f5799-c0f6-4649-900c-451093a7bd2c",
       "source": "5newsonline.com",
@@ -3816,7 +4140,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSG4xaVdoMWZhcERVRG9KVFRLMjhxSHdIZFgzbEJBUEFPZTZTOUJaYWZLS3ExUVFzQVozbEtWS3YwUklPb0JZM2lHYjFySmdZVm5GMWFnckdiZnFRMjdTU3VqX2QxSHM4bnBTRkloTFNnQUFFbW9RNlhNX3puWUttTmZLUWp0cXNhRTBzQUdBbzk3X1Z0clNJLXVxaElaWWZWQzU0bFhZTXZSTmY2RF9NRnlNbjRsVjlmVkJnUHV0XzFpb0ZPUzlMVVF0eE5JMmRNN0lrbw?oc=5"
       ],
-      "scraped_at": "2026-10-04T15:06:25Z",
+      "scraped_at": "2026-10-04T18:59:36Z",
       "url": "https://www.war.gov/News/Releases/Release/Article/4617047/department-of-wars-critical-technologies-office-partners-with-in-q-tel-to-accel/",
       "final_url": "https://www.war.gov/News/Releases/Release/Article/4617047/department-of-wars-critical-technologies-office-partners-with-in-q-tel-to-accel/",
       "source": "U.S. Department of War (.gov)",
@@ -3850,7 +4174,7 @@
       "description_links": [
         "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNHE0QkZuU3JjMlFoWktENldjaWlkTWpfdVZSWkJyeDRESzBFZWdaQUdBSE1KWmMzUkhhUWQwLWFfcy1wUkFLVnZ2TEdyRHI3c0FCaGNGRllaTVFIWHUyZmNIVnBuQmlKMDAweXZiRHo3T255WTBLcHFORXZuR25XSDA5Y1g?oc=5"
       ],
-      "scraped_at": "2026-10-04T15:06:23Z",
+      "scraped_at": "2026-10-04T18:59:34Z",
       "url": "https://spacenews.com/space-exploration-should-learn-from-deep-sea-technology/",
       "final_url": "https://spacenews.com/space-exploration-should-learn-from-deep-sea-technology/",
       "source": "SpaceNews",
@@ -24815,397 +25139,6 @@
       "extractor": "trafilatura",
       "status": "ok",
       "first_seen_at": "2026-09-27T00:10:12Z"
-    },
-    {
-      "id": "7032097bace66fa2",
-      "title": "YMTC wins first round in Micron case over NAND technology",
-      "header": "JUVE Patent",
-      "published_at": "2026-09-24T13:40:36Z",
-      "published_raw": "Thu, 24 Sep 2026 13:40:36 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWJ0NGVCdWl3bmloeXVzTnhFRGFUeVMzaEZRZmN4UF9MNVE1TmZkVUVVOWJZbkUxcGZCa2VHVldOSVhXMzA3RDFuRGJ0MEViaUpFRHV5Zl9OV0FBcV93Q0w5MGFKM25NV2dJQU1iTm5qb01SQWhzV1I1ajgyN056cG9tRV85Snc1MmNKUzE2VEZ6RTA2cGxJ?oc=5",
-      "description": "YMTC wins first round in Micron case over NAND technology JUVE Patent",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWJ0NGVCdWl3bmloeXVzTnhFRGFUeVMzaEZRZmN4UF9MNVE1TmZkVUVVOWJZbkUxcGZCa2VHVldOSVhXMzA3RDFuRGJ0MEViaUpFRHV5Zl9OV0FBcV93Q0w5MGFKM25NV2dJQU1iTm5qb01SQWhzV1I1ajgyN056cG9tRV85Snc1MmNKUzE2VEZ6RTA2cGxJ?oc=5\" target=\"_blank\">YMTC wins first round in Micron case over NAND technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JUVE Patent</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWJ0NGVCdWl3bmloeXVzTnhFRGFUeVMzaEZRZmN4UF9MNVE1TmZkVUVVOWJZbkUxcGZCa2VHVldOSVhXMzA3RDFuRGJ0MEViaUpFRHV5Zl9OV0FBcV93Q0w5MGFKM25NV2dJQU1iTm5qb01SQWhzV1I1ajgyN056cG9tRV85Snc1MmNKUzE2VEZ6RTA2cGxJ?oc=5"
-      ],
-      "scraped_at": "2026-09-24T16:24:50Z",
-      "url": "https://www.juve-patent.com/cases/ymtc-wins-first-round-in-micron-case-over-nand-technology/",
-      "final_url": "https://www.juve-patent.com/cases/ymtc-wins-first-round-in-micron-case-over-nand-technology/",
-      "source": "JUVE Patent",
-      "article_title": "YMTC wins first round in Micron case over NAND technology",
-      "heading": "YMTC wins first round in Micron case over NAND technology",
-      "authors": [
-        "Konstanze Richter"
-      ],
-      "article_published_at": "2026-09-24T13:38:54+00:00",
-      "article_modified_at": "2026-09-24T14:22:03+00:00",
-      "summary": "Regional Court Munich grants injunctions against Micron in dispute with Yangtze Memory Technologies over NAND flash memory technology.",
-      "content": "In the global battle over 3D NAND flash memory technology, Yangtze Memory Technologies has scored a win in Germany. The Regional Court Munich ordered two injunctions against US chip manufacturer Micron. Other proceedings at the same court and the UPC are still pending, with Micron now launching its own actions.\n24 September 2026 by Konstanze Richter\nThe claims form part of a multi-jurisdictional dispute between the parties, which involves proceedings in the US, the UK and China in addition to Germany and the UPC. They all relate to 3D NAND flash memory for flash memory devices, which are used worldwide in hard drives and other storage media, including those for PCs.\nYangtze Memory Technologies (YMTC) accuses Micron of infringing a number of technical protection rights with their products. Following litigation in the US, the Chinese company filed actions against the US competitor at the Regional Court Munich in October last year. The actions concern EP 3 931 868 and the four utility models DE 20 2020 006 166.2, DE 20 2021 004 551, DE 20 2018 007 011 and DE 20 2022 003 278.\nAfter nearly two full days of oral hearings, the 7th Civil Chamber under presiding judge Oliver Schön found two of the utility models, DE551 and DE166, valid and infringed and granted YMTC injunctions (case IDs: 7 O 12614/25 and 7 O 12615/25). Micron appealed the decisions. During the hearing the judges took a deep dive into the validity of the utility models, which, unlike patents, are only valid for a maximum of 10 years and do not require an examination at application.\nIn the case of the other two utility models, DE 011 and DE 278, the judges adjurned the proceedings. The court has scheduled further hearings for June and September of next year (case IDs: 7 O 12609/25 and 7 O 12616/25). Regarding EP 868, the EPO had handed down a preliminary opinion in parallel opposition proceedings on 8 September. However, the 7th Civil Chamber also adjourned this case to a later oral hearing in September 2027 (case ID: 7 O 12593/25).\nYMTC also filed parallel infringement claims at the UPC’s local division Düsseldorf over EP 3 909 047, EP 3 850 660 and EP 4 236 650 (case IDs: UPC-CFI-0001034/2025, UPC-CFI-0001041/2025 and UPC-CFI-0001042/2025). The court has scheduled oral hearings in these cases for February next year. Actions over the same patents are also pending at the UK High Court, where a case management conference takes place today (case ID: HP-2025-000048).\nMicron has now retaliated against YMTC with an action concerning its own patent. In mid-July the US company filed an infringement claim against the Chinese competitor at the Regional Court Munich over EP 3 706 127. The oral hearing will take place in June 2027.\nMicron has also launched parallel proceedings at the UPC over EP 3 574 526 in Düsseldorf and EP 2 745 295 in Mannheim (case IDs: UPC-CFI-0002660/2026 and UPC-CFI-0002556/2026). The defendants are the computer hardware manufacturer Ultron and the two providers of digital storage solutions Lexar and Apacer Technology. The latter two as well as Team Group are also defendants alongside YMTC in an action Micron has recently launched at the UK High Court (case ID: HP-2026-000027).\nIn the dispute over the utility models, Yangtze Memory Technologies retained an international team from mixed IP boutique Hoyng ROKH Monegier. Klaus Haft led the case at the Regional Court Munich, working with Amsterdam-based partners and patent attorneys Andrew Lin and Christopher Pierce.\nThe team comprised Sven Krause, Elisa In den Birken and Alexander Bothe. The validity aspect was argued by patent attorneys Wolfgang Lippich, Georg Jacoby, Cletus von Pichler of Munich firm Samson & Partner. The patent attorney team also included Stefan König, Matthias Göpfert and Alexander Ruschke.\nA team from Bird & Bird represented the Chinese company in the Munich proceedings regarding the EP 868, as well as in all the UPC actions regarding the assertion of YMTC’s patents. The initial contact came through Bird & Bird partner Christina Yiu from the Shanghai office. Düsseldorf-based partner Oliver Jüngst is in the lead, working with patent attorney and partner Felix Landry. The team includes lawyer Lucas Brons and patent attorney Leonard Lotz as counsel and associate Niklas Kabel. Bird & Bird is also acting for the client in the parallel UK proceedings.\nAccording to the UPC register, the three defendants in the active UPC actions filed by Micron have retained lawyers from Vossius & Partner and Stein & Partner.\nIn all proceedings at the Regional Court Munich and the UPC, Micron has instructed Bardehle Pagenberg with lead partner Tilman Müller-Stoy alongside partners and litigators Tobias Wuttke, Jan Bösing and Stefan Lieck. Patent attorneys and partners Christof Karl, Tobias Kaufmann, Niels Malkomes, Patrick Daum, and Daniel Werner advised on the technical side of the case. The team also included patent attorneys Benedikt Dellen, Philipp Bovenkamp, Jakob Scheffel, Sabrina Hütt, Thomas Kotzott, and patent engineer Andreas Aigner, as well as associate Lisa Engelbert. In the dispute at the UK High Court, Jones Day is acting for the US company.d\nYou are currently viewing a placeholder content from Facebook. To access the actual content, click the button below. Please note that doing so will share data with third-party providers.\nMore Information\nYou are currently viewing a placeholder content from Instagram. To access the actual content, click the button below. Please note that doing so will share data with third-party providers.\nMore Information\nYou are currently viewing a placeholder content from X. To access the actual content, click the button below. Please note that doing so will share data with third-party providers.\nMore Information",
-      "content_html": "<html>\n  <body><p>In the global battle over 3D NAND flash memory technology, Yangtze Memory Technologies has scored a win in Germany. The Regional Court Munich ordered two injunctions against US chip manufacturer Micron. Other proceedings at the same court and the UPC are still pending, with Micron now launching its own actions.</p><p>24 September 2026 by Konstanze Richter</p><p>The claims form part of a multi-jurisdictional dispute between the parties, which involves proceedings in the US, the UK and China in addition to Germany and the UPC. They all relate to 3D NAND flash memory for flash memory devices, which are used worldwide in hard drives and other storage media, including those for PCs.</p><p>Yangtze Memory Technologies (YMTC) accuses Micron of infringing a number of technical protection rights with their products. Following litigation in the US, the Chinese company filed actions against the US competitor at the Regional Court Munich in October last year. The actions concern EP 3 931 868 and the four utility models DE 20 2020 006 166.2, DE 20 2021 004 551, DE 20 2018 007 011 and DE 20 2022 003 278.</p><p>After nearly two full days of oral hearings, the 7th Civil Chamber under presiding judge Oliver Schön found two of the utility models, DE551 and DE166, valid and infringed and granted YMTC injunctions (case IDs: 7 O 12614/25 and 7 O 12615/25). Micron appealed the decisions. During the hearing the judges took a deep dive into the validity of the utility models, which, unlike patents, are only valid for a maximum of 10 years and do not require an examination at application.</p><p>In the case of the other two utility models, DE 011 and DE 278, the judges adjurned the proceedings. The court has scheduled further hearings for June and September of next year (case IDs: 7 O 12609/25 and 7 O 12616/25). Regarding EP 868, the EPO had handed down a preliminary opinion in parallel opposition proceedings on 8 September. However, the 7th Civil Chamber also adjourned this case to a later oral hearing in September 2027 (case ID: 7 O 12593/25).</p><p>YMTC also filed parallel infringement claims at the UPC’s local division Düsseldorf over EP 3 909 047, EP 3 850 660 and EP 4 236 650 (case IDs: UPC-CFI-0001034/2025, UPC-CFI-0001041/2025 and UPC-CFI-0001042/2025). The court has scheduled oral hearings in these cases for February next year. Actions over the same patents are also pending at the UK High Court, where a case management conference takes place today (case ID: HP-2025-000048).</p><p>Micron has now retaliated against YMTC with an action concerning its own patent. In mid-July the US company filed an infringement claim against the Chinese competitor at the Regional Court Munich over EP 3 706 127. The oral hearing will take place in June 2027.</p><p>Micron has also launched parallel proceedings at the UPC over EP 3 574 526 in Düsseldorf and EP 2 745 295 in Mannheim (case IDs: UPC-CFI-0002660/2026 and UPC-CFI-0002556/2026). The defendants are the computer hardware manufacturer Ultron and the two providers of digital storage solutions Lexar and Apacer Technology. The latter two as well as Team Group are also defendants alongside YMTC in an action Micron has recently launched at the UK High Court (case ID: HP-2026-000027).</p><p>In the dispute over the utility models, Yangtze Memory Technologies retained an international team from mixed IP boutique Hoyng ROKH Monegier. Klaus Haft led the case at the Regional Court Munich, working with Amsterdam-based partners and patent attorneys Andrew Lin and Christopher Pierce.</p><p>The team comprised Sven Krause, Elisa In den Birken and Alexander Bothe. The validity aspect was argued by patent attorneys Wolfgang Lippich, Georg Jacoby, Cletus von Pichler of Munich firm Samson &amp; Partner. The patent attorney team also included Stefan König, Matthias Göpfert and Alexander Ruschke.</p><p>A team from Bird &amp; Bird represented the Chinese company in the Munich proceedings regarding the EP 868, as well as in all the UPC actions regarding the assertion of YMTC’s patents. The initial contact came through Bird &amp; Bird partner Christina Yiu from the Shanghai office. Düsseldorf-based partner Oliver Jüngst is in the lead, working with patent attorney and partner Felix Landry. The team includes lawyer Lucas Brons and patent attorney Leonard Lotz as counsel and associate Niklas Kabel. Bird &amp; Bird is also acting for the client in the parallel UK proceedings.</p><p>According to the UPC register, the three defendants in the active UPC actions filed by Micron have retained lawyers from Vossius &amp; Partner and Stein &amp; Partner.</p><p>In all proceedings at the Regional Court Munich and the UPC, Micron has instructed Bardehle Pagenberg with lead partner Tilman Müller-Stoy alongside partners and litigators Tobias Wuttke, Jan Bösing and Stefan Lieck. Patent attorneys and partners Christof Karl, Tobias Kaufmann, Niels Malkomes, Patrick Daum, and Daniel Werner advised on the technical side of the case. The team also included patent attorneys Benedikt Dellen, Philipp Bovenkamp, Jakob Scheffel, Sabrina Hütt, Thomas Kotzott, and patent engineer Andreas Aigner, as well as associate Lisa Engelbert. In the dispute at the UK High Court, Jones Day is acting for the US company.d</p><p>You are currently viewing a placeholder content from Facebook. To access the actual content, click the button below. Please note that doing so will share data with third-party providers.</p>More Information<p>You are currently viewing a placeholder content from Instagram. To access the actual content, click the button below. Please note that doing so will share data with third-party providers.</p>More Information<p>You are currently viewing a placeholder content from X. To access the actual content, click the button below. Please note that doing so will share data with third-party providers.</p>More Information</body>\n</html>",
-      "word_count": 938,
-      "char_count": 5774,
-      "lead_image": "https://www.juve-patent.com/wp-content/uploads/2025/03/Klaus-Haft-400x300-1.jpg",
-      "images": [
-        {
-          "url": "https://www.juve-patent.com/wp-content/uploads/2025/03/Klaus-Haft-400x300-1.jpg",
-          "alt": "Klaus Haft",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://www.juve-patent.com/wp-content/uploads/2024/06/Oliver_Juengst_Bird-Bird_400_300_neu.jpg",
-          "alt": "Oliver Jüngst",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://www.juve-patent.com/wp-content/uploads/2026/07/Tilman-Mueller-Stoy-400x300-1.jpg",
-          "alt": "Tilman Mueller-Stoy",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://www.juve-patent.com/wp-content/uploads/2023/02/Tobias_Wuttke_Bardehle_400x300.jpg",
-          "alt": "Tobias Wuttke",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://www.juve-patent.com/wp-content/uploads/2021/05/Tobias-Kaufmann_400x300-e1622111354648.jpg",
-          "alt": "Conversant, TomTom",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 5,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-24T16:24:50Z"
-    },
-    {
-      "id": "5cc0f08b3336ac26",
-      "title": "AI Readiness Is a Workforce Question, Not Just a Technology Question",
-      "header": "South Florida Hospital News",
-      "published_at": "2026-09-24T13:05:32Z",
-      "published_raw": "Thu, 24 Sep 2026 13:05:32 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS0JJTlZvOTBQWGxWekhucUpzd0ZrVUJPcE5aaXYwSDBNWlU4LVlmLTJRMDEwM3hSZzBidzVhdm5DZkJOQlE0RzlwT09yM25Scjkwc1JzUzFCcGJWXzJRcGI1MkV1QXVYUzBnMHlpMkhISDdzLWFpUllaX0VnbkVYUFBXRkpBZTlzVjNmb3REVVh4N2RCTkJGRWprXy1rbDZjMWtYR0Ric3AyNkVxY2xldGlSUU4tV00?oc=5",
-      "description": "AI Readiness Is a Workforce Question, Not Just a Technology Question South Florida Hospital News",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOS0JJTlZvOTBQWGxWekhucUpzd0ZrVUJPcE5aaXYwSDBNWlU4LVlmLTJRMDEwM3hSZzBidzVhdm5DZkJOQlE0RzlwT09yM25Scjkwc1JzUzFCcGJWXzJRcGI1MkV1QXVYUzBnMHlpMkhISDdzLWFpUllaX0VnbkVYUFBXRkpBZTlzVjNmb3REVVh4N2RCTkJGRWprXy1rbDZjMWtYR0Ric3AyNkVxY2xldGlSUU4tV00?oc=5\" target=\"_blank\">AI Readiness Is a Workforce Question, Not Just a Technology Question</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South Florida Hospital News</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS0JJTlZvOTBQWGxWekhucUpzd0ZrVUJPcE5aaXYwSDBNWlU4LVlmLTJRMDEwM3hSZzBidzVhdm5DZkJOQlE0RzlwT09yM25Scjkwc1JzUzFCcGJWXzJRcGI1MkV1QXVYUzBnMHlpMkhISDdzLWFpUllaX0VnbkVYUFBXRkpBZTlzVjNmb3REVVh4N2RCTkJGRWprXy1rbDZjMWtYR0Ric3AyNkVxY2xldGlSUU4tV00?oc=5"
-      ],
-      "scraped_at": "2026-09-24T16:24:49Z",
-      "url": "https://southfloridahospitalnews.com/2026/09/24/ai-readiness-is-a-workforce-question-not-just-a-technology-question/",
-      "final_url": "https://southfloridahospitalnews.com/2026/09/24/ai-readiness-is-a-workforce-question-not-just-a-technology-question/",
-      "source": "southfloridahospitalnews.com",
-      "article_title": "AI Readiness Is a Workforce Question, Not Just a Technology Question | Florida Hospital News and Healthcare Report",
-      "heading": "AI Readiness Is a Workforce Question, Not Just a Technology Question",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "AI Readiness Is a Workforce Question, Not Just a Technology Question South Florida Hospital News",
-      "content": "By Alon Weizer, MD\nA patient describes his symptoms, and for once I’m listening instead of typing, because an ambient AI tool is quietly drafting the note as we talk. When the visit ends I read it back, fix what it missed, and sign. The tool did the transcription; the judgment stayed mine. That small division of labor is the whole argument for how a health system should approach artificial intelligence, and most of the industry has it backward.\nEvery health system is being asked whether it’s ready for AI. The real question isn’t whether we’re ready. It’s whether our people are. A vendor will sell you a tool. Teaching an entire organization when to trust that tool, when to question it, and when to set it aside is the harder work, and it’s the work that determines whether AI improves care or just adds a system nobody uses correctly. Those skills aren’t for some future state. Our people need them now.\nWe state one principle deliberately, because it orders everything else: our work is primarily human-driven, with AI to augment and support it. The common phrase “human in the loop” suggests the system runs and a person checks it. In medicine, it runs the other way. The judgment that protects quality and prevents harm stays human. Technology enables that work. At the bedside, it does not replace it.\nThat principle shows up in how we deploy. Our implementation of Chart with Art, Epic’s ambient documentation tool, has cut physician charting time by nearly 30 percent per encounter. We extended it to inpatient nursing this year, among the first health systems in the country to do so, and built it to work in English and Spanish from the start, because a tool that only works in English doesn’t reflect the patients or the workforce it serves. Cosmos, Epic’s research network spanning 310 million longitudinal patient records across more than 350 health systems, lets a clinician facing a rare condition connect with doctors who have treated similar patients elsewhere, or see how comparable patients responded to a given treatment. But access isn’t automatic. Clinicians complete coursework first, and identifiable data requires added training and IRB oversight. The literacy requirement lives inside the tool, not bolted on after adoption.\nSo we build workforce readiness deliberately, through a tiered framework running from every employee up through executive leadership, calibrated to the risk each role carries. It starts with a floor most organizations skip, a shared vocabulary, because a workforce that can’t tell a large language model from an agentic one can’t adopt either safely.\nReadiness also means naming what we haven’t solved. Newer models have made real progress on hallucinations, the early fear that AI would invent information. Bias and model drift, where a tool quietly stops producing valid results, have not been solved, and they demand continuous audit rather than a one-time launch.\nThen there’s the problem few are naming. A decade ago, electronic health records consolidated dozens of disconnected systems into something coherent. AI is doing the opposite. Every function now arrives with its own tool, and the work re-fragments as fast as we automate it. Managing that sprawl, sometimes resisting it, is part of readiness too. So before we add the next tool, we ask what the return is. It doesn’t have to be financial. But it has to be articulated.\nNone of this slows us down, and none of it replaces clinical judgment. What readiness gives us is a workforce equipped to use powerful tools without losing sight of the person in front of them. It isn’t a rollout you finish. It’s a capability you build, one tier at a time, with the people doing the work.\nDr. Alon Weizer is Chief Medical Officer, Mount Sinai Medical Center.",
-      "content_html": "<html>\n  <body>\n    <p>By Alon Weizer, MD</p>\n    <p>A patient describes his symptoms, and for once I’m listening instead of typing, because an ambient AI tool is quietly drafting the note as we talk. When the visit ends I read it back, fix what it missed, and sign. The tool did the transcription; the judgment stayed mine. That small division of labor is the whole argument for how a health system should approach artificial intelligence, and most of the industry has it backward.</p>\n    <p>Every health system is being asked whether it’s ready for AI. The real question isn’t whether we’re ready. It’s whether our people are. A vendor will sell you a tool. Teaching an entire organization when to trust that tool, when to question it, and when to set it aside is the harder work, and it’s the work that determines whether AI improves care or just adds a system nobody uses correctly. Those skills aren’t for some future state. Our people need them now.</p>\n    <p>We state one principle deliberately, because it orders everything else: our work is primarily human-driven, with AI to augment and support it. The common phrase “human in the loop” suggests the system runs and a person checks it. In medicine, it runs the other way. The judgment that protects quality and prevents harm stays human. Technology enables that work. At the bedside, it does not replace it.</p>\n    <p>That principle shows up in how we deploy. Our implementation of Chart with Art, Epic’s ambient documentation tool, has cut physician charting time by nearly 30 percent per encounter. We extended it to inpatient nursing this year, among the first health systems in the country to do so, and built it to work in English and Spanish from the start, because a tool that only works in English doesn’t reflect the patients or the workforce it serves. Cosmos, Epic’s research network spanning 310 million longitudinal patient records across more than 350 health systems, lets a clinician facing a rare condition connect with doctors who have treated similar patients elsewhere, or see how comparable patients responded to a given treatment. But access isn’t automatic. Clinicians complete coursework first, and identifiable data requires added training and IRB oversight. The literacy requirement lives inside the tool, not bolted on after adoption.</p>\n    <p>So we build workforce readiness deliberately, through a tiered framework running from every employee up through executive leadership, calibrated to the risk each role carries. It starts with a floor most organizations skip, a shared vocabulary, because a workforce that can’t tell a large language model from an agentic one can’t adopt either safely.</p>\n    <p>Readiness also means naming what we haven’t solved. Newer models have made real progress on hallucinations, the early fear that AI would invent information. Bias and model drift, where a tool quietly stops producing valid results, have not been solved, and they demand continuous audit rather than a one-time launch.</p>\n    <p>Then there’s the problem few are naming. A decade ago, electronic health records consolidated dozens of disconnected systems into something coherent. AI is doing the opposite. Every function now arrives with its own tool, and the work re-fragments as fast as we automate it. Managing that sprawl, sometimes resisting it, is part of readiness too. So before we add the next tool, we ask what the return is. It doesn’t have to be financial. But it has to be articulated.</p>\n    <p>None of this slows us down, and none of it replaces clinical judgment. What readiness gives us is a workforce equipped to use powerful tools without losing sight of the person in front of them. It isn’t a rollout you finish. It’s a capability you build, one tier at a time, with the people doing the work.</p>\n    <p>Dr. Alon Weizer is Chief Medical Officer, Mount Sinai Medical Center.</p>\n  </body>\n</html>",
-      "word_count": 629,
-      "char_count": 3769,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-24T16:24:49Z"
-    },
-    {
-      "id": "73a053aa00dee98c",
-      "title": "Cleveland Clinic Weston Hospital Brings Advanced MediView Imaging Technology to Florida",
-      "header": "southfloridahospitalnews.com",
-      "published_at": "2026-09-24T13:05:32Z",
-      "published_raw": "Thu, 24 Sep 2026 13:05:32 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd1pvYkhFa0l6RjVaMnQzRm1UN2pmVW9QNTBUVFF4bnNHR0NyeDFTcnd6RUszOExVeU1RYlExdURNV3g4X3pIMVRFN0QzOUY1SFF3aWFZSGp3TzhVQndGU2EybFg1YVZjSFI4SEFMZlJSaEkxTC0tOXpzaWRTM085c1d6bEd1UEZDdFJ4bVk3SXFKZEhVV0NVYUhDX1pMM21lU0tLWnc3VDZMczh6TTRpY2s2NExSYjZkVHQ4dlZDU2hMRXhVekFTa0gyT0VtYy1kT3c?oc=5",
-      "description": "Cleveland Clinic Weston Hospital Brings Advanced MediView Imaging Technology to Florida southfloridahospitalnews.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd1pvYkhFa0l6RjVaMnQzRm1UN2pmVW9QNTBUVFF4bnNHR0NyeDFTcnd6RUszOExVeU1RYlExdURNV3g4X3pIMVRFN0QzOUY1SFF3aWFZSGp3TzhVQndGU2EybFg1YVZjSFI4SEFMZlJSaEkxTC0tOXpzaWRTM085c1d6bEd1UEZDdFJ4bVk3SXFKZEhVV0NVYUhDX1pMM21lU0tLWnc3VDZMczh6TTRpY2s2NExSYjZkVHQ4dlZDU2hMRXhVekFTa0gyT0VtYy1kT3c?oc=5\" target=\"_blank\">Cleveland Clinic Weston Hospital Brings Advanced MediView Imaging Technology to Florida</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">southfloridahospitalnews.com</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd1pvYkhFa0l6RjVaMnQzRm1UN2pmVW9QNTBUVFF4bnNHR0NyeDFTcnd6RUszOExVeU1RYlExdURNV3g4X3pIMVRFN0QzOUY1SFF3aWFZSGp3TzhVQndGU2EybFg1YVZjSFI4SEFMZlJSaEkxTC0tOXpzaWRTM085c1d6bEd1UEZDdFJ4bVk3SXFKZEhVV0NVYUhDX1pMM21lU0tLWnc3VDZMczh6TTRpY2s2NExSYjZkVHQ4dlZDU2hMRXhVekFTa0gyT0VtYy1kT3c?oc=5"
-      ],
-      "scraped_at": "2026-09-24T20:15:09Z",
-      "url": "https://southfloridahospitalnews.com/2026/09/24/cleveland-clinic-weston-hospital-brings-advanced-mediview-imaging-technology-to-florida/",
-      "final_url": "https://southfloridahospitalnews.com/2026/09/24/cleveland-clinic-weston-hospital-brings-advanced-mediview-imaging-technology-to-florida/",
-      "source": "southfloridahospitalnews.com",
-      "article_title": "Cleveland Clinic Weston Hospital Brings Advanced MediView Imaging Technology to Florida | Florida Hospital News and Healthcare Report",
-      "heading": "Cleveland Clinic Weston Hospital Brings Advanced MediView Imaging Technology to Florida",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Cleveland Clinic Weston Hospital Brings Advanced MediView Imaging Technology to Florida southfloridahospitalnews.com",
-      "content": "Cleveland Clinic Weston Hospital is the first medical center in Florida to offer access to MediView XR90TM surgical navigation and intelligence platform, marking an important step forward in image-guided care and minimally invasive procedures.\nThe extended reality technology allows physicians to view and combine multiple imaging modalities during procedures, helping enhance visualization, improve precision and support a more seamless experience for both patients and care teams.\n“Normally, we would do a biopsy, for example, with ultrasound guidance,” said Dr. Kevin Stadtlander, site director of the interventional radiology residency program at Cleveland Clinic Weston Hospital.\n“Extended reality allows us to take CT images that have been acquired ahead of time and use those to create a holographic 3D image of the patient’s anatomy that we can see in our headset as we’re looking at the patient and doing a procedure with ultrasound.”\nBy blending CT and ultrasound in real time, the technology gives physicians a more comprehensive view during procedures without exposing patients to radiation during the intervention itself. This ability to use more than one imaging guidance method at the same time can potentially help improve safety, accuracy and efficiency.\n“The technology is going to help us the most when we consider combining multiple imaging modalities,” Dr. Stadtlander said. “Normally, we would use one imaging modality, such as CT or ultrasound, to do a biopsy. In this case, extended reality allows us to combine two different imaging modalities, CT and ultrasound, in real time, to do a procedure such as a biopsy.”\nCleveland Clinic Weston Hospital plans to use the technology initially for biopsies, particularly in complex cases where additional imaging detail may be especially valuable. Over time, the hospital expects to explore broader applications, including treatment procedures such as thermal ablation, as the technology continues to evolve.\nFor physicians, the headset also offers ergonomic benefits by allowing them to keep their focus directly on the patient rather than turning to view monitors placed around the room. That streamlined workflow can support operator comfort while maintaining constant visual access to critical imaging information.\n“This technology allows us to do certain things in an easier fashion than we previously were able to,” Dr. Stadtlander said. “If we can see better, we can do better.”\nAs part of its commitment to innovation, Cleveland Clinic Weston Hospital will use the MediView system in both clinical care and research. The hospital also expects the technology to support future advances in physician education and collaboration, including opportunities to work closely with colleagues across the Cleveland Clinic system.\nThe first case performed with the technology at Cleveland Clinic Weston Hospital involved a patient with a small liver lesion in a difficult-to-reach area. By using CT and ultrasound simultaneously, physicians were able to better visualize the lesion and perform a biopsy with greater confidence.\nThe addition of MediView imaging systems reflects Cleveland Clinic Weston Hospital’s continued focus on bringing leading-edge tools to patients in South Florida and expanding what is possible in image-guided medicine.",
-      "content_html": "<html>\n  <body>\n    <p>Cleveland Clinic Weston Hospital is the first medical center in Florida to offer access to MediView XR90TM surgical navigation and intelligence platform, marking an important step forward in image-guided care and minimally invasive procedures.</p>\n    <p>The extended reality technology allows physicians to view and combine multiple imaging modalities during procedures, helping enhance visualization, improve precision and support a more seamless experience for both patients and care teams.</p>\n    <p>“Normally, we would do a biopsy, for example, with ultrasound guidance,” said Dr. Kevin Stadtlander, site director of the interventional radiology residency program at Cleveland Clinic Weston Hospital.</p>\n    <p>“Extended reality allows us to take CT images that have been acquired ahead of time and use those to create a holographic 3D image of the patient’s anatomy that we can see in our headset as we’re looking at the patient and doing a procedure with ultrasound.”</p>\n    <p>By blending CT and ultrasound in real time, the technology gives physicians a more comprehensive view during procedures without exposing patients to radiation during the intervention itself. This ability to use more than one imaging guidance method at the same time can potentially help improve safety, accuracy and efficiency.</p>\n    <p>“The technology is going to help us the most when we consider combining multiple imaging modalities,” Dr. Stadtlander said. “Normally, we would use one imaging modality, such as CT or ultrasound, to do a biopsy. In this case, extended reality allows us to combine two different imaging modalities, CT and ultrasound, in real time, to do a procedure such as a biopsy.”</p>\n    <p>Cleveland Clinic Weston Hospital plans to use the technology initially for biopsies, particularly in complex cases where additional imaging detail may be especially valuable. Over time, the hospital expects to explore broader applications, including treatment procedures such as thermal ablation, as the technology continues to evolve.</p>\n    <p>For physicians, the headset also offers ergonomic benefits by allowing them to keep their focus directly on the patient rather than turning to view monitors placed around the room. That streamlined workflow can support operator comfort while maintaining constant visual access to critical imaging information.</p>\n    <p>“This technology allows us to do certain things in an easier fashion than we previously were able to,” Dr. Stadtlander said. “If we can see better, we can do better.”</p>\n    <p>As part of its commitment to innovation, Cleveland Clinic Weston Hospital will use the MediView system in both clinical care and research. The hospital also expects the technology to support future advances in physician education and collaboration, including opportunities to work closely with colleagues across the Cleveland Clinic system.</p>\n    <p>The first case performed with the technology at Cleveland Clinic Weston Hospital involved a patient with a small liver lesion in a difficult-to-reach area. By using CT and ultrasound simultaneously, physicians were able to better visualize the lesion and perform a biopsy with greater confidence.</p>\n    <p>The addition of MediView imaging systems reflects Cleveland Clinic Weston Hospital’s continued focus on bringing leading-edge tools to patients in South Florida and expanding what is possible in image-guided medicine.</p>\n  </body>\n</html>",
-      "word_count": 497,
-      "char_count": 3308,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-24T20:15:09Z"
-    },
-    {
-      "id": "117f7742f91fe71e",
-      "title": "INMO International Technology Limited Recalls INMO Air3 Smart Glasses Due to Risk of Serious Injury or Death from Burn Hazard",
-      "header": "CPSC.gov",
-      "published_at": "2026-09-24T13:05:13Z",
-      "published_raw": "Thu, 24 Sep 2026 13:05:13 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcUQ2Z2F3NEdIaFAySElvWGVTSTF5SExJSnZoZjRqbldXSFJER1FHVjhVeDdlX25yRVFLWmpWd1JKTmpGMVN3Y0p5bnBkQnpCN200eTNoTmh0dVNlM01ISDBBVEZtRFJDZ2NuangydVdLSTBjWHhZZnlTWDFYQXNtVWt2TlZ2ZE9mYkkzYUVxckI4V2ZWZDUzdkloUzYwVkVpUVFMY1FQSVBJVlVsZzlHX19jVWYzWDB3Nm5ZT2dBUFNMTHFmRWVGb3R5MDI4UzRuUEtkamIxOFVFaWQ0U2tiTkZCeEwtSUNNWGdDMkRoOWc?oc=5",
-      "description": "INMO International Technology Limited Recalls INMO Air3 Smart Glasses Due to Risk of Serious Injury or Death from Burn Hazard CPSC.gov",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcUQ2Z2F3NEdIaFAySElvWGVTSTF5SExJSnZoZjRqbldXSFJER1FHVjhVeDdlX25yRVFLWmpWd1JKTmpGMVN3Y0p5bnBkQnpCN200eTNoTmh0dVNlM01ISDBBVEZtRFJDZ2NuangydVdLSTBjWHhZZnlTWDFYQXNtVWt2TlZ2ZE9mYkkzYUVxckI4V2ZWZDUzdkloUzYwVkVpUVFMY1FQSVBJVlVsZzlHX19jVWYzWDB3Nm5ZT2dBUFNMTHFmRWVGb3R5MDI4UzRuUEtkamIxOFVFaWQ0U2tiTkZCeEwtSUNNWGdDMkRoOWc?oc=5\" target=\"_blank\">INMO International Technology Limited Recalls INMO Air3 Smart Glasses Due to Risk of Serious Injury or Death from Burn Hazard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CPSC.gov</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcUQ2Z2F3NEdIaFAySElvWGVTSTF5SExJSnZoZjRqbldXSFJER1FHVjhVeDdlX25yRVFLWmpWd1JKTmpGMVN3Y0p5bnBkQnpCN200eTNoTmh0dVNlM01ISDBBVEZtRFJDZ2NuangydVdLSTBjWHhZZnlTWDFYQXNtVWt2TlZ2ZE9mYkkzYUVxckI4V2ZWZDUzdkloUzYwVkVpUVFMY1FQSVBJVlVsZzlHX19jVWYzWDB3Nm5ZT2dBUFNMTHFmRWVGb3R5MDI4UzRuUEtkamIxOFVFaWQ0U2tiTkZCeEwtSUNNWGdDMkRoOWc?oc=5"
-      ],
-      "scraped_at": "2026-09-25T09:19:52Z",
-      "url": "https://www.cpsc.gov/Recalls/2026/INMO-International-Technology-Limited-Recalls-INMO-Air3-Smart-Glasses-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard",
-      "final_url": "https://www.cpsc.gov/Recalls/2026/INMO-International-Technology-Limited-Recalls-INMO-Air3-Smart-Glasses-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard",
-      "source": "CPSC.gov",
-      "article_title": "",
-      "heading": "INMO International Technology Limited Recalls INMO Air3 Smart Glasses Due to Risk of Serious Injury or Death from Burn Hazard",
-      "authors": [],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "INMO International Technology Limited Recalls INMO Air3 Smart Glasses Due to Risk of Serious Injury or Death from Burn Hazard CPSC.gov",
-      "content": "",
-      "content_html": "",
-      "word_count": 0,
-      "char_count": 0,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "",
-      "status": "partial",
-      "error": "download_failed",
-      "first_seen_at": "2026-09-24T16:24:49Z"
-    },
-    {
-      "id": "90f772841672e6c0",
-      "title": "Innovation Connector’s 'Business Impact Masterclass' Helps Businesses Put Technology to Work",
-      "header": "Muncie Journal",
-      "published_at": "2026-09-24T11:18:33Z",
-      "published_raw": "Thu, 24 Sep 2026 11:18:33 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeEdFY1B1YU9NZnlsMERtMi1DcXlUdVlkT2ZGWmF1TnE2Z1U2NVppMkctV2toclU4ZVB1MzhfSlY4OG5ES3gtQUI4Q1pWWEtOWmlNbkZoV0kzQ1JpdWx4bWVMVEZnVjVoaW9PdmpuX0RCWnUxZ2JiTWZWM1BCZEhPODVtSnpVb2FHYkx0Q0ZRdzBRYnhXN1gtYmlVbFFPeUxMRVRGNDhoanhMS0lDT1dSTDM0ODd3a21fR1NQVzZyV0RtMjJiOXpr?oc=5",
-      "description": "Innovation Connector’s 'Business Impact Masterclass' Helps Businesses Put Technology to Work Muncie Journal",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPeEdFY1B1YU9NZnlsMERtMi1DcXlUdVlkT2ZGWmF1TnE2Z1U2NVppMkctV2toclU4ZVB1MzhfSlY4OG5ES3gtQUI4Q1pWWEtOWmlNbkZoV0kzQ1JpdWx4bWVMVEZnVjVoaW9PdmpuX0RCWnUxZ2JiTWZWM1BCZEhPODVtSnpVb2FHYkx0Q0ZRdzBRYnhXN1gtYmlVbFFPeUxMRVRGNDhoanhMS0lDT1dSTDM0ODd3a21fR1NQVzZyV0RtMjJiOXpr?oc=5\" target=\"_blank\">Innovation Connector’s 'Business Impact Masterclass' Helps Businesses Put Technology to Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Muncie Journal</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeEdFY1B1YU9NZnlsMERtMi1DcXlUdVlkT2ZGWmF1TnE2Z1U2NVppMkctV2toclU4ZVB1MzhfSlY4OG5ES3gtQUI4Q1pWWEtOWmlNbkZoV0kzQ1JpdWx4bWVMVEZnVjVoaW9PdmpuX0RCWnUxZ2JiTWZWM1BCZEhPODVtSnpVb2FHYkx0Q0ZRdzBRYnhXN1gtYmlVbFFPeUxMRVRGNDhoanhMS0lDT1dSTDM0ODd3a21fR1NQVzZyV0RtMjJiOXpr?oc=5"
-      ],
-      "scraped_at": "2026-09-24T16:24:50Z",
-      "url": "https://www.munciejournal.com/2026/09/innovation-connectors-business-impact-masterclass-helps-businesses-put-technology-to-work/",
-      "final_url": "https://www.munciejournal.com/2026/09/innovation-connectors-business-impact-masterclass-helps-businesses-put-technology-to-work/",
-      "source": "Muncie Journal",
-      "article_title": "Innovation Connector’s 'Business Impact Masterclass' Helps Businesses Put Technology to Work — Muncie Journal",
-      "heading": "Innovation Connector’s ‘Business Impact Masterclass’ Helps Businesses Put Technology to Work",
-      "authors": [
-        "Mike Rhodes"
-      ],
-      "article_published_at": "2026-09-24T11:14:28+00:00",
-      "article_modified_at": "2026-09-24T07:14:28-04:00",
-      "summary": "By Ted A. Baker, CEO, Muncie Innovation Connector— MUNCIE, IN—Technology is changing nearly every aspect of running a business. For many business owners, however, the challenge is no longer recognizing that change is happening. The challenge is determining which technologies matter, where to invest limited time and resources, and how to use new tools to achieve meaningful business results. On October 22, Technology That Grows Your Business brings together regional and statewide experts to help business owners use technology, automation, AI, and cybersecurity more effectively. The Innovation Connector is addressing those questions at its upcoming Business Impact Masterclass: Technology That...",
-      "content": "By Ted A. Baker, CEO, Muncie Innovation Connector—\nMUNCIE, IN—Technology is changing nearly every aspect of running a business. For many business owners, however, the challenge is no longer recognizing that change is happening. The challenge is determining which technologies matter, where to invest limited time and resources, and how to use new tools to achieve meaningful business results. On October 22, Technology That Grows Your Business brings together regional and statewide experts to help business owners use technology, automation, AI, and cybersecurity more effectively.\nThe Innovation Connector is addressing those questions at its upcoming Business Impact Masterclass: Technology That Grows Your Business, scheduled for Thursday, October 22, from 9:30 a.m. to 3:00 p.m. at the Innovation Connector, 1208 W. White River Blvd., Muncie. The program aims to move the technology conversation beyond buzzwords and toward practical application. Throughout the day, participants will explore emerging technology trends, artificial intelligence, cybersecurity, technology purchasing decisions, and real-world experiences from business leaders who are using these tools.\nTechnology in Business Today and Tomorrow\nThe day begins with welcome and opening remarks from Ted Baker, CEO of the Muncie Innovation Connector, followed by “Technology in Business Today and Tomorrow,” presented by John Wechsler, founder of Launch Fishers and Fishers IoT Lab, and founder and President/CEO of Spokenote in Fishers. Wechsler will explore how technology is reshaping how businesses operate, compete, and connect with their customers. The session will also look ahead, helping business owners better understand today’s key technology trends and what to consider now as they prepare their companies for what comes next.\nTechnology Tools – The Role of AI\nArtificial intelligence has quickly become one of the most talked-about technologies in business, yet many owners are still determining where it can deliver genuine value. David Colgan, founder of Colgan Technology Services, and Ryan Hunter, Technology & Education Director for the Innovation Connector, will lead a session on AI’s role in business. Participants will learn how AI can save time, increase productivity, enhance customer experiences, and support better decision-making. The session will also explore how these tools can help businesses identify and create new growth opportunities, rather than simply adopting AI as a trend.\nIT & Business Systems Security and Protection\nAs businesses grow more dependent on technology, protecting it becomes increasingly important. Sara Turner, Chief Technology Officer at First Merchants Bank, will lead a session on securing IT and business systems. Turner will focus on practical steps businesses can take to safeguard their data, systems, customers, and day-to-day operations. The discussion will address cybersecurity threats, technology failures, and other risks that can disrupt operations and undermine the value of technology investments.\nFollowing the morning sessions, participants will have an opportunity to continue conversations and build relationships during a lunch and networking period from 12:30 to 1:00 p.m.\nPeer Perspective Panel Discussion\nThe day’s final major session will bring the technology conversation down to a real-world level through a Peer Perspective Panel Discussion. Panelists include Dr. Huseyin Ergin, a Computer Science Professor at Ball State University; Remal Salim, an Independent AI Specialist; and Brian Bunner, retired from the Indiana State Police Forensics Investigation Division. The panel will share the technologies they use, lessons learned, and challenges encountered along the way. The candid discussion aims to give participants practical insights into what has worked, what has not, and what the panelists wish they had known before making technology investments.\nBuilding Your Business Technology Stack\nWith thousands of technology products competing for a business owner’s attention and budget, deciding what to buy is a challenge in itself. John McDonald, President & CEO of the Northeast Indiana Innovation Community in Fort Wayne, will present “Building Your Business Technology Stack: What Should I Buy & What Should I Skip?” Rather than treating technology as a collection of individual purchases, the session will encourage participants to think strategically about building a technology stack that fits their businesses. McDonald will emphasize selecting tools that work well together, support future growth, and avoid unnecessary costs and complexity.\nTogether, the five sessions are designed to help business owners view technology not as an isolated IT issue, but as an increasingly important part of business strategy.\nThe October program is one of four Business Impact Masterclasses powered by the Muncie Innovation Connector. Each Masterclass is a standalone program, allowing business owners to choose the topics most relevant to their needs or attend all four for a broader business-growth experience. The series addresses four areas that directly influence business performance: Marketing, Technology, Financial Intelligence, and Business Resiliency. In addition to Technology That Grows Your Business, the series includes Marketing Mastery: Marketing That Drives Growth; Financial Intelligence for Business Owners; and Growing a Resilient Business.\nThe programs also support the Innovation Connector’s broader emphasis on equipping entrepreneurs with the knowledge, resources, and connections needed to build and grow successful businesses.\nRegistration Information\nTechnology That Grows Your Business will be held Thursday, October 22, from 9:30 a.m. to 3:00 p.m. at the Innovation Connector, 1208 W. White River Blvd., Muncie. Registration is $49 per Masterclass and includes lunch, Masterclass materials, business tools and resources, take-home templates and guides, and a certificate of completion. First Merchants Bank is the title partner for the Business Impact Masterclasses.\nRegister at BusinessImpactMasterclasses.com.",
-      "content_html": "<html>\n  <body>\n    <p>By Ted A. Baker, CEO, Muncie Innovation Connector—</p>\n    <p>MUNCIE, IN—Technology is changing nearly every aspect of running a business. For many business owners, however, the challenge is no longer recognizing that change is happening. The challenge is determining which technologies matter, where to invest limited time and resources, and how to use new tools to achieve meaningful business results. On October 22, Technology That Grows Your Business brings together regional and statewide experts to help business owners use technology, automation, AI, and cybersecurity more effectively.</p>\n    <p>The Innovation Connector is addressing those questions at its upcoming Business Impact Masterclass: Technology That Grows Your Business, scheduled for Thursday, October 22, from 9:30 a.m. to 3:00 p.m. at the Innovation Connector, 1208 W. White River Blvd., Muncie. The program aims to move the technology conversation beyond buzzwords and toward practical application. Throughout the day, participants will explore emerging technology trends, artificial intelligence, cybersecurity, technology purchasing decisions, and real-world experiences from business leaders who are using these tools.</p>\n    <p>Technology in Business Today and Tomorrow</p>\n    <p>The day begins with welcome and opening remarks from Ted Baker, CEO of the Muncie Innovation Connector, followed by “Technology in Business Today and Tomorrow,” presented by John Wechsler, founder of Launch Fishers and Fishers IoT Lab, and founder and President/CEO of Spokenote in Fishers. Wechsler will explore how technology is reshaping how businesses operate, compete, and connect with their customers. The session will also look ahead, helping business owners better understand today’s key technology trends and what to consider now as they prepare their companies for what comes next.</p>\n    <p>Technology Tools – The Role of AI</p>\n    <p>Artificial intelligence has quickly become one of the most talked-about technologies in business, yet many owners are still determining where it can deliver genuine value. David Colgan, founder of Colgan Technology Services, and Ryan Hunter, Technology &amp; Education Director for the Innovation Connector, will lead a session on AI’s role in business. Participants will learn how AI can save time, increase productivity, enhance customer experiences, and support better decision-making. The session will also explore how these tools can help businesses identify and create new growth opportunities, rather than simply adopting AI as a trend.</p>\n    <p>IT &amp; Business Systems Security and Protection</p>\n    <p>As businesses grow more dependent on technology, protecting it becomes increasingly important. Sara Turner, Chief Technology Officer at First Merchants Bank, will lead a session on securing IT and business systems. Turner will focus on practical steps businesses can take to safeguard their data, systems, customers, and day-to-day operations. The discussion will address cybersecurity threats, technology failures, and other risks that can disrupt operations and undermine the value of technology investments.</p>\n    <p>Following the morning sessions, participants will have an opportunity to continue conversations and build relationships during a lunch and networking period from 12:30 to 1:00 p.m.</p>\n    <p>Peer Perspective Panel Discussion</p>\n    <p>The day’s final major session will bring the technology conversation down to a real-world level through a Peer Perspective Panel Discussion. Panelists include Dr. Huseyin Ergin, a Computer Science Professor at Ball State University; Remal Salim, an Independent AI Specialist; and Brian Bunner, retired from the Indiana State Police Forensics Investigation Division. The panel will share the technologies they use, lessons learned, and challenges encountered along the way. The candid discussion aims to give participants practical insights into what has worked, what has not, and what the panelists wish they had known before making technology investments.</p>\n    <p>Building Your Business Technology Stack</p>\n    <p>With thousands of technology products competing for a business owner’s attention and budget, deciding what to buy is a challenge in itself. John McDonald, President &amp; CEO of the Northeast Indiana Innovation Community in Fort Wayne, will present “Building Your Business Technology Stack: What Should I Buy &amp; What Should I Skip?” Rather than treating technology as a collection of individual purchases, the session will encourage participants to think strategically about building a technology stack that fits their businesses. McDonald will emphasize selecting tools that work well together, support future growth, and avoid unnecessary costs and complexity.</p>\n    <p>Together, the five sessions are designed to help business owners view technology not as an isolated IT issue, but as an increasingly important part of business strategy.</p>\n    <p>The October program is one of four Business Impact Masterclasses powered by the Muncie Innovation Connector. Each Masterclass is a standalone program, allowing business owners to choose the topics most relevant to their needs or attend all four for a broader business-growth experience. The series addresses four areas that directly influence business performance: Marketing, Technology, Financial Intelligence, and Business Resiliency. In addition to Technology That Grows Your Business, the series includes Marketing Mastery: Marketing That Drives Growth; Financial Intelligence for Business Owners; and Growing a Resilient Business.</p>\n    <p>The programs also support the Innovation Connector’s broader emphasis on equipping entrepreneurs with the knowledge, resources, and connections needed to build and grow successful businesses.</p>\n    <p>Registration Information</p>\n    <p>Technology That Grows Your Business will be held Thursday, October 22, from 9:30 a.m. to 3:00 p.m. at the Innovation Connector, 1208 W. White River Blvd., Muncie. Registration is $49 per Masterclass and includes lunch, Masterclass materials, business tools and resources, take-home templates and guides, and a certificate of completion. First Merchants Bank is the title partner for the Business Impact Masterclasses.</p>\n    <p>Register at BusinessImpactMasterclasses.com.</p>\n    <p/>\n    <p/>\n    <p/>\n  </body>\n</html>",
-      "word_count": 873,
-      "char_count": 6095,
-      "lead_image": "https://938747c0.delivery.rocketcdn.me/wp-content/uploads/2022/05/connector.jpg",
-      "images": [
-        {
-          "url": "https://938747c0.delivery.rocketcdn.me/wp-content/uploads/2022/05/connector.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://938747c0.delivery.rocketcdn.me/wp-content/uploads/2024/08/leaders.png",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://938747c0.delivery.rocketcdn.me/wp-content/uploads/2026/06/wmunbird.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 3,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-24T16:24:50Z"
-    },
-    {
-      "id": "c59484ca71fa8b7a",
-      "title": "China's new travel curbs to prevent key talent from leaving unsettles tech firms and workers",
-      "header": "dw.com",
-      "published_at": "2026-09-24T10:25:06Z",
-      "published_raw": "Thu, 24 Sep 2026 10:25:06 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUnl6Y3hCQkMyeTE5VURnbmJYT0lxZHJTZ3NGUE1PSHN6ajlxZTZlTFJLclhMSW91QTJINXA2RFc3WFZnMWc2R3dHempRTjJKX09ZeUFLVHNhYTg2bEhUS2hMbUZFZWxEbzl2blVMcXBmOVBSMUNhV0tqOTk3S285TTA0VlR2V1JJU0JobGl1WW0yUUpIZUdRaW05UHp2dnc5SW5PcHRzUQ?oc=5",
-      "description": "China's new travel curbs to prevent key talent from leaving unsettles tech firms and workers dw.com",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUnl6Y3hCQkMyeTE5VURnbmJYT0lxZHJTZ3NGUE1PSHN6ajlxZTZlTFJLclhMSW91QTJINXA2RFc3WFZnMWc2R3dHempRTjJKX09ZeUFLVHNhYTg2bEhUS2hMbUZFZWxEbzl2blVMcXBmOVBSMUNhV0tqOTk3S285TTA0VlR2V1JJU0JobGl1WW0yUUpIZUdRaW05UHp2dnc5SW5PcHRzUQ?oc=5\" target=\"_blank\">China's new travel curbs to prevent key talent from leaving unsettles tech firms and workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dw.com</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUnl6Y3hCQkMyeTE5VURnbmJYT0lxZHJTZ3NGUE1PSHN6ajlxZTZlTFJLclhMSW91QTJINXA2RFc3WFZnMWc2R3dHempRTjJKX09ZeUFLVHNhYTg2bEhUS2hMbUZFZWxEbzl2blVMcXBmOVBSMUNhV0tqOTk3S285TTA0VlR2V1JJU0JobGl1WW0yUUpIZUdRaW05UHp2dnc5SW5PcHRzUQ?oc=5"
-      ],
-      "scraped_at": "2026-09-24T11:02:12Z",
-      "url": "https://www.dw.com/en/china-technology-artificial-intelligence-expertise-capital-travel-rules/a-79319937",
-      "final_url": "https://www.dw.com/en/china-technology-artificial-intelligence-expertise-capital-travel-rules/a-79319937",
-      "source": "dw.com",
-      "article_title": "China's new travel curbs to prevent key talent from leaving unsettles tech firms and workers",
-      "heading": "China's new travel rules unsettle tech giants and talent",
-      "authors": [
-        "Nik Martin"
-      ],
-      "article_published_at": "2026-09-23T08:54:18.344Z",
-      "article_modified_at": "2026-09-24T10:23:08.226Z",
-      "summary": "Beijing is locking the gates to stop expertise and capital in strategic industries from fleeing. The country accused of industrial-scale intellectual property theft now fears the West will take its own.",
-      "content": "China's new travel rules unsettle tech giants and talent\nSeptember 23, 2026\nBeijing is locking the gates to stop expertise and capital in strategic industries from fleeing. The country accused of industrial-scale intellectual property theft now fears the West will take its own.\nFor decades, China has faced accusations from the United States and the European Union of stealing their technology.\nFrom robotics and advanced semiconductors to precision engineering and automotive parts, Chinese firms have recruited top engineers, allegedly spied on Western rivals and been linked to cyberattacks aimed at gaining access to valuable trade secrets.\nIt is perhaps ironic, then, that China is now taking steps to prevent its own high-end technologies and talent from escaping abroad.\nChina's Great Wall around its top brains\nLast week, new entry-exit rules took effect, giving Chinese authorities the power to stop engineers, founders and other specialists from leaving the country if their expertise in batteries, rare earths or artificial intelligence (AI) is judged a threat to \"industrial and technological security.\"\nRecently, China has also tightened outbound-investment rules, cracked down on Chinese nationals holding their wealth offshore and restricted the posting of technical staff overseas.\nHenry Gao, a law professor at Singapore Management University (SMU), believes that, taken together, the curbs \"offer a rare glimpse into the true state of China's economy.\"\n\"These measures suggest that Beijing is deeply concerned about economic weakness and substantial capital outflows,\" Gao told DW, adding that authorities are also determined to stop \"entrepreneurs and skilled personnel from leaving the country.\"\nThe strain on China's economy is increasingly hard to hide. While demand for exports remains strong — especially for high-tech goods — the country's property crash has severely weakened domestic consumption.\nBank lending fell to a record low over the summer, and new car sales in August dropped nearly a quarter year-on-year.\nBeijing blocks deals, founders seek exit\nThe same anxiety now extends to people and money leaving. The most prominent recent example is Manus, an AI startup created by two Chinese nationals in Beijing. Last year, the company moved its headquarters to Singapore, partly to avoid US investment curbs and expand into global markets.\nWhen Facebook owner Meta tried to acquire Manus last December for $2 billion (€1.74 billion), Beijing blocked the move and barred the firm's two founders from leaving the country.\nJust this month, Chinese social media has been awash with rumors that Huawei founder and CEO Ren Zhengfei and his daughter, CFO Meng Wanzhou, may have left the country.\nThe claims were picked up by Taiwanese and Indian media outlets. On Wednesday, however, Chinese-language media shared a photo of Ren in Shenzhen a day earlier, signing a cooperation deal with a Chinese automaker.\nWealthy Chinese struggle to get capital out\nBloomberg Intelligence estimated that some $1 trillion in Chinese wealth had exited the country last year — the largest amount of \"hot money\" leaving since 2006, when records began.\nBeijing has not tightened its annual $50,000 foreign-exchange quota that households may take out of the country. What has tightened, says Alicia Garcia-Herrero, chief economist for Asia-Pacific at French investment bank Natixis, are the unofficial routes the wealthy used around that cap.\n\"They haven't changed the $50,000 quota. They are now squeezing the people and agents that money usually travels with,\" Garcia-Herrero told DW.\nAn entire industry has grown up, in China and abroad, to help people get themselves and their capital out. Emigration agents arrange visas and relocations, while offshore brokers and trusts help Chinese nationals to park wealth overseas.\nCompanies sometimes use a foreign subsidiary, a listing or a staff posting to take money and know-how out together.\nChina's new rules may spur workarounds\nSMU's Gao believes the new curbs may prove counterproductive, as the more difficult it becomes to move capital or people abroad, the greater the incentive for those with the means to find other ways out.\n\"Over time, that could further erode confidence, accelerate capital flight and deepen the very economic problems the measures are intended to contain,\" Gao told DW.\nGarcia-Herrero, meanwhile, thinks the block on talent will matter more than the squeeze on capital.\n\"You can still move money slowly, with approvals,\" she told DW. \"You cannot easily replace a process engineer who cannot board a plane — or who will not take an overseas job because of an indefinite ban.\"\nChinese AI talent now needs permission to fly\nThe risk is already hitting China's AI firms, which are fast catching up with their US rivals in the race to produce the most advanced AI systems.\nIn May, Bloomberg reported that Chinese authorities now required top AI researchers, founders and executives at firms like Alibaba and DeepSeek to obtain approval before traveling abroad.\nLast year, some DeepSeek staff were asked to hand in their passports, according to tech news site The Information. Beijing has neither confirmed nor denied the practice.\nBloomberg reported in January last year that other tech engineers face similar pressure, including those helping foreign firms cut their reliance on China by building factories in Vietnam and India.\nLawyers and officials tighten legal advice\nFor foreign nationals, both Chinese and foreign firms sometimes disguise a working visit to China to avoid scrutiny and visa delays. They may suggest a trip is for tourism, business meetings or a factory tour rather than actual work.\nAhead of the new curbs, international law firms like DLA Piper advised companies to keep visa filings \"truthful\" and \"complete,\" warning that a mismatch between the paperwork and the actual work could now mean an entry ban of up to five years.\nThe new rules state that a visitor should, in principle, be told if they are banned. However, Chinese authorities may withhold notification if it \"may affect national security or the investigation of criminal cases.\"\nIn an updated travel advisory earlier this month, the US State Department went further, warning Americans to \"exercise increased caution in mainland China due to ... the use of exit bans without a fair and transparent process under the law, and the risk of unjust arrest or detention.\"\nEdited by: Srinivas Mazumdaru\nEditor's note: This article was first published on September 23, 2026, and was updated shortly after to reflect new reporting on the whereabouts of Huawei's founder.",
-      "content_html": "<html>\n  <body><h1>China's new travel rules unsettle tech giants and talent</h1>September 23, 2026<p>For decades, China has faced accusations from the United States and the European Union of stealing their technology.</p><p>From robotics and advanced semiconductors to precision engineering and automotive parts, Chinese firms have recruited top engineers, allegedly spied on Western rivals and been linked to cyberattacks aimed at gaining access to valuable trade secrets.</p><p>It is perhaps ironic, then, that China is now taking steps to prevent its own high-end technologies and talent from escaping abroad.</p><h2>China's Great Wall around its top brains</h2><p>Last week, new entry-exit rules took effect, giving Chinese authorities the power to stop engineers, founders and other specialists from leaving the country if their expertise in batteries, rare earths or artificial intelligence (AI) is judged a threat to \"industrial and technological security.\"</p><p>Recently, China has also tightened outbound-investment rules, cracked down on Chinese nationals holding their wealth offshore and restricted the posting of technical staff overseas.</p><p>Henry Gao, a law professor at Singapore Management University (SMU), believes that, taken together, the curbs \"offer a rare glimpse into the true state of China's economy.\"</p><p>\"These measures suggest that Beijing is deeply concerned about economic weakness and substantial capital outflows,\" Gao told DW, adding that authorities are also determined to stop \"entrepreneurs and skilled personnel from leaving the country.\"</p><p>The strain on China's economy is increasingly hard to hide. While demand for exports remains strong — especially for high-tech goods — the country's property crash has severely weakened domestic consumption.</p><p>Bank lending fell to a record low over the summer, and new car sales in August dropped nearly a quarter year-on-year.</p><h2>Beijing blocks deals, founders seek exit</h2><p>The same anxiety now extends to people and money leaving. The most prominent recent example is Manus, an AI startup created by two Chinese nationals in Beijing. Last year, the company moved its headquarters to Singapore, partly to avoid US investment curbs and expand into global markets.</p><p>When Facebook owner Meta tried to acquire Manus last December for $2 billion (€1.74 billion), Beijing blocked the move and barred the firm's two founders from leaving the country.</p><p>Just this month, Chinese social media has been awash with rumors that Huawei founder and CEO Ren Zhengfei and his daughter, CFO Meng Wanzhou, may have left the country.</p><p>The claims were picked up by Taiwanese and Indian media outlets. On Wednesday, however, Chinese-language media shared a photo of Ren in Shenzhen a day earlier, signing a cooperation deal with a Chinese automaker.</p><h2>Wealthy Chinese struggle to get capital out</h2><p>Bloomberg Intelligence estimated that some $1 trillion in Chinese wealth had exited the country last year — the largest amount of \"hot money\" leaving since 2006, when records began.</p><p>Beijing has not tightened its annual $50,000 foreign-exchange quota that households may take out of the country. What has tightened, says Alicia Garcia-Herrero, chief economist for Asia-Pacific at French investment bank Natixis, are the unofficial routes the wealthy used around that cap.</p><p>\"They haven't changed the $50,000 quota. They are now squeezing the people and agents that money usually travels with,\" Garcia-Herrero told DW.</p><p>An entire industry has grown up, in China and abroad, to help people get themselves and their capital out. Emigration agents arrange visas and relocations, while offshore brokers and trusts help Chinese nationals to park wealth overseas.</p><p>Companies sometimes use a foreign subsidiary, a listing or a staff posting to take money and know-how out together.</p><h2>China's new rules may spur workarounds</h2><p>SMU's Gao believes the new curbs may prove counterproductive, as the more difficult it becomes to move capital or people abroad, the greater the incentive for those with the means to find other ways out.</p><p>\"Over time, that could further erode confidence, accelerate capital flight and deepen the very economic problems the measures are intended to contain,\" Gao told DW.</p><p>Garcia-Herrero, meanwhile, thinks the block on talent will matter more than the squeeze on capital.</p><p>\"You can still move money slowly, with approvals,\" she told DW. \"You cannot easily replace a process engineer who cannot board a plane — or who will not take an overseas job because of an indefinite ban.\"</p><h2>Chinese AI talent now needs permission to fly</h2><p>The risk is already hitting China's AI firms, which are fast catching up with their US rivals in the race to produce the most advanced AI systems.</p><p>In May, Bloomberg reported that Chinese authorities now required top AI researchers, founders and executives at firms like Alibaba and DeepSeek to obtain approval before traveling abroad.</p><p>Last year, some DeepSeek staff were asked to hand in their passports, according to tech news site The Information. Beijing has neither confirmed nor denied the practice.</p><p>Bloomberg reported in January last year that other tech engineers face similar pressure, including those helping foreign firms cut their reliance on China by building factories in Vietnam and India.</p><h2>Lawyers and officials tighten legal advice</h2><p>For foreign nationals, both Chinese and foreign firms sometimes disguise a working visit to China to avoid scrutiny and visa delays. They may suggest a trip is for tourism, business meetings or a factory tour rather than actual work.</p><p>Ahead of the new curbs, international law firms like DLA Piper advised companies to keep visa filings \"truthful\" and \"complete,\" warning that a mismatch between the paperwork and the actual work could now mean an entry ban of up to five years.</p><p>The new rules state that a visitor should, in principle, be told if they are banned. However, Chinese authorities may withhold notification if it \"may affect national security or the investigation of criminal cases.\"</p><p>In an updated travel advisory earlier this month, the US State Department went further, warning Americans to \"exercise increased caution in mainland China due to ... the use of exit bans without a fair and transparent process under the law, and the risk of unjust arrest or detention.\"</p><p>Edited by: Srinivas Mazumdaru</p><p>Editor's note: This article was first published on September 23, 2026, and was updated shortly after to reflect new reporting on the whereabouts of Huawei's founder.</p></body>\n</html>",
-      "word_count": 1042,
-      "char_count": 6630,
-      "lead_image": "https://static.dw.com/image/79270795_6.jpg",
-      "images": [
-        {
-          "url": "https://static.dw.com/image/79270795_6.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://static.dw.com/image/79270795_804.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://static.dw.com/image/79270795_604.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://static.dw.com/image/79270795_803.webp",
-          "alt": "An inbound passenger goes through border control at Meilan International Airport in Haikou, China, on March 27, 2026",
-          "caption": "China wants its best minds to stay, while adding extra scrutiny for foreign experts Image: Wang Yu/Xinhua/picture alliance",
-          "role": "body"
-        },
-        {
-          "url": "https://static.dw.com/image/79270795_605.jpg",
-          "alt": "An inbound passenger goes through border control at Meilan International Airport in Haikou, China, on March 27, 2026",
-          "caption": "China wants its best minds to stay, while adding extra scrutiny for foreign experts Image: Wang Yu/Xinhua/picture alliance",
-          "role": "body"
-        }
-      ],
-      "image_count": 5,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-24T11:02:12Z"
-    },
-    {
-      "id": "8289647797a6cef4",
-      "title": "“Digital transformation is about much more than technology. It’s about people, processes and preparedness”",
-      "header": "Smart Water Magazine",
-      "published_at": "2026-09-24T10:08:08Z",
-      "published_raw": "Thu, 24 Sep 2026 10:08:08 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN1JMSGd4cHIxRXdQTlVTVXBpa1RjdldURnM3OUpISHJkekpYNHZ6ZlZIcTlqclhGWXEzeXhQWC1SZDVrdENILTZlWTBjNUdDamNBQ0FxcHdOWXFZZGlvcGcxR3JSSkJQNFJPYlpOVy1oRUNfSERzcTZLVzBDTjBLWkdNazh6RVV5d1hIdWMxNmE4VDdVV0Z1TGxLTWx1ZDZiek5DQW9RRXE3eFppS2dOc2wtVE5jYU9FU3o0Rk5nREpGc2VvSXItRGlXNnJvTjFwQWEtUWR0cVE3Z2lkMHIyMFN3?oc=5",
-      "description": "“Digital transformation is about much more than technology. It’s about people, processes and preparedness” Smart Water Magazine",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN1JMSGd4cHIxRXdQTlVTVXBpa1RjdldURnM3OUpISHJkekpYNHZ6ZlZIcTlqclhGWXEzeXhQWC1SZDVrdENILTZlWTBjNUdDamNBQ0FxcHdOWXFZZGlvcGcxR3JSSkJQNFJPYlpOVy1oRUNfSERzcTZLVzBDTjBLWkdNazh6RVV5d1hIdWMxNmE4VDdVV0Z1TGxLTWx1ZDZiek5DQW9RRXE3eFppS2dOc2wtVE5jYU9FU3o0Rk5nREpGc2VvSXItRGlXNnJvTjFwQWEtUWR0cVE3Z2lkMHIyMFN3?oc=5\" target=\"_blank\">“Digital transformation is about much more than technology. It’s about people, processes and preparedness”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Water Magazine</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN1JMSGd4cHIxRXdQTlVTVXBpa1RjdldURnM3OUpISHJkekpYNHZ6ZlZIcTlqclhGWXEzeXhQWC1SZDVrdENILTZlWTBjNUdDamNBQ0FxcHdOWXFZZGlvcGcxR3JSSkJQNFJPYlpOVy1oRUNfSERzcTZLVzBDTjBLWkdNazh6RVV5d1hIdWMxNmE4VDdVV0Z1TGxLTWx1ZDZiek5DQW9RRXE3eFppS2dOc2wtVE5jYU9FU3o0Rk5nREpGc2VvSXItRGlXNnJvTjFwQWEtUWR0cVE3Z2lkMHIyMFN3?oc=5"
-      ],
-      "scraped_at": "2026-09-24T11:02:14Z",
-      "url": "https://smartwatermagazine.com/news/wssc-water/digital-transformation-is-about-much-more-than-technology-its-about-people-processes-and-preparedness",
-      "final_url": "https://smartwatermagazine.com/news/wssc-water/digital-transformation-is-about-much-more-than-technology-its-about-people-processes-and-preparedness",
-      "source": "Smart Water Magazine",
-      "article_title": "“Digital transformation is about much more than technology. It’s about people, processes and preparedness”",
-      "heading": "“Digital transformation is about much more than technology. It’s about people, processes and preparedness”",
-      "authors": [],
-      "article_published_at": "2026-09-24T10:05:37",
-      "article_modified_at": null,
-      "summary": "WSSC Water CEO Kishia L. Powell discusses how smart metering, AI and a focus on people are shaping the utility’s digital transformation.",
-      "content": "Kishia L. Powell became General Manager and CEO of WSSC Water in January 2023, arriving with more than two decades of utility leadership behind her, including senior roles in Atlanta, Baltimore and Jackson, plus a stint as Chief Operating Officer at DC Water. That breadth of experience across different systems and challenges now informs her work at WSSC Water, where digital transformation is being woven into asset management, affordability and customer engagement under the utility’s Smart One Water strategy.\nTechnology must have a clear purpose: improving the experience for our customers while enhancing the safety and efficiency of our workforce\nIn this interview, Powell discusses topics such as the utility’s Advanced Metering Infrastructure pilot, its work developing AI tools for water resource recovery, an expanded water quality laboratory, and a cloud-first customer strategy, part of building a human-centred digital foundation for the years ahead.\nYou’ve led water utilities in Baltimore, Jackson, and Atlanta, served as Chief Operating Officer in Washington, D.C., and now General Manager and CEO of WSSC Water. Looking back, what experiences have most influenced your vision for building a modern, digitally enabled utility?\nIn each of these experiences, there was a common theme of needing to best equip the team to be able to make the best decisions as efficiently and accurately as possible, particularly in operations where seconds count. Some of my most important lessons have come from experiences that didn’t go exactly as planned. Whether it was the rollout of advanced metering infrastructure in Jackson or our experience at WSSC Water trying to locate a major water main break in the middle of the night, those moments reinforced for me that digital transformation is about much more than technology. It’s about people, processes and preparedness.\nExperiences that might be considered setbacks by some have taught me that technology must have a clear purpose: improving the experience for our customers while enhancing the safety and efficiency of our workforce. And we have to invest in change management and training from the beginning, not after the technology is deployed.\nWhat may have been seen as setbacks weren’t failures; they were opportunities to learn, adjust and sharpen my vision and focus on digital transformation. That perspective is shaping our work at WSSC Water as we build a strong, human-centred digital foundation that supports better decisions, more proactive operations and sustained and transformative change.\nWSSC Water’s Smart One Water strategy places digital transformation alongside asset management, affordability and customer engagement. How do you ensure technology becomes an enabler across the organisation rather than a standalone initiative?\nWe’re embedding digital transformation into how we work across the organisation rather than treating it as a separate initiative\nOur focus on Smart One Water is one that combines a focus on technology and innovation with a focus on holistic management across our value chain and strategic priorities. I asked our CIO to lay out a digital transformation roadmap for the Utility, not just IT. He presented the plan to our Senior Leadership Team last week – a plan that builds the foundation to enable transformation across the entire Commission. We’re embedding digital transformation into how we work across the organisation rather than treating it as a separate initiative to align people, processes, data and technology to solve real business challenges, improve decision-making and deliver better outcomes for our customers and employees. That integrated approach ensures our digital investments deliver sustained and transformative change across WSSC Water.\nWSSC Water recently launched its Advanced Metering Infrastructure (AMI) pilot. Beyond monthly billing and leak alerts, what operational benefits do you expect smart metering to deliver over the next decade?\nIt’s important to note that the most important benefits of our transition to AMI are the customer benefits. In addition to leak alerts to keep excess consumption in check – and transitioning to monthly billing for more affordable bills – we believe our customers can expect timely bills based on actual readings, and most importantly, transparency and elimination of billing errors. AMI will allow customers to track and better manage their water use – helping to reduce bills, save money and enhance trust. For our employees, AMI significantly reduces the need for manual meter reading, which can expose our team members to very real safety risks ranging from aggressive dogs and confrontational situations to verbal threats and even gun violence. In fact, meter reading is one of the most hazardous jobs in our organisation. Improving safety while giving employees the opportunity to advance into new positions is an important part of the value AMI delivers.\nThe operational benefits of AMI are well documented: having the ability to provide the best level of customer service with real-time, regular-interval consumption data; having more timely usage data to improve system planning; the ability to efficiently manage the distribution system; a reduction in non-revenue water loss and other operating costs.\nWSSC Water is helping develop AI tools for water resource recovery facilities. Where do you see artificial intelligence delivering the greatest operational value over the next five years?\nImproving safety while giving employees the opportunity to advance into new positions is an important part of the value AMI delivers\nAI is a game changer, with the greatest value derived from how we use it to make Team H2O and our organisation more effective. Over the next five years, I see AI helping us make better-informed decisions… faster. What we readily think about are the opportunities to predict and prevent operational issues, or optimise operations processes, including treatment. However, the potential uses of AI are vast, from developing training videos for our Supplier Diversity cohorts to assisting Human Resources tasks. AI will allow us to more effectively leverage our human resources and expand the workforce strategically. Ultimately, AI will allow us to deliver more reliable service to our customers.\nBut AI cannot operate in a vacuum. We need clear guardrails, strong data governance and, most importantly, people involved in the decisions. Our goal is not to replace our workforce – it is to give them better information and better tools to perform at a higher level. If we get that right, AI will help us deliver sustained and transformative change across the organisation.\nAs utilities become more connected, how does WSSC Water balance digital innovation with cybersecurity and protecting customer trust?\nWe balance innovation with a strong foundation of trusted data, clear governance, a strong cybersecurity posture, and responsible technology adoption. That means establishing clear guardrails and defined use cases, while giving employees the training and tools to use new technologies securely and effectively. This allows us to innovate while maintaining the trust of our customers.\nYour expanded water quality laboratory has brought PFAS testing in-house while creating opportunities to support other utilities. How can advanced laboratory technologies help utilities improve efficiency and create new value beyond regulatory compliance?\nAdvanced laboratory technology allows us to test more, test faster and make better operational decisions. Bringing capabilities like PFAS testing in-house reduces costs and can cut turnaround times from weeks to hours, while advanced tools strengthen our ability to respond quickly to emerging water quality issues and adjust treatment processes. It also creates opportunities to leverage our expanded capacity and expertise to support other utilities, extending the value of our investment beyond regulatory compliance. The ability to generate non-rate revenue by providing testing services to others will aid in maintaining affordable rates for our customers.\nCustomers increasingly expect the same digital experience from their utility as they receive from banks or retailers. How is that shaping WSSC Water’s customer strategy?\nCustomers’ expectations are being shaped by the best digital experiences they have every day – from banking and retail to healthcare and travel. The private sector has been at the leading edge of digital customer experience, and there is a lot we can learn from what they are doing well.\nFor WSSC Water, that means we can’t limit our thinking to what other water utilities are doing. We’re looking across industries and evaluating the best technology and best practices available to us. We’ve also adopted a cloud-first strategy as an important part of our digital transformation, giving us the flexibility to modernise our systems and create better, more seamless experiences for our customers.\nAI is a game changer, with the greatest value derived from how we use it to make Team H2O and our organisation more effective\nBut digital transformation isn’t about technology for technology’s sake. It’s about making it easier for customers to do business with us – whether that’s paying a bill, understanding their water use, reporting a problem or getting timely information when something happens.\nWe want the experience of interacting with WSSC Water to be as intuitive and responsive as the experiences customers have come to expect from the companies they interact with every day. And we’re going to continue looking beyond the water sector for the ideas, technologies and practices that can help us deliver that experience.\nOperation True North combines process redesign with investment in technology. How important is organisational change compared with digital tools when transforming a utility?\nTechnology is only one part of transformation. Operation True North focuses equally on strengthening processes and procedures, improving training and empowering employees to deliver the high-quality, responsive service our customers expect and deserve. When you align those organisational changes with the right technology, you create sustained and transformative change and ultimately a better experience for our customers.\nYou’ve encouraged technology companies to align with WSSC Water’s strategic priorities rather than simply offer new products. What distinguishes a valuable long-term technology partner from a technology vendor?\nOur goal is not to replace our workforce, but to give them better information and better tools to perform at a higher level every day\nThe work ahead of WSSC Water is too important – and too complex – for us to do it alone. We look for companies that bring expertise, innovation, and a genuine willingness to solve problems with us, not just deliver a product and move on.\nWhat distinguishes a valuable long-term partner from a vendor is alignment: a partner takes the time to understand our Strategic Plan, our vision and mission, and the needs of the communities we serve. That understanding shows up in the work itself – solutions that fit our operational realities, anticipate our constraints, and support our long-term goals rather than a one-size-fits-all offering.\nA vendor sells us a product; a partner helps us solve a problem in a way that reflects our values and priorities. That kind of alignment is best built through clear, transparent processes – well-defined requirements, open communication about our priorities, and consistent engagement through the full lifecycle of a project. When companies understand what we’re trying to accomplish and why, they’re positioned to deliver services that genuinely serve our customers, not just satisfy a contract.\nLooking ahead to 2030, what would success look like for WSSC Water’s digital transformation, and what do you hope other utilities will learn from your experience?\nBy 2030, success means having a strong, human-centred digital foundation that connects our people, data and systems. With an integrated Enterprise Resource Planning system and a Digital Twin, we’ll have greater visibility, stronger decision-making and the ability to manage our infrastructure more proactively. Most importantly, technology will enable our employees to perform at their best and provide excellent service to our customers. We’re imagining a world where every member of Team H2O has answers at their fingertips… moving faster, delivering exceptional service, and serving as a beacon for our sector.\nWe hope other utilities see that digital transformation isn’t about technology for technology’s sake; it’s about using technology to drive sustained and transformative change and prepare for the challenges and opportunities of the future.",
-      "content_html": "<html>\n  <body>\n    <p>Kishia L. Powell became General Manager and CEO of WSSC Water in January 2023, arriving with more than two decades of utility leadership behind her, including senior roles in Atlanta, Baltimore and Jackson, plus a stint as Chief Operating Officer at DC Water. That breadth of experience across different systems and challenges now informs her work at WSSC Water, where digital transformation is being woven into asset management, affordability and customer engagement under the utility’s Smart One Water strategy.</p>\n    <blockquote>\n      <p>Technology must have a clear purpose: improving the experience for our customers while enhancing the safety and efficiency of our workforce</p>\n    </blockquote>\n    <p>In this interview, Powell discusses topics such as the utility’s Advanced Metering Infrastructure pilot, its work developing AI tools for water resource recovery, an expanded water quality laboratory, and a cloud-first customer strategy, part of building a human-centred digital foundation for the years ahead.</p>\n    <h2>You’ve led water utilities in Baltimore, Jackson, and Atlanta, served as Chief Operating Officer in Washington, D.C., and now General Manager and CEO of WSSC Water. Looking back, what experiences have most influenced your vision for building a modern, digitally enabled utility?</h2>\n    <p>In each of these experiences, there was a common theme of needing to best equip the team to be able to make the best decisions as efficiently and accurately as possible, particularly in operations where seconds count. Some of my most important lessons have come from experiences that didn’t go exactly as planned. Whether it was the rollout of advanced metering infrastructure in Jackson or our experience at WSSC Water trying to locate a major water main break in the middle of the night, those moments reinforced for me that digital transformation is about much more than technology. It’s about people, processes and preparedness.</p>\n    <p>Experiences that might be considered setbacks by some have taught me that technology must have a clear purpose: improving the experience for our customers while enhancing the safety and efficiency of our workforce. And we have to invest in change management and training from the beginning, not after the technology is deployed.</p>\n    <p>What may have been seen as setbacks weren’t failures; they were opportunities to learn, adjust and sharpen my vision and focus on digital transformation. That perspective is shaping our work at WSSC Water as we build a strong, human-centred digital foundation that supports better decisions, more proactive operations and sustained and transformative change.</p>\n    <img src=\"https://img.smartwatermagazine.com/insecure/rs:fit:1280:0/q:75/plain/https://wp.smartwatermagazine.com/wp-content/uploads/2026/09/1stCommissionMtg.jpg\"/>\n    <h2>WSSC Water’s Smart One Water strategy places digital transformation alongside asset management, affordability and customer engagement. How do you ensure technology becomes an enabler across the organisation rather than a standalone initiative?</h2>\n    <blockquote>We’re embedding digital transformation into how we work across the organisation rather than treating it as a separate initiative</blockquote>\n    <p>Our focus on Smart One Water is one that combines a focus on technology and innovation with a focus on holistic management across our value chain and strategic priorities. I asked our CIO to lay out a digital transformation roadmap for the Utility, not just IT. He presented the plan to our Senior Leadership Team last week – a plan that builds the foundation to enable transformation across the entire Commission. We’re embedding digital transformation into how we work across the organisation rather than treating it as a separate initiative to align people, processes, data and technology to solve real business challenges, improve decision-making and deliver better outcomes for our customers and employees. That integrated approach ensures our digital investments deliver sustained and transformative change across WSSC Water.</p>\n    <h2>WSSC Water recently launched its Advanced Metering Infrastructure (AMI) pilot. Beyond monthly billing and leak alerts, what operational benefits do you expect smart metering to deliver over the next decade?</h2>\n    <p>It’s important to note that the most important benefits of our transition to AMI are the customer benefits. In addition to leak alerts to keep excess consumption in check – and transitioning to monthly billing for more affordable bills – we believe our customers can expect timely bills based on actual readings, and most importantly, transparency and elimination of billing errors. AMI will allow customers to track and better manage their water use – helping to reduce bills, save money and enhance trust. For our employees, AMI significantly reduces the need for manual meter reading, which can expose our team members to very real safety risks ranging from aggressive dogs and confrontational situations to verbal threats and even gun violence. In fact, meter reading is one of the most hazardous jobs in our organisation. Improving safety while giving employees the opportunity to advance into new positions is an important part of the value AMI delivers.</p>\n    <p>The operational benefits of AMI are well documented: having the ability to provide the best level of customer service with real-time, regular-interval consumption data; having more timely usage data to improve system planning; the ability to efficiently manage the distribution system; a reduction in non-revenue water loss and other operating costs.</p>\n    <img src=\"https://img.smartwatermagazine.com/insecure/rs:fit:1280:0/q:75/plain/https://wp.smartwatermagazine.com/wp-content/uploads/2026/09/GMKishiaPowell_DroneDay_04-1.jpg\"/>\n    <h2>WSSC Water is helping develop AI tools for water resource recovery facilities. Where do you see artificial intelligence delivering the greatest operational value over the next five years?</h2>\n    <blockquote>Improving safety while giving employees the opportunity to advance into new positions is an important part of the value AMI delivers</blockquote>\n    <p>AI is a game changer, with the greatest value derived from how we use it to make Team H2O and our organisation more effective. Over the next five years, I see AI helping us make better-informed decisions… faster. What we readily think about are the opportunities to predict and prevent operational issues, or optimise operations processes, including treatment. However, the potential uses of AI are vast, from developing training videos for our Supplier Diversity cohorts to assisting Human Resources tasks. AI will allow us to more effectively leverage our human resources and expand the workforce strategically. Ultimately, AI will allow us to deliver more reliable service to our customers.</p>\n    <p>But AI cannot operate in a vacuum. We need clear guardrails, strong data governance and, most importantly, people involved in the decisions. Our goal is not to replace our workforce – it is to give them better information and better tools to perform at a higher level. If we get that right, AI will help us deliver sustained and transformative change across the organisation.</p>\n    <h2>As utilities become more connected, how does WSSC Water balance digital innovation with cybersecurity and protecting customer trust?</h2>\n    <p>We balance innovation with a strong foundation of trusted data, clear governance, a strong cybersecurity posture, and responsible technology adoption. That means establishing clear guardrails and defined use cases, while giving employees the training and tools to use new technologies securely and effectively. This allows us to innovate while maintaining the trust of our customers.</p>\n    <h2>Your expanded water quality laboratory has brought PFAS testing in-house while creating opportunities to support other utilities. How can advanced laboratory technologies help utilities improve efficiency and create new value beyond regulatory compliance?</h2>\n    <p>Advanced laboratory technology allows us to test more, test faster and make better operational decisions. Bringing capabilities like PFAS testing in-house reduces costs and can cut turnaround times from weeks to hours, while advanced tools strengthen our ability to respond quickly to emerging water quality issues and adjust treatment processes. It also creates opportunities to leverage our expanded capacity and expertise to support other utilities, extending the value of our investment beyond regulatory compliance. The ability to generate non-rate revenue by providing testing services to others will aid in maintaining affordable rates for our customers.</p>\n    <img src=\"https://img.smartwatermagazine.com/insecure/rs:fit:1280:0/q:75/plain/https://wp.smartwatermagazine.com/wp-content/uploads/2026/09/2026-02-11-GMCEO-Kishia-l-Powell-02.jpg\"/>\n    <h2>Customers increasingly expect the same digital experience from their utility as they receive from banks or retailers. How is that shaping WSSC Water’s customer strategy?</h2>\n    <p>Customers’ expectations are being shaped by the best digital experiences they have every day – from banking and retail to healthcare and travel. The private sector has been at the leading edge of digital customer experience, and there is a lot we can learn from what they are doing well.</p>\n    <p>For WSSC Water, that means we can’t limit our thinking to what other water utilities are doing. We’re looking across industries and evaluating the best technology and best practices available to us. We’ve also adopted a cloud-first strategy as an important part of our digital transformation, giving us the flexibility to modernise our systems and create better, more seamless experiences for our customers.</p>\n    <blockquote>\n      <p>AI is a game changer, with the greatest value derived from how we use it to make Team H2O and our organisation more effective</p>\n    </blockquote>\n    <p>But digital transformation isn’t about technology for technology’s sake. It’s about making it easier for customers to do business with us – whether that’s paying a bill, understanding their water use, reporting a problem or getting timely information when something happens.</p>\n    <p>We want the experience of interacting with WSSC Water to be as intuitive and responsive as the experiences customers have come to expect from the companies they interact with every day. And we’re going to continue looking beyond the water sector for the ideas, technologies and practices that can help us deliver that experience.</p>\n    <h2>Operation True North combines process redesign with investment in technology. How important is organisational change compared with digital tools when transforming a utility?</h2>\n    <p>Technology is only one part of transformation. Operation True North focuses equally on strengthening processes and procedures, improving training and empowering employees to deliver the high-quality, responsive service our customers expect and deserve. When you align those organisational changes with the right technology, you create sustained and transformative change and ultimately a better experience for our customers.</p>\n    <h2>You’ve encouraged technology companies to align with WSSC Water’s strategic priorities rather than simply offer new products. What distinguishes a valuable long-term technology partner from a technology vendor?</h2>\n    <blockquote>Our goal is not to replace our workforce, but to give them better information and better tools to perform at a higher level every day</blockquote>\n    <p>The work ahead of WSSC Water is too important – and too complex – for us to do it alone. We look for companies that bring expertise, innovation, and a genuine willingness to solve problems with us, not just deliver a product and move on.</p>\n    <p>What distinguishes a valuable long-term partner from a vendor is alignment: a partner takes the time to understand our Strategic Plan, our vision and mission, and the needs of the communities we serve. That understanding shows up in the work itself – solutions that fit our operational realities, anticipate our constraints, and support our long-term goals rather than a one-size-fits-all offering.</p>\n    <img src=\"https://img.smartwatermagazine.com/insecure/rs:fit:1280:0/q:75/plain/https://wp.smartwatermagazine.com/wp-content/uploads/2026/09/KishiaPowellStage_a-1.jpg\"/>\n    <p>A vendor sells us a product; a partner helps us solve a problem in a way that reflects our values and priorities. That kind of alignment is best built through clear, transparent processes – well-defined requirements, open communication about our priorities, and consistent engagement through the full lifecycle of a project. When companies understand what we’re trying to accomplish and why, they’re positioned to deliver services that genuinely serve our customers, not just satisfy a contract.</p>\n    <h2>Looking ahead to 2030, what would success look like for WSSC Water’s digital transformation, and what do you hope other utilities will learn from your experience?</h2>\n    <p>By 2030, success means having a strong, human-centred digital foundation that connects our people, data and systems. With an integrated Enterprise Resource Planning system and a Digital Twin, we’ll have greater visibility, stronger decision-making and the ability to manage our infrastructure more proactively. Most importantly, technology will enable our employees to perform at their best and provide excellent service to our customers. We’re imagining a world where every member of Team H2O has answers at their fingertips… moving faster, delivering exceptional service, and serving as a beacon for our sector.</p>\n    <p>We hope other utilities see that digital transformation isn’t about technology for technology’s sake; it’s about using technology to drive sustained and transformative change and prepare for the challenges and opportunities of the future.</p>\n  </body>\n</html>",
-      "word_count": 1955,
-      "char_count": 12804,
-      "lead_image": "https://wp.smartwatermagazine.com/wp-content/uploads/2026/09/KishiaLPowell_Manhole_portada-editada-1-1.jpg",
-      "images": [
-        {
-          "url": "https://wp.smartwatermagazine.com/wp-content/uploads/2026/09/KishiaLPowell_Manhole_portada-editada-1-1.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://smartwatermagazine.com/og-default.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "lead"
-        },
-        {
-          "url": "https://img.smartwatermagazine.com/insecure/rs:fit:1280:0/q:75/plain/https://wp.smartwatermagazine.com/wp-content/uploads/2026/09/1stCommissionMtg.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://img.smartwatermagazine.com/insecure/rs:fit:1280:0/q:75/plain/https://wp.smartwatermagazine.com/wp-content/uploads/2026/09/GMKishiaPowell_DroneDay_04-1.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://img.smartwatermagazine.com/insecure/rs:fit:1280:0/q:75/plain/https://wp.smartwatermagazine.com/wp-content/uploads/2026/09/2026-02-11-GMCEO-Kishia-l-Powell-02.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        },
-        {
-          "url": "https://img.smartwatermagazine.com/insecure/rs:fit:1280:0/q:75/plain/https://wp.smartwatermagazine.com/wp-content/uploads/2026/09/KishiaPowellStage_a-1.jpg",
-          "alt": "",
-          "caption": "",
-          "role": "body"
-        }
-      ],
-      "image_count": 6,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-24T11:02:14Z"
-    },
-    {
-      "id": "870777a970595432",
-      "title": "Commissioners update IT policy, create committee to ensure responsible use of technology",
-      "header": "Butler Eagle",
-      "published_at": "2026-09-24T10:01:24Z",
-      "published_raw": "Thu, 24 Sep 2026 10:01:24 GMT",
-      "google_news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlVTN1N1RU96OFBIbFllWDhYV0NmRjJBMWg4NEpZYTRpNE5IZUNwelRIWW9ZdWx6VVl5M05sSnBhMFR0Q0hKRGQwT3F6YjlvWENUT2Vkb1FKbG5SR2wtcEprM3BUN09aZWxNbGRHSGNCNml2eDI2cnpTUzU5UERQZmppbl91ZEZadjZ3bDJFOWNMRE1SRnlDTUtHMFRmSUpNVmRwbjFyT2NEQ25qdkJjOVNULVpGM3paVTBiVjRzZENHYlk?oc=5",
-      "description": "Commissioners update IT policy, create committee to ensure responsible use of technology Butler Eagle",
-      "description_html": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlVTN1N1RU96OFBIbFllWDhYV0NmRjJBMWg4NEpZYTRpNE5IZUNwelRIWW9ZdWx6VVl5M05sSnBhMFR0Q0hKRGQwT3F6YjlvWENUT2Vkb1FKbG5SR2wtcEprM3BUN09aZWxNbGRHSGNCNml2eDI2cnpTUzU5UERQZmppbl91ZEZadjZ3bDJFOWNMRE1SRnlDTUtHMFRmSUpNVmRwbjFyT2NEQ25qdkJjOVNULVpGM3paVTBiVjRzZENHYlk?oc=5\" target=\"_blank\">Commissioners update IT policy, create committee to ensure responsible use of technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Butler Eagle</font>",
-      "description_links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlVTN1N1RU96OFBIbFllWDhYV0NmRjJBMWg4NEpZYTRpNE5IZUNwelRIWW9ZdWx6VVl5M05sSnBhMFR0Q0hKRGQwT3F6YjlvWENUT2Vkb1FKbG5SR2wtcEprM3BUN09aZWxNbGRHSGNCNml2eDI2cnpTUzU5UERQZmppbl91ZEZadjZ3bDJFOWNMRE1SRnlDTUtHMFRmSUpNVmRwbjFyT2NEQ25qdkJjOVNULVpGM3paVTBiVjRzZENHYlk?oc=5"
-      ],
-      "scraped_at": "2026-09-24T11:02:14Z",
-      "url": "https://www.butlereagle.com/20260924/commissioners-update-it-policy-create-committee-to-ensure-responsible-use-of-technology/",
-      "final_url": "https://www.butlereagle.com/20260924/commissioners-update-it-policy-create-committee-to-ensure-responsible-use-of-technology/",
-      "source": "butlereagle.com",
-      "article_title": "Commissioners update IT policy, create committee to ensure responsible use of technology",
-      "heading": "Log In",
-      "authors": [
-        "Steve Ferris"
-      ],
-      "article_published_at": null,
-      "article_modified_at": null,
-      "summary": "Butler County commissioners updated the employee information technology policy and created a committee Wednesday, Sept. 23, to improve security and ensure responsible use of artificial intelligence an...",
-      "content": "Commissioners update IT policy, create committee to ensure responsible use of technology\nButler County commissioners updated the employee information technology policy and created a committee Wednesday, Sept. 23, to improve security and ensure responsible use of artificial intelligence and other technology.\nIT policy updates include an AI use policy that prohibits releasing sensitive information and a password policy that requires employees to use passwords containing 16 characters instead of the 14 characters that had been used, said James Venturini, the county’s IT director.\nThe AI use policy is the main addition to the IT policy, he said.\n“It’s more about using it responsibly,” Venturini said.\nCounty computers contain a lot of data, and technology is constantly evolving, Venturini said. Employees must change their passwords every six months under the password policy.\nCommissioner Kevin Boozel said the County Commissioners Association of Pennsylvania recommends creating an IT committee.\nCommissioners approved the new Information Governance and Oversight Committee to ensure employees use county technology including AI, data systems and digital tools in a responsible and secure manner.\nThe committee is charged with ensuring county data is handled safely, consistently and in line with legal requirements, reviewing and approving AI tools, guiding the use of emerging technology, maintaining cybersecurity policies and planning technology incident response.\nRepresentatives from the IT, human resources, court administration, commissioners and solicitor offices will make up the committee.\nIn addition, commissioners approved a one-year extension of the contract with the Pennsylvania Department of Agriculture while it is developing permanent contracts for counties for the Federal Emergency Food Assistance Program.\nThe current contract expires Sept. 30. The contract extension expires Sept. 30, 2027.\nThe Greater Pittsburgh Community Food Bank distributes food to county residents through the program.\nCommissioners also approved three agreements for inmate healthcare and regulated and unregulated technology services for Butler County Prison.\nThe two-year healthcare contract with PrimeCare Medical will cost $259,858 per month, increases the catastrophic cap from $200,000 to $400,000 and increases the hours of mid-level providers such as a nurse practitioner from 16 to 24 hours a week. An optional one-year extension is included in the contract.\nThe catastrophic cap is the maximum the prison spends on healthcare before insurance coverage kicks in. Increasing the cap prevents overage costs and helps with budgeting, Warden Beau Sneddon said. The prison exceeded the $200,000 cap every year, he added.\nBoozel said the contract requires PrimeCare to return any unused amount of the cap.\nHaving a nurse practitioner work more hours is intended to reduce the number of after-hours hospital trips that result in overtime for deputy sheriffs, Leslie Osche, board of commissioners chairwoman, said.\nThe previous contract with PrimeCare cost $213,862 per month.\nCombined Public Communications is the contractor for the unregulated 60-month messaging and handheld device technology agreement and the regulated 60-month communications general services agreement.\nThe messaging and handheld device agreement provides the county with a 2-cent recovery fee for every minute of inmate video visits, and the county is waiving the recovery fee for phone use in exchange for investigative and monitoring services, Sneddon said.\nThe communications general services agreement covers e-messaging and entertainment, and provides the county with a $500,000 per year commission, he said.\nThe county prison board approved the contracts last week.",
-      "content_html": "<html>\n  <body>\n    <h1>Commissioners update IT policy, create committee to ensure responsible use of technology</h1>\n    <p>Butler County commissioners updated the employee information technology policy and created a committee Wednesday, Sept. 23, to improve security and ensure responsible use of artificial intelligence and other technology.</p>\n    <p>IT policy updates include an AI use policy that prohibits releasing sensitive information and a password policy that requires employees to use passwords containing 16 characters instead of the 14 characters that had been used, said James Venturini, the county’s IT director.</p>\n    <p>The AI use policy is the main addition to the IT policy, he said.</p>\n    <p>“It’s more about using it responsibly,” Venturini said.</p>\n    <p>County computers contain a lot of data, and technology is constantly evolving, Venturini said. Employees must change their passwords every six months under the password policy.</p>\n    <p>Commissioner Kevin Boozel said the County Commissioners Association of Pennsylvania recommends creating an IT committee.</p>\n    <p>Commissioners approved the new Information Governance and Oversight Committee to ensure employees use county technology including AI, data systems and digital tools in a responsible and secure manner.</p>\n    <p>The committee is charged with ensuring county data is handled safely, consistently and in line with legal requirements, reviewing and approving AI tools, guiding the use of emerging technology, maintaining cybersecurity policies and planning technology incident response.</p>\n    <p>Representatives from the IT, human resources, court administration, commissioners and solicitor offices will make up the committee.</p>\n    <p>In addition, commissioners approved a one-year extension of the contract with the Pennsylvania Department of Agriculture while it is developing permanent contracts for counties for the Federal Emergency Food Assistance Program.</p>\n    <p>The current contract expires Sept. 30. The contract extension expires Sept. 30, 2027.</p>\n    <p>The Greater Pittsburgh Community Food Bank distributes food to county residents through the program.</p>\n    <p>Commissioners also approved three agreements for inmate healthcare and regulated and unregulated technology services for Butler County Prison.</p>\n    <p>The two-year healthcare contract with PrimeCare Medical will cost $259,858 per month, increases the catastrophic cap from $200,000 to $400,000 and increases the hours of mid-level providers such as a nurse practitioner from 16 to 24 hours a week. An optional one-year extension is included in the contract.</p>\n    <p>The catastrophic cap is the maximum the prison spends on healthcare before insurance coverage kicks in. Increasing the cap prevents overage costs and helps with budgeting, Warden Beau Sneddon said. The prison exceeded the $200,000 cap every year, he added.</p>\n    <p>Boozel said the contract requires PrimeCare to return any unused amount of the cap.</p>\n    <p>Having a nurse practitioner work more hours is intended to reduce the number of after-hours hospital trips that result in overtime for deputy sheriffs, Leslie Osche, board of commissioners chairwoman, said.</p>\n    <p>The previous contract with PrimeCare cost $213,862 per month.</p>\n    <p>Combined Public Communications is the contractor for the unregulated 60-month messaging and handheld device technology agreement and the regulated 60-month communications general services agreement.</p>\n    <p>The messaging and handheld device agreement provides the county with a 2-cent recovery fee for every minute of inmate video visits, and the county is waiving the recovery fee for phone use in exchange for investigative and monitoring services, Sneddon said.</p>\n    <p>The communications general services agreement covers e-messaging and entertainment, and provides the county with a $500,000 per year commission, he said.</p>\n    <p>The county prison board approved the contracts last week.</p>\n  </body>\n</html>",
-      "word_count": 541,
-      "char_count": 3752,
-      "lead_image": null,
-      "images": [],
-      "image_count": 0,
-      "extractor": "trafilatura",
-      "status": "ok",
-      "first_seen_at": "2026-09-24T11:02:14Z"
     }
   ]
 }
